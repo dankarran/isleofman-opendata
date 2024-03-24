@@ -219,7 +219,7 @@ def process_localities(data, output_dir):
     data["Locality"] = data["Locality"].str.strip()
 
     # exclude known non-localities
-    invalid_localities_regex = '[0-9]|&| And |Abutting|Adjacent To|Adjoining| Road| Drive| Street|^nan$'
+    invalid_localities_regex = '[0-9]|&| And |Abutting|Adjacent To|Adjoining| Road| Drive| Street|^$'
     invalid_localities_rows = data["Locality"].str.contains(invalid_localities_regex)
 
     localities = data[~invalid_localities_rows]
