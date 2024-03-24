@@ -185,7 +185,7 @@ def process_towns(data, output_dir):
     data["Town"] = data["Town"].str.strip()
 
     # exclude known non-towns not fixed in corrections file
-    invalid_towns_regex = ' Road|[0-9]|Isle [oO]f Man|Part Of| And '
+    invalid_towns_regex = ' Road|[0-9]|Isle [oO]f Man|Part Of| And |^Nr '
     invalid_towns_rows = data["Town"].str.contains(invalid_towns_regex)
 
     towns = data[~invalid_towns_rows]
