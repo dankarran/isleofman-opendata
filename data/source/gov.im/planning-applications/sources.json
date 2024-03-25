@@ -215,7 +215,14 @@
       "url": "https://www.gov.im/media/1363980/dc-appeal-and-dept-decisions-open-data.csv",
       "non_standard": true,
       "header": "REFVAL,Planning Decision,PROPOSAL,ADDRESS,Appeal/Dept date Determined,Appeal/Dept Decision",
-      "skip": true
+      "header_map": {
+        "PA Ref": "REFVAL",
+        "Proposal": "PROPOSAL",
+        "Property Address": "ADDRESS",
+        "Decision": "Planning Decision",
+        "Appeal Determined": "Appeal/Dept date Determined",
+        "Appeal Decision": "Appeal/Dept Decision"
+      }
     },
     "2017": {
       "url": "https://www.gov.im/media/1360474/data-3-csv-appeal-dept-data.csv",

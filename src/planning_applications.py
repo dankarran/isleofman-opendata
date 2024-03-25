@@ -112,8 +112,14 @@ def read_files(sources, default_options, record_type, data):
 
                     year_data = year_data.rename(columns=header_map_swap)
 
-                # reorder columns
-                year_data = year_data[default_options["header_map"].keys()]
+                # strip newlines from addresses (2018)
+                if record_type == "appeals" and year in ["2018"]:
+                    print("      ", "Stripping newlines from addresses")
+                    year_data["Property Address"] = year_data["Property Address"].replace(r'\s', ' ', regex=True)
+
+                # reorder columns (skip 2018 due to missing columns)
+                if not (record_type == "appeals" and year in ["2018"]):
+                    year_data = year_data[default_options["header_map"].keys()]
 
                 # add year
                 year_data["Year"] = year
