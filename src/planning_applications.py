@@ -24,17 +24,14 @@ def planning_applications(output_dir):
         default_options = json.load(fp)
 
     data = load_planning_applications(sources, default_options)
+    data = process_planning_applications(data, output_dir)
     write_planning_applications(data, output_dir)
 
 
 def load_planning_applications(sources, default_options):
     print(" - Loading Planning Applications")
 
-    data = {
-        "planning-applications": pd.DataFrame(),
-        "delegated-decisions": pd.DataFrame(),
-        "appeals": pd.DataFrame()
-    }
+    data = {}
 
     for record_type in record_types:
 
@@ -44,6 +41,7 @@ def load_planning_applications(sources, default_options):
             update_files(sources[record_type], record_type)
 
         # load data into dataframes
+        data[record_type] = pd.DataFrame()
         data[record_type] = read_files(sources[record_type],
                                        default_options[record_type],
                                        record_type,
@@ -126,6 +124,39 @@ def read_files(sources, default_options, record_type, data):
                 print("    ", "ERROR:", error)
         else:
             print("      ", "WARNING: File missing for", record_type, "for", year)
+
+    return data
+
+
+def process_planning_applications(data, output_dir):
+    print(" - Processing Planning Applications")
+
+    data = process_addresses(data, output_dir)
+
+    return data
+
+
+def process_addresses(data, output_dir):
+    # Addresses
+    print(" - Addresses")
+
+    # extract all addresses
+    addresses_df = pd.DataFrame()
+    for record_type in record_types:
+        addresses_df = pd.concat([addresses_df, data[record_type]["Property Address"]])
+
+    # find valid postcodes
+    im_postcode_regex = '(IM[0-9]9? [0-9][A-Z]{2})'
+
+    postcodes_df = pd.DataFrame()
+    postcodes_df["Postcode"] = addresses_df["Property Address"].str.extract(im_postcode_regex, expand=True)
+    postcodes_df = postcodes_df.sort_values(by=["Postcode"])
+    postcodes_df = postcodes_df[["Postcode"]]
+    postcodes_df = postcodes_df.drop_duplicates()
+
+    print("    ", len(postcodes_df), "postcodes added")
+
+    postcodes_df.to_csv(output_dir + 'gov.im/planning-applications/addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     return data
 

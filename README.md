@@ -21,6 +21,8 @@ This project aims to take open geographic data for the Isle of Man and create ne
   * Planning applications
   * Delegated decisions
   * Appeals
+  * Addressing
+    * Postcodes
 
 ## Known issues
 
