@@ -1,0 +1,258 @@
+{
+  "planning-applications": {
+    "2022": {
+      "url": "https://www.gov.im/media/1378676/pas-determined-2022.csv"
+    },
+    "2021": {
+      "url": "https://www.gov.im/media/1376100/pas-determined-2021.csv"
+    },
+    "2020": {
+      "url": "https://www.gov.im/media/1371541/applications-determined-2020.csv"
+    },
+    "2019": {
+      "url": "https://www.gov.im/media/1367920/applications-determined-csv.csv",
+      "non_standard": true,
+      "header_skip": 1
+    },
+    "2018": {
+      "url": "https://www.gov.im/media/1363976/dc-applicant-type-ref-and-proposal-open-data.csv",
+      "non_standard": true,
+      "header": "PA Ref,Property Address,PROPOSAL,Decision,Decision issued,Determining Body"
+    },
+    "2017": {
+      "url": "https://www.gov.im/media/1360460/data-1-csv-applicant-type-ref-and-proposal.csv",
+      "non_standard": true,
+      "header_skip": 1
+    },
+    "2016": {
+      "url": "https://www.gov.im/media/1354798/pa-determined-2016.csv",
+      "non_standard": true,
+      "header_skip": 1
+    },
+    "2015": {
+      "url": "https://www.gov.im/media/1350305/pas-determined-2015.csv",
+      "non_standard": true,
+      "header": "PA Ref,ADDRESS,PROPOSAL,Decision issued,Determining Body,Decision",
+      "header_map": {
+        "PA Ref": "PA Ref",
+        "Proposal": "PROPOSAL",
+        "Decision": "Decision",
+        "Decision Issued": "Decision issued",
+        "Determining Body": "Determining Body",
+        "Property Address": "ADDRESS"
+      }
+    },
+    "2014": {
+      "url": "https://www.gov.im/media/1350296/pas-determined-2014.csv"
+    },
+    "2013": {
+      "url": "https://www.gov.im/media/1350286/pas-determined-2013.csv"
+    },
+    "2012": {
+      "url": "https://www.gov.im/media/1350277/pas-determined-2012.csv"
+    },
+    "2011": {
+      "url": "https://www.gov.im/media/1350268/pas-determined-2011.csv"
+    }
+  },
+  "delegated-decisions": {
+    "2022": {
+      "url": "https://www.gov.im/media/1378679/pas-under-delegated-2022.csv",
+      "non_standard": true,
+      "header": ",Proposal,Property Address,Decision,Date decision issued",
+      "header_map": {
+        "PA Ref": "Unnamed: 0",
+        "Proposal": "Proposal",
+        "Property Address": "Property Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2021": {
+      "url": "https://www.gov.im/media/1376120/delegated-decisions-2021.csv"
+    },
+    "2020": {
+      "url": "https://www.gov.im/media/1371545/decisions-issued-under-delegated-authority.csv"
+    },
+    "2019": {
+      "url": "https://www.gov.im/media/1367923/decisions-issued-under-delegated-authority-csv.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2018": {
+      "url": "https://www.gov.im/media/1363979/dc-decisions-issued-under-delegated-authority-open-data.csv",
+      "non_standard": true,
+      "header": "Planning Application No,Applicant,Proposal,Property Address,Decision,Date decision issued,DECTYPE",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      },
+      "columns_drop": [
+        "Applicant",
+        "DECTYPE"
+      ]
+    },
+    "2017": {
+      "url": "https://www.gov.im/media/1360463/data-2-csv-decisions-issued-under-delegated-authority.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2016": {
+      "url": "https://www.gov.im/media/1354801/decisions-issued-under-delegated-authority-2016v2.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2015": {
+      "url": "https://www.gov.im/media/1350308/delegated-authority-planning-decisions-2015.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2014": {
+      "url": "https://www.gov.im/media/1350299/decisions-issued-under-delegated-authority-2014.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2013": {
+      "url": "https://www.gov.im/media/1350289/delegated-authority-planning-decisions-2013.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2012": {
+      "url": "https://www.gov.im/media/1350280/delegated-authority-planning-decisions-2012.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    },
+    "2011": {
+      "url": "https://www.gov.im/media/1350271/delegated-authority-planning-decisions-2011.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "Proposal,Address,Decision,Date decision issued,Planning Application No",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      }
+    }
+  },
+  "appeals": {
+    "2022": {
+      "url": "https://www.gov.im/media/1378682/appeal-data-2022.csv"
+    },
+    "2021": {
+      "url": "https://www.gov.im/media/1376112/appeals-data.csv"
+    },
+    "2020": {
+      "url": "https://www.gov.im/media/1371551/appeal-decision.csv"
+    },
+    "2019": {
+      "url": "https://www.gov.im/media/1367926/appeal-decision-csv.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2018": {
+      "url": "https://www.gov.im/media/1363980/dc-appeal-and-dept-decisions-open-data.csv",
+      "non_standard": true,
+      "header": "REFVAL,Planning Decision,PROPOSAL,ADDRESS,Appeal/Dept date Determined,Appeal/Dept Decision",
+      "skip": true
+    },
+    "2017": {
+      "url": "https://www.gov.im/media/1360474/data-3-csv-appeal-dept-data.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2016": {
+      "url": "https://www.gov.im/media/1354804/appeal-dept-data-2016.csv",
+      "non_standard": true,
+      "header_skip": 1,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2015": {
+      "url": "https://www.gov.im/media/1350311/planning-appeals-2015.csv",
+      "non_standard": true,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2014": {
+      "url": "https://www.gov.im/media/1350302/planning-appeal-2014.csv",
+      "non_standard": true,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2013": {
+      "url": "https://www.gov.im/media/1350292/planning-appeal-2013.csv",
+      "non_standard": true,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2012": {
+      "url": "https://www.gov.im/media/1350283/planning-appeals-2012.csv",
+      "non_standard": true,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    },
+    "2011": {
+      "url": "https://www.gov.im/media/1350274/planning-appeals-2011-v2.csv",
+      "non_standard": true,
+      "header": "PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,PA Ref,Property Address,Appeal decision"
+    }
+  }
+}

@@ -17,6 +17,10 @@ This project aims to take open geographic data for the Isle of Man and create ne
     * Streets
     * Postcodes
   * Issues noted during processing (with hash of transaction)
+* Planning applications
+  * Planning applications
+  * Delegated decisions
+  * Appeals
 
 ## Known issues
 
@@ -29,7 +33,7 @@ This project aims to take open geographic data for the Isle of Man and create ne
 
 ## Fixing issues
 
-1. Copy row from `data/outputs/gov.im/land-transactions/issue-rows.csv` and paste into `data/source/gov.im/land-transactions/corrections/rows.csv` then update any fields necessary.
+To fix issues in land transactions, copy row from `data/outputs/gov.im/land-transactions/issue-rows.csv` and paste into `data/source/gov.im/land-transactions/corrections/rows.csv` then update any fields necessary.
 
 ## Other resources
 
