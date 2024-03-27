@@ -1,8 +1,4 @@
-import os
-import requests
 import json
-import csv
-import pandas as pd
 import overpass
 
 
@@ -12,7 +8,6 @@ OpenStreetMap data processing
 """
 
 source_dir = "data/source/openstreetmap/"
-bbox = "54,-5,54.5,-4"
 
 
 def openstreetmap(output_dir):
@@ -22,7 +17,6 @@ def openstreetmap(output_dir):
         sources = json.load(fp)
 
     data = load_data(sources)
-    write_data(data, output_dir)
 
 
 def load_data(sources):
@@ -30,7 +24,7 @@ def load_data(sources):
 
     data = {}
 
-    update_text = input("Download updated data? (y/N) ")
+    update_text = input("Download updated OpenStreetMap data? (y/N) ")
     if update_text == "y":
         update_files(sources)
 
@@ -41,8 +35,9 @@ def update_files(sources):
     for source in sources["overpass"]:
 
         try:
-            print("    ", "Downloading", source["label"])
-            data = get_overpass(source["query"], responseformat=source["response_format"])
+            print("    ", "Downloading", source["label"], "in", source["response_format"], "format")
+            # TODO: specify responseformat if needed, debug why it breaks output
+            data = get_overpass(source["query"])
             open(source_dir + source["label"] + '.geojson', 'w').write(json.dumps(data))
 
         except Exception as error:
@@ -58,8 +53,3 @@ def get_overpass(query, responseformat="geojson", verbosity="geom"):
     )
 
     return result
-
-
-def write_data(data, output_dir):
-    for key in data["geojson"]:
-        open(source_dir + key + '.geojson', 'w').write(json.dumps(data[key]))
