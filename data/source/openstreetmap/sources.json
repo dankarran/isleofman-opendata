@@ -34,6 +34,11 @@
       "label": "manx-names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"]
+    },
+    {
+      "label": "food-and-drink",
+      "query": "nw['amenity'='pub'](54,-5,54.5,-4);nw['amenity'='bar'](54,-5,54.5,-4);nw['amenity'='cafe'](54,-5,54.5,-4);nw['amenity'='restaurant'](54,-5,54.5,-4);nw['amenity'='fast_food'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"]
     }
   ]
 }
