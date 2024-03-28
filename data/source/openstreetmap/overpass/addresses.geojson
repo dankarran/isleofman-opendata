@@ -1176,6 +1176,27 @@
     },
     {
       "type": "Feature",
+      "id": 505824249,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471626,
+          54.162918
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NA",
+        "addr:street": "Central Promenade",
+        "amenity": "casino",
+        "name": "Palace Casino",
+        "phone": "+44 1624 662662",
+        "website": "https://palacehotel.co.im/casino/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 505873456,
       "geometry": {
         "type": "Point",
@@ -1520,6 +1541,27 @@
         "cuisine": "fish_and_chips",
         "name": "Terrace Chippy Diner",
         "website": "https://terracechippy.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 685502583,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.472222,
+          54.162205
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NA",
+        "addr:street": "Central Promenade",
+        "leisure": "sports_centre",
+        "name": "Palace Health Club",
+        "phone": "+44 1624 682741",
+        "website": "https://palacehotel.co.im/spa/"
       }
     },
     {
@@ -7167,6 +7209,28 @@
     },
     {
       "type": "Feature",
+      "id": 11769042155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471248,
+          54.162748
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NA",
+        "addr:street": "Central Promenade",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "fixme": "check location",
+        "name": "Majestic",
+        "website": "https://palacehotel.co.im/majestic/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -9661,6 +9725,109 @@
         "shop": "supermarket",
         "website": "https://www.tesco.com/store-locator/douglas/little-switzerland",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59284246,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.472157,
+            54.162108
+          ],
+          [
+            -4.471308,
+            54.162625
+          ],
+          [
+            -4.47128,
+            54.162609
+          ],
+          [
+            -4.470933,
+            54.162815
+          ],
+          [
+            -4.471153,
+            54.162937
+          ],
+          [
+            -4.47122,
+            54.162896
+          ],
+          [
+            -4.471338,
+            54.162962
+          ],
+          [
+            -4.471284,
+            54.162995
+          ],
+          [
+            -4.471606,
+            54.16316
+          ],
+          [
+            -4.472002,
+            54.162983
+          ],
+          [
+            -4.471971,
+            54.162954
+          ],
+          [
+            -4.471874,
+            54.162899
+          ],
+          [
+            -4.471941,
+            54.162858
+          ],
+          [
+            -4.471751,
+            54.162751
+          ],
+          [
+            -4.472174,
+            54.162494
+          ],
+          [
+            -4.472085,
+            54.162444
+          ],
+          [
+            -4.472435,
+            54.16223
+          ],
+          [
+            -4.47223,
+            54.162115
+          ],
+          [
+            -4.472193,
+            54.162104
+          ],
+          [
+            -4.472157,
+            54.162108
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NA",
+        "addr:street": "Central Promenade",
+        "brand": "Best Western",
+        "brand:wikidata": "Q830334",
+        "building": "yes",
+        "name": "Palace Hotel & Casino",
+        "phone": "+44 1624 662662",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "hotel",
+        "website": "https://www.palacehotelcasino.co.im/"
       }
     },
     {

@@ -1164,27 +1164,10 @@
       "properties": {
         "amenity": "restaurant",
         "name": "Paragon",
-        "phone": "01624 662662",
+        "phone": "+44 1624 662662",
         "toilets:wheelchair": "yes",
-        "website": "https://www.palacehotelcasino.co.im/facilities/paragon.html",
+        "website": "https://palacehotel.co.im/paragon-restaurant/",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1207122005,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.471725,
-          54.162955
-        ]
-      },
-      "properties": {
-        "amenity": "restaurant",
-        "name": "Atlantis",
-        "phone": "01624 662662",
-        "website": "https://www.palacehotelcasino.co.im/facilities/atlantis.html"
       }
     },
     {
@@ -2500,6 +2483,28 @@
         "name": "Mojo's Fish and Chip Shop",
         "opening_hours": "Su-Th 16:30-21:00, Fr-Sa 16:30-22:00",
         "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11769042155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471248,
+          54.162748
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NA",
+        "addr:street": "Central Promenade",
+        "amenity": "restaurant",
+        "cuisine": "chinese",
+        "fixme": "check location",
+        "name": "Majestic",
+        "website": "https://palacehotel.co.im/majestic/"
       }
     },
     {
