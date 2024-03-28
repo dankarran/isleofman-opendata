@@ -35,20 +35,24 @@ def update_files(sources):
     for source in sources["overpass"]:
 
         try:
-            print("    ", "Downloading", source["label"], "in", source["response_format"], "format")
-            # TODO: specify responseformat if needed, debug why it breaks output
-            data = get_overpass(source["query"])
+            # TODO: debug why getting response_format from sources list breaks output
+            response_format = "geojson"
+            if "response_format" in source:
+                response_format = source["response_format"]
+            print("    ", "Downloading", source["label"], "in", response_format, "format")
+            data = get_overpass(source["query"], response_format=response_format)
             open(source_dir + source["label"] + '.geojson', 'w').write(json.dumps(data))
 
         except Exception as error:
             print("    ", "ERROR:", error)
 
 
-def get_overpass(query, responseformat="geojson", verbosity="geom"):
+def get_overpass(query, response_format="geojson", verbosity="geom"):
+    print("    ", "Querying Overpass API for", query, "in", response_format, "format with verbosity", verbosity)
     api = overpass.API()
     result = api.get(
         query,
-        responseformat=responseformat,
+        responseformat=response_format,
         verbosity=verbosity
     )
 

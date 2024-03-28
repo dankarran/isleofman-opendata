@@ -36,7 +36,16 @@ This project aims to take open geographic data for the Isle of Man and create ne
 
 ## Fixing issues
 
-To fix issues in land transactions, copy row from `data/outputs/gov.im/land-transactions/issue-rows.csv` and paste into `data/source/gov.im/land-transactions/corrections/rows.csv` then update any fields necessary.
+To fix issues in land transactions, copy row from `data/outputs/gov.im/land-transactions/issue-rows.csv` and paste 
+into `data/source/gov.im/land-transactions/corrections/rows.csv` then update any fields necessary.
+
+## Updating data
+
+To update the data, run `python update.py` and enter `y` for each dataset you'd like to re-download from the original 
+source.
+
+For Isle of Man Government data, you will need to update the URL if there are new files available. This can be updated 
+in the relevant `sources.json` file. 
 
 ## Other resources
 

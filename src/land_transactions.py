@@ -2,6 +2,7 @@ import os
 import requests
 import pandas as pd
 import csv
+import json
 from src.hashing import add_md5_hash_column
 
 
@@ -10,7 +11,6 @@ Land Transactions data processing
 
 """
 
-source_url = 'https://www.gov.im/media/1382502/landtransactionsfeb2024.csv'
 source_dir = 'data/source/gov.im/land-transactions/'
 source_file = 'land-transactions.csv'
 
@@ -21,6 +21,20 @@ issue_rows = []
 def land_transactions(output_dir):
     print("# Land Transactions - Isle of Man Government")
 
+    with open(source_dir + "sources.json") as fp:
+        sources = json.load(fp)
+
+    data = load_data(sources)
+    data = process_data(data, output_dir)
+    write_data(data, output_dir)
+
+    write_issues(output_dir)
+
+
+def load_data(sources):
+    print(" - Loading Land Transactions")
+
+    # retrieve file and save local copy in source directory
     update = True
     if os.path.isfile(source_dir + source_file):
         update_text = input("Download updated land transactions file? (y/N) ")
@@ -29,19 +43,8 @@ def land_transactions(output_dir):
         else:
             update = False
 
-    data = load_land_transactions(update)
-    data = process_land_transactions(data, output_dir)
-    write_land_transactions(data, output_dir)
-
-    write_issues(output_dir)
-
-
-def load_land_transactions(update):
-    print(" - Loading Land Transactions")
-
-    # retrieve file and save local copy in source directory
     if update:
-        r = requests.get(source_url, allow_redirects=True)
+        r = requests.get(sources["url"], allow_redirects=True)
         open(source_dir + source_file, 'wb').write(r.content)
         print("    ", "Land Transactions retrieved and saved to source directory")
 
@@ -53,7 +56,7 @@ def load_land_transactions(update):
     return data
 
 
-def process_land_transactions(data, output_dir):
+def process_data(data, output_dir):
     print(" - Processing Land Transactions")
 
     data = add_hash(data)
@@ -68,7 +71,7 @@ def process_land_transactions(data, output_dir):
     return data
 
 
-def write_land_transactions(data, output_dir):
+def write_data(data, output_dir):
     print(" - Writing Land Transactions")
 
     data.to_csv(output_dir + 'gov.im/land-transactions/land-transactions.csv', index=False, quoting=csv.QUOTE_ALL)

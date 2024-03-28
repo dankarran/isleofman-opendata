@@ -3,37 +3,31 @@
     {
       "label": "named-highways",
       "query": "way['highway']['name'](54,-5,54.5,-4);",
-      "response_format": "geojson",
       "output_formats": ["geojson", "csv"]
     },
     {
       "label": "addresses",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
-      "response_format": "geojson",
       "output_formats": ["geojson", "csv"]
     },
     {
       "label": "postboxes",
       "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
-      "response_format": "geojson",
       "output_formats": ["geojson", "csv"]
     },
     {
       "label": "bus-stops",
       "query": "node['highway'='bus_stop'](54,-5,54.5,-4);",
-      "response_format": "geojson",
       "output_formats": ["geojson", "csv"]
     },
     {
       "label": "tourism",
       "query": "nw['tourism'](54,-5,54.5,-4);",
-      "response_format": "geojson",
       "output_formats": ["geojson", "csv"]
     },
     {
       "label": "registered-buildings",
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
-      "response_format": "geojson",
       "output_formats": ["geojson", "csv"]
     }
   ]

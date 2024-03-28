@@ -1,8 +1,8 @@
-import json
 import os
 import requests
 import pandas as pd
 import csv
+import json
 
 
 """
@@ -23,12 +23,12 @@ def planning_applications(output_dir):
     with open(source_dir + "defaults.json") as fp:
         default_options = json.load(fp)
 
-    data = load_planning_applications(sources, default_options)
-    data = process_planning_applications(data, output_dir)
-    write_planning_applications(data, output_dir)
+    data = load_data(sources, default_options)
+    data = process_data(data, output_dir)
+    write_data(data, output_dir)
 
 
-def load_planning_applications(sources, default_options):
+def load_data(sources, default_options):
     print(" - Loading Planning Applications")
 
     data = {}
@@ -134,7 +134,7 @@ def read_files(sources, default_options, record_type, data):
     return data
 
 
-def process_planning_applications(data, output_dir):
+def process_data(data, output_dir):
     print(" - Processing Planning Applications")
 
     data = process_addresses(data, output_dir)
@@ -167,7 +167,7 @@ def process_addresses(data, output_dir):
     return data
 
 
-def write_planning_applications(data, output_dir):
+def write_data(data, output_dir):
     print(" - Writing Planning Applications")
 
     for record_type in record_types:
