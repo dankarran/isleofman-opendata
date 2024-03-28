@@ -41,7 +41,7 @@ def update_files(sources):
                 response_format = source["response_format"]
             print("    ", "Downloading", source["label"], "in", response_format, "format")
             data = get_overpass(source["query"], response_format=response_format)
-            open(source_dir + source["label"] + '.geojson', 'w').write(json.dumps(data))
+            open(source_dir + "overpass/" + source["label"] + ".geojson", "w").write(json.dumps(data))
 
         except Exception as error:
             print("    ", "ERROR:", error)
