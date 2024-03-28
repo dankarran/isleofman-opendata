@@ -29,6 +29,11 @@
       "label": "registered-buildings",
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"]
+    },
+    {
+      "label": "manx-names",
+      "query": "nw['name:gv'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"]
     }
   ]
 }
