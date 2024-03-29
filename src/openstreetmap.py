@@ -1,6 +1,8 @@
-import json
+import os
+import pandas as pd
 import overpass
-
+import csv
+import json
 
 """
 OpenStreetMap data processing
@@ -17,16 +19,31 @@ def openstreetmap(output_dir):
         sources = json.load(fp)
 
     data = load_data(sources)
+    data = process_data(sources, data, output_dir)
+    write_data(sources, data, output_dir)
 
 
 def load_data(sources):
     print(" - Loading data")
 
-    data = {}
+    data = {
+        "overpass": {}
+    }
 
     update_text = input("Download updated OpenStreetMap data? (y/N) ")
     if update_text == "y":
         update_files(sources)
+
+    for source in sources["overpass"]:
+        filepath = source_dir + "overpass/" + source["label"] + ".geojson"
+        if os.path.isfile(filepath):
+            with open(filepath) as fp:
+                data["overpass"][source["label"]] = {
+                    "geojson": json.load(fp)
+                }
+
+        else:
+            print("    ", "WARN:", source["label"], "GeoJSON not found")
 
     return data
 
@@ -57,3 +74,69 @@ def get_overpass(query, response_format="geojson", verbosity="geom"):
     )
 
     return result
+
+
+def process_data(sources, data, output_dir):
+    print(" - Processing OpenStreetMap data")
+
+    for source in sources["overpass"]:
+        if source["label"] in data["overpass"]:
+            print("    ", "Processing", source["label"])
+
+            rows = []
+            features = data["overpass"][source["label"]]["geojson"]["features"]
+            for feature in features:
+
+                row = feature["properties"]
+                row["id"] = feature["id"]
+
+                if feature["geometry"]["type"] == "Point":
+                    row["lon"] = feature["geometry"]["coordinates"][0]
+                    row["lat"] = feature["geometry"]["coordinates"][1]
+                else:
+                    row["lon"] = None
+                    row["lat"] = None
+                # TODO: other geometry types
+
+                rows.append(row)
+
+            data["overpass"][source["label"]]["df"] = pd.DataFrame(rows)
+
+    return data
+
+
+def write_data(sources, data, output_dir):
+    print(" - Writing OpenStreetMap data")
+
+    for source in sources["overpass"]:
+        if source["label"] in data["overpass"]:
+            print("    ", "Writing", source["label"])
+            filepath_base = output_dir + "openstreetmap/" + source["label"] + "/"
+
+            if not os.path.isdir(filepath_base):
+                os.mkdir(filepath_base)
+
+            if "geojson" in source["output_formats"]:
+                filepath = filepath_base + source["label"] + ".geojson"
+
+                geojson = data["overpass"][source["label"]]["geojson"]
+                open(filepath, "w").write(json.dumps(geojson, indent=2))
+
+            if "csv" in source["output_formats"]:
+                filepath = filepath_base + source["label"] + ".csv"
+
+                df = data["overpass"][source["label"]]["df"]
+                df_out = df
+                if "csv_columns" in source:
+                    csv_columns = ["id", "lat", "lon"]
+                    csv_columns.extend(source["csv_columns"].copy())
+
+                    for csv_column in source["csv_columns"]:
+                        if csv_column not in df.columns:
+                            print("      ", "Removing", csv_column, "not in dataset")
+                            csv_columns.remove(csv_column)
+
+                    print("      ", "Writing columns", csv_columns)
+                    df_out = df[csv_columns]
+
+                df_out.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)

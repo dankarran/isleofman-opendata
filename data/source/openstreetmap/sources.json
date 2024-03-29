@@ -3,47 +3,56 @@
     {
       "label": "addresses",
       "query": "nw['addr:housenumber'](54,-5,54.5,-4);nw['addr:housename'](54,-5,54.5,-4);nw['addr:street'](54,-5,54.5,-4);nw['addr:postcode'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"]
     },
     {
       "label": "bus-stops",
       "query": "node['highway'='bus_stop'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "ref"]
     },
     {
       "label": "food-and-drink",
       "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
     },
     {
       "label": "manx-names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "highway", "place", "natural"]
     },
     {
       "label": "named-highways",
       "query": "way['highway']['name'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "ref", "highway"]
     },
     {
       "label": "postboxes",
       "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "ref"]
     },
     {
       "label": "postcodes",
-      "query": "nw['addr:postcode'](54,-5,54.5,-4);nw['postal_code'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "query": "nw['addr:postcode'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "x-csv_columns": ["addr:postcode", "postal_code"]
     },
     {
       "label": "registered-buildings",
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building"]
     },
     {
       "label": "tourism",
       "query": "nw['tourism'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "tourism", "website", "phone"]
     }
   ]
 }
