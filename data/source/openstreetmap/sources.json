@@ -40,7 +40,7 @@
       "label": "postcodes",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["addr:postcode"]
+      "csv_columns": ["addr:postcode", "source:addr:postcode"]
     },
     {
       "label": "registered-buildings",

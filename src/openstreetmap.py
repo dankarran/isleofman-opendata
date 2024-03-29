@@ -88,15 +88,28 @@ def process_data(sources, data, output_dir):
             for feature in features:
 
                 row = feature["properties"]
-                row["id"] = feature["id"]
+                row["osm_id"] = feature["id"]
 
                 if feature["geometry"]["type"] == "Point":
                     row["lon"] = feature["geometry"]["coordinates"][0]
                     row["lat"] = feature["geometry"]["coordinates"][1]
+                    row["osm_type"] = "node"
+                elif feature["geometry"]["type"] == "LineString":
+                    # TODO: maybe add wkt instead?
+                    row["lon"] = None
+                    row["lat"] = None
+                    row["osm_type"] = "way"
+                elif feature["geometry"]["type"] == "Polygon":
+                    # TODO: maybe add wkt, and calculate centroid?
+                    row["lon"] = None
+                    row["lat"] = None
+                    row["osm_type"] = "way"
                 else:
                     row["lon"] = None
                     row["lat"] = None
-                # TODO: other geometry types
+                    row["osm_type"] = None
+
+                row["osm_url"] = "https://osm.org/" + row["osm_type"] + "/" + str(row["osm_id"])
 
                 rows.append(row)
 
@@ -128,7 +141,7 @@ def write_data(sources, data, output_dir):
                 df = data["overpass"][source["label"]]["df"]
                 df_out = df
                 if "csv_columns" in source:
-                    csv_columns = ["id", "lat", "lon"]
+                    csv_columns = ["osm_id", "osm_type", "osm_url", "lat", "lon"]
                     csv_columns.extend(source["csv_columns"].copy())
 
                     for csv_column in source["csv_columns"]:
