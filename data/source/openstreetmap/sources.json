@@ -22,7 +22,7 @@
       "label": "manx-names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "highway", "place", "natural"]
+      "csv_columns": ["name", "name:en", "name:gv", "highway", "railway", "place", "natural"]
     },
     {
       "label": "named-highways",
@@ -40,7 +40,7 @@
       "label": "postcodes",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "x-csv_columns": ["addr:postcode", "postal_code"]
+      "csv_columns": ["addr:postcode"]
     },
     {
       "label": "registered-buildings",
