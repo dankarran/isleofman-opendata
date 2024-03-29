@@ -1530,7 +1530,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Newtown Chapel",
         "public_transport": "platform",
+        "ref": "309",
         "shelter": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
@@ -1541,8 +1543,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.556764,
-          54.137334
+          -4.556946,
+          54.137267
         ]
       },
       "properties": {
@@ -1560,8 +1562,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.556465,
-          54.13754
+          -4.55621,
+          54.137634
         ]
       },
       "properties": {
@@ -1969,8 +1971,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.51802,
-          54.148139
+          -4.517819,
+          54.148282
         ]
       },
       "properties": {
@@ -2915,7 +2917,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Colby Bridge Shelter",
+        "name": "Colby Bridge, shelter",
         "public_transport": "platform",
         "ref": "10704",
         "shelter": "yes"
@@ -4694,31 +4696,12 @@
     },
     {
       "type": "Feature",
-      "id": 9180304129,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.565558,
-          54.13155
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Newtown Chapel",
-        "public_transport": "platform",
-        "ref": "309",
-        "source": "Isle of Man Government aerial imagery (2001)"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 9180304130,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.566145,
-          54.131165
+          -4.566129,
+          54.131186
         ]
       },
       "properties": {
@@ -4736,8 +4719,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.579543,
-          54.121225
+          -4.57939,
+          54.121269
         ]
       },
       "properties": {
@@ -4746,6 +4729,7 @@
         "name": "Santon School Layby",
         "public_transport": "platform",
         "ref": "311",
+        "shelter": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -8779,8 +8763,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484009,
-          54.174343
+          -4.484254,
+          54.174153
         ]
       },
       "properties": {
@@ -8797,8 +8781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.483367,
-          54.174611
+          -4.483389,
+          54.174609
         ]
       },
       "properties": {
@@ -13161,8 +13145,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474639,
-          54.177592
+          -4.474409,
+          54.177536
         ]
       },
       "properties": {
@@ -15598,8 +15582,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.468827,
-          54.179159
+          -4.469067,
+          54.179248
         ]
       },
       "properties": {
@@ -15616,8 +15600,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.468261,
-          54.179072
+          -4.467053,
+          54.178769
         ]
       },
       "properties": {
