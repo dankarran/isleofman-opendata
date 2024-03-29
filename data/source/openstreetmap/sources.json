@@ -1,18 +1,8 @@
 {
   "overpass": [
     {
-      "label": "named-highways",
-      "query": "way['highway']['name'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
-    },
-    {
       "label": "addresses",
-      "query": "nw['addr:postcode'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
-    },
-    {
-      "label": "postboxes",
-      "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
+      "query": "nw['addr:housenumber'](54,-5,54.5,-4);nw['addr:housename'](54,-5,54.5,-4);nw['addr:street'](54,-5,54.5,-4);nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"]
     },
     {
@@ -21,13 +11,8 @@
       "output_formats": ["geojson", "csv"]
     },
     {
-      "label": "tourism",
-      "query": "nw['tourism'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"]
-    },
-    {
-      "label": "registered-buildings",
-      "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
+      "label": "food-and-drink",
+      "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"]
     },
     {
@@ -36,8 +21,28 @@
       "output_formats": ["geojson", "csv"]
     },
     {
-      "label": "food-and-drink",
-      "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
+      "label": "named-highways",
+      "query": "way['highway']['name'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"]
+    },
+    {
+      "label": "postboxes",
+      "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"]
+    },
+    {
+      "label": "postcodes",
+      "query": "nw['addr:postcode'](54,-5,54.5,-4);nw['postal_code'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"]
+    },
+    {
+      "label": "registered-buildings",
+      "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"]
+    },
+    {
+      "label": "tourism",
+      "query": "nw['tourism'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"]
     }
   ]
