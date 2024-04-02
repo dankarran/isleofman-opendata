@@ -7,6 +7,12 @@
       "csv_columns": ["addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"]
     },
     {
+      "label": "archaeological-sites",
+      "query": "node['historic'='archaeological_site'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "archaeological_site", "ref:GB:imher", "url:imher", "source"]
+    },
+    {
       "label": "bus-stops",
       "query": "node['highway'='bus_stop'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
