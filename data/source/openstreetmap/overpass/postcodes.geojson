@@ -43355,6 +43355,59 @@
     },
     {
       "type": "Feature",
+      "id": 101812236,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739033,
+            54.077111
+          ],
+          [
+            -4.738957,
+            54.077057
+          ],
+          [
+            -4.739073,
+            54.077003
+          ],
+          [
+            -4.739274,
+            54.076907
+          ],
+          [
+            -4.73932,
+            54.076941
+          ],
+          [
+            -4.739179,
+            54.077008
+          ],
+          [
+            -4.739208,
+            54.077028
+          ],
+          [
+            -4.739033,
+            54.077111
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Manchester House",
+        "addr:postcode": "IM9 5AG",
+        "addr:street": "Bay View Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101812242,
       "geometry": {
         "type": "LineString",
@@ -43404,6 +43457,183 @@
     },
     {
       "type": "Feature",
+      "id": 101812255,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739104,
+            54.077163
+          ],
+          [
+            -4.739033,
+            54.077111
+          ],
+          [
+            -4.739208,
+            54.077028
+          ],
+          [
+            -4.739265,
+            54.077002
+          ],
+          [
+            -4.739312,
+            54.077036
+          ],
+          [
+            -4.739224,
+            54.077077
+          ],
+          [
+            -4.739248,
+            54.077095
+          ],
+          [
+            -4.739104,
+            54.077163
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Kenilworth",
+        "addr:postcode": "IM9 5AG",
+        "addr:street": "Bay View Road",
+        "building": "yes",
+        "name": "Torden Stores;Port Saint Mary Post Office",
+        "shop": "newsagent;post_office",
+        "source:addr:postcode": "Isle of Man Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812267,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738593,
+            54.076778
+          ],
+          [
+            -4.738529,
+            54.076733
+          ],
+          [
+            -4.738669,
+            54.076666
+          ],
+          [
+            -4.738686,
+            54.076678
+          ],
+          [
+            -4.738798,
+            54.076625
+          ],
+          [
+            -4.738791,
+            54.07662
+          ],
+          [
+            -4.738837,
+            54.076598
+          ],
+          [
+            -4.73889,
+            54.076636
+          ],
+          [
+            -4.738727,
+            54.076714
+          ],
+          [
+            -4.738593,
+            54.076778
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Laureston House",
+        "addr:postcode": "IM9 5AQ",
+        "addr:street": "Bay View Road",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Good Luck",
+        "phone": "+441624836211",
+        "source:addr:postcode": "Isle of Man Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812274,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739406,
+            54.077011
+          ],
+          [
+            -4.73945,
+            54.076992
+          ],
+          [
+            -4.739516,
+            54.077042
+          ],
+          [
+            -4.739158,
+            54.077202
+          ],
+          [
+            -4.739104,
+            54.077163
+          ],
+          [
+            -4.739248,
+            54.077095
+          ],
+          [
+            -4.739374,
+            54.077039
+          ],
+          [
+            -4.73939,
+            54.077052
+          ],
+          [
+            -4.739433,
+            54.077032
+          ],
+          [
+            -4.739406,
+            54.077011
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Homemaker",
+        "addr:postcode": "IM9 5AG",
+        "addr:street": "Bay View Road",
+        "building": "yes",
+        "building:levels": "4",
+        "clothes": "underwear",
+        "clothes:for": "women",
+        "name": "Chantilly Lace",
+        "shop": "clothes",
+        "source:addr": "Isle of Man Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101812284,
       "geometry": {
         "type": "LineString",
@@ -43437,6 +43667,54 @@
         "addr:postcode": "IM9 5AH",
         "addr:street": "Bay View Road",
         "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812295,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.73889,
+            54.077007
+          ],
+          [
+            -4.738812,
+            54.07695
+          ],
+          [
+            -4.739061,
+            54.076833
+          ],
+          [
+            -4.739121,
+            54.076877
+          ],
+          [
+            -4.738978,
+            54.076943
+          ],
+          [
+            -4.738997,
+            54.076957
+          ],
+          [
+            -4.73889,
+            54.077007
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Seamount",
+        "addr:postcode": "IM9 5AG",
+        "addr:street": "Bay View Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Corner House Coffee",
+        "outdoor_seating": "yes",
+        "source:addr": "Isle of Man Companies Registry"
       }
     },
     {
