@@ -263,7 +263,7 @@ def process_streets(data, output_dir):
     # exclude known non-streets
     invalid_streets_regex = '^$|[0-9]|[(]|Abutting|Adjacent |Adjoining |At |Allotment ' \
                             + '|^Land |^Lands |^Lane |^Off |Of Land |Opposite ' \
-                            + '|Part Of |Pathway |Patio Area |Plot |Private |Rear Of '
+                            + '|^Parcel |Part Of |Pathway |Patio Area |Plot |Private |Rear Of '
     invalid_streets_rows = data["Street_Name"].str.contains(invalid_streets_regex)
 
     streets = data[~invalid_streets_rows]
