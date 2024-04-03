@@ -21739,6 +21739,91 @@
     },
     {
       "type": "Feature",
+      "id": 61009476,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738705,
+            54.077728
+          ],
+          [
+            -4.738694,
+            54.077732
+          ],
+          [
+            -4.738839,
+            54.077868
+          ],
+          [
+            -4.738827,
+            54.077872
+          ],
+          [
+            -4.738645,
+            54.077939
+          ],
+          [
+            -4.738634,
+            54.077943
+          ],
+          [
+            -4.738625,
+            54.077946
+          ],
+          [
+            -4.738614,
+            54.07795
+          ],
+          [
+            -4.738494,
+            54.077837
+          ],
+          [
+            -4.738538,
+            54.077821
+          ],
+          [
+            -4.738498,
+            54.077784
+          ],
+          [
+            -4.738629,
+            54.077736
+          ],
+          [
+            -4.738606,
+            54.077715
+          ],
+          [
+            -4.738668,
+            54.077693
+          ],
+          [
+            -4.738705,
+            54.077728
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 5DA",
+        "addr:street": "The Promenade",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Town Hall",
+        "postal_code": "IM9 5DA",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 61009476,
+        "lon": null,
+        "lat": null,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/61009476"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 61240313,
       "geometry": {
         "type": "LineString",
@@ -48352,6 +48437,57 @@
     },
     {
       "type": "Feature",
+      "id": 101812245,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739935,
+            54.077468
+          ],
+          [
+            -4.739875,
+            54.077493
+          ],
+          [
+            -4.739615,
+            54.077598
+          ],
+          [
+            -4.739552,
+            54.077546
+          ],
+          [
+            -4.739872,
+            54.077415
+          ],
+          [
+            -4.739935,
+            54.077468
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 5AH",
+        "addr:street": "Bay View Road",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "building": "yes",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "shop": "convenience",
+        "website": "https://www.coop.co.uk/store-finder/IM9-5AH/bay-view-road",
+        "osm_id": 101812245,
+        "lon": null,
+        "lat": null,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101812245"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101812255,
       "geometry": {
         "type": "LineString",
@@ -48405,6 +48541,53 @@
         "lat": null,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/101812255"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812261,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739291,
+            54.077323
+          ],
+          [
+            -4.739221,
+            54.077263
+          ],
+          [
+            -4.739557,
+            54.077127
+          ],
+          [
+            -4.739627,
+            54.077187
+          ],
+          [
+            -4.739291,
+            54.077323
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Waverly House",
+        "addr:postcode": "IM9 5AE",
+        "addr:street": "Bay View Road",
+        "building": "yes",
+        "fixme": "check if still open - Companies Registry shows it's ceased trading",
+        "name": "Studio 42",
+        "note": "gallery;framing",
+        "shop": "art",
+        "source:addr:postcode": "Isle of Man Companies Registry",
+        "osm_id": 101812261,
+        "lon": null,
+        "lat": null,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101812261"
       }
     },
     {
@@ -65505,6 +65688,67 @@
         "lat": null,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/160411573"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 162110745,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738055,
+            54.07636
+          ],
+          [
+            -4.738055,
+            54.076378
+          ],
+          [
+            -4.738077,
+            54.076392
+          ],
+          [
+            -4.738111,
+            54.076398
+          ],
+          [
+            -4.73827,
+            54.076313
+          ],
+          [
+            -4.738238,
+            54.076289
+          ],
+          [
+            -4.7382,
+            54.076307
+          ],
+          [
+            -4.738182,
+            54.076296
+          ],
+          [
+            -4.738055,
+            54.07636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Bay House",
+        "addr:postcode": "IM9 5AQ",
+        "addr:street": "Bay View Road",
+        "building": "office",
+        "name": "Manx Ocean Crewing",
+        "office": "yes",
+        "website": "https://www.manxocean.com/en/",
+        "osm_id": 162110745,
+        "lon": null,
+        "lat": null,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/162110745"
       }
     },
     {
