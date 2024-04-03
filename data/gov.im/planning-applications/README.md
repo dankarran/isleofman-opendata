@@ -9,11 +9,11 @@ A dataset of planning applications, including address details.
 
 ## Outputs
 
-  * Planning applications
-  * Delegated decisions
-  * Appeals
+  * Planning applications [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/planning-applications.csv)
+  * Delegated decisions [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/delegated-decisions.csv)
+  * Appeals [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/appeals.csv)
   * Addressing
-    * Postcodes
+    * Postcodes [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/addressing/postcodes/postcodes.csv)
 
 ## License
 

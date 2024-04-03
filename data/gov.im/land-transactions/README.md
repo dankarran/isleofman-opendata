@@ -9,12 +9,12 @@ Information about land transactions, including address details.
 
 ## Outputs
 
-  * Land transactions (with hash, partially cleansed with corrections)
+  * Land transactions (with hash, partially cleansed with corrections) [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/land-transactions.csv)
   * Addressing (ignoring known issues)
-    * Places - parishes, towns, localities
-    * Streets
-    * Postcodes
-  * Issues noted during processing (with hash of transaction)
+    * Places - parishes [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/parishes.csv), towns [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/towns.csv), localities [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/localities.csv)
+    * Streets [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/streets/streets.csv)
+    * Postcodes [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/postcodes/postcodes.csv)
+  * Issues noted during processing (with hash of transaction) [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/issues.csv)
   
 ## Known issues
 
@@ -23,13 +23,13 @@ Information about land transactions, including address details.
 
 ## Fixing issues
 
-To fix issues in land transactions, copy row from `outputs/issue-rows.csv` and paste 
-into `sources/corrections/rows.csv` then update any fields necessary.
+To fix issues in land transactions, copy row from [outputs/issue-rows.csv](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/issue-rows.csv) and paste 
+into [sources/corrections/rows.csv](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/sources/corrections/rows.csv) then update any fields necessary.
 
 ## Updating data
 
 Before running the `update.py` script, you will need to update the land transactions source URL if there is a new file
-available. This can be updated in the `sources/sources.json` file. 
+available. This can be updated in the [sources/sources.json](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/sources/sources.json) file. 
 
 ## License
 
