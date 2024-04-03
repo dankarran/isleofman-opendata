@@ -2,20 +2,18 @@
 
 Information about land transactions, including address details.
 
-## Open data provider
-
-* [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
-  * [Land transactions](https://www.gov.im/about-the-government/government/open-data/economy/land-transactions/)
-
 ## Outputs
 
-  * Land transactions (with hash, partially cleansed with corrections) [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/land-transactions.csv)
+  * Land transactions (with hash, partially cleansed with corrections) :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/land-transactions.csv)
   * Addressing (ignoring known issues)
-    * Places - parishes [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/parishes.csv), towns [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/towns.csv), localities [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/localities.csv)
-    * Streets [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/streets/streets.csv)
-    * Postcodes [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/postcodes/postcodes.csv)
-  * Issues noted during processing (with hash of transaction) [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/issues.csv)
-  
+    * Places
+      * Parishes :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/parishes.csv)
+      * Towns :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/towns.csv)
+      * Localities :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/localities.csv)
+    * Streets :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/streets/streets.csv)
+    * Postcodes :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/postcodes/postcodes.csv)
+  * Issues noted during processing (with hash of transaction) :spiral_notepad:[CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/issues.csv)
+
 ## Known issues
 
 * *Data quality* - addressing data is often messy, with information ending up in the wrong columns, and this dataset is no different
@@ -30,6 +28,11 @@ into [sources/corrections/rows.csv](https://github.com/dankarran/isleofman-opend
 
 Before running the `update.py` script, you will need to update the land transactions source URL if there is a new file
 available. This can be updated in the [sources/sources.json](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/sources/sources.json) file. 
+
+## Open data provider
+
+* [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
+  * [Land transactions](https://www.gov.im/about-the-government/government/open-data/economy/land-transactions/)
 
 ## License
 
