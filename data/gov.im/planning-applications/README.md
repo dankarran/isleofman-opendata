@@ -2,7 +2,7 @@
 
 A dataset of planning applications, including address details.
 
-## Data providers
+## Open data provider
 
 * [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
   * [Planning applications](https://www.gov.im/about-the-government/government/open-data/energy-and-environment/planning-application-data/)

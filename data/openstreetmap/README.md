@@ -2,7 +2,7 @@
 
 A variety of Isle of Man datasets extracted from OpenStreetMap.
 
-## Data providers
+## Open data provider
 
 * [OpenStreetMap](https://www.openstreetmap.org)
 

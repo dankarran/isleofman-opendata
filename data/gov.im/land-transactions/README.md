@@ -2,7 +2,7 @@
 
 Information about land transactions, including address details.
 
-## Data providers
+## Open data provider
 
 * [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
   * [Land transactions](https://www.gov.im/about-the-government/government/open-data/economy/land-transactions/)
