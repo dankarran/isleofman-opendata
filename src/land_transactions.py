@@ -11,32 +11,34 @@ Land Transactions data processing
 
 """
 
-source_dir = 'data/source/gov.im/land-transactions/'
+data_dir = 'data/gov.im/land-transactions/'
 source_file = 'land-transactions.csv'
 
 issues = []
 issue_rows = []
 
 
-def land_transactions(output_dir):
+def land_transactions():
     print("# Land Transactions - Isle of Man Government")
 
-    with open(source_dir + "sources.json") as fp:
+    with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
     data = load_data(sources)
-    data = process_data(data, output_dir)
-    write_data(data, output_dir)
+    data = process_data(data)
+    write_data(data)
 
-    write_issues(output_dir)
+    write_issues()
 
 
 def load_data(sources):
     print(" - Loading Land Transactions")
 
+    source_file_path = data_dir + "sources/" + source_file
+
     # retrieve file and save local copy in source directory
     update = True
-    if os.path.isfile(source_dir + source_file):
+    if os.path.isfile(source_file_path):
         update_text = input("Download updated land transactions file? (y/N) ")
         if update_text == "y":
             update = True
@@ -45,52 +47,52 @@ def load_data(sources):
 
     if update:
         r = requests.get(sources["url"], allow_redirects=True)
-        open(source_dir + source_file, 'wb').write(r.content)
+        open(source_file_path, 'wb').write(r.content)
         print("    ", "Land Transactions retrieved and saved to source directory")
 
     # read data from local file into dataframe
-    data = pd.read_csv(source_dir + source_file)
+    data = pd.read_csv(source_file_path)
 
     print("    ", len(data), "rows loaded")
 
     return data
 
 
-def process_data(data, output_dir):
+def process_data(data):
     print(" - Processing Land Transactions")
 
     data = add_hash(data)
     data = apply_corrections(data)
 
-    data = process_parishes(data, output_dir)
-    data = process_towns(data, output_dir)
-    data = process_localities(data, output_dir)
-    data = process_streets(data, output_dir)
-    data = process_postcodes(data, output_dir)
+    data = process_parishes(data)
+    data = process_towns(data)
+    data = process_localities(data)
+    data = process_streets(data)
+    data = process_postcodes(data)
 
     return data
 
 
-def write_data(data, output_dir):
+def write_data(data):
     print(" - Writing Land Transactions")
 
-    data.to_csv(output_dir + 'gov.im/land-transactions/land-transactions.csv', index=False, quoting=csv.QUOTE_ALL)
+    data.to_csv(data_dir + 'outputs/land-transactions.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(data), "rows written")
 
 
-def write_issues(output_dir):
+def write_issues():
     print(" - Writing issues")
 
     issues_df = pd.DataFrame(issues)
     issues_df = issues_df.rename(columns={0: "Hash", 1: "Description"})
-    issues_df.to_csv(output_dir + 'gov.im/land-transactions/issues.csv', index=False, quoting=csv.QUOTE_ALL)
+    issues_df.to_csv(data_dir + 'outputs/issues.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(issues_df), "issues written")
 
     issue_rows_df = pd.DataFrame(issue_rows)
     issue_rows_df = issue_rows_df.rename(columns={0: "Hash", 1: "Description"})
-    issue_rows_df.to_csv(output_dir + 'gov.im/land-transactions/issue-rows.csv', index=False, quoting=csv.QUOTE_ALL)
+    issue_rows_df.to_csv(data_dir + 'outputs/issue-rows.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(issue_rows_df), "issue rows written")
 
@@ -110,7 +112,7 @@ def apply_corrections(data):
     print(" - Applying data corrections")
     print("    ", len(data), "rows passed in")
 
-    corrections_dir = 'data/source/gov.im/land-transactions/corrections/'
+    corrections_dir = data_dir + 'sources/corrections/'
 
     # Column renaming
     data = data.rename(columns={"Parish_": "Parish"})
@@ -162,7 +164,7 @@ def apply_corrections(data):
     return data
 
 
-def process_parishes(data, output_dir):
+def process_parishes(data):
     # Parishes
     print(" - Parishes")
 
@@ -175,12 +177,12 @@ def process_parishes(data, output_dir):
 
     parishes_df = pd.DataFrame(parishes)
     parishes_df = parishes_df.rename(columns={0: "Name"})
-    parishes_df.to_csv(output_dir + 'gov.im/land-transactions/addressing/places/parishes.csv', index=False, quoting=csv.QUOTE_ALL)
+    parishes_df.to_csv(data_dir + 'outputs/addressing/places/parishes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     return data
 
 
-def process_towns(data, output_dir):
+def process_towns(data):
     # Towns
     print(" - Towns")
 
@@ -200,7 +202,7 @@ def process_towns(data, output_dir):
 
     towns_df = pd.DataFrame(towns)
     towns_df = towns_df.rename(columns={"Town": "Name"})
-    towns_df.to_csv(output_dir + 'gov.im/land-transactions/addressing/places/towns.csv', index=False, quoting=csv.QUOTE_ALL)
+    towns_df.to_csv(data_dir + 'outputs//addressing/places/towns.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     for index, row in data[invalid_towns_rows].iterrows():
@@ -214,7 +216,7 @@ def process_towns(data, output_dir):
     return data
 
 
-def process_localities(data, output_dir):
+def process_localities(data):
     # Localities
     print(" - Localities")
 
@@ -235,7 +237,7 @@ def process_localities(data, output_dir):
 
     localities_df = pd.DataFrame(localities)
     localities_df = localities_df.rename(columns={"Locality": "Name"})
-    localities_df.to_csv(output_dir + 'gov.im/land-transactions/addressing/places/localities.csv', index=False, quoting=csv.QUOTE_ALL)
+    localities_df.to_csv(data_dir + 'outputs//addressing/places/localities.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     issue_count = 0
@@ -253,7 +255,7 @@ def process_localities(data, output_dir):
     return data
 
 
-def process_streets(data, output_dir):
+def process_streets(data):
     # Streets
     print(" - Streets")
 
@@ -274,7 +276,7 @@ def process_streets(data, output_dir):
 
     streets_df = pd.DataFrame(streets)
     streets_df = streets_df.rename(columns={"Street_Name": "Name"})
-    streets_df.to_csv(output_dir + 'gov.im/land-transactions/addressing/streets/streets.csv', index=False, quoting=csv.QUOTE_ALL)
+    streets_df.to_csv(data_dir + 'outputs//addressing/streets/streets.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     issue_count = 0
@@ -290,7 +292,7 @@ def process_streets(data, output_dir):
     return data
 
 
-def process_postcodes(data, output_dir):
+def process_postcodes(data):
     # Postcodes
     print(" - Postcodes")
 
@@ -308,7 +310,7 @@ def process_postcodes(data, output_dir):
     print("    ", len(postcodes), "postcodes added")
 
     postcodes_df = pd.DataFrame(postcodes)
-    postcodes_df.to_csv(output_dir + 'gov.im/land-transactions/addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
+    postcodes_df.to_csv(data_dir + 'outputs//addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     issue_count = 0

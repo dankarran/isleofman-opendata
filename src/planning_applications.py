@@ -10,22 +10,22 @@ Planning Applications data processing
 
 """
 
-source_dir = "data/source/gov.im/planning-applications/"
+data_dir = "data/gov.im/planning-applications/"
 record_types = ["planning-applications", "delegated-decisions", "appeals"]
 
 
-def planning_applications(output_dir):
+def planning_applications():
     print("# Planning Applications - Isle of Man Government")
 
-    with open(source_dir + "sources.json") as fp:
+    with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
-    with open(source_dir + "defaults.json") as fp:
+    with open(data_dir + "sources/defaults.json") as fp:
         default_options = json.load(fp)
 
     data = load_data(sources, default_options)
-    data = process_data(data, output_dir)
-    write_data(data, output_dir)
+    data = process_data(data)
+    write_data(data)
 
 
 def load_data(sources, default_options):
@@ -54,7 +54,7 @@ def update_files(sources, record_type):
     for year in sources:
         year_source = sources[year]
 
-        year_dir = source_dir + year
+        year_dir = data_dir + "sources/" + year
         filepath = year_dir + "/" + record_type + ".csv"
 
         if not os.path.isdir(year_dir):
@@ -79,7 +79,7 @@ def read_files(sources, default_options, record_type, data):
     for year in sources:
         year_source = sources[year]
 
-        year_dir = source_dir + year
+        year_dir = data_dir + "sources/" + year
         filepath = year_dir + "/" + record_type + ".csv"
 
         if os.path.isfile(filepath):
@@ -134,15 +134,15 @@ def read_files(sources, default_options, record_type, data):
     return data
 
 
-def process_data(data, output_dir):
+def process_data(data):
     print(" - Processing Planning Applications")
 
-    data = process_addresses(data, output_dir)
+    data = process_addresses(data)
 
     return data
 
 
-def process_addresses(data, output_dir):
+def process_addresses(data):
     # Addresses
     print(" - Addresses")
 
@@ -162,15 +162,15 @@ def process_addresses(data, output_dir):
 
     print("    ", len(postcodes_df), "postcodes added")
 
-    postcodes_df.to_csv(output_dir + 'gov.im/planning-applications/addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
+    postcodes_df.to_csv(data_dir + 'outputs/addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     return data
 
 
-def write_data(data, output_dir):
+def write_data(data):
     print(" - Writing Planning Applications")
 
     for record_type in record_types:
-        filepath = output_dir + "gov.im/planning-applications/" + record_type + ".csv"
+        filepath = data_dir + "outputs/" + record_type + ".csv"
         data[record_type].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
         print("    ", len(data[record_type]), record_type, "rows written")

@@ -9,18 +9,18 @@ OpenStreetMap data processing
 
 """
 
-source_dir = "data/source/openstreetmap/"
+data_dir = "data/openstreetmap/"
 
 
-def openstreetmap(output_dir):
+def openstreetmap():
     print("# OpenStreetMap")
 
-    with open(source_dir + "sources.json") as fp:
+    with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
     data = load_data(sources)
-    data = process_data(sources, data, output_dir)
-    write_data(sources, data, output_dir)
+    data = process_data(sources, data)
+    write_data(sources, data)
 
 
 def load_data(sources):
@@ -35,7 +35,7 @@ def load_data(sources):
         update_files(sources)
 
     for source in sources["overpass"]:
-        filepath = source_dir + "overpass/" + source["label"] + ".geojson"
+        filepath = data_dir + "sources/overpass/" + source["label"] + ".geojson"
         if os.path.isfile(filepath):
             with open(filepath) as fp:
                 data["overpass"][source["label"]] = {
@@ -58,7 +58,7 @@ def update_files(sources):
                 response_format = source["response_format"]
             print("    ", "Downloading", source["label"], "in", response_format, "format")
             data = get_overpass(source["query"], response_format=response_format)
-            open(source_dir + "overpass/" + source["label"] + ".geojson", "w").write(json.dumps(data, indent=2))
+            open(data_dir + "sources/overpass/" + source["label"] + ".geojson", "w").write(json.dumps(data, indent=2))
 
         except Exception as error:
             print("    ", "ERROR:", error)
@@ -76,7 +76,7 @@ def get_overpass(query, response_format="geojson", verbosity="geom"):
     return result
 
 
-def process_data(sources, data, output_dir):
+def process_data(sources, data):
     print(" - Processing OpenStreetMap data")
 
     for source in sources["overpass"]:
@@ -118,13 +118,13 @@ def process_data(sources, data, output_dir):
     return data
 
 
-def write_data(sources, data, output_dir):
+def write_data(sources, data):
     print(" - Writing OpenStreetMap data")
 
     for source in sources["overpass"]:
         if source["label"] in data["overpass"]:
             print("    ", "Writing", source["label"])
-            filepath_base = output_dir + "openstreetmap/" + source["label"] + "/"
+            filepath_base = data_dir + "outputs/" + source["label"] + "/"
 
             if not os.path.isdir(filepath_base):
                 os.mkdir(filepath_base)
