@@ -4,7 +4,6 @@ import pandas as pd
 import csv
 import json
 
-
 """
 Planning Applications data processing
 
@@ -36,25 +35,25 @@ def load_data(sources, default_options):
     for record_type in record_types:
 
         # download if required
-        update_text = input("Download updated " + record_type + " files? (y/N) ")
+        update_text = input("Download updated annual " + record_type + " files? (y/N) ")
         if update_text == "y":
-            update_files(sources[record_type], record_type)
+            update_annual_files(sources[record_type]["annual"], record_type)
 
         # load data into dataframes
         data[record_type] = pd.DataFrame()
-        data[record_type] = read_files(sources[record_type],
-                                       default_options[record_type],
-                                       record_type,
-                                       data[record_type])
+        data[record_type] = read_annual_files(sources[record_type]["annual"],
+                                              default_options[record_type],
+                                              record_type,
+                                              data[record_type])
 
     return data
 
 
-def update_files(sources, record_type):
+def update_annual_files(sources, record_type):
     for year in sources:
         year_source = sources[year]
 
-        year_dir = data_dir + "sources/" + year
+        year_dir = data_dir + "sources/annual/" + year
         filepath = year_dir + "/" + record_type + ".csv"
 
         if not os.path.isdir(year_dir):
@@ -75,11 +74,11 @@ def update_files(sources, record_type):
             year_data.to_csv(filepath, index=False)
 
 
-def read_files(sources, default_options, record_type, data):
+def read_annual_files(sources, default_options, record_type, data):
     for year in sources:
         year_source = sources[year]
 
-        year_dir = data_dir + "sources/" + year
+        year_dir = data_dir + "sources/annual/" + year
         filepath = year_dir + "/" + record_type + ".csv"
 
         if os.path.isfile(filepath):
