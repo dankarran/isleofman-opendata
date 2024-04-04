@@ -9,9 +9,13 @@ A dataset of planning applications, including address details.
 
 ## Outputs
 
-  * Planning applications :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/planning-applications.csv)
-  * Delegated decisions :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/delegated-decisions.csv)
-  * Appeals :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/appeals.csv)
+  * Planning applications
+    * 2011-2022 :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/planning-applications.csv)
+    * 2023-now :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/planning-applications-weekly.csv)
+  * Delegated decisions
+    * 2011-2022 :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/delegated-decisions.csv)
+  * Appeals 
+    * 2011-2022 :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/appeals.csv)
   * Addressing
     * Postcodes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/addressing/postcodes/postcodes.csv)
 

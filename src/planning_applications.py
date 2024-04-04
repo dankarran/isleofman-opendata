@@ -13,6 +13,7 @@ Planning Applications data processing
 
 data_dir = "data/gov.im/planning-applications/"
 record_types = ["planning-applications", "delegated-decisions", "appeals"]
+pa_base_url = "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber="
 
 
 def planning_applications():
@@ -36,11 +37,19 @@ def load_data(sources, default_options):
 
     for record_type in record_types:
 
+        data[record_type] = {}
+
         # download weekly files if required
         if "weekly" in sources[record_type]:
             update_text = input("Download updated weekly " + record_type + " files? (y/N) ")
             if update_text == "y":
                 update_weekly_files(sources[record_type]["weekly"], record_type)
+
+            # load data into dataframes
+            data[record_type]["weekly"] = pd.DataFrame()
+            data[record_type]["weekly"] = read_weekly_files(sources[record_type]["weekly"],
+                                                            record_type,
+                                                            data[record_type]["weekly"])
 
         # download annual files if required
         update_text = input("Download updated annual " + record_type + " files? (y/N) ")
@@ -48,17 +57,16 @@ def load_data(sources, default_options):
             update_annual_files(sources[record_type]["annual"], record_type)
 
         # load data into dataframes
-        data[record_type] = pd.DataFrame()
-        data[record_type] = read_annual_files(sources[record_type]["annual"],
-                                              default_options[record_type],
-                                              record_type,
-                                              data[record_type])
+        data[record_type]["annual"] = pd.DataFrame()
+        data[record_type]["annual"] = read_annual_files(sources[record_type]["annual"],
+                                                        default_options[record_type]["annual"],
+                                                        record_type,
+                                                        data[record_type]["annual"])
 
     return data
 
 
 def update_weekly_files(sources, record_type):
-
     for pub_date in sources:
         year = pub_date[0:4]
         year_dir = data_dir + "sources/weekly/" + year
@@ -137,6 +145,40 @@ def update_annual_files(sources, record_type):
             year_data.to_csv(filepath, index=False)
 
 
+def read_weekly_files(sources, record_type, data):
+    for pub_date in sources:
+        year = pub_date[0:4]
+        year_dir = data_dir + "sources/weekly/" + year
+        filename = pub_date + "-" + record_type + ".csv"
+        filepath = year_dir + "/" + filename
+
+        if os.path.isfile(filepath):
+            try:
+                print("    ", "Reading", record_type, "for", pub_date)
+
+                week_data = pd.read_csv(filepath)
+
+                # rename columns
+                week_data = week_data.rename(columns={"Application Number": "PA Ref"})
+
+                # strip \n from Details field
+                print("      ", "Stripping newlines from addresses")
+                week_data["Details"] = week_data["Details"].replace(r'\\n', ' ', regex=True)
+
+                # add details
+                week_data["Pub Date"] = pub_date
+                week_data["URL"] = pa_base_url + week_data["PA Ref"]
+
+                data = pd.concat([data, week_data])
+
+            except UnicodeDecodeError as error:
+                print("    ", "ERROR:", error)
+        else:
+            print("      ", "WARNING: File missing for", record_type, "for", pub_date)
+
+    return data
+
+
 def read_annual_files(sources, default_options, record_type, data):
     for year in sources:
         year_source = sources[year]
@@ -183,8 +225,9 @@ def read_annual_files(sources, default_options, record_type, data):
                 if not (record_type == "appeals" and year in ["2018"]):
                     year_data = year_data[default_options["header_map"].keys()]
 
-                # add year
+                # add details
                 year_data["Year"] = year
+                year_data["URL"] = pa_base_url + year_data["PA Ref"]
 
                 data = pd.concat([data, year_data])
 
@@ -210,14 +253,30 @@ def process_addresses(data):
 
     # extract all addresses
     addresses_df = pd.DataFrame()
+    messy_df = pd.DataFrame()
     for record_type in record_types:
-        addresses_df = pd.concat([addresses_df, data[record_type]["Property Address"]])
+        addresses_df = pd.concat([addresses_df, data[record_type]["annual"]["Property Address"]])
+
+        if "weekly" in data[record_type]:
+            messy_df = pd.concat([messy_df, data[record_type]["weekly"]["Details"]])
 
     # find valid postcodes
     im_postcode_regex = '(IM[0-9]9? [0-9][A-Z]{2})'
 
     postcodes_df = pd.DataFrame()
-    postcodes_df["Postcode"] = addresses_df["Property Address"].str.extract(im_postcode_regex, expand=True)
+
+    # add postcodes from annual
+    postcodes_annual = addresses_df["Property Address"].str.extract(im_postcode_regex, expand=True)
+    postcodes_df["Postcode"] = postcodes_annual
+    print(postcodes_df)
+
+    # add postcodes from weekly
+    postcodes_weekly = pd.DataFrame()
+    postcodes_weekly["Postcode"] = messy_df["Details"].str.extract(im_postcode_regex, expand=True)
+    #print(postcodes_weekly)
+    #postcodes_weekly.rename(columns={0: "Postcode"})
+    postcodes_df = pd.concat([postcodes_df, postcodes_weekly])
+
     postcodes_df = postcodes_df.sort_values(by=["Postcode"])
     postcodes_df = postcodes_df[["Postcode"]]
     postcodes_df = postcodes_df.drop_duplicates()
@@ -233,6 +292,13 @@ def write_data(data):
     print(" - Writing Planning Applications")
 
     for record_type in record_types:
-        filepath = data_dir + "outputs/" + record_type + ".csv"
-        data[record_type].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
-        print("    ", len(data[record_type]), record_type, "rows written")
+        if "weekly" in data[record_type]:
+            filename = record_type + "-weekly.csv"
+            filepath = data_dir + "outputs/" + filename
+            data[record_type]["weekly"].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
+            print("    ", len(data[record_type]), record_type, "rows written to", filename)
+
+        filename = record_type + ".csv"
+        filepath = data_dir + "outputs/" + filename
+        data[record_type]["annual"].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
+        print("    ", len(data[record_type]), record_type, "rows written to", filename)

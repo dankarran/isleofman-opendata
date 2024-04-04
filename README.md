@@ -9,9 +9,9 @@ This project aims to take open geographic data for the Isle of Man and create ne
 
 ## Datasets
 
-* :file_folder: [Land transactions](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/)
-* :file_folder: [Planning applications](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/)
-* :file_folder: [OpenStreetMap](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/)
+* :file_folder: [Land transactions](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/land-transactions/)
+* :file_folder: [Planning applications](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/planning-applications/)
+* :file_folder: [OpenStreetMap](https://github.com/dankarran/isleofman-opendata/tree/main/data/openstreetmap/)
 
 See individual README files in relevant part of `data` directory for further details.
 

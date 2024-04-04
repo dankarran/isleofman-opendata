@@ -1,43 +1,49 @@
 {
-    "planning-applications": {
-        "header": "Decision,PA Ref,PROPOSAL,Decision issued,Determining Body,Property Address",
-        "header_map": {
-            "PA Ref": "PA Ref",
-            "Proposal": "PROPOSAL",
-            "Property Address": "Property Address",
-            "Decision": "Decision",
-            "Decision Issued": "Decision issued",
-            "Determining Body": "Determining Body"
-        },
-        "header_skip": 0,
-        "header_rows": 1
-    },
-    "delegated-decisions": {
-        "header": "Planning Application No,Proposal,Property Address,Decision,Date decision issued",
-        "header_map": {
-            "PA Ref": "Planning Application No",
-            "Proposal": "Proposal",
-            "Property Address": "Property Address",
-            "Decision": "Decision",
-            "Decision Issued": "Date decision issued"
-        },
-        "header_skip": 0,
-        "header_rows": 1
-    },
-    "appeals": {
-        "header": "PA Ref,Property Address,PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,Appeal decision",
-        "header_map": {
-            "PA Ref": "PA Ref",
-            "Proposal": "PROPOSAL",
-            "Property Address": "Property Address",
-            "Decision": "Decision",
-            "PA Decision Issued": "PA Decision issued",
-            "Determining Body": "Determining Body",
-            "Appeal Lodged": "Appeal lodged",
-            "Appeal Determined": "Appeal determined",
-            "Appeal Decision": "Appeal decision"
-        },
-        "header_skip": 0,
-        "header_rows": 1
+  "planning-applications": {
+    "annual": {
+      "header": "Decision,PA Ref,PROPOSAL,Decision issued,Determining Body,Property Address",
+      "header_map": {
+        "PA Ref": "PA Ref",
+        "Proposal": "PROPOSAL",
+        "Property Address": "Property Address",
+        "Decision": "Decision",
+        "Decision Issued": "Decision issued",
+        "Determining Body": "Determining Body"
+      },
+      "header_skip": 0,
+      "header_rows": 1
     }
+  },
+  "delegated-decisions": {
+    "annual": {
+      "header": "Planning Application No,Proposal,Property Address,Decision,Date decision issued",
+      "header_map": {
+        "PA Ref": "Planning Application No",
+        "Proposal": "Proposal",
+        "Property Address": "Property Address",
+        "Decision": "Decision",
+        "Decision Issued": "Date decision issued"
+      },
+      "header_skip": 0,
+      "header_rows": 1
+    }
+  },
+  "appeals": {
+    "annual": {
+      "header": "PA Ref,Property Address,PROPOSAL,Decision,PA Decision issued,Determining Body,Appeal lodged,Appeal determined,Appeal decision",
+      "header_map": {
+        "PA Ref": "PA Ref",
+        "Proposal": "PROPOSAL",
+        "Property Address": "Property Address",
+        "Decision": "Decision",
+        "PA Decision Issued": "PA Decision issued",
+        "Determining Body": "Determining Body",
+        "Appeal Lodged": "Appeal lodged",
+        "Appeal Determined": "Appeal determined",
+        "Appeal Decision": "Appeal decision"
+      },
+      "header_skip": 0,
+      "header_rows": 1
+    }
+  }
 }
