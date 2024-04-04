@@ -1,5 +1,7 @@
 import os
 import requests
+import io
+import time
 import pandas as pd
 import csv
 import json
@@ -34,7 +36,13 @@ def load_data(sources, default_options):
 
     for record_type in record_types:
 
-        # download if required
+        # download weekly files if required
+        if "weekly" in sources[record_type]:
+            update_text = input("Download updated weekly " + record_type + " files? (y/N) ")
+            if update_text == "y":
+                update_weekly_files(sources[record_type]["weekly"], record_type)
+
+        # download annual files if required
         update_text = input("Download updated annual " + record_type + " files? (y/N) ")
         if update_text == "y":
             update_annual_files(sources[record_type]["annual"], record_type)
@@ -47,6 +55,61 @@ def load_data(sources, default_options):
                                               data[record_type])
 
     return data
+
+
+def update_weekly_files(sources, record_type):
+
+    for pub_date in sources:
+        year = pub_date[0:4]
+        year_dir = data_dir + "sources/weekly/" + year
+        filename = pub_date + "-" + record_type + ".csv"
+        filepath = year_dir + "/" + filename
+
+        # only update if we don't already have the file
+        if os.path.isfile(filepath):
+            print("    ", "Skipping", record_type, "for", pub_date)
+            continue
+
+        base_url = "https://services.gov.im/planningapplication/services/planning/applicationsearchresults.iom"
+        base_url = base_url + "?PressListDate=" + pub_date + "T00%3a00%3a00.000&SearchField=PressListDate"
+
+        pub_rows_df = pd.DataFrame(columns=["Application Number", "Details", "Local Authority", "Date"])
+        page = 1
+        while True:
+            page_url = base_url + "&page=" + str(page)
+
+            print("    ", "Downloading", record_type, "for", pub_date, "from", page_url, "page", page)
+
+            r = requests.get(page_url, allow_redirects=True)
+
+            html = str(r.content)
+
+            # strip empty rows
+            html = html.replace("<tr></tr>", "")
+
+            # grab data from table
+            try:
+                table_df = pd.read_html(io.StringIO(html))
+                if len(table_df):
+                    pub_rows_df = pd.concat([pub_rows_df, table_df[0]], ignore_index=True)
+
+                    # final page if fewer than 10 records, otherwise try and see
+                    if len(table_df[0]) < 10:
+                        break
+
+            except ValueError:
+                print("    ", "No more records (ValueError)")
+                break
+
+            page = page + 1
+            time.sleep(1)
+
+        # write to CSV file
+        if not os.path.isdir(year_dir):
+            print("    ", "Creating directory for", year)
+            os.mkdir(year_dir)
+
+        pub_rows_df.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
 
 
 def update_annual_files(sources, record_type):
