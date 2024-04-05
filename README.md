@@ -5,7 +5,7 @@ This project aims to take open geographic data for the Isle of Man and create ne
 ## Open data providers
 
 * [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
-* [OpenStreetMap](https://www.openstreetmap.org)
+* [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792)
 
 ## Datasets
 
@@ -18,6 +18,8 @@ See individual README files in relevant part of `data` directory for further det
 ## TODO
 
 * License options
+  * No additional rights claimed on data beyond original license
+  * Code probably opensource MIT license
 
 ## Updating data
 
@@ -28,11 +30,8 @@ source.
 
 * [Humanitarian Data Exchange (HDX)](https://data.humdata.org)
   * [Isle of Man datasets](https://data.humdata.org/group/imn)
-* [OpenStreetMap](https://www.openstreetmap.org)
-  * [Overpass Turbo OpenStreetMap query tool](https://www.overpass-turbo.eu)
-  * [Isle of Man OpenStreetMap exports (Geofabrik)](https://download.geofabrik.de/europe/isle-of-man.html)
 
 ## License
 
 * Contains public sector information licensed under the [Isle of Man Open Government Licence](https://www.gov.im/about-this-site/open-government-licence/).
-* Contains data from [OpenStreetMap](https://www.openstreetmap.org) licensed under the [Open Database License](https://www.openstreetmap.org/copyright).
+* Contains data from [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792) licensed under the [Open Database License](https://www.openstreetmap.org/copyright).

@@ -4,7 +4,7 @@ A variety of Isle of Man datasets extracted from OpenStreetMap.
 
 ## Open data provider
 
-* [OpenStreetMap](https://www.openstreetmap.org)
+* [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792)
 
 ## Outputs
 
@@ -23,6 +23,12 @@ A variety of Isle of Man datasets extracted from OpenStreetMap.
   * Shops :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/shops/shops.csv) [GeoJSON](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/shops/shops.geojson)
   * Tourism :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/tourism/tourism.csv) [GeoJSON](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/tourism/tourism.geojson)
 
+## Other resources
+
+  * [Overpass Turbo OpenStreetMap query tool](https://www.overpass-turbo.eu)
+  * [Isle of Man OpenStreetMap exports (Geofabrik)](https://download.geofabrik.de/europe/isle-of-man.html)
+  * [Isle of Man OpenStreetMap tiles (Maptiler)](https://data.maptiler.com/downloads/europe/isle-of-man/)
+
 ## License
 
-Contains data from [OpenStreetMap](https://www.openstreetmap.org) licensed under the [Open Database License](https://www.openstreetmap.org/copyright).
+Contains data from [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792) licensed under the [Open Database License](https://www.openstreetmap.org/copyright).
