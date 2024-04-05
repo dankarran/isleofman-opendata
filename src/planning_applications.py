@@ -268,13 +268,10 @@ def process_addresses(data):
     # add postcodes from annual
     postcodes_annual = addresses_df["Property Address"].str.extract(im_postcode_regex, expand=True)
     postcodes_df["Postcode"] = postcodes_annual
-    print(postcodes_df)
 
     # add postcodes from weekly
     postcodes_weekly = pd.DataFrame()
     postcodes_weekly["Postcode"] = messy_df["Details"].str.extract(im_postcode_regex, expand=True)
-    #print(postcodes_weekly)
-    #postcodes_weekly.rename(columns={0: "Postcode"})
     postcodes_df = pd.concat([postcodes_df, postcodes_weekly])
 
     postcodes_df = postcodes_df.sort_values(by=["Postcode"])
@@ -296,9 +293,9 @@ def write_data(data):
             filename = record_type + "-weekly.csv"
             filepath = data_dir + "outputs/" + filename
             data[record_type]["weekly"].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
-            print("    ", len(data[record_type]), record_type, "rows written to", filename)
+            print("    ", len(data[record_type]["weekly"]), record_type, "rows written to", filename)
 
         filename = record_type + ".csv"
         filepath = data_dir + "outputs/" + filename
         data[record_type]["annual"].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
-        print("    ", len(data[record_type]), record_type, "rows written to", filename)
+        print("    ", len(data[record_type]["annual"]), record_type, "rows written to", filename)
