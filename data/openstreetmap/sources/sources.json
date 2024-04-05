@@ -19,6 +19,12 @@
       "csv_columns": ["name", "name:en", "name:gv", "ref"]
     },
     {
+      "label": "charities",
+      "query": "nw['charity'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "charity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
+    },
+    {
       "label": "food-and-drink",
       "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
@@ -37,6 +43,12 @@
       "csv_columns": ["name", "name:en", "name:gv", "ref", "highway"]
     },
     {
+      "label": "offices",
+      "query": "nw['office'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "office", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
+    },
+    {
       "label": "postboxes",
       "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
@@ -53,6 +65,12 @@
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building"]
+    },
+    {
+      "label": "shops",
+      "query": "nw['shop'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "shop", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
     },
     {
       "label": "tourism",

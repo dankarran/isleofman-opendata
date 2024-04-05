@@ -1,0 +1,921 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 685338712,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484727,
+          54.155228
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM1 3AL",
+        "addr:street": "Woodbourne Road",
+        "addr:substreet": "Prospect Terrace",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/crossroadscharityshops/",
+        "contact:phone": "+44 1624 673580",
+        "name": "Crossroads Caring for Carers",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Crossroads Care",
+        "operator:type": "charitable",
+        "shop": "charity",
+        "website": "https://www.crossroadsiom.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59384842,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480753,
+            54.151986
+          ],
+          [
+            -4.480771,
+            54.151987
+          ],
+          [
+            -4.480774,
+            54.151967
+          ],
+          [
+            -4.480973,
+            54.151976
+          ],
+          [
+            -4.480963,
+            54.152058
+          ],
+          [
+            -4.480744,
+            54.152048
+          ],
+          [
+            -4.480753,
+            54.151986
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 2PT",
+        "addr:street": "Finch Road",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "charity": "yes",
+        "contact:website": "http://www.iomia.com/",
+        "denomination": "sunni",
+        "listed_status": "Registered",
+        "name": "Isle of Man Mosque",
+        "opening_hours": "09:00-18:00",
+        "operator": "Isle of Man Islamic Association",
+        "operator:type": "charitable",
+        "ref:charity": "432",
+        "ref:registered_building": "100",
+        "religion": "muslim",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "url:registered_building": "https://www.gov.im/media/632129/0500100regbld20finchroad.pdf",
+        "wikidata": "Q118188645"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62241469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48459,
+            54.154845
+          ],
+          [
+            -4.484557,
+            54.154771
+          ],
+          [
+            -4.484538,
+            54.154763
+          ],
+          [
+            -4.484283,
+            54.154771
+          ],
+          [
+            -4.484304,
+            54.154827
+          ],
+          [
+            -4.484427,
+            54.154824
+          ],
+          [
+            -4.484448,
+            54.154868
+          ],
+          [
+            -4.48459,
+            54.154845
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM1 3AL",
+        "addr:street": "Woodbourne Road",
+        "addr:substreet": "Prospect Terrace",
+        "building": "yes",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/crossroadscharityshops/",
+        "contact:phone": "+44 1624 611363",
+        "name": "Crossroads Care",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Crossroads Care",
+        "operator:type": "charitable",
+        "shop": "furniture",
+        "source": "Isle of Man Government aerial imagery (2001);survey;",
+        "website": "https://www.crossroadsiom.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79372980,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.501548,
+            54.153873
+          ],
+          [
+            -4.501645,
+            54.153853
+          ],
+          [
+            -4.501642,
+            54.153845
+          ],
+          [
+            -4.501772,
+            54.15382
+          ],
+          [
+            -4.501844,
+            54.153969
+          ],
+          [
+            -4.501811,
+            54.153978
+          ],
+          [
+            -4.501701,
+            54.153996
+          ],
+          [
+            -4.501671,
+            54.153937
+          ],
+          [
+            -4.501616,
+            54.15395
+          ],
+          [
+            -4.501625,
+            54.153959
+          ],
+          [
+            -4.50154,
+            54.153968
+          ],
+          [
+            -4.501529,
+            54.153926
+          ],
+          [
+            -4.501578,
+            54.153919
+          ],
+          [
+            -4.501548,
+            54.153873
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Scholl Building",
+        "addr:lot": "Fire Headquarters",
+        "addr:postcode": "IM1 5ED",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Hyperbaric Medicine Facility",
+        "operator": "HBOT IOM",
+        "operator:type": "charitable",
+        "ref:charity": "1274",
+        "source": "bing",
+        "website": "https://www.hbot.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104794522,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.503048,
+            54.173847
+          ],
+          [
+            -4.502446,
+            54.173888
+          ],
+          [
+            -4.502421,
+            54.173758
+          ],
+          [
+            -4.503111,
+            54.173712
+          ],
+          [
+            -4.503048,
+            54.173385
+          ],
+          [
+            -4.503161,
+            54.173378
+          ],
+          [
+            -4.503164,
+            54.173396
+          ],
+          [
+            -4.503212,
+            54.173393
+          ],
+          [
+            -4.503225,
+            54.173459
+          ],
+          [
+            -4.503327,
+            54.173452
+          ],
+          [
+            -4.503328,
+            54.173459
+          ],
+          [
+            -4.503428,
+            54.173453
+          ],
+          [
+            -4.503442,
+            54.173525
+          ],
+          [
+            -4.503351,
+            54.173532
+          ],
+          [
+            -4.503353,
+            54.173541
+          ],
+          [
+            -4.503299,
+            54.173545
+          ],
+          [
+            -4.50334,
+            54.173755
+          ],
+          [
+            -4.503351,
+            54.173811
+          ],
+          [
+            -4.503314,
+            54.173832
+          ],
+          [
+            -4.503349,
+            54.174095
+          ],
+          [
+            -4.503293,
+            54.174131
+          ],
+          [
+            -4.503338,
+            54.174363
+          ],
+          [
+            -4.503156,
+            54.174488
+          ],
+          [
+            -4.502903,
+            54.174504
+          ],
+          [
+            -4.50288,
+            54.174377
+          ],
+          [
+            -4.503052,
+            54.174367
+          ],
+          [
+            -4.502954,
+            54.174321
+          ],
+          [
+            -4.503041,
+            54.174257
+          ],
+          [
+            -4.503137,
+            54.174301
+          ],
+          [
+            -4.503109,
+            54.174157
+          ],
+          [
+            -4.502979,
+            54.174165
+          ],
+          [
+            -4.502956,
+            54.174048
+          ],
+          [
+            -4.503085,
+            54.174039
+          ],
+          [
+            -4.503048,
+            54.173847
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Hospice, Isle of Man",
+        "addr:place": "Strang",
+        "addr:postcode": "IM4 4RP",
+        "building": "yes",
+        "charity": "yes",
+        "healthcare": "hospice",
+        "name": "Hospice, Isle of Man",
+        "operator": "Hospice Care",
+        "operator:type": "charitable",
+        "phone": "+44 1624 647400",
+        "ref:charity": "317",
+        "smoking": "no",
+        "source": "Bing",
+        "website": "https://www.hospice.org.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 152690581,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482116,
+            54.151824
+          ],
+          [
+            -4.482033,
+            54.151824
+          ],
+          [
+            -4.482033,
+            54.15191
+          ],
+          [
+            -4.482061,
+            54.15191
+          ],
+          [
+            -4.482061,
+            54.151986
+          ],
+          [
+            -4.482116,
+            54.151986
+          ],
+          [
+            -4.482116,
+            54.151912
+          ],
+          [
+            -4.482116,
+            54.151824
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 2QA",
+        "addr:street": "Albert Street",
+        "building": "yes",
+        "charity": "yes",
+        "contact:facebook": "http://www.facebook.com/victimsupportiom",
+        "name": "Victim Support Isle of Man",
+        "office": "charity",
+        "operator": "Victim Support (Isle of Man)",
+        "operator:type": "charitable",
+        "ref:charity": "963",
+        "source:addr:housenumber": "interpolation",
+        "website": "https://www.victimsupport.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 183946915,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.572982,
+            54.123909
+          ],
+          [
+            -4.572826,
+            54.123844
+          ],
+          [
+            -4.572816,
+            54.123852
+          ],
+          [
+            -4.57275,
+            54.123825
+          ],
+          [
+            -4.572701,
+            54.123864
+          ],
+          [
+            -4.572776,
+            54.123895
+          ],
+          [
+            -4.572726,
+            54.123936
+          ],
+          [
+            -4.572604,
+            54.123886
+          ],
+          [
+            -4.57252,
+            54.123955
+          ],
+          [
+            -4.572607,
+            54.123992
+          ],
+          [
+            -4.572657,
+            54.123951
+          ],
+          [
+            -4.572838,
+            54.124027
+          ],
+          [
+            -4.572982,
+            54.123909
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Santon",
+        "addr:postcode": "IM4 1EE",
+        "addr:street": "Santon Main Road",
+        "amenity": "animal_shelter",
+        "animal_shelter": "cat",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Mann Cat Sanctuary",
+        "operator": "Mann Cat Sanctuary",
+        "operator:type": "charitable",
+        "ref:charity": "705",
+        "website": "https://www.manncat.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233925097,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.405978,
+            54.231485
+          ],
+          [
+            -4.405955,
+            54.231421
+          ],
+          [
+            -4.406396,
+            54.231367
+          ],
+          [
+            -4.406419,
+            54.231431
+          ],
+          [
+            -4.406275,
+            54.231449
+          ],
+          [
+            -4.405978,
+            54.231485
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM4 7BD",
+        "addr:street": "New Road",
+        "alt_name": "The Institute;Working Men's Institute",
+        "building": "yes",
+        "building:start_date": "1877",
+        "charity": "yes",
+        "club": "social",
+        "listed_status": "Registered",
+        "name": "Laxey Working Men's Club",
+        "operator": "Laxey Working Men's Institute",
+        "operator:type": "charitable",
+        "ref:charity": "741;1104",
+        "ref:registered_building": "227",
+        "source": "Bing",
+        "url:registered_building": "https://www.gov.im/media/632537/0500227regbldlaxeyworkingmensinst.pdf",
+        "website": "https://theinstitute.im/",
+        "wikidata": "Q118188754"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 412956708,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.404141,
+            54.319783
+          ],
+          [
+            -4.40413,
+            54.319685
+          ],
+          [
+            -4.404072,
+            54.319688
+          ],
+          [
+            -4.404013,
+            54.31969
+          ],
+          [
+            -4.404016,
+            54.319716
+          ],
+          [
+            -4.40399,
+            54.319727
+          ],
+          [
+            -4.403993,
+            54.319759
+          ],
+          [
+            -4.404024,
+            54.319769
+          ],
+          [
+            -4.404029,
+            54.319798
+          ],
+          [
+            -4.403999,
+            54.3198
+          ],
+          [
+            -4.403712,
+            54.319813
+          ],
+          [
+            -4.403721,
+            54.319881
+          ],
+          [
+            -4.403723,
+            54.319898
+          ],
+          [
+            -4.403687,
+            54.3199
+          ],
+          [
+            -4.403692,
+            54.319939
+          ],
+          [
+            -4.403729,
+            54.319938
+          ],
+          [
+            -4.40374,
+            54.320015
+          ],
+          [
+            -4.404172,
+            54.319994
+          ],
+          [
+            -4.404167,
+            54.319959
+          ],
+          [
+            -4.403995,
+            54.319967
+          ],
+          [
+            -4.403984,
+            54.319885
+          ],
+          [
+            -4.404225,
+            54.319873
+          ],
+          [
+            -4.404217,
+            54.319819
+          ],
+          [
+            -4.404256,
+            54.319817
+          ],
+          [
+            -4.404278,
+            54.319969
+          ],
+          [
+            -4.404299,
+            54.319968
+          ],
+          [
+            -4.404302,
+            54.319988
+          ],
+          [
+            -4.404412,
+            54.319983
+          ],
+          [
+            -4.404397,
+            54.319879
+          ],
+          [
+            -4.404364,
+            54.319881
+          ],
+          [
+            -4.404346,
+            54.319773
+          ],
+          [
+            -4.404196,
+            54.31978
+          ],
+          [
+            -4.404141,
+            54.319783
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housename": "Milntown House",
+        "addr:postcode": "IM7 2AB",
+        "addr:street": "Lezayre Road",
+        "alt_name": "Milntown House",
+        "building": "yes",
+        "charity": "yes",
+        "historic": "house",
+        "listed_status": "Registered",
+        "name": "Milntown Estate & Gardens",
+        "old_name": "Altadale",
+        "operator": "The Milntown Trust",
+        "operator:type": "charitable",
+        "ref:charity": "754",
+        "ref:registered_building": "168",
+        "tourism": "attraction",
+        "url:registered_building": "https://www.gov.im/media/632555/0500168regbldmilntownmansion.pdf",
+        "website": "https://www.milntown.org/",
+        "wikidata": "Q118188757"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 773781469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395665,
+            54.337
+          ],
+          [
+            -4.395262,
+            54.33676
+          ],
+          [
+            -4.395153,
+            54.336822
+          ],
+          [
+            -4.395314,
+            54.336918
+          ],
+          [
+            -4.395256,
+            54.336952
+          ],
+          [
+            -4.395224,
+            54.336933
+          ],
+          [
+            -4.395035,
+            54.33704
+          ],
+          [
+            -4.395205,
+            54.337141
+          ],
+          [
+            -4.395307,
+            54.337082
+          ],
+          [
+            -4.395266,
+            54.337057
+          ],
+          [
+            -4.395247,
+            54.337004
+          ],
+          [
+            -4.395283,
+            54.336982
+          ],
+          [
+            -4.395439,
+            54.337075
+          ],
+          [
+            -4.395507,
+            54.337035
+          ],
+          [
+            -4.395554,
+            54.337063
+          ],
+          [
+            -4.395665,
+            54.337
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Lezayre",
+        "addr:housename": "Grest Care Home",
+        "addr:postcode": "IM7 4EA",
+        "addr:street": "Andreas Road",
+        "amenity": "social_facility",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Grest Care Home",
+        "operator": "Grest Trust",
+        "operator:type": "charitable",
+        "ref:charity": "6",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "start_date:charity": "1873",
+        "website": "https://www.grestcarehome.co.uk",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154467407,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.505121,
+            54.16171
+          ],
+          [
+            -4.505101,
+            54.161631
+          ],
+          [
+            -4.505391,
+            54.161605
+          ],
+          [
+            -4.505412,
+            54.161684
+          ],
+          [
+            -4.505121,
+            54.16171
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Braddan",
+        "addr:housename": "Braddan Bridge House",
+        "addr:postcode": "IM4 4TN",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Joey Dunlop Foundation",
+        "note": "holiday accommodation for disabled visitors",
+        "operator": "Joey Dunlop Foundation",
+        "operator:type": "charitable",
+        "ref:charity": "842",
+        "tourism": "chalet",
+        "website": "https://www.joeydunlopfoundation.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1158812324,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483909,
+            54.15306
+          ],
+          [
+            -4.483943,
+            54.153107
+          ],
+          [
+            -4.484083,
+            54.153072
+          ],
+          [
+            -4.484049,
+            54.153025
+          ],
+          [
+            -4.483909,
+            54.15306
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "88",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "charity": "animal",
+        "contact:website": "http://www.mspca.com/",
+        "name": "MSPCA",
+        "opening_hours": "Tu-Sa 10:00-16:00",
+        "phone": "+44 1624 851672",
+        "shop": "charity"
+      }
+    }
+  ]
+}
