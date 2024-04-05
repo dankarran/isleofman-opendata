@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+import geopandas
 import overpass
 import csv
 import json
@@ -21,6 +22,8 @@ def openstreetmap():
     data = load_data(sources)
     data = process_data(sources, data)
     write_data(sources, data)
+
+    generate_postcode_boundaries(sources, data)
 
 
 def load_data(sources):
@@ -153,3 +156,37 @@ def write_data(sources, data):
                     df_out = df[csv_columns]
 
                 df_out.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
+
+
+def generate_postcode_boundaries(sources, data):
+    print(" - Generating postcode boundaries")
+
+    filepath = data_dir + "sources/overpass/postcodes.geojson"
+    if os.path.isfile(filepath):
+        gdf = geopandas.read_file(filepath)
+
+        # find valid postcodes (exclude IM99)
+        im_postcode_regex = '^IM[0-9] [0-9][A-Z]{2}$'
+        valid_postcode_rows = gdf["addr:postcode"].str.contains(im_postcode_regex)
+        gdf = gdf[valid_postcode_rows]
+
+        # districts (e.g. IM1)
+        gdf["district"] = gdf["addr:postcode"].str.slice(start=0, stop=3)
+
+        districts = gdf.dissolve("district").convex_hull
+        districts_filepath = data_dir + "outputs/postcodes/postcode_districts.geojson"
+        districts.to_file(districts_filepath, driver="GeoJSON")
+
+        print("    ", len(districts), "districts added")
+
+        # sectors (e.g. IM1 1)
+        gdf["sector"] = gdf["addr:postcode"].str.slice(start=0, stop=5)
+
+        sectors = gdf.dissolve("sector").convex_hull
+        sectors_filepath = data_dir + "outputs/postcodes/postcode_sectors.geojson"
+        sectors.to_file(sectors_filepath, driver="GeoJSON")
+
+        print("    ", len(sectors), "sectors added")
+
+    else:
+        print("    ", "No postcodes GeoJSON found")

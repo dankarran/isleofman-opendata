@@ -1,13 +1,22 @@
+attrs==23.2.0
 beautifulsoup4==4.12.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
+fiona==1.9.6
 geojson==3.1.0
+geopandas==0.14.3
 html5lib==1.1
 idna==3.6
+importlib_metadata==7.1.0
 lxml==5.2.1
 numpy==1.26.4
 overpass==0.7
+packaging==24.0
 pandas==2.2.1
+pyproj==3.6.1
 python-dateutil==2.9.0.post0
 pytz==2024.1
 requests==2.31.0
@@ -17,3 +26,4 @@ soupsieve==2.5
 tzdata==2024.1
 urllib3==1.26.18
 webencodings==0.5.1
+zipp==3.18.1
