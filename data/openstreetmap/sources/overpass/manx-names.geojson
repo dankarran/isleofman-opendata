@@ -49104,7 +49104,9 @@
         "name": "Corran Pirragh",
         "name:en": "Kittiwake Crescent",
         "name:gv": "Corran Pirragh",
+        "postal_code": "IM5 1GN",
         "source": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones"
       }
     },
@@ -57789,7 +57791,9 @@
         "name": "Raad Bridjeen",
         "name:en": "Oystercatcher Road",
         "name:gv": "Raad Bridjeen",
+        "postal_code": "IM5 1GQ",
         "source": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
       }
     },
@@ -75325,8 +75329,10 @@
         "name": "Christian Avenue",
         "name:en": "Christian Avenue",
         "name:gv": "Astyl Creesteen",
+        "postal_code": "IM5 1GU",
         "sidewalk": "no",
         "source": "Maxar",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones"
       }
     },
@@ -75354,6 +75360,145 @@
         "sidewalk": "no",
         "source": "Maxar",
         "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 809162630,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.683282,
+            54.218861
+          ],
+          [
+            -4.68325,
+            54.218343
+          ],
+          [
+            -4.683341,
+            54.217744
+          ],
+          [
+            -4.682526,
+            54.21715
+          ],
+          [
+            -4.682737,
+            54.217025
+          ],
+          [
+            -4.682368,
+            54.216874
+          ],
+          [
+            -4.682282,
+            54.216924
+          ],
+          [
+            -4.68151,
+            54.216635
+          ],
+          [
+            -4.68137,
+            54.216541
+          ],
+          [
+            -4.681038,
+            54.216384
+          ],
+          [
+            -4.680963,
+            54.216303
+          ],
+          [
+            -4.680666,
+            54.21623
+          ],
+          [
+            -4.680432,
+            54.21648
+          ],
+          [
+            -4.679774,
+            54.216786
+          ],
+          [
+            -4.679597,
+            54.216998
+          ],
+          [
+            -4.678239,
+            54.217754
+          ],
+          [
+            -4.678053,
+            54.217993
+          ],
+          [
+            -4.677429,
+            54.218581
+          ],
+          [
+            -4.676578,
+            54.219096
+          ],
+          [
+            -4.677168,
+            54.219303
+          ],
+          [
+            -4.677066,
+            54.21947
+          ],
+          [
+            -4.676936,
+            54.219589
+          ],
+          [
+            -4.678462,
+            54.219929
+          ],
+          [
+            -4.680079,
+            54.218751
+          ],
+          [
+            -4.68106,
+            54.218154
+          ],
+          [
+            -4.681314,
+            54.218294
+          ],
+          [
+            -4.681593,
+            54.218446
+          ],
+          [
+            -4.682128,
+            54.21874
+          ],
+          [
+            -4.682332,
+            54.218772
+          ],
+          [
+            -4.683282,
+            54.218861
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Slieau Whallian View",
+        "fixme": "land transactions suggests this is also known as Slieau Whallian View, which doesn't seem like a direct translation of the Manx?",
+        "landuse": "residential",
+        "name": "Reayrt ny Cronk",
+        "name:gv": "Reayrt ny Cronk",
+        "residential": "urban",
+        "source": "Maxar",
+        "source:alt_name": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -76121,7 +76266,9 @@
         "name": "School Close",
         "name:en": "School Close",
         "name:gv": "Close Y Scoill",
+        "postal_code": "IM5 1QZ",
         "sidewalk": "no",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones"
       }
     },
@@ -77453,20 +77600,16 @@
             54.219448
           ],
           [
-            -4.675396,
-            54.219226
+            -4.675354,
+            54.219234
           ],
           [
-            -4.674117,
-            54.218872
+            -4.673844,
+            54.218819
           ],
           [
-            -4.672884,
-            54.218539
-          ],
-          [
-            -4.671174,
-            54.218074
+            -4.672614,
+            54.218486
           ],
           [
             -4.671013,

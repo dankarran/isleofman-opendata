@@ -61,6 +61,12 @@
       "csv_columns": ["name", "name:en", "name:gv", "ref"]
     },
     {
+      "label": "postal_codes",
+      "query": "nw['postal_code'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["postal_code", "source:postal_code"]
+    },
+    {
       "label": "postcodes",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
