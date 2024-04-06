@@ -17,7 +17,7 @@ A dataset of planning applications, including address details.
   * Appeals 
     * 2011-2022 :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/appeals.csv)
   * Addressing
-    * Postcodes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/addressing/postcodes/postcodes.csv)
+    * Postcodes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/planning-applications/outputs/addressing/postcodes.csv)
 
 ## License
 

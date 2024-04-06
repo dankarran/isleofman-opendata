@@ -10,13 +10,13 @@ Information about land transactions, including address details.
 ## Outputs
 
   * Land transactions (with hash, partially cleansed with corrections) :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/land-transactions.csv)
-  * Addressing (ignoring known issues)
-    * Places
-      * Parishes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/parishes.csv)
-      * Towns :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/towns.csv)
-      * Localities :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/places/localities.csv)
-    * Streets :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/streets/streets.csv)
-    * Postcodes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/postcodes/postcodes.csv)
+  * Addressing (some known issues filtered out)
+    * Addresses (unfiltered) :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/addresses.csv)
+    * Streets :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/streets.csv)
+    * Localities :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/localities.csv)
+    * Towns :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/towns.csv)
+    * Postcodes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/postcodes.csv)
+    * Parishes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/parishes.csv)
   * Issues noted during processing (with hash of transaction) :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/issues.csv)
 
 ## Known issues

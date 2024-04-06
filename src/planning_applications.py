@@ -280,7 +280,7 @@ def process_addresses(data):
 
     print("    ", len(postcodes_df), "postcodes added")
 
-    postcodes_df.to_csv(data_dir + 'outputs/addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
+    postcodes_df.to_csv(data_dir + 'outputs/addressing/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     return data
 

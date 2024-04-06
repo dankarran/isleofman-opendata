@@ -14,6 +14,13 @@ Land Transactions data processing
 data_dir = 'data/gov.im/land-transactions/'
 source_file = 'land-transactions.csv'
 
+invalid_streets_regex = '^$|[0-9]|[(]|Abutting|Adjacent |Adjoining |At |Allotment ' \
+                            + '|^Land |^Lands |^Lane |^Off |Of Land |Opposite ' \
+                            + '|^Parcel |Part Of |Pathway |Patio Area |Plot |Private |Rear Of '
+invalid_localities_regex = '[0-9]|&| And |Abutting|Adjacent To|Adjoining| Road| Drive| Street|^$'
+invalid_towns_regex = ' Road|[0-9]|Isle [oO]f Man|Part Of| And |^Nr '
+im_postcode_regex = '^IM[0-9]9? [0-9][A-Z]{2}$'
+
 issues = []
 issue_rows = []
 
@@ -64,11 +71,7 @@ def process_data(data):
     data = add_hash(data)
     data = apply_corrections(data)
 
-    data = process_parishes(data)
-    data = process_towns(data)
-    data = process_localities(data)
-    data = process_streets(data)
-    data = process_postcodes(data)
+    data = process_addresses(data)
 
     return data
 
@@ -164,6 +167,27 @@ def apply_corrections(data):
     return data
 
 
+def process_addresses(data):
+    data = process_parishes(data)
+    data = process_towns(data)
+    data = process_localities(data)
+    data = process_streets(data)
+    data = process_postcodes(data)
+
+    # full addresses
+    # TODO: probably want a cleansed dataset too
+    address_fields = ["SubUnit_Name", "House_Number", "House_Name", "Street_Name",
+                      "Locality", "Town", "Postcode", "Parish"]
+    address_sort = ["Street_Name", "Town", "House_Number", "House_Name", "SubUnit_Name"]
+    addresses = data[address_fields].sort_values(by=address_sort)
+    addresses = addresses.drop_duplicates()
+    addresses.to_csv(data_dir + 'outputs/addressing/addresses.csv', index=False, quoting=csv.QUOTE_ALL)
+
+    print("    ", len(addresses), "addresses added")
+
+    return data
+
+
 def process_parishes(data):
     # Parishes
     print(" - Parishes")
@@ -171,13 +195,12 @@ def process_parishes(data):
     data["Parish"] = data["Parish"].astype(str)
     data["Parish"] = data["Parish"].str.strip()
 
-    parishes = sorted(data["Parish"].unique())
+    parishes = data[["Parish"]].sort_values(by=["Parish"])
+    parishes = parishes.drop_duplicates()
+    parishes = parishes.rename(columns={"Parish": "Name"})
+    parishes.to_csv(data_dir + 'outputs/addressing/parishes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(parishes), "parishes added")
-
-    parishes_df = pd.DataFrame(parishes)
-    parishes_df = parishes_df.rename(columns={0: "Name"})
-    parishes_df.to_csv(data_dir + 'outputs/addressing/places/parishes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     return data
 
@@ -190,19 +213,15 @@ def process_towns(data):
     data["Town"] = data["Town"].str.strip()
 
     # exclude known non-towns not fixed in corrections file
-    invalid_towns_regex = ' Road|[0-9]|Isle [oO]f Man|Part Of| And |^Nr '
     invalid_towns_rows = data["Town"].str.contains(invalid_towns_regex)
 
     towns = data[~invalid_towns_rows]
-    towns = towns.sort_values(by=["Town"])
-    towns = towns[["Town"]]
+    towns = towns[["Town"]].sort_values(by=["Town"])
     towns = towns.drop_duplicates()
+    towns = towns.rename(columns={"Town": "Name"})
+    towns.to_csv(data_dir + 'outputs/addressing/towns.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(towns), "towns added")
-
-    towns_df = pd.DataFrame(towns)
-    towns_df = towns_df.rename(columns={"Town": "Name"})
-    towns_df.to_csv(data_dir + 'outputs//addressing/places/towns.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     for index, row in data[invalid_towns_rows].iterrows():
@@ -224,20 +243,16 @@ def process_localities(data):
     data["Locality"] = data["Locality"].str.strip()
 
     # exclude known non-localities
-    invalid_localities_regex = '[0-9]|&| And |Abutting|Adjacent To|Adjoining| Road| Drive| Street|^$'
     invalid_localities_rows = data["Locality"].str.contains(invalid_localities_regex)
 
     localities = data[~invalid_localities_rows]
-    localities = localities.sort_values(by=["Locality"])
-    localities = localities[["Locality"]]
+    localities = localities[["Locality"]].sort_values(by=["Locality"])
     localities = localities.dropna()
     localities = localities.drop_duplicates()
+    localities = localities.rename(columns={"Locality": "Name"})
+    localities.to_csv(data_dir + 'outputs/addressing/localities.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(localities), "localities added")
-
-    localities_df = pd.DataFrame(localities)
-    localities_df = localities_df.rename(columns={"Locality": "Name"})
-    localities_df.to_csv(data_dir + 'outputs//addressing/places/localities.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     issue_count = 0
@@ -263,20 +278,15 @@ def process_streets(data):
     data["Street_Name"] = data["Street_Name"].str.strip()
 
     # exclude known non-streets
-    invalid_streets_regex = '^$|[0-9]|[(]|Abutting|Adjacent |Adjoining |At |Allotment ' \
-                            + '|^Land |^Lands |^Lane |^Off |Of Land |Opposite ' \
-                            + '|^Parcel |Part Of |Pathway |Patio Area |Plot |Private |Rear Of '
     invalid_streets_rows = data["Street_Name"].str.contains(invalid_streets_regex)
 
     streets = data[~invalid_streets_rows]
     streets = streets[["Street_Name", "Town"]].sort_values(by=["Street_Name", "Town"])
     streets = streets.drop_duplicates()
+    streets = streets.rename(columns={"Street_Name": "Name"})
+    streets.to_csv(data_dir + 'outputs/addressing/streets.csv', index=False, quoting=csv.QUOTE_ALL)
 
     print("    ", len(streets), "streets added")
-
-    streets_df = pd.DataFrame(streets)
-    streets_df = streets_df.rename(columns={"Street_Name": "Name"})
-    streets_df.to_csv(data_dir + 'outputs//addressing/streets/streets.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     issue_count = 0
@@ -300,17 +310,16 @@ def process_postcodes(data):
     data["Postcode"] = data["Postcode"].str.strip()
 
     # find valid postcodes
-    im_postcode_regex = '^IM[0-9]9? [0-9][A-Z]{2}$'
     valid_postcode_rows = data["Postcode"].str.contains(im_postcode_regex)
 
-    postcodes = data[valid_postcode_rows].sort_values(by=["Postcode"])
-    postcodes = postcodes[["Postcode"]]
+    postcodes = data[valid_postcode_rows]
+    postcodes = postcodes[["Postcode"]].sort_values(by=["Postcode"])
     postcodes = postcodes.drop_duplicates()
 
     print("    ", len(postcodes), "postcodes added")
 
     postcodes_df = pd.DataFrame(postcodes)
-    postcodes_df.to_csv(data_dir + 'outputs//addressing/postcodes/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
+    postcodes_df.to_csv(data_dir + 'outputs/addressing/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
 
     # handle issues
     issue_count = 0
