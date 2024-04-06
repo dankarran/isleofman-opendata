@@ -97,25 +97,6 @@
     },
     {
       "type": "Feature",
-      "id": 918545243,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.452853,
-          54.17596
-        ]
-      },
-      "properties": {
-        "government": "yes",
-        "name": "Onchan District Commissioners",
-        "office": "government",
-        "phone": "01624 675564",
-        "postal_code": "IM3 1RD",
-        "website": "https://www.onchan.org.im/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 936625322,
       "geometry": {
         "type": "Point",
@@ -344,11 +325,13 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "44",
+        "addr:postcode": "IM3 4HR",
         "addr:street": "Whitebridge Road",
         "building": "house",
         "building:levels": "2",
         "name": "Blue Goose Systems",
-        "office": "it"
+        "office": "it",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
       }
     },
     {
@@ -6009,6 +5992,61 @@
         "building": "office",
         "name": "Microgaming",
         "office": "company"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865614,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453125,
+            54.17583
+          ],
+          [
+            -4.453001,
+            54.175887
+          ],
+          [
+            -4.452903,
+            54.175812
+          ],
+          [
+            -4.452883,
+            54.175797
+          ],
+          [
+            -4.453008,
+            54.175741
+          ],
+          [
+            -4.453071,
+            54.175789
+          ],
+          [
+            -4.453112,
+            54.175821
+          ],
+          [
+            -4.453125,
+            54.17583
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Hawthorn Villa",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM3 1RD",
+        "addr:street": "Onchan Main Road",
+        "building": "yes",
+        "building:levels": "3",
+        "government": "yes",
+        "name": "Onchan District Commissioners",
+        "office": "government",
+        "phone": "+44 1624 675564",
+        "website": "https://www.onchan.org.im/"
       }
     },
     {

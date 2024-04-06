@@ -2712,6 +2712,29 @@
     },
     {
       "type": "Feature",
+      "id": 5252054773,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.448577,
+          54.177594
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM3 4HR",
+        "addr:street": "Whitebridge Road",
+        "building": "house",
+        "building:levels": "2",
+        "name": "Blue Goose Systems",
+        "office": "it",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 5331323721,
       "geometry": {
         "type": "Point",
@@ -7228,6 +7251,66 @@
         "fixme": "check location",
         "name": "Majestic",
         "website": "https://palacehotel.co.im/majestic/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11795186846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452293,
+          54.176191
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM3 4HQ",
+        "addr:street": "Whitebridge Road",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11795223570,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.451206,
+          54.176811
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM2 4HQ",
+        "addr:street": "Whitebridge Road",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11795223571,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.450719,
+          54.17708
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM3 4HJ",
+        "addr:street": "Whitebridge Road",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -24804,7 +24887,6 @@
         "addr:street": "School Road",
         "amenity": "school",
         "name": "Onchan Primary School",
-        "postal_code": "IM3 4PD",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://onchan.sch.im"
       }
@@ -100415,6 +100497,150 @@
     },
     {
       "type": "Feature",
+      "id": 981865486,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452067,
+            54.177327
+          ],
+          [
+            -4.452148,
+            54.177452
+          ],
+          [
+            -4.452017,
+            54.177481
+          ],
+          [
+            -4.451936,
+            54.177356
+          ],
+          [
+            -4.452067,
+            54.177327
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865487,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451955,
+            54.17717
+          ],
+          [
+            -4.452043,
+            54.17729
+          ],
+          [
+            -4.451914,
+            54.177322
+          ],
+          [
+            -4.451825,
+            54.177202
+          ],
+          [
+            -4.451955,
+            54.17717
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865488,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.45169,
+            54.177032
+          ],
+          [
+            -4.451815,
+            54.177001
+          ],
+          [
+            -4.451906,
+            54.177125
+          ],
+          [
+            -4.451782,
+            54.177156
+          ],
+          [
+            -4.45169,
+            54.177032
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865489,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451695,
+            54.176823
+          ],
+          [
+            -4.451787,
+            54.176952
+          ],
+          [
+            -4.451649,
+            54.176986
+          ],
+          [
+            -4.451557,
+            54.176856
+          ],
+          [
+            -4.451695,
+            54.176823
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865552,
       "geometry": {
         "type": "LineString",
@@ -100762,6 +100988,241 @@
         "building": "yes",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865597,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.454292,
+            54.177619
+          ],
+          [
+            -4.454264,
+            54.177678
+          ],
+          [
+            -4.453721,
+            54.177589
+          ],
+          [
+            -4.453749,
+            54.17753
+          ],
+          [
+            -4.454292,
+            54.177619
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4LB",
+        "addr:street": "First Avenue",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865602,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452318,
+            54.177104
+          ],
+          [
+            -4.452441,
+            54.177072
+          ],
+          [
+            -4.452523,
+            54.177178
+          ],
+          [
+            -4.4524,
+            54.17721
+          ],
+          [
+            -4.452318,
+            54.177104
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865603,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452179,
+            54.176934
+          ],
+          [
+            -4.452322,
+            54.176898
+          ],
+          [
+            -4.452401,
+            54.177003
+          ],
+          [
+            -4.452258,
+            54.17704
+          ],
+          [
+            -4.452179,
+            54.176934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865608,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452047,
+            54.176775
+          ],
+          [
+            -4.45218,
+            54.17674
+          ],
+          [
+            -4.452275,
+            54.176866
+          ],
+          [
+            -4.452142,
+            54.1769
+          ],
+          [
+            -4.452047,
+            54.176775
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865609,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451925,
+            54.176616
+          ],
+          [
+            -4.452061,
+            54.17658
+          ],
+          [
+            -4.452156,
+            54.1767
+          ],
+          [
+            -4.45202,
+            54.176737
+          ],
+          [
+            -4.451925,
+            54.176616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4HH",
+        "addr:street": "Sandringham Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865614,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453125,
+            54.17583
+          ],
+          [
+            -4.453001,
+            54.175887
+          ],
+          [
+            -4.452903,
+            54.175812
+          ],
+          [
+            -4.452883,
+            54.175797
+          ],
+          [
+            -4.453008,
+            54.175741
+          ],
+          [
+            -4.453071,
+            54.175789
+          ],
+          [
+            -4.453112,
+            54.175821
+          ],
+          [
+            -4.453125,
+            54.17583
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Hawthorn Villa",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM3 1RD",
+        "addr:street": "Onchan Main Road",
+        "building": "yes",
+        "building:levels": "3",
+        "government": "yes",
+        "name": "Onchan District Commissioners",
+        "office": "government",
+        "phone": "+44 1624 675564",
+        "website": "https://www.onchan.org.im/"
       }
     },
     {
@@ -103149,6 +103610,52 @@
         "building": "yes",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1106302620,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448633,
+            54.177521
+          ],
+          [
+            -4.44871,
+            54.177574
+          ],
+          [
+            -4.448645,
+            54.177607
+          ],
+          [
+            -4.448689,
+            54.177636
+          ],
+          [
+            -4.448631,
+            54.177666
+          ],
+          [
+            -4.44851,
+            54.177583
+          ],
+          [
+            -4.448633,
+            54.177521
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM3 4HR",
+        "addr:street": "Whitebridge Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
       }
     },
     {
@@ -119041,6 +119548,70 @@
         "addr:postcode": "IM4 4PZ",
         "addr:street": "The Falls",
         "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250924097,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452469,
+            54.175553
+          ],
+          [
+            -4.452604,
+            54.175632
+          ],
+          [
+            -4.452632,
+            54.175616
+          ],
+          [
+            -4.452685,
+            54.175646
+          ],
+          [
+            -4.452901,
+            54.17552
+          ],
+          [
+            -4.452738,
+            54.175424
+          ],
+          [
+            -4.452785,
+            54.175397
+          ],
+          [
+            -4.452687,
+            54.175339
+          ],
+          [
+            -4.452529,
+            54.175431
+          ],
+          [
+            -4.452603,
+            54.175474
+          ],
+          [
+            -4.452469,
+            54.175553
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1AC",
+        "addr:street": "Onchan Main Road",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "methodist",
+        "name": "Onchan Methodist Church",
+        "religion": "christian",
+        "website": "https://www.methodist.org.im/chapels-communities/onchan.html"
       }
     }
   ]
