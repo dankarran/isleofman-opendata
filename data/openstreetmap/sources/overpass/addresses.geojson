@@ -1471,6 +1471,7 @@
         "opening_hours": "Mo-Sa 10:00-17:00",
         "operator": "Crossroads Care",
         "operator:type": "charitable",
+        "ref:charity": "383",
         "shop": "charity",
         "website": "https://www.crossroadsiom.org/"
       }
@@ -21597,6 +21598,7 @@
         "opening_hours": "Mo-Sa 10:00-17:00",
         "operator": "Crossroads Care",
         "operator:type": "charitable",
+        "ref:charity": "383",
         "shop": "furniture",
         "source": "Isle of Man Government aerial imagery (2001);survey;",
         "website": "https://www.crossroadsiom.org/"
@@ -34398,8 +34400,10 @@
         "amenity": "cafe",
         "animal": "shelter",
         "building": "yes",
+        "charity": "animal",
         "name": "Ard Jerkyll",
-        "operator": "MSPCA",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
         "website": "https://www.manxspca.com",
         "wheelchair": "limited"
       }

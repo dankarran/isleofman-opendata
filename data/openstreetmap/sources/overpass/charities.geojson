@@ -25,8 +25,28 @@
         "opening_hours": "Mo-Sa 10:00-17:00",
         "operator": "Crossroads Care",
         "operator:type": "charitable",
+        "ref:charity": "383",
         "shop": "charity",
         "website": "https://www.crossroadsiom.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8567404081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.617924,
+          54.17026
+        ]
+      },
+      "properties": {
+        "amenity": "animal_shelter",
+        "charity": "animal",
+        "name": "Ard Jerkyll",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
+        "website": "https://www.manxspca.com"
       }
     },
     {
@@ -142,6 +162,7 @@
         "opening_hours": "Mo-Sa 10:00-17:00",
         "operator": "Crossroads Care",
         "operator:type": "charitable",
+        "ref:charity": "383",
         "shop": "furniture",
         "source": "Isle of Man Government aerial imagery (2001);survey;",
         "website": "https://www.crossroadsiom.org/"
@@ -226,6 +247,55 @@
         "ref:charity": "1274",
         "source": "bing",
         "website": "https://www.hbot.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92112419,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.617991,
+            54.170116
+          ],
+          [
+            -4.617987,
+            54.170204
+          ],
+          [
+            -4.617733,
+            54.1702
+          ],
+          [
+            -4.617733,
+            54.170189
+          ],
+          [
+            -4.617669,
+            54.170189
+          ],
+          [
+            -4.617672,
+            54.170111
+          ],
+          [
+            -4.617991,
+            54.170116
+          ]
+        ]
+      },
+      "properties": {
+        "addr:postcode": "IM4 3HL",
+        "amenity": "cafe",
+        "animal": "shelter",
+        "building": "yes",
+        "charity": "animal",
+        "name": "Ard Jerkyll",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
+        "website": "https://www.manxspca.com",
+        "wheelchair": "limited"
       }
     },
     {
@@ -910,10 +980,12 @@
         "addr:street": "Bucks Road",
         "building": "terrace",
         "charity": "animal",
-        "contact:website": "http://www.mspca.com/",
-        "name": "MSPCA",
+        "contact:website": "https://www.manxspca.com",
+        "name": "ManxSPCA",
         "opening_hours": "Tu-Sa 10:00-16:00",
+        "operator": "ManxSPCA",
         "phone": "+44 1624 851672",
+        "ref:charity": "26A",
         "shop": "charity"
       }
     }
