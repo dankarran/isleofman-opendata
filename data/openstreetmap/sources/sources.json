@@ -11,7 +11,7 @@
       "label": "archaeological-sites",
       "query": "node['historic'='archaeological_site'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "archaeological_site", "ref:GB:imher", "url:imher", "source"],
+      "csv_columns": ["name", "name:en", "name:gv", "archaeological_site", "ref:GB:imher", "url:imher", "wikidata", "source"],
       "sort_columns": ["name"]
     },
     {
@@ -59,7 +59,14 @@
       "label": "named-places",
       "query": "node['place']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "place"],
+      "csv_columns": ["name", "name:en", "name:gv", "place", "wikidata"],
+      "sort_columns": ["name"]
+    },
+    {
+      "label": "natural",
+      "query": "nw['natural'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "natural", "ele", "wikidata"],
       "sort_columns": ["name"]
     },
     {
@@ -94,7 +101,7 @@
       "label": "registered-buildings",
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building"],
+      "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building", "wikidata"],
       "sort_columns": ["ref:registered_building"]
     },
     {
@@ -108,7 +115,7 @@
       "label": "tourism",
       "query": "nw['tourism'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "tourism", "website", "phone"],
+      "csv_columns": ["name", "name:en", "name:gv", "tourism", "website", "phone", "wikidata"],
       "sort_columns": ["name"]
     }
   ]
