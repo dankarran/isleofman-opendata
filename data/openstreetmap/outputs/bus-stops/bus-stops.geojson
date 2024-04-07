@@ -1054,6 +1054,33 @@
     },
     {
       "type": "Feature",
+      "id": 942430683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467666,
+          54.164765
+        ]
+      },
+      "properties": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Queens Promenade / Piccadilly Court",
+        "public_transport": "platform",
+        "railway": "tram_stop",
+        "ref": "122",
+        "request_stop": "yes",
+        "shelter": "yes",
+        "tram": "yes",
+        "osm_id": 942430683,
+        "lon": -4.467666,
+        "lat": 54.164765,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/942430683"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 942463419,
       "geometry": {
         "type": "Point",
@@ -5142,33 +5169,6 @@
         "lat": 54.162583,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179870113"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9179874537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.467666,
-          54.164765
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Queens Promenade / Piccadilly Court",
-        "public_transport": "platform",
-        "railway": "tram_stop",
-        "ref": "122",
-        "request_stop": "yes",
-        "shelter": "yes",
-        "tram": "yes",
-        "osm_id": 9179874537,
-        "lon": -4.467666,
-        "lat": 54.164765,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/9179874537"
       }
     },
     {

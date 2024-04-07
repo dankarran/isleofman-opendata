@@ -834,6 +834,28 @@
     },
     {
       "type": "Feature",
+      "id": 942430683,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467666,
+          54.164765
+        ]
+      },
+      "properties": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Queens Promenade / Piccadilly Court",
+        "public_transport": "platform",
+        "railway": "tram_stop",
+        "ref": "122",
+        "request_stop": "yes",
+        "shelter": "yes",
+        "tram": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 942463419,
       "geometry": {
         "type": "Point",
@@ -4057,28 +4079,6 @@
         "name": "Woodbourne Road / St. Mary's",
         "public_transport": "platform",
         "ref": "135"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9179874537,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.467666,
-          54.164765
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Queens Promenade / Piccadilly Court",
-        "public_transport": "platform",
-        "railway": "tram_stop",
-        "ref": "122",
-        "request_stop": "yes",
-        "shelter": "yes",
-        "tram": "yes"
       }
     },
     {

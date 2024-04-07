@@ -56,6 +56,13 @@
       "sort_columns": ["name", "ref"]
     },
     {
+      "label": "named-places",
+      "query": "node['place']['name'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "place"],
+      "sort_columns": ["name"]
+    },
+    {
       "label": "offices",
       "query": "nw['office'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
