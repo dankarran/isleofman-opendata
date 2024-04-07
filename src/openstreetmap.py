@@ -143,6 +143,8 @@ def write_data(sources, data):
 
                 df = data["overpass"][source["label"]]["df"]
                 df_out = df
+
+                # limit columns in output
                 if "csv_columns" in source:
                     csv_columns = ["osm_id", "osm_type", "osm_url", "lat", "lon"]
                     csv_columns.extend(source["csv_columns"].copy())
@@ -154,6 +156,10 @@ def write_data(sources, data):
 
                     print("      ", "Writing columns", csv_columns)
                     df_out = df[csv_columns]
+
+                # sort data in columns
+                if "sort_columns" in source:
+                    df_out = df_out.sort_values(by=source["sort_columns"])
 
                 df_out.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
 

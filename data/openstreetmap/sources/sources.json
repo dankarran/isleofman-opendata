@@ -4,25 +4,29 @@
       "label": "addresses",
       "query": "nw['addr:housenumber'](54,-5,54.5,-4);nw['addr:housename'](54,-5,54.5,-4);nw['addr:street'](54,-5,54.5,-4);nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"]
+      "csv_columns": ["addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"],
+      "sort_columns": ["addr:street", "addr:city", "addr:housenumber", "addr:housename"]
     },
     {
       "label": "archaeological-sites",
       "query": "node['historic'='archaeological_site'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "archaeological_site", "ref:GB:imher", "url:imher", "source"]
+      "csv_columns": ["name", "name:en", "name:gv", "archaeological_site", "ref:GB:imher", "url:imher", "source"],
+      "sort_columns": ["name"]
     },
     {
       "label": "bus-stops",
       "query": "node['highway'='bus_stop'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "ref"]
+      "csv_columns": ["name", "name:en", "name:gv", "ref"],
+      "sort_columns": ["ref"]
     },
     {
       "label": "charities",
       "query": "nw['charity'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "charity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
+      "csv_columns": ["name", "name:en", "name:gv", "charity", "ref:charity", "operator", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
+      "sort_columns": ["name"]
     },
     {
       "label": "defibrillators",
@@ -34,61 +38,71 @@
       "label": "food-and-drink",
       "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
+      "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
+      "sort_columns": ["name"]
     },
     {
       "label": "manx-names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "highway", "railway", "place", "natural"]
+      "csv_columns": ["name", "name:en", "name:gv", "highway", "railway", "place", "natural"],
+      "sort_columns": ["name:gv"]
     },
     {
       "label": "named-highways",
       "query": "way['highway']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "ref", "highway"]
+      "csv_columns": ["name", "name:en", "name:gv", "ref", "highway"],
+      "sort_columns": ["name", "ref"]
     },
     {
       "label": "offices",
       "query": "nw['office'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "office", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
+      "csv_columns": ["name", "name:en", "name:gv", "office", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
+      "sort_columns": ["name"]
     },
     {
       "label": "postboxes",
       "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "ref"]
+      "csv_columns": ["name", "name:en", "name:gv", "ref"],
+      "sort_columns": ["ref"]
     },
     {
       "label": "postal_codes",
       "query": "nw['postal_code'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["postal_code", "source:postal_code"]
+      "csv_columns": ["postal_code", "source:postal_code"],
+      "sort_columns": ["postal_code"]
     },
     {
       "label": "postcodes",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["addr:postcode", "source:addr:postcode"]
+      "csv_columns": ["addr:postcode", "source:addr:postcode"],
+      "sort_columns": ["addr:postcode"]
     },
     {
       "label": "registered-buildings",
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building"]
+      "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building"],
+      "sort_columns": ["ref:registered_building"]
     },
     {
       "label": "shops",
       "query": "nw['shop'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "shop", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"]
+      "csv_columns": ["name", "name:en", "name:gv", "shop", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
+      "sort_columns": ["name"]
     },
     {
       "label": "tourism",
       "query": "nw['tourism'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "tourism", "website", "phone"]
+      "csv_columns": ["name", "name:en", "name:gv", "tourism", "website", "phone"],
+      "sort_columns": ["name"]
     }
   ]
 }
