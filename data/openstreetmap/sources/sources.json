@@ -56,17 +56,17 @@
       "sort_columns": ["name", "ref"]
     },
     {
+      "label": "named-natural",
+      "query": "nw['natural']['name'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "natural", "ele", "wikidata"],
+      "sort_columns": ["name"]
+    },
+    {
       "label": "named-places",
       "query": "node['place']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "place", "wikidata"],
-      "sort_columns": ["name"]
-    },
-    {
-      "label": "natural",
-      "query": "nw['natural'](54,-5,54.5,-4);",
-      "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "natural", "ele", "wikidata"],
       "sort_columns": ["name"]
     },
     {
