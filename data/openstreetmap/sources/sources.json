@@ -80,7 +80,7 @@
       "label": "places-of-worship",
       "query": "nw['amenity'='place_of_worship'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "religion", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
+      "csv_columns": ["name", "name:en", "name:gv", "religion", "denomination", "service_times", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
       "sort_columns": ["name"]
     },
     {
