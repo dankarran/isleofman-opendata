@@ -1,6 +1,10 @@
 import os
 import pandas as pd
 import geopandas
+from shapely.geometry import shape
+from shapely.geometry.polygon import Polygon
+from shapely.geometry.point import Point
+from shapely import get_x, get_y
 import overpass
 import csv
 import json
@@ -97,15 +101,12 @@ def process_data(sources, data):
                     row["lon"] = feature["geometry"]["coordinates"][0]
                     row["lat"] = feature["geometry"]["coordinates"][1]
                     row["osm_type"] = "node"
-                elif feature["geometry"]["type"] == "LineString":
-                    # TODO: maybe add wkt instead?
-                    row["lon"] = None
-                    row["lat"] = None
-                    row["osm_type"] = "way"
-                elif feature["geometry"]["type"] == "Polygon":
-                    # TODO: maybe add wkt, and calculate centroid?
-                    row["lon"] = None
-                    row["lat"] = None
+                elif feature["geometry"]["type"] in ["LineString", "Polygon"]:
+                    # TODO: debug why nothing is coming through as a Polygon
+                    polygon: Polygon = shape(feature["geometry"])
+                    centroid: Point = polygon.centroid
+                    row["lon"] = get_x(centroid)
+                    row["lat"] = get_y(centroid)
                     row["osm_type"] = "way"
                 else:
                     row["lon"] = None
