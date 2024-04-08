@@ -9026,6 +9026,36 @@
     },
     {
       "type": "Feature",
+      "id": 11800214430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.385771,
+          54.322185
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "87",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "addr:unit": "3",
+        "charity": "yes",
+        "fixme": "check position",
+        "name": "Age Concern Isle of Man",
+        "operator": "Age Concern Isle of Man",
+        "ref:charity": "549",
+        "shop": "charity",
+        "website": "https://www.ageconcern.im/",
+        "osm_id": 11800214430,
+        "lon": -4.385771,
+        "lat": 54.322185,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11800214430"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -22832,6 +22862,92 @@
     },
     {
       "type": "Feature",
+      "id": 61597678,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498429,
+            54.169318
+          ],
+          [
+            -4.498216,
+            54.169367
+          ],
+          [
+            -4.498091,
+            54.169181
+          ],
+          [
+            -4.498304,
+            54.169131
+          ],
+          [
+            -4.498429,
+            54.169318
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4QE",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "commercial",
+        "name": "Isle of Man Creamery",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 61597678,
+        "lon": -4.49826008384559,
+        "lat": 54.16924920299167,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/61597678"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61597679,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497719,
+            54.169238
+          ],
+          [
+            -4.49793,
+            54.169633
+          ],
+          [
+            -4.497739,
+            54.169668
+          ],
+          [
+            -4.497528,
+            54.169274
+          ],
+          [
+            -4.497719,
+            54.169238
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4QE",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "industrial",
+        "name": "Isle of Man Creamery",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 61597679,
+        "lon": -4.49772905059814,
+        "lat": 54.16945320971656,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/61597679"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 61597680,
       "geometry": {
         "type": "LineString",
@@ -30675,11 +30791,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
         "addr:postcode": "IM4 4QE",
-        "building": "yes",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "industrial",
+        "industrial": "food_industry",
+        "man_made": "works",
         "name": "Isle of Man Creamery",
+        "office": "company",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.isleofmancreamery.com/",
+        "website": "https://www.isleofmancreamery.com/",
         "osm_id": 79144669,
         "lon": -4.497680543792498,
         "lat": 54.16998698131194,
@@ -30694,94 +30816,182 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.499224,
-            54.171121
+            -4.499219,
+            54.171159
           ],
           [
-            -4.499478,
-            54.171218
+            -4.499481,
+            54.171263
           ],
           [
-            -4.499329,
-            54.171352
+            -4.499327,
+            54.171396
           ],
           [
-            -4.499627,
-            54.171466
+            -4.499615,
+            54.17151
           ],
           [
-            -4.499423,
-            54.171649
+            -4.499535,
+            54.171579
           ],
           [
-            -4.499134,
-            54.171539
+            -4.499497,
+            54.171564
           ],
           [
-            -4.498797,
-            54.171841
+            -4.49939,
+            54.171656
           ],
           [
-            -4.498853,
-            54.171863
+            -4.499275,
+            54.17161
           ],
           [
-            -4.498549,
-            54.172136
+            -4.499238,
+            54.171641
           ],
           [
-            -4.498174,
-            54.171992
+            -4.499155,
+            54.171608
           ],
           [
-            -4.498498,
-            54.171702
+            -4.498914,
+            54.171816
           ],
           [
-            -4.498572,
-            54.171731
+            -4.498868,
+            54.171782
           ],
           [
-            -4.498754,
-            54.171568
+            -4.498806,
+            54.17184
           ],
           [
-            -4.498688,
-            54.171543
+            -4.498863,
+            54.171861
           ],
           [
-            -4.498804,
-            54.171439
+            -4.498554,
+            54.17215
           ],
           [
-            -4.49877,
-            54.171426
+            -4.498184,
+            54.172014
           ],
           [
-            -4.499002,
-            54.171218
+            -4.498467,
+            54.171749
           ],
           [
-            -4.499082,
-            54.171248
+            -4.498567,
+            54.171786
           ],
           [
-            -4.499224,
-            54.171121
+            -4.49878,
+            54.171586
+          ],
+          [
+            -4.498693,
+            54.171554
+          ],
+          [
+            -4.498789,
+            54.171465
+          ],
+          [
+            -4.49875,
+            54.171433
+          ],
+          [
+            -4.498975,
+            54.171239
+          ],
+          [
+            -4.499079,
+            54.17128
+          ],
+          [
+            -4.499219,
+            54.171159
           ]
         ]
       },
       "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
         "addr:postcode": "IM4 4QE",
         "addr:street": "Ballafletcher Farm Road",
+        "alt_name": "Abattoir",
         "building": "abattoir",
-        "name": "Abattoir",
+        "contact:facebook": "https://www.facebook.com/iommeat/",
+        "industrial": "food_processing",
+        "name": "Isle of Man Meats",
+        "office": "company",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.iommeats.com",
         "osm_id": 79144679,
-        "lon": -4.4989248086625,
-        "lat": 54.17161307177352,
+        "lon": -4.498922170723919,
+        "lat": 54.17164066586823,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79144679"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79144725,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498957,
+            54.169932
+          ],
+          [
+            -4.49878,
+            54.169975
+          ],
+          [
+            -4.498761,
+            54.169948
+          ],
+          [
+            -4.498653,
+            54.169795
+          ],
+          [
+            -4.498729,
+            54.169776
+          ],
+          [
+            -4.498829,
+            54.169752
+          ],
+          [
+            -4.498957,
+            54.169932
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
+        "addr:housename": "Ballafletcher House",
+        "addr:postcode": "IM4 4QE",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "commercial",
+        "charity": "food",
+        "contact:facebook": "https://www.facebook.com/IOMFoodbank/",
+        "name": "Isle of Man Foodbank",
+        "ref:charity": "1148",
+        "social_facility": "food_bank",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://isleofmanfoodbank.wordpress.com/",
+        "osm_id": 79144725,
+        "lon": -4.498804883569311,
+        "lat": 54.169863543923796,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79144725"
       }
     },
     {
@@ -46977,8 +47187,11 @@
         "addr:street": "Station Road",
         "building": "retail",
         "building:levels": "1",
+        "charity": "yes",
         "name": "Age Concern Isle of Man",
+        "operator": "Age Concern Isle of Man",
         "phone": "+44 1624 835412",
+        "ref:charity": "549",
         "shop": "charity",
         "website": "https://www.ageconcern.im/",
         "osm_id": 101756496,
@@ -53755,6 +53968,59 @@
         "lat": 54.32232449797429,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856160"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856162,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.385615,
+            54.321989
+          ],
+          [
+            -4.385621,
+            54.321942
+          ],
+          [
+            -4.386011,
+            54.321957
+          ],
+          [
+            -4.386001,
+            54.322054
+          ],
+          [
+            -4.385994,
+            54.322114
+          ],
+          [
+            -4.385983,
+            54.322209
+          ],
+          [
+            -4.385592,
+            54.322194
+          ],
+          [
+            -4.385615,
+            54.321989
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "87",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "osm_id": 102856162,
+        "lon": -4.385801738269904,
+        "lat": 54.322075598220984,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856162"
       }
     },
     {

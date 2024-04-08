@@ -51,6 +51,31 @@
     },
     {
       "type": "Feature",
+      "id": 11800214430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.385771,
+          54.322185
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "87",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "addr:unit": "3",
+        "charity": "yes",
+        "fixme": "check position",
+        "name": "Age Concern Isle of Man",
+        "operator": "Age Concern Isle of Man",
+        "ref:charity": "549",
+        "shop": "charity",
+        "website": "https://www.ageconcern.im/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59384842,
       "geometry": {
         "type": "LineString",
@@ -166,6 +191,58 @@
         "shop": "furniture",
         "source": "Isle of Man Government aerial imagery (2001);survey;",
         "website": "https://www.crossroadsiom.org/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79144725,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498957,
+            54.169932
+          ],
+          [
+            -4.49878,
+            54.169975
+          ],
+          [
+            -4.498761,
+            54.169948
+          ],
+          [
+            -4.498653,
+            54.169795
+          ],
+          [
+            -4.498729,
+            54.169776
+          ],
+          [
+            -4.498829,
+            54.169752
+          ],
+          [
+            -4.498957,
+            54.169932
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
+        "addr:housename": "Ballafletcher House",
+        "addr:postcode": "IM4 4QE",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "commercial",
+        "charity": "food",
+        "contact:facebook": "https://www.facebook.com/IOMFoodbank/",
+        "name": "Isle of Man Foodbank",
+        "ref:charity": "1148",
+        "social_facility": "food_bank",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://isleofmanfoodbank.wordpress.com/"
       }
     },
     {
@@ -296,6 +373,79 @@
         "ref:charity": "26A",
         "website": "https://www.manxspca.com",
         "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101756496,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758402,
+            54.085398
+          ],
+          [
+            -4.758555,
+            54.085402
+          ],
+          [
+            -4.758557,
+            54.085482
+          ],
+          [
+            -4.758483,
+            54.085482
+          ],
+          [
+            -4.758483,
+            54.085496
+          ],
+          [
+            -4.758542,
+            54.085496
+          ],
+          [
+            -4.758541,
+            54.085546
+          ],
+          [
+            -4.758513,
+            54.085546
+          ],
+          [
+            -4.75842,
+            54.085545
+          ],
+          [
+            -4.758394,
+            54.085545
+          ],
+          [
+            -4.758394,
+            54.085531
+          ],
+          [
+            -4.758402,
+            54.085398
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM9 6AE",
+        "addr:street": "Station Road",
+        "building": "retail",
+        "building:levels": "1",
+        "charity": "yes",
+        "name": "Age Concern Isle of Man",
+        "operator": "Age Concern Isle of Man",
+        "phone": "+44 1624 835412",
+        "ref:charity": "549",
+        "shop": "charity",
+        "website": "https://www.ageconcern.im/"
       }
     },
     {

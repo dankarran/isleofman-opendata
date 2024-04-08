@@ -3036,6 +3036,31 @@
     },
     {
       "type": "Feature",
+      "id": 11800214430,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.385771,
+          54.322185
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "87",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "addr:unit": "3",
+        "charity": "yes",
+        "fixme": "check position",
+        "name": "Age Concern Isle of Man",
+        "operator": "Age Concern Isle of Man",
+        "ref:charity": "549",
+        "shop": "charity",
+        "website": "https://www.ageconcern.im/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -8747,8 +8772,11 @@
         "addr:street": "Station Road",
         "building": "retail",
         "building:levels": "1",
+        "charity": "yes",
         "name": "Age Concern Isle of Man",
+        "operator": "Age Concern Isle of Man",
         "phone": "+44 1624 835412",
+        "ref:charity": "549",
         "shop": "charity",
         "website": "https://www.ageconcern.im/"
       }

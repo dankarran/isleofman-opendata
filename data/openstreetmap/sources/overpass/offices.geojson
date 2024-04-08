@@ -2695,6 +2695,203 @@
     },
     {
       "type": "Feature",
+      "id": 79144669,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498314,
+            54.170075
+          ],
+          [
+            -4.497497,
+            54.170272
+          ],
+          [
+            -4.49739,
+            54.170119
+          ],
+          [
+            -4.497282,
+            54.170145
+          ],
+          [
+            -4.497232,
+            54.170075
+          ],
+          [
+            -4.497339,
+            54.170049
+          ],
+          [
+            -4.497279,
+            54.169964
+          ],
+          [
+            -4.497161,
+            54.169992
+          ],
+          [
+            -4.4971,
+            54.169906
+          ],
+          [
+            -4.497928,
+            54.169706
+          ],
+          [
+            -4.497988,
+            54.169791
+          ],
+          [
+            -4.498096,
+            54.169765
+          ],
+          [
+            -4.498314,
+            54.170075
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4QE",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "industrial",
+        "industrial": "food_industry",
+        "man_made": "works",
+        "name": "Isle of Man Creamery",
+        "office": "company",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.isleofmancreamery.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79144679,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.499219,
+            54.171159
+          ],
+          [
+            -4.499481,
+            54.171263
+          ],
+          [
+            -4.499327,
+            54.171396
+          ],
+          [
+            -4.499615,
+            54.17151
+          ],
+          [
+            -4.499535,
+            54.171579
+          ],
+          [
+            -4.499497,
+            54.171564
+          ],
+          [
+            -4.49939,
+            54.171656
+          ],
+          [
+            -4.499275,
+            54.17161
+          ],
+          [
+            -4.499238,
+            54.171641
+          ],
+          [
+            -4.499155,
+            54.171608
+          ],
+          [
+            -4.498914,
+            54.171816
+          ],
+          [
+            -4.498868,
+            54.171782
+          ],
+          [
+            -4.498806,
+            54.17184
+          ],
+          [
+            -4.498863,
+            54.171861
+          ],
+          [
+            -4.498554,
+            54.17215
+          ],
+          [
+            -4.498184,
+            54.172014
+          ],
+          [
+            -4.498467,
+            54.171749
+          ],
+          [
+            -4.498567,
+            54.171786
+          ],
+          [
+            -4.49878,
+            54.171586
+          ],
+          [
+            -4.498693,
+            54.171554
+          ],
+          [
+            -4.498789,
+            54.171465
+          ],
+          [
+            -4.49875,
+            54.171433
+          ],
+          [
+            -4.498975,
+            54.171239
+          ],
+          [
+            -4.499079,
+            54.17128
+          ],
+          [
+            -4.499219,
+            54.171159
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Cronkbourne",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4QE",
+        "addr:street": "Ballafletcher Farm Road",
+        "alt_name": "Abattoir",
+        "building": "abattoir",
+        "contact:facebook": "https://www.facebook.com/iommeat/",
+        "industrial": "food_processing",
+        "name": "Isle of Man Meats",
+        "office": "company",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.iommeats.com"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 80822388,
       "geometry": {
         "type": "LineString",
