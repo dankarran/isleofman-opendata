@@ -13357,12 +13357,8 @@
             54.181331
           ],
           [
-            -4.461096,
-            54.181094
-          ],
-          [
-            -4.461004,
-            54.181114
+            -4.4611,
+            54.181104
           ]
         ]
       },
@@ -13375,8 +13371,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987927,
-        "lon": -4.461200895454642,
-        "lat": 54.18126755918333,
+        "lon": -4.461232290904823,
+        "lat": 54.18130348190664,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987927"
       }
@@ -18096,8 +18092,8 @@
             54.181333
           ],
           [
-            -4.460056,
-            54.181339
+            -4.459998,
+            54.181349
           ],
           [
             -4.459966,
@@ -18114,8 +18110,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989157,
-        "lon": -4.4604465881177155,
-        "lat": 54.181612576987,
+        "lon": -4.460446585566917,
+        "lat": 54.18161260854026,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989157"
       }
@@ -32504,6 +32500,41 @@
         "lat": 54.17437069277236,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/170515399"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170522248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461195,
+            54.181086
+          ],
+          [
+            -4.4611,
+            54.181104
+          ],
+          [
+            -4.461007,
+            54.181122
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Oak Close",
+        "postal_code": "IM3 3HR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 170522248,
+        "lon": -4.461100982312548,
+        "lat": 54.181103907642274,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/170522248"
       }
     },
     {

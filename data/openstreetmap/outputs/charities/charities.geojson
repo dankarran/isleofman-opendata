@@ -865,6 +865,56 @@
     },
     {
       "type": "Feature",
+      "id": 328917787,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.70333,
+            54.094495
+          ],
+          [
+            -4.70295,
+            54.094561
+          ],
+          [
+            -4.70284,
+            54.094339
+          ],
+          [
+            -4.70322,
+            54.094274
+          ],
+          [
+            -4.70333,
+            54.094495
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Colby",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 4LR",
+        "addr:street": "Colby Main Road",
+        "building": "yes",
+        "charity": "sport",
+        "club": "sport",
+        "contact:facebook": "https://www.facebook.com/Colbyfootballclub/",
+        "name": "Colby AFC",
+        "ref:charity": "832",
+        "sport": "soccer",
+        "website": "https://colbyafc.com",
+        "wikidata": "Q2253674",
+        "wikipedia": "en:Colby A.F.C.",
+        "osm_id": 328917787,
+        "lon": -4.703084872946073,
+        "lat": 54.094417288033966,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/328917787"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 412956708,
       "geometry": {
         "type": "LineString",
@@ -1222,6 +1272,131 @@
         "lat": 54.153066,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1158812324"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1270919366,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475514,
+            54.169624
+          ],
+          [
+            -4.475746,
+            54.169979
+          ],
+          [
+            -4.475576,
+            54.170017
+          ],
+          [
+            -4.47557,
+            54.170008
+          ],
+          [
+            -4.475357,
+            54.170056
+          ],
+          [
+            -4.475363,
+            54.170065
+          ],
+          [
+            -4.475256,
+            54.170088
+          ],
+          [
+            -4.47525,
+            54.17008
+          ],
+          [
+            -4.475129,
+            54.170107
+          ],
+          [
+            -4.47514,
+            54.170124
+          ],
+          [
+            -4.474944,
+            54.170167
+          ],
+          [
+            -4.474868,
+            54.17005
+          ],
+          [
+            -4.475071,
+            54.170005
+          ],
+          [
+            -4.475088,
+            54.170031
+          ],
+          [
+            -4.47519,
+            54.170008
+          ],
+          [
+            -4.475172,
+            54.16998
+          ],
+          [
+            -4.475311,
+            54.169949
+          ],
+          [
+            -4.475333,
+            54.169982
+          ],
+          [
+            -4.47551,
+            54.169942
+          ],
+          [
+            -4.475484,
+            54.169902
+          ],
+          [
+            -4.475459,
+            54.169907
+          ],
+          [
+            -4.475429,
+            54.169862
+          ],
+          [
+            -4.475456,
+            54.169856
+          ],
+          [
+            -4.475331,
+            54.169665
+          ],
+          [
+            -4.475514,
+            54.169624
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 6BG",
+        "addr:street": "Glencrutchery Road",
+        "building": "yes",
+        "charity": "yes",
+        "name": "St John Ambulance IOM",
+        "office": "yes",
+        "ref:charity": "1112",
+        "website": "https://sja.org.im",
+        "osm_id": 1270919366,
+        "lon": -4.475338846273005,
+        "lat": 54.16994474810418,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1270919366"
       }
     }
   ]

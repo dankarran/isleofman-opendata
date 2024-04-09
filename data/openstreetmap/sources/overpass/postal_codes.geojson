@@ -11717,12 +11717,8 @@
             54.181331
           ],
           [
-            -4.461096,
-            54.181094
-          ],
-          [
-            -4.461004,
-            54.181114
+            -4.4611,
+            54.181104
           ]
         ]
       },
@@ -15961,8 +15957,8 @@
             54.181333
           ],
           [
-            -4.460056,
-            54.181339
+            -4.459998,
+            54.181349
           ],
           [
             -4.459966,
@@ -29284,6 +29280,36 @@
         "postal_code": "IM3 4AE",
         "tourism": "chalet",
         "website": "https://www.theoldstable.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170522248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461195,
+            54.181086
+          ],
+          [
+            -4.4611,
+            54.181104
+          ],
+          [
+            -4.461007,
+            54.181122
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Oak Close",
+        "postal_code": "IM3 3HR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
