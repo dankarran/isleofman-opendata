@@ -3046,6 +3046,30 @@
     },
     {
       "type": "Feature",
+      "id": 11808126309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.383545,
+          54.322115
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM8 1AP",
+        "addr:street": "Parliament Street",
+        "contact:email": "suethetide@yahoo.co.uk",
+        "contact:phone": "+44 1624 811500",
+        "contact:website": "https://www.the-tide.co.uk/",
+        "name": "The Tide",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "shop": "clothes;gift"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",

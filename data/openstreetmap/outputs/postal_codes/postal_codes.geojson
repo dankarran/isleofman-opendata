@@ -7651,6 +7651,39 @@
     },
     {
       "type": "Feature",
+      "id": 25986822,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471415,
+            54.179079
+          ],
+          [
+            -4.471386,
+            54.179204
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 25986822,
+        "lon": -4.4714005,
+        "lat": 54.1791415,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986822"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986839,
       "geometry": {
         "type": "LineString",
@@ -17298,6 +17331,43 @@
         "lat": 54.328232235187116,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988895"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988907,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471754,
+            54.179467
+          ],
+          [
+            -4.471376,
+            54.179268
+          ],
+          [
+            -4.471282,
+            54.179305
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25988907,
+        "lon": -4.471519864515155,
+        "lat": 54.17935200858359,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988907"
       }
     },
     {
@@ -31013,6 +31083,39 @@
     },
     {
       "type": "Feature",
+      "id": 157344968,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470972,
+            54.17956
+          ],
+          [
+            -4.470887,
+            54.17956
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 157344968,
+        "lon": -4.4709295000000004,
+        "lat": 54.17956,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/157344968"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 157868404,
       "geometry": {
         "type": "LineString",
@@ -33804,6 +33907,39 @@
         "lat": 54.3874999340979,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/254847409"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267426975,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471386,
+            54.179204
+          ],
+          [
+            -4.471376,
+            54.179268
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 267426975,
+        "lon": -4.471381,
+        "lat": 54.179236,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/267426975"
       }
     },
     {

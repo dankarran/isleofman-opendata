@@ -6526,6 +6526,34 @@
     },
     {
       "type": "Feature",
+      "id": 25986822,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471415,
+            54.179079
+          ],
+          [
+            -4.471386,
+            54.179204
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986839,
       "geometry": {
         "type": "LineString",
@@ -15241,6 +15269,38 @@
         "maxspeed": "20 mph",
         "name": "Riverbank Road",
         "postal_code": "IM8 3PP;IM8 3PR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988907,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471754,
+            54.179467
+          ],
+          [
+            -4.471376,
+            54.179268
+          ],
+          [
+            -4.471282,
+            54.179305
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -27913,6 +27973,34 @@
     },
     {
       "type": "Feature",
+      "id": 157344968,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470972,
+            54.17956
+          ],
+          [
+            -4.470887,
+            54.17956
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 157868404,
       "geometry": {
         "type": "LineString",
@@ -30504,6 +30592,34 @@
         "postal_code": "IM7 3EB",
         "tourism": "chalet",
         "website": "https://www.manxfarmhols.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 267426975,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471386,
+            54.179204
+          ],
+          [
+            -4.471376,
+            54.179268
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
