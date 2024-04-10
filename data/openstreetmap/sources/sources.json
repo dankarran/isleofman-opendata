@@ -2,6 +2,8 @@
   "overpass": [
     {
       "label": "addresses",
+      "title": "Addresses",
+      "group": "Addressing",
       "query": "nw['addr:housenumber'](54,-5,54.5,-4);nw['addr:housename'](54,-5,54.5,-4);nw['addr:street'](54,-5,54.5,-4);nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"],
@@ -9,6 +11,7 @@
     },
     {
       "label": "archaeological-sites",
+      "title": "Archaeological sites",
       "query": "nw['historic'='archaeological_site'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "archaeological_site", "ref:GB:imher", "url:imher", "wikidata", "source"],
@@ -16,6 +19,7 @@
     },
     {
       "label": "bus-stops",
+      "title": "Bus stops",
       "query": "node['highway'='bus_stop'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "ref"],
@@ -23,6 +27,7 @@
     },
     {
       "label": "charging-stations",
+      "title": "Charging stations",
       "query": "nw['amenity'='charging_station'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["amenity", "capacity", "name", "operator", "ref"],
@@ -30,6 +35,7 @@
     },
     {
       "label": "charities",
+      "title": "Charities",
       "query": "nw['charity'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "charity", "ref:charity", "operator", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
@@ -37,6 +43,7 @@
     },
     {
       "label": "defibrillators",
+      "title": "Defibrillators",
       "query": "node['emergency'='defibrillator'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["emergency", "defibrillator:location", "access", "wheelchair", "opening_hours", "ref"],
@@ -44,6 +51,7 @@
     },
     {
       "label": "food-and-drink",
+      "title": "Food and drink",
       "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
@@ -51,6 +59,7 @@
     },
     {
       "label": "fuel",
+      "title": "Fuel (petrol stations)",
       "query": "nw['amenity'='fuel'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["amenity", "name", "brand", "operator"],
@@ -58,6 +67,7 @@
     },
     {
       "label": "manx-names",
+      "title": "Manx names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "highway", "railway", "place", "natural"],
@@ -65,6 +75,7 @@
     },
     {
       "label": "named-highways",
+      "title": "Named highways",
       "query": "way['highway']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "ref", "highway"],
@@ -72,6 +83,7 @@
     },
     {
       "label": "named-natural",
+      "title": "Named natural features",
       "query": "nw['natural']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "natural", "ele", "wikidata"],
@@ -79,6 +91,7 @@
     },
     {
       "label": "named-places",
+      "title": "Named places",
       "query": "nw['place']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "place", "wikidata"],
@@ -86,6 +99,7 @@
     },
     {
       "label": "offices",
+      "title": "Offices",
       "query": "nw['office'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "office", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
@@ -93,6 +107,7 @@
     },
     {
       "label": "places-of-worship",
+      "title": "Places of worship",
       "query": "nw['amenity'='place_of_worship'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "religion", "denomination", "service_times", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
@@ -100,6 +115,7 @@
     },
     {
       "label": "postboxes",
+      "title": "Postboxes",
       "query": "node['amenity'='post_box'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "ref"],
@@ -107,6 +123,8 @@
     },
     {
       "label": "postal_codes",
+      "title": "Postal codes (postal_code)",
+      "group": "Addressing",
       "query": "nw['postal_code'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["postal_code", "source:postal_code"],
@@ -114,6 +132,8 @@
     },
     {
       "label": "postcodes",
+      "title": "Postcodes (addr:postcode)",
+      "group": "Addressing",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["addr:postcode", "source:addr:postcode"],
@@ -121,6 +141,7 @@
     },
     {
       "label": "registered-buildings",
+      "title": "Registered buildings",
       "query": "nw['listed_status'='Registered'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "listed_status", "ref:registered_building", "url:registered_building", "wikidata"],
@@ -128,6 +149,7 @@
     },
     {
       "label": "shops",
+      "title": "Shops",
       "query": "nw['shop'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "shop", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
@@ -135,6 +157,7 @@
     },
     {
       "label": "tourism",
+      "title": "Tourism",
       "query": "nw['tourism'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "tourism", "website", "phone", "wikidata", "contact:facebook"],

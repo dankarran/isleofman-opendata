@@ -15,6 +15,8 @@ OpenStreetMap data processing
 """
 
 data_dir = "data/openstreetmap/"
+github_url = "https://github.com/dankarran/isleofman-opendata"
+github_project = "dankarran/isleofman-opendata"
 
 
 def openstreetmap():
@@ -28,6 +30,8 @@ def openstreetmap():
     write_data(sources, data)
 
     generate_postcode_boundaries(sources, data)
+
+    print_datasets_markdown(sources)
 
 
 def load_data(sources):
@@ -166,7 +170,9 @@ def write_data(sources, data):
 
 
 def generate_postcode_boundaries(sources, data):
-    print(" - Generating postcode boundaries")
+    update_text = input("Regenerate postcode boundaries from OpenStreetMap data? (y/N) ")
+    if update_text != "y":
+        return
 
     filepath = data_dir + "sources/overpass/postcodes.geojson"
     if os.path.isfile(filepath):
@@ -197,3 +203,71 @@ def generate_postcode_boundaries(sources, data):
 
     else:
         print("    ", "No postcodes GeoJSON found")
+
+
+def print_datasets_markdown(sources):
+    update_text = input("Regenerate markdown links to OpenStreetMap datasets? (y/N) ")
+    if update_text != "y":
+        return
+
+    github_outputs_dir = "/blob/main/" + data_dir + "outputs/"
+
+    additional_sources = [
+        {
+            "label": "postcode_districts",
+            "directory": "postcodes",
+            "title": "Postcode districts (from addr:postcode)",
+            "group": "Addressing",
+            "output_formats": ["geojson"],
+        },
+        {
+            "label": "postcode_sectors",
+            "directory": "postcodes",
+            "title": "Postcode sectors (from addr:postcode)",
+            "group": "Addressing",
+            "output_formats": ["geojson"],
+        }
+    ]
+
+    combined_sources = sources["overpass"] + additional_sources
+
+    groups = {}
+
+    for source in combined_sources:
+        group = "default"
+        if "group" in source:
+            group = source["group"]
+
+        dataset_dir = source["label"]
+        if "directory" in source:
+            dataset_dir = source["directory"]
+
+        item = source["title"]
+        item = item + " :spiral_notepad:"
+        if "csv" in source["output_formats"]:
+            item = item + " [CSV](" + github_url + github_outputs_dir + dataset_dir + "/" + source["label"] + ".csv)"
+        if "geojson" in source["output_formats"]:
+            item = item + " [GeoJSON](" + github_url + github_outputs_dir + dataset_dir + "/" + source["label"] + ".geojson)"
+            item = item + " :link:"
+            item = item + " [view on geojson.io](http://geojson.io/#id=github:" + github_project + github_outputs_dir + dataset_dir + "/" + source["label"] + ".geojson)"
+
+        if group not in groups:
+            groups[group] = {"items": []}
+
+        groups[group]["items"].append(item)
+
+    # print output
+    print("\n\n")
+
+    for group in groups:
+        prefix = "  * "
+
+        # for non-default groups, print heading and indent items further
+        if group != "default":
+            print(prefix + group)
+            prefix = "    * "
+
+        for item in groups[group]["items"]:
+            print(prefix + item)
+
+    print("\n\n")
