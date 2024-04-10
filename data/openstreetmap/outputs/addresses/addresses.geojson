@@ -9056,6 +9056,58 @@
     },
     {
       "type": "Feature",
+      "id": 11807118421,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62501,
+          54.05502
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:housename": "Langness Lighthouse",
+        "addr:postcode": "IM9 1UB",
+        "addr:street": "Langness",
+        "name": "West Cottage",
+        "tourism": "chalet",
+        "website": "https://www.isle-of-man-holiday.com/accommodation/west/",
+        "osm_id": 11807118421,
+        "lon": -4.62501,
+        "lat": 54.05502,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11807118421"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11807118422,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.624865,
+          54.055007
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:housename": "Langness Lighthouse",
+        "addr:postcode": "IM9 1UB",
+        "addr:street": "Langness",
+        "name": "East Cottage",
+        "tourism": "chalet",
+        "website": "https://www.isle-of-man-holiday.com/accommodation/west/",
+        "osm_id": 11807118422,
+        "lon": -4.624865,
+        "lat": 54.055007,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11807118422"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
