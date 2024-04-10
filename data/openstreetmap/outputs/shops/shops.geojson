@@ -1445,26 +1445,6 @@
     },
     {
       "type": "Feature",
-      "id": 2935283911,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.38594,
-          54.322199
-        ]
-      },
-      "properties": {
-        "name": "Sparks Electrical",
-        "shop": "electrical",
-        "osm_id": 2935283911,
-        "lon": -4.38594,
-        "lat": 54.322199,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/2935283911"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2935283912,
       "geometry": {
         "type": "Point",
@@ -11392,6 +11372,75 @@
     },
     {
       "type": "Feature",
+      "id": 102635560,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380317,
+            54.32118
+          ],
+          [
+            -4.38033,
+            54.321171
+          ],
+          [
+            -4.380296,
+            54.321158
+          ],
+          [
+            -4.38026,
+            54.321176
+          ],
+          [
+            -4.380289,
+            54.321195
+          ],
+          [
+            -4.380327,
+            54.321233
+          ],
+          [
+            -4.380359,
+            54.321269
+          ],
+          [
+            -4.380412,
+            54.321226
+          ],
+          [
+            -4.380317,
+            54.32118
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JW",
+        "addr:street": "Bourne Place",
+        "building": "yes",
+        "contact:email": "thrivefarmsiom@protonmail.com",
+        "contact:facebook": "https://www.facebook.com/ThriveFarmsIOM/",
+        "contact:phone": "+44 7624 341038",
+        "contact:website": "https://thrivefarmsiom.com/",
+        "contact:whatsapp": "+44 7624 341038",
+        "name": "Thrive Farms",
+        "opening_hours": "We-Fr 10:00-13:00, Sa 10:00-15:00",
+        "shop": "farm",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:street": "nls",
+        "osm_id": 102635560,
+        "lon": -4.380335298696632,
+        "lat": 54.32120808468142,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102635560"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102635562,
       "geometry": {
         "type": "LineString",
@@ -11764,54 +11813,6 @@
     },
     {
       "type": "Feature",
-      "id": 102737919,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.382993,
-            54.32206
-          ],
-          [
-            -4.382924,
-            54.322045
-          ],
-          [
-            -4.383007,
-            54.321941
-          ],
-          [
-            -4.383055,
-            54.321872
-          ],
-          [
-            -4.383105,
-            54.321883
-          ],
-          [
-            -4.383067,
-            54.321941
-          ],
-          [
-            -4.382993,
-            54.32206
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "Cuts and Fades",
-        "shop": "hairdresser",
-        "wheelchair": "limited",
-        "osm_id": 102737919,
-        "lon": -4.383017045335989,
-        "lat": 54.32196829531216,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/102737919"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 102737939,
       "geometry": {
         "type": "LineString",
@@ -12003,7 +12004,13 @@
         "addr:postcode": "IM8 1AW",
         "addr:street": "Parliament Street",
         "building": "yes",
-        "shop": "vacant",
+        "contact:email": "bluemoongiftshop@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/bluemoongiftshopramsey/",
+        "contact:mobile": "+44 7624 242054",
+        "contact:phone": "+44 1624 817280",
+        "name": "Blue Moon gift shop",
+        "opening_hours": "Mo-Sa 10:00-16:30",
+        "shop": "gift",
         "osm_id": 102783334,
         "lon": -4.381984070740567,
         "lat": 54.32181651429354,
@@ -12569,6 +12576,56 @@
     },
     {
       "type": "Feature",
+      "id": 102856148,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384277,
+            54.322756
+          ],
+          [
+            -4.384376,
+            54.322783
+          ],
+          [
+            -4.384405,
+            54.322466
+          ],
+          [
+            -4.384323,
+            54.322464
+          ],
+          [
+            -4.384309,
+            54.322512
+          ],
+          [
+            -4.384277,
+            54.322756
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "26",
+        "addr:street": "West Quay",
+        "building": "warehouse",
+        "listed_status": "Registered",
+        "name": "Sarah G",
+        "ref:registered_building": "139",
+        "shop": "hairdresser",
+        "url:registered_building": "https://www.gov.im/media/632903/0500139regbldflatsthurwoodplace.pdf",
+        "wikidata": "Q118188811",
+        "osm_id": 102856148,
+        "lon": -4.3843448712872215,
+        "lat": 54.32262113257653,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856148"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856160,
       "geometry": {
         "type": "LineString",
@@ -12616,6 +12673,53 @@
         "lat": 54.32232449797429,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856160"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856164,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384639,
+            54.322462
+          ],
+          [
+            -4.384478,
+            54.322456
+          ],
+          [
+            -4.384486,
+            54.322394
+          ],
+          [
+            -4.384647,
+            54.322401
+          ],
+          [
+            -4.384639,
+            54.322462
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1DE",
+        "addr:street": "Christian Street",
+        "building": "yes",
+        "contact:phone": "+44 7624 270966",
+        "name": "Vitor",
+        "opening_hours": "Tu-Sa 09:00-17:30",
+        "shop": "hairdresser",
+        "source": "Bing",
+        "osm_id": 102856164,
+        "lon": -4.384562321496736,
+        "lat": 54.322428239999354,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856164"
       }
     },
     {
@@ -27009,7 +27113,7 @@
       },
       "properties": {
         "building": "retail",
-        "name": "TBC",
+        "name": "Drum & Bass",
         "shop": "music",
         "source": "Bing;survey",
         "osm_id": 1164437339,

@@ -51511,6 +51511,75 @@
     },
     {
       "type": "Feature",
+      "id": 102635560,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380317,
+            54.32118
+          ],
+          [
+            -4.38033,
+            54.321171
+          ],
+          [
+            -4.380296,
+            54.321158
+          ],
+          [
+            -4.38026,
+            54.321176
+          ],
+          [
+            -4.380289,
+            54.321195
+          ],
+          [
+            -4.380327,
+            54.321233
+          ],
+          [
+            -4.380359,
+            54.321269
+          ],
+          [
+            -4.380412,
+            54.321226
+          ],
+          [
+            -4.380317,
+            54.32118
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JW",
+        "addr:street": "Bourne Place",
+        "building": "yes",
+        "contact:email": "thrivefarmsiom@protonmail.com",
+        "contact:facebook": "https://www.facebook.com/ThriveFarmsIOM/",
+        "contact:phone": "+44 7624 341038",
+        "contact:website": "https://thrivefarmsiom.com/",
+        "contact:whatsapp": "+44 7624 341038",
+        "name": "Thrive Farms",
+        "opening_hours": "We-Fr 10:00-13:00, Sa 10:00-15:00",
+        "shop": "farm",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:street": "nls",
+        "osm_id": 102635560,
+        "lon": -4.380335298696632,
+        "lat": 54.32120808468142,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102635560"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102638456,
       "geometry": {
         "type": "LineString",
@@ -52667,7 +52736,13 @@
         "addr:postcode": "IM8 1AW",
         "addr:street": "Parliament Street",
         "building": "yes",
-        "shop": "vacant",
+        "contact:email": "bluemoongiftshop@hotmail.com",
+        "contact:facebook": "https://www.facebook.com/bluemoongiftshopramsey/",
+        "contact:mobile": "+44 7624 242054",
+        "contact:phone": "+44 1624 817280",
+        "name": "Blue Moon gift shop",
+        "opening_hours": "Mo-Sa 10:00-16:30",
+        "shop": "gift",
         "osm_id": 102783334,
         "lon": -4.381984070740567,
         "lat": 54.32181651429354,
@@ -54073,6 +54148,53 @@
         "lat": 54.322075598220984,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856162"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856164,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384639,
+            54.322462
+          ],
+          [
+            -4.384478,
+            54.322456
+          ],
+          [
+            -4.384486,
+            54.322394
+          ],
+          [
+            -4.384647,
+            54.322401
+          ],
+          [
+            -4.384639,
+            54.322462
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1DE",
+        "addr:street": "Christian Street",
+        "building": "yes",
+        "contact:phone": "+44 7624 270966",
+        "name": "Vitor",
+        "opening_hours": "Tu-Sa 09:00-17:30",
+        "shop": "hairdresser",
+        "source": "Bing",
+        "osm_id": 102856164,
+        "lon": -4.384562321496736,
+        "lat": 54.322428239999354,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856164"
       }
     },
     {

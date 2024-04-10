@@ -2685,6 +2685,159 @@
     },
     {
       "type": "Feature",
+      "id": 7711865702,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.776738,
+          54.081013
+        ]
+      },
+      "properties": {
+        "name": "Ghaw ny Ow",
+        "name:gv": "Ghaw ny Ow",
+        "natural": "bay",
+        "source": "Isle of Man Government 1:25000 map"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7711865703,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.777411,
+          54.079654
+        ]
+      },
+      "properties": {
+        "name": "Ghaw ny Mooarid",
+        "name:gv": "Ghaw ny Mooarid",
+        "natural": "bay",
+        "source": "Isle of Man Government 1:25000 map"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7711865704,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.77878,
+          54.077925
+        ]
+      },
+      "properties": {
+        "name": "Ghaw ny Kirree",
+        "name:gv": "Ghaw ny Kirree",
+        "natural": "bay",
+        "source": "Isle of Man Government 1:25000 map"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882748,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.825906,
+          54.057382
+        ]
+      },
+      "properties": {
+        "name": "Baie yn Ooig",
+        "name:gv": "Baie yn Ooig",
+        "natural": "bay",
+        "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882749,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.826929,
+          54.05639
+        ]
+      },
+      "properties": {
+        "name": "Creg Veanagh",
+        "name:gv": "Creg Veanagh",
+        "natural": "cape",
+        "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882754,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.80768,
+          54.048949
+        ]
+      },
+      "properties": {
+        "name": "Kione ny Halby",
+        "name:gv": "Kione ny Halby",
+        "natural": "cape",
+        "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.800959,
+          54.054185
+        ]
+      },
+      "properties": {
+        "name": "Kione Roauyr",
+        "name:gv": "Kione Roauyr",
+        "natural": "cape",
+        "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882767,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.801587,
+          54.053367
+        ]
+      },
+      "properties": {
+        "name": "Ghaw Yiarn",
+        "name:gv": "Ghaw Yiarn",
+        "natural": "cape",
+        "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882772,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.793976,
+          54.064794
+        ]
+      },
+      "properties": {
+        "name": "Ghaw ny Kirree",
+        "name:gv": "Ghaw ny Kirree",
+        "natural": "cape",
+        "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 7765716726,
       "geometry": {
         "type": "Point",
@@ -2859,7 +3012,24 @@
       },
       "properties": {
         "name": "Creg Liauyr",
-        "name:gv": "Greg Liauyr",
+        "name:gv": "Creg Liauyr",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8398345462,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.77156,
+          54.084275
+        ]
+      },
+      "properties": {
+        "name": "Kione ny Garee",
+        "name:gv": "Kione ny Garee",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map"
       }
@@ -3214,6 +3384,40 @@
         "place": "village",
         "wikidata": "Q2925151",
         "wikipedia": "en:Bride (parish)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9851665917,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.822092,
+          54.05386
+        ]
+      },
+      "properties": {
+        "fixme": "tourist attraction / cliff / peak? combine with one of nearby elevations and/or other Or Vooar to NW?",
+        "name": "Or Vooar",
+        "name:gv": "Or Vooar",
+        "note": "\u2018Great edge.\u2019 The name of a cliff on the Calf.",
+        "tourism": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9851666517,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.824416,
+          54.056006
+        ]
+      },
+      "properties": {
+        "name": "Or Vooar",
+        "name:gv": "Or Vooar",
+        "tourism": "attraction"
       }
     },
     {
@@ -75574,6 +75778,54 @@
         "name:gv": "Traie Coon",
         "natural": "beach",
         "source": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 831454631,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.819271,
+            54.049626
+          ],
+          [
+            -4.819489,
+            54.049601
+          ],
+          [
+            -4.819401,
+            54.049237
+          ],
+          [
+            -4.819507,
+            54.048548
+          ],
+          [
+            -4.819522,
+            54.048282
+          ],
+          [
+            -4.81946,
+            54.047918
+          ],
+          [
+            -4.819572,
+            54.047664
+          ],
+          [
+            -4.819521,
+            54.047388
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Yn Glion",
+        "name:gv": "Yn Glion",
+        "natural": "valley",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "waterway": "stream"
       }
     },
     {
