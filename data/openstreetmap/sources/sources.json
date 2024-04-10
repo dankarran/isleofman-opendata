@@ -22,6 +22,13 @@
       "sort_columns": ["ref", "osm_id"]
     },
     {
+      "label": "charging-stations",
+      "query": "node['amenity'='charging_station'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["amenity", "capacity", "name", "operator", "ref"],
+      "sort_columns": ["osm_id"]
+    },
+    {
       "label": "charities",
       "query": "nw['charity'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
@@ -41,6 +48,13 @@
       "output_formats": ["geojson", "csv"],
       "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
       "sort_columns": ["name", "osm_id"]
+    },
+    {
+      "label": "fuel",
+      "query": "node['amenity'='fuel'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["amenity", "name", "brand", "operator"],
+      "sort_columns": ["osm_id"]
     },
     {
       "label": "manx-names",

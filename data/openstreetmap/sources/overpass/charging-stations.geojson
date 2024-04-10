@@ -1,0 +1,174 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 3603072966,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.651753,
+          54.073112
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "Reno-Gina; PG-84970",
+        "socket:type2": "2",
+        "socket:type2:output": "7000",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5182378606,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.695833,
+          54.222626
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:none": "yes",
+        "brand": "PodPoint",
+        "capacity": "2",
+        "fee": "yes",
+        "opening_hours": "24/7",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "socket:type2": "2",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7598451580,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.696869,
+          54.221949
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7598460308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697281,
+          54.221812
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9351478015,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.651713,
+          54.073149
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "Lars-Noah; PG-84485",
+        "socket:type2": "2",
+        "socket:type2:output": "7000",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9887598251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.654626,
+          54.072605
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "name": "Pria-Bess",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "ref": "PG-84481",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10893563060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.466166,
+          54.165551
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "POD Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10897693660,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474605,
+          54.148397
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11280040355,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.454589,
+          54.174869
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "name": "Finn-Earl",
+        "operator": "POD Point",
+        "ref": "PG-87329"
+      }
+    }
+  ]
+}
