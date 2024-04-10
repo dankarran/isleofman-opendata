@@ -32,7 +32,8 @@
       "label": "defibrillators",
       "query": "node['emergency'='defibrillator'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["emergency", "defibrillator:location", "access", "wheelchair", "opening_hours", "ref", "osm_id"]
+      "csv_columns": ["emergency", "defibrillator:location", "access", "wheelchair", "opening_hours", "ref"],
+      "sort_columns": ["osm_id"]
     },
     {
       "label": "food-and-drink",
