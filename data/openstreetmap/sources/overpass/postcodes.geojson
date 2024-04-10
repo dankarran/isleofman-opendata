@@ -55553,6 +55553,152 @@
     },
     {
       "type": "Feature",
+      "id": 136360207,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.466099,
+            54.173494
+          ],
+          [
+            -4.466011,
+            54.173436
+          ],
+          [
+            -4.465989,
+            54.173448
+          ],
+          [
+            -4.465958,
+            54.173429
+          ],
+          [
+            -4.465933,
+            54.173411
+          ],
+          [
+            -4.465961,
+            54.173396
+          ],
+          [
+            -4.465877,
+            54.173341
+          ],
+          [
+            -4.465741,
+            54.173412
+          ],
+          [
+            -4.465704,
+            54.173404
+          ],
+          [
+            -4.465662,
+            54.173412
+          ],
+          [
+            -4.465638,
+            54.173432
+          ],
+          [
+            -4.465652,
+            54.173458
+          ],
+          [
+            -4.465557,
+            54.173508
+          ],
+          [
+            -4.465553,
+            54.173505
+          ],
+          [
+            -4.465446,
+            54.173561
+          ],
+          [
+            -4.465459,
+            54.17357
+          ],
+          [
+            -4.46544,
+            54.173579
+          ],
+          [
+            -4.465505,
+            54.173622
+          ],
+          [
+            -4.465528,
+            54.17361
+          ],
+          [
+            -4.465707,
+            54.173727
+          ],
+          [
+            -4.465617,
+            54.173774
+          ],
+          [
+            -4.465726,
+            54.173845
+          ],
+          [
+            -4.4658,
+            54.173806
+          ],
+          [
+            -4.465887,
+            54.173863
+          ],
+          [
+            -4.466038,
+            54.173784
+          ],
+          [
+            -4.465933,
+            54.173716
+          ],
+          [
+            -4.466083,
+            54.173638
+          ],
+          [
+            -4.465968,
+            54.173562
+          ],
+          [
+            -4.466099,
+            54.173494
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Government House",
+        "addr:postcode": "IM3 1RR",
+        "addr:street": "Governor's Road",
+        "building": "house",
+        "government": "lieutenant_governor",
+        "listed_status": "Registered",
+        "name": "Government House",
+        "name:en": "Government House",
+        "name:gv": "Thie yn Reiltys",
+        "office": "government",
+        "old_name": "Bemahague Farm",
+        "postal_code": "IM3 1RR",
+        "ref:registered_building": "254",
+        "url:registered_building": "https://www.gov.im/media/1361444/0700254regbld-pdf-for-website-amended-120220.pdf",
+        "website": "https://governmenthouse.gov.im",
+        "wikidata": "Q5588879",
+        "wikipedia": "en:Government House, Isle of Man"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 144007925,
       "geometry": {
         "type": "LineString",
@@ -76910,6 +77056,10 @@
           [
             -4.467784,
             54.174244
+          ],
+          [
+            -4.468391,
+            54.174475
           ],
           [
             -4.468615,

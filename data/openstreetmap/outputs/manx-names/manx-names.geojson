@@ -51339,6 +51339,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Government House",
+        "addr:postcode": "IM3 1RR",
+        "addr:street": "Governor's Road",
         "building": "house",
         "government": "lieutenant_governor",
         "listed_status": "Registered",
@@ -51350,7 +51355,7 @@
         "postal_code": "IM3 1RR",
         "ref:registered_building": "254",
         "url:registered_building": "https://www.gov.im/media/1361444/0700254regbld-pdf-for-website-amended-120220.pdf",
-        "website": "https://www.gov.im/about-the-government/departments/cabinet-office/external-relations/crown-services/office-of-lieutenant-governor/",
+        "website": "https://governmenthouse.gov.im",
         "wikidata": "Q5588879",
         "wikipedia": "en:Government House, Isle of Man",
         "osm_id": 136360207,
@@ -65990,6 +65995,10 @@
             54.174244
           ],
           [
+            -4.468391,
+            54.174475
+          ],
+          [
             -4.468615,
             54.174561
           ],
@@ -66021,8 +66030,8 @@
         "name:gv": "Scoill S'Inshley Noo Ninian",
         "website": "https://snhs.sch.im",
         "osm_id": 238903177,
-        "lon": -4.468039557330962,
-        "lat": 54.17608933449555,
+        "lon": -4.468039563081628,
+        "lat": 54.17608931938363,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/238903177"
       }
