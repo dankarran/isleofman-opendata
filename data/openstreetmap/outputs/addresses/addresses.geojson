@@ -54497,6 +54497,55 @@
     },
     {
       "type": "Feature",
+      "id": 102856187,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384195,
+            54.322135
+          ],
+          [
+            -4.3843,
+            54.322138
+          ],
+          [
+            -4.384306,
+            54.322034
+          ],
+          [
+            -4.384218,
+            54.32203
+          ],
+          [
+            -4.384198,
+            54.322029
+          ],
+          [
+            -4.384195,
+            54.322135
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "69",
+        "addr:postcode": "IM8 1AY",
+        "addr:street": "Parliament Square",
+        "building": "yes",
+        "name": "Pure Inspiration",
+        "shop": "gift",
+        "strapline": "Gift Shop",
+        "osm_id": 102856187,
+        "lon": -4.384249530742557,
+        "lat": 54.322083619542205,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856187"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856192,
       "geometry": {
         "type": "LineString",

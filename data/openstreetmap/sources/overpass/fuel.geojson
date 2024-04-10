@@ -193,6 +193,668 @@
       "properties": {
         "amenity": "fuel"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 59284181,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470905,
+            54.167809
+          ],
+          [
+            -4.470771,
+            54.167863
+          ],
+          [
+            -4.470713,
+            54.167814
+          ],
+          [
+            -4.470817,
+            54.167772
+          ],
+          [
+            -4.470847,
+            54.16776
+          ],
+          [
+            -4.470905,
+            54.167809
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "brand": "EVF",
+        "building": "retail",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100057595743505",
+        "name": "EVF Todays Express",
+        "operator": "EVF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59760933,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.654378,
+            54.077867
+          ],
+          [
+            -4.654316,
+            54.077986
+          ],
+          [
+            -4.654189,
+            54.077963
+          ],
+          [
+            -4.654009,
+            54.077931
+          ],
+          [
+            -4.65387,
+            54.077906
+          ],
+          [
+            -4.653932,
+            54.077787
+          ],
+          [
+            -4.654378,
+            54.077867
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:street": "Alexandra Road",
+        "amenity": "fuel",
+        "brand": "EVF",
+        "building": "yes",
+        "mapillary": "239724341485506",
+        "name": "S & S Motors",
+        "postal_code": "IM9 1TE",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "survey:date": "2021-09-23",
+        "website": "https://www.ssmotors.co.im/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60582674,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.648423,
+            54.078012
+          ],
+          [
+            -4.648432,
+            54.078029
+          ],
+          [
+            -4.648513,
+            54.078184
+          ],
+          [
+            -4.648185,
+            54.0783
+          ],
+          [
+            -4.648232,
+            54.078398
+          ],
+          [
+            -4.648058,
+            54.078424
+          ],
+          [
+            -4.64783,
+            54.078459
+          ],
+          [
+            -4.64782,
+            54.078441
+          ],
+          [
+            -4.647706,
+            54.07825
+          ],
+          [
+            -4.647719,
+            54.078146
+          ],
+          [
+            -4.64769,
+            54.078123
+          ],
+          [
+            -4.647682,
+            54.078117
+          ],
+          [
+            -4.648153,
+            54.078067
+          ],
+          [
+            -4.648423,
+            54.078012
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "brand": "Manx Petroleum",
+        "mapillary": "1135679406911711",
+        "name": "Station Garage",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "survey:date": "2021-06-16",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60705612,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.501019,
+            54.153178
+          ],
+          [
+            -4.500813,
+            54.153254
+          ],
+          [
+            -4.500756,
+            54.153202
+          ],
+          [
+            -4.500962,
+            54.153126
+          ],
+          [
+            -4.501019,
+            54.153178
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "building": "retail",
+        "name": "The Milestone",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103567087,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49829,
+            54.151389
+          ],
+          [
+            -4.498413,
+            54.151465
+          ],
+          [
+            -4.498344,
+            54.151503
+          ],
+          [
+            -4.498221,
+            54.151427
+          ],
+          [
+            -4.49829,
+            54.151389
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147183381,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692558,
+            54.221916
+          ],
+          [
+            -4.692377,
+            54.22186
+          ],
+          [
+            -4.692475,
+            54.221753
+          ],
+          [
+            -4.692655,
+            54.221808
+          ],
+          [
+            -4.692558,
+            54.221916
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:SPAR (retailer)",
+        "building": "yes",
+        "name": "Spar",
+        "shop": "convenience",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233925089,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.406427,
+            54.231766
+          ],
+          [
+            -4.406707,
+            54.231915
+          ],
+          [
+            -4.406462,
+            54.232157
+          ],
+          [
+            -4.406293,
+            54.232122
+          ],
+          [
+            -4.406209,
+            54.232107
+          ],
+          [
+            -4.406427,
+            54.231766
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Ellan Vannin Fuels",
+        "amenity": "fuel",
+        "brand": "EVF",
+        "mapillary": "3920623684717330",
+        "name": "EVF",
+        "source": "Bing",
+        "survey:date": "2020-10-02"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279663189,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756132,
+            54.085056
+          ],
+          [
+            -4.75614,
+            54.084877
+          ],
+          [
+            -4.755943,
+            54.084874
+          ],
+          [
+            -4.755941,
+            54.084929
+          ],
+          [
+            -4.755937,
+            54.085009
+          ],
+          [
+            -4.755935,
+            54.085053
+          ],
+          [
+            -4.756,
+            54.085054
+          ],
+          [
+            -4.756066,
+            54.085055
+          ],
+          [
+            -4.756132,
+            54.085056
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "building": "yes",
+        "name": "DGP Station Road Garage Ltd",
+        "phone": "+44 1624 834454",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279663192,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.755937,
+            54.085009
+          ],
+          [
+            -4.755838,
+            54.085008
+          ],
+          [
+            -4.755835,
+            54.085054
+          ],
+          [
+            -4.75577,
+            54.085053
+          ],
+          [
+            -4.755767,
+            54.085121
+          ],
+          [
+            -4.755932,
+            54.085124
+          ],
+          [
+            -4.755935,
+            54.085053
+          ],
+          [
+            -4.755937,
+            54.085009
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:SPAR (retailer)",
+        "building": "yes",
+        "name": "Spar",
+        "phone": "+44 1624 834454",
+        "shop": "convenience",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 289995299,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38726,
+            54.322486
+          ],
+          [
+            -4.387017,
+            54.32232
+          ],
+          [
+            -4.387268,
+            54.322286
+          ],
+          [
+            -4.387245,
+            54.322244
+          ],
+          [
+            -4.387305,
+            54.322237
+          ],
+          [
+            -4.387216,
+            54.3221
+          ],
+          [
+            -4.387657,
+            54.322008
+          ],
+          [
+            -4.387696,
+            54.322073
+          ],
+          [
+            -4.387794,
+            54.32223
+          ],
+          [
+            -4.387839,
+            54.322305
+          ],
+          [
+            -4.387585,
+            54.322384
+          ],
+          [
+            -4.387517,
+            54.322406
+          ],
+          [
+            -4.38741,
+            54.322438
+          ],
+          [
+            -4.387366,
+            54.322451
+          ],
+          [
+            -4.38726,
+            54.322486
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "source": "Bing",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 412956694,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.579645,
+            54.290307
+          ],
+          [
+            -4.580059,
+            54.290427
+          ],
+          [
+            -4.580307,
+            54.290114
+          ],
+          [
+            -4.57988,
+            54.289979
+          ],
+          [
+            -4.579858,
+            54.290012
+          ],
+          [
+            -4.579735,
+            54.290183
+          ],
+          [
+            -4.579645,
+            54.290307
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "brand": "Ellan Vannin Fuels",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100063579248890",
+        "landuse": "retail",
+        "name": "EVF",
+        "old_name": "Total"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148813493,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.630756,
+            54.093283
+          ],
+          [
+            -4.630584,
+            54.093226
+          ],
+          [
+            -4.63052,
+            54.093296
+          ],
+          [
+            -4.630473,
+            54.093282
+          ],
+          [
+            -4.630379,
+            54.093387
+          ],
+          [
+            -4.630296,
+            54.093361
+          ],
+          [
+            -4.630261,
+            54.093399
+          ],
+          [
+            -4.630205,
+            54.093382
+          ],
+          [
+            -4.630083,
+            54.093518
+          ],
+          [
+            -4.630426,
+            54.093659
+          ],
+          [
+            -4.630478,
+            54.093603
+          ],
+          [
+            -4.630679,
+            54.093384
+          ],
+          [
+            -4.630756,
+            54.093283
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:postcode": "IM9 2AN",
+        "addr:street": "Douglas Road",
+        "amenity": "fuel",
+        "brand": "Manx Petroleum",
+        "mapillary": "283733273359253",
+        "name": "Airport Garage",
+        "self_service": "yes",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "survey:date": "2021-09-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1197505147,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491392,
+            54.155937
+          ],
+          [
+            -4.491281,
+            54.1559
+          ],
+          [
+            -4.491215,
+            54.155976
+          ],
+          [
+            -4.491014,
+            54.156053
+          ],
+          [
+            -4.491097,
+            54.156124
+          ],
+          [
+            -4.491226,
+            54.15607
+          ],
+          [
+            -4.491252,
+            54.156092
+          ],
+          [
+            -4.491392,
+            54.155937
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fuel",
+        "brand": "EVF",
+        "building": "yes",
+        "mapillary": "6794317793915494",
+        "name": "Wessex Garage",
+        "survey:date": "2021-09-24"
+      }
     }
   ]
 }

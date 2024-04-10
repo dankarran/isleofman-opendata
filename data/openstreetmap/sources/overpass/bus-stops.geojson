@@ -7171,8 +7171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.587421,
-          54.28349
+          -4.587243,
+          54.283738
         ]
       },
       "properties": {
@@ -7180,7 +7180,8 @@
         "highway": "bus_stop",
         "name": "B.C.C. Carrs",
         "public_transport": "platform",
-        "ref": "2603"
+        "ref": "2603",
+        "shelter": "yes"
       }
     },
     {
@@ -7225,8 +7226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.587178,
-          54.283562
+          -4.587119,
+          54.283655
         ]
       },
       "properties": {
@@ -7234,7 +7235,8 @@
         "highway": "bus_stop",
         "name": "Kirk Michael Methodist Church Shelter",
         "public_transport": "platform",
-        "ref": "2606"
+        "ref": "2606",
+        "shelter": "yes"
       }
     },
     {

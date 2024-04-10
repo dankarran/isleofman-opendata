@@ -154,6 +154,23 @@
     },
     {
       "type": "Feature",
+      "id": 11170791038,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.759534,
+          54.082892
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "website": "https://charge.pod-point.com/address/breagle-glen-pavilion-0y80m"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 11280040355,
       "geometry": {
         "type": "Point",
@@ -168,6 +185,105 @@
         "name": "Finn-Earl",
         "operator": "POD Point",
         "ref": "PG-87329"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1165384236,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478399,
+            54.153819
+          ],
+          [
+            -4.478357,
+            54.154024
+          ],
+          [
+            -4.478328,
+            54.154022
+          ],
+          [
+            -4.478371,
+            54.153817
+          ],
+          [
+            -4.478399,
+            54.153819
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1167710497,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474996,
+            54.159681
+          ],
+          [
+            -4.474927,
+            54.159755
+          ],
+          [
+            -4.474958,
+            54.159765
+          ],
+          [
+            -4.475027,
+            54.159691
+          ],
+          [
+            -4.474996,
+            54.159681
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1174305874,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478192,
+            54.151849
+          ],
+          [
+            -4.478225,
+            54.151992
+          ],
+          [
+            -4.478189,
+            54.152019
+          ],
+          [
+            -4.47815,
+            54.151852
+          ],
+          [
+            -4.478192,
+            54.151849
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2"
       }
     }
   ]
