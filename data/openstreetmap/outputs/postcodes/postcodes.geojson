@@ -9137,6 +9137,31 @@
     },
     {
       "type": "Feature",
+      "id": 11808389011,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.447623,
+          54.170303
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "64",
+        "addr:postcode": "IM3 1BL",
+        "addr:street": "Harbour Road",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 11808389011,
+        "lon": -4.447623,
+        "lat": 54.170303,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11808389011"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -120253,6 +120278,285 @@
     },
     {
       "type": "Feature",
+      "id": 1128332888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447189,
+            54.170402
+          ],
+          [
+            -4.447125,
+            54.170322
+          ],
+          [
+            -4.446955,
+            54.170368
+          ],
+          [
+            -4.447094,
+            54.170542
+          ],
+          [
+            -4.447227,
+            54.170506
+          ],
+          [
+            -4.447152,
+            54.170412
+          ],
+          [
+            -4.447189,
+            54.170402
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1128332888,
+        "lon": -4.447100325419062,
+        "lat": 54.170428983320306,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1128332888"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128332889,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446983,
+            54.17051
+          ],
+          [
+            -4.446784,
+            54.170592
+          ],
+          [
+            -4.446827,
+            54.170628
+          ],
+          [
+            -4.446755,
+            54.170657
+          ],
+          [
+            -4.446824,
+            54.170715
+          ],
+          [
+            -4.447095,
+            54.170604
+          ],
+          [
+            -4.446983,
+            54.17051
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1128332889,
+        "lon": -4.446911931057024,
+        "lat": 54.17061389578247,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1128332889"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128332890,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446827,
+            54.17076
+          ],
+          [
+            -4.446707,
+            54.170672
+          ],
+          [
+            -4.446578,
+            54.170732
+          ],
+          [
+            -4.446508,
+            54.170682
+          ],
+          [
+            -4.446375,
+            54.170744
+          ],
+          [
+            -4.446578,
+            54.170893
+          ],
+          [
+            -4.446736,
+            54.170819
+          ],
+          [
+            -4.446723,
+            54.170809
+          ],
+          [
+            -4.446827,
+            54.17076
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1128332890,
+        "lon": -4.44660353628251,
+        "lat": 54.17076825452038,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1128332890"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128332893,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447166,
+            54.170927
+          ],
+          [
+            -4.447319,
+            54.17083
+          ],
+          [
+            -4.447213,
+            54.170773
+          ],
+          [
+            -4.447001,
+            54.170908
+          ],
+          [
+            -4.447078,
+            54.17095
+          ],
+          [
+            -4.447138,
+            54.170912
+          ],
+          [
+            -4.447166,
+            54.170927
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1128332893,
+        "lon": -4.447159819739088,
+        "lat": 54.17086591138783,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1128332893"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128332894,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447642,
+            54.17074
+          ],
+          [
+            -4.447596,
+            54.170682
+          ],
+          [
+            -4.447529,
+            54.1707
+          ],
+          [
+            -4.4475,
+            54.170663
+          ],
+          [
+            -4.447308,
+            54.170715
+          ],
+          [
+            -4.447383,
+            54.170809
+          ],
+          [
+            -4.447432,
+            54.170796
+          ],
+          [
+            -4.447413,
+            54.170773
+          ],
+          [
+            -4.447508,
+            54.170747
+          ],
+          [
+            -4.447527,
+            54.170771
+          ],
+          [
+            -4.447642,
+            54.17074
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1128332894,
+        "lon": -4.4474712041238815,
+        "lat": 54.1707317670082,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1128332894"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1130675236,
       "geometry": {
         "type": "LineString",
@@ -135347,6 +135651,519 @@
     },
     {
       "type": "Feature",
+      "id": 1250850042,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447315,
+            54.171751
+          ],
+          [
+            -4.447,
+            54.171827
+          ],
+          [
+            -4.447069,
+            54.171924
+          ],
+          [
+            -4.447383,
+            54.171849
+          ],
+          [
+            -4.447315,
+            54.171751
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850042,
+        "lon": -4.447191746578535,
+        "lat": 54.171837673214014,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850042"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850043,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446989,
+            54.171796
+          ],
+          [
+            -4.446869,
+            54.171627
+          ],
+          [
+            -4.446663,
+            54.171677
+          ],
+          [
+            -4.446697,
+            54.171725
+          ],
+          [
+            -4.446783,
+            54.171704
+          ],
+          [
+            -4.446869,
+            54.171825
+          ],
+          [
+            -4.446989,
+            54.171796
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850043,
+        "lon": -4.4468321353391165,
+        "lat": 54.17171999709709,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850043"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850044,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446852,
+            54.171514
+          ],
+          [
+            -4.44688,
+            54.171507
+          ],
+          [
+            -4.44684,
+            54.171444
+          ],
+          [
+            -4.446679,
+            54.171479
+          ],
+          [
+            -4.446768,
+            54.171619
+          ],
+          [
+            -4.4469,
+            54.17159
+          ],
+          [
+            -4.446852,
+            54.171514
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850044,
+        "lon": -4.4467976414206065,
+        "lat": 54.17152891089642,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850044"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850045,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446792,
+            54.171425
+          ],
+          [
+            -4.446749,
+            54.171363
+          ],
+          [
+            -4.446778,
+            54.171356
+          ],
+          [
+            -4.446733,
+            54.17129
+          ],
+          [
+            -4.446576,
+            54.171327
+          ],
+          [
+            -4.446665,
+            54.171455
+          ],
+          [
+            -4.446792,
+            54.171425
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850045,
+        "lon": -4.446693099573527,
+        "lat": 54.17137036620268,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850045"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850046,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446573,
+            54.171082
+          ],
+          [
+            -4.44642,
+            54.171119
+          ],
+          [
+            -4.446558,
+            54.171315
+          ],
+          [
+            -4.446711,
+            54.171278
+          ],
+          [
+            -4.446573,
+            54.171082
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850046,
+        "lon": -4.4465655,
+        "lat": 54.171198499999996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850046"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850047,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44694,
+            54.17107
+          ],
+          [
+            -4.447014,
+            54.171171
+          ],
+          [
+            -4.447142,
+            54.171139
+          ],
+          [
+            -4.447021,
+            54.170974
+          ],
+          [
+            -4.446872,
+            54.171011
+          ],
+          [
+            -4.446919,
+            54.171076
+          ],
+          [
+            -4.44694,
+            54.17107
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850047,
+        "lon": -4.447008297127404,
+        "lat": 54.1710711393167,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850047"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850048,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447017,
+            54.171209
+          ],
+          [
+            -4.447074,
+            54.171285
+          ],
+          [
+            -4.447106,
+            54.171277
+          ],
+          [
+            -4.44717,
+            54.171362
+          ],
+          [
+            -4.447302,
+            54.171328
+          ],
+          [
+            -4.447181,
+            54.171167
+          ],
+          [
+            -4.447017,
+            54.171209
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850048,
+        "lon": -4.447161240186742,
+        "lat": 54.17126359885475,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850048"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850049,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447512,
+            54.171535
+          ],
+          [
+            -4.447367,
+            54.171344
+          ],
+          [
+            -4.447179,
+            54.171393
+          ],
+          [
+            -4.447236,
+            54.171468
+          ],
+          [
+            -4.44731,
+            54.171449
+          ],
+          [
+            -4.447398,
+            54.171564
+          ],
+          [
+            -4.447512,
+            54.171535
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850049,
+        "lon": -4.447350146133912,
+        "lat": 54.171450399582525,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850049"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850050,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44772,
+            54.171712
+          ],
+          [
+            -4.447648,
+            54.171705
+          ],
+          [
+            -4.447659,
+            54.171665
+          ],
+          [
+            -4.447604,
+            54.17166
+          ],
+          [
+            -4.447627,
+            54.171576
+          ],
+          [
+            -4.447479,
+            54.171562
+          ],
+          [
+            -4.447457,
+            54.171641
+          ],
+          [
+            -4.447423,
+            54.171638
+          ],
+          [
+            -4.447407,
+            54.171697
+          ],
+          [
+            -4.447441,
+            54.1717
+          ],
+          [
+            -4.447422,
+            54.171771
+          ],
+          [
+            -4.447696,
+            54.171797
+          ],
+          [
+            -4.44772,
+            54.171712
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2AN",
+        "addr:street": "Harbour View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250850050,
+        "lon": -4.44755885720004,
+        "lat": 54.17169018964279,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850050"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250894929,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448928,
+            54.174146
+          ],
+          [
+            -4.448966,
+            54.174234
+          ],
+          [
+            -4.449157,
+            54.174206
+          ],
+          [
+            -4.449118,
+            54.174118
+          ],
+          [
+            -4.448928,
+            54.174146
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Margher Breck",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "streetside",
+        "osm_id": 1250894929,
+        "lon": -4.449042349138411,
+        "lat": 54.17417606569772,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250894929"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250924097,
       "geometry": {
         "type": "LineString",
@@ -135412,6 +136229,327 @@
         "lat": 54.17549924259616,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1250924097"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927103,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449196,
+            54.174471
+          ],
+          [
+            -4.448947,
+            54.174505
+          ],
+          [
+            -4.44897,
+            54.174562
+          ],
+          [
+            -4.449219,
+            54.174527
+          ],
+          [
+            -4.449196,
+            54.174471
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1250927103,
+        "lon": -4.449082817958415,
+        "lat": 54.17451628177837,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250927103"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251114893,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450289,
+            54.173171
+          ],
+          [
+            -4.450034,
+            54.173241
+          ],
+          [
+            -4.450095,
+            54.173318
+          ],
+          [
+            -4.45035,
+            54.173248
+          ],
+          [
+            -4.450289,
+            54.173171
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1BQ",
+        "addr:street": "Marine View Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1251114893,
+        "lon": -4.450191999999999,
+        "lat": 54.17324450000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1251114893"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251114894,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450404,
+            54.173154
+          ],
+          [
+            -4.450471,
+            54.173231
+          ],
+          [
+            -4.450724,
+            54.173156
+          ],
+          [
+            -4.450657,
+            54.173079
+          ],
+          [
+            -4.450404,
+            54.173154
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1BQ",
+        "addr:street": "Marine View Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1251114894,
+        "lon": -4.450564,
+        "lat": 54.17315500000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1251114894"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251114895,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450553,
+            54.173
+          ],
+          [
+            -4.45061,
+            54.173069
+          ],
+          [
+            -4.450784,
+            54.17302
+          ],
+          [
+            -4.450727,
+            54.172951
+          ],
+          [
+            -4.450553,
+            54.173
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1BQ",
+        "addr:street": "Marine View Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1251114895,
+        "lon": -4.450668500000001,
+        "lat": 54.17301,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1251114895"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251114896,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.45066,
+            54.172923
+          ],
+          [
+            -4.45062,
+            54.17287
+          ],
+          [
+            -4.450495,
+            54.172902
+          ],
+          [
+            -4.450535,
+            54.172956
+          ],
+          [
+            -4.45066,
+            54.172923
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1BQ",
+        "addr:street": "Marine View Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1251114896,
+        "lon": -4.450577385120696,
+        "lat": 54.17291280038236,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1251114896"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251114897,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450149,
+            54.172867
+          ],
+          [
+            -4.450209,
+            54.172951
+          ],
+          [
+            -4.450305,
+            54.172927
+          ],
+          [
+            -4.450303,
+            54.172925
+          ],
+          [
+            -4.450467,
+            54.172885
+          ],
+          [
+            -4.450409,
+            54.172803
+          ],
+          [
+            -4.450149,
+            54.172867
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1BQ",
+        "addr:street": "Marine View Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1251114897,
+        "lon": -4.450307886515693,
+        "lat": 54.17287665395131,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1251114897"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251114898,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450081,
+            54.172927
+          ],
+          [
+            -4.449995,
+            54.17295
+          ],
+          [
+            -4.449975,
+            54.172924
+          ],
+          [
+            -4.449925,
+            54.172937
+          ],
+          [
+            -4.449949,
+            54.172967
+          ],
+          [
+            -4.449821,
+            54.173001
+          ],
+          [
+            -4.449884,
+            54.173083
+          ],
+          [
+            -4.450147,
+            54.173012
+          ],
+          [
+            -4.450081,
+            54.172927
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 1BQ",
+        "addr:street": "Marine View Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1251114898,
+        "lon": -4.449980544263783,
+        "lat": 54.17299867774745,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1251114898"
       }
     },
     {

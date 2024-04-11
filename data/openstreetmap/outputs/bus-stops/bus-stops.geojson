@@ -17062,19 +17062,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.448265,
-          54.174547
+          -4.447904,
+          54.174591
         ]
       },
       "properties": {
         "bus": "yes",
+        "fixme": "position confirmed on streetside; check house number",
         "highway": "bus_stop",
         "name": "Groudle Road No.26",
         "public_transport": "platform",
         "ref": "13809",
         "osm_id": 9192657828,
-        "lon": -4.448265,
-        "lat": 54.174547,
+        "lon": -4.447904,
+        "lat": 54.174591,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192657828"
       }
@@ -17085,8 +17086,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.449032,
-          54.174308
+          -4.448653,
+          54.174365
         ]
       },
       "properties": {
@@ -17096,8 +17097,8 @@
         "public_transport": "platform",
         "ref": "13810",
         "osm_id": 9192657829,
-        "lon": -4.449032,
-        "lat": 54.174308,
+        "lon": -4.448653,
+        "lat": 54.174365,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192657829"
       }
