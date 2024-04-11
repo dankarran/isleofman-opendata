@@ -7759,6 +7759,43 @@
     },
     {
       "type": "Feature",
+      "id": 25987118,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486445,
+            54.173385
+          ],
+          [
+            -4.486339,
+            54.173304
+          ],
+          [
+            -4.485843,
+            54.173129
+          ],
+          [
+            -4.485672,
+            54.173066
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Joseph Hall Avenue",
+        "name:en": "Joseph Hall Avenue",
+        "name:gv": "Astyll Joseph Hall",
+        "postal_code": "IM2 6PN",
+        "source": "survey",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987124,
       "geometry": {
         "type": "LineString",
@@ -13888,6 +13925,51 @@
         "postal_code": "IM2 6HJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988588,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485411,
+            54.173673
+          ],
+          [
+            -4.485465,
+            54.173745
+          ],
+          [
+            -4.485773,
+            54.173881
+          ],
+          [
+            -4.485978,
+            54.174015
+          ],
+          [
+            -4.486357,
+            54.17412
+          ],
+          [
+            -4.486282,
+            54.174272
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Robert Stephen Close",
+        "name:en": "Robert Stephen Close",
+        "name:gv": "Close Robert Stephen",
+        "postal_code": "IM2 6PJ",
+        "source": "survey",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "asphalt"
       }
     },
     {
@@ -29359,6 +29441,51 @@
     },
     {
       "type": "Feature",
+      "id": 170515398,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486357,
+            54.17412
+          ],
+          [
+            -4.4866,
+            54.174115
+          ],
+          [
+            -4.486757,
+            54.174053
+          ],
+          [
+            -4.486776,
+            54.174005
+          ],
+          [
+            -4.48659,
+            54.173801
+          ],
+          [
+            -4.486514,
+            54.173742
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Robert Stephen Close",
+        "name:en": "Robert Stephen Close",
+        "name:gv": "Close Robert Stephen",
+        "postal_code": "IM2 6PJ",
+        "source": "survey",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 170515399,
       "geometry": {
         "type": "LineString",
@@ -32215,6 +32342,29 @@
         "postal_code": "IM5 3BS",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:alt_name": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 449208362,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482405,
+            54.173673
+          ],
+          [
+            -4.48264,
+            54.173518
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Fenella Court",
+        "postal_code": "IM2 6PH",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {

@@ -1937,13 +1937,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 6PD",
+        "addr:street": "Snaefell Road",
         "amenity": "place_of_worship",
         "building": "church",
         "denomination": "nondenominational;charismatic;evangelical",
         "name": "Saint Joseph's",
         "operator": "Living Hope Church",
         "religion": "christian",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
