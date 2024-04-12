@@ -127,6 +127,11 @@ def update_annual_files(sources, record_type):
         year_dir = data_dir + "sources/annual/" + year
         filepath = year_dir + "/" + record_type + ".csv"
 
+        # only update if we don't already have the file
+        if os.path.isfile(filepath):
+            print("    ", "Skipping", record_type, "for", year)
+            continue
+
         if not os.path.isdir(year_dir):
             print("    ", "Creating directory for", year)
             os.mkdir(year_dir)
@@ -216,10 +221,9 @@ def read_annual_files(sources, default_options, record_type, data):
 
                     year_data = year_data.rename(columns=header_map_swap)
 
-                # strip newlines from addresses (2018)
-                if record_type == "appeals" and year in ["2018"]:
-                    print("      ", "Stripping newlines from addresses")
-                    year_data["Property Address"] = year_data["Property Address"].replace(r'\s', ' ', regex=True)
+                # strip newlines from addresses
+                print("      ", "Stripping newlines from addresses")
+                year_data["Property Address"] = year_data["Property Address"].replace(r'\s', ' ', regex=True)
 
                 # reorder columns (skip 2018 due to missing columns)
                 if not (record_type == "appeals" and year in ["2018"]):
