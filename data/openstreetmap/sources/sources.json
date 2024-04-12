@@ -6,8 +6,8 @@
       "group": "Addressing",
       "query": "nw['addr:housenumber'](54,-5,54.5,-4);nw['addr:housename'](54,-5,54.5,-4);nw['addr:street'](54,-5,54.5,-4);nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"],
-      "sort_columns": ["addr:street", "addr:city", "addr:housenumber", "addr:housename", "osm_id"]
+      "csv_columns": ["addr:unit", "addr:housename", "addr:housenumber", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country"],
+      "sort_columns": ["addr:street", "addr:city", "addr:housenumber", "addr:housename", "addr:unit", "osm_id"]
     },
     {
       "label": "archaeological-sites",
@@ -38,7 +38,7 @@
       "title": "Charities",
       "query": "nw['charity'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "charity", "ref:charity", "operator", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
+      "csv_columns": ["name", "name:en", "name:gv", "charity", "ref:charity", "operator", "addr:unit", "addr:housename", "addr:housenumber", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
       "sort_columns": ["name", "osm_id"]
     },
     {
@@ -62,7 +62,7 @@
       "title": "Food and drink",
       "query": "nw['amenity'~'^(pub|bar|cafe|restaurant|fast_food)$'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
+      "csv_columns": ["name", "name:en", "name:gv", "amenity", "addr:unit", "addr:housename", "addr:housenumber", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
       "sort_columns": ["name", "osm_id"]
     },
     {
@@ -110,7 +110,7 @@
       "title": "Offices",
       "query": "nw['office'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "office", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
+      "csv_columns": ["name", "name:en", "name:gv", "office", "addr:unit", "addr:housename", "addr:housenumber", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone"],
       "sort_columns": ["name", "osm_id"]
     },
     {
@@ -160,7 +160,7 @@
       "title": "Shops",
       "query": "nw['shop'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "shop", "addr:housenumber", "addr:housename", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
+      "csv_columns": ["name", "name:en", "name:gv", "shop", "addr:unit", "addr:housename", "addr:housenumber", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook"],
       "sort_columns": ["name", "osm_id"]
     },
     {
