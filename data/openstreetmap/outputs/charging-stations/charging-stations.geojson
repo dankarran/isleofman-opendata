@@ -239,6 +239,29 @@
     },
     {
       "type": "Feature",
+      "id": 11811417820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.739486,
+          54.078369
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "4",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "website": "https://charge.pod-point.com/address/port-st-mary-town-hall-car-park-e7z2x",
+        "osm_id": 11811417820,
+        "lon": -4.739486,
+        "lat": 54.078369,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11811417820"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1165384236,
       "geometry": {
         "type": "LineString",

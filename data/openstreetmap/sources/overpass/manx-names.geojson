@@ -5464,6 +5464,149 @@
     },
     {
       "type": "Feature",
+      "id": 25985962,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.580951,
+            54.288636
+          ],
+          [
+            -4.581009,
+            54.28866
+          ],
+          [
+            -4.581074,
+            54.288688
+          ],
+          [
+            -4.581323,
+            54.288783
+          ],
+          [
+            -4.581371,
+            54.288799
+          ],
+          [
+            -4.581457,
+            54.288757
+          ],
+          [
+            -4.581602,
+            54.288683
+          ],
+          [
+            -4.58169,
+            54.288623
+          ],
+          [
+            -4.581747,
+            54.288571
+          ],
+          [
+            -4.581821,
+            54.288549
+          ],
+          [
+            -4.581977,
+            54.288528
+          ],
+          [
+            -4.582202,
+            54.288497
+          ],
+          [
+            -4.582475,
+            54.288471
+          ],
+          [
+            -4.582697,
+            54.288444
+          ],
+          [
+            -4.583138,
+            54.288249
+          ],
+          [
+            -4.583301,
+            54.28819
+          ],
+          [
+            -4.583438,
+            54.288136
+          ],
+          [
+            -4.583471,
+            54.288101
+          ],
+          [
+            -4.583493,
+            54.288053
+          ],
+          [
+            -4.583531,
+            54.288011
+          ],
+          [
+            -4.583546,
+            54.287978
+          ],
+          [
+            -4.583558,
+            54.287941
+          ],
+          [
+            -4.583558,
+            54.287887
+          ],
+          [
+            -4.583558,
+            54.287826
+          ],
+          [
+            -4.583575,
+            54.287778
+          ],
+          [
+            -4.583629,
+            54.287708
+          ],
+          [
+            -4.583717,
+            54.287654
+          ],
+          [
+            -4.583777,
+            54.287599
+          ],
+          [
+            -4.583854,
+            54.287529
+          ],
+          [
+            -4.583925,
+            54.287462
+          ],
+          [
+            -4.583958,
+            54.287421
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "fixme": "various postcodes starting IM6 2 in use",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "postal_code": "IM6 2",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985967,
       "geometry": {
         "type": "LineString",
@@ -5597,6 +5740,50 @@
         "name:gv": "Imman Cushag",
         "source:maxweight": "survey",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986017,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.592022,
+            54.283657
+          ],
+          [
+            -4.592529,
+            54.284085
+          ],
+          [
+            -4.592574,
+            54.284159
+          ],
+          [
+            -4.592612,
+            54.284204
+          ],
+          [
+            -4.592681,
+            54.284247
+          ],
+          [
+            -4.592899,
+            54.28433
+          ],
+          [
+            -4.593458,
+            54.284669
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Broogh Wyllin",
+        "name:gv": "Broogh Wyllin"
       }
     },
     {
@@ -6681,6 +6868,30 @@
         "name": "Reayrt Y Chrink",
         "name:gv": "Reayrt Y Chrink",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986119,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.583546,
+            54.287978
+          ],
+          [
+            -4.584134,
+            54.288032
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones"
       }
     },
     {
@@ -9661,6 +9872,35 @@
     },
     {
       "type": "Feature",
+      "id": 25986690,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587643,
+            54.284662
+          ],
+          [
+            -4.587322,
+            54.284583
+          ],
+          [
+            -4.58734,
+            54.284519
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986700,
       "geometry": {
         "type": "LineString",
@@ -10673,6 +10913,42 @@
         "name:en": "Harris Lane",
         "name:gv": "Lhoan Harris",
         "oneway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986994,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.591647,
+            54.283803
+          ],
+          [
+            -4.59136,
+            54.283543
+          ],
+          [
+            -4.591124,
+            54.283626
+          ],
+          [
+            -4.590312,
+            54.283902
+          ],
+          [
+            -4.590365,
+            54.28396
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee"
       }
     },
     {
@@ -19585,6 +19861,30 @@
     },
     {
       "type": "Feature",
+      "id": 25987971,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.591124,
+            54.283626
+          ],
+          [
+            -4.590899,
+            54.283396
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987986,
       "geometry": {
         "type": "LineString",
@@ -23352,6 +23652,43 @@
     },
     {
       "type": "Feature",
+      "id": 25988633,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.592529,
+            54.284085
+          ],
+          [
+            -4.593217,
+            54.28384
+          ],
+          [
+            -4.593322,
+            54.283836
+          ],
+          [
+            -4.593447,
+            54.283866
+          ],
+          [
+            -4.594091,
+            54.284196
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Broogh Wyllin",
+        "name:gv": "Broogh Wyllin",
+        "oneway": "no"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988664,
       "geometry": {
         "type": "LineString",
@@ -24904,6 +25241,82 @@
     },
     {
       "type": "Feature",
+      "id": 25988958,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.59136,
+            54.283543
+          ],
+          [
+            -4.591577,
+            54.283449
+          ],
+          [
+            -4.591712,
+            54.283395
+          ],
+          [
+            -4.591819,
+            54.283389
+          ],
+          [
+            -4.591907,
+            54.283366
+          ],
+          [
+            -4.591966,
+            54.28332
+          ],
+          [
+            -4.592004,
+            54.283258
+          ],
+          [
+            -4.591977,
+            54.283187
+          ],
+          [
+            -4.591907,
+            54.283153
+          ],
+          [
+            -4.591824,
+            54.283099
+          ],
+          [
+            -4.591725,
+            54.283059
+          ],
+          [
+            -4.591661,
+            54.283062
+          ],
+          [
+            -4.591604,
+            54.283087
+          ],
+          [
+            -4.591508,
+            54.283139
+          ],
+          [
+            -4.591425,
+            54.283175
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988963,
       "geometry": {
         "type": "LineString",
@@ -26408,6 +26821,10 @@
             54.078662
           ],
           [
+            -4.739114,
+            54.078733
+          ],
+          [
             -4.739051,
             54.07876
           ],
@@ -26662,6 +27079,34 @@
         "name": "Cronk Drean",
         "name:gv": "Cronk Drean",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989268,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.581371,
+            54.288799
+          ],
+          [
+            -4.581367,
+            54.288845
+          ],
+          [
+            -4.581209,
+            54.289168
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones"
       }
     },
     {
@@ -27342,6 +27787,54 @@
         "name:en": "Endfield Avenue",
         "name:gv": "Astyl y Vagher Sjerree",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.588281,
+            54.283567
+          ],
+          [
+            -4.58825,
+            54.283596
+          ],
+          [
+            -4.587957,
+            54.28386
+          ],
+          [
+            -4.587907,
+            54.283919
+          ],
+          [
+            -4.587643,
+            54.284662
+          ],
+          [
+            -4.587562,
+            54.284828
+          ],
+          [
+            -4.587128,
+            54.28535
+          ],
+          [
+            -4.587261,
+            54.285387
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
+        "surface": "concrete"
       }
     },
     {
@@ -45556,6 +46049,31 @@
     },
     {
       "type": "Feature",
+      "id": 112450915,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587046,
+            54.285327
+          ],
+          [
+            -4.587128,
+            54.28535
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
+        "surface": "concrete"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 113048303,
       "geometry": {
         "type": "LineString",
@@ -46497,6 +47015,37 @@
         "oneway": "yes",
         "railway": "light_rail",
         "voltage": "550"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118598594,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.591613,
+            54.28291
+          ],
+          [
+            -4.591639,
+            54.282962
+          ],
+          [
+            -4.591675,
+            54.283014
+          ],
+          [
+            -4.591725,
+            54.283059
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee"
       }
     },
     {
@@ -55126,6 +55675,301 @@
         "name:en": "Balleira Road",
         "name:gv": "Bayr ny Balleira",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792247,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.590312,
+            54.283902
+          ],
+          [
+            -4.590284,
+            54.283874
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.582724,
+            54.288472
+          ],
+          [
+            -4.582775,
+            54.288524
+          ],
+          [
+            -4.582815,
+            54.288595
+          ],
+          [
+            -4.582924,
+            54.288633
+          ],
+          [
+            -4.583053,
+            54.288665
+          ],
+          [
+            -4.58317,
+            54.288701
+          ],
+          [
+            -4.583323,
+            54.288689
+          ],
+          [
+            -4.583405,
+            54.288675
+          ],
+          [
+            -4.583476,
+            54.288634
+          ],
+          [
+            -4.583509,
+            54.288596
+          ],
+          [
+            -4.583531,
+            54.288551
+          ],
+          [
+            -4.583525,
+            54.288506
+          ],
+          [
+            -4.583503,
+            54.288458
+          ],
+          [
+            -4.583394,
+            54.288388
+          ],
+          [
+            -4.583323,
+            54.288318
+          ],
+          [
+            -4.583226,
+            54.288288
+          ],
+          [
+            -4.583182,
+            54.288269
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792249,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.582697,
+            54.288444
+          ],
+          [
+            -4.582724,
+            54.288472
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792250,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.583182,
+            54.288269
+          ],
+          [
+            -4.583138,
+            54.288249
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792251,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.583958,
+            54.287421
+          ],
+          [
+            -4.584023,
+            54.287373
+          ],
+          [
+            -4.5841,
+            54.287366
+          ],
+          [
+            -4.584176,
+            54.287363
+          ],
+          [
+            -4.584291,
+            54.28736
+          ],
+          [
+            -4.584357,
+            54.287376
+          ],
+          [
+            -4.58445,
+            54.287382
+          ],
+          [
+            -4.58451,
+            54.287414
+          ],
+          [
+            -4.584598,
+            54.287452
+          ],
+          [
+            -4.584702,
+            54.287478
+          ],
+          [
+            -4.584795,
+            54.287452
+          ],
+          [
+            -4.584849,
+            54.287421
+          ],
+          [
+            -4.58486,
+            54.287376
+          ],
+          [
+            -4.584849,
+            54.287318
+          ],
+          [
+            -4.584795,
+            54.287274
+          ],
+          [
+            -4.584751,
+            54.287235
+          ],
+          [
+            -4.584685,
+            54.287197
+          ],
+          [
+            -4.584641,
+            54.287165
+          ],
+          [
+            -4.584592,
+            54.287133
+          ],
+          [
+            -4.584499,
+            54.287098
+          ],
+          [
+            -4.584428,
+            54.287066
+          ],
+          [
+            -4.584357,
+            54.287069
+          ],
+          [
+            -4.584291,
+            54.287095
+          ],
+          [
+            -4.584215,
+            54.287107
+          ],
+          [
+            -4.584127,
+            54.287136
+          ],
+          [
+            -4.584056,
+            54.287168
+          ],
+          [
+            -4.584003,
+            54.287182
+          ],
+          [
+            -4.583985,
+            54.287226
+          ],
+          [
+            -4.58399,
+            54.28727
+          ],
+          [
+            -4.58399,
+            54.287321
+          ],
+          [
+            -4.584023,
+            54.287373
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones"
       }
     },
     {
@@ -83204,8 +84048,16 @@
             54.077939
           ],
           [
+            -4.73893,
+            54.07798
+          ],
+          [
             -4.738879,
             54.077994
+          ],
+          [
+            -4.738736,
+            54.078025
           ],
           [
             -4.738625,

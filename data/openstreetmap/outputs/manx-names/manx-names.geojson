@@ -6854,6 +6854,154 @@
     },
     {
       "type": "Feature",
+      "id": 25985962,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.580951,
+            54.288636
+          ],
+          [
+            -4.581009,
+            54.28866
+          ],
+          [
+            -4.581074,
+            54.288688
+          ],
+          [
+            -4.581323,
+            54.288783
+          ],
+          [
+            -4.581371,
+            54.288799
+          ],
+          [
+            -4.581457,
+            54.288757
+          ],
+          [
+            -4.581602,
+            54.288683
+          ],
+          [
+            -4.58169,
+            54.288623
+          ],
+          [
+            -4.581747,
+            54.288571
+          ],
+          [
+            -4.581821,
+            54.288549
+          ],
+          [
+            -4.581977,
+            54.288528
+          ],
+          [
+            -4.582202,
+            54.288497
+          ],
+          [
+            -4.582475,
+            54.288471
+          ],
+          [
+            -4.582697,
+            54.288444
+          ],
+          [
+            -4.583138,
+            54.288249
+          ],
+          [
+            -4.583301,
+            54.28819
+          ],
+          [
+            -4.583438,
+            54.288136
+          ],
+          [
+            -4.583471,
+            54.288101
+          ],
+          [
+            -4.583493,
+            54.288053
+          ],
+          [
+            -4.583531,
+            54.288011
+          ],
+          [
+            -4.583546,
+            54.287978
+          ],
+          [
+            -4.583558,
+            54.287941
+          ],
+          [
+            -4.583558,
+            54.287887
+          ],
+          [
+            -4.583558,
+            54.287826
+          ],
+          [
+            -4.583575,
+            54.287778
+          ],
+          [
+            -4.583629,
+            54.287708
+          ],
+          [
+            -4.583717,
+            54.287654
+          ],
+          [
+            -4.583777,
+            54.287599
+          ],
+          [
+            -4.583854,
+            54.287529
+          ],
+          [
+            -4.583925,
+            54.287462
+          ],
+          [
+            -4.583958,
+            54.287421
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "fixme": "various postcodes starting IM6 2 in use",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "postal_code": "IM6 2",
+        "surface": "asphalt",
+        "osm_id": 25985962,
+        "lon": -4.58256896184158,
+        "lat": 54.288311773633325,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25985962"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985967,
       "geometry": {
         "type": "LineString",
@@ -7002,6 +7150,55 @@
         "lat": 54.222970572345716,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25985993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986017,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.592022,
+            54.283657
+          ],
+          [
+            -4.592529,
+            54.284085
+          ],
+          [
+            -4.592574,
+            54.284159
+          ],
+          [
+            -4.592612,
+            54.284204
+          ],
+          [
+            -4.592681,
+            54.284247
+          ],
+          [
+            -4.592899,
+            54.28433
+          ],
+          [
+            -4.593458,
+            54.284669
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Broogh Wyllin",
+        "name:gv": "Broogh Wyllin",
+        "osm_id": 25986017,
+        "lon": -4.592716119055388,
+        "lat": 54.284195713566035,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986017"
       }
     },
     {
@@ -8166,6 +8363,35 @@
         "lat": 54.08401086479272,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986111"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986119,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.583546,
+            54.287978
+          ],
+          [
+            -4.584134,
+            54.288032
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones",
+        "osm_id": 25986119,
+        "lon": -4.58384,
+        "lat": 54.288005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986119"
       }
     },
     {
@@ -11381,6 +11607,40 @@
     },
     {
       "type": "Feature",
+      "id": 25986690,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587643,
+            54.284662
+          ],
+          [
+            -4.587322,
+            54.284583
+          ],
+          [
+            -4.58734,
+            54.284519
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
+        "surface": "concrete",
+        "osm_id": 25986690,
+        "lon": -4.587457133173426,
+        "lat": 54.28461052819736,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986690"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986700,
       "geometry": {
         "type": "LineString",
@@ -12498,6 +12758,47 @@
         "lat": 54.14782083607735,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986994,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.591647,
+            54.283803
+          ],
+          [
+            -4.59136,
+            54.283543
+          ],
+          [
+            -4.591124,
+            54.283626
+          ],
+          [
+            -4.590312,
+            54.283902
+          ],
+          [
+            -4.590365,
+            54.28396
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee",
+        "osm_id": 25986994,
+        "lon": -4.590975662834366,
+        "lat": 54.28372140710911,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986994"
       }
     },
     {
@@ -21870,6 +22171,35 @@
     },
     {
       "type": "Feature",
+      "id": 25987971,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.591124,
+            54.283626
+          ],
+          [
+            -4.590899,
+            54.283396
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee",
+        "osm_id": 25987971,
+        "lon": -4.5910115000000005,
+        "lat": 54.28351100000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987971"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987986,
       "geometry": {
         "type": "LineString",
@@ -25892,6 +26222,48 @@
     },
     {
       "type": "Feature",
+      "id": 25988633,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.592529,
+            54.284085
+          ],
+          [
+            -4.593217,
+            54.28384
+          ],
+          [
+            -4.593322,
+            54.283836
+          ],
+          [
+            -4.593447,
+            54.283866
+          ],
+          [
+            -4.594091,
+            54.284196
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Broogh Wyllin",
+        "name:gv": "Broogh Wyllin",
+        "oneway": "no",
+        "osm_id": 25988633,
+        "lon": -4.5933208533289385,
+        "lat": 54.28397562723846,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988633"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988664,
       "geometry": {
         "type": "LineString",
@@ -27579,6 +27951,87 @@
     },
     {
       "type": "Feature",
+      "id": 25988958,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.59136,
+            54.283543
+          ],
+          [
+            -4.591577,
+            54.283449
+          ],
+          [
+            -4.591712,
+            54.283395
+          ],
+          [
+            -4.591819,
+            54.283389
+          ],
+          [
+            -4.591907,
+            54.283366
+          ],
+          [
+            -4.591966,
+            54.28332
+          ],
+          [
+            -4.592004,
+            54.283258
+          ],
+          [
+            -4.591977,
+            54.283187
+          ],
+          [
+            -4.591907,
+            54.283153
+          ],
+          [
+            -4.591824,
+            54.283099
+          ],
+          [
+            -4.591725,
+            54.283059
+          ],
+          [
+            -4.591661,
+            54.283062
+          ],
+          [
+            -4.591604,
+            54.283087
+          ],
+          [
+            -4.591508,
+            54.283139
+          ],
+          [
+            -4.591425,
+            54.283175
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee",
+        "osm_id": 25988958,
+        "lon": -4.5917149975688245,
+        "lat": 54.28327441812203,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988958"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988963,
       "geometry": {
         "type": "LineString",
@@ -29183,6 +29636,10 @@
             54.078662
           ],
           [
+            -4.739114,
+            54.078733
+          ],
+          [
             -4.739051,
             54.07876
           ],
@@ -29200,8 +29657,8 @@
         "name:gv": "Creggan Mooar",
         "surface": "paved",
         "osm_id": 25989191,
-        "lon": -4.739523152873826,
-        "lat": 54.078558212577704,
+        "lon": -4.73952315879907,
+        "lat": 54.07855822655572,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989191"
       }
@@ -29467,6 +29924,39 @@
         "lat": 54.17292279973738,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989250"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989268,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.581371,
+            54.288799
+          ],
+          [
+            -4.581367,
+            54.288845
+          ],
+          [
+            -4.581209,
+            54.289168
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones",
+        "osm_id": 25989268,
+        "lon": -4.581297217716817,
+        "lat": 54.28898550408947,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989268"
       }
     },
     {
@@ -30207,6 +30697,59 @@
         "lat": 54.06988290844048,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989377"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.588281,
+            54.283567
+          ],
+          [
+            -4.58825,
+            54.283596
+          ],
+          [
+            -4.587957,
+            54.28386
+          ],
+          [
+            -4.587907,
+            54.283919
+          ],
+          [
+            -4.587643,
+            54.284662
+          ],
+          [
+            -4.587562,
+            54.284828
+          ],
+          [
+            -4.587128,
+            54.28535
+          ],
+          [
+            -4.587261,
+            54.285387
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
+        "surface": "concrete",
+        "osm_id": 25989390,
+        "lon": -4.5876702454968195,
+        "lat": 54.28450396076369,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989390"
       }
     },
     {
@@ -49471,6 +50014,36 @@
     },
     {
       "type": "Feature",
+      "id": 112450915,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587046,
+            54.285327
+          ],
+          [
+            -4.587128,
+            54.28535
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
+        "surface": "concrete",
+        "osm_id": 112450915,
+        "lon": -4.587087,
+        "lat": 54.2853385,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/112450915"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 113048303,
       "geometry": {
         "type": "LineString",
@@ -50452,6 +51025,42 @@
         "lat": 54.2295575,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/117105499"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 118598594,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.591613,
+            54.28291
+          ],
+          [
+            -4.591639,
+            54.282962
+          ],
+          [
+            -4.591675,
+            54.283014
+          ],
+          [
+            -4.591725,
+            54.283059
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee",
+        "osm_id": 118598594,
+        "lon": -4.591662779221062,
+        "lat": 54.28298926868857,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/118598594"
       }
     },
     {
@@ -59656,6 +60265,326 @@
         "lat": 54.288932237865595,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165792245"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792247,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.590312,
+            54.283902
+          ],
+          [
+            -4.590284,
+            54.283874
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cleiy Rhennee",
+        "name:gv": "Cleiy Rhennee",
+        "osm_id": 165792247,
+        "lon": -4.590298,
+        "lat": 54.28388799999999,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165792247"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.582724,
+            54.288472
+          ],
+          [
+            -4.582775,
+            54.288524
+          ],
+          [
+            -4.582815,
+            54.288595
+          ],
+          [
+            -4.582924,
+            54.288633
+          ],
+          [
+            -4.583053,
+            54.288665
+          ],
+          [
+            -4.58317,
+            54.288701
+          ],
+          [
+            -4.583323,
+            54.288689
+          ],
+          [
+            -4.583405,
+            54.288675
+          ],
+          [
+            -4.583476,
+            54.288634
+          ],
+          [
+            -4.583509,
+            54.288596
+          ],
+          [
+            -4.583531,
+            54.288551
+          ],
+          [
+            -4.583525,
+            54.288506
+          ],
+          [
+            -4.583503,
+            54.288458
+          ],
+          [
+            -4.583394,
+            54.288388
+          ],
+          [
+            -4.583323,
+            54.288318
+          ],
+          [
+            -4.583226,
+            54.288288
+          ],
+          [
+            -4.583182,
+            54.288269
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones",
+        "osm_id": 165792248,
+        "lon": -4.583210946662131,
+        "lat": 54.288550923589796,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165792248"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792249,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.582697,
+            54.288444
+          ],
+          [
+            -4.582724,
+            54.288472
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "osm_id": 165792249,
+        "lon": -4.582710499999999,
+        "lat": 54.288458,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165792249"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792250,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.583182,
+            54.288269
+          ],
+          [
+            -4.583138,
+            54.288249
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "osm_id": 165792250,
+        "lon": -4.5831599999999995,
+        "lat": 54.288259,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165792250"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165792251,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.583958,
+            54.287421
+          ],
+          [
+            -4.584023,
+            54.287373
+          ],
+          [
+            -4.5841,
+            54.287366
+          ],
+          [
+            -4.584176,
+            54.287363
+          ],
+          [
+            -4.584291,
+            54.28736
+          ],
+          [
+            -4.584357,
+            54.287376
+          ],
+          [
+            -4.58445,
+            54.287382
+          ],
+          [
+            -4.58451,
+            54.287414
+          ],
+          [
+            -4.584598,
+            54.287452
+          ],
+          [
+            -4.584702,
+            54.287478
+          ],
+          [
+            -4.584795,
+            54.287452
+          ],
+          [
+            -4.584849,
+            54.287421
+          ],
+          [
+            -4.58486,
+            54.287376
+          ],
+          [
+            -4.584849,
+            54.287318
+          ],
+          [
+            -4.584795,
+            54.287274
+          ],
+          [
+            -4.584751,
+            54.287235
+          ],
+          [
+            -4.584685,
+            54.287197
+          ],
+          [
+            -4.584641,
+            54.287165
+          ],
+          [
+            -4.584592,
+            54.287133
+          ],
+          [
+            -4.584499,
+            54.287098
+          ],
+          [
+            -4.584428,
+            54.287066
+          ],
+          [
+            -4.584357,
+            54.287069
+          ],
+          [
+            -4.584291,
+            54.287095
+          ],
+          [
+            -4.584215,
+            54.287107
+          ],
+          [
+            -4.584127,
+            54.287136
+          ],
+          [
+            -4.584056,
+            54.287168
+          ],
+          [
+            -4.584003,
+            54.287182
+          ],
+          [
+            -4.583985,
+            54.287226
+          ],
+          [
+            -4.58399,
+            54.28727
+          ],
+          [
+            -4.58399,
+            54.287321
+          ],
+          [
+            -4.584023,
+            54.287373
+          ]
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Faaie Ny Cabbal",
+        "name:gv": "Faaie Ny Cabbal",
+        "surface": "paving_stones",
+        "osm_id": 165792251,
+        "lon": -4.584403684472929,
+        "lat": 54.28728156910191,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165792251"
       }
     },
     {
@@ -89634,8 +90563,16 @@
             54.077939
           ],
           [
+            -4.73893,
+            54.07798
+          ],
+          [
             -4.738879,
             54.077994
+          ],
+          [
+            -4.738736,
+            54.078025
           ],
           [
             -4.738625,
@@ -89654,8 +90591,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 1195111133,
-        "lon": -4.739133248098059,
-        "lat": 54.07790902233559,
+        "lon": -4.7391332325368625,
+        "lat": 54.07790895653054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1195111133"
       }

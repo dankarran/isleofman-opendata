@@ -11028,8 +11028,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.388271,
-          54.323175
+          -4.388218,
+          54.323151
         ]
       },
       "properties": {
@@ -11037,7 +11037,8 @@
         "highway": "bus_stop",
         "name": "Station Road / Shoprite Shelter",
         "public_transport": "platform",
-        "ref": "3818"
+        "ref": "3818",
+        "shelter": "yes"
       }
     },
     {

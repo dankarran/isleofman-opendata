@@ -14023,8 +14023,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.388271,
-          54.323175
+          -4.388218,
+          54.323151
         ]
       },
       "properties": {
@@ -14033,9 +14033,10 @@
         "name": "Station Road / Shoprite Shelter",
         "public_transport": "platform",
         "ref": "3818",
+        "shelter": "yes",
         "osm_id": 9190296609,
-        "lon": -4.388271,
-        "lat": 54.323175,
+        "lon": -4.388218,
+        "lat": 54.323151,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190296609"
       }
