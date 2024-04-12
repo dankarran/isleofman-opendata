@@ -42,6 +42,14 @@
       "sort_columns": ["name", "osm_id"]
     },
     {
+      "label": "construction",
+      "title": "Construction areas",
+      "query": "nw['landuse'='construction'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["landuse", "construction", "name", "operator", "opening_date", "website"],
+      "sort_columns": ["name", "osm_id"]
+    },
+    {
       "label": "defibrillators",
       "title": "Defibrillators",
       "query": "node['emergency'='defibrillator'](54,-5,54.5,-4);",
