@@ -249,7 +249,7 @@ def print_datasets_markdown(sources):
         if "geojson" in source["output_formats"]:
             item = item + " [GeoJSON](" + github_url + github_outputs_dir + dataset_dir + "/" + source["label"] + ".geojson)"
             item = item + " :link:"
-            item = item + " [view on geojson.io](http://geojson.io/#id=github:" + github_project + github_outputs_dir + dataset_dir + "/" + source["label"] + ".geojson)"
+            item = item + " [view on geojson.io](https://geojson.io/#id=github:" + github_project + github_outputs_dir + dataset_dir + "/" + source["label"] + ".geojson)"
 
         if group not in groups:
             groups[group] = {"items": []}
