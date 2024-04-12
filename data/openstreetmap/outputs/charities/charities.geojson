@@ -1082,6 +1082,54 @@
     },
     {
       "type": "Feature",
+      "id": 753425840,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484091,
+            54.154636
+          ],
+          [
+            -4.484182,
+            54.154638
+          ],
+          [
+            -4.484176,
+            54.154491
+          ],
+          [
+            -4.484087,
+            54.154492
+          ],
+          [
+            -4.484091,
+            54.154636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 3JY",
+        "addr:street": "Windsor Road",
+        "building": "yes",
+        "charity": "yes",
+        "fixme": "still charity office, even if shop closed?",
+        "name": "Save the Children",
+        "ref:charity": "199",
+        "source": "Bing;survey",
+        "was:shop": "charity",
+        "osm_id": 753425840,
+        "lon": -4.484134303581507,
+        "lat": 54.15456456293504,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/753425840"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 773781469,
       "geometry": {
         "type": "LineString",

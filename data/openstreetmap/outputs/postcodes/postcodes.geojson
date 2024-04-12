@@ -1280,6 +1280,35 @@
     },
     {
       "type": "Feature",
+      "id": 480468839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47957,
+          54.152717
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "2",
+        "brand": "The Entertainer",
+        "brand:wikidata": "Q7732289",
+        "brand:wikipedia": "en:The Entertainer (retailer)",
+        "name": "The Entertainer",
+        "shop": "toys",
+        "website": "https://www.thetoyshop.com/store/Douglas",
+        "osm_id": 480468839,
+        "lon": -4.47957,
+        "lat": 54.152717,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/480468839"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 498461703,
       "geometry": {
         "type": "Point",
@@ -1896,6 +1925,35 @@
     },
     {
       "type": "Feature",
+      "id": 685414508,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47926,
+          54.1528
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Strand Shopping Center",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "5-7",
+        "brand": "Flannels",
+        "brand:wikidata": "Q18160381",
+        "name": "Flannels",
+        "shop": "clothes",
+        "website": "https://www.flannels.com/isle-of-man-fl-store-1587",
+        "osm_id": 685414508,
+        "lon": -4.47926,
+        "lat": 54.1528,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/685414508"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 685502583,
       "geometry": {
         "type": "Point",
@@ -2057,6 +2115,61 @@
         "lat": 54.085979,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/763370807"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 823878928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479375,
+          54.152829
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "brand": "Game",
+        "brand:wikidata": "Q5519813",
+        "brand:wikipedia": "en:Game (retailer)",
+        "description": "Access through Sports Direct",
+        "internet_access:fee": "no",
+        "level": "2",
+        "name": "Game",
+        "shop": "video_games",
+        "website": "https://storefinder.game.co.uk/game/stores/2236/Douglas",
+        "osm_id": 823878928,
+        "lon": -4.479375,
+        "lat": 54.152829,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/823878928"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 823882234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479437,
+          54.152485
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "Unit 9A",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "osm_id": 823882234,
+        "lon": -4.479437,
+        "lat": 54.152485,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/823882234"
       }
     },
     {
@@ -2596,11 +2709,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Strand Shopping Centre",
-        "addr:housenumber": "Unit 12-15",
         "addr:postcode": "IM1 2ER",
         "addr:street": "Strand Street",
+        "addr:unit": "12-15",
         "brand": "Sports Direct",
         "brand:wikidata": "Q7579661",
         "brand:wikipedia": "en:SportsDirect.com",
@@ -11127,6 +11241,133 @@
         "lat": 54.147975561008934,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/58706857"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58730912,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479239,
+            54.152335
+          ],
+          [
+            -4.479239,
+            54.152406
+          ],
+          [
+            -4.479239,
+            54.152551
+          ],
+          [
+            -4.479239,
+            54.152593
+          ],
+          [
+            -4.479239,
+            54.15262
+          ],
+          [
+            -4.479239,
+            54.152693
+          ],
+          [
+            -4.479203,
+            54.152693
+          ],
+          [
+            -4.479177,
+            54.152853
+          ],
+          [
+            -4.479215,
+            54.152879
+          ],
+          [
+            -4.479503,
+            54.152879
+          ],
+          [
+            -4.479506,
+            54.152838
+          ],
+          [
+            -4.479709,
+            54.152838
+          ],
+          [
+            -4.479798,
+            54.152734
+          ],
+          [
+            -4.479805,
+            54.15267
+          ],
+          [
+            -4.479843,
+            54.152669
+          ],
+          [
+            -4.479847,
+            54.152626
+          ],
+          [
+            -4.479846,
+            54.152602
+          ],
+          [
+            -4.479849,
+            54.15251
+          ],
+          [
+            -4.47983,
+            54.152511
+          ],
+          [
+            -4.479819,
+            54.152258
+          ],
+          [
+            -4.479753,
+            54.152145
+          ],
+          [
+            -4.479664,
+            54.15214
+          ],
+          [
+            -4.479605,
+            54.152171
+          ],
+          [
+            -4.479602,
+            54.152332
+          ],
+          [
+            -4.479469,
+            54.152332
+          ],
+          [
+            -4.479239,
+            54.152335
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "building": "yes",
+        "name": "Strand Shopping Centre",
+        "shop": "mall",
+        "osm_id": 58730912,
+        "lon": -4.479529331297417,
+        "lat": 54.15254389986863,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/58730912"
       }
     },
     {
@@ -97804,6 +98045,55 @@
     },
     {
       "type": "Feature",
+      "id": 419113932,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479233,
+            54.152272
+          ],
+          [
+            -4.47947,
+            54.152271
+          ],
+          [
+            -4.47947,
+            54.152223
+          ],
+          [
+            -4.479229,
+            54.152225
+          ],
+          [
+            -4.479233,
+            54.152272
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "83",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "brand": "claire's",
+        "brand:wikidata": "Q2974996",
+        "building": "retail",
+        "building:levels": "2",
+        "building:material": "brick",
+        "name": "claire's",
+        "shop": "fashion_accessories",
+        "source": "Bing;photograph",
+        "website": "https://stores.claires.com/gb-slk/douglas/31.html",
+        "osm_id": 419113932,
+        "lon": -4.47935066607354,
+        "lat": 54.15224758291548,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419113932"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -97849,6 +98139,54 @@
         "lat": 54.15146828936864,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113949"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113954,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479233,
+            54.152272
+          ],
+          [
+            -4.479239,
+            54.152335
+          ],
+          [
+            -4.479469,
+            54.152332
+          ],
+          [
+            -4.47947,
+            54.152271
+          ],
+          [
+            -4.479233,
+            54.152272
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "85",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "brand": "Pandora",
+        "brand:wikidata": "Q2241604",
+        "brand:wikipedia": "en:Pandora (jewelry)",
+        "building": "retail",
+        "name": "Pandora",
+        "shop": "jewelry",
+        "website": "https://stores.pandora.net/en-gb/gb-iom/douglas/pandora-jewellery-gb8bfed2ba.html",
+        "osm_id": 419113954,
+        "lon": -4.479352285690536,
+        "lat": 54.15230213778687,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419113954"
       }
     },
     {
@@ -104224,6 +104562,54 @@
         "lat": 54.08278517792325,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/747063251"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 753425840,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484091,
+            54.154636
+          ],
+          [
+            -4.484182,
+            54.154638
+          ],
+          [
+            -4.484176,
+            54.154491
+          ],
+          [
+            -4.484087,
+            54.154492
+          ],
+          [
+            -4.484091,
+            54.154636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 3JY",
+        "addr:street": "Windsor Road",
+        "building": "yes",
+        "charity": "yes",
+        "fixme": "still charity office, even if shop closed?",
+        "name": "Save the Children",
+        "ref:charity": "199",
+        "source": "Bing;survey",
+        "was:shop": "charity",
+        "osm_id": 753425840,
+        "lon": -4.484134303581507,
+        "lat": 54.15456456293504,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/753425840"
       }
     },
     {

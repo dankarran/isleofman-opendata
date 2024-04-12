@@ -114,12 +114,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "2",
         "brand": "The Entertainer",
         "brand:wikidata": "Q7732289",
         "brand:wikipedia": "en:The Entertainer (retailer)",
         "name": "The Entertainer",
-        "postal_code": "IM1 2ER",
-        "shop": "toys"
+        "shop": "toys",
+        "website": "https://www.thetoyshop.com/store/Douglas"
       }
     },
     {
@@ -523,12 +528,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Strand Shopping Center",
-        "addr:housenumber": "Unit 7",
+        "addr:postcode": "IM1 2ER",
         "addr:street": "Strand Street",
+        "addr:unit": "5-7",
+        "brand": "Flannels",
+        "brand:wikidata": "Q18160381",
         "name": "Flannels",
-        "shop": "clothes"
+        "shop": "clothes",
+        "website": "https://www.flannels.com/isle-of-man-fl-store-1587"
       }
     },
     {
@@ -708,14 +718,20 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
         "brand": "Game",
         "brand:wikidata": "Q5519813",
         "brand:wikipedia": "en:Game (retailer)",
-        "building:levels": "2",
         "description": "Access through Sports Direct",
         "internet_access:fee": "no",
+        "level": "2",
         "name": "Game",
-        "shop": "video_games"
+        "shop": "video_games",
+        "website": "https://storefinder.game.co.uk/game/stores/2236/Douglas"
       }
     },
     {
@@ -1057,11 +1073,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Strand Shopping Centre",
-        "addr:housenumber": "Unit 12-15",
         "addr:postcode": "IM1 2ER",
         "addr:street": "Strand Street",
+        "addr:unit": "12-15",
         "brand": "Sports Direct",
         "brand:wikidata": "Q7579661",
         "brand:wikipedia": "en:SportsDirect.com",
@@ -3743,10 +3760,13 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
         "building": "yes",
         "name": "Strand Shopping Centre",
-        "shop": "mall",
-        "website": "http://www.thestrand.co.im"
+        "shop": "mall"
       }
     },
     {
@@ -10076,53 +10096,6 @@
         "name": "Royal National Lifeboat Institute",
         "shop": "gift",
         "source": "Bing"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102638453,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.380499,
-            54.320778
-          ],
-          [
-            -4.380554,
-            54.320747
-          ],
-          [
-            -4.380458,
-            54.320689
-          ],
-          [
-            -4.380434,
-            54.320703
-          ],
-          [
-            -4.380401,
-            54.320682
-          ],
-          [
-            -4.380349,
-            54.320711
-          ],
-          [
-            -4.380488,
-            54.320795
-          ],
-          [
-            -4.380499,
-            54.320778
-          ]
-        ]
-      },
-      "properties": {
-        "brand": "Save the Children",
-        "building": "yes",
-        "name": "Save the Children",
-        "shop": "charity"
       }
     },
     {
@@ -19919,6 +19892,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "83",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "claire's",
         "brand:wikidata": "Q2974996",
         "building": "retail",
@@ -19926,7 +19903,8 @@
         "building:material": "brick",
         "name": "claire's",
         "shop": "fashion_accessories",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "website": "https://stores.claires.com/gb-slk/douglas/31.html"
       }
     },
     {
@@ -20639,12 +20617,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "85",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Pandora",
         "brand:wikidata": "Q2241604",
         "brand:wikipedia": "en:Pandora (jewelry)",
         "building": "retail",
         "name": "Pandora",
-        "shop": "jewelry"
+        "shop": "jewelry",
+        "website": "https://stores.pandora.net/en-gb/gb-iom/douglas/pandora-jewellery-gb8bfed2ba.html"
       }
     },
     {
@@ -22085,46 +22069,6 @@
         "description": "Not just locks, peace of mind",
         "name": "Fayle Safe Security Limited",
         "shop": "locksmith",
-        "source": "Bing;survey"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 753425840,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484091,
-            54.154636
-          ],
-          [
-            -4.484182,
-            54.154638
-          ],
-          [
-            -4.484176,
-            54.154491
-          ],
-          [
-            -4.484087,
-            54.154492
-          ],
-          [
-            -4.484091,
-            54.154636
-          ]
-        ]
-      },
-      "properties": {
-        "branch": "Douglas",
-        "brand": "Save the Children",
-        "brand:wikidata": "Q215934",
-        "brand:wikipedia": "en:Save the Children",
-        "building": "yes",
-        "name": "Save the Children",
-        "opening_hours": "Tu-Sa 10:00-15:45, We-Th 15:45-16:00",
-        "shop": "charity",
         "source": "Bing;survey"
       }
     },
