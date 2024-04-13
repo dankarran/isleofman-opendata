@@ -212,6 +212,10 @@ def generate_postcode_boundaries(sources, data):
     else:
         print("    ", "No postal_codes.geojson found")
 
+    # exclude non-geographic postcodes from corrections directory
+    non_geographic = pd.read_csv(data_dir + "sources/corrections/non-geographic-postcodes.csv")
+    gdf = gdf[~gdf['postcode'].isin(non_geographic["postcode"])]
+
     # calculate districts (e.g. IM1) and sectors (e.g. IM1 1)
     gdf["district"] = gdf["postcode"].str.slice(start=0, stop=3)
     gdf["sector"] = gdf["postcode"].str.slice(start=0, stop=5)
