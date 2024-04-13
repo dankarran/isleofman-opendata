@@ -5077,6 +5077,72 @@
     },
     {
       "type": "Feature",
+      "id": 10141541810,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.607682,
+          54.071536
+        ]
+      },
+      "properties": {
+        "name": "Hango Broogh",
+        "name:gv": "Hango Broogh",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map",
+        "osm_id": 10141541810,
+        "lon": -4.607682,
+        "lat": 54.071536,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10141541810"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10141541811,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.609142,
+          54.070717
+        ]
+      },
+      "properties": {
+        "name": "Gullet Chreagh Moainee",
+        "name:gv": "Chreagh Moainee",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map",
+        "osm_id": 10141541811,
+        "lon": -4.609142,
+        "lat": 54.070717,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10141541811"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10141570918,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.616466,
+          54.061839
+        ]
+      },
+      "properties": {
+        "name": "Creg Custane",
+        "name:gv": "Creg Custane",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map",
+        "osm_id": 10141570918,
+        "lon": -4.616466,
+        "lat": 54.061839,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10141570918"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10141570924,
       "geometry": {
         "type": "Point",
@@ -5175,6 +5241,7 @@
         ]
       },
       "properties": {
+        "fixme": "is there still a well near hear somewhere?",
         "name": "Chibbyr Drine",
         "name:gv": "Chibbyr Drine",
         "place": "locality",

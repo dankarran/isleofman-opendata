@@ -15431,6 +15431,98 @@
     },
     {
       "type": "Feature",
+      "id": 60003761,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.611519,
+            54.071564
+          ],
+          [
+            -4.611181,
+            54.071327
+          ],
+          [
+            -4.611003,
+            54.071415
+          ],
+          [
+            -4.610981,
+            54.071399
+          ],
+          [
+            -4.611156,
+            54.071312
+          ],
+          [
+            -4.611015,
+            54.071214
+          ],
+          [
+            -4.610519,
+            54.071458
+          ],
+          [
+            -4.610472,
+            54.071426
+          ],
+          [
+            -4.610291,
+            54.071515
+          ],
+          [
+            -4.610404,
+            54.071594
+          ],
+          [
+            -4.610445,
+            54.071573
+          ],
+          [
+            -4.61063,
+            54.071702
+          ],
+          [
+            -4.610523,
+            54.071755
+          ],
+          [
+            -4.610441,
+            54.071795
+          ],
+          [
+            -4.610692,
+            54.071971
+          ],
+          [
+            -4.610801,
+            54.071918
+          ],
+          [
+            -4.611519,
+            54.071564
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Malew",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 1UA",
+        "addr:street": "Fort Island Road",
+        "building": "yes",
+        "old_name": "Castletown Golf Links Hotel",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "osm_id": 60003761,
+        "lon": -4.610878384728148,
+        "lat": 54.071565333744665,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60003761"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60005400,
       "geometry": {
         "type": "LineString",
