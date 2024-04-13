@@ -17,6 +17,7 @@ OpenStreetMap data processing
 data_dir = "data/openstreetmap/"
 github_url = "https://github.com/dankarran/isleofman-opendata"
 github_project = "dankarran/isleofman-opendata"
+im_postcode_regex = '^IM[0-9] [0-9][A-Z]{2}$'
 
 
 def openstreetmap():
@@ -174,35 +175,59 @@ def generate_postcode_boundaries(sources, data):
     if update_text != "y":
         return
 
+    gdf = None
+
+    # addr:postcode entries (used in addresses)
     filepath = data_dir + "sources/overpass/postcodes.geojson"
     if os.path.isfile(filepath):
-        gdf = geopandas.read_file(filepath)
+        postcodes_gdf = geopandas.read_file(filepath)
+
+        postcodes_gdf["postcode"] = postcodes_gdf["addr:postcode"]
 
         # find valid postcodes (exclude IM99)
-        im_postcode_regex = '^IM[0-9] [0-9][A-Z]{2}$'
-        valid_postcode_rows = gdf["addr:postcode"].str.contains(im_postcode_regex)
-        gdf = gdf[valid_postcode_rows]
+        valid_postcode_rows = postcodes_gdf["postcode"].str.contains(im_postcode_regex)
+        postcodes_gdf = postcodes_gdf[valid_postcode_rows][["postcode", "geometry"]]
 
-        # districts (e.g. IM1)
-        gdf["district"] = gdf["addr:postcode"].str.slice(start=0, stop=3)
-
-        districts = gdf.dissolve("district").convex_hull
-        districts_filepath = data_dir + "outputs/postcodes/postcode_districts.geojson"
-        districts.to_file(districts_filepath, driver="GeoJSON")
-
-        print("    ", len(districts), "districts added")
-
-        # sectors (e.g. IM1 1)
-        gdf["sector"] = gdf["addr:postcode"].str.slice(start=0, stop=5)
-
-        sectors = gdf.dissolve("sector").convex_hull
-        sectors_filepath = data_dir + "outputs/postcodes/postcode_sectors.geojson"
-        sectors.to_file(sectors_filepath, driver="GeoJSON")
-
-        print("    ", len(sectors), "sectors added")
+        # add to combined dataframe
+        gdf = postcodes_gdf
 
     else:
-        print("    ", "No postcodes GeoJSON found")
+        print("    ", "No postcodes.geojson found")
+        return
+
+    # postal_code entries (used in more general areas)
+    filepath = data_dir + "sources/overpass/postal_codes.geojson"
+    if os.path.isfile(filepath):
+        postcodes_gdf = geopandas.read_file(filepath)
+
+        postcodes_gdf["postcode"] = postcodes_gdf["postal_code"]
+
+        # find valid postcodes (exclude IM99)
+        valid_postcode_rows = postcodes_gdf["postcode"].str.contains(im_postcode_regex)
+        postcodes_gdf = postcodes_gdf[valid_postcode_rows][["postcode", "geometry"]]
+
+        # add to combined dataframe
+        gdf = pd.concat([gdf, postcodes_gdf], ignore_index=True)
+
+    else:
+        print("    ", "No postal_codes.geojson found")
+
+    # calculate districts (e.g. IM1) and sectors (e.g. IM1 1)
+    gdf["district"] = gdf["postcode"].str.slice(start=0, stop=3)
+    gdf["sector"] = gdf["postcode"].str.slice(start=0, stop=5)
+
+    # write files
+    districts = gdf.dissolve("district").convex_hull
+    districts_filepath = data_dir + "outputs/postcodes/postcode_districts.geojson"
+    districts.to_file(districts_filepath, driver="GeoJSON")
+
+    print("    ", len(districts), "districts added")
+
+    sectors = gdf.dissolve("sector").convex_hull
+    sectors_filepath = data_dir + "outputs/postcodes/postcode_sectors.geojson"
+    sectors.to_file(sectors_filepath, driver="GeoJSON")
+
+    print("    ", len(sectors), "sectors added")
 
 
 def print_datasets_markdown(sources):
@@ -216,14 +241,14 @@ def print_datasets_markdown(sources):
         {
             "label": "postcode_districts",
             "directory": "postcodes",
-            "title": "Postcode districts (from addr:postcode)",
+            "title": "Postcode districts",
             "group": "Addressing",
             "output_formats": ["geojson"],
         },
         {
             "label": "postcode_sectors",
             "directory": "postcodes",
-            "title": "Postcode sectors (from addr:postcode)",
+            "title": "Postcode sectors",
             "group": "Addressing",
             "output_formats": ["geojson"],
         }
