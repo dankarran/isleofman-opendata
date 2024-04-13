@@ -216,22 +216,20 @@ def generate_postcode_boundaries(sources, data):
     non_geographic = pd.read_csv(data_dir + "sources/corrections/non-geographic-postcodes.csv")
     gdf = gdf[~gdf['postcode'].isin(non_geographic["postcode"])]
 
-    # calculate districts (e.g. IM1) and sectors (e.g. IM1 1)
+    # calculate districts (e.g. IM1), sectors (e.g. IM1 1) and sectors plus alpha (e.g. IM1 1A)
     gdf["district"] = gdf["postcode"].str.slice(start=0, stop=3)
     gdf["sector"] = gdf["postcode"].str.slice(start=0, stop=5)
+    gdf["sector_alpha"] = gdf["postcode"].str.slice(start=0, stop=6)
 
     # write files
-    districts = gdf.dissolve("district").convex_hull
-    districts_filepath = data_dir + "outputs/postcodes/postcode_districts.geojson"
-    districts.to_file(districts_filepath, driver="GeoJSON")
+    for dataset in ["district", "sector", "sector_alpha"]:
+        plural = dataset + "s"
 
-    print("    ", len(districts), "districts added")
+        convex_hull = gdf.dissolve(dataset).convex_hull
+        dataset_filepath = data_dir + "outputs/postcodes/postcode_" + plural + ".geojson"
+        convex_hull.to_file(dataset_filepath, driver="GeoJSON")
 
-    sectors = gdf.dissolve("sector").convex_hull
-    sectors_filepath = data_dir + "outputs/postcodes/postcode_sectors.geojson"
-    sectors.to_file(sectors_filepath, driver="GeoJSON")
-
-    print("    ", len(sectors), "sectors added")
+        print("    ", len(convex_hull), plural, "added")
 
 
 def print_datasets_markdown(sources):
@@ -245,14 +243,21 @@ def print_datasets_markdown(sources):
         {
             "label": "postcode_districts",
             "directory": "postcodes",
-            "title": "Postcode districts",
+            "title": "Postcode districts (e.g. IM1)",
             "group": "Addressing",
             "output_formats": ["geojson"],
         },
         {
             "label": "postcode_sectors",
             "directory": "postcodes",
-            "title": "Postcode sectors",
+            "title": "Postcode sectors (e.g. IM1 1)",
+            "group": "Addressing",
+            "output_formats": ["geojson"],
+        },
+        {
+            "label": "postcode_sector_alphas",
+            "directory": "postcodes",
+            "title": "Postcode sectors plus alpha (e.g. IM1 1A)",
             "group": "Addressing",
             "output_formats": ["geojson"],
         }
