@@ -3,6 +3,23 @@
   "features": [
     {
       "type": "Feature",
+      "id": 283479252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.57642,
+          54.244135
+        ]
+      },
+      "properties": {
+        "name": "Little London",
+        "place": "hamlet",
+        "postal_code": "IM6 1BD",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 283500412,
       "geometry": {
         "type": "Point",
@@ -678,9 +695,9 @@
       "properties": {
         "name": "Moaney Moar",
         "place": "farm",
-        "postal_code": "IM4 3NS",
+        "postal_code": "IM6 1BA",
         "source": "Isle of Man Government 1:25000 map (2007)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -1801,6 +1818,24 @@
         "name": "Ballaclucas",
         "place": "farm",
         "postal_code": "IM4 4HN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475395067,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.517165,
+          54.266391
+        ]
+      },
+      "properties": {
+        "name": "Gorse Mill",
+        "place": "farm",
+        "postal_code": "IM7 5JA",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications"
       }

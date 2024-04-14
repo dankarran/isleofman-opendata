@@ -49458,6 +49458,55 @@
     },
     {
       "type": "Feature",
+      "id": 102856183,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384408,
+            54.322485
+          ],
+          [
+            -4.384432,
+            54.322235
+          ],
+          [
+            -4.384356,
+            54.322232
+          ],
+          [
+            -4.38434,
+            54.322373
+          ],
+          [
+            -4.384355,
+            54.322374
+          ],
+          [
+            -4.384342,
+            54.322482
+          ],
+          [
+            -4.384408,
+            54.322485
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "72",
+        "addr:postcode": "IM8 1AF",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "contact:phone": "+44 1624 816905",
+        "name": "Tania Dolores",
+        "shop": "shoes",
+        "strapline": "Shoes and accessrories"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856187,
       "geometry": {
         "type": "LineString",
@@ -125529,6 +125578,70 @@
         "addr:street": "Honeysuckle Lane",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1272556982,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483675,
+            54.154973
+          ],
+          [
+            -4.483674,
+            54.154994
+          ],
+          [
+            -4.483568,
+            54.154993
+          ],
+          [
+            -4.483571,
+            54.1549
+          ],
+          [
+            -4.483635,
+            54.1549
+          ],
+          [
+            -4.483637,
+            54.154855
+          ],
+          [
+            -4.483709,
+            54.154856
+          ],
+          [
+            -4.483707,
+            54.154915
+          ],
+          [
+            -4.483705,
+            54.154974
+          ],
+          [
+            -4.483675,
+            54.154973
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 3JU",
+        "addr:street": "Dalton Street",
+        "building": "yes",
+        "contact:email": "shop@woodbournedeli.im",
+        "contact:phone": "+44 1624 833333",
+        "contact:website": "https://woodbournedeli.im/",
+        "name": "Woodbourne Deli",
+        "operator": "Mo-Sa 09:00-18:00, Su 10:00-16:00",
+        "shop": "deli",
+        "source:addr:housenumber": "interpolation"
       }
     }
   ]
