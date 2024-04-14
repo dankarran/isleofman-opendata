@@ -60349,6 +60349,108 @@
     },
     {
       "type": "Feature",
+      "id": 160232403,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.585761,
+            54.108464
+          ],
+          [
+            -4.585455,
+            54.108472
+          ],
+          [
+            -4.585451,
+            54.108417
+          ],
+          [
+            -4.585757,
+            54.108409
+          ],
+          [
+            -4.585761,
+            54.108464
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Santon",
+        "addr:country": "IM",
+        "addr:housename": "Saint Sanctain",
+        "addr:postcode": "IM4 1EZ",
+        "addr:street": "Church Road",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "anglican",
+        "listed_status": "Registered",
+        "name": "Saint Sanctain",
+        "ref:registered_building": "15",
+        "religion": "christian",
+        "source": "GPS waymark",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "url:registered_building": "https://www.gov.im/media/633017/0500015regbldsantonparishchurch.pdf",
+        "wikidata": "Q105170258"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160232419,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.585222,
+            54.108123
+          ],
+          [
+            -4.585349,
+            54.107976
+          ],
+          [
+            -4.58524,
+            54.107944
+          ],
+          [
+            -4.585183,
+            54.10801
+          ],
+          [
+            -4.585035,
+            54.107966
+          ],
+          [
+            -4.584989,
+            54.10802
+          ],
+          [
+            -4.585137,
+            54.108063
+          ],
+          [
+            -4.585113,
+            54.108091
+          ],
+          [
+            -4.585222,
+            54.108123
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Santon",
+        "addr:country": "IM",
+        "addr:housename": "Corbrek",
+        "addr:postcode": "IM4 1EZ",
+        "addr:street": "Church Road",
+        "building": "house",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 160411570,
       "geometry": {
         "type": "LineString",
@@ -76926,6 +77028,44 @@
         "name": "Bushys Brewery",
         "source": "Bing",
         "website": "https://www.bushys.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232178342,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.552073,
+            54.108182
+          ],
+          [
+            -4.550421,
+            54.108191
+          ],
+          [
+            -4.550314,
+            54.107194
+          ],
+          [
+            -4.551946,
+            54.107159
+          ],
+          [
+            -4.552073,
+            54.108182
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Santon",
+        "addr:country": "IM",
+        "addr:place": "Balnahowe",
+        "addr:postcode": "IM4 1HL",
+        "man_made": "wastewater_plant",
+        "name": "Meary Veg Sewage Works",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -96395,6 +96535,123 @@
         "addr:postcode": "IM2 2QZ",
         "addr:street": "Isle of Man Business Park",
         "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 892462767,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.579346,
+            54.13739
+          ],
+          [
+            -4.579528,
+            54.137473
+          ],
+          [
+            -4.579607,
+            54.137414
+          ],
+          [
+            -4.579631,
+            54.137425
+          ],
+          [
+            -4.579744,
+            54.13734
+          ],
+          [
+            -4.579702,
+            54.137321
+          ],
+          [
+            -4.57974,
+            54.137292
+          ],
+          [
+            -4.579774,
+            54.137307
+          ],
+          [
+            -4.579828,
+            54.137266
+          ],
+          [
+            -4.579462,
+            54.1371
+          ],
+          [
+            -4.579474,
+            54.13709
+          ],
+          [
+            -4.579362,
+            54.137039
+          ],
+          [
+            -4.579265,
+            54.137112
+          ],
+          [
+            -4.579484,
+            54.137211
+          ],
+          [
+            -4.579498,
+            54.137201
+          ],
+          [
+            -4.57964,
+            54.137266
+          ],
+          [
+            -4.579492,
+            54.137377
+          ],
+          [
+            -4.579424,
+            54.137345
+          ],
+          [
+            -4.579444,
+            54.13733
+          ],
+          [
+            -4.579346,
+            54.137285
+          ],
+          [
+            -4.579176,
+            54.137414
+          ],
+          [
+            -4.579276,
+            54.13746
+          ],
+          [
+            -4.579353,
+            54.137402
+          ],
+          [
+            -4.579339,
+            54.137395
+          ],
+          [
+            -4.579346,
+            54.13739
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Santon",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 1HY",
+        "addr:street": "Moaney Road",
+        "building": "yes",
+        "source:addr": "Isle of Man Government Planning Applications"
       }
     },
     {

@@ -764,6 +764,30 @@
     },
     {
       "type": "Feature",
+      "id": 475393205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.598122,
+          54.101086
+        ]
+      },
+      "properties": {
+        "name": "Arragon Moar",
+        "name:gv": "Arragon Moar",
+        "place": "locality",
+        "postal_code": "IM4 1HB",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475393205,
+        "lon": -4.598122,
+        "lat": 54.101086,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393205"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393256,
       "geometry": {
         "type": "Point",
@@ -2314,6 +2338,29 @@
     },
     {
       "type": "Feature",
+      "id": 475395052,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.593024,
+          54.106825
+        ]
+      },
+      "properties": {
+        "name": "Ballachrine",
+        "place": "farm",
+        "postal_code": "IM4 1EZ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475395052,
+        "lon": -4.593024,
+        "lat": 54.106825,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475395052"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475395067,
       "geometry": {
         "type": "Point",
@@ -3324,27 +3371,6 @@
         "lat": 54.218817,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1286674624"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 8294853029,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.579386,
-          54.137892
-        ]
-      },
-      "properties": {
-        "leisure": "shooting_ground",
-        "postal_code": "IM4 2HX",
-        "website": "http://www.countrygunclub.im",
-        "osm_id": 8294853029,
-        "lon": -4.579386,
-        "lat": 54.137892,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/8294853029"
       }
     },
     {
