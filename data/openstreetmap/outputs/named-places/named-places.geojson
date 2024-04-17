@@ -6900,9 +6900,12 @@
         ]
       },
       "properties": {
-        "name": "Ballamann",
+        "alt_name": "Ballamann",
+        "name": "Ballaman",
         "place": "farm",
+        "postal_code": "IM9 6JF",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475393500,
         "lon": -4.767779,
         "lat": 54.080499,
@@ -40307,7 +40310,9 @@
         "landuse": "farmyard",
         "name": "Shenvalley",
         "place": "farm",
+        "postal_code": "IM9 6JF",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 827914640,
         "lon": -4.778883410648975,
         "lat": 54.07031914274972,
@@ -40626,8 +40631,8 @@
             54.078479
           ],
           [
-            -4.750783,
-            54.07866
+            -4.750877,
+            54.078602
           ],
           [
             -4.751055,
@@ -40703,10 +40708,12 @@
         "landuse": "farmyard",
         "name": "Glendown",
         "place": "farm",
+        "postal_code": "IM9 5PR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 829241369,
-        "lon": -4.751608559399199,
-        "lat": 54.07854734850485,
+        "lon": -4.751614286023133,
+        "lat": 54.07854362182504,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/829241369"
       }

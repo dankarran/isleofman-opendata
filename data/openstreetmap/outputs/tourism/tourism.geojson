@@ -11194,9 +11194,13 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
         "addr:country": "IM",
+        "addr:postcode": "IM9 5LD",
         "addr:street": "Truggan Road",
         "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
         "name": "The Stable at Glendown Farm",
         "postal_code": "IM9 5LD",
         "tourism": "chalet",
@@ -16183,17 +16187,29 @@
             54.07893
           ],
           [
+            -4.750372,
+            54.078928
+          ],
+          [
             -4.749905,
             54.078915
           ]
         ]
       },
       "properties": {
-        "name": "Glendown Farm Camping",
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 5LD",
+        "addr:street": "Truggan Road",
+        "caravans": "yes",
+        "glamping": "yes",
+        "name": "Glendown Farm Camping and Glamping",
+        "tents": "yes",
         "tourism": "camp_site",
+        "website": "https://glendownfarm.com/Camping/camping-and-glamping.htm",
         "osm_id": 829392799,
-        "lon": -4.750319925562525,
-        "lat": 54.079250749405084,
+        "lon": -4.750319925142808,
+        "lat": 54.07925076483704,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/829392799"
       }

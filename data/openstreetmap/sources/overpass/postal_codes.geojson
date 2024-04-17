@@ -775,6 +775,25 @@
     },
     {
       "type": "Feature",
+      "id": 475393500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.767779,
+          54.080499
+        ]
+      },
+      "properties": {
+        "alt_name": "Ballamann",
+        "name": "Ballaman",
+        "place": "farm",
+        "postal_code": "IM9 6JF",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393502,
       "geometry": {
         "type": "Point",
@@ -2666,6 +2685,29 @@
         "name": "Island Landscapes",
         "postal_code": "IM4 3NN",
         "website": "https://www.isleofman.com/Business/i/islandlandscapes/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7711616380,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.74371,
+          54.075117
+        ]
+      },
+      "properties": {
+        "communication:microwave": "yes",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "name": "Port St Mary UHF Mast",
+        "operator": "Arqiva",
+        "operator:wikidata": "Q4795774",
+        "postal_code": "IM9 5PE",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
       }
     },
     {
@@ -4991,6 +5033,33 @@
     },
     {
       "type": "Feature",
+      "id": 25986378,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.749362,
+            54.073174
+          ],
+          [
+            -4.749341,
+            54.073123
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Marys Glebe",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986386,
       "geometry": {
         "type": "LineString",
@@ -5109,6 +5178,39 @@
         "oneway": "no",
         "postal_code": "IM4 4TF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986411,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.747324,
+            54.073878
+          ],
+          [
+            -4.747462,
+            54.073886
+          ],
+          [
+            -4.747527,
+            54.073699
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Fistard Grove",
+        "name:en": "Fistard Grove",
+        "name:gv": "Keyll Fistard",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "paved"
       }
     },
@@ -5290,6 +5392,35 @@
         "name:gv": "Close ny Cronk Drine",
         "postal_code": "IM8 3LA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986502,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.747534,
+            54.073912
+          ],
+          [
+            -4.747462,
+            54.073886
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Fistard Grove",
+        "name:en": "Fistard Grove",
+        "name:gv": "Keyll Fistard",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "paved"
       }
     },
@@ -10856,6 +10987,39 @@
     },
     {
       "type": "Feature",
+      "id": 25987760,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.748339,
+            54.071692
+          ],
+          [
+            -4.747996,
+            54.07144
+          ],
+          [
+            -4.747976,
+            54.071289
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Perwick Rise",
+        "name:en": "Perwick Rise",
+        "name:gv": "Goll Dys Ughtagh Pherwick",
+        "postal_code": "IM9 5QA",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987791,
       "geometry": {
         "type": "LineString",
@@ -13582,6 +13746,47 @@
         "name": "Manor View",
         "postal_code": "IM2 2PB",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988403,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.747214,
+            54.073518
+          ],
+          [
+            -4.7471,
+            54.07357
+          ],
+          [
+            -4.746998,
+            54.0736
+          ],
+          [
+            -4.746785,
+            54.073663
+          ],
+          [
+            -4.746654,
+            54.073598
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "access": "destination",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Fistard Grove",
+        "name:en": "Fistard Grove",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "paved"
       }
     },
@@ -17516,6 +17721,39 @@
         "name": "Groudle View",
         "postal_code": "IM3 2EX;IM3 2EY",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989434,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.748119,
+            54.073587
+          ],
+          [
+            -4.748069,
+            54.073622
+          ],
+          [
+            -4.747809,
+            54.073467
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Marys Glebe",
+        "name:en": "Saint Marys Glebe",
+        "name:gv": "Gleeb Keeil Voirrey",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
       }
     },
     {
@@ -23772,6 +24010,165 @@
     },
     {
       "type": "Feature",
+      "id": 66343972,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.748025,
+            54.073651
+          ],
+          [
+            -4.748069,
+            54.073622
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Marys Glebe",
+        "name:en": "Saint Marys Glebe",
+        "name:gv": "Gleeb Keeil Voirrey",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66343973,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.749378,
+            54.073048
+          ],
+          [
+            -4.749341,
+            54.073123
+          ],
+          [
+            -4.749097,
+            54.073149
+          ],
+          [
+            -4.748887,
+            54.073278
+          ],
+          [
+            -4.748775,
+            54.07329
+          ],
+          [
+            -4.748636,
+            54.07325
+          ],
+          [
+            -4.748446,
+            54.073156
+          ],
+          [
+            -4.748368,
+            54.073179
+          ],
+          [
+            -4.748282,
+            54.073281
+          ],
+          [
+            -4.748207,
+            54.073324
+          ],
+          [
+            -4.748065,
+            54.073351
+          ],
+          [
+            -4.747919,
+            54.07339
+          ],
+          [
+            -4.747809,
+            54.073467
+          ],
+          [
+            -4.747757,
+            54.073506
+          ],
+          [
+            -4.747606,
+            54.07367
+          ],
+          [
+            -4.747527,
+            54.073699
+          ],
+          [
+            -4.747311,
+            54.073625
+          ],
+          [
+            -4.747214,
+            54.073518
+          ],
+          [
+            -4.747126,
+            54.073422
+          ],
+          [
+            -4.747095,
+            54.073352
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Marys Glebe",
+        "name:en": "Saint Marys Glebe",
+        "name:gv": "Gleeb Keeil Voirrey",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66343976,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.748446,
+            54.073156
+          ],
+          [
+            -4.748484,
+            54.073093
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Marys Glebe",
+        "name:en": "Saint Marys Glebe",
+        "name:gv": "Gleeb Keeil Voirrey",
+        "postal_code": "IM9 5PF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 71279581,
       "geometry": {
         "type": "LineString",
@@ -27112,9 +27509,13 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
         "addr:country": "IM",
+        "addr:postcode": "IM9 5LD",
         "addr:street": "Truggan Road",
         "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
         "name": "The Stable at Glendown Farm",
         "postal_code": "IM9 5LD",
         "tourism": "chalet",
@@ -32853,6 +33254,224 @@
         "source": "Maxar",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 827914640,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.780354,
+            54.070095
+          ],
+          [
+            -4.780164,
+            54.069899
+          ],
+          [
+            -4.779198,
+            54.06961
+          ],
+          [
+            -4.779075,
+            54.069653
+          ],
+          [
+            -4.778203,
+            54.069956
+          ],
+          [
+            -4.777785,
+            54.070119
+          ],
+          [
+            -4.777698,
+            54.070152
+          ],
+          [
+            -4.777305,
+            54.07029
+          ],
+          [
+            -4.777448,
+            54.070418
+          ],
+          [
+            -4.778055,
+            54.070427
+          ],
+          [
+            -4.778573,
+            54.070825
+          ],
+          [
+            -4.778609,
+            54.071257
+          ],
+          [
+            -4.778962,
+            54.071255
+          ],
+          [
+            -4.779252,
+            54.071412
+          ],
+          [
+            -4.779179,
+            54.069999
+          ],
+          [
+            -4.779378,
+            54.069917
+          ],
+          [
+            -4.780354,
+            54.070095
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Shenvalley",
+        "place": "farm",
+        "postal_code": "IM9 6JF",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 829241369,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.752735,
+            54.078569
+          ],
+          [
+            -4.751714,
+            54.078397
+          ],
+          [
+            -4.751644,
+            54.078386
+          ],
+          [
+            -4.751822,
+            54.078115
+          ],
+          [
+            -4.75132,
+            54.078073
+          ],
+          [
+            -4.751259,
+            54.078239
+          ],
+          [
+            -4.750933,
+            54.078207
+          ],
+          [
+            -4.750712,
+            54.078247
+          ],
+          [
+            -4.750572,
+            54.078336
+          ],
+          [
+            -4.750581,
+            54.078472
+          ],
+          [
+            -4.750696,
+            54.078479
+          ],
+          [
+            -4.750877,
+            54.078602
+          ],
+          [
+            -4.751055,
+            54.078817
+          ],
+          [
+            -4.751031,
+            54.078923
+          ],
+          [
+            -4.751169,
+            54.078922
+          ],
+          [
+            -4.751371,
+            54.078919
+          ],
+          [
+            -4.75148,
+            54.078919
+          ],
+          [
+            -4.7515,
+            54.078937
+          ],
+          [
+            -4.7516,
+            54.078962
+          ],
+          [
+            -4.751712,
+            54.078974
+          ],
+          [
+            -4.751918,
+            54.078974
+          ],
+          [
+            -4.752086,
+            54.078973
+          ],
+          [
+            -4.752152,
+            54.078977
+          ],
+          [
+            -4.752314,
+            54.078854
+          ],
+          [
+            -4.752371,
+            54.078773
+          ],
+          [
+            -4.752481,
+            54.078733
+          ],
+          [
+            -4.752597,
+            54.078704
+          ],
+          [
+            -4.752685,
+            54.078659
+          ],
+          [
+            -4.752735,
+            54.078569
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Glendown",
+        "place": "farm",
+        "postal_code": "IM9 5PR",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
