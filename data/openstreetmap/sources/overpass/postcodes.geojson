@@ -18105,13 +18105,13 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:postcode": "IM2 1AB",
-        "addr:street": "Riverside Trading Estate",
+        "addr:place": "Hills Meadow Industrial Estate",
+        "addr:postcode": "IM1 5EB",
+        "amenity": "college",
         "building": "industrial",
-        "fixme": "seems to have wrong postcode for Hills Meadow",
-        "name": "Glass Fibre Supplies",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.glassfibresupplies.co.uk/"
+        "contact:website": "https://www.ucm.ac.im/explore-our-campuses/hills-meadow/",
+        "name": "University College Isle of Man Advanced Manufacturing Training Centre",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -124677,6 +124677,838 @@
     },
     {
       "type": "Feature",
+      "id": 1250927082,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.443728,
+            54.174997
+          ],
+          [
+            -4.443911,
+            54.174994
+          ],
+          [
+            -4.443906,
+            54.174917
+          ],
+          [
+            -4.443723,
+            54.174921
+          ],
+          [
+            -4.443728,
+            54.174997
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "58",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927083,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.443964,
+            54.175001
+          ],
+          [
+            -4.444169,
+            54.175005
+          ],
+          [
+            -4.444174,
+            54.174926
+          ],
+          [
+            -4.443968,
+            54.174922
+          ],
+          [
+            -4.443964,
+            54.175001
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "56",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927084,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444404,
+            54.174922
+          ],
+          [
+            -4.444217,
+            54.174924
+          ],
+          [
+            -4.444219,
+            54.175001
+          ],
+          [
+            -4.444406,
+            54.174999
+          ],
+          [
+            -4.444404,
+            54.174922
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "54",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927085,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444651,
+            54.175007
+          ],
+          [
+            -4.444654,
+            54.174926
+          ],
+          [
+            -4.444461,
+            54.174924
+          ],
+          [
+            -4.444458,
+            54.175005
+          ],
+          [
+            -4.444651,
+            54.175007
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "52",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927086,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444902,
+            54.174934
+          ],
+          [
+            -4.444706,
+            54.174931
+          ],
+          [
+            -4.444703,
+            54.175007
+          ],
+          [
+            -4.444898,
+            54.17501
+          ],
+          [
+            -4.444902,
+            54.174934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "50",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927087,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445593,
+            54.174908
+          ],
+          [
+            -4.445536,
+            54.174909
+          ],
+          [
+            -4.445538,
+            54.174982
+          ],
+          [
+            -4.445755,
+            54.17498
+          ],
+          [
+            -4.445753,
+            54.174884
+          ],
+          [
+            -4.445592,
+            54.174886
+          ],
+          [
+            -4.445593,
+            54.174908
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927088,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445952,
+            54.175016
+          ],
+          [
+            -4.446017,
+            54.175017
+          ],
+          [
+            -4.446022,
+            54.1749
+          ],
+          [
+            -4.445809,
+            54.174896
+          ],
+          [
+            -4.445806,
+            54.17498
+          ],
+          [
+            -4.445953,
+            54.174982
+          ],
+          [
+            -4.445952,
+            54.175016
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "42",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927089,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446066,
+            54.175026
+          ],
+          [
+            -4.446227,
+            54.175028
+          ],
+          [
+            -4.446231,
+            54.174908
+          ],
+          [
+            -4.446071,
+            54.174905
+          ],
+          [
+            -4.446066,
+            54.175026
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927090,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446485,
+            54.174906
+          ],
+          [
+            -4.44629,
+            54.174904
+          ],
+          [
+            -4.446287,
+            54.174987
+          ],
+          [
+            -4.446483,
+            54.174989
+          ],
+          [
+            -4.446485,
+            54.174906
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927091,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446718,
+            54.174894
+          ],
+          [
+            -4.446522,
+            54.174895
+          ],
+          [
+            -4.446524,
+            54.174983
+          ],
+          [
+            -4.44672,
+            54.174982
+          ],
+          [
+            -4.446718,
+            54.174894
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927093,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446777,
+            54.174942
+          ],
+          [
+            -4.446824,
+            54.174933
+          ],
+          [
+            -4.446838,
+            54.17496
+          ],
+          [
+            -4.446964,
+            54.174938
+          ],
+          [
+            -4.446918,
+            54.174849
+          ],
+          [
+            -4.446745,
+            54.17488
+          ],
+          [
+            -4.446777,
+            54.174942
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927094,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447133,
+            54.174806
+          ],
+          [
+            -4.446985,
+            54.174835
+          ],
+          [
+            -4.447037,
+            54.174924
+          ],
+          [
+            -4.447184,
+            54.174895
+          ],
+          [
+            -4.447133,
+            54.174806
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "32",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927096,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447443,
+            54.17486
+          ],
+          [
+            -4.447431,
+            54.174825
+          ],
+          [
+            -4.44746,
+            54.174822
+          ],
+          [
+            -4.44744,
+            54.174763
+          ],
+          [
+            -4.447298,
+            54.174779
+          ],
+          [
+            -4.447305,
+            54.174802
+          ],
+          [
+            -4.447238,
+            54.17481
+          ],
+          [
+            -4.447263,
+            54.174881
+          ],
+          [
+            -4.447443,
+            54.17486
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "30",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927097,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447727,
+            54.174801
+          ],
+          [
+            -4.447687,
+            54.17472
+          ],
+          [
+            -4.447475,
+            54.174755
+          ],
+          [
+            -4.447515,
+            54.174836
+          ],
+          [
+            -4.447727,
+            54.174801
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927098,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44794,
+            54.174794
+          ],
+          [
+            -4.447949,
+            54.174814
+          ],
+          [
+            -4.448009,
+            54.174804
+          ],
+          [
+            -4.447985,
+            54.174751
+          ],
+          [
+            -4.447924,
+            54.174761
+          ],
+          [
+            -4.447892,
+            54.174688
+          ],
+          [
+            -4.447726,
+            54.174713
+          ],
+          [
+            -4.447773,
+            54.17482
+          ],
+          [
+            -4.44794,
+            54.174794
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927099,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448015,
+            54.17475
+          ],
+          [
+            -4.448097,
+            54.174738
+          ],
+          [
+            -4.448102,
+            54.174749
+          ],
+          [
+            -4.448193,
+            54.174736
+          ],
+          [
+            -4.448148,
+            54.174634
+          ],
+          [
+            -4.447976,
+            54.17466
+          ],
+          [
+            -4.448015,
+            54.17475
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448327,
+            54.174701
+          ],
+          [
+            -4.448358,
+            54.174696
+          ],
+          [
+            -4.448365,
+            54.174712
+          ],
+          [
+            -4.44845,
+            54.174699
+          ],
+          [
+            -4.448402,
+            54.174588
+          ],
+          [
+            -4.448285,
+            54.174605
+          ],
+          [
+            -4.448327,
+            54.174701
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927101,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448612,
+            54.174549
+          ],
+          [
+            -4.44844,
+            54.174576
+          ],
+          [
+            -4.448491,
+            54.174688
+          ],
+          [
+            -4.448663,
+            54.174661
+          ],
+          [
+            -4.448612,
+            54.174549
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927102,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448955,
+            54.174634
+          ],
+          [
+            -4.448883,
+            54.174504
+          ],
+          [
+            -4.448732,
+            54.174533
+          ],
+          [
+            -4.448803,
+            54.174662
+          ],
+          [
+            -4.448955,
+            54.174634
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250927103,
       "geometry": {
         "type": "LineString",
@@ -125899,6 +126731,182 @@
         "operator": "Mo-Sa 09:00-18:00, Su 10:00-16:00",
         "shop": "deli",
         "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1272903309,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445225,
+            54.174968
+          ],
+          [
+            -4.445126,
+            54.174967
+          ],
+          [
+            -4.445125,
+            54.17499
+          ],
+          [
+            -4.444969,
+            54.174989
+          ],
+          [
+            -4.444971,
+            54.174881
+          ],
+          [
+            -4.445119,
+            54.174882
+          ],
+          [
+            -4.445119,
+            54.17489
+          ],
+          [
+            -4.44516,
+            54.174891
+          ],
+          [
+            -4.44516,
+            54.174923
+          ],
+          [
+            -4.445226,
+            54.174923
+          ],
+          [
+            -4.445225,
+            54.174968
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "48",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1272903310,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445226,
+            54.174923
+          ],
+          [
+            -4.445297,
+            54.174924
+          ],
+          [
+            -4.445297,
+            54.174912
+          ],
+          [
+            -4.445306,
+            54.174912
+          ],
+          [
+            -4.445307,
+            54.174895
+          ],
+          [
+            -4.44534,
+            54.174895
+          ],
+          [
+            -4.44534,
+            54.174883
+          ],
+          [
+            -4.445437,
+            54.174884
+          ],
+          [
+            -4.445435,
+            54.174986
+          ],
+          [
+            -4.445339,
+            54.174985
+          ],
+          [
+            -4.445339,
+            54.174969
+          ],
+          [
+            -4.445225,
+            54.174968
+          ],
+          [
+            -4.445226,
+            54.174923
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "46",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1272903311,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448285,
+            54.174605
+          ],
+          [
+            -4.448196,
+            54.174618
+          ],
+          [
+            -4.448237,
+            54.174714
+          ],
+          [
+            -4.448327,
+            54.174701
+          ],
+          [
+            -4.448285,
+            54.174605
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM3 2EJ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]
