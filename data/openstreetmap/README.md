@@ -2,11 +2,7 @@
 
 A variety of Isle of Man datasets extracted from OpenStreetMap.
 
-## Open data provider
-
-* [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792)
-
-## Outputs
+## Datasets
 
   * Addressing
     * Addresses :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/addresses/addresses.csv) [GeoJSON](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/addresses/addresses.geojson) :link: [view on geojson.io](https://geojson.io/#id=github:dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/addresses/addresses.geojson)
@@ -33,6 +29,10 @@ A variety of Isle of Man datasets extracted from OpenStreetMap.
   * Registered buildings :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/registered-buildings/registered-buildings.csv) [GeoJSON](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/registered-buildings/registered-buildings.geojson) :link: [view on geojson.io](https://geojson.io/#id=github:dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/registered-buildings/registered-buildings.geojson)
   * Shops :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/shops/shops.csv) [GeoJSON](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/shops/shops.geojson) :link: [view on geojson.io](https://geojson.io/#id=github:dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/shops/shops.geojson)
   * Tourism :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/tourism/tourism.csv) [GeoJSON](https://github.com/dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/tourism/tourism.geojson) :link: [view on geojson.io](https://geojson.io/#id=github:dankarran/isleofman-opendata/blob/main/data/openstreetmap/outputs/tourism/tourism.geojson)
+
+## Open data provider
+
+  * [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792)
 
 ## Other resources
 

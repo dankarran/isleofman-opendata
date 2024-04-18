@@ -1,13 +1,8 @@
 # Isle of Man Land Transactions data
 
-Information about land transactions, including address details.
+Information about land transactions from ~2001 onwards, including address and pricing details.
 
-## Open data provider
-
-* [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
-  * [Land transactions](https://www.gov.im/about-the-government/government/open-data/economy/land-transactions/)
-
-## Outputs
+## Datasets
 
   * Land transactions (with hash, partially cleansed with corrections) :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/land-transactions.csv)
   * Addressing (some known issues filtered out)
@@ -19,10 +14,15 @@ Information about land transactions, including address details.
     * Parishes :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/addressing/parishes.csv)
   * Issues noted during processing (with hash of transaction) :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/land-transactions/outputs/issues.csv)
 
+## Open data provider
+
+  * [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
+    * [Land transactions](https://www.gov.im/about-the-government/government/open-data/economy/land-transactions/)
+
 ## Known issues
 
-* *Data quality* - addressing data is often messy, with information ending up in the wrong columns, and this dataset is no different
-* *Incomplete data* - addressing data is incomplete as it's based on where land transactions have taken place since the process was digitised
+  * *Data quality* - addressing data is often messy, with information ending up in the wrong columns, and this dataset is no different
+  * *Incomplete data* - addressing data is incomplete as it's based on where land transactions have taken place since the process began to be digitised
 
 ## Fixing issues
 
