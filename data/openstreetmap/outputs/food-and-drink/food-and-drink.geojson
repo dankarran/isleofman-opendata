@@ -1513,16 +1513,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.384206,
-          54.326111
+          -4.384251,
+          54.326076
         ]
       },
       "properties": {
         "amenity": "cafe",
         "wheelchair": "yes",
         "osm_id": 2185578331,
-        "lon": -4.384206,
-        "lat": 54.326111,
+        "lon": -4.384251,
+        "lat": 54.326076,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/2185578331"
       }
@@ -2579,6 +2579,7 @@
         "addr:postcode": "IM8 1ET",
         "addr:street": "Queens Promenade",
         "amenity": "restaurant",
+        "dog": "yes",
         "name": "The Mixing Bowl Diner",
         "phone": "+441624812444",
         "website": "https://energyfmbowl.co.uk/the-mixing-bowl/",
@@ -3100,6 +3101,27 @@
         "lat": 54.162748,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11769042155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11826361905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.378031,
+          54.321616
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "dog": "yes",
+        "name": "Dogs lounge",
+        "osm_id": 11826361905,
+        "lon": -4.378031,
+        "lat": 54.321616,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11826361905"
       }
     },
     {
@@ -8259,6 +8281,56 @@
     },
     {
       "type": "Feature",
+      "id": 102856141,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.386896,
+            54.322169
+          ],
+          [
+            -4.387048,
+            54.32215
+          ],
+          [
+            -4.387088,
+            54.322254
+          ],
+          [
+            -4.386935,
+            54.322273
+          ],
+          [
+            -4.386896,
+            54.322169
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housename": "Central Hotel",
+        "addr:postcode": "IM8 1AH",
+        "addr:street": "Parliament Square",
+        "amenity": "pub",
+        "building": "yes",
+        "description": "Free house",
+        "listed_status": "Registered",
+        "name": "The Central",
+        "note": "Listed as 1 Bowring Road in historical census entries, as shown in Registered Building document.",
+        "old_name": "The Central;Mylrea's House",
+        "ref:registered_building": "176",
+        "url:registered_building": "https://www.gov.im/media/632939/0500176regbldcentralhotel.pdf",
+        "wikidata": "Q118188816",
+        "osm_id": 102856141,
+        "lon": -4.386991838083361,
+        "lat": 54.32221159102074,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856141"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856155,
       "geometry": {
         "type": "LineString",
@@ -8297,6 +8369,56 @@
         "lat": 54.32199234848538,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856161,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384014,
+            54.322215
+          ],
+          [
+            -4.384071,
+            54.322218
+          ],
+          [
+            -4.384054,
+            54.322332
+          ],
+          [
+            -4.38405,
+            54.322354
+          ],
+          [
+            -4.383993,
+            54.322351
+          ],
+          [
+            -4.384014,
+            54.322215
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "66",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "Rumbababookings@gmail.com",
+        "contact:phone": "+44 1624 264917",
+        "contact:website": "https://rumbabas.im/",
+        "name": "Rum Baba's",
+        "osm_id": 102856161,
+        "lon": -4.384032104587958,
+        "lat": 54.322284517223444,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856161"
       }
     },
     {

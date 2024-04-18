@@ -450,6 +450,51 @@
     },
     {
       "type": "Feature",
+      "id": 102856158,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383947,
+            54.322212
+          ],
+          [
+            -4.384014,
+            54.322215
+          ],
+          [
+            -4.383993,
+            54.322351
+          ],
+          [
+            -4.383927,
+            54.322347
+          ],
+          [
+            -4.383935,
+            54.322294
+          ],
+          [
+            -4.383947,
+            54.322212
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "64",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "charity": "animal",
+        "name": "ManxSPCA",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
+        "shop": "charity"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 104794522,
       "geometry": {
         "type": "LineString",

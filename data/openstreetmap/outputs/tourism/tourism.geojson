@@ -21687,6 +21687,51 @@
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1241477862"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1273671095,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384228,
+            54.326201
+          ],
+          [
+            -4.384241,
+            54.326217
+          ],
+          [
+            -4.384267,
+            54.326211
+          ],
+          [
+            -4.384254,
+            54.326194
+          ],
+          [
+            -4.384228,
+            54.326201
+          ]
+        ]
+      },
+      "properties": {
+        "boat:rental": "yes",
+        "boat:type": "rowing;kayak;canoe;pedalboat",
+        "building": "hut",
+        "contact:email": "contact@adventure-centre.co.uk",
+        "contact:mobile": "+44 7624 497803",
+        "contact:phone": "+44 1624 814240",
+        "name": "Mansail Ltd",
+        "shop": "boat",
+        "tourism": "attraction",
+        "osm_id": 1273671095,
+        "lon": -4.384247590290246,
+        "lat": 54.32620570238555,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1273671095"
+      }
     }
   ]
 }

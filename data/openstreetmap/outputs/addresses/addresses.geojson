@@ -2461,9 +2461,8 @@
         "addr:housenumber": "1A",
         "addr:place": "Saint Paul's Square",
         "addr:postcode": "IM8 1LE",
-        "name": "Little Shoprite",
-        "opening_hours": "Mo-Sa 08:30-19:00; Su 10:00-18:00",
-        "operator": "Shoprite",
+        "name": "Tesco Express",
+        "operator": "Tesco",
         "shop": "supermarket",
         "wheelchair": "yes",
         "osm_id": 1184382018,
@@ -5583,6 +5582,7 @@
         "addr:postcode": "IM8 1ET",
         "addr:street": "Queens Promenade",
         "amenity": "restaurant",
+        "dog": "yes",
         "name": "The Mixing Bowl Diner",
         "phone": "+441624812444",
         "website": "https://energyfmbowl.co.uk/the-mixing-bowl/",
@@ -53772,11 +53772,10 @@
         "addr:postcode": "IM8 1AS",
         "addr:street": "Parliament Street",
         "amenity": "pharmacy",
-        "brand": "Lloyds Pharmacy",
-        "brand:wikidata": "Q6662870",
+        "brand": "Clear Pharmacy",
         "building": "yes",
         "healthcare": "pharmacy",
-        "name": "Lloyds Pharmacy",
+        "name": "Clear Pharmacy",
         "osm_id": 102785206,
         "lon": -4.3820010151248345,
         "lat": 54.321552442450475,
@@ -54384,13 +54383,15 @@
         "addr:housename": "Central Hotel",
         "addr:postcode": "IM8 1AH",
         "addr:street": "Parliament Square",
+        "amenity": "pub",
         "building": "yes",
+        "description": "Free house",
         "listed_status": "Registered",
+        "name": "The Central",
         "note": "Listed as 1 Bowring Road in historical census entries, as shown in Registered Building document.",
         "old_name": "The Central;Mylrea's House",
         "ref:registered_building": "176",
         "url:registered_building": "https://www.gov.im/media/632939/0500176regbldcentralhotel.pdf",
-        "was:amenity": "pub",
         "wikidata": "Q118188816",
         "osm_id": 102856141,
         "lon": -4.386991838083361,
@@ -54495,6 +54496,66 @@
         "lat": 54.32236638637005,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856152"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856154,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384176,
+            54.322223
+          ],
+          [
+            -4.384287,
+            54.322228
+          ],
+          [
+            -4.384277,
+            54.322323
+          ],
+          [
+            -4.384271,
+            54.322377
+          ],
+          [
+            -4.38422,
+            54.322375
+          ],
+          [
+            -4.384221,
+            54.322362
+          ],
+          [
+            -4.384162,
+            54.32236
+          ],
+          [
+            -4.384165,
+            54.322335
+          ],
+          [
+            -4.384176,
+            54.322223
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "68a",
+        "addr:postcode": "IM8",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Pink Seaweed",
+        "shop": "art;craft",
+        "osm_id": 102856154,
+        "lon": -4.384225301894157,
+        "lat": 54.32229866663534,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856154"
       }
     },
     {
@@ -55149,6 +55210,59 @@
         "lat": 54.322352739179664,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856200"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856204,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384287,
+            54.322228
+          ],
+          [
+            -4.384356,
+            54.322232
+          ],
+          [
+            -4.38434,
+            54.322373
+          ],
+          [
+            -4.384297,
+            54.322372
+          ],
+          [
+            -4.384302,
+            54.322324
+          ],
+          [
+            -4.384277,
+            54.322323
+          ],
+          [
+            -4.384287,
+            54.322228
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "70",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "contact:phone": "+44 1624 816905",
+        "name": "Shalee",
+        "shop": "gift",
+        "osm_id": 102856204,
+        "lon": -4.384316760251528,
+        "lat": 54.322298105825126,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856204"
       }
     },
     {
@@ -132053,7 +132167,8 @@
         "building": "commercial",
         "contact:website": "https://www.outdoorsramsey.co.uk/",
         "name": "Outdoors Ramsey",
-        "shop": "outdoor;water_sports;boat",
+        "service:bicycle:repair": "yes",
+        "shop": "outdoor;bicycle;water_sports;boat",
         "osm_id": 1162863069,
         "lon": -4.378261282565639,
         "lat": 54.32163040693527,

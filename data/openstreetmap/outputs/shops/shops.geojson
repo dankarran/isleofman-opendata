@@ -1196,9 +1196,8 @@
         "addr:housenumber": "1A",
         "addr:place": "Saint Paul's Square",
         "addr:postcode": "IM8 1LE",
-        "name": "Little Shoprite",
-        "opening_hours": "Mo-Sa 08:30-19:00; Su 10:00-18:00",
-        "operator": "Shoprite",
+        "name": "Tesco Express",
+        "operator": "Tesco",
         "shop": "supermarket",
         "wheelchair": "yes",
         "osm_id": 1184382018,
@@ -1795,32 +1794,6 @@
         "lat": 54.151175,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/4897707824"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 4899766621,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.38346,
-          54.321163
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:street": "Albert Road",
-        "contact:facebook": "https://www.facebook.com/RamseyGardenCentre/",
-        "name": "Ramsey Garden Centre",
-        "phone": "+44 1624 816506",
-        "shop": "garden_centre",
-        "source": "local_knowledge",
-        "wheelchair": "yes",
-        "osm_id": 4899766621,
-        "lon": -4.38346,
-        "lat": 54.321163,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/4899766621"
       }
     },
     {
@@ -9065,32 +9038,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.384075,
-            54.321128
+            -4.384126,
+            54.321116
           ],
           [
-            -4.384499,
-            54.321149
+            -4.38455,
+            54.321137
           ],
           [
-            -4.384482,
-            54.321263
+            -4.384533,
+            54.32125
           ],
           [
-            -4.384427,
-            54.32126
+            -4.384478,
+            54.321248
           ],
           [
-            -4.384395,
-            54.32148
+            -4.384446,
+            54.321467
           ],
           [
-            -4.384027,
-            54.321461
+            -4.384078,
+            54.321449
           ],
           [
-            -4.384075,
-            54.321128
+            -4.384126,
+            54.321116
           ]
         ]
       },
@@ -9111,8 +9084,8 @@
         "website": "https://www.coop.co.uk/store-finder/IM8-1DG/3-christian-street",
         "wheelchair": "yes",
         "osm_id": 99323317,
-        "lon": -4.384256018844804,
-        "lat": 54.32129673093194,
+        "lon": -4.384306760951872,
+        "lat": 54.321284487888605,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/99323317"
       }
@@ -12456,6 +12429,48 @@
     },
     {
       "type": "Feature",
+      "id": 102856114,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384071,
+            54.322218
+          ],
+          [
+            -4.384176,
+            54.322223
+          ],
+          [
+            -4.384165,
+            54.322335
+          ],
+          [
+            -4.384054,
+            54.322332
+          ],
+          [
+            -4.384071,
+            54.322218
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "68",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "shop": "vacant",
+        "osm_id": 102856114,
+        "lon": -4.384116075586347,
+        "lat": 54.32227774133959,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856114"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856128,
       "geometry": {
         "type": "LineString",
@@ -12648,6 +12663,116 @@
         "lat": 54.322626734882,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856148"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856154,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384176,
+            54.322223
+          ],
+          [
+            -4.384287,
+            54.322228
+          ],
+          [
+            -4.384277,
+            54.322323
+          ],
+          [
+            -4.384271,
+            54.322377
+          ],
+          [
+            -4.38422,
+            54.322375
+          ],
+          [
+            -4.384221,
+            54.322362
+          ],
+          [
+            -4.384162,
+            54.32236
+          ],
+          [
+            -4.384165,
+            54.322335
+          ],
+          [
+            -4.384176,
+            54.322223
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "68a",
+        "addr:postcode": "IM8",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Pink Seaweed",
+        "shop": "art;craft",
+        "osm_id": 102856154,
+        "lon": -4.384225301894157,
+        "lat": 54.32229866663534,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856154"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856158,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383947,
+            54.322212
+          ],
+          [
+            -4.384014,
+            54.322215
+          ],
+          [
+            -4.383993,
+            54.322351
+          ],
+          [
+            -4.383927,
+            54.322347
+          ],
+          [
+            -4.383935,
+            54.322294
+          ],
+          [
+            -4.383947,
+            54.322212
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "64",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "charity": "animal",
+        "name": "ManxSPCA",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
+        "shop": "charity",
+        "osm_id": 102856158,
+        "lon": -4.3839703910027605,
+        "lat": 54.322281101127835,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856158"
       }
     },
     {
@@ -13057,6 +13182,59 @@
         "lat": 54.322083619542205,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856187"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856204,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384287,
+            54.322228
+          ],
+          [
+            -4.384356,
+            54.322232
+          ],
+          [
+            -4.38434,
+            54.322373
+          ],
+          [
+            -4.384297,
+            54.322372
+          ],
+          [
+            -4.384302,
+            54.322324
+          ],
+          [
+            -4.384277,
+            54.322323
+          ],
+          [
+            -4.384287,
+            54.322228
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "70",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "contact:phone": "+44 1624 816905",
+        "name": "Shalee",
+        "shop": "gift",
+        "osm_id": 102856204,
+        "lon": -4.384316760251528,
+        "lat": 54.322298105825126,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856204"
       }
     },
     {
@@ -27097,7 +27275,8 @@
         "building": "commercial",
         "contact:website": "https://www.outdoorsramsey.co.uk/",
         "name": "Outdoors Ramsey",
-        "shop": "outdoor;water_sports;boat",
+        "service:bicycle:repair": "yes",
+        "shop": "outdoor;bicycle;water_sports;boat",
         "osm_id": 1162863069,
         "lon": -4.378261282565639,
         "lat": 54.32163040693527,
@@ -29078,6 +29257,123 @@
         "lat": 54.15492868307744,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1272556982"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1273540833,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383567,
+            54.32109
+          ],
+          [
+            -4.383443,
+            54.321084
+          ],
+          [
+            -4.383414,
+            54.321286
+          ],
+          [
+            -4.383509,
+            54.32129
+          ],
+          [
+            -4.38351,
+            54.321361
+          ],
+          [
+            -4.383586,
+            54.321365
+          ],
+          [
+            -4.383651,
+            54.321368
+          ],
+          [
+            -4.383762,
+            54.321373
+          ],
+          [
+            -4.383846,
+            54.321377
+          ],
+          [
+            -4.383885,
+            54.321106
+          ],
+          [
+            -4.383679,
+            54.321095
+          ],
+          [
+            -4.383567,
+            54.32109
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:street": "Albert Road",
+        "contact:facebook": "https://www.facebook.com/RamseyGardenCentre/",
+        "name": "Ramsey Garden Centre",
+        "phone": "+44 1624 816506",
+        "shop": "garden_centre",
+        "source": "local_knowledge",
+        "wheelchair": "yes",
+        "osm_id": 1273540833,
+        "lon": -4.383651067798273,
+        "lat": 54.32122521214373,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1273540833"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1273671095,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384228,
+            54.326201
+          ],
+          [
+            -4.384241,
+            54.326217
+          ],
+          [
+            -4.384267,
+            54.326211
+          ],
+          [
+            -4.384254,
+            54.326194
+          ],
+          [
+            -4.384228,
+            54.326201
+          ]
+        ]
+      },
+      "properties": {
+        "boat:rental": "yes",
+        "boat:type": "rowing;kayak;canoe;pedalboat",
+        "building": "hut",
+        "contact:email": "contact@adventure-centre.co.uk",
+        "contact:mobile": "+44 7624 497803",
+        "contact:phone": "+44 1624 814240",
+        "name": "Mansail Ltd",
+        "shop": "boat",
+        "tourism": "attraction",
+        "osm_id": 1273671095,
+        "lon": -4.384247590290246,
+        "lat": 54.32620570238555,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1273671095"
       }
     }
   ]
