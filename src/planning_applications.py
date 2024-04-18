@@ -2,6 +2,7 @@ import os
 import requests
 import io
 import time
+import datetime
 import pandas as pd
 import csv
 import json
@@ -67,14 +68,25 @@ def load_data(sources, default_options):
 
 
 def update_weekly_files(sources, record_type):
+    today_datetime = datetime.datetime.now()
+
+    pub_count = 0
     for pub_date in sources:
         year = pub_date[0:4]
+        month = pub_date[5:7]
+        day = pub_date[8:10]
+        pub_datetime = datetime.datetime(int(year), int(month), int(day))
+
+        pub_count = pub_count + 1
+
         year_dir = data_dir + "sources/weekly/" + year
         filename = pub_date + "-" + record_type + ".csv"
         filepath = year_dir + "/" + filename
 
-        # only update if we don't already have the file
-        if os.path.isfile(filepath):
+        # only update if we don't already have the file and date is in the past
+        # but always update the latest few to check for changes, even if date already passed
+        # (future publications are subject to change until publication date)
+        if pub_count > 3 and pub_datetime <= today_datetime and os.path.isfile(filepath):
             print("    ", "Skipping", record_type, "for", pub_date)
             continue
 
