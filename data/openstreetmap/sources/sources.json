@@ -144,8 +144,8 @@
       "group": "Addressing",
       "query": "nw['addr:postcode'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["addr:postcode", "source:addr:postcode"],
-      "sort_columns": ["addr:postcode", "osm_id"]
+      "csv_columns": ["addr:postcode", "addr:street", "source:addr:postcode"],
+      "sort_columns": ["addr:postcode", "addr:street", "osm_id"]
     },
     {
       "label": "registered-buildings",
