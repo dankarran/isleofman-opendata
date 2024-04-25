@@ -2511,6 +2511,26 @@
     },
     {
       "type": "Feature",
+      "id": 11837769223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.389,
+          54.318837
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 2AH",
+        "addr:street": "Brookfield Avenue",
+        "amenity": "restaurant",
+        "name": "Ramsey Golf Club",
+        "website": "https://www.ramseygolfclub.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38300992,
       "geometry": {
         "type": "LineString",

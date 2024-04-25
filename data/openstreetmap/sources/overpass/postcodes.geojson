@@ -2011,9 +2011,13 @@
         "addr:housenumber": "1A",
         "addr:place": "Saint Paul's Square",
         "addr:postcode": "IM8 1LE",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
         "name": "Tesco Express",
+        "opening_hours": "Mo-Su 07:00-22:00",
         "operator": "Tesco",
-        "shop": "supermarket",
+        "shop": "convenience",
+        "website": "https://www.tesco.com/store-locator/ramsey/1a-st.-pauls-square",
         "wheelchair": "yes"
       }
     },
@@ -4612,6 +4616,29 @@
         "addr:postcode": "IM7 1AW",
         "addr:street": "Jacks Lane",
         "source:addr:housename": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10683382251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.503793,
+          54.363362
+        ]
+      },
+      "properties": {
+        "addr:city": "Jurby",
+        "addr:country": "IM",
+        "addr:housename": "Garden Cottage",
+        "addr:place": "Goldies Loughan",
+        "addr:postcode": "IM7 3EZ",
+        "addr:street": "Bretney Road",
+        "source": "streetside",
+        "source:addr:place": "Isle of Man Government Planning Applications",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "was:tourism": "chalet"
       }
     },
     {
@@ -7521,6 +7548,26 @@
     },
     {
       "type": "Feature",
+      "id": 11837769223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.389,
+          54.318837
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 2AH",
+        "addr:street": "Brookfield Avenue",
+        "amenity": "restaurant",
+        "name": "Ramsey Golf Club",
+        "website": "https://www.ramseygolfclub.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -8752,6 +8799,294 @@
         "phone": "+44 1624 661558",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "website": "https://www.douglasgolfclub.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39658883,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.40481,
+            54.317667
+          ],
+          [
+            -4.404223,
+            54.318248
+          ],
+          [
+            -4.40391,
+            54.318683
+          ],
+          [
+            -4.403763,
+            54.318886
+          ],
+          [
+            -4.403337,
+            54.319379
+          ],
+          [
+            -4.403059,
+            54.319578
+          ],
+          [
+            -4.403047,
+            54.319695
+          ],
+          [
+            -4.40292,
+            54.319972
+          ],
+          [
+            -4.402695,
+            54.320109
+          ],
+          [
+            -4.402002,
+            54.320525
+          ],
+          [
+            -4.401694,
+            54.32073
+          ],
+          [
+            -4.400982,
+            54.321034
+          ],
+          [
+            -4.400944,
+            54.321057
+          ],
+          [
+            -4.400911,
+            54.321069
+          ],
+          [
+            -4.400845,
+            54.321084
+          ],
+          [
+            -4.400791,
+            54.321092
+          ],
+          [
+            -4.400742,
+            54.321093
+          ],
+          [
+            -4.400857,
+            54.32059
+          ],
+          [
+            -4.398613,
+            54.32038
+          ],
+          [
+            -4.398657,
+            54.319351
+          ],
+          [
+            -4.394794,
+            54.319125
+          ],
+          [
+            -4.39464,
+            54.319334
+          ],
+          [
+            -4.391644,
+            54.319067
+          ],
+          [
+            -4.391537,
+            54.318645
+          ],
+          [
+            -4.391607,
+            54.318438
+          ],
+          [
+            -4.3916,
+            54.318317
+          ],
+          [
+            -4.391285,
+            54.318343
+          ],
+          [
+            -4.391024,
+            54.318365
+          ],
+          [
+            -4.390492,
+            54.318484
+          ],
+          [
+            -4.390079,
+            54.318856
+          ],
+          [
+            -4.389196,
+            54.320047
+          ],
+          [
+            -4.388235,
+            54.319885
+          ],
+          [
+            -4.388613,
+            54.319216
+          ],
+          [
+            -4.388685,
+            54.319089
+          ],
+          [
+            -4.388757,
+            54.318894
+          ],
+          [
+            -4.388735,
+            54.318519
+          ],
+          [
+            -4.388901,
+            54.318165
+          ],
+          [
+            -4.389423,
+            54.318252
+          ],
+          [
+            -4.389637,
+            54.318017
+          ],
+          [
+            -4.389863,
+            54.317989
+          ],
+          [
+            -4.390067,
+            54.317924
+          ],
+          [
+            -4.390164,
+            54.317813
+          ],
+          [
+            -4.390356,
+            54.317568
+          ],
+          [
+            -4.391623,
+            54.316925
+          ],
+          [
+            -4.392461,
+            54.316025
+          ],
+          [
+            -4.393127,
+            54.315383
+          ],
+          [
+            -4.393413,
+            54.315103
+          ],
+          [
+            -4.393519,
+            54.315
+          ],
+          [
+            -4.393737,
+            54.314886
+          ],
+          [
+            -4.394242,
+            54.314622
+          ],
+          [
+            -4.396074,
+            54.315486
+          ],
+          [
+            -4.396227,
+            54.315612
+          ],
+          [
+            -4.396343,
+            54.315708
+          ],
+          [
+            -4.396848,
+            54.316354
+          ],
+          [
+            -4.397657,
+            54.316043
+          ],
+          [
+            -4.398669,
+            54.315648
+          ],
+          [
+            -4.399184,
+            54.315601
+          ],
+          [
+            -4.399997,
+            54.315694
+          ],
+          [
+            -4.401263,
+            54.315921
+          ],
+          [
+            -4.40171,
+            54.31607
+          ],
+          [
+            -4.401999,
+            54.31618
+          ],
+          [
+            -4.402718,
+            54.316742
+          ],
+          [
+            -4.403314,
+            54.317123
+          ],
+          [
+            -4.403677,
+            54.317292
+          ],
+          [
+            -4.404594,
+            54.317584
+          ],
+          [
+            -4.40481,
+            54.317667
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 2AH",
+        "addr:street": "Brookfield Avenue",
+        "fax": "+44 1624 812244",
+        "golf:course": "18_hole",
+        "leisure": "golf_course",
+        "name": "Ramsey Golf Course",
+        "operator": "Ramsey Golf Club",
+        "phone": "+44 1624 812244;+44 1624 813365",
+        "postal_code": "IM8 2AH",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "website": "https://www.ramseygolfclub.im/"
       }
     },
     {
@@ -49651,6 +49986,54 @@
     },
     {
       "type": "Feature",
+      "id": 102856197,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383852,
+            54.322208
+          ],
+          [
+            -4.38386,
+            54.322208
+          ],
+          [
+            -4.383947,
+            54.322212
+          ],
+          [
+            -4.383935,
+            54.322294
+          ],
+          [
+            -4.383847,
+            54.32229
+          ],
+          [
+            -4.38384,
+            54.322289
+          ],
+          [
+            -4.383852,
+            54.322208
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Bridge Bookshop",
+        "shop": "books",
+        "website": "https://www.bridge-bookshop.com/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856200,
       "geometry": {
         "type": "LineString",
@@ -49695,6 +50078,45 @@
         "source:addr:housenumber": "registered_building",
         "url:registered_building": "https://www.gov.im/media/632921/0500152regbldbeanoa.pdf",
         "wikidata": "Q118188814"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856201,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383781,
+            54.322286
+          ],
+          [
+            -4.38384,
+            54.322289
+          ],
+          [
+            -4.383852,
+            54.322208
+          ],
+          [
+            -4.383792,
+            54.322204
+          ],
+          [
+            -4.383781,
+            54.322286
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "60",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Deanwood",
+        "office": "estate_agent",
+        "website": "https://www.deanwood.im/"
       }
     },
     {
@@ -101787,6 +102209,93 @@
         "name": "Beach House",
         "tourism": "guest_house",
         "website": "https://www.visitisleofman.com/stay/beach-house-p1308441"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963255501,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388068,
+            54.318448
+          ],
+          [
+            -4.387665,
+            54.318421
+          ],
+          [
+            -4.387677,
+            54.318359
+          ],
+          [
+            -4.387607,
+            54.318327
+          ],
+          [
+            -4.3876,
+            54.318361
+          ],
+          [
+            -4.387468,
+            54.318352
+          ],
+          [
+            -4.387488,
+            54.318255
+          ],
+          [
+            -4.387449,
+            54.318252
+          ],
+          [
+            -4.387473,
+            54.318133
+          ],
+          [
+            -4.387612,
+            54.318142
+          ],
+          [
+            -4.387606,
+            54.318171
+          ],
+          [
+            -4.387765,
+            54.318181
+          ],
+          [
+            -4.387742,
+            54.318296
+          ],
+          [
+            -4.387871,
+            54.318305
+          ],
+          [
+            -4.387883,
+            54.318241
+          ],
+          [
+            -4.388106,
+            54.318256
+          ],
+          [
+            -4.388068,
+            54.318448
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Brookfield Court",
+        "addr:postcode": "IM8 2AW",
+        "addr:street": "Brookfield Avenue",
+        "building": "yes",
+        "note": "some applications list the street as Claughbane Drive",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {

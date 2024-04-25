@@ -1196,9 +1196,13 @@
         "addr:housenumber": "1A",
         "addr:place": "Saint Paul's Square",
         "addr:postcode": "IM8 1LE",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
         "name": "Tesco Express",
+        "opening_hours": "Mo-Su 07:00-22:00",
         "operator": "Tesco",
-        "shop": "supermarket",
+        "shop": "convenience",
+        "website": "https://www.tesco.com/store-locator/ramsey/1a-st.-pauls-square",
         "wheelchair": "yes",
         "osm_id": 1184382018,
         "lon": -4.378953,
@@ -13182,6 +13186,59 @@
         "lat": 54.322083619542205,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856187"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856197,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383852,
+            54.322208
+          ],
+          [
+            -4.38386,
+            54.322208
+          ],
+          [
+            -4.383947,
+            54.322212
+          ],
+          [
+            -4.383935,
+            54.322294
+          ],
+          [
+            -4.383847,
+            54.32229
+          ],
+          [
+            -4.38384,
+            54.322289
+          ],
+          [
+            -4.383852,
+            54.322208
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Bridge Bookshop",
+        "shop": "books",
+        "website": "https://www.bridge-bookshop.com/",
+        "osm_id": 102856197,
+        "lon": -4.383893624311053,
+        "lat": 54.32225080347096,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856197"
       }
     },
     {

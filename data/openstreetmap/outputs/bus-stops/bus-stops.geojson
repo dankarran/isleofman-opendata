@@ -476,27 +476,6 @@
     },
     {
       "type": "Feature",
-      "id": 683437702,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.636647,
-          54.195293
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform",
-        "osm_id": 683437702,
-        "lon": -4.636647,
-        "lat": 54.195293,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/683437702"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 683440480,
       "geometry": {
         "type": "Point",
@@ -977,8 +956,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475875,
-          54.158735
+          -4.475838,
+          54.15875
         ]
       },
       "properties": {
@@ -992,8 +971,8 @@
         "shelter": "yes",
         "tram": "yes",
         "osm_id": 939426298,
-        "lon": -4.475875,
-        "lat": 54.158735,
+        "lon": -4.475838,
+        "lat": 54.15875,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/939426298"
       }
@@ -1004,8 +983,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475557,
-          54.158737
+          -4.475577,
+          54.158744
         ]
       },
       "properties": {
@@ -1019,8 +998,8 @@
         "shelter": "yes",
         "tram": "yes",
         "osm_id": 939426651,
-        "lon": -4.475557,
-        "lat": 54.158737,
+        "lon": -4.475577,
+        "lat": 54.158744,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/939426651"
       }
@@ -2135,7 +2114,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "St. John's / The Hope",
+        "name": "St John's / The Hope",
         "public_transport": "platform",
         "ref": "2303",
         "shelter": "yes",
@@ -8489,7 +8468,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "St. John's / D.E.F.A. Offices",
+        "name": "St John's / DEFA offices",
         "public_transport": "platform",
         "ref": "2305",
         "osm_id": 9186788265,
@@ -8512,7 +8491,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Hope Shelter / Curragh Road",
+        "name": "Hope shelter / Curragh Road",
         "public_transport": "platform",
         "ref": "2306",
         "shelter": "no",
@@ -8536,7 +8515,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Opposite St. John's Football Club",
+        "name": "Opposite St John's Football Club",
         "public_transport": "platform",
         "ref": "2307",
         "osm_id": 9186788267,
@@ -8552,19 +8531,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.637156,
-          54.195726
+          -4.636957,
+          54.195767
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Forestry Board Shelter",
+        "name": "Forestry Board shelter",
         "public_transport": "platform",
         "ref": "2308",
         "osm_id": 9186788268,
-        "lon": -4.637156,
-        "lat": 54.195726,
+        "lon": -4.636957,
+        "lat": 54.195767,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9186788268"
       }
@@ -8606,7 +8585,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "St. John's Football Club Entrance",
+        "name": "St John's Football Club entrance",
         "public_transport": "platform",
         "ref": "2310",
         "osm_id": 9186788270,

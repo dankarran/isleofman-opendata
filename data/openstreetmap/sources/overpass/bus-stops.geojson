@@ -376,22 +376,6 @@
     },
     {
       "type": "Feature",
-      "id": 683437702,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.636647,
-          54.195293
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "public_transport": "platform"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 683440480,
       "geometry": {
         "type": "Point",
@@ -772,8 +756,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475875,
-          54.158735
+          -4.475838,
+          54.15875
         ]
       },
       "properties": {
@@ -794,8 +778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475557,
-          54.158737
+          -4.475577,
+          54.158744
         ]
       },
       "properties": {
@@ -1690,7 +1674,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "St. John's / The Hope",
+        "name": "St John's / The Hope",
         "public_transport": "platform",
         "ref": "2303",
         "shelter": "yes"
@@ -6689,7 +6673,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "St. John's / D.E.F.A. Offices",
+        "name": "St John's / DEFA offices",
         "public_transport": "platform",
         "ref": "2305"
       }
@@ -6707,7 +6691,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Hope Shelter / Curragh Road",
+        "name": "Hope shelter / Curragh Road",
         "public_transport": "platform",
         "ref": "2306",
         "shelter": "no"
@@ -6726,7 +6710,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Opposite St. John's Football Club",
+        "name": "Opposite St John's Football Club",
         "public_transport": "platform",
         "ref": "2307"
       }
@@ -6737,14 +6721,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.637156,
-          54.195726
+          -4.636957,
+          54.195767
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Forestry Board Shelter",
+        "name": "Forestry Board shelter",
         "public_transport": "platform",
         "ref": "2308"
       }
@@ -6781,7 +6765,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "St. John's Football Club Entrance",
+        "name": "St John's Football Club entrance",
         "public_transport": "platform",
         "ref": "2310"
       }
