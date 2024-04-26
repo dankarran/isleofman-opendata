@@ -207,6 +207,46 @@
     },
     {
       "type": "Feature",
+      "id": 11848336016,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.533548,
+          54.15323
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11848336017,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.533542,
+          54.153273
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "opening_hours": "24/7",
+        "operator": "Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1165384236,
       "geometry": {
         "type": "LineString",

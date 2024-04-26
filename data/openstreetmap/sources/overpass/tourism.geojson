@@ -17668,6 +17668,45 @@
     },
     {
       "type": "Feature",
+      "id": 963255660,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.393275,
+            54.320944
+          ],
+          [
+            -4.393337,
+            54.321056
+          ],
+          [
+            -4.392614,
+            54.321194
+          ],
+          [
+            -4.392552,
+            54.321082
+          ],
+          [
+            -4.393275,
+            54.320944
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "The Elms",
+        "addr:postcode": "IM8 2TA",
+        "addr:street": "Lezayre Road",
+        "building": "residential",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "tourism": "apartment"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 991780874,
       "geometry": {
         "type": "LineString",
