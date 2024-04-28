@@ -4,6 +4,8 @@ Information about companies registered on the Isle of Man.
 
 ## Datasets
 
+(Incomplete, work in progress...)
+
   * Live companies index :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/companies/outputs/companies-live.csv)
   * Non-live companies index :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/companies/outputs/companies-non-live.csv)
   * Old company names index :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/companies/outputs/old-names.csv)
@@ -16,9 +18,6 @@ Information about companies registered on the Isle of Man.
 ## Known issues
 
   * *Incomplete data* - there isn't a consolidated published list, so the list here is based on searching using common terms and combining them. Some companies may fall through the net.
-  * *Possible data inconsistency* (may relate to foreign companies and their original/parent company founding?)
-    * e.g. McDonald's Restaurants Limited lists reg date as 18 Feb 1971 in search result, but 13 Nov 1997 (more likely) in company detail page.
-    * e.g. NEXT HOLDINGS LIMITED 11 Nov 1891 vs 5 Sep 1994
 
 ## Data retrieval
 
