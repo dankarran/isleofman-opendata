@@ -5248,8 +5248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.492403,
-          54.155737
+          -4.492261,
+          54.155758
         ]
       },
       "properties": {
@@ -5259,8 +5259,8 @@
         "public_transport": "platform",
         "ref": "140",
         "osm_id": 9179912267,
-        "lon": -4.492403,
-        "lat": 54.155737,
+        "lon": -4.492261,
+        "lat": 54.155758,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179912267"
       }
@@ -5271,8 +5271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.493778,
-          54.155336
+          -4.493845,
+          54.155326
         ]
       },
       "properties": {
@@ -5282,8 +5282,8 @@
         "public_transport": "platform",
         "ref": "141",
         "osm_id": 9179948720,
-        "lon": -4.493778,
-        "lat": 54.155336,
+        "lon": -4.493845,
+        "lat": 54.155326,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179948720"
       }
@@ -10677,8 +10677,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.485265,
-          54.170819
+          -4.4852,
+          54.170802
         ]
       },
       "properties": {
@@ -10687,9 +10687,10 @@
         "name": "Willaston Shops Shelter",
         "public_transport": "platform",
         "ref": "3103",
+        "shelter": "yes",
         "osm_id": 9189767070,
-        "lon": -4.485265,
-        "lat": 54.170819,
+        "lon": -4.4852,
+        "lat": 54.170802,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9189767070"
       }
@@ -12919,8 +12920,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.498626,
-          54.153954
+          -4.498731,
+          54.154067
         ]
       },
       "properties": {
@@ -12930,8 +12931,8 @@
         "public_transport": "platform",
         "ref": "143",
         "osm_id": 9190171601,
-        "lon": -4.498626,
-        "lat": 54.153954,
+        "lon": -4.498731,
+        "lat": 54.154067,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190171601"
       }
@@ -17434,8 +17435,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.492695,
-          54.155843
+          -4.492353,
+          54.155859
         ]
       },
       "properties": {
@@ -17445,8 +17446,8 @@
         "public_transport": "platform",
         "ref": "20139",
         "osm_id": 9192945254,
-        "lon": -4.492695,
-        "lat": 54.155843,
+        "lon": -4.492353,
+        "lat": 54.155859,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192945254"
       }
@@ -17457,8 +17458,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.49415,
-          54.155239
+          -4.494004,
+          54.155356
         ]
       },
       "properties": {
@@ -17467,9 +17468,10 @@
         "name": "Westminster Drive Junction",
         "public_transport": "platform",
         "ref": "20138",
+        "shelter": "yes",
         "osm_id": 9192945255,
-        "lon": -4.49415,
-        "lat": 54.155239,
+        "lon": -4.494004,
+        "lat": 54.155356,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192945255"
       }
@@ -17503,8 +17505,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.499466,
-          54.155007
+          -4.499484,
+          54.155011
         ]
       },
       "properties": {
@@ -17513,9 +17515,10 @@
         "name": "Ballabrooie Drive Shelter",
         "public_transport": "platform",
         "ref": "20136",
+        "shelter": "yes",
         "osm_id": 9192945257,
-        "lon": -4.499466,
-        "lat": 54.155007,
+        "lon": -4.499484,
+        "lat": 54.155011,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192945257"
       }

@@ -6753,56 +6753,6 @@
     },
     {
       "type": "Feature",
-      "id": 10739224379,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.500247,
-          54.154778
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "108",
-        "addr:postcode": "IM1 4HQ",
-        "addr:street": "Ballabrooie Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "osm_id": 10739224379,
-        "lon": -4.500247,
-        "lat": 54.154778,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739224379"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739224380,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.497772,
-          54.154304
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "75",
-        "addr:postcode": "IM1 4EZ",
-        "addr:street": "Ballabrooie Avenue",
-        "source:addr": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:housenumber": "mapillary",
-        "osm_id": 10739224380,
-        "lon": -4.497772,
-        "lat": 54.154304,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739224380"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10739808068,
       "geometry": {
         "type": "Point",
@@ -23264,28 +23214,44 @@
             54.154022
           ],
           [
-            -4.494973,
-            54.154093
+            -4.495016,
+            54.15407
           ],
           [
-            -4.495006,
-            54.154114
+            -4.495034,
+            54.154089
           ],
           [
-            -4.494702,
-            54.154271
+            -4.495043,
+            54.154113
           ],
           [
-            -4.494714,
-            54.154284
+            -4.495031,
+            54.154137
           ],
           [
-            -4.494634,
-            54.154341
+            -4.494988,
+            54.154162
           ],
           [
-            -4.494478,
-            54.154403
+            -4.494736,
+            54.154264
+          ],
+          [
+            -4.494696,
+            54.154298
+          ],
+          [
+            -4.494649,
+            54.154343
+          ],
+          [
+            -4.494551,
+            54.154385
+          ],
+          [
+            -4.494419,
+            54.15444
           ],
           [
             -4.493732,
@@ -23345,8 +23311,8 @@
         "wikidata": "Q4851412",
         "wikipedia": "en:Ballakermeen High School",
         "osm_id": 61562464,
-        "lon": -4.493206857873724,
-        "lat": 54.15417262686648,
+        "lon": -4.493205956002264,
+        "lat": 54.15417449793581,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/61562464"
       }
@@ -32654,6 +32620,56 @@
         "lat": 54.08575325636515,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79398105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80249676,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476455,
+            54.149093
+          ],
+          [
+            -4.476242,
+            54.149079
+          ],
+          [
+            -4.475836,
+            54.149051
+          ],
+          [
+            -4.475866,
+            54.148903
+          ],
+          [
+            -4.476485,
+            54.148945
+          ],
+          [
+            -4.476455,
+            54.149093
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Jubilee Buildings",
+        "addr:postcode": "IM1 2SH",
+        "addr:street": "Victoria Street",
+        "building": "office",
+        "building:levels": "4",
+        "building:material": "stone",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "osm_id": 80249676,
+        "lon": -4.476160493895707,
+        "lat": 54.14899809057007,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/80249676"
       }
     },
     {
@@ -141449,6 +141465,96 @@
         "lat": 54.17465961516988,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1272903311"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596809,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.500238,
+            54.154836
+          ],
+          [
+            -4.500164,
+            54.154766
+          ],
+          [
+            -4.50026,
+            54.154731
+          ],
+          [
+            -4.500334,
+            54.154801
+          ],
+          [
+            -4.500238,
+            54.154836
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "108",
+        "addr:postcode": "IM1 4HQ",
+        "addr:street": "Ballabrooie Drive",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "osm_id": 1276596809,
+        "lon": -4.500248999999999,
+        "lat": 54.1547835,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1276596809"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596814,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497695,
+            54.154326
+          ],
+          [
+            -4.497704,
+            54.154261
+          ],
+          [
+            -4.497852,
+            54.154268
+          ],
+          [
+            -4.497843,
+            54.154333
+          ],
+          [
+            -4.497695,
+            54.154326
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "75",
+        "addr:postcode": "IM1 4EZ",
+        "addr:street": "Ballabrooie Avenue",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "osm_id": 1276596814,
+        "lon": -4.4977735,
+        "lat": 54.15429699999999,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1276596814"
       }
     }
   ]

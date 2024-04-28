@@ -369,6 +369,29 @@
     },
     {
       "type": "Feature",
+      "id": 475392793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.569799,
+          54.107721
+        ]
+      },
+      "properties": {
+        "name": "Seafield",
+        "place": "farm",
+        "postal_code": "IM4 1HH",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475392793,
+        "lon": -4.569799,
+        "lat": 54.107721,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392793"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392809,
       "geometry": {
         "type": "Point",
@@ -532,6 +555,29 @@
     },
     {
       "type": "Feature",
+      "id": 475392882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.550703,
+          54.115217
+        ]
+      },
+      "properties": {
+        "name": "Balnahow Farm",
+        "place": "farm",
+        "postal_code": "IM4 1HN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475392882,
+        "lon": -4.550703,
+        "lat": 54.115217,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392882"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392887,
       "geometry": {
         "type": "Point",
@@ -597,6 +643,29 @@
         "lat": 54.127773,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475392911"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475392955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.563333,
+          54.103767
+        ]
+      },
+      "properties": {
+        "name": "Meary Voar",
+        "place": "farm",
+        "postal_code": "IM4 1HJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475392955,
+        "lon": -4.563333,
+        "lat": 54.103767,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392955"
       }
     },
     {
@@ -885,6 +954,29 @@
     },
     {
       "type": "Feature",
+      "id": 475393403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.553671,
+          54.108956
+        ]
+      },
+      "properties": {
+        "name": "Meary Veg",
+        "place": "locality",
+        "postal_code": "IM4 1HL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475393403,
+        "lon": -4.553671,
+        "lat": 54.108956,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393403"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393405,
       "geometry": {
         "type": "Point",
@@ -1096,6 +1188,29 @@
     },
     {
       "type": "Feature",
+      "id": 475393542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537747,
+          54.119265
+        ]
+      },
+      "properties": {
+        "name": "Ballacregga",
+        "place": "farm",
+        "postal_code": "IM4 1HN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475393542,
+        "lon": -4.537747,
+        "lat": 54.119265,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393542"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393657,
       "geometry": {
         "type": "Point",
@@ -1254,6 +1369,29 @@
         "lat": 54.172099,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393870"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537555,
+          54.13023
+        ]
+      },
+      "properties": {
+        "name": "Hampton Manor",
+        "place": "farm",
+        "postal_code": "IM4 1BA",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475393878,
+        "lon": -4.537555,
+        "lat": 54.13023,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393878"
       }
     },
     {
@@ -12612,8 +12750,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.498143,
-            54.15368
+            -4.498202,
+            54.153728
+          ],
+          [
+            -4.498158,
+            54.15375
+          ],
+          [
+            -4.498109,
+            54.1538
+          ],
+          [
+            -4.498079,
+            54.153859
           ],
           [
             -4.497898,
@@ -12628,8 +12778,8 @@
         "postal_code": "IM1 4HA;IM1 4EZ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987748,
-        "lon": -4.4980205,
-        "lat": 54.154414,
+        "lon": -4.498006357367888,
+        "lat": 54.15441391230235,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987748"
       }
@@ -17158,12 +17308,16 @@
             54.153625
           ],
           [
-            -4.497027,
-            54.153657
+            -4.496998,
+            54.153678
           ],
           [
-            -4.496758,
-            54.15512
+            -4.496995,
+            54.153817
+          ],
+          [
+            -4.496778,
+            54.155115
           ]
         ]
       },
@@ -17174,8 +17328,8 @@
         "postal_code": "IM1 4ET;IM1 4EX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25988773,
-        "lon": -4.496897170880139,
-        "lat": 54.15435460210772,
+        "lon": -4.496900494634139,
+        "lat": 54.15436640781752,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988773"
       }

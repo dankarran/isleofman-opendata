@@ -294,6 +294,24 @@
     },
     {
       "type": "Feature",
+      "id": 475392793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.569799,
+          54.107721
+        ]
+      },
+      "properties": {
+        "name": "Seafield",
+        "place": "farm",
+        "postal_code": "IM4 1HH",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392809,
       "geometry": {
         "type": "Point",
@@ -422,6 +440,24 @@
     },
     {
       "type": "Feature",
+      "id": 475392882,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.550703,
+          54.115217
+        ]
+      },
+      "properties": {
+        "name": "Balnahow Farm",
+        "place": "farm",
+        "postal_code": "IM4 1HN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392887,
       "geometry": {
         "type": "Point",
@@ -472,6 +508,24 @@
         "postal_code": "IM4 1HS",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475392955,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.563333,
+          54.103767
+        ]
+      },
+      "properties": {
+        "name": "Meary Voar",
+        "place": "farm",
+        "postal_code": "IM4 1HJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -700,6 +754,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.553671,
+          54.108956
+        ]
+      },
+      "properties": {
+        "name": "Meary Veg",
+        "place": "locality",
+        "postal_code": "IM4 1HL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393405,
       "geometry": {
         "type": "Point",
@@ -866,6 +938,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393542,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537747,
+          54.119265
+        ]
+      },
+      "properties": {
+        "name": "Ballacregga",
+        "place": "farm",
+        "postal_code": "IM4 1HN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393657,
       "geometry": {
         "type": "Point",
@@ -989,6 +1079,24 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "tourism": "chalet",
         "website": "https://www.iomfarmholidays.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393878,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537555,
+          54.13023
+        ]
+      },
+      "properties": {
+        "name": "Hampton Manor",
+        "place": "farm",
+        "postal_code": "IM4 1BA",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -11007,8 +11115,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.498143,
-            54.15368
+            -4.498202,
+            54.153728
+          ],
+          [
+            -4.498158,
+            54.15375
+          ],
+          [
+            -4.498109,
+            54.1538
+          ],
+          [
+            -4.498079,
+            54.153859
           ],
           [
             -4.497898,
@@ -15098,12 +15218,16 @@
             54.153625
           ],
           [
-            -4.497027,
-            54.153657
+            -4.496998,
+            54.153678
           ],
           [
-            -4.496758,
-            54.15512
+            -4.496995,
+            54.153817
+          ],
+          [
+            -4.496778,
+            54.155115
           ]
         ]
       },

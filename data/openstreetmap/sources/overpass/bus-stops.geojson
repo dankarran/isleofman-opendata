@@ -4143,8 +4143,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.492403,
-          54.155737
+          -4.492261,
+          54.155758
         ]
       },
       "properties": {
@@ -4161,8 +4161,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.493778,
-          54.155336
+          -4.493845,
+          54.155326
         ]
       },
       "properties": {
@@ -8407,8 +8407,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.485265,
-          54.170819
+          -4.4852,
+          54.170802
         ]
       },
       "properties": {
@@ -8416,7 +8416,8 @@
         "highway": "bus_stop",
         "name": "Willaston Shops Shelter",
         "public_transport": "platform",
-        "ref": "3103"
+        "ref": "3103",
+        "shelter": "yes"
       }
     },
     {
@@ -10164,8 +10165,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.498626,
-          54.153954
+          -4.498731,
+          54.154067
         ]
       },
       "properties": {
@@ -13709,8 +13710,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.492695,
-          54.155843
+          -4.492353,
+          54.155859
         ]
       },
       "properties": {
@@ -13727,8 +13728,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.49415,
-          54.155239
+          -4.494004,
+          54.155356
         ]
       },
       "properties": {
@@ -13736,7 +13737,8 @@
         "highway": "bus_stop",
         "name": "Westminster Drive Junction",
         "public_transport": "platform",
-        "ref": "20138"
+        "ref": "20138",
+        "shelter": "yes"
       }
     },
     {
@@ -13763,8 +13765,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.499466,
-          54.155007
+          -4.499484,
+          54.155011
         ]
       },
       "properties": {
@@ -13772,7 +13774,8 @@
         "highway": "bus_stop",
         "name": "Ballabrooie Drive Shelter",
         "public_transport": "platform",
-        "ref": "20136"
+        "ref": "20136",
+        "shelter": "yes"
       }
     },
     {
