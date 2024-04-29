@@ -86,8 +86,9 @@ def update_companies_list(sources, status):
                 # start on next page after full page retrieved
                 page = term_status["page"] + 1
             else:
-                # start on final page again, but skip the rows we've already seen
-                # TODO: may want to check contents as well, to ensure sort order is the same
+                # start on final page again
+                # TODO: skip the rows we've already seen
+                #       ... may want to check contents as well, to ensure sort order is the same
                 page = term_status["page"]
                 skip_rows = term_status["rows"]
 
@@ -95,10 +96,11 @@ def update_companies_list(sources, status):
             data = get_search_page(term, page)
 
             if not data.empty:
-                if skip_rows:
-                    print("    ", "Skipping first", skip_rows, "already retrieved")
-                    data = data.iloc[1:skip_rows, :]
-                    skip_rows = 0
+                # TODO: fix stats recording if skipping rows
+                #if skip_rows:
+                #    print("    ", "Skipping first", skip_rows, "already retrieved")
+                #    data = data.iloc[1:skip_rows, :]
+                #    skip_rows = 0
 
                 write_search_page(term, page, data)
 
