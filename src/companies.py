@@ -210,6 +210,6 @@ def read_terms_files(sources):
         else:
             print("      ", "WARNING: File missing for", term)
 
-    data = data.sort_values(by=["Number", "Index Date"])
+    data = data.sort_values(by=["Number", "Name", "Index Date"])
 
     return data
