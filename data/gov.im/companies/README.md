@@ -9,6 +9,7 @@ Information about companies registered on the Isle of Man.
   * Live companies index :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/companies/outputs/companies-live.csv)
   * Non-live companies index :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/companies/outputs/companies-non-live.csv)
   * Old company names index :spiral_notepad: [CSV](https://github.com/dankarran/isleofman-opendata/blob/main/data/gov.im/companies/outputs/old-names.csv)
+  * Registries (TBC, including name, suffix(es), company stats, and high watermark on numbers)
 
 ## Open data provider
 
@@ -29,9 +30,14 @@ Current search terms:
   * *FOUNDATION*
   * *PARTNER*
   * *CORP*
+  * *A*
+  * *E*
 
 TODO:
-  * consider most effective and efficient way of covering company names that aren't captured (e.g. vowels, numbers, all letters)
+  * consider most effective and efficient way of covering company names that aren't captured 
+    * vowels, numbers, all letters
+    * searching for company numbers missing from sequence
+    * requesting a complete list from the Companies Registry
 
 ## Other resources
 

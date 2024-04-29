@@ -122,7 +122,7 @@ def update_companies_list(sources, status):
 def get_search_page(term, page):
     url = registry_url + search_page + term + "&page=" + str(page)
 
-    print("    ", "Downloading results for", term, "from", url, "page", page)
+    print("    ", "Downloading results for search term", term, "from", url, "page", page)
     
     index_date = datetime.now().strftime("%Y-%m-%d")
 
@@ -136,17 +136,19 @@ def get_search_page(term, page):
 
         rows = []
         for row in table_rows:
-            name_link = row.find_all("td")[0].find_all("a")[0]
+            tds = row.find_all("td")
+
+            name_link = tds[0].find_all("a")[0]
             name = str(name_link.contents[0])
             url = registry_url + str(name_link.get("href")).strip()
 
             rows.append({
                 "Name": name,
-                "Number": str(row.find_all("td")[1].contents[0]),
-                "Inc/Reg Date": str(row.find_all("td")[2].contents[0]),
-                "Status": str(row.find_all("td")[3].contents[0]),
-                "Registry Type": str(row.find_all("td")[4].contents[0]),
-                "Name Status": str(row.find_all("td")[5].contents[0]),
+                "Number": str(tds[1].contents[0]),
+                "Inc/Reg Date": str(tds[2].contents[0]),
+                "Status": str(tds[3].contents[0]),
+                "Registry Type": str(tds[4].contents[0]),
+                "Name Status": str(tds[5].contents[0]),
                 "URL": url,
                 "Index Date": index_date
             })
@@ -208,6 +210,6 @@ def read_terms_files(sources):
         else:
             print("      ", "WARNING: File missing for", term)
 
-    data = data.sort_values(by=["Number"])
+    data = data.sort_values(by=["Number", "Index Date"])
 
     return data
