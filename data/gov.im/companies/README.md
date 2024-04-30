@@ -34,7 +34,7 @@ Current search terms:
 
 TODO:
   * consider most effective and efficient way of covering company names that aren't captured 
-    * numbers, all letters
+    * numbers, all letters (note individual letter searches don't always return all names that include that letter)
     * searching for company numbers missing from sequence
     * requesting a complete list from the Companies Registry, ideally including details that would otherwise require crawling individual company pages
 

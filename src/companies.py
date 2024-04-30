@@ -61,20 +61,39 @@ def process_data(data):
     data["Suffix"] = data["Number"].str.slice(start=6, stop=7)
 
     registries = data[["Registry Type", "Numeric", "Suffix"]]
+    # TODO: company count by registry
     registries = registries.drop_duplicates(subset=["Registry Type", "Suffix"], keep="last")
     registries = registries.rename(columns={"Numeric": "Latest Number"})
     registries = registries.sort_values(by=["Registry Type"])
 
-    # TODO: unindexed companies
+    full_list = pd.DataFrame(columns=["Number"])
+    for index, row in registries.iterrows():
+        registry_list = pd.DataFrame(company_list(row["Latest Number"], row['Suffix']))
+        registry_list = registry_list.rename(columns={0: "Number"})
+        full_list = pd.concat([full_list, registry_list], ignore_index=True)
+
+    unindexed = full_list[~full_list.Number.isin(data["Number"])]
 
     data = {
         "companies-live": companies_live,
         "companies-non-live": companies_non_live,
         "old-names": old_names,
-        "registries": registries
+        "registries": registries,
+        "company-numbers-full": full_list,
+        "company-numbers-unindexed": unindexed
     }
 
     return data
+
+
+def company_list(count, suffix):
+    company_numbers = list(range(1, count))
+
+    formatted = []
+    for company in company_numbers:
+        formatted.append(str(company).zfill(6) + suffix)
+
+    return formatted
 
 
 def write_data(data):
