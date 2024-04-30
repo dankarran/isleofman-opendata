@@ -217,12 +217,13 @@ def generate_postcode_boundaries(sources, data):
     gdf = gdf[~gdf['postcode'].isin(non_geographic["postcode"])]
 
     # calculate districts (e.g. IM1), sectors (e.g. IM1 1) and sectors plus alpha (e.g. IM1 1A)
+    gdf["area"] = gdf["postcode"]
     gdf["district"] = gdf["postcode"].str.slice(start=0, stop=3)
     gdf["sector"] = gdf["postcode"].str.slice(start=0, stop=5)
     gdf["sector_alpha"] = gdf["postcode"].str.slice(start=0, stop=6)
 
     # write files
-    for dataset in ["district", "sector", "sector_alpha"]:
+    for dataset in ["district", "sector", "sector_alpha", "area"]:
         plural = dataset + "s"
 
         convex_hull = gdf.dissolve(dataset).convex_hull
@@ -258,6 +259,13 @@ def print_datasets_markdown(sources):
             "label": "postcode_sector_alphas",
             "directory": "postcodes",
             "title": "Postcode sectors plus alpha (e.g. IM1 1A)",
+            "group": "Addressing",
+            "output_formats": ["geojson"],
+        },
+        {
+            "label": "postcode_areas",
+            "directory": "postcodes",
+            "title": "Postcode areas (e.g. IM1 1AA)",
             "group": "Addressing",
             "output_formats": ["geojson"],
         }
