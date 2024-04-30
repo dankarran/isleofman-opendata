@@ -62155,6 +62155,53 @@
     },
     {
       "type": "Feature",
+      "id": 166769263,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.657957,
+            54.202489
+          ],
+          [
+            -4.658018,
+            54.202464
+          ],
+          [
+            -4.658034,
+            54.202477
+          ],
+          [
+            -4.658079,
+            54.202459
+          ],
+          [
+            -4.65812,
+            54.202494
+          ],
+          [
+            -4.658013,
+            54.202537
+          ],
+          [
+            -4.657957,
+            54.202489
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "St Johns",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 3BP",
+        "addr:street": "Patrick Road",
+        "building": "house",
+        "name": "Rose Cottage",
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/stay/rose-cottage-st-johns-p1290221"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 166769399,
       "geometry": {
         "type": "LineString",
@@ -127767,6 +127814,68 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1278266972,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.653009,
+            54.203145
+          ],
+          [
+            -4.652884,
+            54.20338
+          ],
+          [
+            -4.652722,
+            54.203351
+          ],
+          [
+            -4.652749,
+            54.2033
+          ],
+          [
+            -4.65268,
+            54.203287
+          ],
+          [
+            -4.652617,
+            54.203405
+          ],
+          [
+            -4.652528,
+            54.203389
+          ],
+          [
+            -4.652635,
+            54.203187
+          ],
+          [
+            -4.652855,
+            54.203226
+          ],
+          [
+            -4.652908,
+            54.203126
+          ],
+          [
+            -4.653009,
+            54.203145
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "St Johns",
+        "addr:housename": "Lakeside",
+        "addr:postcode": "IM4 3BP",
+        "addr:street": "Patrick Road",
+        "building": "yes",
+        "name": "The Old Trout Farm",
+        "source": "Isle of Man Government Companies Registry"
       }
     }
   ]

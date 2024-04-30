@@ -1047,6 +1047,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.530322,
+          54.327408
+        ]
+      },
+      "properties": {
+        "name": "Close Sartfield",
+        "place": "farm",
+        "postal_code": "IM7 5BL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393792,
       "geometry": {
         "type": "Point",
@@ -1927,6 +1945,24 @@
         "postal_code": "IM4 7QB",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475394931,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.658594,
+          54.200623
+        ]
+      },
+      "properties": {
+        "name": "Glenaspet",
+        "place": "farm",
+        "postal_code": "IM4 3BP",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
