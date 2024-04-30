@@ -35,6 +35,10 @@ A variety of Isle of Man datasets extracted from OpenStreetMap.
 
   * [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792)
 
+## Known issues
+
+  * *Incomplete data* - OpenStreetMap is a community created map, which doesn't include details about everything (yet). If you see anything missing, or incorrect details, you can go to the map and either edit it yourself or leave a note for an editor to investigate further - remember to include as much detail as possible.
+
 ## Other resources
 
   * [Overpass Turbo OpenStreetMap query tool](https://www.overpass-turbo.eu)
