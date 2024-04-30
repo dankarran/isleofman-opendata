@@ -57,10 +57,21 @@ def process_data(data):
     old_names = data[data["Name Status"].isin(["Previous"])]
     old_names = old_names.drop_duplicates(subset=["Name", "Number", "Registry Type"], keep="last")
 
+    data["Numeric"] = pd.to_numeric(data["Number"].str.slice(start=0, stop=6))
+    data["Suffix"] = data["Number"].str.slice(start=6, stop=7)
+
+    registries = data[["Registry Type", "Numeric", "Suffix"]]
+    registries = registries.drop_duplicates(subset=["Registry Type", "Suffix"], keep="last")
+    registries = registries.rename(columns={"Numeric": "Latest Number"})
+    registries = registries.sort_values(by=["Registry Type"])
+
+    # TODO: unindexed companies
+
     data = {
         "companies-live": companies_live,
         "companies-non-live": companies_non_live,
-        "old-names": old_names
+        "old-names": old_names,
+        "registries": registries
     }
 
     return data
