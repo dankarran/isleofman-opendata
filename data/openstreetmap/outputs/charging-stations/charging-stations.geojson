@@ -312,6 +312,31 @@
     },
     {
       "type": "Feature",
+      "id": 11874821150,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.631148,
+          54.09753
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "opening_hours": "24/7",
+        "operator": "Pod Point",
+        "ref_name": "Page-Jake",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 11874821150,
+        "lon": -4.631148,
+        "lat": 54.09753,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11874821150"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1165384236,
       "geometry": {
         "type": "LineString",

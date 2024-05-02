@@ -7547,6 +7547,30 @@
     },
     {
       "type": "Feature",
+      "id": 11874165105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485185,
+          54.158185
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 3EG",
+        "addr:street": "Hilary Road",
+        "amenity": "dentist",
+        "contact:facebook": "https://www.facebook.com/HilaryRoadDentalPractice",
+        "email": "hilaryroaddentalpractice@yahoo.co.uk",
+        "healthcare": "dentist",
+        "name": "Hilary Road Dental Practice",
+        "opening_hours": "Mo-Fr 08:30-18:00",
+        "phone": "+44 1624 675195"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -73445,11 +73469,11 @@
       },
       "properties": {
         "addr:city": "Ballasalla",
+        "addr:country": "IM",
         "addr:housenumber": "40",
         "addr:postcode": "IM9 2EF",
         "addr:street": "Silverburn Drive",
         "building": "yes",
-        "name": "40 Siverburn Drive",
         "source": "Bing"
       }
     },

@@ -300,6 +300,29 @@
     },
     {
       "type": "Feature",
+      "id": 475392766,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.393817,
+          54.383054
+        ]
+      },
+      "properties": {
+        "name": "Ballakeigh",
+        "place": "farm",
+        "postal_code": "IM7 4BA",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475392766,
+        "lon": -4.393817,
+        "lat": 54.383054,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392766"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392773,
       "geometry": {
         "type": "Point",
@@ -1184,6 +1207,29 @@
         "lat": 54.213839,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393516"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393527,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.403634,
+          54.385497
+        ]
+      },
+      "properties": {
+        "name": "Upper Ballaghennie",
+        "place": "farm",
+        "postal_code": "IM7 4BF",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475393527,
+        "lon": -4.403634,
+        "lat": 54.385497,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393527"
       }
     },
     {
@@ -2657,6 +2703,29 @@
         "lat": 54.266391,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475395067"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475395077,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.402386,
+          54.378639
+        ]
+      },
+      "properties": {
+        "name": "West Kimmeragh Farm",
+        "place": "farm",
+        "postal_code": "IM7 4BA",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 475395077,
+        "lon": -4.402386,
+        "lat": 54.378639,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475395077"
       }
     },
     {
@@ -7420,6 +7489,86 @@
     },
     {
       "type": "Feature",
+      "id": 25986643,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.391694,
+            54.380831
+          ],
+          [
+            -4.391664,
+            54.380893
+          ],
+          [
+            -4.391622,
+            54.380934
+          ],
+          [
+            -4.39158,
+            54.380959
+          ],
+          [
+            -4.391544,
+            54.380972
+          ],
+          [
+            -4.391504,
+            54.380979
+          ],
+          [
+            -4.391456,
+            54.380981
+          ],
+          [
+            -4.391408,
+            54.380978
+          ],
+          [
+            -4.391284,
+            54.380964
+          ],
+          [
+            -4.39118,
+            54.380959
+          ],
+          [
+            -4.391019,
+            54.380963
+          ],
+          [
+            -4.390844,
+            54.380989
+          ],
+          [
+            -4.390382,
+            54.381071
+          ],
+          [
+            -4.390308,
+            54.381025
+          ],
+          [
+            -4.390268,
+            54.380908
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Ayre View",
+        "postal_code": "IM7 4AY",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 25986643,
+        "lon": -4.390965619894749,
+        "lat": 54.380984047957014,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986643"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986644,
       "geometry": {
         "type": "LineString",
@@ -10157,6 +10306,42 @@
     },
     {
       "type": "Feature",
+      "id": 25987226,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390089,
+            54.382097
+          ],
+          [
+            -4.389988,
+            54.38216
+          ],
+          [
+            -4.389851,
+            54.382197
+          ],
+          [
+            -4.38963,
+            54.382209
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Ballakilley Close",
+        "postal_code": "IM7 4AU",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 25987226,
+        "lon": -4.389866725246288,
+        "lat": 54.38217740224879,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987226"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987231,
       "geometry": {
         "type": "LineString",
@@ -12156,6 +12341,42 @@
         "lat": 54.17952383476331,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987597"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987603,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390459,
+            54.381211
+          ],
+          [
+            -4.390441,
+            54.381186
+          ],
+          [
+            -4.390422,
+            54.381118
+          ],
+          [
+            -4.390382,
+            54.381071
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Ayre View",
+        "postal_code": "IM7 4AY",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 25987603,
+        "lon": -4.390423832706314,
+        "lat": 54.38113902694716,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987603"
       }
     },
     {

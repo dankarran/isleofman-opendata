@@ -1,0 +1,3243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 449276695,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.630822,
+          54.097988
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:postcode": "IM9 2RQ",
+        "addr:street": "Ballasalla Main Road",
+        "amenity": "doctors",
+        "healthcare": "doctor",
+        "name": "Ballasalla Medical Centre",
+        "website": "https://www.ballasallamedicalcentre.im",
+        "osm_id": 449276695,
+        "lon": -4.630822,
+        "lat": 54.097988,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/449276695"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 685338634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485238,
+          54.154184
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Craigend",
+        "addr:housenumber": "1",
+        "addr:street": "Kensington Road",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Craigend",
+        "phone": "01624613323",
+        "osm_id": 685338634,
+        "lon": -4.485238,
+        "lat": 54.154184,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/685338634"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 685338708,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484808,
+          54.155393
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM1 3AL",
+        "addr:street": "Woodbourne Road",
+        "addr:substreet": "Prospect Terrace",
+        "amenity": "pharmacy",
+        "brand": "Lloyds Pharmacy",
+        "brand:wikidata": "Q6662870",
+        "brand:wikipedia": "en:LloydsPharmacy",
+        "healthcare": "pharmacy",
+        "name": "Lloyds Pharmacy",
+        "osm_id": 685338708,
+        "lon": -4.484808,
+        "lat": 54.155393,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/685338708"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069288889,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482052,
+          54.161261
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 5DF",
+        "addr:street": "Ballaquayle Road",
+        "amenity": "pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Kinrade's Pharmacy",
+        "operator": "Edwin Kinrade",
+        "website": "http://www.kinradespharmacy.co.uk",
+        "osm_id": 1069288889,
+        "lon": -4.482052,
+        "lat": 54.161261,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1069288889"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1666028132,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756079,
+          54.086641
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:postcode": "IM9 6AL",
+        "addr:street": "Bridson Street",
+        "addr:unit": "10",
+        "amenity": "clinic",
+        "contact:phone": "+44 1624 835999",
+        "contact:website": "www.notonlybacks.com",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Not Only Backs Osteopathic Clinic",
+        "osm_id": 1666028132,
+        "lon": -4.756079,
+        "lat": 54.086641,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1666028132"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4633496982,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490281,
+          54.151945
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM1 4QA",
+        "addr:street": "Westmoreland Road",
+        "amenity": "doctors",
+        "entrance": "main",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Kensington Health Centre",
+        "source:addr": "DHSC GP list",
+        "osm_id": 4633496982,
+        "lon": -4.490281,
+        "lat": 54.151945,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/4633496982"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4633496983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.489983,
+          54.152169
+        ]
+      },
+      "properties": {
+        "entrance": "main",
+        "healthcare": "clinic",
+        "name": "Central Community Health Centre",
+        "osm_id": 4633496983,
+        "lon": -4.489983,
+        "lat": 54.152169,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/4633496983"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4633496984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490254,
+          54.15216
+        ]
+      },
+      "properties": {
+        "entrance": "main",
+        "healthcare": "psychotherapist",
+        "name": "Psychological Therapies Service",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Isle of Man Government Department of Health",
+        "source": "survey",
+        "osm_id": 4633496984,
+        "lon": -4.490254,
+        "lat": 54.15216,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/4633496984"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4633496985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490634,
+          54.151841
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM1 4BR",
+        "addr:street": "Ballakermeen Road",
+        "amenity": "dentist",
+        "contact:phone": "+44 1624 642389",
+        "entrance": "main",
+        "healthcare": "dentist",
+        "name": "Ravat & Ray Dental Care",
+        "opening_hours": "Mo-Fr 08:00-13:00, 14:00-17:00",
+        "operator": "Ravat & Ray Dental Care (Douglas) Ltd, Meena Aduma BDS, Johannes De Lange BChD",
+        "osm_id": 4633496985,
+        "lon": -4.490634,
+        "lat": 54.151841,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/4633496985"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5159163410,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485501,
+          54.147109
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 5AF",
+        "addr:street": "Lake Road",
+        "email": "info@align4life.com",
+        "entrance": "main",
+        "healthcare": "alternative",
+        "healthcare:speciality": "chiropractic",
+        "level": "0",
+        "name": "Align 4 Life",
+        "opening_hours": "Mo-Th 15:30-18:30 || Mo,We-Th 08:00-13:00,15:00-15:30 || Tu 11:30-13:30 || Fr 10:30-15:00",
+        "operator": "Align 4 Life",
+        "phone": "+44 1624 629444",
+        "source": "survey",
+        "website": "https://www.isleofmanchiropractor.com/",
+        "osm_id": 5159163410,
+        "lon": -4.485501,
+        "lat": 54.147109,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/5159163410"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5159163411,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485416,
+          54.147056
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 5AF",
+        "addr:street": "Lake Road",
+        "email": "info@fhc.co.im",
+        "entrance": "main",
+        "healthcare": "alternative",
+        "healthcare:speciality": "chiropody;podiatry",
+        "level": "1",
+        "name": "The Foot Health Clinic",
+        "opening_hours": "Tu,Fr 09:30-17:30; We-Th 11:00-19:00; Sa 09:30-13:30",
+        "operator": "The Foot Health Clinic",
+        "phone": "+44 1624 620712",
+        "source": "survey",
+        "website": "https://www.fhc.co.im/",
+        "osm_id": 5159163411,
+        "lon": -4.485416,
+        "lat": 54.147056,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/5159163411"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8922119933,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480113,
+          54.152865
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM1 2PG",
+        "addr:street": "Market Street",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Finch Hill Health Centre",
+        "note": "was Promenade Medical Centre, Finch Hill Health Centre moved here in 2021",
+        "operator": "Manx Care",
+        "osm_id": 8922119933,
+        "lon": -4.480113,
+        "lat": 54.152865,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/8922119933"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10018738330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486371,
+          54.153651
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Tracey Bell Clinic",
+        "addr:postcode": "IM1 3PE",
+        "addr:street": "Kensington Road",
+        "amenity": "dentist",
+        "currency:XBT": "yes",
+        "healthcare": "dentist",
+        "name": "Tracey Bell Clinic",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+441624613323",
+        "survey:date": "2022-09-24",
+        "website": "https://www.traceybell.co.uk/",
+        "osm_id": 10018738330,
+        "lon": -4.486371,
+        "lat": 54.153651,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10018738330"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10294828685,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.387708,
+          54.322555
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "brand": "Clear Pharmacy",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "source": "mapillary",
+        "osm_id": 10294828685,
+        "lon": -4.387708,
+        "lat": 54.322555,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10294828685"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10297500671,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.404022,
+          54.229992
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:housenumber": "39",
+        "addr:postcode": "IM4 7BQ",
+        "addr:street": "New Road",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Laxey Dental Surgery",
+        "website": "https://www.laxeydental.co.uk",
+        "osm_id": 10297500671,
+        "lon": -4.404022,
+        "lat": 54.229992,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10297500671"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10631164328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.51838,
+          54.150701
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "brand": "Lloyds Pharmacy",
+        "brand:wikidata": "Q6662870",
+        "brand:wikipedia": "en:LloydsPharmacy",
+        "dispensing": "yes",
+        "entrance": "main",
+        "healthcare": "pharmacy",
+        "name": "Lloyds Pharmacy",
+        "osm_id": 10631164328,
+        "lon": -4.51838,
+        "lat": 54.150701,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10631164328"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10631164329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.518618,
+          54.150671
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 2BZ",
+        "addr:street": "Cushag Road",
+        "amenity": "clinic",
+        "entrance": "main",
+        "healthcare": "clinic",
+        "mapillary": "582680626268032",
+        "name": "Snaefell Surgery",
+        "operator": "Manx Care",
+        "source:addr": "DHSC GP list",
+        "website": "https://www.snaefell-iom.com",
+        "osm_id": 10631164329,
+        "lon": -4.518618,
+        "lat": 54.150671,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10631164329"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10688883210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.631013,
+          54.098739
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
+        "addr:street": "Ballasalla Main Road",
+        "amenity": "pharmacy",
+        "contact:facebook": "https://www.facebook.com/costainpharmacy",
+        "description": "Sited within Ye Olde Bakery",
+        "healthcare": "pharmacy",
+        "name": "Costain Pharmacy",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "osm_id": 10688883210,
+        "lon": -4.631013,
+        "lat": 54.098739,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10688883210"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10727454316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488877,
+          54.152431
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM1 4AN",
+        "addr:street": "Westmoreland Road",
+        "healthcare": "alternative",
+        "healthcare:speciality": "chiropractic",
+        "name": "Ellan Vannin Chiropractic Clinic",
+        "source": "mapillary",
+        "website": "https://www.evchiropractic.co.uk/",
+        "osm_id": 10727454316,
+        "lon": -4.488877,
+        "lat": 54.152431,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10727454316"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10829691496,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379561,
+          54.320747
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "5-6",
+        "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LE",
+        "addr:street": "Saint Paul's Square",
+        "amenity": "pharmacy",
+        "brand": "Clear Pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "osm_id": 10829691496,
+        "lon": -4.379561,
+        "lat": 54.320747,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10829691496"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11167079594,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.745883,
+          54.084233
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:housename": "Thie Rosien",
+        "addr:postcode": "IM9 6DP",
+        "addr:street": "Castletown Road",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Rosien Dental",
+        "website": "https://rosien.im",
+        "osm_id": 11167079594,
+        "lon": -4.745883,
+        "lat": 54.084233,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11167079594"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11734818934,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485973,
+          54.156687
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:street": "Woodburn Square",
+        "amenity": "dentist",
+        "building": "house",
+        "contact:phone": "+44 1624 621440",
+        "description": "Dental referral clinic",
+        "healthcare": "dentist",
+        "name": "The Square",
+        "opening_hours": "Mo-Th 09:00-17:00, Fr 09:00-14:00",
+        "osm_id": 11734818934,
+        "lon": -4.485973,
+        "lat": 54.156687,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11734818934"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11874165105,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485185,
+          54.158185
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 3EG",
+        "addr:street": "Hilary Road",
+        "amenity": "dentist",
+        "contact:facebook": "https://www.facebook.com/HilaryRoadDentalPractice",
+        "email": "hilaryroaddentalpractice@yahoo.co.uk",
+        "healthcare": "dentist",
+        "name": "Hilary Road Dental Practice",
+        "opening_hours": "Mo-Fr 08:30-18:00",
+        "phone": "+44 1624 675195",
+        "osm_id": 11874165105,
+        "lon": -4.485185,
+        "lat": 54.158185,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11874165105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60048718,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756715,
+            54.086493
+          ],
+          [
+            -4.756906,
+            54.086504
+          ],
+          [
+            -4.756941,
+            54.086289
+          ],
+          [
+            -4.75675,
+            54.086278
+          ],
+          [
+            -4.756715,
+            54.086493
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Orange Grove House",
+        "addr:street": "Orchard Road",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "postal_code": "IM9 6DJ",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 60048718,
+        "lon": -4.756828000000001,
+        "lat": 54.086391000000006,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60048718"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67761902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.630014,
+            54.095902
+          ],
+          [
+            -4.629927,
+            54.095919
+          ],
+          [
+            -4.629803,
+            54.095943
+          ],
+          [
+            -4.629738,
+            54.095831
+          ],
+          [
+            -4.629874,
+            54.095804
+          ],
+          [
+            -4.629891,
+            54.095835
+          ],
+          [
+            -4.629967,
+            54.09582
+          ],
+          [
+            -4.630014,
+            54.095902
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM9 2DR",
+        "addr:street": "Silverburn Drive",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Abbey Dental",
+        "opening_hours": "Mo,Tu,Th 08:30-12:30,13:30-17:30, We 08:30-12:30,13:30-18:30, Fr 08:30-13:00",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.abbeydental.info/",
+        "osm_id": 67761902,
+        "lon": -4.62987422946373,
+        "lat": 54.09587041741441,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/67761902"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99861954,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.654017,
+            54.074211
+          ],
+          [
+            -4.65396,
+            54.07421
+          ],
+          [
+            -4.653977,
+            54.074174
+          ],
+          [
+            -4.654034,
+            54.074175
+          ],
+          [
+            -4.654101,
+            54.074146
+          ],
+          [
+            -4.654196,
+            54.074236
+          ],
+          [
+            -4.654085,
+            54.074273
+          ],
+          [
+            -4.654017,
+            54.074211
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:street": "Malew Street",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:colour": "blue",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "healthcare": "pharmacy",
+        "name": "Castle Pharmacy",
+        "osm_id": 99861954,
+        "lon": -4.654077457540823,
+        "lat": 54.07420883406362,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/99861954"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 100464857,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.654013,
+            54.073606
+          ],
+          [
+            -4.65397,
+            54.073643
+          ],
+          [
+            -4.65399,
+            54.073681
+          ],
+          [
+            -4.653859,
+            54.073704
+          ],
+          [
+            -4.653814,
+            54.07361
+          ],
+          [
+            -4.65384,
+            54.073591
+          ],
+          [
+            -4.653875,
+            54.073583
+          ],
+          [
+            -4.653911,
+            54.073582
+          ],
+          [
+            -4.653948,
+            54.073588
+          ],
+          [
+            -4.654013,
+            54.073606
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:street": "Malew Street",
+        "amenity": "pharmacy",
+        "brand": "Lloyds Pharmacy",
+        "brand:wikidata": "Q6662870",
+        "brand:wikipedia": "en:LloydsPharmacy",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "listed_status": "Registered",
+        "name": "Lloyds Pharmacy",
+        "opening_hours": "Mo-Fr 09:00-17:30; Sa 09:00-13:00",
+        "ref:registered_building": "31",
+        "source": "survey",
+        "url:registered_building": "https://www.gov.im/media/631697/0500031regbld-1-malew-street.pdf",
+        "wikidata": "Q118188582",
+        "osm_id": 100464857,
+        "lon": -4.65391405511032,
+        "lat": 54.073637458330566,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/100464857"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101393050,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745063,
+            54.085037
+          ],
+          [
+            -4.745115,
+            54.084975
+          ],
+          [
+            -4.745019,
+            54.084947
+          ],
+          [
+            -4.745037,
+            54.084925
+          ],
+          [
+            -4.744956,
+            54.084902
+          ],
+          [
+            -4.744939,
+            54.084922
+          ],
+          [
+            -4.744815,
+            54.084887
+          ],
+          [
+            -4.744793,
+            54.084913
+          ],
+          [
+            -4.744654,
+            54.084873
+          ],
+          [
+            -4.74459,
+            54.084951
+          ],
+          [
+            -4.744711,
+            54.084986
+          ],
+          [
+            -4.744635,
+            54.085077
+          ],
+          [
+            -4.744771,
+            54.085117
+          ],
+          [
+            -4.744876,
+            54.084992
+          ],
+          [
+            -4.744915,
+            54.085003
+          ],
+          [
+            -4.744881,
+            54.085043
+          ],
+          [
+            -4.745002,
+            54.085078
+          ],
+          [
+            -4.745041,
+            54.085031
+          ],
+          [
+            -4.745063,
+            54.085037
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 6BD",
+        "addr:street": "Castletown Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Southern Group Practice",
+        "website": "https://www.southerngp.co.uk",
+        "osm_id": 101393050,
+        "lon": -4.744838166152834,
+        "lat": 54.08498756962896,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101393050"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101790168,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738745,
+            54.073971
+          ],
+          [
+            -4.738739,
+            54.074027
+          ],
+          [
+            -4.73888,
+            54.074033
+          ],
+          [
+            -4.739014,
+            54.074039
+          ],
+          [
+            -4.739019,
+            54.074006
+          ],
+          [
+            -4.738889,
+            54.074
+          ],
+          [
+            -4.738892,
+            54.073978
+          ],
+          [
+            -4.738745,
+            54.073971
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM9 5DN",
+        "addr:street": "High Street",
+        "amenity": "dentist",
+        "building": "office",
+        "healthcare": "dentist",
+        "name": "Port Saint Mary Dental Practice",
+        "phone": "+44 1624 833234",
+        "website": "https://www.psmdp.com/",
+        "osm_id": 101790168,
+        "lon": -4.738874934010896,
+        "lat": 54.07400925664918,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101790168"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812236,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739033,
+            54.077111
+          ],
+          [
+            -4.738957,
+            54.077057
+          ],
+          [
+            -4.739073,
+            54.077003
+          ],
+          [
+            -4.739274,
+            54.076907
+          ],
+          [
+            -4.73932,
+            54.076941
+          ],
+          [
+            -4.739179,
+            54.077008
+          ],
+          [
+            -4.739208,
+            54.077028
+          ],
+          [
+            -4.739033,
+            54.077111
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Manchester House",
+        "addr:postcode": "IM9 5AG",
+        "addr:street": "Bay View Road",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im/",
+        "osm_id": 101812236,
+        "lon": -4.739142405711958,
+        "lat": 54.077008365840356,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101812236"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812317,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738175,
+            54.076441
+          ],
+          [
+            -4.738238,
+            54.076482
+          ],
+          [
+            -4.738361,
+            54.076417
+          ],
+          [
+            -4.738351,
+            54.076411
+          ],
+          [
+            -4.738423,
+            54.076371
+          ],
+          [
+            -4.738404,
+            54.076359
+          ],
+          [
+            -4.73848,
+            54.076318
+          ],
+          [
+            -4.738444,
+            54.076295
+          ],
+          [
+            -4.738303,
+            54.076371
+          ],
+          [
+            -4.738175,
+            54.076441
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Sefton House",
+        "addr:postcode": "IM9 5AQ",
+        "addr:street": "Bay View Road",
+        "building": "yes",
+        "healthcare": "physiotherapist",
+        "name": "PSM Sports Injury and Rehabilitation Clinic",
+        "osm_id": 101812317,
+        "lon": -4.7383330690522225,
+        "lat": 54.07638822719159,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101812317"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102785206,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.381996,
+            54.321675
+          ],
+          [
+            -4.381876,
+            54.32165
+          ],
+          [
+            -4.381923,
+            54.321567
+          ],
+          [
+            -4.381935,
+            54.321552
+          ],
+          [
+            -4.381976,
+            54.321481
+          ],
+          [
+            -4.382015,
+            54.321427
+          ],
+          [
+            -4.382087,
+            54.321442
+          ],
+          [
+            -4.382063,
+            54.321481
+          ],
+          [
+            -4.382113,
+            54.321492
+          ],
+          [
+            -4.381996,
+            54.321675
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM8 1AS",
+        "addr:street": "Parliament Street",
+        "amenity": "pharmacy",
+        "brand": "Clear Pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "osm_id": 102785206,
+        "lon": -4.3820010151248345,
+        "lat": 54.321552442450475,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102785206"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104794522,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.503048,
+            54.173847
+          ],
+          [
+            -4.502446,
+            54.173888
+          ],
+          [
+            -4.502421,
+            54.173758
+          ],
+          [
+            -4.503111,
+            54.173712
+          ],
+          [
+            -4.503048,
+            54.173385
+          ],
+          [
+            -4.503161,
+            54.173378
+          ],
+          [
+            -4.503164,
+            54.173396
+          ],
+          [
+            -4.503212,
+            54.173393
+          ],
+          [
+            -4.503225,
+            54.173459
+          ],
+          [
+            -4.503327,
+            54.173452
+          ],
+          [
+            -4.503328,
+            54.173459
+          ],
+          [
+            -4.503428,
+            54.173453
+          ],
+          [
+            -4.503442,
+            54.173525
+          ],
+          [
+            -4.503351,
+            54.173532
+          ],
+          [
+            -4.503353,
+            54.173541
+          ],
+          [
+            -4.503299,
+            54.173545
+          ],
+          [
+            -4.50334,
+            54.173755
+          ],
+          [
+            -4.503351,
+            54.173811
+          ],
+          [
+            -4.503314,
+            54.173832
+          ],
+          [
+            -4.503349,
+            54.174095
+          ],
+          [
+            -4.503293,
+            54.174131
+          ],
+          [
+            -4.503338,
+            54.174363
+          ],
+          [
+            -4.503156,
+            54.174488
+          ],
+          [
+            -4.502903,
+            54.174504
+          ],
+          [
+            -4.50288,
+            54.174377
+          ],
+          [
+            -4.503052,
+            54.174367
+          ],
+          [
+            -4.502954,
+            54.174321
+          ],
+          [
+            -4.503041,
+            54.174257
+          ],
+          [
+            -4.503137,
+            54.174301
+          ],
+          [
+            -4.503109,
+            54.174157
+          ],
+          [
+            -4.502979,
+            54.174165
+          ],
+          [
+            -4.502956,
+            54.174048
+          ],
+          [
+            -4.503085,
+            54.174039
+          ],
+          [
+            -4.503048,
+            54.173847
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Hospice, Isle of Man",
+        "addr:place": "Strang",
+        "addr:postcode": "IM4 4RP",
+        "building": "yes",
+        "charity": "yes",
+        "healthcare": "hospice",
+        "name": "Hospice, Isle of Man",
+        "operator": "Hospice Care",
+        "operator:type": "charitable",
+        "phone": "+44 1624 647400",
+        "ref:charity": "317",
+        "smoking": "no",
+        "source": "Bing",
+        "website": "https://www.hospice.org.im",
+        "osm_id": 104794522,
+        "lon": -4.503040078207592,
+        "lat": 54.17393238991956,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/104794522"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 110381382,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.519409,
+            54.359594
+          ],
+          [
+            -4.519816,
+            54.359721
+          ],
+          [
+            -4.519724,
+            54.359821
+          ],
+          [
+            -4.519156,
+            54.359643
+          ],
+          [
+            -4.519274,
+            54.359514
+          ],
+          [
+            -4.519321,
+            54.359464
+          ],
+          [
+            -4.519202,
+            54.359427
+          ],
+          [
+            -4.519269,
+            54.359354
+          ],
+          [
+            -4.519515,
+            54.359431
+          ],
+          [
+            -4.51955,
+            54.359442
+          ],
+          [
+            -4.519409,
+            54.359594
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Jurby",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 3BB",
+        "addr:street": "Ballamenagh Road",
+        "amenity": "doctors",
+        "building": "office",
+        "healthcare": "doctor",
+        "name": "Jurby Health Centre",
+        "operator": "Manx Care",
+        "source": "DHSC GP list",
+        "osm_id": 110381382,
+        "lon": -4.519452215280389,
+        "lat": 54.35959927016733,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/110381382"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112583135,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.586054,
+            54.284808
+          ],
+          [
+            -4.586198,
+            54.284875
+          ],
+          [
+            -4.58617,
+            54.284895
+          ],
+          [
+            -4.586285,
+            54.284949
+          ],
+          [
+            -4.586392,
+            54.284871
+          ],
+          [
+            -4.586352,
+            54.284853
+          ],
+          [
+            -4.586398,
+            54.28482
+          ],
+          [
+            -4.58633,
+            54.284788
+          ],
+          [
+            -4.586283,
+            54.284822
+          ],
+          [
+            -4.586234,
+            54.284799
+          ],
+          [
+            -4.586131,
+            54.284751
+          ],
+          [
+            -4.586054,
+            54.284808
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "The Village Pharmacy",
+        "osm_id": 112583135,
+        "lon": -4.586238281414596,
+        "lat": 54.284842869032154,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/112583135"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146972138,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694812,
+            54.222694
+          ],
+          [
+            -4.694689,
+            54.222701
+          ],
+          [
+            -4.694566,
+            54.222704
+          ],
+          [
+            -4.694565,
+            54.222622
+          ],
+          [
+            -4.694566,
+            54.222597
+          ],
+          [
+            -4.694521,
+            54.222572
+          ],
+          [
+            -4.69459,
+            54.22253
+          ],
+          [
+            -4.694681,
+            54.222574
+          ],
+          [
+            -4.694684,
+            54.222633
+          ],
+          [
+            -4.694804,
+            54.222628
+          ],
+          [
+            -4.694812,
+            54.222694
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6-8",
+        "addr:street": "Michael Street",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "osm_id": 146972138,
+        "lon": -4.694661657444295,
+        "lat": 54.222634057666745,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146972138"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147183390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692357,
+            54.222687
+          ],
+          [
+            -4.692404,
+            54.222635
+          ],
+          [
+            -4.692276,
+            54.2226
+          ],
+          [
+            -4.692236,
+            54.22265
+          ],
+          [
+            -4.692186,
+            54.222707
+          ],
+          [
+            -4.692312,
+            54.222745
+          ],
+          [
+            -4.692357,
+            54.222687
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "8-10",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Cowley Pharmacy",
+        "phone": "+44 1624 842264",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "osm_id": 147183390,
+        "lon": -4.692294897638584,
+        "lat": 54.222671665835726,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147183390"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158973978,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758873,
+            54.0858
+          ],
+          [
+            -4.758603,
+            54.085792
+          ],
+          [
+            -4.758584,
+            54.085865
+          ],
+          [
+            -4.758853,
+            54.085874
+          ],
+          [
+            -4.758873,
+            54.0858
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 6AQ",
+        "addr:street": "Church Road",
+        "amenity": "pharmacy",
+        "brand": "Lloyds Pharmacy",
+        "brand:wikidata": "Q6662870",
+        "brand:wikipedia": "en:LloydsPharmacy",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/LloydsPharmacyChurchRoadPortErin/",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Lloyds Pharmacy",
+        "opening_hours": "Mo-Fr 08:30-17:30, Sa 09:00-17:30",
+        "source": "survey",
+        "website": "https://lloydspharmacy.com/",
+        "osm_id": 158973978,
+        "lon": -4.75872850201876,
+        "lat": 54.08583270606392,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158973978"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159599531,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.6476,
+            54.076794
+          ],
+          [
+            -4.647723,
+            54.076951
+          ],
+          [
+            -4.647506,
+            54.07701
+          ],
+          [
+            -4.64732,
+            54.07706
+          ],
+          [
+            -4.647251,
+            54.076972
+          ],
+          [
+            -4.64748,
+            54.07691
+          ],
+          [
+            -4.647501,
+            54.076873
+          ],
+          [
+            -4.647468,
+            54.07683
+          ],
+          [
+            -4.6476,
+            54.076794
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:housename": "Castletown Medical Centre",
+        "addr:postcode": "IM9 1EX",
+        "addr:street": "Sandfield",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Castletown Medical Centre",
+        "source": "Bing",
+        "website": "https://www.castletownmedicalcentre.co.uk",
+        "osm_id": 159599531,
+        "lon": -4.647490591445225,
+        "lat": 54.07693858689845,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/159599531"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232262554,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479099,
+            54.179334
+          ],
+          [
+            -4.479051,
+            54.179338
+          ],
+          [
+            -4.479033,
+            54.17928
+          ],
+          [
+            -4.479057,
+            54.179263
+          ],
+          [
+            -4.479032,
+            54.179165
+          ],
+          [
+            -4.479009,
+            54.179167
+          ],
+          [
+            -4.478989,
+            54.179091
+          ],
+          [
+            -4.479128,
+            54.179078
+          ],
+          [
+            -4.479105,
+            54.178993
+          ],
+          [
+            -4.4792,
+            54.178984
+          ],
+          [
+            -4.479223,
+            54.179069
+          ],
+          [
+            -4.479252,
+            54.179066
+          ],
+          [
+            -4.479271,
+            54.179142
+          ],
+          [
+            -4.479113,
+            54.179157
+          ],
+          [
+            -4.479127,
+            54.179201
+          ],
+          [
+            -4.479216,
+            54.179193
+          ],
+          [
+            -4.479229,
+            54.179244
+          ],
+          [
+            -4.47914,
+            54.179252
+          ],
+          [
+            -4.479151,
+            54.179293
+          ],
+          [
+            -4.479099,
+            54.179334
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 7EA",
+        "addr:street": "Hailwood Court",
+        "amenity": "doctors",
+        "building": "hospital",
+        "building:levels": "1",
+        "healthcare": "doctor",
+        "name": "Hailwood Medical Practice",
+        "operator": "Manx Care",
+        "source": "Local Knowledge;DHSC GP list",
+        "osm_id": 232262554,
+        "lon": -4.4791319771535685,
+        "lat": 54.179156910762444,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/232262554"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232438919,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.510247,
+            54.173015
+          ],
+          [
+            -4.510296,
+            54.173001
+          ],
+          [
+            -4.510364,
+            54.173087
+          ],
+          [
+            -4.510124,
+            54.173152
+          ],
+          [
+            -4.510056,
+            54.173067
+          ],
+          [
+            -4.510117,
+            54.17305
+          ],
+          [
+            -4.50996,
+            54.172852
+          ],
+          [
+            -4.509902,
+            54.172868
+          ],
+          [
+            -4.509825,
+            54.172772
+          ],
+          [
+            -4.509883,
+            54.172756
+          ],
+          [
+            -4.509874,
+            54.172745
+          ],
+          [
+            -4.509837,
+            54.172698
+          ],
+          [
+            -4.509967,
+            54.172663
+          ],
+          [
+            -4.510013,
+            54.17272
+          ],
+          [
+            -4.510067,
+            54.172706
+          ],
+          [
+            -4.510144,
+            54.172803
+          ],
+          [
+            -4.51009,
+            54.172817
+          ],
+          [
+            -4.510247,
+            54.173015
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Braddan",
+        "addr:country": "IM",
+        "addr:place": "Strang Corner Field",
+        "addr:postcode": "IM2 3TD",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Palatine Health Centre",
+        "note:addr:postcode": "moved from Murrays Road in Douglas, retained IM2 postcode",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "Manx Care",
+        "phone": "+44 1624 623931",
+        "source": "survey;Bing",
+        "website": "http://www.palatinegrouppractice.im/",
+        "wheelchair": "designated",
+        "osm_id": 232438919,
+        "lon": -4.510079057409412,
+        "lat": 54.17290763699993,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/232438919"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246386232,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.677078,
+            54.2201
+          ],
+          [
+            -4.67731,
+            54.220149
+          ],
+          [
+            -4.677233,
+            54.220273
+          ],
+          [
+            -4.677001,
+            54.220224
+          ],
+          [
+            -4.677078,
+            54.2201
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:postcode": "IM5 1XF",
+        "addr:street": "Close Beg",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Regent Dental Practice",
+        "opening_hours": "Mo-Fr 09:00-13:00, 13:30-17:30",
+        "operator": "Regent Dental",
+        "payment:contactless": "yes",
+        "payment:debit_cards": "yes",
+        "website": "https://www.regentdental.im/our-practices-and-team/peel",
+        "osm_id": 246386232,
+        "lon": -4.6771555000000005,
+        "lat": 54.2201865,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/246386232"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246812770,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455645,
+            54.175646
+          ],
+          [
+            -4.455715,
+            54.175602
+          ],
+          [
+            -4.455874,
+            54.175688
+          ],
+          [
+            -4.455803,
+            54.175732
+          ],
+          [
+            -4.455645,
+            54.175646
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "7B",
+        "addr:place": "Village Walk",
+        "addr:postcode": "IM3 4EA",
+        "addr:street": "Avondale Road",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "level": "0",
+        "name": "The Compass, Dental Surgery",
+        "opening_hours": "Mo,Tu,Th,Fr 09:00-13:00; Mo,Tu,Th 14:00-18:00; We 11:00-14:00,15:00-18:00",
+        "phone": "+44 1624 622837",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
+        "osm_id": 246812770,
+        "lon": -4.455759436410804,
+        "lat": 54.17566703253455,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/246812770"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246812775,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455741,
+            54.176104
+          ],
+          [
+            -4.455674,
+            54.176146
+          ],
+          [
+            -4.455603,
+            54.176191
+          ],
+          [
+            -4.455541,
+            54.176158
+          ],
+          [
+            -4.455161,
+            54.17595
+          ],
+          [
+            -4.4553,
+            54.175863
+          ],
+          [
+            -4.455351,
+            54.175891
+          ],
+          [
+            -4.455369,
+            54.175901
+          ],
+          [
+            -4.455422,
+            54.17593
+          ],
+          [
+            -4.45557,
+            54.176011
+          ],
+          [
+            -4.455589,
+            54.176021
+          ],
+          [
+            -4.455635,
+            54.176046
+          ],
+          [
+            -4.455652,
+            54.176055
+          ],
+          [
+            -4.455741,
+            54.176104
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1B",
+        "addr:place": "Village Walk",
+        "addr:postcode": "IM3 4EA",
+        "addr:street": "Avondale Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "level": "0",
+        "name": "Village Walk Health Centre",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
+        "osm_id": 246812775,
+        "lon": -4.455450970848328,
+        "lat": 54.17602710271729,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/246812775"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 414251745,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484101,
+            54.147583
+          ],
+          [
+            -4.484151,
+            54.147673
+          ],
+          [
+            -4.483999,
+            54.147702
+          ],
+          [
+            -4.483948,
+            54.147611
+          ],
+          [
+            -4.484101,
+            54.147583
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9-10",
+        "addr:street": "North Quay",
+        "addr:substreet": "Clinch's Court",
+        "amenity": "dentist",
+        "building": "yes",
+        "building:levels": "2",
+        "healthcare": "dentist",
+        "name": "Quay Dental",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.quaydental.co.uk/",
+        "osm_id": 414251745,
+        "lon": -4.484049510563947,
+        "lat": 54.14764221757924,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/414251745"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 415157481,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47944,
+            54.152974
+          ],
+          [
+            -4.47942,
+            54.153026
+          ],
+          [
+            -4.479353,
+            54.153019
+          ],
+          [
+            -4.479346,
+            54.153033
+          ],
+          [
+            -4.479192,
+            54.153027
+          ],
+          [
+            -4.479112,
+            54.153022
+          ],
+          [
+            -4.479127,
+            54.15297
+          ],
+          [
+            -4.47944,
+            54.152974
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM1 2EX",
+        "addr:street": "Castle Street",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:facebook": "https://www.facebook.com/p/Clear-Pharmacy-100090155372570/",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "roof:shape": "flat",
+        "source": "Bing;photograph",
+        "website": "https://www.clearpharmacy.im",
+        "wheelchair": "limited",
+        "osm_id": 415157481,
+        "lon": -4.4792760457230445,
+        "lat": 54.15299936337538,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/415157481"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 415157520,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478966,
+            54.15274
+          ],
+          [
+            -4.478966,
+            54.152748
+          ],
+          [
+            -4.478937,
+            54.152747
+          ],
+          [
+            -4.478933,
+            54.152786
+          ],
+          [
+            -4.478871,
+            54.152786
+          ],
+          [
+            -4.478878,
+            54.152689
+          ],
+          [
+            -4.478972,
+            54.152693
+          ],
+          [
+            -4.478966,
+            54.15274
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "4",
+        "contact:phone": "+44 1624 623001",
+        "contact:website": "1dentalclinic.com",
+        "healthcare": "dentist",
+        "name": "1 Dental Clinic",
+        "osm_id": 415157520,
+        "lon": -4.47891766873049,
+        "lat": 54.152735155173666,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/415157520"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 418111622,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478884,
+            54.150697
+          ],
+          [
+            -4.478316,
+            54.150741
+          ],
+          [
+            -4.478233,
+            54.150618
+          ],
+          [
+            -4.478208,
+            54.15055
+          ],
+          [
+            -4.478288,
+            54.150544
+          ],
+          [
+            -4.478843,
+            54.150506
+          ],
+          [
+            -4.478864,
+            54.150605
+          ],
+          [
+            -4.478884,
+            54.150697
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "14-22",
+        "addr:postcode": "IM1 2EE",
+        "addr:street": "Strand Street",
+        "amenity": "pharmacy",
+        "brand": "Boots",
+        "brand:wikidata": "Q6123139",
+        "brand:wikipedia": "en:Boots (company)",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "healthcare": "pharmacy",
+        "name": "Boots",
+        "postal_code": "IM1 2FD",
+        "source": "Bing;photograph",
+        "website": "https://www.boots.com/stores/1153-isle-of-man-douglas-im1-2ee",
+        "osm_id": 418111622,
+        "lon": -4.4785557611077405,
+        "lat": 54.15062018943661,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/418111622"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 765929809,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.507688,
+            54.171791
+          ],
+          [
+            -4.507211,
+            54.171438
+          ],
+          [
+            -4.506187,
+            54.171034
+          ],
+          [
+            -4.504592,
+            54.171655
+          ],
+          [
+            -4.503815,
+            54.172035
+          ],
+          [
+            -4.503699,
+            54.172091
+          ],
+          [
+            -4.503621,
+            54.172275
+          ],
+          [
+            -4.503347,
+            54.172795
+          ],
+          [
+            -4.503313,
+            54.172959
+          ],
+          [
+            -4.503376,
+            54.173046
+          ],
+          [
+            -4.503301,
+            54.173291
+          ],
+          [
+            -4.50319,
+            54.173308
+          ],
+          [
+            -4.502742,
+            54.173374
+          ],
+          [
+            -4.501991,
+            54.17367
+          ],
+          [
+            -4.502079,
+            54.173781
+          ],
+          [
+            -4.502155,
+            54.173876
+          ],
+          [
+            -4.50241,
+            54.174311
+          ],
+          [
+            -4.502576,
+            54.174701
+          ],
+          [
+            -4.502673,
+            54.174928
+          ],
+          [
+            -4.502772,
+            54.174917
+          ],
+          [
+            -4.503722,
+            54.174884
+          ],
+          [
+            -4.504898,
+            54.174878
+          ],
+          [
+            -4.505791,
+            54.174924
+          ],
+          [
+            -4.505798,
+            54.175256
+          ],
+          [
+            -4.505991,
+            54.175551
+          ],
+          [
+            -4.506187,
+            54.175703
+          ],
+          [
+            -4.506265,
+            54.175763
+          ],
+          [
+            -4.506864,
+            54.175897
+          ],
+          [
+            -4.507314,
+            54.175737
+          ],
+          [
+            -4.507702,
+            54.175309
+          ],
+          [
+            -4.508134,
+            54.174323
+          ],
+          [
+            -4.507666,
+            54.172734
+          ],
+          [
+            -4.508005,
+            54.172165
+          ],
+          [
+            -4.507688,
+            54.171791
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "osm_id": 765929809,
+        "lon": -4.5053983639266475,
+        "lat": 54.17355914597761,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/765929809"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223952,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390977,
+            54.328731
+          ],
+          [
+            -4.391333,
+            54.32865
+          ],
+          [
+            -4.391363,
+            54.328696
+          ],
+          [
+            -4.391334,
+            54.328703
+          ],
+          [
+            -4.391369,
+            54.328756
+          ],
+          [
+            -4.391436,
+            54.328741
+          ],
+          [
+            -4.391506,
+            54.328847
+          ],
+          [
+            -4.391469,
+            54.328855
+          ],
+          [
+            -4.391507,
+            54.328912
+          ],
+          [
+            -4.39134,
+            54.328949
+          ],
+          [
+            -4.391288,
+            54.328871
+          ],
+          [
+            -4.391246,
+            54.32888
+          ],
+          [
+            -4.391219,
+            54.328839
+          ],
+          [
+            -4.391242,
+            54.328834
+          ],
+          [
+            -4.391265,
+            54.328829
+          ],
+          [
+            -4.391215,
+            54.328753
+          ],
+          [
+            -4.39102,
+            54.328797
+          ],
+          [
+            -4.390977,
+            54.328731
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "IM8 3EY",
+        "addr:street": "Bowring Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "healthcare": "doctor",
+        "name": "Ramsey Group Practice",
+        "operator": "Manx Care",
+        "source": "DHSC GP list;website",
+        "website": "https://www.ramseygrouppractice.co.uk",
+        "osm_id": 963223952,
+        "lon": -4.391270066156398,
+        "lat": 54.32878783498013,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223952"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223967,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390492,
+            54.329556
+          ],
+          [
+            -4.39043,
+            54.329467
+          ],
+          [
+            -4.390594,
+            54.329428
+          ],
+          [
+            -4.390582,
+            54.32941
+          ],
+          [
+            -4.390666,
+            54.32939
+          ],
+          [
+            -4.390739,
+            54.329498
+          ],
+          [
+            -4.390492,
+            54.329556
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "IM8 3EY",
+        "addr:street": "Grove Mount South",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "name": "Grove Mount Dental Practice",
+        "website": "https://www.grovemount.im",
+        "osm_id": 963223967,
+        "lon": -4.390585951949198,
+        "lat": 54.32947602453499,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223967"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865458,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.456723,
+            54.174686
+          ],
+          [
+            -4.456787,
+            54.174735
+          ],
+          [
+            -4.456673,
+            54.174786
+          ],
+          [
+            -4.456609,
+            54.174738
+          ],
+          [
+            -4.456723,
+            54.174686
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:street": "Avondale Court",
+        "building": "retail",
+        "contact:phone": "+44 1624 625200",
+        "healthcare": "physiotherapist",
+        "name": "Stoffberg Physiotherapy",
+        "osm_id": 981865458,
+        "lon": -4.45669805173471,
+        "lat": 54.174736187837716,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865458"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1091731579,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.68938,
+            54.220581
+          ],
+          [
+            -4.689314,
+            54.220652
+          ],
+          [
+            -4.689259,
+            54.220636
+          ],
+          [
+            -4.689233,
+            54.220656
+          ],
+          [
+            -4.689203,
+            54.220647
+          ],
+          [
+            -4.689158,
+            54.220678
+          ],
+          [
+            -4.689017,
+            54.220636
+          ],
+          [
+            -4.688973,
+            54.220688
+          ],
+          [
+            -4.688899,
+            54.220669
+          ],
+          [
+            -4.688887,
+            54.220686
+          ],
+          [
+            -4.688774,
+            54.220658
+          ],
+          [
+            -4.688963,
+            54.220438
+          ],
+          [
+            -4.68938,
+            54.220581
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Peel Medical Centre",
+        "addr:postcode": "IM5 1HU",
+        "addr:street": "Albany Road",
+        "alt_name": "Peel Medical Centre",
+        "amenity": "doctors",
+        "building": "yes",
+        "email": "peeldoctors@gov.im",
+        "healthcare": "doctor",
+        "healthcare:speciality": "general",
+        "name": "Peel Doctors",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "operator": "ManxCare",
+        "phone": "+44 1624 686968",
+        "source:addr": "DHSC GP list",
+        "website": "https://www.peeldoctors-iom.com",
+        "osm_id": 1091731579,
+        "lon": -4.689068370765654,
+        "lat": 54.22058902840235,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1091731579"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1114918820,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.736754,
+            54.070651
+          ],
+          [
+            -4.736791,
+            54.070708
+          ],
+          [
+            -4.736662,
+            54.070737
+          ],
+          [
+            -4.736624,
+            54.07068
+          ],
+          [
+            -4.736754,
+            54.070651
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "The Junipers",
+        "addr:postcode": "IM9 5EP",
+        "addr:street": "Queens Road",
+        "building": "house",
+        "contact:phone": "+44 7624 303118",
+        "contact:website": "www.garethwatt.com",
+        "healthcare": "clinic",
+        "healthcare:speciality": "osteopathy",
+        "name": "Gareth Watt Osteopathy",
+        "osm_id": 1114918820,
+        "lon": -4.736707615919334,
+        "lat": 54.07069395062687,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1114918820"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127979365,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.391618,
+            54.328967
+          ],
+          [
+            -4.39004,
+            54.329349
+          ],
+          [
+            -4.390249,
+            54.32967
+          ],
+          [
+            -4.389849,
+            54.329717
+          ],
+          [
+            -4.389685,
+            54.329737
+          ],
+          [
+            -4.389537,
+            54.329525
+          ],
+          [
+            -4.389125,
+            54.329609
+          ],
+          [
+            -4.389081,
+            54.329544
+          ],
+          [
+            -4.388948,
+            54.32942
+          ],
+          [
+            -4.388834,
+            54.329066
+          ],
+          [
+            -4.3887,
+            54.328867
+          ],
+          [
+            -4.389462,
+            54.328668
+          ],
+          [
+            -4.389891,
+            54.32856
+          ],
+          [
+            -4.390047,
+            54.328745
+          ],
+          [
+            -4.39043,
+            54.328651
+          ],
+          [
+            -4.390251,
+            54.328462
+          ],
+          [
+            -4.390698,
+            54.328316
+          ],
+          [
+            -4.391009,
+            54.328696
+          ],
+          [
+            -4.391388,
+            54.328604
+          ],
+          [
+            -4.391618,
+            54.328967
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "hospital",
+        "fixme": "check extent",
+        "healthcare": "hospital",
+        "name": "Ramsey and District Cottage Hospital",
+        "website": "https://www.gov.im/dhss/health/primaryhealthcare/ramsey.xml",
+        "osm_id": 1127979365,
+        "lon": -4.390137757364759,
+        "lat": 54.32900458275513,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1127979365"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1141813032,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.406889,
+            54.230706
+          ],
+          [
+            -4.406483,
+            54.23081
+          ],
+          [
+            -4.406402,
+            54.230703
+          ],
+          [
+            -4.406422,
+            54.230697
+          ],
+          [
+            -4.406394,
+            54.23066
+          ],
+          [
+            -4.4066,
+            54.230607
+          ],
+          [
+            -4.406646,
+            54.230668
+          ],
+          [
+            -4.406672,
+            54.230661
+          ],
+          [
+            -4.406688,
+            54.230682
+          ],
+          [
+            -4.406841,
+            54.230643
+          ],
+          [
+            -4.406889,
+            54.230706
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:postcode": "IM4 7BF",
+        "addr:street": "New Road",
+        "amenity": "doctors",
+        "building": "yes",
+        "disused:amenity": "pub",
+        "disused:name": "Coach & Horses",
+        "healthcare": "doctor",
+        "name": "Laxey Health Centre",
+        "operator": "Manx Care",
+        "source": "DHSC GP list;mapillary",
+        "osm_id": 1141813032,
+        "lon": -4.406627149739653,
+        "lat": 54.23070193647748,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1141813032"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1158812323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484014,
+            54.152979
+          ],
+          [
+            -4.483976,
+            54.152927
+          ],
+          [
+            -4.483837,
+            54.152962
+          ],
+          [
+            -4.483875,
+            54.153014
+          ],
+          [
+            -4.484014,
+            54.152979
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "84",
+        "addr:street": "Bucks Road",
+        "amenity": "dentist",
+        "building": "terrace",
+        "contact:phone": "+44 1624 675748",
+        "healthcare": "dentist",
+        "name": "A D Hewett",
+        "opening_hours": "Mo-Fr 08:45-13:00,14:00-17:00",
+        "osm_id": 1158812323,
+        "lon": -4.483925500000002,
+        "lat": 54.1529705,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1158812323"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1214914744,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478933,
+            54.179291
+          ],
+          [
+            -4.479033,
+            54.17928
+          ],
+          [
+            -4.479051,
+            54.179338
+          ],
+          [
+            -4.479057,
+            54.179354
+          ],
+          [
+            -4.478957,
+            54.179365
+          ],
+          [
+            -4.478933,
+            54.179291
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:street": "Hailwood Court",
+        "amenity": "pharmacy",
+        "brand": "Clear Pharmacy",
+        "building": "retail",
+        "healthcare": "pharmacy",
+        "name": "Lloyds Pharmacy",
+        "opening_hours": "Mo-Th 08:30-18:00, Fr 09:00-18:00",
+        "source": "Bing;Local Knowledge",
+        "osm_id": 1214914744,
+        "lon": -4.478994923549085,
+        "lat": 54.1793225268996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1214914744"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1217389845,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.456787,
+            54.174735
+          ],
+          [
+            -4.456932,
+            54.174846
+          ],
+          [
+            -4.456818,
+            54.174897
+          ],
+          [
+            -4.456721,
+            54.174823
+          ],
+          [
+            -4.456673,
+            54.174786
+          ],
+          [
+            -4.456787,
+            54.174735
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:street": "Avondale Court",
+        "building": "retail",
+        "contact:phone": "+44 1624 624620",
+        "healthcare": "dentist",
+        "name": "Avondale Dental Practice",
+        "osm_id": 1217389845,
+        "lon": -4.456802481647578,
+        "lat": 54.17481602389189,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1217389845"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1230934938,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482155,
+            54.14952
+          ],
+          [
+            -4.482248,
+            54.149479
+          ],
+          [
+            -4.482315,
+            54.149508
+          ],
+          [
+            -4.482348,
+            54.149522
+          ],
+          [
+            -4.482232,
+            54.149577
+          ],
+          [
+            -4.482155,
+            54.14952
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM1 1EE",
+        "addr:street": "Upper Church Street",
+        "amenity": "doctors",
+        "building": "commercial",
+        "contact:email": "admin@atholhealth.com",
+        "contact:phone": "+44 1624 698297",
+        "healthcare": "doctor;sample_collection",
+        "healthcare:speciality": "general;dermatology",
+        "name": "Athol Health",
+        "opening_hours": "09:30-17:00",
+        "osm_id": 1230934938,
+        "lon": -4.482250032645594,
+        "lat": 54.149525337486516,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1230934938"
+      }
+    }
+  ]
+}

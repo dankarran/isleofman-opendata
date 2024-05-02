@@ -74,6 +74,14 @@
       "sort_columns": ["osm_id"]
     },
     {
+      "label": "healthcare",
+      "title": "Healthcare",
+      "query": "nw['healthcare'](54,-5,54.5,-4);",
+      "output_formats": ["geojson", "csv"],
+      "csv_columns": ["name", "name:en", "name:gv", "amenity", "healthcare", "addr:unit", "addr:housename", "addr:housenumber", "addr:street", "addr:locality", "addr:place", "addr:city", "addr:postcode", "addr:country", "website", "phone", "contact:facebook", "opening_hours"],
+      "sort_columns": ["name", "osm_id"]
+    },
+    {
       "label": "manx-names",
       "title": "Manx names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
