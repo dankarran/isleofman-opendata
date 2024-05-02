@@ -9778,15 +9778,16 @@
       "properties": {
         "addr:city": "Ballasalla",
         "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
         "addr:street": "Ballasalla Main Road",
         "alt_name": "Ballasalla Stores",
-        "amenity": "post_office",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/yeoldebakery/",
         "contact:phone": "+44 1624 822949",
         "name": "Ye Olde Bakery",
         "not:amenity": "post_office",
         "shop": "convenience",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 100547588,
         "lon": -4.631050910338984,
         "lat": 54.09873867807476,
@@ -12442,12 +12443,12 @@
             54.322218
           ],
           [
-            -4.384176,
+            -4.384169,
             54.322223
           ],
           [
-            -4.384165,
-            54.322335
+            -4.384154,
+            54.322336
           ],
           [
             -4.384054,
@@ -12462,13 +12463,18 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "68",
+        "addr:housenumber": "66",
         "addr:street": "Parliament Street",
+        "amenity": "restaurant",
         "building": "yes",
+        "contact:email": "Rumbababookings@gmail.com",
+        "contact:phone": "+44 1624 264917",
+        "contact:website": "https://rumbabas.im/",
+        "name": "Rum Baba's",
         "shop": "vacant",
         "osm_id": 102856114,
-        "lon": -4.384116075586347,
-        "lat": 54.32227774133959,
+        "lon": -4.384111816467512,
+        "lat": 54.322277502534824,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856114"
       }
@@ -12676,11 +12682,11 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.384176,
-            54.322223
+            -4.384227,
+            54.322226
           ],
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ],
           [
@@ -12688,7 +12694,7 @@
             54.322323
           ],
           [
-            -4.384271,
+            -4.38427,
             54.322377
           ],
           [
@@ -12697,19 +12703,15 @@
           ],
           [
             -4.384221,
+            54.322363
+          ],
+          [
+            -4.384209,
             54.322362
           ],
           [
-            -4.384162,
-            54.32236
-          ],
-          [
-            -4.384165,
-            54.322335
-          ],
-          [
-            -4.384176,
-            54.322223
+            -4.384227,
+            54.322226
           ]
         ]
       },
@@ -12723,8 +12725,8 @@
         "name": "Pink Seaweed",
         "shop": "art;craft",
         "osm_id": 102856154,
-        "lon": -4.384225301894157,
-        "lat": 54.32229866663534,
+        "lon": -4.384248864242983,
+        "lat": 54.32230097187054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856154"
       }
@@ -12764,14 +12766,14 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "64",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "building": "yes",
         "charity": "animal",
-        "name": "ManxSPCA",
-        "operator": "ManxSPCA",
-        "ref:charity": "26A",
-        "shop": "charity",
+        "name": "Bridge Bookshop",
+        "shop": "books",
+        "website": "https://www.bridge-bookshop.com/",
         "osm_id": 102856158,
         "lon": -4.3839703910027605,
         "lat": 54.322281101127835,
@@ -12828,6 +12830,56 @@
         "lat": 54.32232449797429,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856160"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856161,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384014,
+            54.322215
+          ],
+          [
+            -4.384071,
+            54.322218
+          ],
+          [
+            -4.384054,
+            54.322332
+          ],
+          [
+            -4.38405,
+            54.322354
+          ],
+          [
+            -4.383993,
+            54.322351
+          ],
+          [
+            -4.384014,
+            54.322215
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "64",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "charity": "animal",
+        "name": "ManxSPCA",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
+        "shop": "charity",
+        "osm_id": 102856161,
+        "lon": -4.384032104587958,
+        "lat": 54.322284517223444,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856161"
       }
     },
     {
@@ -13190,65 +13242,12 @@
     },
     {
       "type": "Feature",
-      "id": 102856197,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.383852,
-            54.322208
-          ],
-          [
-            -4.38386,
-            54.322208
-          ],
-          [
-            -4.383947,
-            54.322212
-          ],
-          [
-            -4.383935,
-            54.322294
-          ],
-          [
-            -4.383847,
-            54.32229
-          ],
-          [
-            -4.38384,
-            54.322289
-          ],
-          [
-            -4.383852,
-            54.322208
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housenumber": "62",
-        "addr:postcode": "IM8 1AJ",
-        "addr:street": "Parliament Street",
-        "building": "yes",
-        "name": "Bridge Bookshop",
-        "shop": "books",
-        "website": "https://www.bridge-bookshop.com/",
-        "osm_id": 102856197,
-        "lon": -4.383893624311053,
-        "lat": 54.32225080347096,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/102856197"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 102856204,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ],
           [
@@ -13272,7 +13271,7 @@
             54.322323
           ],
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ]
         ]
@@ -13288,8 +13287,8 @@
         "name": "Shalee",
         "shop": "gift",
         "osm_id": 102856204,
-        "lon": -4.384316760251528,
-        "lat": 54.322298105825126,
+        "lon": -4.384317105597967,
+        "lat": 54.322298416406284,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856204"
       }
@@ -16919,6 +16918,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:street": "Clagh Vane",
         "building": "yes",
         "name": "Andy's",
         "shop": "convenience",
@@ -29437,6 +29440,53 @@
         "lat": 54.32620570238555,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1273671095"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1278591686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384209,
+            54.322362
+          ],
+          [
+            -4.384151,
+            54.322359
+          ],
+          [
+            -4.384154,
+            54.322336
+          ],
+          [
+            -4.384169,
+            54.322223
+          ],
+          [
+            -4.384227,
+            54.322226
+          ],
+          [
+            -4.384209,
+            54.322362
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "68",
+        "addr:postcode": "IM8",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "shop": "vacant",
+        "osm_id": 1278591686,
+        "lon": -4.384188992380041,
+        "lat": 54.32229249899759,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1278591686"
       }
     }
   ]

@@ -555,15 +555,11 @@
         "addr:place": "Cronk-y-Voddy",
         "addr:postcode": "IM6 1BB",
         "currency:GBP": "yes",
-        "currency:XBT": "yes",
         "description": "Christian retreat, arts centre, and spa",
         "email": "hello@rhenassretreat.org.uk",
         "name": "Rhenass Christian Retreat",
         "name:en": "Rhenass Christian Retreat",
         "name:gv": "Mullen Rhenass",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "no",
-        "payment:onchain": "yes",
         "phone": "+441624878474",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "survey:date": "2022-10-03",
@@ -4762,6 +4758,29 @@
         "name": "UHY Crossleys",
         "office": "accountant",
         "website": "https://www.crossleys.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10688883210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.631013,
+          54.098739
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
+        "addr:street": "Ballasalla Main Road",
+        "amenity": "pharmacy",
+        "contact:facebook": "https://www.facebook.com/costainpharmacy",
+        "description": "Sited within Ye Olde Bakery",
+        "healthcare": "pharmacy",
+        "name": "Costain Pharmacy",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -42411,6 +42430,89 @@
     },
     {
       "type": "Feature",
+      "id": 100547588,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.631257,
+            54.098636
+          ],
+          [
+            -4.63105,
+            54.098706
+          ],
+          [
+            -4.631036,
+            54.098692
+          ],
+          [
+            -4.631025,
+            54.098681
+          ],
+          [
+            -4.630883,
+            54.098733
+          ],
+          [
+            -4.630755,
+            54.09878
+          ],
+          [
+            -4.630819,
+            54.098826
+          ],
+          [
+            -4.630952,
+            54.098791
+          ],
+          [
+            -4.630978,
+            54.098813
+          ],
+          [
+            -4.631205,
+            54.098741
+          ],
+          [
+            -4.631216,
+            54.098754
+          ],
+          [
+            -4.631253,
+            54.098744
+          ],
+          [
+            -4.63134,
+            54.09872
+          ],
+          [
+            -4.631301,
+            54.098681
+          ],
+          [
+            -4.631257,
+            54.098636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
+        "addr:street": "Ballasalla Main Road",
+        "alt_name": "Ballasalla Stores",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/yeoldebakery/",
+        "contact:phone": "+44 1624 822949",
+        "name": "Ye Olde Bakery",
+        "not:amenity": "post_office",
+        "shop": "convenience",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 100547604,
       "geometry": {
         "type": "LineString",
@@ -49414,11 +49516,11 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.384176,
-            54.322223
+            -4.384227,
+            54.322226
           ],
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ],
           [
@@ -49426,7 +49528,7 @@
             54.322323
           ],
           [
-            -4.384271,
+            -4.38427,
             54.322377
           ],
           [
@@ -49435,19 +49537,15 @@
           ],
           [
             -4.384221,
+            54.322363
+          ],
+          [
+            -4.384209,
             54.322362
           ],
           [
-            -4.384162,
-            54.32236
-          ],
-          [
-            -4.384165,
-            54.322335
-          ],
-          [
-            -4.384176,
-            54.322223
+            -4.384227,
+            54.322226
           ]
         ]
       },
@@ -49460,6 +49558,51 @@
         "building": "yes",
         "name": "Pink Seaweed",
         "shop": "art;craft"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856158,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383947,
+            54.322212
+          ],
+          [
+            -4.384014,
+            54.322215
+          ],
+          [
+            -4.383993,
+            54.322351
+          ],
+          [
+            -4.383927,
+            54.322347
+          ],
+          [
+            -4.383935,
+            54.322294
+          ],
+          [
+            -4.383947,
+            54.322212
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "charity": "animal",
+        "name": "Bridge Bookshop",
+        "shop": "books",
+        "website": "https://www.bridge-bookshop.com/"
       }
     },
     {
@@ -50047,13 +50190,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "62",
+        "addr:housenumber": "60",
         "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "building": "yes",
-        "name": "Bridge Bookshop",
-        "shop": "books",
-        "website": "https://www.bridge-bookshop.com/"
+        "name": "Deanwood",
+        "office": "estate_agent",
+        "website": "https://www.deanwood.im/"
       }
     },
     {
@@ -50106,51 +50249,12 @@
     },
     {
       "type": "Feature",
-      "id": 102856201,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.383781,
-            54.322286
-          ],
-          [
-            -4.38384,
-            54.322289
-          ],
-          [
-            -4.383852,
-            54.322208
-          ],
-          [
-            -4.383792,
-            54.322204
-          ],
-          [
-            -4.383781,
-            54.322286
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:housenumber": "60",
-        "addr:postcode": "IM8 1AJ",
-        "addr:street": "Parliament Street",
-        "building": "yes",
-        "name": "Deanwood",
-        "office": "estate_agent",
-        "website": "https://www.deanwood.im/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 102856204,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ],
           [
@@ -50174,7 +50278,7 @@
             54.322323
           ],
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ]
         ]
@@ -114328,6 +114432,60 @@
     },
     {
       "type": "Feature",
+      "id": 1148906138,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.631257,
+            54.098636
+          ],
+          [
+            -4.631226,
+            54.098605
+          ],
+          [
+            -4.63121,
+            54.09861
+          ],
+          [
+            -4.63106,
+            54.098661
+          ],
+          [
+            -4.631076,
+            54.098678
+          ],
+          [
+            -4.631036,
+            54.098692
+          ],
+          [
+            -4.63105,
+            54.098706
+          ],
+          [
+            -4.631257,
+            54.098636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
+        "addr:street": "Ballasalla Main Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/IOMFourSeasonsChinese/",
+        "cuisine": "chinese",
+        "name": "Four Seasons",
+        "opening_hours": "We,Th,Su 17:00-21:30, Fr,Sa 17:00-22:30",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1149116157,
       "geometry": {
         "type": "LineString",
@@ -127879,6 +128037,48 @@
         "building": "yes",
         "name": "The Old Trout Farm",
         "source": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1278591686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384209,
+            54.322362
+          ],
+          [
+            -4.384151,
+            54.322359
+          ],
+          [
+            -4.384154,
+            54.322336
+          ],
+          [
+            -4.384169,
+            54.322223
+          ],
+          [
+            -4.384227,
+            54.322226
+          ],
+          [
+            -4.384209,
+            54.322362
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "68",
+        "addr:postcode": "IM8",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "shop": "vacant"
       }
     }
   ]

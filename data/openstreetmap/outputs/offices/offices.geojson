@@ -3924,6 +3924,59 @@
     },
     {
       "type": "Feature",
+      "id": 102856197,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383852,
+            54.322208
+          ],
+          [
+            -4.38386,
+            54.322208
+          ],
+          [
+            -4.383947,
+            54.322212
+          ],
+          [
+            -4.383935,
+            54.322294
+          ],
+          [
+            -4.383847,
+            54.32229
+          ],
+          [
+            -4.38384,
+            54.322289
+          ],
+          [
+            -4.383852,
+            54.322208
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "60",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Deanwood",
+        "office": "estate_agent",
+        "website": "https://www.deanwood.im/",
+        "osm_id": 102856197,
+        "lon": -4.383893624311053,
+        "lat": 54.32225080347096,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856197"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856200,
       "geometry": {
         "type": "LineString",
@@ -3973,50 +4026,6 @@
         "lat": 54.322352739179664,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856200"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102856201,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.383781,
-            54.322286
-          ],
-          [
-            -4.38384,
-            54.322289
-          ],
-          [
-            -4.383852,
-            54.322208
-          ],
-          [
-            -4.383792,
-            54.322204
-          ],
-          [
-            -4.383781,
-            54.322286
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:housenumber": "60",
-        "addr:postcode": "IM8 1AJ",
-        "addr:street": "Parliament Street",
-        "building": "yes",
-        "name": "Deanwood",
-        "office": "estate_agent",
-        "website": "https://www.deanwood.im/",
-        "osm_id": 102856201,
-        "lon": -4.383816182271055,
-        "lat": 54.322246593005076,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/102856201"
       }
     },
     {

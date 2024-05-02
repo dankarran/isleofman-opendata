@@ -8513,15 +8513,16 @@
       "properties": {
         "addr:city": "Ballasalla",
         "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
         "addr:street": "Ballasalla Main Road",
         "alt_name": "Ballasalla Stores",
-        "amenity": "post_office",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/yeoldebakery/",
         "contact:phone": "+44 1624 822949",
         "name": "Ye Olde Bakery",
         "not:amenity": "post_office",
-        "shop": "convenience"
+        "shop": "convenience",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -10927,12 +10928,12 @@
             54.322218
           ],
           [
-            -4.384176,
+            -4.384169,
             54.322223
           ],
           [
-            -4.384165,
-            54.322335
+            -4.384154,
+            54.322336
           ],
           [
             -4.384054,
@@ -10947,9 +10948,14 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "68",
+        "addr:housenumber": "66",
         "addr:street": "Parliament Street",
+        "amenity": "restaurant",
         "building": "yes",
+        "contact:email": "Rumbababookings@gmail.com",
+        "contact:phone": "+44 1624 264917",
+        "contact:website": "https://rumbabas.im/",
+        "name": "Rum Baba's",
         "shop": "vacant"
       }
     },
@@ -11136,11 +11142,11 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.384176,
-            54.322223
+            -4.384227,
+            54.322226
           ],
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ],
           [
@@ -11148,7 +11154,7 @@
             54.322323
           ],
           [
-            -4.384271,
+            -4.38427,
             54.322377
           ],
           [
@@ -11157,19 +11163,15 @@
           ],
           [
             -4.384221,
+            54.322363
+          ],
+          [
+            -4.384209,
             54.322362
           ],
           [
-            -4.384162,
-            54.32236
-          ],
-          [
-            -4.384165,
-            54.322335
-          ],
-          [
-            -4.384176,
-            54.322223
+            -4.384227,
+            54.322226
           ]
         ]
       },
@@ -11219,14 +11221,14 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "64",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "building": "yes",
         "charity": "animal",
-        "name": "ManxSPCA",
-        "operator": "ManxSPCA",
-        "ref:charity": "26A",
-        "shop": "charity"
+        "name": "Bridge Bookshop",
+        "shop": "books",
+        "website": "https://www.bridge-bookshop.com/"
       }
     },
     {
@@ -11273,6 +11275,51 @@
         "shop": "stove",
         "source": "Bing",
         "website": "http://www.thesnuglimited.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856161,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384014,
+            54.322215
+          ],
+          [
+            -4.384071,
+            54.322218
+          ],
+          [
+            -4.384054,
+            54.322332
+          ],
+          [
+            -4.38405,
+            54.322354
+          ],
+          [
+            -4.383993,
+            54.322351
+          ],
+          [
+            -4.384014,
+            54.322215
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "64",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "charity": "animal",
+        "name": "ManxSPCA",
+        "operator": "ManxSPCA",
+        "ref:charity": "26A",
+        "shop": "charity"
       }
     },
     {
@@ -11600,60 +11647,12 @@
     },
     {
       "type": "Feature",
-      "id": 102856197,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.383852,
-            54.322208
-          ],
-          [
-            -4.38386,
-            54.322208
-          ],
-          [
-            -4.383947,
-            54.322212
-          ],
-          [
-            -4.383935,
-            54.322294
-          ],
-          [
-            -4.383847,
-            54.32229
-          ],
-          [
-            -4.38384,
-            54.322289
-          ],
-          [
-            -4.383852,
-            54.322208
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housenumber": "62",
-        "addr:postcode": "IM8 1AJ",
-        "addr:street": "Parliament Street",
-        "building": "yes",
-        "name": "Bridge Bookshop",
-        "shop": "books",
-        "website": "https://www.bridge-bookshop.com/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 102856204,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ],
           [
@@ -11677,7 +11676,7 @@
             54.322323
           ],
           [
-            -4.384287,
+            -4.384289,
             54.322228
           ]
         ]
@@ -14979,6 +14978,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:street": "Clagh Vane",
         "building": "yes",
         "name": "Andy's",
         "shop": "convenience"
@@ -26242,6 +26245,48 @@
         "name": "Mansail Ltd",
         "shop": "boat",
         "tourism": "attraction"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1278591686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384209,
+            54.322362
+          ],
+          [
+            -4.384151,
+            54.322359
+          ],
+          [
+            -4.384154,
+            54.322336
+          ],
+          [
+            -4.384169,
+            54.322223
+          ],
+          [
+            -4.384227,
+            54.322226
+          ],
+          [
+            -4.384209,
+            54.322362
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "68",
+        "addr:postcode": "IM8",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "shop": "vacant"
       }
     }
   ]

@@ -8151,6 +8151,53 @@
     },
     {
       "type": "Feature",
+      "id": 102856114,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384071,
+            54.322218
+          ],
+          [
+            -4.384169,
+            54.322223
+          ],
+          [
+            -4.384154,
+            54.322336
+          ],
+          [
+            -4.384054,
+            54.322332
+          ],
+          [
+            -4.384071,
+            54.322218
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "66",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "Rumbababookings@gmail.com",
+        "contact:phone": "+44 1624 264917",
+        "contact:website": "https://rumbabas.im/",
+        "name": "Rum Baba's",
+        "shop": "vacant",
+        "osm_id": 102856114,
+        "lon": -4.384111816467512,
+        "lat": 54.322277502534824,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856114"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856115,
       "geometry": {
         "type": "LineString",
@@ -8394,56 +8441,6 @@
         "lat": 54.32199234848538,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856155"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102856161,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.384014,
-            54.322215
-          ],
-          [
-            -4.384071,
-            54.322218
-          ],
-          [
-            -4.384054,
-            54.322332
-          ],
-          [
-            -4.38405,
-            54.322354
-          ],
-          [
-            -4.383993,
-            54.322351
-          ],
-          [
-            -4.384014,
-            54.322215
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housenumber": "66",
-        "addr:street": "Parliament Street",
-        "amenity": "restaurant",
-        "building": "yes",
-        "contact:email": "Rumbababookings@gmail.com",
-        "contact:phone": "+44 1624 264917",
-        "contact:website": "https://rumbabas.im/",
-        "name": "Rum Baba's",
-        "osm_id": 102856161,
-        "lon": -4.384032104587958,
-        "lat": 54.322284517223444,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/102856161"
       }
     },
     {
@@ -15926,6 +15923,7 @@
       "properties": {
         "addr:city": "Ballasalla",
         "addr:country": "IM",
+        "addr:postcode": "IM9 2DA",
         "addr:street": "Ballasalla Main Road",
         "amenity": "restaurant",
         "building": "yes",
@@ -15933,6 +15931,7 @@
         "cuisine": "chinese",
         "name": "Four Seasons",
         "opening_hours": "We,Th,Su 17:00-21:30, Fr,Sa 17:00-22:30",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 1148906138,
         "lon": -4.631141441321229,
         "lat": 54.098656107099664,
