@@ -20,6 +20,23 @@
     },
     {
       "type": "Feature",
+      "id": 283486251,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.700813,
+          54.085114
+        ]
+      },
+      "properties": {
+        "name": "Strandhall",
+        "place": "hamlet",
+        "postal_code": "IM9 4PL",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 283500412,
       "geometry": {
         "type": "Point",
@@ -1373,6 +1390,24 @@
     },
     {
       "type": "Feature",
+      "id": 475394241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.701059,
+          54.106175
+        ]
+      },
+      "properties": {
+        "name": "Ballachrink Farm",
+        "place": "farm",
+        "postal_code": "IM9 4HW",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475394249,
       "geometry": {
         "type": "Point",
@@ -2183,6 +2218,24 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "tourism": "guest_house",
         "website": "http://www.leodestfarm.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475395142,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.673981,
+          54.083542
+        ]
+      },
+      "properties": {
+        "name": "Ballakeighan",
+        "place": "farm",
+        "postal_code": "IM9 4PG",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -8567,6 +8620,32 @@
     },
     {
       "type": "Feature",
+      "id": 25987153,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.704552,
+            54.104571
+          ],
+          [
+            -4.70445,
+            54.104614
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballachrink",
+        "postal_code": "IM9 4PB",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987161,
       "geometry": {
         "type": "LineString",
@@ -13496,6 +13575,84 @@
         "name": "Coronation Court",
         "postal_code": "IM8 3EF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988235,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.703933,
+            54.105145
+          ],
+          [
+            -4.703916,
+            54.105218
+          ],
+          [
+            -4.703661,
+            54.105212
+          ],
+          [
+            -4.703582,
+            54.105207
+          ],
+          [
+            -4.703497,
+            54.105175
+          ],
+          [
+            -4.703458,
+            54.105112
+          ],
+          [
+            -4.703462,
+            54.105052
+          ],
+          [
+            -4.703497,
+            54.104969
+          ],
+          [
+            -4.703681,
+            54.104683
+          ],
+          [
+            -4.703905,
+            54.104521
+          ],
+          [
+            -4.704004,
+            54.104468
+          ],
+          [
+            -4.704129,
+            54.104442
+          ],
+          [
+            -4.704242,
+            54.104469
+          ],
+          [
+            -4.70445,
+            54.104614
+          ],
+          [
+            -4.704354,
+            54.104655
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballachrink",
+        "postal_code": "IM9 4PB",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "paved"
       }
     },
@@ -36800,6 +36957,32 @@
         "addr:street": "Bucks Road",
         "building": "terrace",
         "postal_code": "IM1 3AF"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1279218078,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.703681,
+            54.104683
+          ],
+          [
+            -4.703186,
+            54.104469
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballachrink",
+        "postal_code": "IM9 4PB",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "surface": "paved"
       }
     }
   ]

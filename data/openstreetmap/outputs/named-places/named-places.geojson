@@ -181,6 +181,8 @@
       "properties": {
         "name": "Strandhall",
         "place": "hamlet",
+        "postal_code": "IM9 4PL",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 283486251,
         "lon": -4.700813,
         "lat": 54.085114,
@@ -913,8 +915,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.653902,
-          54.086524
+          -4.652849,
+          54.086742
         ]
       },
       "properties": {
@@ -922,8 +924,8 @@
         "place": "hamlet",
         "tourism": "attraction",
         "osm_id": 283519596,
-        "lon": -4.653902,
-        "lat": 54.086524,
+        "lon": -4.652849,
+        "lat": 54.086742,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283519596"
       }
@@ -2685,17 +2687,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.678409,
-          54.077376
+          -4.679743,
+          54.07831
         ]
       },
       "properties": {
-        "name": "Balladoole House",
-        "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)",
+        "name": "Balladoole",
+        "place": "locality",
         "osm_id": 475392926,
-        "lon": -4.678409,
-        "lat": 54.077376,
+        "lon": -4.679743,
+        "lat": 54.07831,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475392926"
       }
@@ -13043,7 +13044,9 @@
       "properties": {
         "name": "Ballachrink Farm",
         "place": "farm",
+        "postal_code": "IM9 4HW",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475394241,
         "lon": -4.701059,
         "lat": 54.106175,
@@ -20359,7 +20362,9 @@
       "properties": {
         "name": "Ballakeighan",
         "place": "farm",
+        "postal_code": "IM9 4PG",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475395142,
         "lon": -4.673981,
         "lat": 54.083542,
@@ -40535,6 +40540,7 @@
         ]
       },
       "properties": {
+        "alt_name": "Cronk Moar Farm",
         "landuse": "farmyard",
         "name": "Cronkmooar",
         "place": "farm",
