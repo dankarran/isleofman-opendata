@@ -22,6 +22,8 @@ Information about companies registered on the Isle of Man.
 
 ## Data retrieval
 
+The Companies Registry doesn't currently publish a complete list of companies, though they note they may look into this in the future.
+
 The companies index is built up by searching for common terms in the Companies Registry which should cover the majority of company names.
 
 Current search terms:
@@ -36,7 +38,6 @@ TODO:
   * consider most effective and efficient way of covering company names that aren't captured 
     * numbers, all letters (note individual letter searches don't always return all names that include that letter)
     * searching for company numbers missing from sequence
-    * requesting a complete list from the Companies Registry, ideally including details that would otherwise require crawling individual company pages
 
 ## Other resources
 
