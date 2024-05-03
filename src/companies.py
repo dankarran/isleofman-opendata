@@ -2,6 +2,7 @@ import os
 import requests
 import time
 from datetime import datetime
+import random
 import urllib.parse
 import pandas as pd
 import bs4
@@ -168,7 +169,7 @@ def update_companies_list(sources, status):
                 print("    ", "No more data")
                 break
 
-            sleep = 5  # TODO: back off if server responding slower?
+            sleep = random.randint(5, 10)
             print("    ", "... pausing for", sleep, "seconds ...")
             time.sleep(sleep)
 
@@ -185,7 +186,7 @@ def update_companies_list_by_number(numbers):
             else:
                 print("    ", "Company", number, "not found")
 
-            sleep = 1  # TODO: back off if server responding slower?
+            sleep = random.randint(1, 5)
             print("    ", "... pausing for", sleep, "seconds ...")
             time.sleep(sleep)
 
