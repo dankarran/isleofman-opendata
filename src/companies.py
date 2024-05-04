@@ -39,11 +39,18 @@ def companies():
 
 
 def companies_unindexed():
-    filepath = data_dir + "outputs/company-numbers-unindexed.csv"
-    if os.path.isfile(filepath):
-        print("    ", "Reading unindexed company numbers")
+    unindexed_filepath = data_dir + "outputs/company-numbers-unindexed.csv"
+    if os.path.isfile(unindexed_filepath):
+        unindexed = pd.read_csv(unindexed_filepath)
+        print("    ", len(unindexed["Number"]), "unindexed company numbers detected")
 
-        unindexed = pd.read_csv(filepath)
+        # exclude companies previously not found when searching by number
+        not_found_filepath = data_dir + "sources/search/numbers/not-found.csv"
+        if os.path.isfile(not_found_filepath):
+            not_found = pd.read_csv(not_found_filepath)
+            print("    ", len(not_found["Number"]), "company numbers previously not found in index")
+
+            unindexed = unindexed[~unindexed["Number"].isin(not_found["Number"])]
 
         if len(unindexed["Number"]):
             batch_text = input("Download batch of [x] from ~" + str(len(unindexed["Number"])) + " unindexed companies? (default 0) ")
@@ -184,6 +191,7 @@ def update_companies_list_by_number(numbers):
                 write_search_by_number_page(data)
 
             else:
+                write_search_by_number_not_found(number)
                 print("    ", "Company", number, "not found")
 
             sleep = random.randint(1, 5)
@@ -258,6 +266,21 @@ def write_search_by_number_page(data):
 
     file_exists = os.path.isfile(filepath)
     add_header = not file_exists
+
+    data.to_csv(filepath, mode="a", index=False, header=add_header, quoting=csv.QUOTE_ALL)
+
+
+def write_search_by_number_not_found(number):
+    filepath = data_dir + "sources/search/numbers/not-found.csv"
+
+    file_exists = os.path.isfile(filepath)
+    add_header = not file_exists
+
+    rows = [{
+        "Number": number,
+        "Index Date": datetime.now().strftime("%Y-%m-%d")
+    }]
+    data = pd.DataFrame(rows)
 
     data.to_csv(filepath, mode="a", index=False, header=add_header, quoting=csv.QUOTE_ALL)
 
