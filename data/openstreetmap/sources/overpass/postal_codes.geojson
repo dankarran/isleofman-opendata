@@ -2910,29 +2910,6 @@
     },
     {
       "type": "Feature",
-      "id": 727751319,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478445,
-          54.154113
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "60",
-        "addr:street": "Loch Promenade",
-        "alt_name": "Berkeley House",
-        "name": "Berkeley Hotel",
-        "phone": "01624 670002",
-        "postal_code": "IM1 2NA",
-        "source": "photo",
-        "was:tourism": "hotel",
-        "website": "http://berkeleyhotel.info/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 846243994,
       "geometry": {
         "type": "Point",
@@ -30104,6 +30081,55 @@
     },
     {
       "type": "Feature",
+      "id": 164539377,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516751,
+            54.147586
+          ],
+          [
+            -4.517046,
+            54.147596
+          ],
+          [
+            -4.51753,
+            54.147612
+          ],
+          [
+            -4.51805,
+            54.147619
+          ],
+          [
+            -4.518378,
+            54.147627
+          ],
+          [
+            -4.518442,
+            54.147628
+          ],
+          [
+            -4.518482,
+            54.147642
+          ],
+          [
+            -4.518727,
+            54.147739
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Hampton Farm Road",
+        "postal_code": "IM2 2DN",
+        "ref": "C1848",
+        "source": "survey;legislation",
+        "source:postal_code": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 165129855,
       "geometry": {
         "type": "LineString",
@@ -30763,6 +30789,45 @@
         "postal_code": "IM1 5AX",
         "roof:shape": "flat",
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211830020,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51805,
+            54.147619
+          ],
+          [
+            -4.518,
+            54.147741
+          ],
+          [
+            -4.517849,
+            54.147864
+          ],
+          [
+            -4.517663,
+            54.147959
+          ],
+          [
+            -4.517591,
+            54.148028
+          ],
+          [
+            -4.517527,
+            54.148106
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "postal_code": "IM2 2DN",
+        "source": "Bing",
+        "source:postal_code": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -34367,6 +34432,75 @@
     },
     {
       "type": "Feature",
+      "id": 882121510,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694212,
+            54.099139
+          ],
+          [
+            -4.694393,
+            54.099132
+          ],
+          [
+            -4.694712,
+            54.09971
+          ],
+          [
+            -4.694772,
+            54.099815
+          ],
+          [
+            -4.694724,
+            54.099859
+          ],
+          [
+            -4.694351,
+            54.100003
+          ],
+          [
+            -4.694193,
+            54.099852
+          ],
+          [
+            -4.694145,
+            54.099763
+          ],
+          [
+            -4.693924,
+            54.099615
+          ],
+          [
+            -4.693897,
+            54.099457
+          ],
+          [
+            -4.694222,
+            54.099438
+          ],
+          [
+            -4.694222,
+            54.099206
+          ],
+          [
+            -4.694212,
+            54.099139
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Ballablack",
+        "place": "farm",
+        "postal_code": "IM9 4LL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 889619377,
       "geometry": {
         "type": "LineString",
@@ -36873,7 +37007,7 @@
         "addr:country": "IM",
         "addr:street": "Broadway",
         "amenity": "place_of_worship",
-        "building": "yes;church",
+        "building": "church",
         "denomination": "baptist",
         "name": "Broadway Baptist Church",
         "postal_code": "IM2 4EN",

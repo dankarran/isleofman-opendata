@@ -2127,10 +2127,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "10",
         "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LE",
         "amenity": "restaurant",
         "cuisine": "periperi",
-        "name": "Ramsey Peri Peri"
+        "name": "Ramsey Peri Peri",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -3716,6 +3719,10 @@
           [
             -4.386794,
             54.329596
+          ],
+          [
+            -4.386803,
+            54.329598
           ],
           [
             -4.38699,
@@ -7281,9 +7288,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "67",
+        "addr:postcode": "IM8 1DL",
+        "addr:street": "Parliament Street",
         "amenity": "cafe",
         "building": "yes",
-        "name": "White Tiger Cafe"
+        "contact:facebook": "https://www.facebook.com/p/White-Tiger-Cafe-More-100078333697489/",
+        "name": "White Tiger Cafe",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {

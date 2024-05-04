@@ -2435,6 +2435,28 @@
     },
     {
       "type": "Feature",
+      "id": 3806958320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475703,
+          54.148722
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15-17",
+        "addr:postcode": "IM1 2LT",
+        "addr:street": "Walpole Avenue",
+        "amenity": "ice_cream",
+        "name": "Gelatory",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "website": "https://www.gelatory.store"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4115148160,
       "geometry": {
         "type": "Point",
@@ -6698,6 +6720,28 @@
     },
     {
       "type": "Feature",
+      "id": 10829691491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379648,
+          54.320868
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LE",
+        "amenity": "restaurant",
+        "cuisine": "periperi",
+        "name": "Ramsey Peri Peri",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10829691496,
       "geometry": {
         "type": "Point",
@@ -7567,6 +7611,51 @@
         "name": "Hilary Road Dental Practice",
         "opening_hours": "Mo-Fr 08:30-18:00",
         "phone": "+44 1624 675195"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11878969755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.543173,
+          54.171708
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:country": "IM",
+        "addr:housename": "Cronk Beg",
+        "addr:place": "Glenlough Farm",
+        "addr:postcode": "IM4 4AT",
+        "fixme": "check position within farm",
+        "name": "BallaKarran Meat Company",
+        "shop": "butcher",
+        "source": "Isle of Man Government Companies Registry",
+        "website": "https://ballakarran.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11879076094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.596628,
+          54.165941
+        ]
+      },
+      "properties": {
+        "addr:city": "Eairy",
+        "addr:country": "IM",
+        "addr:housename": "Gorselands",
+        "addr:postcode": "IM4 2HO",
+        "addr:street": "Foxdale Road",
+        "fixme": "check whether it's the cottage or the house",
+        "name": "Gorselands Holiday Cottage",
+        "source": "streetside;Isle of Man Government Companies Registry",
+        "tourism": "chalet"
       }
     },
     {
@@ -49460,6 +49549,55 @@
     },
     {
       "type": "Feature",
+      "id": 102856117,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384112,
+            54.322133
+          ],
+          [
+            -4.384195,
+            54.322135
+          ],
+          [
+            -4.384198,
+            54.322029
+          ],
+          [
+            -4.384209,
+            54.321899
+          ],
+          [
+            -4.384133,
+            54.321896
+          ],
+          [
+            -4.384121,
+            54.32202
+          ],
+          [
+            -4.384112,
+            54.322133
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "67",
+        "addr:postcode": "IM8 1DL",
+        "addr:street": "Parliament Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/White-Tiger-Cafe-More-100078333697489/",
+        "name": "White Tiger Cafe",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856121,
       "geometry": {
         "type": "LineString",
@@ -60402,6 +60540,52 @@
         "addr:postcode": "IM4 3ES",
         "building": "yes",
         "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158683967,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.639048,
+            54.146989
+          ],
+          [
+            -4.638585,
+            54.146988
+          ],
+          [
+            -4.638586,
+            54.146881
+          ],
+          [
+            -4.638713,
+            54.146881
+          ],
+          [
+            -4.638713,
+            54.146935
+          ],
+          [
+            -4.639049,
+            54.146936
+          ],
+          [
+            -4.639048,
+            54.146989
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballamodha",
+        "addr:country": "IM",
+        "addr:housename": "Ballaglea Cottage",
+        "addr:place": "Solomons Corner",
+        "addr:postcode": "IM9 3AZ",
+        "building": "yes",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

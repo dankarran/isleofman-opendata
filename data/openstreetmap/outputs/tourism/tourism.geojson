@@ -5538,6 +5538,33 @@
     },
     {
       "type": "Feature",
+      "id": 11879076094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.596628,
+          54.165941
+        ]
+      },
+      "properties": {
+        "addr:city": "Eairy",
+        "addr:country": "IM",
+        "addr:housename": "Gorselands",
+        "addr:postcode": "IM4 2HO",
+        "addr:street": "Foxdale Road",
+        "fixme": "check whether it's the cottage or the house",
+        "name": "Gorselands Holiday Cottage",
+        "source": "streetside;Isle of Man Government Companies Registry",
+        "tourism": "chalet",
+        "osm_id": 11879076094,
+        "lon": -4.596628,
+        "lat": 54.165941,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11879076094"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",

@@ -3884,6 +3884,34 @@
     },
     {
       "type": "Feature",
+      "id": 11878969755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.543173,
+          54.171708
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:country": "IM",
+        "addr:housename": "Cronk Beg",
+        "addr:place": "Glenlough Farm",
+        "addr:postcode": "IM4 4AT",
+        "fixme": "check position within farm",
+        "name": "BallaKarran Meat Company",
+        "shop": "butcher",
+        "source": "Isle of Man Government Companies Registry",
+        "website": "https://ballakarran.com",
+        "osm_id": 11878969755,
+        "lon": -4.543173,
+        "lat": 54.171708,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11878969755"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",

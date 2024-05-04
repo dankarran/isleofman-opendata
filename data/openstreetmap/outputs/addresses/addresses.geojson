@@ -2990,6 +2990,33 @@
     },
     {
       "type": "Feature",
+      "id": 3806958320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475703,
+          54.148722
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15-17",
+        "addr:postcode": "IM1 2LT",
+        "addr:street": "Walpole Avenue",
+        "amenity": "ice_cream",
+        "name": "Gelatory",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "website": "https://www.gelatory.store",
+        "osm_id": 3806958320,
+        "lon": -4.475703,
+        "lat": 54.148722,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/3806958320"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4115148160,
       "geometry": {
         "type": "Point",
@@ -8263,6 +8290,33 @@
     },
     {
       "type": "Feature",
+      "id": 10829691491,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379648,
+          54.320868
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LE",
+        "amenity": "restaurant",
+        "cuisine": "periperi",
+        "name": "Ramsey Peri Peri",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 10829691491,
+        "lon": -4.379648,
+        "lat": 54.320868,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10829691491"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10829691496,
       "geometry": {
         "type": "Point",
@@ -9332,6 +9386,61 @@
         "lat": 54.158185,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11874165105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11878969755,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.543173,
+          54.171708
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:country": "IM",
+        "addr:housename": "Cronk Beg",
+        "addr:place": "Glenlough Farm",
+        "addr:postcode": "IM4 4AT",
+        "fixme": "check position within farm",
+        "name": "BallaKarran Meat Company",
+        "shop": "butcher",
+        "source": "Isle of Man Government Companies Registry",
+        "website": "https://ballakarran.com",
+        "osm_id": 11878969755,
+        "lon": -4.543173,
+        "lat": 54.171708,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11878969755"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11879076094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.596628,
+          54.165941
+        ]
+      },
+      "properties": {
+        "addr:city": "Eairy",
+        "addr:country": "IM",
+        "addr:housename": "Gorselands",
+        "addr:postcode": "IM4 2HO",
+        "addr:street": "Foxdale Road",
+        "fixme": "check whether it's the cottage or the house",
+        "name": "Gorselands Holiday Cottage",
+        "source": "streetside;Isle of Man Government Companies Registry",
+        "tourism": "chalet",
+        "osm_id": 11879076094,
+        "lon": -4.596628,
+        "lat": 54.165941,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11879076094"
       }
     },
     {
@@ -54910,6 +55019,60 @@
     },
     {
       "type": "Feature",
+      "id": 102856117,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384112,
+            54.322133
+          ],
+          [
+            -4.384195,
+            54.322135
+          ],
+          [
+            -4.384198,
+            54.322029
+          ],
+          [
+            -4.384209,
+            54.321899
+          ],
+          [
+            -4.384133,
+            54.321896
+          ],
+          [
+            -4.384121,
+            54.32202
+          ],
+          [
+            -4.384112,
+            54.322133
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "67",
+        "addr:postcode": "IM8 1DL",
+        "addr:street": "Parliament Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/White-Tiger-Cafe-More-100078333697489/",
+        "name": "White Tiger Cafe",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 102856117,
+        "lon": -4.384161263669239,
+        "lat": 54.322016996048674,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856117"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856121,
       "geometry": {
         "type": "LineString",
@@ -66862,6 +67025,57 @@
         "lat": 54.14757538479144,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/158683961"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158683967,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.639048,
+            54.146989
+          ],
+          [
+            -4.638585,
+            54.146988
+          ],
+          [
+            -4.638586,
+            54.146881
+          ],
+          [
+            -4.638713,
+            54.146881
+          ],
+          [
+            -4.638713,
+            54.146935
+          ],
+          [
+            -4.639049,
+            54.146936
+          ],
+          [
+            -4.639048,
+            54.146989
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballamodha",
+        "addr:country": "IM",
+        "addr:housename": "Ballaglea Cottage",
+        "addr:place": "Solomons Corner",
+        "addr:postcode": "IM9 3AZ",
+        "building": "yes",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 158683967,
+        "lon": -4.638801109176909,
+        "lat": 54.14695081276484,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158683967"
       }
     },
     {
