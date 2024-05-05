@@ -1857,12 +1857,12 @@
         "addr:postcode": "IM2 4NF",
         "addr:street": "Queens Promenade",
         "children": "no",
+        "fixme": "check if still exists",
         "name": "Inglewood",
         "operator": "Cross Hotels Ltd",
         "phone": "01624 674734",
         "smoking": "no",
-        "tourism": "guest_house",
-        "website": "https://www.inglewood.im/"
+        "tourism": "guest_house"
       }
     },
     {
@@ -7061,6 +7061,28 @@
     },
     {
       "type": "Feature",
+      "id": 11167151447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.755936,
+          54.085377
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM9 6AW",
+        "addr:street": "Station Road",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/CafeRedPE/",
+        "name": "Cafe Red",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 11182101772,
       "geometry": {
         "type": "Point",
@@ -7656,6 +7678,29 @@
         "name": "Gorselands Holiday Cottage",
         "source": "streetside;Isle of Man Government Companies Registry",
         "tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11881848854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.758123,
+          54.084153
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Athol Park Guest House",
+        "addr:postcode": "IM9 6EX",
+        "addr:street": "Athol Park",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/p/Athol-Park-Chinese-Restaurant-100067607140828/",
+        "cuisine": "chinese",
+        "name": "Athol Park Chinese Restaurant",
+        "source": "Isle of Man Government Company Registry"
       }
     },
     {
@@ -22055,6 +22100,60 @@
     },
     {
       "type": "Feature",
+      "id": 62226371,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47897,
+            54.15369
+          ],
+          [
+            -4.478977,
+            54.153651
+          ],
+          [
+            -4.479005,
+            54.153643
+          ],
+          [
+            -4.479155,
+            54.153679
+          ],
+          [
+            -4.479124,
+            54.153723
+          ],
+          [
+            -4.479111,
+            54.15372
+          ],
+          [
+            -4.47897,
+            54.15369
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 2HA",
+        "addr:street": "Castle Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "cuisine": "chinese",
+        "name": "New Hong Kong",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "source:name": "photo"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 62226372,
       "geometry": {
         "type": "LineString",
@@ -27567,7 +27666,7 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Sadler & Vanderplank Opticians",
+        "name": "Tracy Vanderplank Opticians",
         "phone": "+44 1624 673643",
         "shop": "optician",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -29409,6 +29508,205 @@
         "addr:street": "King Edward Road",
         "building": "office",
         "old_name": "Skandia House"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822378,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468011,
+            54.164593
+          ],
+          [
+            -4.467937,
+            54.164644
+          ],
+          [
+            -4.467967,
+            54.164659
+          ],
+          [
+            -4.468008,
+            54.164679
+          ],
+          [
+            -4.468082,
+            54.164628
+          ],
+          [
+            -4.468011,
+            54.164593
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "building": "yes",
+        "name": "Promenade Shirts",
+        "shop": "clothes",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "website": "https://promenadeshirts.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822388,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468345,
+            54.164394
+          ],
+          [
+            -4.468316,
+            54.16438
+          ],
+          [
+            -4.468255,
+            54.164422
+          ],
+          [
+            -4.468285,
+            54.164437
+          ],
+          [
+            -4.468345,
+            54.164394
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "name": "Aura Bar & Bistro",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://www.aurabarbistro.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822400,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.46807,
+            54.164552
+          ],
+          [
+            -4.46814,
+            54.164503
+          ],
+          [
+            -4.468169,
+            54.164517
+          ],
+          [
+            -4.468211,
+            54.164538
+          ],
+          [
+            -4.468141,
+            54.164587
+          ],
+          [
+            -4.46807,
+            54.164552
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "building": "yes",
+        "name": "Ron Smiths",
+        "shop": "hairdresser",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "website": "https://www.ronsmiths.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822410,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468907,
+            54.164433
+          ],
+          [
+            -4.468982,
+            54.16438
+          ],
+          [
+            -4.46874,
+            54.16426
+          ],
+          [
+            -4.468526,
+            54.164149
+          ],
+          [
+            -4.468494,
+            54.164185
+          ],
+          [
+            -4.46851,
+            54.164213
+          ],
+          [
+            -4.468617,
+            54.164301
+          ],
+          [
+            -4.468665,
+            54.164333
+          ],
+          [
+            -4.468782,
+            54.16439
+          ],
+          [
+            -4.468805,
+            54.16438
+          ],
+          [
+            -4.468907,
+            54.164433
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NF",
+        "addr:street": "Queens Promenade",
+        "building": "yes",
+        "name": "Hydro",
+        "phone": "+44 1624 676870",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "hotel",
+        "website": "http://www.hydrohotel.co.im"
       }
     },
     {
@@ -45690,6 +45988,57 @@
         "ref:registered_building": "307",
         "url:registered_building": "https://www.gov.im/media/1373622/307-notice-and-entry-summary.pdf",
         "wikidata": "Q118188710"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101847182,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758158,
+            54.084195
+          ],
+          [
+            -4.758056,
+            54.084178
+          ],
+          [
+            -4.758101,
+            54.084086
+          ],
+          [
+            -4.758149,
+            54.083987
+          ],
+          [
+            -4.758223,
+            54.083999
+          ],
+          [
+            -4.758179,
+            54.084089
+          ],
+          [
+            -4.758208,
+            54.084094
+          ],
+          [
+            -4.758158,
+            54.084195
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 6EX",
+        "addr:street": "Athol Park",
+        "building": "yes",
+        "name": "Athol Park Guesthouse",
+        "postal_code": "IM9 6EX",
+        "tourism": "guest_house"
       }
     },
     {
@@ -82256,6 +82605,68 @@
     },
     {
       "type": "Feature",
+      "id": 292052815,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.642051,
+            54.203111
+          ],
+          [
+            -4.642205,
+            54.203111
+          ],
+          [
+            -4.642205,
+            54.203083
+          ],
+          [
+            -4.642245,
+            54.203083
+          ],
+          [
+            -4.642245,
+            54.202964
+          ],
+          [
+            -4.642149,
+            54.202964
+          ],
+          [
+            -4.642149,
+            54.202928
+          ],
+          [
+            -4.642052,
+            54.202928
+          ],
+          [
+            -4.642052,
+            54.203013
+          ],
+          [
+            -4.642051,
+            54.203111
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:postcode": "IM4 3NA",
+        "addr:street": "St Johns Main Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/greenscafeiom/",
+        "diet:vegetarian": "only",
+        "name": "Green's",
+        "source": "Bing;survey;",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "website": "http://www.greensiom.com"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 292928215,
       "geometry": {
         "type": "LineString",
@@ -87086,6 +87497,57 @@
         "addr:street": "Cronk Cullyn",
         "building": "house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 410363358,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479787,
+            54.147861
+          ],
+          [
+            -4.479774,
+            54.147793
+          ],
+          [
+            -4.479872,
+            54.147787
+          ],
+          [
+            -4.479898,
+            54.14791
+          ],
+          [
+            -4.479813,
+            54.147916
+          ],
+          [
+            -4.4798,
+            54.14786
+          ],
+          [
+            -4.479787,
+            54.147861
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "32",
+        "addr:postcode": "IM1 4LB",
+        "addr:street": "North Quay",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "JC's Bar & Restaurant",
+        "phone": "+44 1624 677774",
+        "source": "Isle of Man Government aerial imagery (2001);photo;mapillary;Isle of Man Government Companies Registry"
       }
     },
     {
@@ -124161,6 +124623,131 @@
         "building": "house",
         "source": "Isle of Man Government 1:25000 map (2007);streetside",
         "source:addr": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1240437021,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.511092,
+            54.173861
+          ],
+          [
+            -4.510897,
+            54.173761
+          ],
+          [
+            -4.51059,
+            54.173601
+          ],
+          [
+            -4.510453,
+            54.173525
+          ],
+          [
+            -4.510496,
+            54.173496
+          ],
+          [
+            -4.510464,
+            54.173491
+          ],
+          [
+            -4.510438,
+            54.17348
+          ],
+          [
+            -4.510421,
+            54.173465
+          ],
+          [
+            -4.510413,
+            54.173447
+          ],
+          [
+            -4.51041,
+            54.17343
+          ],
+          [
+            -4.510411,
+            54.173412
+          ],
+          [
+            -4.510423,
+            54.173396
+          ],
+          [
+            -4.510399,
+            54.173385
+          ],
+          [
+            -4.510358,
+            54.173413
+          ],
+          [
+            -4.510202,
+            54.173333
+          ],
+          [
+            -4.510467,
+            54.173157
+          ],
+          [
+            -4.510923,
+            54.173385
+          ],
+          [
+            -4.510989,
+            54.173343
+          ],
+          [
+            -4.511291,
+            54.173502
+          ],
+          [
+            -4.511038,
+            54.173667
+          ],
+          [
+            -4.511088,
+            54.173692
+          ],
+          [
+            -4.511114,
+            54.173675
+          ],
+          [
+            -4.511212,
+            54.173725
+          ],
+          [
+            -4.511177,
+            54.173749
+          ],
+          [
+            -4.511225,
+            54.173773
+          ],
+          [
+            -4.511092,
+            54.173861
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Strang",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4RF",
+        "addr:street": "Ballaoates Road",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "The Roundhouse",
+        "operator": "Braddan Commissioners",
+        "operator:type": "government",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {

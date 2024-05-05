@@ -7277,7 +7277,7 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Sadler & Vanderplank Opticians",
+        "name": "Tracy Vanderplank Opticians",
         "phone": "+44 1624 673643",
         "shop": "optician",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -7720,8 +7720,9 @@
       },
       "properties": {
         "building": "yes",
+        "name": "The Shop",
         "shop": "tourist",
-        "source": "Isle of Man Government aerial imagery (2001)",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
         "osm_id": 80822375,
         "lon": -4.468076,
         "lat": 54.16459,
@@ -7731,83 +7732,51 @@
     },
     {
       "type": "Feature",
-      "id": 80822388,
+      "id": 80822378,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.468345,
-            54.164394
+            -4.468011,
+            54.164593
           ],
           [
-            -4.468316,
-            54.16438
+            -4.467937,
+            54.164644
           ],
           [
-            -4.468255,
-            54.164422
+            -4.467967,
+            54.164659
           ],
           [
-            -4.468285,
-            54.164437
+            -4.468008,
+            54.164679
           ],
           [
-            -4.468345,
-            54.164394
+            -4.468082,
+            54.164628
+          ],
+          [
+            -4.468011,
+            54.164593
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
         "building": "yes",
-        "name": "Crossley Travel",
-        "office": "travel_agent",
-        "shop": "travel_agency",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 80822388,
-        "lon": -4.468300043646895,
-        "lat": 54.1644083748886,
+        "name": "Promenade Shirts",
+        "shop": "clothes",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "website": "https://promenadeshirts.com",
+        "osm_id": 80822378,
+        "lon": -4.468009490074027,
+        "lat": 54.16463601996185,
         "osm_type": "way",
-        "osm_url": "https://osm.org/way/80822388"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 80822399,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.46814,
-            54.164503
-          ],
-          [
-            -4.4682,
-            54.164461
-          ],
-          [
-            -4.468229,
-            54.164476
-          ],
-          [
-            -4.468169,
-            54.164517
-          ],
-          [
-            -4.46814,
-            54.164503
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "Vanity Fur",
-        "shop": "pet_grooming",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 80822399,
-        "lon": -4.468184524515271,
-        "lat": 54.1644891864073,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/80822399"
+        "osm_url": "https://osm.org/way/80822378"
       }
     },
     {
@@ -7843,10 +7812,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
         "building": "yes",
-        "name": "Cheers",
-        "shop": "alcohol",
-        "source": "Isle of Man Government aerial imagery (2001)",
+        "name": "Ron Smiths",
+        "shop": "hairdresser",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "website": "https://www.ronsmiths.im",
         "osm_id": 80822400,
         "lon": -4.468140514261436,
         "lat": 54.164544971236495,
@@ -7903,10 +7879,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Swiss Buildings",
         "addr:street": "Queens Promenade",
         "building": "yes",
-        "name": "Promenade Shirts",
+        "name": "TT Shirts.com",
         "phone": "01624 675160",
         "postal_code": "IM2 4NH",
         "shop": "clothes",

@@ -6069,6 +6069,59 @@
     },
     {
       "type": "Feature",
+      "id": 25986554,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.705808,
+            54.185148
+          ],
+          [
+            -4.706021,
+            54.18503
+          ],
+          [
+            -4.706103,
+            54.184956
+          ],
+          [
+            -4.705739,
+            54.184831
+          ],
+          [
+            -4.705436,
+            54.184777
+          ],
+          [
+            -4.705291,
+            54.184758
+          ],
+          [
+            -4.705322,
+            54.184591
+          ],
+          [
+            -4.705387,
+            54.184474
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Creggan Ashen",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Creggan Aashen",
+        "name:gv": "Creggan Aashen",
+        "postal_code": "IM5 3DA",
+        "source:name": "streetside",
+        "source:postal_code": "Isle of Man Government Companies Registry",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986582,
       "geometry": {
         "type": "LineString",
@@ -16226,6 +16279,38 @@
     },
     {
       "type": "Feature",
+      "id": 25988976,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.706103,
+            54.184956
+          ],
+          [
+            -4.706183,
+            54.184866
+          ],
+          [
+            -4.706287,
+            54.184625
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Creggan Ashen",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Creggan Aashen",
+        "name:gv": "Creggan Aashen",
+        "postal_code": "IM5 3DA",
+        "source": "streetside",
+        "source:postal_code": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988985,
       "geometry": {
         "type": "LineString",
@@ -26202,10 +26287,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Swiss Buildings",
         "addr:street": "Queens Promenade",
         "building": "yes",
-        "name": "Promenade Shirts",
+        "name": "TT Shirts.com",
         "phone": "01624 675160",
         "postal_code": "IM2 4NH",
         "shop": "clothes",
@@ -27539,13 +27626,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
         "addr:country": "IM",
+        "addr:postcode": "IM9 6EX",
         "addr:street": "Athol Park",
         "building": "yes",
-        "name": "Anchorage Guesthouse",
+        "name": "Athol Park Guesthouse",
         "postal_code": "IM9 6EX",
-        "tourism": "guest_house",
-        "website": "http://www.anchorageguesthouse.com/"
+        "tourism": "guest_house"
       }
     },
     {
@@ -36554,6 +36642,35 @@
         "source:name": "Isle of Man Government 1:25000 map",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1176704725,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.705291,
+            54.184758
+          ],
+          [
+            -4.705195,
+            54.184754
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Creggan Ashen",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Creggan Aashen",
+        "name:gv": "Creggan Aashen",
+        "postal_code": "IM5 3DA",
+        "source:name": "streetside",
+        "source:postal_code": "Isle of Man Government Companies Registry",
+        "surface": "paved"
       }
     },
     {

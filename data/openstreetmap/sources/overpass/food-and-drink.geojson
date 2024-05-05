@@ -492,6 +492,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2a",
+        "addr:street": "Christian Street",
         "amenity": "fast_food",
         "name": "Anatolia",
         "phone": "+441624840888"
@@ -2263,11 +2267,14 @@
       },
       "properties": {
         "addr:city": "Port Erin",
+        "addr:country": "IM",
         "addr:housenumber": "37",
+        "addr:postcode": "IM9 6AW",
         "addr:street": "Station Road",
         "amenity": "cafe",
         "contact:facebook": "https://www.facebook.com/CafeRedPE/",
-        "name": "Cafe Red"
+        "name": "Cafe Red",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -2530,6 +2537,29 @@
         "amenity": "restaurant",
         "name": "Ramsey Golf Club",
         "website": "https://www.ramseygolfclub.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11881848854,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.758123,
+          54.084153
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Athol Park Guest House",
+        "addr:postcode": "IM9 6EX",
+        "addr:street": "Athol Park",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/p/Athol-Park-Chinese-Restaurant-100067607140828/",
+        "cuisine": "chinese",
+        "name": "Athol Park Chinese Restaurant",
+        "source": "Isle of Man Government Company Registry"
       }
     },
     {
@@ -3871,6 +3901,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 2HA",
+        "addr:street": "Castle Street",
         "amenity": "fast_food",
         "building": "yes",
         "building:colour": "white",
@@ -3879,6 +3914,7 @@
         "cuisine": "chinese",
         "name": "New Hong Kong",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr": "Isle of Man Government Companies Registry",
         "source:name": "photo"
       }
     },
@@ -5035,13 +5071,17 @@
     },
     {
       "type": "Feature",
-      "id": 80822384,
+      "id": 80822388,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.4682,
-            54.164461
+            -4.468345,
+            54.164394
+          ],
+          [
+            -4.468316,
+            54.16438
           ],
           [
             -4.468255,
@@ -5052,20 +5092,25 @@
             54.164437
           ],
           [
-            -4.468229,
-            54.164476
-          ],
-          [
-            -4.4682,
-            54.164461
+            -4.468345,
+            54.164394
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
         "amenity": "restaurant",
         "building": "yes",
-        "name": "Four Seasons",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "cuisine": "indian",
+        "name": "Aura Bar & Bistro",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://www.aurabarbistro.com"
       }
     },
     {
@@ -10236,6 +10281,7 @@
       },
       "properties": {
         "addr:city": "St John's",
+        "addr:postcode": "IM4 3NA",
         "addr:street": "St Johns Main Road",
         "amenity": "cafe",
         "building": "yes",
@@ -10243,6 +10289,7 @@
         "diet:vegetarian": "only",
         "name": "Green's",
         "source": "Bing;survey;",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "website": "http://www.greensiom.com"
       }
     },
@@ -10505,15 +10552,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "32",
+        "addr:postcode": "IM1 4LB",
+        "addr:street": "North Quay",
         "amenity": "restaurant",
         "building": "yes",
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "cuisine": "tapas",
-        "name": "Da Vinci's",
+        "name": "JC's Bar & Restaurant",
         "phone": "+44 1624 677774",
-        "source": "Isle of Man Government aerial imagery (2001);photo"
+        "source": "Isle of Man Government aerial imagery (2001);photo;mapillary;Isle of Man Government Companies Registry"
       }
     },
     {
@@ -10561,8 +10611,9 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Samphire",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "name": "The Grand House",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "website": "https://grandhouse.im"
       }
     },
     {

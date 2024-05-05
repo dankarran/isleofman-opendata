@@ -1898,10 +1898,10 @@
         ]
       },
       "properties": {
+        "fixme": "check if still exists",
         "name": "Silvercraigs",
         "phone": "01624 677776",
         "tourism": "hotel",
-        "website": "http://www.silvercraigshotel.com",
         "osm_id": 939199116,
         "lon": -4.468655,
         "lat": 54.164109,
@@ -1926,12 +1926,12 @@
         "addr:postcode": "IM2 4NF",
         "addr:street": "Queens Promenade",
         "children": "no",
+        "fixme": "check if still exists",
         "name": "Inglewood",
         "operator": "Cross Hotels Ltd",
         "phone": "01624 674734",
         "smoking": "no",
         "tourism": "guest_house",
-        "website": "https://www.inglewood.im/",
         "osm_id": 939199118,
         "lon": -4.468746,
         "lat": 54.164052,
@@ -9036,67 +9036,21 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NF",
+        "addr:street": "Queens Promenade",
         "building": "yes",
         "name": "Hydro",
-        "phone": "01624 676870",
+        "phone": "+44 1624 676870",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
-        "website": "https://www.hydrohotel.co.im/",
+        "website": "http://www.hydrohotel.co.im",
         "osm_id": 80822410,
         "lon": -4.468730678285103,
         "lat": 54.164299911583335,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80822410"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 80822418,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.468464,
-            54.164591
-          ],
-          [
-            -4.46839,
-            54.164555
-          ],
-          [
-            -4.468229,
-            54.164476
-          ],
-          [
-            -4.468285,
-            54.164437
-          ],
-          [
-            -4.468435,
-            54.16451
-          ],
-          [
-            -4.468493,
-            54.164542
-          ],
-          [
-            -4.468464,
-            54.164591
-          ]
-        ]
-      },
-      "properties": {
-        "brand": "Four Seasons",
-        "brand:wikidata": "Q1424786",
-        "building": "yes",
-        "name": "Four Seasons",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "hotel",
-        "osm_id": 80822418,
-        "lon": -4.46836494369134,
-        "lat": 54.16451114179193,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/80822418"
       }
     },
     {
@@ -10593,13 +10547,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
         "addr:country": "IM",
+        "addr:postcode": "IM9 6EX",
         "addr:street": "Athol Park",
         "building": "yes",
-        "name": "Anchorage Guesthouse",
+        "name": "Athol Park Guesthouse",
         "postal_code": "IM9 6EX",
         "tourism": "guest_house",
-        "website": "http://www.anchorageguesthouse.com/",
         "osm_id": 101847182,
         "lon": -4.758147294887733,
         "lat": 54.08409426492564,
