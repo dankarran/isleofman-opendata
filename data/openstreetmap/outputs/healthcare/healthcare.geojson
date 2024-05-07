@@ -1584,11 +1584,13 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housenumber": "6-8",
+        "addr:postcode": "IM5 1HE",
         "addr:street": "Michael Street",
         "amenity": "pharmacy",
         "building": "yes",
         "healthcare": "pharmacy",
         "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im/",
         "osm_id": 146972138,
         "lon": -4.694661657444295,
         "lat": 54.222634057666745,
@@ -1603,16 +1605,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ],
           [
-            -4.692404,
-            54.222635
+            -4.692402,
+            54.222632
           ],
           [
-            -4.692276,
-            54.2226
+            -4.692278,
+            54.222599
           ],
           [
             -4.692236,
@@ -1623,12 +1625,12 @@
             54.222707
           ],
           [
-            -4.692312,
-            54.222745
+            -4.692315,
+            54.222744
           ],
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ]
         ]
       },
@@ -1646,8 +1648,8 @@
         "toilets:wheelchair": "no",
         "wheelchair": "yes",
         "osm_id": 147183390,
-        "lon": -4.692294897638584,
-        "lat": 54.222671665835726,
+        "lon": -4.69229490929187,
+        "lat": 54.22267121436131,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/147183390"
       }

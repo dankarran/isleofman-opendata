@@ -65,6 +65,31 @@
     },
     {
       "type": "Feature",
+      "id": 455677528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452114,
+          54.167499
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 1EB",
+        "addr:street": "Port Jack",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:SPAR (retailer)",
+        "name": "Spar",
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal19038-spar-onchan"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 459976551,
       "geometry": {
         "type": "Point",
@@ -2828,6 +2853,33 @@
     },
     {
       "type": "Feature",
+      "id": 5169005099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45616,
+          54.17534
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "25B",
+        "addr:place": "Village Walk",
+        "addr:postcode": "IM3 4EA",
+        "amenity": "fast_food",
+        "contact:phone": "+44 1624 602152",
+        "cuisine": "fish_and_chips",
+        "indoor_seating": "yes",
+        "name": "New Cod on the Block",
+        "opening_hours": "Mo 16:30-19:30 \"Take-away\", Tu-Su 11:30-14:30 \"Take-away\", 16:30-20:00 \"Take-away\", Mo 16:30-19:00 \"Diner\", Tu-Su 11:30-14:30 \"Diner\", 16:30-19:30 \"Diner\"",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 5252054773,
       "geometry": {
         "type": "Point",
@@ -2993,6 +3045,34 @@
         "shop": "butcher",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "website": "https://www.ballakelly.farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6609128010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.69747,
+          54.223064
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Mariners Wharf",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
+        "addr:substreet": "Mariners Wharf",
+        "amenity": "restaurant",
+        "cuisine": "seafood",
+        "lunch": "yes",
+        "name": "The Boatyard Restaurant",
+        "phone": "+44 1624 845470",
+        "reservation": "yes",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://theboatyardpeel.com/",
+        "wheelchair": "yes"
       }
     },
     {
@@ -50312,7 +50392,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "68a",
-        "addr:postcode": "IM8",
+        "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "building": "yes",
         "name": "Pink Seaweed",
@@ -57864,6 +57944,54 @@
     },
     {
       "type": "Feature",
+      "id": 146833672,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.695582,
+            54.223663
+          ],
+          [
+            -4.695462,
+            54.223693
+          ],
+          [
+            -4.695434,
+            54.223658
+          ],
+          [
+            -4.695394,
+            54.223599
+          ],
+          [
+            -4.695513,
+            54.223569
+          ],
+          [
+            -4.69554,
+            54.223606
+          ],
+          [
+            -4.695582,
+            54.223663
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "32",
+        "addr:postcode": "IM5 1NW",
+        "addr:street": "Market Street",
+        "building": "yes",
+        "name": "Mannin Music Shop",
+        "shop": "music",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146835165,
       "geometry": {
         "type": "LineString",
@@ -58021,6 +58149,150 @@
     },
     {
       "type": "Feature",
+      "id": 146910948,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69721,
+            54.222413
+          ],
+          [
+            -4.697087,
+            54.222467
+          ],
+          [
+            -4.697111,
+            54.22248
+          ],
+          [
+            -4.697301,
+            54.222441
+          ],
+          [
+            -4.697334,
+            54.222443
+          ],
+          [
+            -4.697401,
+            54.222363
+          ],
+          [
+            -4.697401,
+            54.22231
+          ],
+          [
+            -4.69735,
+            54.222314
+          ],
+          [
+            -4.697301,
+            54.22223
+          ],
+          [
+            -4.697304,
+            54.222211
+          ],
+          [
+            -4.697259,
+            54.222154
+          ],
+          [
+            -4.697072,
+            54.222212
+          ],
+          [
+            -4.697129,
+            54.222277
+          ],
+          [
+            -4.69721,
+            54.222413
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:postcode": "IM5 1AT",
+        "addr:street": "Station Place",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/The-Creek-Inn-100063570971405/",
+        "food": "yes",
+        "internet_access": "wlan",
+        "name": "The Creek Inn",
+        "real_ale": "yes",
+        "smoking": "outside",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146972138,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694812,
+            54.222694
+          ],
+          [
+            -4.694689,
+            54.222701
+          ],
+          [
+            -4.694566,
+            54.222704
+          ],
+          [
+            -4.694565,
+            54.222622
+          ],
+          [
+            -4.694566,
+            54.222597
+          ],
+          [
+            -4.694521,
+            54.222572
+          ],
+          [
+            -4.69459,
+            54.22253
+          ],
+          [
+            -4.694681,
+            54.222574
+          ],
+          [
+            -4.694684,
+            54.222633
+          ],
+          [
+            -4.694804,
+            54.222628
+          ],
+          [
+            -4.694812,
+            54.222694
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6-8",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Michael Street",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146980703,
       "geometry": {
         "type": "LineString",
@@ -58062,6 +58334,66 @@
         "addr:postcode": "IM5 1HA",
         "addr:street": "Michael Street",
         "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146980704,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693705,
+            54.222729
+          ],
+          [
+            -4.693798,
+            54.222727
+          ],
+          [
+            -4.693801,
+            54.222702
+          ],
+          [
+            -4.693804,
+            54.222654
+          ],
+          [
+            -4.693805,
+            54.222637
+          ],
+          [
+            -4.693787,
+            54.222637
+          ],
+          [
+            -4.693808,
+            54.222493
+          ],
+          [
+            -4.693746,
+            54.222491
+          ],
+          [
+            -4.693709,
+            54.222632
+          ],
+          [
+            -4.693705,
+            54.222729
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM5 1HB",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "Peel News Centre",
+        "shop": "newsagent",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -58174,16 +58506,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ],
           [
-            -4.692404,
-            54.222635
+            -4.692402,
+            54.222632
           ],
           [
-            -4.692276,
-            54.2226
+            -4.692278,
+            54.222599
           ],
           [
             -4.692236,
@@ -58194,12 +58526,12 @@
             54.222707
           ],
           [
-            -4.692312,
-            54.222745
+            -4.692315,
+            54.222744
           ],
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ]
         ]
       },
@@ -58450,32 +58782,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692426,
-            54.222503
+            -4.692412,
+            54.222515
           ],
           [
-            -4.692361,
-            54.222485
+            -4.692356,
+            54.2225
           ],
           [
-            -4.692276,
-            54.2226
+            -4.692278,
+            54.222599
           ],
           [
-            -4.692404,
-            54.222635
-          ],
-          [
-            -4.69243,
-            54.222603
-          ],
-          [
-            -4.692496,
-            54.222523
+            -4.692402,
+            54.222632
           ],
           [
             -4.692426,
-            54.222503
+            54.222602
+          ],
+          [
+            -4.69248,
+            54.222533
+          ],
+          [
+            -4.692412,
+            54.222515
           ]
         ]
       },
@@ -58538,6 +58870,152 @@
         "operator:wikidata": "Q3432658",
         "source": "Isle of Man Government aerial imagery (2001)",
         "telecom": "exchange"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147191821,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693256,
+            54.222774
+          ],
+          [
+            -4.693157,
+            54.222783
+          ],
+          [
+            -4.693161,
+            54.222703
+          ],
+          [
+            -4.693171,
+            54.222644
+          ],
+          [
+            -4.693225,
+            54.222641
+          ],
+          [
+            -4.693222,
+            54.222698
+          ],
+          [
+            -4.693246,
+            54.222698
+          ],
+          [
+            -4.693256,
+            54.222774
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM5 1HD",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "IJ & JM Mitchell, Newsagents",
+        "shop": "newsagent",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147191845,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692561,
+            54.222805
+          ],
+          [
+            -4.692477,
+            54.222787
+          ],
+          [
+            -4.692517,
+            54.222734
+          ],
+          [
+            -4.692573,
+            54.222745
+          ],
+          [
+            -4.692561,
+            54.222805
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Hong Kong Delight",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147191861,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692386,
+            54.222764
+          ],
+          [
+            -4.692315,
+            54.222744
+          ],
+          [
+            -4.692359,
+            54.222688
+          ],
+          [
+            -4.692402,
+            54.222632
+          ],
+          [
+            -4.692475,
+            54.222653
+          ],
+          [
+            -4.692427,
+            54.22271
+          ],
+          [
+            -4.692386,
+            54.222764
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Royal-India-Peel-Isle-Of-Man-Im5-1he-100054267200028/",
+        "cuisine": "indian",
+        "fixme": "restaurant probably only takes up half of this building",
+        "name": "Royal India",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "wheelchair": "yes"
       }
     },
     {
@@ -63245,6 +63723,55 @@
         "shop": "gift;houseware",
         "source": "survey",
         "website": "https://trendonlineiom.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 168817261,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.697304,
+            54.223868
+          ],
+          [
+            -4.697357,
+            54.223941
+          ],
+          [
+            -4.69748,
+            54.223917
+          ],
+          [
+            -4.697485,
+            54.223863
+          ],
+          [
+            -4.697394,
+            54.223881
+          ],
+          [
+            -4.69738,
+            54.223852
+          ],
+          [
+            -4.697304,
+            54.223868
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "fish_and_chips",
+        "name": "Waters Edge",
+        "operator": "Peel Fisheries",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -80565,6 +81092,62 @@
     },
     {
       "type": "Feature",
+      "id": 247968423,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455939,
+            54.175461
+          ],
+          [
+            -4.456062,
+            54.175528
+          ],
+          [
+            -4.45613,
+            54.175526
+          ],
+          [
+            -4.456214,
+            54.175473
+          ],
+          [
+            -4.456212,
+            54.175434
+          ],
+          [
+            -4.456089,
+            54.175367
+          ],
+          [
+            -4.455939,
+            54.175461
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "24A",
+        "addr:postcode": "IM3 4EA",
+        "addr:street": "Avondale Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "brand:wikipedia": "en:Domino's Pizza",
+        "building": "yes",
+        "contact:website": "https://www.dominos.co.uk/pizza-near-me/douglas/unit-24b-the-village-walk",
+        "cuisine": "pizza",
+        "layer": "2",
+        "level": "1",
+        "name": "Domino's",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 247968424,
       "geometry": {
         "type": "LineString",
@@ -95996,6 +96579,57 @@
     },
     {
       "type": "Feature",
+      "id": 655702919,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.50434,
+            54.151757
+          ],
+          [
+            -4.504442,
+            54.151674
+          ],
+          [
+            -4.504386,
+            54.151649
+          ],
+          [
+            -4.504335,
+            54.151688
+          ],
+          [
+            -4.504284,
+            54.151664
+          ],
+          [
+            -4.504193,
+            54.151686
+          ],
+          [
+            -4.50434,
+            54.151757
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 1DU",
+        "addr:street": "Groves Road",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
+        "building": "yes",
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes",
+        "website": "https://www.dominos.co.uk/pizza-near-me/douglas/groves-road"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 657558412,
       "geometry": {
         "type": "LineString",
@@ -100678,6 +101312,56 @@
         "landuse": "commercial",
         "name": "Northern Civic Amenity Site",
         "smoking": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 908204536,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.465891,
+            54.207442
+          ],
+          [
+            -4.466088,
+            54.207437
+          ],
+          [
+            -4.466074,
+            54.207238
+          ],
+          [
+            -4.4658,
+            54.207245
+          ],
+          [
+            -4.465804,
+            54.207305
+          ],
+          [
+            -4.465881,
+            54.207303
+          ],
+          [
+            -4.465888,
+            54.207393
+          ],
+          [
+            -4.465891,
+            54.207442
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:postcode": "IM4 5BP",
+        "addr:street": "Mountain Road",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Creg-ny-baa",
+        "website": "https://www.creg-ny-baa.com/"
       }
     },
     {
@@ -129171,6 +129855,89 @@
         "building": "house",
         "house": "detached",
         "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1280034750,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698364,
+            54.195346
+          ],
+          [
+            -4.698316,
+            54.195416
+          ],
+          [
+            -4.698082,
+            54.19536
+          ],
+          [
+            -4.69821,
+            54.195175
+          ],
+          [
+            -4.698287,
+            54.195193
+          ],
+          [
+            -4.698207,
+            54.195309
+          ],
+          [
+            -4.698364,
+            54.195346
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Patrick",
+        "addr:place": "Gordon",
+        "addr:postcode": "IM5 3AR",
+        "building": "yes",
+        "name": "Ballacallin Court",
+        "tourism": "chalet",
+        "website": "https://isleofman-holidaycottages.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1280577084,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692477,
+            54.222787
+          ],
+          [
+            -4.692386,
+            54.222764
+          ],
+          [
+            -4.692427,
+            54.22271
+          ],
+          [
+            -4.692517,
+            54.222734
+          ],
+          [
+            -4.692477,
+            54.222787
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "building": "yes"
       }
     }
   ]

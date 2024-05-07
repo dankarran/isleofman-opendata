@@ -2976,6 +2976,34 @@
     },
     {
       "type": "Feature",
+      "id": 4344213963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.375264,
+          54.271639
+        ]
+      },
+      "properties": {
+        "light_rail": "yes",
+        "name": "The Garey",
+        "name:en": "The Garey",
+        "name:gv": "Ny Garey",
+        "network": "Manx Electric Railway",
+        "public_transport": "stop_position",
+        "railway": "halt",
+        "ref": "50040",
+        "wikidata": "Q7735872",
+        "wikipedia": "en:The Garey",
+        "osm_id": 4344213963,
+        "lon": -4.375264,
+        "lat": 54.271639,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/4344213963"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4344214028,
       "geometry": {
         "type": "Point",

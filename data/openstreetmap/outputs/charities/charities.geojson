@@ -763,6 +763,60 @@
     },
     {
       "type": "Feature",
+      "id": 146972088,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694878,
+            54.22269
+          ],
+          [
+            -4.694993,
+            54.222682
+          ],
+          [
+            -4.695008,
+            54.222662
+          ],
+          [
+            -4.694862,
+            54.222551
+          ],
+          [
+            -4.694817,
+            54.222576
+          ],
+          [
+            -4.694845,
+            54.222626
+          ],
+          [
+            -4.694878,
+            54.22269
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Hospice",
+        "ref:charity": "317",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com",
+        "osm_id": 146972088,
+        "lon": -4.694906309911381,
+        "lat": 54.22263025093368,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146972088"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 152690581,
       "geometry": {
         "type": "LineString",

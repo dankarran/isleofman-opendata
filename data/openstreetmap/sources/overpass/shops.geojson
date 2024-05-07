@@ -43,11 +43,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 1EB",
+        "addr:street": "Port Jack",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:SPAR (retailer)",
         "name": "Spar",
-        "shop": "convenience"
+        "opening_hours": "Mo-Su 08:00-21:00",
+        "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal19038-spar-onchan"
       }
     },
     {
@@ -11185,7 +11192,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "68a",
-        "addr:postcode": "IM8",
+        "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "building": "yes",
         "name": "Pink Seaweed",
@@ -12594,10 +12601,12 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housenumber": "32",
+        "addr:postcode": "IM5 1NW",
         "addr:street": "Market Street",
         "building": "yes",
         "name": "Mannin Music Shop",
-        "shop": "music"
+        "shop": "music",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -12872,8 +12881,11 @@
         "addr:housenumber": "2",
         "addr:street": "Michael Street",
         "building": "yes",
+        "charity": "yes",
         "name": "Hospice",
-        "shop": "charity"
+        "ref:charity": "317",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com"
       }
     },
     {
@@ -13085,10 +13097,12 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housenumber": "24",
+        "addr:postcode": "IM5 1HB",
         "addr:street": "Michael Street",
         "building": "yes",
         "name": "Peel News Centre",
-        "shop": "newsagent"
+        "shop": "newsagent",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -13557,10 +13571,12 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housenumber": "38",
+        "addr:postcode": "IM5 1HD",
         "addr:street": "Michael Street",
         "building": "yes",
         "name": "IJ & JM Mitchell, Newsagents",
-        "shop": "newsagent"
+        "shop": "newsagent",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {

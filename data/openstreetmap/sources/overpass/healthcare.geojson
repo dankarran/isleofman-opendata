@@ -1409,11 +1409,13 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housenumber": "6-8",
+        "addr:postcode": "IM5 1HE",
         "addr:street": "Michael Street",
         "amenity": "pharmacy",
         "building": "yes",
         "healthcare": "pharmacy",
-        "name": "Clear Pharmacy"
+        "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im/"
       }
     },
     {
@@ -1423,16 +1425,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ],
           [
-            -4.692404,
-            54.222635
+            -4.692402,
+            54.222632
           ],
           [
-            -4.692276,
-            54.2226
+            -4.692278,
+            54.222599
           ],
           [
             -4.692236,
@@ -1443,12 +1445,12 @@
             54.222707
           ],
           [
-            -4.692312,
-            54.222745
+            -4.692315,
+            54.222744
           ],
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ]
         ]
       },

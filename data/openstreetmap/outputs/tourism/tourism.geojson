@@ -21732,6 +21732,57 @@
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1273671095"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1280034750,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698364,
+            54.195346
+          ],
+          [
+            -4.698316,
+            54.195416
+          ],
+          [
+            -4.698082,
+            54.19536
+          ],
+          [
+            -4.69821,
+            54.195175
+          ],
+          [
+            -4.698287,
+            54.195193
+          ],
+          [
+            -4.698207,
+            54.195309
+          ],
+          [
+            -4.698364,
+            54.195346
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Patrick",
+        "addr:place": "Gordon",
+        "addr:postcode": "IM5 3AR",
+        "building": "yes",
+        "name": "Ballacallin Court",
+        "tourism": "chalet",
+        "website": "https://isleofman-holidaycottages.com",
+        "osm_id": 1280034750,
+        "lon": -4.698225482794548,
+        "lat": 54.1953097617977,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1280034750"
+      }
     }
   ]
 }

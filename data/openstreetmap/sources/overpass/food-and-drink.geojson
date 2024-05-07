@@ -1520,12 +1520,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "25B",
+        "addr:place": "Village Walk",
+        "addr:postcode": "IM3 4EA",
         "amenity": "fast_food",
         "contact:phone": "+44 1624 602152",
         "cuisine": "fish_and_chips",
         "indoor_seating": "yes",
         "name": "New Cod on the Block",
         "opening_hours": "Mo 16:30-19:30 \"Take-away\", Tu-Su 11:30-14:30 \"Take-away\", 16:30-20:00 \"Take-away\", Mo 16:30-19:00 \"Diner\", Tu-Su 11:30-14:30 \"Diner\", 16:30-19:30 \"Diner\"",
+        "source:addr": "Isle of Man Government Companies Registry",
         "takeaway": "yes",
         "wheelchair": "yes"
       }
@@ -1567,7 +1573,8 @@
       "properties": {
         "addr:city": "Peel",
         "addr:country": "IM",
-        "addr:housename": "The Boatyard Restaurant",
+        "addr:housename": "Mariners Wharf",
+        "addr:postcode": "IM5 1AR",
         "addr:street": "East Quay",
         "addr:substreet": "Mariners Wharf",
         "amenity": "restaurant",
@@ -1576,6 +1583,7 @@
         "name": "The Boatyard Restaurant",
         "phone": "+44 1624 845470",
         "reservation": "yes",
+        "source:addr": "Isle of Man Government Companies Registry",
         "website": "https://theboatyardpeel.com/",
         "wheelchair": "yes"
       }
@@ -8485,13 +8493,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:postcode": "IM5 1AT",
+        "addr:street": "Station Place",
         "amenity": "pub",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/The-Creek-Inn-100063570971405/",
         "food": "yes",
         "internet_access": "wlan",
         "name": "The Creek Inn",
         "real_ale": "yes",
-        "smoking": "outside"
+        "smoking": "outside",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -8684,32 +8697,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692426,
-            54.222503
+            -4.692412,
+            54.222515
           ],
           [
-            -4.692361,
-            54.222485
+            -4.692356,
+            54.2225
           ],
           [
-            -4.692276,
-            54.2226
+            -4.692278,
+            54.222599
           ],
           [
-            -4.692404,
-            54.222635
-          ],
-          [
-            -4.69243,
-            54.222603
-          ],
-          [
-            -4.692496,
-            54.222523
+            -4.692402,
+            54.222632
           ],
           [
             -4.692426,
-            54.222503
+            54.222602
+          ],
+          [
+            -4.69248,
+            54.222533
+          ],
+          [
+            -4.692412,
+            54.222515
           ]
         ]
       },
@@ -8824,11 +8837,11 @@
             54.222805
           ],
           [
-            -4.692478,
-            54.222789
+            -4.692477,
+            54.222787
           ],
           [
-            -4.692515,
+            -4.692517,
             54.222734
           ],
           [
@@ -8844,11 +8857,14 @@
       "properties": {
         "addr:city": "Peel",
         "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM5 1HE",
         "addr:street": "Atholl Place",
         "amenity": "restaurant",
         "building": "yes",
         "cuisine": "chinese",
         "name": "Hong Kong Delight",
+        "source:addr": "Isle of Man Government Companies Registry",
         "wheelchair": "no"
       }
     },
@@ -8859,47 +8875,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692478,
-            54.222789
+            -4.692386,
+            54.222764
           ],
           [
-            -4.692312,
-            54.222745
+            -4.692315,
+            54.222744
           ],
           [
-            -4.692357,
-            54.222687
+            -4.692359,
+            54.222688
           ],
           [
-            -4.692404,
-            54.222635
+            -4.692402,
+            54.222632
           ],
           [
-            -4.692464,
-            54.222651
+            -4.692475,
+            54.222653
           ],
           [
-            -4.69242,
-            54.222708
+            -4.692427,
+            54.22271
           ],
           [
-            -4.692515,
-            54.222734
-          ],
-          [
-            -4.692478,
-            54.222789
+            -4.692386,
+            54.222764
           ]
         ]
       },
       "properties": {
         "addr:city": "Peel",
         "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1HE",
         "addr:street": "Atholl Place",
         "amenity": "restaurant",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Royal-India-Peel-Isle-Of-Man-Im5-1he-100054267200028/",
         "cuisine": "indian",
+        "fixme": "restaurant probably only takes up half of this building",
         "name": "Royal India",
+        "source:addr": "Isle of Man Government Companies Registry",
         "wheelchair": "yes"
       }
     },
@@ -9434,11 +9451,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
         "amenity": "fast_food",
         "building": "yes",
         "cuisine": "fish_and_chips",
         "name": "Waters Edge",
-        "operator": "Peel Fisheries"
+        "operator": "Peel Fisheries",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -10174,7 +10196,7 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "24A",
-        "addr:place": "Village Walk",
+        "addr:postcode": "IM3 4EA",
         "addr:street": "Avondale Road",
         "amenity": "fast_food",
         "brand": "Domino's",
@@ -12963,13 +12985,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 1DU",
+        "addr:street": "Groves Road",
         "amenity": "fast_food",
         "brand": "Domino's",
         "brand:wikidata": "Q839466",
         "building": "yes",
         "cuisine": "pizza",
         "name": "Domino's",
-        "takeaway": "yes"
+        "takeaway": "yes",
+        "website": "https://www.dominos.co.uk/pizza-near-me/douglas/groves-road"
       }
     },
     {
@@ -13410,11 +13437,11 @@
       },
       "properties": {
         "addr:country": "IM",
+        "addr:postcode": "IM4 5BP",
         "addr:street": "Mountain Road",
         "amenity": "pub",
         "building": "yes",
         "name": "Creg-ny-baa",
-        "postal_code": "IM4 5BP",
         "website": "https://www.creg-ny-baa.com/"
       }
     },
