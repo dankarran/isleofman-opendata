@@ -10645,6 +10645,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "2",
+        "addr:postcode": "IM8 1JT",
         "addr:street": "Market Hill",
         "building": "yes",
         "name": "Ramsey Art Gallery",
@@ -21782,6 +21783,68 @@
         "lat": 54.1953097617977,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1280034750"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1280889802,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384749,
+            54.332311
+          ],
+          [
+            -4.384497,
+            54.332849
+          ],
+          [
+            -4.384293,
+            54.333096
+          ],
+          [
+            -4.384409,
+            54.333135
+          ],
+          [
+            -4.384524,
+            54.333149
+          ],
+          [
+            -4.384739,
+            54.332974
+          ],
+          [
+            -4.384883,
+            54.332786
+          ],
+          [
+            -4.385023,
+            54.332574
+          ],
+          [
+            -4.385028,
+            54.332402
+          ],
+          [
+            -4.38498,
+            54.332317
+          ],
+          [
+            -4.384749,
+            54.332311
+          ]
+        ]
+      },
+      "properties": {
+        "motorhome": "yes",
+        "tourism": "caravan_site",
+        "osm_id": 1280889802,
+        "lon": -4.384692589827373,
+        "lat": 54.33274001787946,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1280889802"
       }
     }
   ]

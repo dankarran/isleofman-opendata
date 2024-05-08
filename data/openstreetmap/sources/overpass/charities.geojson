@@ -51,6 +51,27 @@
     },
     {
       "type": "Feature",
+      "id": 10829691498,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379619,
+          54.320828
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:place": "Saint Paul's Square",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Treasured-100070007569320/",
+        "name": "Treasured",
+        "ref:charity": "1321",
+        "shop": "charity"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 11800214430,
       "geometry": {
         "type": "Point",
@@ -72,6 +93,61 @@
         "ref:charity": "549",
         "shop": "charity",
         "website": "https://www.ageconcern.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59384494,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469835,
+            54.14479
+          ],
+          [
+            -4.469624,
+            54.144918
+          ],
+          [
+            -4.469667,
+            54.144942
+          ],
+          [
+            -4.46971,
+            54.144967
+          ],
+          [
+            -4.469921,
+            54.144839
+          ],
+          [
+            -4.469877,
+            54.144813
+          ],
+          [
+            -4.469835,
+            54.14479
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:street": "Battery Pier",
+        "building": "yes",
+        "charity": "lifeboat",
+        "emergency": "water_rescue",
+        "name": "Douglas Lifeboat Station",
+        "operator": "Royal National Lifeboat Institution",
+        "operator:short": "RNLI",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q2166873",
+        "postal_code": "IM1 5BT",
+        "seamark:name": "Douglas Lifeboat Station",
+        "seamark:rescue_station:category": "lifeboat",
+        "seamark:type": "rescue_station",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://rnli.org/find-my-nearest/lifeboat-stations/douglas-lifeboat-station"
       }
     },
     {
@@ -132,6 +208,125 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632129/0500100regbld20finchroad.pdf",
         "wikidata": "Q118188645"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59700895,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.697883,
+            54.227006
+          ],
+          [
+            -4.698034,
+            54.226971
+          ],
+          [
+            -4.698158,
+            54.227151
+          ],
+          [
+            -4.698007,
+            54.227186
+          ],
+          [
+            -4.697883,
+            54.227006
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1TG",
+        "addr:street": "West Quay",
+        "building": "yes",
+        "charity": "lifeboat",
+        "emergency": "water_rescue",
+        "name": "Peel Lifeboat Station",
+        "operator": "Royal National Lifeboat Institution",
+        "operator:short": "RNLI",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q2166873",
+        "operator:wikipedia": "en:Royal National Lifeboat Institution",
+        "seamark:name": "Peel Lifeboat Station",
+        "seamark:rescue_station:category": "lifeboat",
+        "seamark:type": "rescue_station",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://rnli.org/find-my-nearest/lifeboat-stations/peel-lifeboat-station"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60007259,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.767893,
+            54.085094
+          ],
+          [
+            -4.767971,
+            54.085078
+          ],
+          [
+            -4.768168,
+            54.085081
+          ],
+          [
+            -4.768203,
+            54.085147
+          ],
+          [
+            -4.768071,
+            54.085173
+          ],
+          [
+            -4.768105,
+            54.085232
+          ],
+          [
+            -4.768063,
+            54.085241
+          ],
+          [
+            -4.768025,
+            54.085249
+          ],
+          [
+            -4.767987,
+            54.085256
+          ],
+          [
+            -4.767893,
+            54.085094
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 6JA",
+        "addr:street": "Breakwater Road",
+        "building": "yes",
+        "charity": "lifeboat",
+        "emergency": "water_rescue",
+        "name": "Port Erin Lifeboat Station",
+        "not:addr:postcode": "IM9 6BU",
+        "operator": "Royal National Lifeboat Institution",
+        "operator:short": "RNLI",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q2166873",
+        "operator:wikipedia": "en:Royal National Lifeboat Institution",
+        "seamark:name": "Port Erin Lifeboat Station",
+        "seamark:rescue_station:category": "lifeboat",
+        "seamark:type": "rescue_station",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://rnli.org/find-my-nearest/lifeboat-stations/port-erin-lifeboat-station"
       }
     },
     {
@@ -446,6 +641,155 @@
         "ref:charity": "549",
         "shop": "charity",
         "website": "https://www.ageconcern.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101875153,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.734669,
+            54.07045
+          ],
+          [
+            -4.734602,
+            54.070403
+          ],
+          [
+            -4.734398,
+            54.070504
+          ],
+          [
+            -4.734464,
+            54.07055
+          ],
+          [
+            -4.734546,
+            54.07051
+          ],
+          [
+            -4.734669,
+            54.07045
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Lifeboat Station",
+        "addr:postcode": "IM9 5EF",
+        "addr:street": "Lime Street",
+        "building": "house",
+        "charity": "lifeboat",
+        "emergency": "water_rescue",
+        "listed_status": "Registered",
+        "name": "Port St Mary Lifeboat Station",
+        "operator": "Royal National Lifeboat Institution",
+        "operator:short": "RNLI",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q2166873",
+        "operator:wikipedia": "en:Royal National Lifeboat Institution",
+        "ref:registered_building": "304",
+        "seamark:name": "Port St Mary Lifeboat Station",
+        "seamark:rescue_station:category": "lifeboat",
+        "seamark:type": "rescue_station",
+        "start_date": "1898",
+        "url:registered_building": "https://www.gov.im/media/1373623/304-notice-and-entry-summary.pdf",
+        "website": "https://rnli.org/find-my-nearest/lifeboat-stations/port-st-mary-lifeboat-station",
+        "wikidata": "Q118188708"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102635562,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380222,
+            54.321224
+          ],
+          [
+            -4.38015,
+            54.321263
+          ],
+          [
+            -4.380036,
+            54.321193
+          ],
+          [
+            -4.380108,
+            54.321153
+          ],
+          [
+            -4.380222,
+            54.321224
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
+        "building": "yes",
+        "charity": "lifeboat",
+        "name": "Royal National Lifeboat Institute",
+        "operator:type": "charitable",
+        "shop": "gift",
+        "source": "Bing",
+        "website": "https://rnli.org/find-my-nearest/shops/ramsey-rnli-shop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102737932,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.378363,
+            54.322623
+          ],
+          [
+            -4.37831,
+            54.322548
+          ],
+          [
+            -4.37862,
+            54.322474
+          ],
+          [
+            -4.378673,
+            54.32255
+          ],
+          [
+            -4.378363,
+            54.322623
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "New Norbury Boat House",
+        "addr:street": "South Promenade",
+        "building": "yes",
+        "charity": "lifeboat",
+        "emergency": "water_rescue",
+        "name": "Ramsey Lifeboat Station",
+        "operator": "Royal National Lifeboat Institution",
+        "operator:short": "RNLI",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q2166873",
+        "operator:wikipedia": "en:Royal National Lifeboat Institution",
+        "seamark:name": "Ramsey Lifeboat Station",
+        "seamark:rescue_station:category": "lifeboat",
+        "seamark:type": "rescue_station",
+        "website": "https://rnli.org/find-my-nearest/lifeboat-stations/ramsey-lifeboat-station"
       }
     },
     {

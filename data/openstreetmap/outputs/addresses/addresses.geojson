@@ -2090,6 +2090,34 @@
     },
     {
       "type": "Feature",
+      "id": 727751263,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478999,
+          54.15253
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "brand": "Monsoon",
+        "brand:wikidata": "Q65007501",
+        "name": "Monsoon",
+        "shop": "clothes",
+        "source": "photo",
+        "website": "https://www.monsoon.co.uk/",
+        "osm_id": 727751263,
+        "lon": -4.478999,
+        "lat": 54.15253,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/727751263"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 727751272,
       "geometry": {
         "type": "Point",
@@ -3094,6 +3122,34 @@
         "lat": 54.149828,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/4143616747"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4179606352,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479004,
+          54.152499
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "brand": "Accessorize",
+        "brand:wikidata": "Q65007482",
+        "name": "Accessorize",
+        "shop": "fashion_accessories",
+        "website": "https://www.accessorize.com/uk",
+        "osm_id": 4179606352,
+        "lon": -4.479004,
+        "lat": 54.152499,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/4179606352"
       }
     },
     {
@@ -4684,32 +4740,6 @@
         "lat": 54.323986,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10298696213"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10598603548,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.378647,
-          54.319675
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:housenumber": "45",
-        "addr:postcode": "IM8 1LH",
-        "addr:street": "Waterloo Road",
-        "name": "Drop Inn Kids",
-        "source": "streetside",
-        "was:shop": "charity",
-        "website": "https://dropinn.net/place/isle-of-man-kids-shop",
-        "osm_id": 10598603548,
-        "lon": -4.378647,
-        "lat": 54.319675,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10598603548"
       }
     },
     {
@@ -8385,6 +8415,59 @@
     },
     {
       "type": "Feature",
+      "id": 10829691487,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.378897,
+          54.320842
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
+        "contact:facebook": "https://www.facebook.com/p/Model-World-100057351193436/",
+        "name": "Model World",
+        "shop": "model",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 10829691487,
+        "lon": -4.378897,
+        "lat": 54.320842,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10829691487"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10829691488,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.378865,
+          54.320801
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
+        "name": "Edwina's",
+        "shop": "gift",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 10829691488,
+        "lon": -4.378865,
+        "lat": 54.320801,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10829691488"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10829691491,
       "geometry": {
         "type": "Point",
@@ -8403,6 +8486,7 @@
         "cuisine": "periperi",
         "name": "Ramsey Peri Peri",
         "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://ramseyperiperi.com",
         "osm_id": 10829691491,
         "lon": -4.379648,
         "lat": 54.320868,
@@ -8432,6 +8516,7 @@
         "dispensing": "yes",
         "healthcare": "pharmacy",
         "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im",
         "osm_id": 10829691496,
         "lon": -4.379561,
         "lat": 54.320747,
@@ -8570,33 +8655,6 @@
     },
     {
       "type": "Feature",
-      "id": 10925748866,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.378623,
-          54.319661
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housename": "Corner Filling Station",
-        "addr:postcode": "IM8 1LH",
-        "addr:street": "Waterloo Road",
-        "club": "sport",
-        "contact:facebook": "https://www.facebook.com/people/IOM-Northern-Boxing-Club/100063593318025/",
-        "name": "IOM Northern Boxing Club",
-        "sport": "boxing",
-        "osm_id": 10925748866,
-        "lon": -4.378623,
-        "lat": 54.319661,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10925748866"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10929120365,
       "geometry": {
         "type": "Point",
@@ -8644,6 +8702,33 @@
         "lat": 54.148581,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10929268791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10946924724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478928,
+          54.154015
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM1 2HD",
+        "addr:street": "Marina Road",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=100092525676951",
+        "name": "The Coffee Hub",
+        "old_name": "Cafe Buzz",
+        "osm_id": 10946924724,
+        "lon": -4.478928,
+        "lat": 54.154015,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10946924724"
       }
     },
     {
@@ -9591,6 +9676,35 @@
         "lat": 54.084153,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11881848854"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11889062920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479306,
+          54.152368
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "1A",
+        "brand": "Leonidas",
+        "brand:wikidata": "Q80335",
+        "fixme": "check which unit it's in",
+        "name": "Leonidas",
+        "shop": "chocolate",
+        "source": "Isle of Man Government Companies Registry;social media",
+        "osm_id": 11889062920,
+        "lon": -4.479306,
+        "lat": 54.152368,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11889062920"
       }
     },
     {
@@ -15412,10 +15526,12 @@
         "addr:postcode": "IM5 1TG",
         "addr:street": "West Quay",
         "building": "yes",
+        "charity": "lifeboat",
         "emergency": "water_rescue",
         "name": "Peel Lifeboat Station",
         "operator": "Royal National Lifeboat Institution",
         "operator:short": "RNLI",
+        "operator:type": "charitable",
         "operator:wikidata": "Q2166873",
         "operator:wikipedia": "en:Royal National Lifeboat Institution",
         "seamark:name": "Peel Lifeboat Station",
@@ -16454,11 +16570,13 @@
         "addr:postcode": "IM9 6JA",
         "addr:street": "Breakwater Road",
         "building": "yes",
+        "charity": "lifeboat",
         "emergency": "water_rescue",
         "name": "Port Erin Lifeboat Station",
         "not:addr:postcode": "IM9 6BU",
         "operator": "Royal National Lifeboat Institution",
         "operator:short": "RNLI",
+        "operator:type": "charitable",
         "operator:wikidata": "Q2166873",
         "operator:wikipedia": "en:Royal National Lifeboat Institution",
         "seamark:name": "Port Erin Lifeboat Station",
@@ -41138,6 +41256,75 @@
     },
     {
       "type": "Feature",
+      "id": 99620577,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.514815,
+            54.319321
+          ],
+          [
+            -4.514732,
+            54.319217
+          ],
+          [
+            -4.514756,
+            54.319211
+          ],
+          [
+            -4.514718,
+            54.319167
+          ],
+          [
+            -4.514981,
+            54.319095
+          ],
+          [
+            -4.515051,
+            54.319189
+          ],
+          [
+            -4.515,
+            54.319203
+          ],
+          [
+            -4.51507,
+            54.319285
+          ],
+          [
+            -4.514944,
+            54.319321
+          ],
+          [
+            -4.514919,
+            54.319294
+          ],
+          [
+            -4.514815,
+            54.319321
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballaugh",
+        "addr:place": "Curraghs Wildlife Park",
+        "addr:postcode": "IM7 5EA",
+        "addr:street": "Main Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Mangrove Caf\u00e9",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://www.curraghswildlifepark.im/whats-here/mangrove-cafe/",
+        "osm_id": 99620577,
+        "lon": -4.514902384664136,
+        "lat": 54.319216136923174,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/99620577"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 99861920,
       "geometry": {
         "type": "LineString",
@@ -52755,11 +52942,13 @@
         "addr:postcode": "IM9 5EF",
         "addr:street": "Lime Street",
         "building": "house",
+        "charity": "lifeboat",
         "emergency": "water_rescue",
         "listed_status": "Registered",
         "name": "Port St Mary Lifeboat Station",
         "operator": "Royal National Lifeboat Institution",
         "operator:short": "RNLI",
+        "operator:type": "charitable",
         "operator:wikidata": "Q2166873",
         "operator:wikipedia": "en:Royal National Lifeboat Institution",
         "ref:registered_building": "304",
@@ -53392,6 +53581,54 @@
     },
     {
       "type": "Feature",
+      "id": 102635562,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380222,
+            54.321224
+          ],
+          [
+            -4.38015,
+            54.321263
+          ],
+          [
+            -4.380036,
+            54.321193
+          ],
+          [
+            -4.380108,
+            54.321153
+          ],
+          [
+            -4.380222,
+            54.321224
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
+        "building": "yes",
+        "charity": "lifeboat",
+        "name": "Royal National Lifeboat Institute",
+        "operator:type": "charitable",
+        "shop": "gift",
+        "source": "Bing",
+        "website": "https://rnli.org/find-my-nearest/shops/ramsey-rnli-shop",
+        "osm_id": 102635562,
+        "lon": -4.3801289803831915,
+        "lat": 54.32120818675557,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102635562"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102638456,
       "geometry": {
         "type": "LineString",
@@ -53600,6 +53837,55 @@
         "lat": 54.32152912636512,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102638462"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102638470,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380101,
+            54.321429
+          ],
+          [
+            -4.380072,
+            54.321357
+          ],
+          [
+            -4.380205,
+            54.321339
+          ],
+          [
+            -4.380234,
+            54.32141
+          ],
+          [
+            -4.380101,
+            54.321429
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
+        "building": "yes",
+        "name": "Ramsey Art Gallery",
+        "postal_code": "IM8 1AP",
+        "shop": "art",
+        "source": "survey",
+        "tourism": "artwork",
+        "website": "http://www.ramseyartgallery.com/",
+        "wheelchair": "yes",
+        "osm_id": 102638470,
+        "lon": -4.380152858998885,
+        "lat": 54.32138378191711,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102638470"
       }
     },
     {
@@ -53962,6 +54248,54 @@
     },
     {
       "type": "Feature",
+      "id": 102638504,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380034,
+            54.321438
+          ],
+          [
+            -4.380101,
+            54.321429
+          ],
+          [
+            -4.380072,
+            54.321357
+          ],
+          [
+            -4.380004,
+            54.321368
+          ],
+          [
+            -4.380034,
+            54.321438
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JH",
+        "addr:street": "Market Hill",
+        "building": "yes",
+        "fixme": "check housenumber, 1 and 3 Market Hill seem to be on the opposite side of the road",
+        "name": "Travel World Ramsey",
+        "shop": "travel_agency",
+        "source": "survey",
+        "website": "https://www.travelworld.im",
+        "wheelchair": "no",
+        "osm_id": 102638504,
+        "lon": -4.380052854969228,
+        "lat": 54.32139781798215,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102638504"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102638510,
       "geometry": {
         "type": "LineString",
@@ -54180,6 +54514,60 @@
         "lat": 54.318155690871606,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102737950"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102737955,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383062,
+            54.322074
+          ],
+          [
+            -4.383188,
+            54.322092
+          ],
+          [
+            -4.383344,
+            54.321782
+          ],
+          [
+            -4.383217,
+            54.321761
+          ],
+          [
+            -4.383166,
+            54.321865
+          ],
+          [
+            -4.383123,
+            54.321951
+          ],
+          [
+            -4.383062,
+            54.322074
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "JAC Stores",
+        "shop": "toys",
+        "source": "note",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 102737955,
+        "lon": -4.383202772971475,
+        "lat": 54.321927017162615,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102737955"
       }
     },
     {
@@ -57164,6 +57552,65 @@
         "lat": 54.32000301314916,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102869156"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102869170,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.378595,
+            54.319581
+          ],
+          [
+            -4.378748,
+            54.319682
+          ],
+          [
+            -4.378676,
+            54.319719
+          ],
+          [
+            -4.378497,
+            54.319811
+          ],
+          [
+            -4.378402,
+            54.319748
+          ],
+          [
+            -4.378567,
+            54.319663
+          ],
+          [
+            -4.37851,
+            54.319625
+          ],
+          [
+            -4.378595,
+            54.319581
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Corner Filling Station",
+        "addr:housenumber": "45",
+        "addr:postcode": "IM8 1LH",
+        "addr:street": "Waterloo Road",
+        "building": "yes",
+        "club": "sport",
+        "contact:facebook": "https://www.facebook.com/people/IOM-Northern-Boxing-Club/100063593318025/",
+        "name": "IOM Northern Boxing Club",
+        "sport": "boxing",
+        "osm_id": 102869170,
+        "lon": -4.378569984423903,
+        "lat": 54.319697338822635,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102869170"
       }
     },
     {
@@ -89096,9 +89543,10 @@
         "addr:street": "Avondale Road",
         "amenity": "cafe",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/The-Nutty-Chef-Cafe-100063527501988",
         "level": "0",
-        "name": "The Village Cafe",
-        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
+        "name": "The Nutty Chef Cafe",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey;Isle of Man Government Companies Registry",
         "osm_id": 246812771,
         "lon": -4.455420018341012,
         "lat": 54.175859466454064,
@@ -98937,6 +99385,69 @@
     },
     {
       "type": "Feature",
+      "id": 415157488,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478844,
+            54.152541
+          ],
+          [
+            -4.479147,
+            54.152552
+          ],
+          [
+            -4.479149,
+            54.152599
+          ],
+          [
+            -4.479103,
+            54.152602
+          ],
+          [
+            -4.478848,
+            54.152598
+          ],
+          [
+            -4.478849,
+            54.152569
+          ],
+          [
+            -4.478813,
+            54.15257
+          ],
+          [
+            -4.478809,
+            54.152542
+          ],
+          [
+            -4.478844,
+            54.152541
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "92",
+        "addr:postcode": "IM1 2EP",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "2",
+        "name": "Gadget Mann",
+        "shop": "electronics",
+        "source": "Bing;photograph",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 415157488,
+        "lon": -4.478978523531271,
+        "lat": 54.152571500965024,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/415157488"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 415157496,
       "geometry": {
         "type": "LineString",
@@ -99239,6 +99750,74 @@
     },
     {
       "type": "Feature",
+      "id": 416526306,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47907,
+            54.152829
+          ],
+          [
+            -4.478769,
+            54.152823
+          ],
+          [
+            -4.478773,
+            54.152783
+          ],
+          [
+            -4.478871,
+            54.152786
+          ],
+          [
+            -4.478933,
+            54.152786
+          ],
+          [
+            -4.478937,
+            54.152747
+          ],
+          [
+            -4.478966,
+            54.152748
+          ],
+          [
+            -4.478966,
+            54.15274
+          ],
+          [
+            -4.479084,
+            54.152745
+          ],
+          [
+            -4.479077,
+            54.152791
+          ],
+          [
+            -4.47907,
+            54.152829
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "IM1 2EU",
+        "addr:street": "Castle Street",
+        "building": "retail",
+        "name": "G.H. Corlett",
+        "shop": "jewelry",
+        "website": "https://www.ghcorlett.com/",
+        "osm_id": 416526306,
+        "lon": -4.478933839120805,
+        "lat": 54.152792804886474,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/416526306"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 416526310,
       "geometry": {
         "type": "LineString",
@@ -99462,6 +100041,56 @@
     },
     {
       "type": "Feature",
+      "id": 417401591,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478771,
+            54.152392
+          ],
+          [
+            -4.478764,
+            54.152345
+          ],
+          [
+            -4.479146,
+            54.15235
+          ],
+          [
+            -4.479146,
+            54.152396
+          ],
+          [
+            -4.478771,
+            54.152392
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "84",
+        "addr:postcode": "IM1 2EP",
+        "addr:street": "Strand Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "2",
+        "contact:facebook": "https://www.facebook.com/caponesiom",
+        "name": "Capone's Diner",
+        "source": "Bing;photograph",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "wheelchair": "no",
+        "osm_id": 417401591,
+        "lon": -4.478956397730855,
+        "lat": 54.152370554330346,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/417401591"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 417401593,
       "geometry": {
         "type": "LineString",
@@ -99616,6 +100245,52 @@
         "lat": 54.15243553621611,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/417401605"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 417401622,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478833,
+            54.152475
+          ],
+          [
+            -4.479146,
+            54.152482
+          ],
+          [
+            -4.479147,
+            54.152552
+          ],
+          [
+            -4.478844,
+            54.152541
+          ],
+          [
+            -4.478833,
+            54.152475
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:material": "plaster",
+        "note": "A Monsoon and Accessorize shop in one shop unit",
+        "source": "Bing;photograph",
+        "osm_id": 417401622,
+        "lon": -4.478993093822316,
+        "lat": 54.152512072568996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/417401622"
       }
     },
     {
@@ -134828,6 +135503,61 @@
         "lat": 54.172094,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1163010479"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1164180985,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380036,
+            54.321193
+          ],
+          [
+            -4.379928,
+            54.321252
+          ],
+          [
+            -4.379965,
+            54.321286
+          ],
+          [
+            -4.380023,
+            54.32129
+          ],
+          [
+            -4.380125,
+            54.321276
+          ],
+          [
+            -4.38015,
+            54.321263
+          ],
+          [
+            -4.380036,
+            54.321193
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
+        "amenity": "cafe",
+        "building": "yes",
+        "cuisine": "ice_cream;coffee",
+        "name": "Gelatory",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://www.gelatory.store",
+        "osm_id": 1164180985,
+        "lon": -4.380037637953032,
+        "lat": 54.321251578773364,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1164180985"
       }
     },
     {

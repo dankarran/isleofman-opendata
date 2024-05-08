@@ -612,11 +612,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Monsoon",
         "brand:wikidata": "Q65007501",
         "name": "Monsoon",
         "shop": "clothes",
-        "source": "photo"
+        "source": "photo",
+        "website": "https://www.monsoon.co.uk/"
       }
     },
     {
@@ -1306,10 +1311,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Accessorize",
         "brand:wikidata": "Q65007482",
         "name": "Accessorize",
-        "shop": "fashion_accessories"
+        "shop": "fashion_accessories",
+        "website": "https://www.accessorize.com/uk"
       }
     },
     {
@@ -2472,9 +2483,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "16",
         "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
+        "contact:facebook": "https://www.facebook.com/p/Model-World-100057351193436/",
         "name": "Model World",
-        "shop": "model"
+        "shop": "model",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -2490,9 +2505,12 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "18",
         "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
         "name": "Edwina's",
-        "shop": "gift"
+        "shop": "gift",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -2508,9 +2526,11 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "20",
         "addr:place": "Saint Paul's Square",
         "name": "The Design Hub",
-        "shop": "computer"
+        "shop": "computer",
+        "website": "https://thedesignhubiom.co.uk"
       }
     },
     {
@@ -2526,7 +2546,9 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "21",
         "addr:place": "Saint Paul's Square",
+        "fixme": "company has ceased, may have closed",
         "name": "Memorabilia",
         "shop": "collector"
       }
@@ -2544,9 +2566,11 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "4",
         "addr:place": "Saint Paul's Square",
         "name": "Quality Cleaners Ramsey",
-        "shop": "laundry"
+        "shop": "laundry",
+        "source:addr:housenumber": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -2635,7 +2659,10 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:place": "Saint Paul's Square",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Treasured-100070007569320/",
         "name": "Treasured",
+        "ref:charity": "1321",
         "shop": "charity"
       }
     },
@@ -3115,6 +3142,45 @@
         "shop": "butcher",
         "source": "Isle of Man Government Companies Registry",
         "website": "https://ballakarran.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11889014217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.504986,
+          54.346981
+        ]
+      },
+      "properties": {
+        "name": "Sandygate Farm Shop",
+        "shop": "farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11889062920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479306,
+          54.152368
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "1A",
+        "brand": "Leonidas",
+        "brand:wikidata": "Q80335",
+        "fixme": "check which unit it's in",
+        "name": "Leonidas",
+        "shop": "chocolate",
+        "source": "Isle of Man Government Companies Registry;social media"
       }
     },
     {
@@ -10108,10 +10174,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
         "building": "yes",
+        "charity": "lifeboat",
         "name": "Royal National Lifeboat Institute",
+        "operator:type": "charitable",
         "shop": "gift",
-        "source": "Bing"
+        "source": "Bing",
+        "website": "https://rnli.org/find-my-nearest/shops/ramsey-rnli-shop"
       }
     },
     {
@@ -10273,6 +10347,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "2",
+        "addr:postcode": "IM8 1JT",
         "addr:street": "Market Hill",
         "building": "yes",
         "name": "Ramsey Art Gallery",
@@ -10361,11 +10436,14 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JH",
         "addr:street": "Market Hill",
         "building": "yes",
+        "fixme": "check housenumber, 1 and 3 Market Hill seem to be on the opposite side of the road",
         "name": "Travel World Ramsey",
         "shop": "travel_agency",
         "source": "survey",
+        "website": "https://www.travelworld.im",
         "wheelchair": "no"
       }
     },
@@ -10440,10 +10518,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
         "building": "yes",
         "name": "JAC Stores",
         "shop": "toys",
-        "source": "note"
+        "source": "note",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -17577,12 +17661,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "92",
+        "addr:postcode": "IM1 2EP",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "grey",
         "building:levels": "2",
         "name": "Gadget Mann",
         "shop": "electronics",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -18204,10 +18293,10 @@
       "properties": {
         "addr:country": "IM",
         "addr:housenumber": "4-6",
+        "addr:postcode": "IM1 2EU",
         "addr:street": "Castle Street",
         "building": "retail",
         "name": "G.H. Corlett",
-        "postal_code": "IM1 2EU",
         "shop": "jewelry",
         "website": "https://www.ghcorlett.com/"
       }

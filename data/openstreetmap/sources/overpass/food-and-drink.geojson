@@ -2145,7 +2145,8 @@
         "amenity": "restaurant",
         "cuisine": "periperi",
         "name": "Ramsey Peri Peri",
-        "source:addr": "Isle of Man Government Companies Registry"
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://ramseyperiperi.com"
       }
     },
     {
@@ -2202,10 +2203,12 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "5",
+        "addr:postcode": "IM1 2HD",
         "addr:street": "Marina Road",
         "amenity": "cafe",
         "contact:facebook": "https://www.facebook.com/profile.php?id=100092525676951",
-        "name": "Cafe Buzz"
+        "name": "The Coffee Hub",
+        "old_name": "Cafe Buzz"
       }
     },
     {
@@ -5690,9 +5693,15 @@
         ]
       },
       "properties": {
+        "addr:city": "Ballaugh",
+        "addr:place": "Curraghs Wildlife Park",
+        "addr:postcode": "IM7 5EA",
+        "addr:street": "Main Road",
         "amenity": "cafe",
         "building": "yes",
-        "name": "Lakeside Caf\u00e9"
+        "name": "Mangrove Caf\u00e9",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://www.curraghswildlifepark.im/whats-here/mangrove-cafe/"
       }
     },
     {
@@ -10071,9 +10080,10 @@
         "addr:street": "Avondale Road",
         "amenity": "cafe",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/The-Nutty-Chef-Cafe-100063527501988",
         "level": "0",
-        "name": "The Village Cafe",
-        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey"
+        "name": "The Nutty Chef Cafe",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey;Isle of Man Government Companies Registry"
       }
     },
     {
@@ -11808,6 +11818,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "84",
+        "addr:postcode": "IM1 2EP",
         "addr:street": "Strand Street",
         "amenity": "restaurant",
         "building": "retail",
@@ -11816,6 +11827,7 @@
         "contact:facebook": "https://www.facebook.com/caponesiom",
         "name": "Capone's Diner",
         "source": "Bing;photograph",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "wheelchair": "no"
       }
     },
@@ -14575,10 +14587,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
         "amenity": "cafe",
         "building": "yes",
         "cuisine": "ice_cream;coffee",
-        "name": "Gelatory"
+        "name": "Gelatory",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "website": "https://www.gelatory.store"
       }
     },
     {

@@ -9085,6 +9085,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "2",
+        "addr:postcode": "IM8 1JT",
         "addr:street": "Market Hill",
         "building": "yes",
         "name": "Ramsey Art Gallery",
@@ -19407,6 +19408,63 @@
         "name": "Ballacallin Court",
         "tourism": "chalet",
         "website": "https://isleofman-holidaycottages.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1280889802,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384749,
+            54.332311
+          ],
+          [
+            -4.384497,
+            54.332849
+          ],
+          [
+            -4.384293,
+            54.333096
+          ],
+          [
+            -4.384409,
+            54.333135
+          ],
+          [
+            -4.384524,
+            54.333149
+          ],
+          [
+            -4.384739,
+            54.332974
+          ],
+          [
+            -4.384883,
+            54.332786
+          ],
+          [
+            -4.385023,
+            54.332574
+          ],
+          [
+            -4.385028,
+            54.332402
+          ],
+          [
+            -4.38498,
+            54.332317
+          ],
+          [
+            -4.384749,
+            54.332311
+          ]
+        ]
+      },
+      "properties": {
+        "motorhome": "yes",
+        "tourism": "caravan_site"
       }
     }
   ]

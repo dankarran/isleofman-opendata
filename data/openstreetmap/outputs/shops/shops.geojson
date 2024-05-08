@@ -757,11 +757,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Monsoon",
         "brand:wikidata": "Q65007501",
         "name": "Monsoon",
         "shop": "clothes",
         "source": "photo",
+        "website": "https://www.monsoon.co.uk/",
         "osm_id": 727751263,
         "lon": -4.478999,
         "lat": 54.15253,
@@ -1641,10 +1646,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Accessorize",
         "brand:wikidata": "Q65007482",
         "name": "Accessorize",
         "shop": "fashion_accessories",
+        "website": "https://www.accessorize.com/uk",
         "osm_id": 4179606352,
         "lon": -4.479004,
         "lat": 54.152499,
@@ -3107,9 +3118,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "16",
         "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
+        "contact:facebook": "https://www.facebook.com/p/Model-World-100057351193436/",
         "name": "Model World",
         "shop": "model",
+        "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 10829691487,
         "lon": -4.378897,
         "lat": 54.320842,
@@ -3130,9 +3145,12 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "18",
         "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
         "name": "Edwina's",
         "shop": "gift",
+        "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 10829691488,
         "lon": -4.378865,
         "lat": 54.320801,
@@ -3153,9 +3171,11 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "20",
         "addr:place": "Saint Paul's Square",
         "name": "The Design Hub",
         "shop": "computer",
+        "website": "https://thedesignhubiom.co.uk",
         "osm_id": 10829691489,
         "lon": -4.378834,
         "lat": 54.32076,
@@ -3176,7 +3196,9 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "21",
         "addr:place": "Saint Paul's Square",
+        "fixme": "company has ceased, may have closed",
         "name": "Memorabilia",
         "shop": "collector",
         "osm_id": 10829691490,
@@ -3199,9 +3221,11 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "4",
         "addr:place": "Saint Paul's Square",
         "name": "Quality Cleaners Ramsey",
         "shop": "laundry",
+        "source:addr:housenumber": "Isle of Man Government Companies Registry",
         "osm_id": 10829691492,
         "lon": -4.379349,
         "lat": 54.320466,
@@ -3315,7 +3339,10 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:place": "Saint Paul's Square",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Treasured-100070007569320/",
         "name": "Treasured",
+        "ref:charity": "1321",
         "shop": "charity",
         "osm_id": 10829691498,
         "lon": -4.379619,
@@ -3915,6 +3942,55 @@
         "lat": 54.171708,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11878969755"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11889014217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.504986,
+          54.346981
+        ]
+      },
+      "properties": {
+        "name": "Sandygate Farm Shop",
+        "shop": "farm",
+        "osm_id": 11889014217,
+        "lon": -4.504986,
+        "lat": 54.346981,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11889014217"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11889062920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479306,
+          54.152368
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "1A",
+        "brand": "Leonidas",
+        "brand:wikidata": "Q80335",
+        "fixme": "check which unit it's in",
+        "name": "Leonidas",
+        "shop": "chocolate",
+        "source": "Isle of Man Government Companies Registry;social media",
+        "osm_id": 11889062920,
+        "lon": -4.479306,
+        "lat": 54.152368,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11889062920"
       }
     },
     {
@@ -11533,10 +11609,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM8 1JT",
+        "addr:street": "Market Hill",
         "building": "yes",
+        "charity": "lifeboat",
         "name": "Royal National Lifeboat Institute",
+        "operator:type": "charitable",
         "shop": "gift",
         "source": "Bing",
+        "website": "https://rnli.org/find-my-nearest/shops/ramsey-rnli-shop",
         "osm_id": 102635562,
         "lon": -4.3801289803831915,
         "lat": 54.32120818675557,
@@ -11713,6 +11797,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "2",
+        "addr:postcode": "IM8 1JT",
         "addr:street": "Market Hill",
         "building": "yes",
         "name": "Ramsey Art Gallery",
@@ -11811,11 +11896,14 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "1",
+        "addr:postcode": "IM8 1JH",
         "addr:street": "Market Hill",
         "building": "yes",
+        "fixme": "check housenumber, 1 and 3 Market Hill seem to be on the opposite side of the road",
         "name": "Travel World Ramsey",
         "shop": "travel_agency",
         "source": "survey",
+        "website": "https://www.travelworld.im",
         "wheelchair": "no",
         "osm_id": 102638504,
         "lon": -4.380052854969228,
@@ -11900,10 +11988,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
         "building": "yes",
         "name": "JAC Stores",
         "shop": "toys",
         "source": "note",
+        "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 102737955,
         "lon": -4.383202772971475,
         "lat": 54.321927017162615,
@@ -19807,12 +19901,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "92",
+        "addr:postcode": "IM1 2EP",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "grey",
         "building:levels": "2",
         "name": "Gadget Mann",
         "shop": "electronics",
         "source": "Bing;photograph",
+        "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 415157488,
         "lon": -4.478978523531271,
         "lat": 54.152571500965024,
@@ -20504,10 +20603,10 @@
       "properties": {
         "addr:country": "IM",
         "addr:housenumber": "4-6",
+        "addr:postcode": "IM1 2EU",
         "addr:street": "Castle Street",
         "building": "retail",
         "name": "G.H. Corlett",
-        "postal_code": "IM1 2EU",
         "shop": "jewelry",
         "website": "https://www.ghcorlett.com/",
         "osm_id": 416526306,

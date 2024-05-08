@@ -21755,10 +21755,13 @@
         "addr:country": "IM",
         "addr:street": "Battery Pier",
         "building": "yes",
+        "charity": "lifeboat",
         "emergency": "water_rescue",
         "name": "Douglas Lifeboat Station",
         "operator": "Royal National Lifeboat Institution",
         "operator:short": "RNLI",
+        "operator:type": "charitable",
+        "operator:wikidata": "Q2166873",
         "postal_code": "IM1 5BT",
         "seamark:name": "Douglas Lifeboat Station",
         "seamark:rescue_station:category": "lifeboat",
@@ -27710,6 +27713,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "2",
+        "addr:postcode": "IM8 1JT",
         "addr:street": "Market Hill",
         "building": "yes",
         "name": "Ramsey Art Gallery",
@@ -32690,69 +32694,6 @@
         "name": "ClearVu",
         "postal_code": "IM1 2HB",
         "website": "https://www.cleervu.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 416526306,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.47907,
-            54.152829
-          ],
-          [
-            -4.478769,
-            54.152823
-          ],
-          [
-            -4.478773,
-            54.152783
-          ],
-          [
-            -4.478871,
-            54.152786
-          ],
-          [
-            -4.478933,
-            54.152786
-          ],
-          [
-            -4.478937,
-            54.152747
-          ],
-          [
-            -4.478966,
-            54.152748
-          ],
-          [
-            -4.478966,
-            54.15274
-          ],
-          [
-            -4.479084,
-            54.152745
-          ],
-          [
-            -4.479077,
-            54.152791
-          ],
-          [
-            -4.47907,
-            54.152829
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "4-6",
-        "addr:street": "Castle Street",
-        "building": "retail",
-        "name": "G.H. Corlett",
-        "postal_code": "IM1 2EU",
-        "shop": "jewelry",
-        "website": "https://www.ghcorlett.com/"
       }
     },
     {
