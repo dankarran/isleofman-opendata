@@ -119,7 +119,7 @@ def process_data(data):
 
 
 def company_list(count, suffix):
-    company_numbers = list(range(1, count))
+    company_numbers = list(range(1, count+1))
 
     formatted = []
     for company in company_numbers:
