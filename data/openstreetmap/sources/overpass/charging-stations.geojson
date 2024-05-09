@@ -267,6 +267,23 @@
     },
     {
       "type": "Feature",
+      "id": 11889767185,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.388588,
+          54.322899
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "website": "https://charge.pod-point.com/address/shoprite-car-park-xem85"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1165384236,
       "geometry": {
         "type": "LineString",

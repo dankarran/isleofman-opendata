@@ -924,25 +924,6 @@
     },
     {
       "type": "Feature",
-      "id": 10829691486,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.378929,
-          54.320883
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:place": "Saint Paul's Square",
-        "name": "Idea Hat",
-        "office": "rental",
-        "shop": "yes"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10853999903,
       "geometry": {
         "type": "Point",
@@ -7152,7 +7133,7 @@
         "addr:city": "Tromode",
         "addr:country": "IM",
         "addr:housenumber": "Unit 17a",
-        "addr:place": "Tromode Estate",
+        "addr:postcode": "IM4 4RG",
         "addr:street": "Estate Road",
         "building:part": "yes",
         "contact:phone": "+44 1624 610200",
@@ -7197,7 +7178,7 @@
         "addr:city": "Tromode",
         "addr:country": "IM",
         "addr:housenumber": "Unit 17b",
-        "addr:place": "Tromode Estate",
+        "addr:postcode": "IM4 4RG",
         "addr:street": "Estate Road",
         "building:part": "yes",
         "contact:website": "https://www.antelle.com/",

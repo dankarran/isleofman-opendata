@@ -3065,18 +3065,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.378961,
-          54.320924
+          -4.378955,
+          54.32092
         ]
       },
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "13",
         "addr:place": "Saint Paul's Square",
-        "shop": "vacant",
+        "fixme": "shop type?",
+        "name": "Sandra Jane",
+        "shop": "yes",
         "osm_id": 10829691485,
-        "lon": -4.378961,
-        "lat": 54.320924,
+        "lon": -4.378955,
+        "lat": 54.32092,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10829691485"
       }
@@ -3087,20 +3090,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.378929,
-          54.320883
+          -4.378926,
+          54.320882
         ]
       },
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "14-15",
         "addr:place": "Saint Paul's Square",
-        "name": "Idea Hat",
-        "office": "rental",
-        "shop": "yes",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/pg/DropInnMinistriesIOM",
+        "name": "Drop Inn Kids",
+        "phone": "+44 1624 816141",
+        "shop": "charity",
+        "website": "https://dropinn.net/place/isle-of-man-shop",
         "osm_id": 10829691486,
-        "lon": -4.378929,
-        "lat": 54.320883,
+        "lon": -4.378926,
+        "lat": 54.320882,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10829691486"
       }
@@ -3111,8 +3118,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.378897,
-          54.320842
+          -4.378891,
+          54.320836
         ]
       },
       "properties": {
@@ -3126,8 +3133,8 @@
         "shop": "model",
         "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 10829691487,
-        "lon": -4.378897,
-        "lat": 54.320842,
+        "lon": -4.378891,
+        "lat": 54.320836,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10829691487"
       }
@@ -3881,6 +3888,7 @@
         "contact:email": "suethetide@yahoo.co.uk",
         "contact:phone": "+44 1624 811500",
         "contact:website": "https://www.the-tide.co.uk/",
+        "fixme": "check house number, 22 would be down the road on the other side",
         "name": "The Tide",
         "opening_hours": "Mo-Sa 09:00-17:00",
         "shop": "clothes;gift",
@@ -3905,10 +3913,12 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "31A",
+        "addr:postcode": "IM8 1AT",
         "addr:street": "Parliament Street",
         "entrance": "main",
         "name": "OMA sustainable living",
         "shop": "boutique",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 11815398706,
         "lon": -4.382909,
         "lat": 54.32204,
@@ -11941,6 +11951,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
         "building": "yes",
         "name": "Blue Beauty Bar",
         "shop": "beauty",
@@ -12571,6 +12586,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "66",
+        "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "amenity": "restaurant",
         "building": "yes",
@@ -12579,6 +12595,7 @@
         "contact:website": "https://rumbabas.im/",
         "name": "Rum Baba's",
         "shop": "vacant",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 102856114,
         "lon": -4.384111816467512,
         "lat": 54.322277502534824,
@@ -12719,8 +12736,10 @@
         "addr:street": "Parliament Street",
         "building": "yes",
         "name": "Turner Sports and Leisure",
+        "phone": "+44 1624 817918",
         "shop": "sports",
         "source": "note",
+        "website": "https://www.turnersportsandleisure.com",
         "osm_id": 102856145,
         "lon": -4.386040478903238,
         "lat": 54.32236081194394,
@@ -13234,9 +13253,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:housename": "The Showroom",
+        "addr:postcode": "IM8 1DB",
+        "addr:street": "West Street",
         "building": "yes",
         "name": "Furnitureland",
         "shop": "furniture",
+        "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 102856181,
         "lon": -4.386082435999068,
         "lat": 54.322710944477556,
@@ -13663,8 +13687,10 @@
         "addr:street": "Parliament Square",
         "building": "yes",
         "name": "Spar Ramsey",
+        "note": "website lists address as 84 Parliament Street, which seems a stretch",
         "shop": "supermarket",
         "source": "Bing",
+        "website": "https://www.spar.co.uk/store-locator/hal24302-mannin-ramsey",
         "osm_id": 102890395,
         "lon": -4.386815938341305,
         "lat": 54.321525942711474,
@@ -17644,7 +17670,7 @@
         "addr:city": "Tromode",
         "addr:country": "IM",
         "addr:housenumber": "Unit 16",
-        "addr:place": "Tromode Estate",
+        "addr:postcode": "IM4 4RG",
         "addr:street": "Estate Road",
         "building": "industrial",
         "contact:facebook": "https://www.facebook.com/panelcraftiom/",
@@ -29599,7 +29625,6 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "68",
-        "addr:postcode": "IM8",
         "addr:street": "Parliament Street",
         "building": "yes",
         "shop": "vacant",

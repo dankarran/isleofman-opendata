@@ -1562,6 +1562,28 @@
     },
     {
       "type": "Feature",
+      "id": 5677599322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.378715,
+          54.320607
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "22-25",
+        "addr:place": "Saint Paul's Square",
+        "addr:postcode": "IM8 1LH",
+        "amenity": "restaurant",
+        "name": "The Square",
+        "old_name": "Francesco's 2;Saffron",
+        "source": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 6609128010,
       "geometry": {
         "type": "Point",
@@ -6601,6 +6623,7 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:postcode": "IM8 1JU",
         "addr:street": "Market Place",
         "amenity": "pub",
         "building": "house",
@@ -6608,6 +6631,7 @@
         "name": "The Commercial",
         "old_name": "Mermaid Inn;Ellan Vannin",
         "source": "survey",
+        "source:addr:postcode": "Ilsle of Man Government Companies Registry",
         "wheelchair": "no"
       }
     },
@@ -6878,10 +6902,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
         "amenity": "fast_food",
         "building": "yes",
         "name": "Tasty Bite",
-        "source": "note"
+        "source": "note",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -7205,6 +7235,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "66",
+        "addr:postcode": "IM8 1AJ",
         "addr:street": "Parliament Street",
         "amenity": "restaurant",
         "building": "yes",
@@ -7212,7 +7243,8 @@
         "contact:phone": "+44 1624 264917",
         "contact:website": "https://rumbabas.im/",
         "name": "Rum Baba's",
-        "shop": "vacant"
+        "shop": "vacant",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -7305,11 +7337,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:housenumber": "44",
+        "addr:postcode": "IM8 1AN",
         "addr:street": "Parliament Street",
         "amenity": "restaurant",
         "building": "yes",
         "cuisine": "pizza;italian",
         "name": "Ravioli House",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "wheelchair": "yes"
       }
     },
@@ -7438,10 +7472,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:postcode": "IM8 1AU",
         "addr:street": "Parliament Street",
         "amenity": "pub",
         "building": "yes",
-        "name": "Bar Logo"
+        "name": "Bar Logo",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -7615,11 +7652,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "82",
+        "addr:postcode": "IM8 1AD",
+        "addr:street": "Parliament Street",
         "amenity": "fast_food",
         "building": "yes",
         "cuisine": "chinese",
         "name": "Mandarin Chinese Take Away",
         "source": "survey",
+        "source:addr": "Isle of Man Government Companies Registry",
         "wheelchair": "limited"
       }
     },
@@ -7705,6 +7748,8 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "84-86",
         "addr:street": "Parliament Street",
         "amenity": "fast_food",
         "building": "yes",
@@ -7712,6 +7757,7 @@
         "name": "The Ramsey Trawlerman",
         "photo": "https://www.geograph.org.uk/photo/3148463",
         "source": "survey",
+        "source:addr:housenumber": "Isle of Man Government Companies Registry",
         "toilets:wheelchair": "yes",
         "wheelchair": "yes"
       }
@@ -8388,11 +8434,14 @@
       "properties": {
         "addr:city": "Peel",
         "addr:country": "IM",
-        "addr:housenumber": "12",
+        "addr:housenumber": "12-14",
+        "addr:postcode": "IM5 1AN",
         "addr:street": "Castle Street",
         "amenity": "pub",
         "building": "yes",
-        "name": "The Central"
+        "fixme": "check housenumber - assuming it takes up two numbers",
+        "name": "The Central",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -9029,10 +9078,10 @@
         "addr:street": "Christian Street",
         "amenity": "fast_food",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/peelfisherieschippy",
         "cuisine": "fish_and_chips",
-        "name": "Peel Fisheries",
-        "source": "http://www.peel2011.com/a/athollplace/peelfisheries.html",
-        "website": "http://www.peelfisheries.co.uk"
+        "name": "Peel Fisheries Chippy",
+        "source": "http://www.peel2011.com/a/athollplace/peelfisheries.html"
       }
     },
     {
@@ -9466,8 +9515,10 @@
         "addr:street": "East Quay",
         "amenity": "fast_food",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/quaysidefishandchip",
         "cuisine": "fish_and_chips",
-        "name": "Waters Edge",
+        "name": "Quayside Fish and Chip Shop",
+        "old_name": "Waters Edge",
         "operator": "Peel Fisheries",
         "source:addr:postcode": "Isle of Man Government Companies Registry"
       }

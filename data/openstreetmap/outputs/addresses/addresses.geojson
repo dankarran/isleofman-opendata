@@ -3701,11 +3701,13 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "22",
+        "addr:housenumber": "22-25",
         "addr:place": "Saint Paul's Square",
-        "addr:postcode": "IM8 3AW",
-        "old_name": "Francesco's 2",
-        "was:amenity": "restaurant",
+        "addr:postcode": "IM8 1LH",
+        "amenity": "restaurant",
+        "name": "The Square",
+        "old_name": "Francesco's 2;Saffron",
+        "source": "Isle of Man Government Companies Registry",
         "osm_id": 5677599322,
         "lon": -4.378715,
         "lat": 54.320607,
@@ -4740,6 +4742,34 @@
         "lat": 54.323986,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10298696213"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10298696234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.386505,
+          54.322389
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 1RT",
+        "addr:street": "Parliament Square",
+        "amenity": "library",
+        "internet_access": "yes",
+        "name": "Ramsey Town Library",
+        "operator": "Ramsey Town Commissioners",
+        "operator:type": "government",
+        "website": "https://www.ramsey.gov.im/services/ramsey-town-library/",
+        "osm_id": 10298696234,
+        "lon": -4.386505,
+        "lat": 54.322389,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10298696234"
       }
     },
     {
@@ -8419,8 +8449,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.378897,
-          54.320842
+          -4.378891,
+          54.320836
         ]
       },
       "properties": {
@@ -8434,8 +8464,8 @@
         "shop": "model",
         "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 10829691487,
-        "lon": -4.378897,
-        "lat": 54.320842,
+        "lon": -4.378891,
+        "lat": 54.320836,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10829691487"
       }
@@ -9506,6 +9536,7 @@
         "contact:email": "suethetide@yahoo.co.uk",
         "contact:phone": "+44 1624 811500",
         "contact:website": "https://www.the-tide.co.uk/",
+        "fixme": "check house number, 22 would be down the road on the other side",
         "name": "The Tide",
         "opening_hours": "Mo-Sa 09:00-17:00",
         "shop": "clothes;gift",
@@ -9539,6 +9570,33 @@
         "lat": 54.170303,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11808389011"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11815398706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.382909,
+          54.32204
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "31A",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
+        "entrance": "main",
+        "name": "OMA sustainable living",
+        "shop": "boutique",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "osm_id": 11815398706,
+        "lon": -4.382909,
+        "lat": 54.32204,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11815398706"
       }
     },
     {
@@ -40512,6 +40570,78 @@
     },
     {
       "type": "Feature",
+      "id": 99350136,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38617,
+            54.322626
+          ],
+          [
+            -4.386177,
+            54.32257
+          ],
+          [
+            -4.386347,
+            54.322575
+          ],
+          [
+            -4.386372,
+            54.322327
+          ],
+          [
+            -4.386616,
+            54.32233
+          ],
+          [
+            -4.386857,
+            54.322377
+          ],
+          [
+            -4.386899,
+            54.322425
+          ],
+          [
+            -4.386613,
+            54.32251
+          ],
+          [
+            -4.38653,
+            54.322537
+          ],
+          [
+            -4.386518,
+            54.322638
+          ],
+          [
+            -4.386269,
+            54.322631
+          ],
+          [
+            -4.38617,
+            54.322626
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "IM8 1RT",
+        "addr:street": "Parliament Square",
+        "amenity": "townhall",
+        "building": "yes",
+        "name": "Ramsey Town Hall",
+        "website": "https://www.ramsey.gov.im/",
+        "wheelchair": "yes",
+        "osm_id": 99350136,
+        "lon": -4.386509395617617,
+        "lat": 54.32248337935649,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/99350136"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 99350139,
       "geometry": {
         "type": "LineString",
@@ -53841,6 +53971,58 @@
     },
     {
       "type": "Feature",
+      "id": 102638465,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380294,
+            54.321817
+          ],
+          [
+            -4.380139,
+            54.321816
+          ],
+          [
+            -4.380101,
+            54.321722
+          ],
+          [
+            -4.38025,
+            54.321703
+          ],
+          [
+            -4.380265,
+            54.321742
+          ],
+          [
+            -4.380294,
+            54.321817
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 1JU",
+        "addr:street": "Market Place",
+        "amenity": "pub",
+        "building": "house",
+        "description": "Free house",
+        "name": "The Commercial",
+        "old_name": "Mermaid Inn;Ellan Vannin",
+        "source": "survey",
+        "source:addr:postcode": "Ilsle of Man Government Companies Registry",
+        "wheelchair": "no",
+        "osm_id": 102638465,
+        "lon": -4.380199170991793,
+        "lat": 54.321764796672966,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102638465"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102638470,
       "geometry": {
         "type": "LineString",
@@ -54470,6 +54652,221 @@
         "lat": 54.32823208629096,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102734588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102737919,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.382993,
+            54.32206
+          ],
+          [
+            -4.382924,
+            54.322045
+          ],
+          [
+            -4.383007,
+            54.321941
+          ],
+          [
+            -4.383055,
+            54.321872
+          ],
+          [
+            -4.383105,
+            54.321883
+          ],
+          [
+            -4.383067,
+            54.321941
+          ],
+          [
+            -4.382993,
+            54.32206
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "disused:shop": "hairdresser",
+        "old_name": "Cuts and Fades",
+        "wheelchair": "limited",
+        "osm_id": 102737919,
+        "lon": -4.383017045335989,
+        "lat": 54.32196829531216,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102737919"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102737926,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.382924,
+            54.322045
+          ],
+          [
+            -4.382909,
+            54.32204
+          ],
+          [
+            -4.382879,
+            54.322032
+          ],
+          [
+            -4.38285,
+            54.322023
+          ],
+          [
+            -4.382835,
+            54.322018
+          ],
+          [
+            -4.382958,
+            54.321869
+          ],
+          [
+            -4.383013,
+            54.321883
+          ],
+          [
+            -4.382974,
+            54.321932
+          ],
+          [
+            -4.383007,
+            54.321941
+          ],
+          [
+            -4.382924,
+            54.322045
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Athole Buildings",
+        "addr:housenumber": "31",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "start_date": "1888",
+        "osm_id": 102737926,
+        "lon": -4.382934788955296,
+        "lat": 54.321958279464766,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102737926"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102737939,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383062,
+            54.322074
+          ],
+          [
+            -4.382993,
+            54.32206
+          ],
+          [
+            -4.383067,
+            54.321941
+          ],
+          [
+            -4.383123,
+            54.321951
+          ],
+          [
+            -4.383062,
+            54.322074
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
+        "building": "yes",
+        "name": "Blue Beauty Bar",
+        "shop": "beauty",
+        "osm_id": 102737939,
+        "lon": -4.383059903502952,
+        "lat": 54.32200847901728,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102737939"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102737949,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.382835,
+            54.322018
+          ],
+          [
+            -4.382763,
+            54.321996
+          ],
+          [
+            -4.38284,
+            54.321902
+          ],
+          [
+            -4.382862,
+            54.321908
+          ],
+          [
+            -4.382906,
+            54.321855
+          ],
+          [
+            -4.382958,
+            54.321869
+          ],
+          [
+            -4.382835,
+            54.322018
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM8 1AT",
+        "addr:street": "Parliament Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "name": "Tasty Bite",
+        "source": "note",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 102737949,
+        "lon": -4.382861263367778,
+        "lat": 54.321935865423605,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102737949"
       }
     },
     {
@@ -55525,6 +55922,7 @@
         "building": "yes",
         "healthcare": "pharmacy",
         "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im/",
         "osm_id": 102785206,
         "lon": -4.3820010151248345,
         "lat": 54.321552442450475,
@@ -55887,6 +56285,117 @@
         "lat": 54.32348478106725,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856113"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856114,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384071,
+            54.322218
+          ],
+          [
+            -4.384169,
+            54.322223
+          ],
+          [
+            -4.384154,
+            54.322336
+          ],
+          [
+            -4.384054,
+            54.322332
+          ],
+          [
+            -4.384071,
+            54.322218
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "66",
+        "addr:postcode": "IM8 1AJ",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "Rumbababookings@gmail.com",
+        "contact:phone": "+44 1624 264917",
+        "contact:website": "https://rumbabas.im/",
+        "name": "Rum Baba's",
+        "shop": "vacant",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "osm_id": 102856114,
+        "lon": -4.384111816467512,
+        "lat": 54.322277502534824,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856114"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856116,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383076,
+            54.322173
+          ],
+          [
+            -4.382917,
+            54.322174
+          ],
+          [
+            -4.382912,
+            54.322226
+          ],
+          [
+            -4.382914,
+            54.322301
+          ],
+          [
+            -4.382984,
+            54.322299
+          ],
+          [
+            -4.38299,
+            54.322317
+          ],
+          [
+            -4.383083,
+            54.32231
+          ],
+          [
+            -4.383068,
+            54.322262
+          ],
+          [
+            -4.383076,
+            54.322173
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM8 1AN",
+        "addr:street": "Parliament Street",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "pizza;italian",
+        "name": "Ravioli House",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "wheelchair": "yes",
+        "osm_id": 102856116,
+        "lon": -4.382997149408228,
+        "lat": 54.32224287629066,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856116"
       }
     },
     {
@@ -56355,6 +56864,51 @@
         "lat": 54.32230097187054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856154"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856155,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383246,
+            54.322106
+          ],
+          [
+            -4.383354,
+            54.321854
+          ],
+          [
+            -4.383461,
+            54.32186
+          ],
+          [
+            -4.383415,
+            54.322111
+          ],
+          [
+            -4.383246,
+            54.322106
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:postcode": "IM8 1AU",
+        "addr:street": "Parliament Street",
+        "amenity": "pub",
+        "building": "yes",
+        "name": "Bar Logo",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 102856155,
+        "lon": -4.383364415146324,
+        "lat": 54.32199234848538,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856155"
       }
     },
     {
@@ -56858,6 +57412,62 @@
     },
     {
       "type": "Feature",
+      "id": 102856181,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38592,
+            54.322615
+          ],
+          [
+            -4.385896,
+            54.322791
+          ],
+          [
+            -4.386245,
+            54.322807
+          ],
+          [
+            -4.38626,
+            54.322691
+          ],
+          [
+            -4.386269,
+            54.322631
+          ],
+          [
+            -4.38617,
+            54.322626
+          ],
+          [
+            -4.386096,
+            54.322623
+          ],
+          [
+            -4.38592,
+            54.322615
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housename": "The Showroom",
+        "addr:postcode": "IM8 1DB",
+        "addr:street": "West Street",
+        "building": "yes",
+        "name": "Furnitureland",
+        "shop": "furniture",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 102856181,
+        "lon": -4.386082435999068,
+        "lat": 54.322710944477556,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856181"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102856183,
       "geometry": {
         "type": "LineString",
@@ -56957,6 +57567,62 @@
         "lat": 54.322083619542205,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856187"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856189,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.386104,
+            54.322322
+          ],
+          [
+            -4.386188,
+            54.322323
+          ],
+          [
+            -4.386177,
+            54.322449
+          ],
+          [
+            -4.38612,
+            54.322447
+          ],
+          [
+            -4.386124,
+            54.322404
+          ],
+          [
+            -4.386098,
+            54.322403
+          ],
+          [
+            -4.386104,
+            54.322322
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "82",
+        "addr:postcode": "IM8 1AD",
+        "addr:street": "Parliament Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "chinese",
+        "name": "Mandarin Chinese Take Away",
+        "source": "survey",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "wheelchair": "limited",
+        "osm_id": 102856189,
+        "lon": -4.386143982915781,
+        "lat": 54.32238230156787,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856189"
       }
     },
     {
@@ -64636,6 +65302,85 @@
     },
     {
       "type": "Feature",
+      "id": 146833092,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696642,
+            54.224271
+          ],
+          [
+            -4.696586,
+            54.224287
+          ],
+          [
+            -4.696519,
+            54.224359
+          ],
+          [
+            -4.696725,
+            54.224447
+          ],
+          [
+            -4.696752,
+            54.22445
+          ],
+          [
+            -4.696765,
+            54.224439
+          ],
+          [
+            -4.696771,
+            54.224426
+          ],
+          [
+            -4.696755,
+            54.224415
+          ],
+          [
+            -4.696768,
+            54.224406
+          ],
+          [
+            -4.696797,
+            54.224406
+          ],
+          [
+            -4.696809,
+            54.224347
+          ],
+          [
+            -4.696633,
+            54.224338
+          ],
+          [
+            -4.696642,
+            54.224271
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "The Rocket House",
+        "addr:postcode": "IM5 1AH",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "club": "sport",
+        "contact:facebook": "https://www.facebook.com/peelsailingclub",
+        "name": "Peel Sailing and Cruising Club",
+        "sport": "sailing;cruising",
+        "website": "https://pscc.im",
+        "osm_id": 146833092,
+        "lon": -4.696670636905917,
+        "lat": 54.2243644858332,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146833092"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146833672,
       "geometry": {
         "type": "LineString",
@@ -64852,6 +65597,68 @@
         "lat": 54.22045588412256,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/146890245"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146907353,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696325,
+            54.22327
+          ],
+          [
+            -4.696365,
+            54.223314
+          ],
+          [
+            -4.69622,
+            54.223361
+          ],
+          [
+            -4.696182,
+            54.223319
+          ],
+          [
+            -4.69625,
+            54.223296
+          ],
+          [
+            -4.696181,
+            54.223224
+          ],
+          [
+            -4.696245,
+            54.223202
+          ],
+          [
+            -4.696256,
+            54.223198
+          ],
+          [
+            -4.696325,
+            54.22327
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "12-14",
+        "addr:postcode": "IM5 1AN",
+        "addr:street": "Castle Street",
+        "amenity": "pub",
+        "building": "yes",
+        "fixme": "check housenumber - assuming it takes up two numbers",
+        "name": "The Central",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 146907353,
+        "lon": -4.696258094173474,
+        "lat": 54.22328451926202,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146907353"
       }
     },
     {
@@ -71040,8 +71847,10 @@
         "addr:street": "East Quay",
         "amenity": "fast_food",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/quaysidefishandchip",
         "cuisine": "fish_and_chips",
-        "name": "Waters Edge",
+        "name": "Quayside Fish and Chip Shop",
+        "old_name": "Waters Edge",
         "operator": "Peel Fisheries",
         "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 168817261,
@@ -88902,6 +89711,68 @@
         "lat": 54.17608931938363,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/238903177"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239140946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495388,
+            54.17369
+          ],
+          [
+            -4.494485,
+            54.173754
+          ],
+          [
+            -4.494447,
+            54.173571
+          ],
+          [
+            -4.494795,
+            54.173546
+          ],
+          [
+            -4.494786,
+            54.173506
+          ],
+          [
+            -4.494983,
+            54.173492
+          ],
+          [
+            -4.494992,
+            54.17353
+          ],
+          [
+            -4.495349,
+            54.173505
+          ],
+          [
+            -4.495388,
+            54.17369
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Tromode",
+        "addr:country": "IM",
+        "addr:housenumber": "Unit 16",
+        "addr:postcode": "IM4 4RG",
+        "addr:street": "Estate Road",
+        "building": "industrial",
+        "contact:facebook": "https://www.facebook.com/panelcraftiom/",
+        "contact:phone": "+44 1624 666555",
+        "name": "Panelcraft",
+        "shop": "car_repair",
+        "osm_id": 239140946,
+        "lon": -4.49491581622013,
+        "lat": 54.17362259516808,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/239140946"
       }
     },
     {
@@ -134777,6 +135648,101 @@
     },
     {
       "type": "Feature",
+      "id": 1155200514,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494835,
+            54.173348
+          ],
+          [
+            -4.494653,
+            54.17335
+          ],
+          [
+            -4.494648,
+            54.173229
+          ],
+          [
+            -4.494831,
+            54.173227
+          ],
+          [
+            -4.494835,
+            54.173348
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Tromode",
+        "addr:country": "IM",
+        "addr:housenumber": "Unit 17a",
+        "addr:postcode": "IM4 4RG",
+        "addr:street": "Estate Road",
+        "building:part": "yes",
+        "contact:phone": "+44 1624 610200",
+        "contact:website": "https://www.mbs.im/",
+        "name": "Manx Business Solutions",
+        "office": "it",
+        "osm_id": 1155200514,
+        "lon": -4.494741740709539,
+        "lat": 54.173288400428085,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1155200514"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1155200515,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494653,
+            54.17335
+          ],
+          [
+            -4.494478,
+            54.173352
+          ],
+          [
+            -4.494472,
+            54.173232
+          ],
+          [
+            -4.494553,
+            54.17323
+          ],
+          [
+            -4.494648,
+            54.173229
+          ],
+          [
+            -4.494653,
+            54.17335
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Tromode",
+        "addr:country": "IM",
+        "addr:housenumber": "Unit 17b",
+        "addr:postcode": "IM4 4RG",
+        "addr:street": "Estate Road",
+        "building:part": "yes",
+        "contact:website": "https://www.antelle.com/",
+        "name": "Antelle",
+        "office": "it",
+        "osm_id": 1155200515,
+        "lon": -4.494562884893166,
+        "lat": 54.173290552377736,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1155200515"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1155200517,
       "geometry": {
         "type": "LineString",
@@ -144494,53 +145460,6 @@
         "lat": 54.20327392122607,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1278266972"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1278591686,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.384209,
-            54.322362
-          ],
-          [
-            -4.384151,
-            54.322359
-          ],
-          [
-            -4.384154,
-            54.322336
-          ],
-          [
-            -4.384169,
-            54.322223
-          ],
-          [
-            -4.384227,
-            54.322226
-          ],
-          [
-            -4.384209,
-            54.322362
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housenumber": "68",
-        "addr:postcode": "IM8",
-        "addr:street": "Parliament Street",
-        "building": "yes",
-        "shop": "vacant",
-        "osm_id": 1278591686,
-        "lon": -4.384188992380041,
-        "lat": 54.32229249899759,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/1278591686"
       }
     },
     {
