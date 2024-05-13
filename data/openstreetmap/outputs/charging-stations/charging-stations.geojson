@@ -341,18 +341,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.388588,
-          54.322899
+          -4.388621,
+          54.322967
         ]
       },
       "properties": {
         "amenity": "charging_station",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "ref_name": "Elia-Kriv",
+        "socket:chademo": "1",
+        "socket:chademo:output": "75 kW",
+        "socket:type2:output": "75 kW",
+        "socket:type2_combo": "1",
         "website": "https://charge.pod-point.com/address/shoprite-car-park-xem85",
         "osm_id": 11889767185,
-        "lon": -4.388588,
-        "lat": 54.322899,
+        "lon": -4.388621,
+        "lat": 54.322967,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11889767185"
       }

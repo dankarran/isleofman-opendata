@@ -1600,9 +1600,15 @@
         "addr:street": "East Quay",
         "addr:substreet": "Mariners Wharf",
         "amenity": "restaurant",
+        "contact:email": "fish@theboatyardpeel.com",
+        "contact:phone": "+44 1624 845470",
+        "contact:website": "https://theboatyardpeel.com/",
         "cuisine": "seafood",
+        "dog": "yes",
+        "indoor_seating": "yes",
         "lunch": "yes",
         "name": "The Boatyard Restaurant",
+        "outdoor_seating": "no",
         "phone": "+44 1624 845470",
         "reservation": "yes",
         "source:addr": "Isle of Man Government Companies Registry",
@@ -6631,7 +6637,7 @@
         "name": "The Commercial",
         "old_name": "Mermaid Inn;Ellan Vannin",
         "source": "survey",
-        "source:addr:postcode": "Ilsle of Man Government Companies Registry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "wheelchair": "no"
       }
     },
@@ -8212,7 +8218,7 @@
             54.223852
           ],
           [
-            -4.697485,
+            -4.697488,
             54.223831
           ],
           [
@@ -8234,11 +8240,20 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
         "amenity": "restaurant",
         "building": "yes",
+        "contact:email": "info@jadeharbour.com",
+        "contact:phone": "+44 1624 845353",
+        "contact:website": "https://jadeharbour.com/",
         "cuisine": "chinese",
+        "indoor_seating": "yes",
         "name": "Jade Harbour Restaurant",
-        "phone": "+44 1624 845353"
+        "opening_hours": "Tu-Su 17:30-22:30",
+        "takeaway": "yes"
       }
     },
     {
@@ -8606,10 +8621,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
         "amenity": "restaurant",
         "building": "yes",
-        "name": "McGills Bistro",
-        "phone": "01624844144"
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "name": "Indian Kitchen",
+        "strapline": "By Flavours"
       }
     },
     {
@@ -9516,11 +9537,15 @@
         "amenity": "fast_food",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/quaysidefishandchip",
+        "contact:phone": "+44 1624 845460",
         "cuisine": "fish_and_chips",
+        "indoor_seating": "no",
         "name": "Quayside Fish and Chip Shop",
         "old_name": "Waters Edge",
         "operator": "Peel Fisheries",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
+        "outdoor_seating": "yes",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "takeaway": "yes"
       }
     },
     {
@@ -13851,18 +13876,21 @@
       },
       "properties": {
         "amenity": "restaurant",
+        "contact:email": "Blackdogoven@gmail.com",
+        "contact:facebook": "https://www.facebook.com/Blackdogoven/",
+        "contact:phone": "+44 7624 230209",
         "cuisine": "pizza",
         "currency:XBT": "yes",
         "drive_through": "no",
+        "indoor_seating": "yes",
         "name": "Black Dog Oven (Dogs Nollick)",
         "outdoor_seating": "yes",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
-        "phone": "+447624230209",
+        "phone": "+44 7624 230209",
         "survey:date": "2022-09-23",
-        "takeaway": "yes",
-        "website": "https://www.facebook.com/Blackdogoven/"
+        "takeaway": "yes"
       }
     },
     {

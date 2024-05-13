@@ -2257,6 +2257,8 @@
         "amenity": "post_box",
         "brand:wikidata": "Q3432267",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
@@ -2625,15 +2627,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481752,
-          54.160512
+          -4.481758,
+          54.160555
         ]
       },
       "properties": {
         "amenity": "post_box",
         "osm_id": 1069288792,
-        "lon": -4.481752,
-        "lat": 54.160512,
+        "lon": -4.481758,
+        "lat": 54.160555,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069288792"
       }

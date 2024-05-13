@@ -3813,9 +3813,15 @@
         "addr:street": "East Quay",
         "addr:substreet": "Mariners Wharf",
         "amenity": "restaurant",
+        "contact:email": "fish@theboatyardpeel.com",
+        "contact:phone": "+44 1624 845470",
+        "contact:website": "https://theboatyardpeel.com/",
         "cuisine": "seafood",
+        "dog": "yes",
+        "indoor_seating": "yes",
         "lunch": "yes",
         "name": "The Boatyard Restaurant",
+        "outdoor_seating": "no",
         "phone": "+44 1624 845470",
         "reservation": "yes",
         "source:addr": "Isle of Man Government Companies Registry",
@@ -54012,7 +54018,7 @@
         "name": "The Commercial",
         "old_name": "Mermaid Inn;Ellan Vannin",
         "source": "survey",
-        "source:addr:postcode": "Ilsle of Man Government Companies Registry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "wheelchair": "no",
         "osm_id": 102638465,
         "lon": -4.380199170991793,
@@ -57558,10 +57564,11 @@
         "addr:housenumber": "69",
         "addr:postcode": "IM8 1AY",
         "addr:street": "Parliament Square",
+        "alt_name": "Inspirations",
         "building": "yes",
         "name": "Pure Inspiration",
         "shop": "gift",
-        "strapline": "Gift Shop",
+        "strapline": "Gift shop",
         "osm_id": 102856187,
         "lon": -4.384249530742557,
         "lat": 54.322083619542205,
@@ -65250,6 +65257,60 @@
     },
     {
       "type": "Feature",
+      "id": 146833062,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69738,
+            54.223852
+          ],
+          [
+            -4.697488,
+            54.223831
+          ],
+          [
+            -4.697498,
+            54.223741
+          ],
+          [
+            -4.697263,
+            54.223812
+          ],
+          [
+            -4.697304,
+            54.223868
+          ],
+          [
+            -4.69738,
+            54.223852
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:email": "info@jadeharbour.com",
+        "contact:phone": "+44 1624 845353",
+        "contact:website": "https://jadeharbour.com/",
+        "cuisine": "chinese",
+        "indoor_seating": "yes",
+        "name": "Jade Harbour Restaurant",
+        "opening_hours": "Tu-Su 17:30-22:30",
+        "takeaway": "yes",
+        "osm_id": 146833062,
+        "lon": -4.69739120768105,
+        "lat": 54.223808371205436,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146833062"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146833068,
       "geometry": {
         "type": "LineString",
@@ -65743,6 +65804,64 @@
         "lat": 54.22233203192094,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/146910948"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146911007,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.697401,
+            54.22231
+          ],
+          [
+            -4.697446,
+            54.222311
+          ],
+          [
+            -4.697492,
+            54.22233
+          ],
+          [
+            -4.6975,
+            54.222452
+          ],
+          [
+            -4.697422,
+            54.222448
+          ],
+          [
+            -4.697334,
+            54.222443
+          ],
+          [
+            -4.697401,
+            54.222363
+          ],
+          [
+            -4.697401,
+            54.22231
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1AR",
+        "addr:street": "East Quay",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "indian",
+        "diet:vegan": "yes",
+        "name": "Indian Kitchen",
+        "strapline": "By Flavours",
+        "osm_id": 146911007,
+        "lon": -4.69742906893,
+        "lat": 54.22239218997528,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146911007"
       }
     },
     {
@@ -71848,11 +71967,15 @@
         "amenity": "fast_food",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/quaysidefishandchip",
+        "contact:phone": "+44 1624 845460",
         "cuisine": "fish_and_chips",
+        "indoor_seating": "no",
         "name": "Quayside Fish and Chip Shop",
         "old_name": "Waters Edge",
         "operator": "Peel Fisheries",
+        "outdoor_seating": "yes",
         "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "takeaway": "yes",
         "osm_id": 168817261,
         "lon": -4.69739844134101,
         "lat": 54.223893046294315,
@@ -111590,32 +111713,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482074,
-            54.160682
+            -4.482051,
+            54.16068
           ],
           [
-            -4.482044,
-            54.160618
+            -4.482015,
+            54.16061
+          ],
+          [
+            -4.482217,
+            54.160576
           ],
           [
             -4.482222,
-            54.160589
+            54.160586
           ],
           [
-            -4.48223,
-            54.160601
+            -4.482345,
+            54.160566
           ],
           [
-            -4.48237,
-            54.16058
+            -4.482374,
+            54.16063
           ],
           [
-            -4.482395,
-            54.160632
-          ],
-          [
-            -4.482074,
-            54.160682
+            -4.482051,
+            54.16068
           ]
         ]
       },
@@ -111626,10 +111749,11 @@
         "addr:street": "York Road",
         "building": "house",
         "building:levels": "3",
+        "height": "10",
         "name": "Birchfield House",
         "osm_id": 895915128,
-        "lon": -4.482218009407339,
-        "lat": 54.16062737151099,
+        "lon": -4.4821945668518275,
+        "lat": 54.16062050447071,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/895915128"
       }
