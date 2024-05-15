@@ -1885,6 +1885,54 @@
     },
     {
       "type": "Feature",
+      "id": 1220527325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483629,
+            54.152662
+          ],
+          [
+            -4.483666,
+            54.152713
+          ],
+          [
+            -4.483802,
+            54.152679
+          ],
+          [
+            -4.483765,
+            54.152628
+          ],
+          [
+            -4.483629,
+            54.152662
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "76",
+        "addr:postcode": "IM1 3AF",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "charity": "yes",
+        "name": "Hospice",
+        "opening_hours": "Mo-Sa 10:00-16:00",
+        "ref:charity": "317",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com/",
+        "osm_id": 1220527325,
+        "lon": -4.483715500000001,
+        "lat": 54.1526705,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1220527325"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1270919366,
       "geometry": {
         "type": "LineString",

@@ -2603,6 +2603,26 @@
     },
     {
       "type": "Feature",
+      "id": 11901768060,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.739202,
+          54.077656
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:housename": "Manxonia House",
+        "addr:street": "Bay View Road",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/KellasIsleofMan",
+        "name": "Kellas",
+        "website": "https://www.kellas.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38300992,
       "geometry": {
         "type": "LineString",
@@ -5115,41 +5135,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.468345,
-            54.164394
+            -4.468391,
+            54.164436
           ],
           [
-            -4.468316,
-            54.16438
+            -4.468311,
+            54.164399
           ],
           [
-            -4.468255,
-            54.164422
+            -4.468297,
+            54.164409
           ],
           [
-            -4.468285,
-            54.164437
+            -4.468232,
+            54.164457
           ],
           [
-            -4.468345,
-            54.164394
+            -4.468312,
+            54.164494
+          ],
+          [
+            -4.468391,
+            54.164436
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "4",
         "addr:postcode": "IM2 4NH",
         "addr:street": "Queens Promenade",
-        "addr:substreet": "Marathon Terrace",
         "amenity": "restaurant",
-        "building": "yes",
+        "building": "retail",
+        "contact:phone": "+44 1624 620999",
+        "contact:website": "https://www.aurabarbistro.com/",
         "cuisine": "indian",
         "name": "Aura Bar & Bistro",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "source:addr": "Isle of Man Government Companies Registry",
-        "website": "https://www.aurabarbistro.com"
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {

@@ -1096,6 +1096,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4BH",
+        "addr:street": "Lower Duke's Road",
+        "fixme": "check if still here",
         "name": "Dukes Road Clinic",
         "shop": "beauty",
         "osm_id": 1069288782,
@@ -1163,9 +1168,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 5DF",
+        "addr:street": "Ballaquayle Road",
         "name": "Newby's",
         "opening_hours": "07:00-22:00",
         "shop": "convenience",
+        "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 1069288866,
         "lon": -4.482075,
         "lat": 54.161307,
@@ -7790,86 +7800,120 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.46807,
-            54.164552
+            -4.468068,
+            54.16459
           ],
           [
-            -4.468011,
-            54.164593
+            -4.468048,
+            54.164588
           ],
           [
-            -4.468082,
-            54.164628
+            -4.468027,
+            54.164603
           ],
           [
-            -4.468141,
-            54.164587
+            -4.468036,
+            54.164614
           ],
           [
-            -4.46807,
-            54.164552
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "The Shop",
-        "shop": "tourist",
-        "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "osm_id": 80822375,
-        "lon": -4.468076,
-        "lat": 54.16459,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/80822375"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 80822378,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.468011,
-            54.164593
+            -4.46803,
+            54.164618
           ],
           [
-            -4.467937,
-            54.164644
+            -4.468024,
+            54.164622
           ],
           [
-            -4.467967,
-            54.164659
+            -4.468108,
+            54.164662
           ],
           [
-            -4.468008,
-            54.164679
+            -4.468152,
+            54.16463
           ],
           [
-            -4.468082,
-            54.164628
-          ],
-          [
-            -4.468011,
-            54.164593
+            -4.468068,
+            54.16459
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "3",
         "addr:postcode": "IM2 4NH",
         "addr:street": "Queens Promenade",
-        "building": "yes",
-        "name": "Promenade Shirts",
-        "shop": "clothes",
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "name": "The Shop",
+        "shop": "convenience;toys",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "website": "https://promenadeshirts.com",
-        "osm_id": 80822378,
-        "lon": -4.468009490074027,
-        "lat": 54.16463601996185,
+        "osm_id": 80822375,
+        "lon": -4.468083998061756,
+        "lat": 54.164623438961705,
         "osm_type": "way",
-        "osm_url": "https://osm.org/way/80822378"
+        "osm_url": "https://osm.org/way/80822375"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822384,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468195,
+            54.164483
+          ],
+          [
+            -4.468232,
+            54.164457
+          ],
+          [
+            -4.468312,
+            54.164494
+          ],
+          [
+            -4.468245,
+            54.164543
+          ],
+          [
+            -4.468204,
+            54.164523
+          ],
+          [
+            -4.468177,
+            54.164511
+          ],
+          [
+            -4.468191,
+            54.164501
+          ],
+          [
+            -4.468207,
+            54.164489
+          ],
+          [
+            -4.468195,
+            54.164483
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "shop": "vacant",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 80822384,
+        "lon": -4.4682409982746325,
+        "lat": 54.164499539878705,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/80822384"
       }
     },
     {
@@ -7879,28 +7923,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.46807,
-            54.164552
+            -4.46809,
+            54.164574
           ],
           [
-            -4.46814,
-            54.164503
+            -4.468095,
+            54.164571
           ],
           [
-            -4.468169,
-            54.164517
+            -4.468099,
+            54.164568
           ],
           [
-            -4.468211,
-            54.164538
+            -4.46809,
+            54.164557
           ],
           [
-            -4.468141,
-            54.164587
+            -4.468112,
+            54.164542
           ],
           [
-            -4.46807,
-            54.164552
+            -4.468131,
+            54.164544
+          ],
+          [
+            -4.468157,
+            54.164557
+          ],
+          [
+            -4.468215,
+            54.164584
+          ],
+          [
+            -4.468174,
+            54.164614
+          ],
+          [
+            -4.46809,
+            54.164574
           ]
         ]
       },
@@ -7911,14 +7971,15 @@
         "addr:postcode": "IM2 4NH",
         "addr:street": "Queens Promenade",
         "addr:substreet": "Marathon Terrace",
-        "building": "yes",
+        "building": "retail",
+        "contact:website": "https://www.ronsmiths.im/",
         "name": "Ron Smiths",
         "shop": "hairdresser",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "website": "https://www.ronsmiths.im",
+        "start_date": "1981",
         "osm_id": 80822400,
-        "lon": -4.468140514261436,
-        "lat": 54.164544971236495,
+        "lon": -4.4681482985331575,
+        "lat": 54.16457654985861,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80822400"
       }
@@ -7930,44 +7991,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.468345,
-            54.164394
+            -4.468391,
+            54.164436
           ],
           [
-            -4.468496,
-            54.164468
+            -4.468506,
+            54.16449
           ],
           [
-            -4.468539,
-            54.164493
+            -4.468548,
+            54.164507
           ],
           [
-            -4.468566,
-            54.164434
+            -4.468575,
+            54.164432
           ],
           [
-            -4.468577,
-            54.164377
+            -4.468582,
+            54.164398
           ],
           [
-            -4.46855,
-            54.164318
+            -4.468571,
+            54.164366
           ],
           [
-            -4.468507,
-            54.164283
+            -4.468543,
+            54.164331
           ],
           [
-            -4.468453,
-            54.164255
+            -4.46851,
+            54.164307
           ],
           [
-            -4.468316,
-            54.16438
+            -4.468462,
+            54.164291
           ],
           [
-            -4.468345,
-            54.164394
+            -4.468387,
+            54.164345
+          ],
+          [
+            -4.468311,
+            54.164399
+          ],
+          [
+            -4.468391,
+            54.164436
           ]
         ]
       },
@@ -7977,15 +8046,16 @@
         "addr:housename": "Swiss Buildings",
         "addr:street": "Queens Promenade",
         "building": "yes",
+        "contact:phone": "+44 1624 675160",
         "name": "TT Shirts.com",
-        "phone": "01624 675160",
+        "opening_hours": "Mo-Sa 09:00-18:00, Su 10:00-17:00",
         "postal_code": "IM2 4NH",
         "shop": "clothes",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.ttshirts.com/",
         "osm_id": 80822415,
-        "lon": -4.468463042247819,
-        "lat": 54.16437437440075,
+        "lon": -4.468463915655946,
+        "lat": 54.164398013599985,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80822415"
       }
@@ -8451,6 +8521,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "80",
         "addr:street": "Bucks Road",
@@ -17612,10 +17683,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Laxey",
+        "addr:postcode": "IM4 7PD",
+        "addr:street": "Ramsey Road",
         "building": "yes",
-        "name": "Greens Garage",
+        "name": "Green's Garage",
         "shop": "car_repair",
         "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 233925100,
         "lon": -4.405000822262987,
         "lat": 54.23442959362733,
@@ -18733,9 +18808,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Laxey",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 7NH",
+        "addr:street": "Mines Road",
         "building": "retail",
+        "contact:facebook": "https://www.facebook.com/laxeyandlonanheritagetrust/",
         "name": "Laxey & Lonan Heritage Trust Gift Shop",
+        "operator": "Laxey & Lonan Heritage Trust",
+        "ref:charity": "367A",
         "shop": "gift",
+        "website": "https://laxeyminerailway.im/laxey-lonan-heritage-trust/",
         "osm_id": 335685906,
         "lon": -4.407086983600719,
         "lat": 54.23515129530655,
@@ -27056,8 +27139,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:street": "Bray Hill",
         "building": "commercial",
-        "name": "Today's Choice, Bray Hill",
+        "contact:facebook": "https://www.facebook.com/p/EVF-Todays-Express-Brayhill-100063881700245/",
+        "name": "EVF Today's Express, Bray Hill",
+        "operator": "EVF",
         "shop": "convenience",
         "osm_id": 1154364550,
         "lon": -4.484457337282162,
@@ -27372,7 +27459,9 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "90",
+        "addr:postcode": "IM1 3AG",
         "addr:street": "Bucks Road",
+        "alt_name": "I.O.M. HEALTH FOOD CENTRE",
         "building": "terrace",
         "name": "Health Foods",
         "shop": "health_food",
@@ -29072,10 +29161,14 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "70-72",
+        "addr:postcode": "IM1 3AF",
         "addr:street": "Bucks Road",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
         "building": "terrace",
         "name": "Spar",
         "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal28170-spar-bucks-road",
         "osm_id": 1220527323,
         "lon": -4.483626999999999,
         "lat": 54.1525495,
@@ -29115,10 +29208,12 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "74",
+        "addr:postcode": "IM1 3AF",
         "addr:street": "Bucks Road",
         "building": "terrace",
         "name": "The Dolly Blue",
         "shop": "laundry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 1220527324,
         "lon": -4.483680128113987,
         "lat": 54.152621700378745,
@@ -29158,13 +29253,15 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "76",
+        "addr:postcode": "IM1 3AF",
         "addr:street": "Bucks Road",
         "building": "terrace",
-        "contact:website": "http://www.hospiceshops.com/",
+        "charity": "yes",
         "name": "Hospice",
         "opening_hours": "Mo-Sa 10:00-16:00",
-        "postal_code": "IM1 3AF",
+        "ref:charity": "317",
         "shop": "charity",
+        "website": "https://www.hospiceshops.com/",
         "osm_id": 1220527325,
         "lon": -4.483715500000001,
         "lat": 54.1526705,
@@ -29634,6 +29731,66 @@
         "lat": 54.32229249899759,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1278591686"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283043991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468204,
+            54.164523
+          ],
+          [
+            -4.468177,
+            54.164511
+          ],
+          [
+            -4.468159,
+            54.164507
+          ],
+          [
+            -4.468151,
+            54.164513
+          ],
+          [
+            -4.468145,
+            54.164517
+          ],
+          [
+            -4.468156,
+            54.164526
+          ],
+          [
+            -4.468143,
+            54.164536
+          ],
+          [
+            -4.468169,
+            54.164548
+          ],
+          [
+            -4.468204,
+            54.164523
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "shop": "vacant",
+        "osm_id": 1283043991,
+        "lon": -4.468169734877243,
+        "lat": 54.16452639486936,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1283043991"
       }
     }
   ]

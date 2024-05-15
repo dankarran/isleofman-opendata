@@ -2701,26 +2701,6 @@
     },
     {
       "type": "Feature",
-      "id": 501841536,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.482761,
-          54.152965
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "18",
-        "addr:street": "Christian Road",
-        "name": "Melrose Guest House",
-        "postal_code": "IM1 2QN",
-        "tourism": "guest_house",
-        "website": "http://www.melroseguesthouse.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 501847482,
       "geometry": {
         "type": "Point",
@@ -26248,44 +26228,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.468345,
-            54.164394
+            -4.468391,
+            54.164436
           ],
           [
-            -4.468496,
-            54.164468
+            -4.468506,
+            54.16449
           ],
           [
-            -4.468539,
-            54.164493
+            -4.468548,
+            54.164507
           ],
           [
-            -4.468566,
-            54.164434
+            -4.468575,
+            54.164432
           ],
           [
-            -4.468577,
-            54.164377
+            -4.468582,
+            54.164398
           ],
           [
-            -4.46855,
-            54.164318
+            -4.468571,
+            54.164366
           ],
           [
-            -4.468507,
-            54.164283
+            -4.468543,
+            54.164331
           ],
           [
-            -4.468453,
-            54.164255
+            -4.46851,
+            54.164307
           ],
           [
-            -4.468316,
-            54.16438
+            -4.468462,
+            54.164291
           ],
           [
-            -4.468345,
-            54.164394
+            -4.468387,
+            54.164345
+          ],
+          [
+            -4.468311,
+            54.164399
+          ],
+          [
+            -4.468391,
+            54.164436
           ]
         ]
       },
@@ -26295,8 +26283,9 @@
         "addr:housename": "Swiss Buildings",
         "addr:street": "Queens Promenade",
         "building": "yes",
+        "contact:phone": "+44 1624 675160",
         "name": "TT Shirts.com",
-        "phone": "01624 675160",
+        "opening_hours": "Mo-Sa 09:00-18:00, Su 10:00-17:00",
         "postal_code": "IM2 4NH",
         "shop": "clothes",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -37120,47 +37109,6 @@
         "postal_code": "IM2 4EN",
         "religion": "christian",
         "website": "https://www.broadway.org.im/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1220527325,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.483629,
-            54.152662
-          ],
-          [
-            -4.483666,
-            54.152713
-          ],
-          [
-            -4.483802,
-            54.152679
-          ],
-          [
-            -4.483765,
-            54.152628
-          ],
-          [
-            -4.483629,
-            54.152662
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "76",
-        "addr:street": "Bucks Road",
-        "building": "terrace",
-        "contact:website": "http://www.hospiceshops.com/",
-        "name": "Hospice",
-        "opening_hours": "Mo-Sa 10:00-16:00",
-        "postal_code": "IM1 3AF",
-        "shop": "charity"
       }
     },
     {

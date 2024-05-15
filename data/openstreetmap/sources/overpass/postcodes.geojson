@@ -1149,6 +1149,27 @@
     },
     {
       "type": "Feature",
+      "id": 501841536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482761,
+          54.152965
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 2QN",
+        "addr:street": "Christian Road",
+        "name": "Melrose Guest House",
+        "tourism": "guest_house",
+        "website": "http://www.melroseguesthouse.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 502471206,
       "geometry": {
         "type": "Point",
@@ -1999,6 +2020,26 @@
     },
     {
       "type": "Feature",
+      "id": 1069288782,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48188,
+          54.161165
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4BH",
+        "addr:street": "Lower Duke's Road",
+        "fixme": "check if still here",
+        "name": "Dukes Road Clinic",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1069288852,
       "geometry": {
         "type": "Point",
@@ -2017,6 +2058,27 @@
         "phone": "01624 623481",
         "shop": "car",
         "website": "http://www.mylchreests.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069288866,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482075,
+          54.161307
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 5DF",
+        "addr:street": "Ballaquayle Road",
+        "name": "Newby's",
+        "opening_hours": "07:00-22:00",
+        "shop": "convenience",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -29744,73 +29806,94 @@
     },
     {
       "type": "Feature",
-      "id": 80822378,
+      "id": 80822375,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.468011,
-            54.164593
+            -4.468068,
+            54.16459
           ],
           [
-            -4.467937,
-            54.164644
+            -4.468048,
+            54.164588
           ],
           [
-            -4.467967,
-            54.164659
+            -4.468027,
+            54.164603
           ],
           [
-            -4.468008,
-            54.164679
+            -4.468036,
+            54.164614
           ],
           [
-            -4.468082,
-            54.164628
+            -4.46803,
+            54.164618
           ],
           [
-            -4.468011,
-            54.164593
+            -4.468024,
+            54.164622
+          ],
+          [
+            -4.468108,
+            54.164662
+          ],
+          [
+            -4.468152,
+            54.16463
+          ],
+          [
+            -4.468068,
+            54.16459
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "3",
         "addr:postcode": "IM2 4NH",
         "addr:street": "Queens Promenade",
-        "building": "yes",
-        "name": "Promenade Shirts",
-        "shop": "clothes",
-        "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "website": "https://promenadeshirts.com"
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "name": "The Shop",
+        "shop": "convenience;toys",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary"
       }
     },
     {
       "type": "Feature",
-      "id": 80822388,
+      "id": 80822378,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.468345,
-            54.164394
+            -4.467991,
+            54.164629
           ],
           [
-            -4.468316,
-            54.16438
+            -4.467956,
+            54.164655
           ],
           [
-            -4.468255,
-            54.164422
+            -4.46794,
+            54.164666
           ],
           [
-            -4.468285,
-            54.164437
+            -4.468038,
+            54.164713
           ],
           [
-            -4.468345,
-            54.164394
+            -4.468089,
+            54.164675
+          ],
+          [
+            -4.468005,
+            54.164636
+          ],
+          [
+            -4.467991,
+            54.164629
           ]
         ]
       },
@@ -29821,13 +29904,111 @@
         "addr:postcode": "IM2 4NH",
         "addr:street": "Queens Promenade",
         "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822384,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468195,
+            54.164483
+          ],
+          [
+            -4.468232,
+            54.164457
+          ],
+          [
+            -4.468312,
+            54.164494
+          ],
+          [
+            -4.468245,
+            54.164543
+          ],
+          [
+            -4.468204,
+            54.164523
+          ],
+          [
+            -4.468177,
+            54.164511
+          ],
+          [
+            -4.468191,
+            54.164501
+          ],
+          [
+            -4.468207,
+            54.164489
+          ],
+          [
+            -4.468195,
+            54.164483
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "shop": "vacant",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80822388,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468391,
+            54.164436
+          ],
+          [
+            -4.468311,
+            54.164399
+          ],
+          [
+            -4.468297,
+            54.164409
+          ],
+          [
+            -4.468232,
+            54.164457
+          ],
+          [
+            -4.468312,
+            54.164494
+          ],
+          [
+            -4.468391,
+            54.164436
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
         "amenity": "restaurant",
-        "building": "yes",
+        "building": "retail",
+        "contact:phone": "+44 1624 620999",
+        "contact:website": "https://www.aurabarbistro.com/",
         "cuisine": "indian",
         "name": "Aura Bar & Bistro",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "source:addr": "Isle of Man Government Companies Registry",
-        "website": "https://www.aurabarbistro.com"
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -29837,28 +30018,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.46807,
-            54.164552
+            -4.46809,
+            54.164574
           ],
           [
-            -4.46814,
-            54.164503
+            -4.468095,
+            54.164571
           ],
           [
-            -4.468169,
-            54.164517
+            -4.468099,
+            54.164568
           ],
           [
-            -4.468211,
-            54.164538
+            -4.46809,
+            54.164557
           ],
           [
-            -4.468141,
-            54.164587
+            -4.468112,
+            54.164542
           ],
           [
-            -4.46807,
-            54.164552
+            -4.468131,
+            54.164544
+          ],
+          [
+            -4.468157,
+            54.164557
+          ],
+          [
+            -4.468215,
+            54.164584
+          ],
+          [
+            -4.468174,
+            54.164614
+          ],
+          [
+            -4.46809,
+            54.164574
           ]
         ]
       },
@@ -29869,11 +30066,12 @@
         "addr:postcode": "IM2 4NH",
         "addr:street": "Queens Promenade",
         "addr:substreet": "Marathon Terrace",
-        "building": "yes",
+        "building": "retail",
+        "contact:website": "https://www.ronsmiths.im/",
         "name": "Ron Smiths",
         "shop": "hairdresser",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
-        "website": "https://www.ronsmiths.im"
+        "start_date": "1981"
       }
     },
     {
@@ -36145,6 +36343,48 @@
         "addr:street": "Pooil Vaaish Road",
         "building": "yes",
         "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92055462,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481982,
+            54.161581
+          ],
+          [
+            -4.48173,
+            54.161729
+          ],
+          [
+            -4.481848,
+            54.161798
+          ],
+          [
+            -4.4821,
+            54.16165
+          ],
+          [
+            -4.481982,
+            54.161581
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 5DE",
+        "addr:street": "Ballaquayle Road",
+        "building": "yes",
+        "club": "sport",
+        "contact:facebook": "https://www.facebook.com/douglassnookerbarIOM/",
+        "name": "Douglas Snooker Bar",
+        "old_name": "Douglas Snooker Club",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "sport": "snooker"
       }
     },
     {
@@ -80715,6 +80955,45 @@
     },
     {
       "type": "Feature",
+      "id": 233925100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.404891,
+            54.234537
+          ],
+          [
+            -4.405167,
+            54.234508
+          ],
+          [
+            -4.40511,
+            54.234322
+          ],
+          [
+            -4.404835,
+            54.234351
+          ],
+          [
+            -4.404891,
+            54.234537
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:postcode": "IM4 7PD",
+        "addr:street": "Ramsey Road",
+        "building": "yes",
+        "name": "Green's Garage",
+        "shop": "car_repair",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 233926122,
       "geometry": {
         "type": "LineString",
@@ -84747,6 +85026,48 @@
         "website": "https://colbyafc.com",
         "wikidata": "Q2253674",
         "wikipedia": "en:Colby A.F.C."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 335685906,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.407016,
+            54.235085
+          ],
+          [
+            -4.407083,
+            54.235229
+          ],
+          [
+            -4.407159,
+            54.235217
+          ],
+          [
+            -4.407088,
+            54.235072
+          ],
+          [
+            -4.407016,
+            54.235085
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 7NH",
+        "addr:street": "Mines Road",
+        "building": "retail",
+        "contact:facebook": "https://www.facebook.com/laxeyandlonanheritagetrust/",
+        "name": "Laxey & Lonan Heritage Trust Gift Shop",
+        "operator": "Laxey & Lonan Heritage Trust",
+        "ref:charity": "367A",
+        "shop": "gift",
+        "website": "https://laxeyminerailway.im/laxey-lonan-heritage-trust/"
       }
     },
     {
@@ -116615,6 +116936,70 @@
     },
     {
       "type": "Feature",
+      "id": 1147121333,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486532,
+            54.159659
+          ],
+          [
+            -4.486385,
+            54.159615
+          ],
+          [
+            -4.486473,
+            54.159514
+          ],
+          [
+            -4.486589,
+            54.159549
+          ],
+          [
+            -4.486638,
+            54.159493
+          ],
+          [
+            -4.486876,
+            54.159565
+          ],
+          [
+            -4.486835,
+            54.159611
+          ],
+          [
+            -4.486744,
+            54.159583
+          ],
+          [
+            -4.486664,
+            54.159673
+          ],
+          [
+            -4.486549,
+            54.159639
+          ],
+          [
+            -4.486532,
+            54.159659
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "91",
+        "addr:postcode": "IM2 3AW",
+        "addr:street": "Woodbourne Road",
+        "amenity": "childcare",
+        "building": "yes",
+        "name": "Hopes & Dreams",
+        "website": "https://hopesanddreams.co.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1147130637,
       "geometry": {
         "type": "LineString",
@@ -123027,6 +123412,89 @@
     },
     {
       "type": "Feature",
+      "id": 1158812323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484014,
+            54.152979
+          ],
+          [
+            -4.483976,
+            54.152927
+          ],
+          [
+            -4.483837,
+            54.152962
+          ],
+          [
+            -4.483875,
+            54.153014
+          ],
+          [
+            -4.484014,
+            54.152979
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "84",
+        "addr:postcode": "IM1 3AG",
+        "addr:street": "Bucks Road",
+        "amenity": "dentist",
+        "building": "terrace",
+        "contact:phone": "+44 1624 675748",
+        "healthcare": "dentist",
+        "name": "A D Hewett",
+        "opening_hours": "Mo-Fr 08:45-13:00,14:00-17:00",
+        "website": "https://www.adhewett.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1158812325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483943,
+            54.153107
+          ],
+          [
+            -4.483983,
+            54.153161
+          ],
+          [
+            -4.484123,
+            54.153126
+          ],
+          [
+            -4.484083,
+            54.153072
+          ],
+          [
+            -4.483943,
+            54.153107
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "90",
+        "addr:postcode": "IM1 3AG",
+        "addr:street": "Bucks Road",
+        "alt_name": "I.O.M. HEALTH FOOD CENTRE",
+        "building": "terrace",
+        "name": "Health Foods",
+        "shop": "health_food"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1160687644,
       "geometry": {
         "type": "LineString",
@@ -125532,6 +126000,131 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1220527323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483523,
+            54.152518
+          ],
+          [
+            -4.483595,
+            54.152616
+          ],
+          [
+            -4.483731,
+            54.152581
+          ],
+          [
+            -4.483659,
+            54.152483
+          ],
+          [
+            -4.483523,
+            54.152518
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "70-72",
+        "addr:postcode": "IM1 3AF",
+        "addr:street": "Bucks Road",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "building": "terrace",
+        "name": "Spar",
+        "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal28170-spar-bucks-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1220527324,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483595,
+            54.152616
+          ],
+          [
+            -4.483629,
+            54.152662
+          ],
+          [
+            -4.483765,
+            54.152628
+          ],
+          [
+            -4.483731,
+            54.152581
+          ],
+          [
+            -4.483595,
+            54.152616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "74",
+        "addr:postcode": "IM1 3AF",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "name": "The Dolly Blue",
+        "shop": "laundry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1220527325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483629,
+            54.152662
+          ],
+          [
+            -4.483666,
+            54.152713
+          ],
+          [
+            -4.483802,
+            54.152679
+          ],
+          [
+            -4.483765,
+            54.152628
+          ],
+          [
+            -4.483629,
+            54.152662
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "76",
+        "addr:postcode": "IM1 3AF",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "charity": "yes",
+        "name": "Hospice",
+        "opening_hours": "Mo-Sa 10:00-16:00",
+        "ref:charity": "317",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com/"
       }
     },
     {
@@ -131541,6 +132134,111 @@
         "addr:postcode": "IM5 1HE",
         "addr:street": "Atholl Place",
         "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283043991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468204,
+            54.164523
+          ],
+          [
+            -4.468177,
+            54.164511
+          ],
+          [
+            -4.468159,
+            54.164507
+          ],
+          [
+            -4.468151,
+            54.164513
+          ],
+          [
+            -4.468145,
+            54.164517
+          ],
+          [
+            -4.468156,
+            54.164526
+          ],
+          [
+            -4.468143,
+            54.164536
+          ],
+          [
+            -4.468169,
+            54.164548
+          ],
+          [
+            -4.468204,
+            54.164523
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail",
+        "shop": "vacant"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283043992,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467867,
+            54.164738
+          ],
+          [
+            -4.467925,
+            54.164765
+          ],
+          [
+            -4.467971,
+            54.164732
+          ],
+          [
+            -4.467912,
+            54.164704
+          ],
+          [
+            -4.467899,
+            54.164714
+          ],
+          [
+            -4.467879,
+            54.164711
+          ],
+          [
+            -4.467858,
+            54.164726
+          ],
+          [
+            -4.467867,
+            54.164738
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 4NH",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Marathon Terrace",
+        "building": "retail"
       }
     }
   ]
