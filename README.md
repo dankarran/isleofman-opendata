@@ -31,6 +31,7 @@ source.
 
   * [Humanitarian Data Exchange (HDX)](https://data.humdata.org)
     * [Isle of Man datasets](https://data.humdata.org/group/imn)
+  * [Traveline National Dataset (TNDS)](https://www.travelinedata.org.uk/traveline-open-data/traveline-national-dataset/) - bus timetable data
 
 ## License
 
