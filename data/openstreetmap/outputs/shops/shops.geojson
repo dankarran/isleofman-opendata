@@ -1415,6 +1415,40 @@
     },
     {
       "type": "Feature",
+      "id": 1666047899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756051,
+          54.086726
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:street": "Orchard Walk",
+        "charity": "yes",
+        "charity:ref": "317",
+        "name": "Hospice Shop",
+        "recycling:batteries": "no",
+        "recycling:books": "yes",
+        "recycling:clothes": "yes",
+        "recycling:electrical_appliances": "yes",
+        "recycling:furniture": "yes",
+        "recycling:glass": "yes",
+        "recycling:magazines": "yes",
+        "recycling:small_appliances": "yes",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com/",
+        "osm_id": 1666047899,
+        "lon": -4.756051,
+        "lat": 54.086726,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1666047899"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 2725439539,
       "geometry": {
         "type": "Point",
@@ -5513,16 +5547,14 @@
         "addr:city": "Port Erin",
         "addr:postcode": "IM9 6AL",
         "addr:street": "Bridson Street",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
         "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
-        "operator": "Shoprite",
+        "name": "Tesco",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
         "shop": "supermarket",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
-        "website": "https://www.manxshoprite.com/",
+        "website": "https://www.tesco.com/store-locator/port-erin/bridson-street",
         "osm_id": 60007307,
         "lon": -4.7568095926005185,
         "lat": 54.0869019474333,

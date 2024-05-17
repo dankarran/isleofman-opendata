@@ -15,6 +15,7 @@
         "amenity": "charging_station",
         "authentication:app": "yes",
         "authentication:none": "no",
+        "brand": "Pod Point",
         "capacity": "2",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
@@ -43,12 +44,13 @@
       "properties": {
         "amenity": "charging_station",
         "authentication:none": "yes",
-        "brand": "PodPoint",
+        "brand": "Pod Point",
         "capacity": "2",
         "fee": "yes",
         "opening_hours": "24/7",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "socket:type2": "2",
         "source": "survey",
         "osm_id": 5182378606,
@@ -70,6 +72,10 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "osm_id": 7598451580,
         "lon": -4.696869,
         "lat": 54.221949,
@@ -89,6 +95,10 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "osm_id": 7598460308,
         "lon": -4.697281,
         "lat": 54.221812,
@@ -110,6 +120,7 @@
         "amenity": "charging_station",
         "authentication:app": "yes",
         "authentication:none": "no",
+        "brand": "Pod Point",
         "capacity": "2",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
@@ -139,10 +150,11 @@
         "amenity": "charging_station",
         "brand": "Pod Point",
         "capacity": "2",
-        "name": "Pria-Bess",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "ref": "PG-84481",
+        "ref_name": "Pria-Bess",
         "socket:type2": "2",
         "socket:type2:output": "7 kW",
         "osm_id": 9887598251,
@@ -164,8 +176,11 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "capacity": "2",
-        "operator": "POD Point",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "osm_id": 10893563060,
         "lon": -4.466166,
         "lat": 54.165551,
@@ -185,6 +200,12 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/sea-terminal-91xq6",
         "osm_id": 10897693660,
         "lon": -4.474605,
         "lat": 54.148397,
@@ -204,8 +225,10 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "website": "https://charge.pod-point.com/address/breagle-glen-pavilion-0y80m",
         "osm_id": 11170791038,
         "lon": -4.759534,
@@ -226,10 +249,13 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "capacity": "2",
-        "name": "Finn-Earl",
-        "operator": "POD Point",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "ref": "PG-87329",
+        "ref_name": "Finn-Earl",
         "osm_id": 11280040355,
         "lon": -4.454589,
         "lat": 54.174869,
@@ -249,9 +275,11 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "capacity": "4",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "website": "https://charge.pod-point.com/address/port-st-mary-town-hall-car-park-e7z2x",
         "osm_id": 11811417820,
         "lon": -4.739486,
@@ -276,6 +304,8 @@
         "capacity": "2",
         "opening_hours": "24/7",
         "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "socket:type2": "2",
         "socket:type2:output": "7 kW",
         "osm_id": 11848336016,
@@ -301,6 +331,8 @@
         "capacity": "2",
         "opening_hours": "24/7",
         "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "socket:type2": "2",
         "socket:type2:output": "7 kW",
         "osm_id": 11848336017,
@@ -325,6 +357,8 @@
         "brand": "Pod Point",
         "opening_hours": "24/7",
         "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "ref_name": "Page-Jake",
         "socket:type2": "2",
         "socket:type2:output": "7 kW",
@@ -347,8 +381,10 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "ref_name": "Elia-Kriv",
         "socket:chademo": "1",
         "socket:chademo:output": "75 kW",
@@ -360,6 +396,154 @@
         "lat": 54.322967,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11889767185"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11910775021,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532005,
+          54.150374
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "1",
+        "fixme": "survey",
+        "operator": "Pod Point",
+        "ref_name": "Ross-Shay",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW",
+        "osm_id": 11910775021,
+        "lon": -4.532005,
+        "lat": 54.150374,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11910775021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11910775022,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532214,
+          54.150183
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "osm_id": 11910775022,
+        "lon": -4.532214,
+        "lat": 54.150183,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11910775022"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11910775023,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532261,
+          54.150146
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "osm_id": 11910775023,
+        "lon": -4.532261,
+        "lat": 54.150146,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11910775023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11910775024,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532307,
+          54.150109
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "osm_id": 11910775024,
+        "lon": -4.532307,
+        "lat": 54.150109,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11910775024"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11910775025,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.532352,
+          54.150074
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "osm_id": 11910775025,
+        "lon": -4.532352,
+        "lat": 54.150074,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11910775025"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11910806876,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.505703,
+          54.170388
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "ref": "PG-85075",
+        "ref_name": "Erin-Faye",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 11910806876,
+        "lon": -4.505703,
+        "lat": 54.170388,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11910806876"
       }
     },
     {
@@ -392,7 +576,11 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "capacity": "4",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
         "osm_id": 1165384236,
         "lon": -4.478363699374565,
         "lat": 54.15392071444446,
@@ -430,7 +618,12 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/spectrum-apartments-xjpep",
         "osm_id": 1167710497,
         "lon": -4.474977,
         "lat": 54.15972299999999,
@@ -468,12 +661,193 @@
       },
       "properties": {
         "amenity": "charging_station",
+        "brand": "Pod Point",
         "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/loch-promenade-rxeme",
         "osm_id": 1174305874,
         "lon": -4.478187938566747,
         "lat": 54.151929010760234,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1174305874"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283327754,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.638014,
+            54.197377
+          ],
+          [
+            -4.637901,
+            54.197414
+          ],
+          [
+            -4.637856,
+            54.197366
+          ],
+          [
+            -4.637969,
+            54.197329
+          ],
+          [
+            -4.638014,
+            54.197377
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/st-johns-saw-mill-epjkr",
+        "osm_id": 1283327754,
+        "lon": -4.637935000000001,
+        "lat": 54.19737150000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1283327754"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283329489,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.639179,
+            54.203432
+          ],
+          [
+            -4.639221,
+            54.203367
+          ],
+          [
+            -4.639309,
+            54.203386
+          ],
+          [
+            -4.639267,
+            54.203451
+          ],
+          [
+            -4.639179,
+            54.203432
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/the-arboretum-0p49l",
+        "osm_id": 1283329489,
+        "lon": -4.639244000000001,
+        "lat": 54.20340899999999,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1283329489"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283329954,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.636132,
+            54.208166
+          ],
+          [
+            -4.635916,
+            54.208199
+          ],
+          [
+            -4.635892,
+            54.208145
+          ],
+          [
+            -4.636108,
+            54.208113
+          ],
+          [
+            -4.636132,
+            54.208166
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "4",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/tynwald-mills-4nq4w",
+        "osm_id": 1283329954,
+        "lon": -4.63601182539882,
+        "lat": 54.20815578393826,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1283329954"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1283331513,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.502801,
+            54.174737
+          ],
+          [
+            -4.50268,
+            54.174746
+          ],
+          [
+            -4.502679,
+            54.174741
+          ],
+          [
+            -4.502667,
+            54.174693
+          ],
+          [
+            -4.502788,
+            54.174683
+          ],
+          [
+            -4.502801,
+            54.174737
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "website": "https://charge.pod-point.com/address/hospice-iom-gpqxq",
+        "osm_id": 1283331513,
+        "lon": -4.502734180860028,
+        "lat": 54.174714727324904,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1283331513"
       }
     }
   ]

@@ -37,6 +37,40 @@
     },
     {
       "type": "Feature",
+      "id": 1666047899,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756051,
+          54.086726
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:street": "Orchard Walk",
+        "charity": "yes",
+        "charity:ref": "317",
+        "name": "Hospice Shop",
+        "recycling:batteries": "no",
+        "recycling:books": "yes",
+        "recycling:clothes": "yes",
+        "recycling:electrical_appliances": "yes",
+        "recycling:furniture": "yes",
+        "recycling:glass": "yes",
+        "recycling:magazines": "yes",
+        "recycling:small_appliances": "yes",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com/",
+        "osm_id": 1666047899,
+        "lon": -4.756051,
+        "lat": 54.086726,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1666047899"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 8567404081,
       "geometry": {
         "type": "Point",
