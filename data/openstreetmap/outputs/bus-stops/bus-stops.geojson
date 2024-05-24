@@ -7536,8 +7536,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.506249,
-          54.172482
+          -4.506241,
+          54.172465
         ]
       },
       "properties": {
@@ -7547,8 +7547,8 @@
         "public_transport": "platform",
         "ref": "1810",
         "osm_id": 9182578881,
-        "lon": -4.506249,
-        "lat": 54.172482,
+        "lon": -4.506241,
+        "lat": 54.172465,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9182578881"
       }
@@ -8686,29 +8686,6 @@
         "lat": 54.203363,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9186788274"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9186788275,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.641394,
-          54.203119
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Bunscooil Layby",
-        "public_transport": "platform",
-        "ref": "2315",
-        "osm_id": 9186788275,
-        "lon": -4.641394,
-        "lat": 54.203119,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/9186788275"
       }
     },
     {

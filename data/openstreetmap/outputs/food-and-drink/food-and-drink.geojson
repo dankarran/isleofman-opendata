@@ -1312,28 +1312,6 @@
     },
     {
       "type": "Feature",
-      "id": 944207680,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.437659,
-          54.174812
-        ]
-      },
-      "properties": {
-        "amenity": "restaurant",
-        "name": "Ciapelli's",
-        "phone": "+44 1624 677442",
-        "website": "http://ciappellis.com/",
-        "osm_id": 944207680,
-        "lon": -4.437659,
-        "lat": 54.174812,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/944207680"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 948933232,
       "geometry": {
         "type": "Point",
@@ -5174,14 +5152,15 @@
       "properties": {
         "addr:city": "Greeba",
         "addr:country": "IM",
+        "addr:postcode": "IM4 3LF",
         "addr:street": "Peel Road",
         "amenity": "restaurant",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/thehawthorn/",
         "name": "The Hawthorn",
         "phone": "+44 1624 801268",
-        "postal_code": "IM4 3LF",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.thehawthorn.co.uk/",
+        "website": "https://thehawthorn.im",
         "wheelchair": "no",
         "osm_id": 78189884,
         "lon": -4.610695000000001,
@@ -6242,12 +6221,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18-22",
+        "addr:postcode": "IM1 2LX",
+        "addr:street": "Loch Promenade",
         "amenity": "restaurant",
         "building": "yes",
+        "fixme": "is Coast next to rather than inside Claremont? Seems to share same address",
         "name": "Coast",
         "phone": "+44 1624 698888",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.sleepwellhotels.com/hotels/isle_of_man/claremont/restaurant.htm",
+        "website": "https://www.coast.im",
         "osm_id": 81446777,
         "lon": -4.478148025207174,
         "lat": 54.15092610062504,
@@ -9488,9 +9473,10 @@
         "addr:street": "Shore Road",
         "amenity": "restaurant",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/harbourlightspeel/",
+        "fixme": "is Harbour Lights still open? Website gone and last socials in April 2023",
         "name": "Harbour Lights",
         "toilets:wheelchair": "no",
-        "website": "http://www.harbour-lights.net/",
         "wheelchair": "no",
         "osm_id": 146835165,
         "lon": -4.6950419705914115,
@@ -11741,89 +11727,6 @@
         "lat": 54.2030227240377,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/292052815"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 335686610,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.406547,
-            54.234005
-          ],
-          [
-            -4.406673,
-            54.233978
-          ],
-          [
-            -4.406708,
-            54.234033
-          ],
-          [
-            -4.406583,
-            54.23406
-          ],
-          [
-            -4.406547,
-            54.234005
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Laxey",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM4 7NY",
-        "addr:street": "Mines Road",
-        "amenity": "restaurant",
-        "name": "Laxey's Diner",
-        "old_name": "Browns",
-        "website": "http://www.laxeys-diner.com/",
-        "osm_id": 335686610,
-        "lon": -4.406627617460234,
-        "lat": 54.23401894953449,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/335686610"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 335686611,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.406583,
-            54.23406
-          ],
-          [
-            -4.406617,
-            54.234113
-          ],
-          [
-            -4.406742,
-            54.234086
-          ],
-          [
-            -4.406708,
-            54.234033
-          ],
-          [
-            -4.406583,
-            54.23406
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "restaurant",
-        "cuisine": "indian",
-        "name": "Spice of Isabella",
-        "osm_id": 335686611,
-        "lon": -4.4066625,
-        "lat": 54.234073,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/335686611"
       }
     },
     {

@@ -7460,51 +7460,6 @@
     },
     {
       "type": "Feature",
-      "id": 82674239,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484276,
-            54.151827
-          ],
-          [
-            -4.484198,
-            54.151859
-          ],
-          [
-            -4.484085,
-            54.151787
-          ],
-          [
-            -4.484139,
-            54.151769
-          ],
-          [
-            -4.484174,
-            54.151754
-          ],
-          [
-            -4.484276,
-            54.151827
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Tynwald Street",
-        "building": "yes",
-        "name": "Morrison Photos",
-        "postal_code": "IM1 1BF",
-        "shop": "photo",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.morrisonphotos.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82674240,
       "geometry": {
         "type": "LineString",
@@ -7796,59 +7751,6 @@
         "url:registered_building": "https://www.gov.im/media/631703/0500032regbldthemanxcoop.pdf",
         "website": "https://www.coop.co.uk/store-finder/IM9-1LG/the-parade",
         "wikidata": "Q118188583"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82737630,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481062,
-            54.152974
-          ],
-          [
-            -4.481011,
-            54.152945
-          ],
-          [
-            -4.481045,
-            54.152901
-          ],
-          [
-            -4.48111,
-            54.152919
-          ],
-          [
-            -4.481163,
-            54.152846
-          ],
-          [
-            -4.481304,
-            54.152885
-          ],
-          [
-            -4.481187,
-            54.153037
-          ],
-          [
-            -4.481062,
-            54.152974
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "39",
-        "addr:street": "Finch Road",
-        "building": "yes",
-        "name": "Peter Norris Music",
-        "postal_code": "IM1 2PW",
-        "shop": "music",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.peternorrismusic.co.im"
       }
     },
     {
@@ -12871,8 +12773,10 @@
         "addr:country": "IM",
         "addr:street": "Shore Road",
         "building": "yes",
+        "charity": "yes",
         "contact:facebook": "https://www.facebook.com/PeelCharityShop/",
         "name": "Peel Charity Shop",
+        "ref:charity": "815",
         "shop": "clothes;charity"
       }
     },
@@ -15678,45 +15582,6 @@
     },
     {
       "type": "Feature",
-      "id": 233925100,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.404891,
-            54.234537
-          ],
-          [
-            -4.405167,
-            54.234508
-          ],
-          [
-            -4.40511,
-            54.234322
-          ],
-          [
-            -4.404835,
-            54.234351
-          ],
-          [
-            -4.404891,
-            54.234537
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Laxey",
-        "addr:postcode": "IM4 7PD",
-        "addr:street": "Ramsey Road",
-        "building": "yes",
-        "name": "Green's Garage",
-        "shop": "car_repair",
-        "source": "Bing",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 239140946,
       "geometry": {
         "type": "LineString",
@@ -15855,10 +15720,10 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
-        "name": "Peter Norris Music",
-        "phone": "+44 1624 661794",
-        "shop": "music",
-        "source": "Isle of Man Government aerial imagery (2001);survey"
+        "name": "Morrison Photos",
+        "shop": "photo",
+        "source": "Isle of Man Government aerial imagery (2001);survey",
+        "website": "http://www.morrisonphotos.co.uk"
       }
     },
     {

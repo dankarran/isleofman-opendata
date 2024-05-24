@@ -1076,6 +1076,7 @@
         ]
       },
       "properties": {
+        "addr:alt_housename": "Helmshore House",
         "addr:city": "Port Saint Mary",
         "addr:country": "IM",
         "addr:housename": "Manchester House",
@@ -1083,8 +1084,10 @@
         "addr:street": "Bay View Road",
         "amenity": "pharmacy",
         "building": "yes",
+        "fixme": "check building name on the ground",
         "healthcare": "pharmacy",
         "name": "Clear Pharmacy",
+        "source:addr:alt_housename": "website",
         "website": "https://www.clearpharmacy.im/",
         "osm_id": 101812236,
         "lon": -4.739142405711958,
@@ -2022,7 +2025,7 @@
         "operator": "Regent Dental",
         "payment:contactless": "yes",
         "payment:debit_cards": "yes",
-        "website": "https://www.regentdental.im/our-practices-and-team/peel",
+        "website": "https://regentdental.im/regent-dental-peel/",
         "osm_id": 246386232,
         "lon": -4.6771555000000005,
         "lat": 54.2201865,

@@ -409,14 +409,14 @@
         ]
       },
       "properties": {
+        "access": "private",
         "amenity": "charging_station",
-        "brand": "Pod Point",
-        "capacity": "1",
-        "fixme": "survey",
-        "operator": "Pod Point",
-        "ref_name": "Ross-Shay",
-        "socket:type2": "1",
-        "socket:type2:output": "7 kW",
+        "authentication:none": "no",
+        "authentication:rfid": "yes",
+        "capacity": "2",
+        "operator": "Jacksons",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
         "osm_id": 11910775021,
         "lon": -4.532005,
         "lat": 54.150374,
@@ -544,6 +544,99 @@
         "lat": 54.170388,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11910806876"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11914271745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.507266,
+          54.171509
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-87305",
+        "ref_name": "Yoko-Enzo",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 11914271745,
+        "lon": -4.507266,
+        "lat": 54.171509,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11914271745"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11914271746,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.506909,
+          54.171392
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-87301",
+        "ref_name": "Maya-Abel",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 11914271746,
+        "lon": -4.506909,
+        "lat": 54.171392,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11914271746"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11914271747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.50709,
+          54.171448
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-87306",
+        "ref_name": "Iggy-Edna",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 11914271747,
+        "lon": -4.50709,
+        "lat": 54.171448,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11914271747"
       }
     },
     {
@@ -848,6 +941,47 @@
         "lat": 54.174714727324904,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1283331513"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1284428046,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759786,
+            54.085582
+          ],
+          [
+            -4.759701,
+            54.085567
+          ],
+          [
+            -4.759673,
+            54.085622
+          ],
+          [
+            -4.759758,
+            54.085637
+          ],
+          [
+            -4.759786,
+            54.085582
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "website": "https://charge.pod-point.com/address/shore-road-1e6y6",
+        "osm_id": 1284428046,
+        "lon": -4.7597295,
+        "lat": 54.085602,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1284428046"
       }
     }
   ]

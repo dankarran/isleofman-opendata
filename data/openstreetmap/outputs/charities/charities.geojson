@@ -640,6 +640,65 @@
     },
     {
       "type": "Feature",
+      "id": 82567290,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496127,
+            54.154905
+          ],
+          [
+            -4.496237,
+            54.15491
+          ],
+          [
+            -4.496221,
+            54.15502
+          ],
+          [
+            -4.496194,
+            54.155018
+          ],
+          [
+            -4.496139,
+            54.155016
+          ],
+          [
+            -4.496111,
+            54.155015
+          ],
+          [
+            -4.496119,
+            54.154958
+          ],
+          [
+            -4.496127,
+            54.154905
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:street": "Ballabrooie Way",
+        "building": "yes",
+        "charity": "yes",
+        "club": "yes",
+        "contact:facebook": "https://www.facebook.com/p/Lions-Club-of-the-Isle-of-Man-100064804596623/",
+        "name": "Lions Club of the Isle of Man",
+        "ref:charity": "637",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://lions.im",
+        "osm_id": 82567290,
+        "lon": -4.496173969098007,
+        "lat": 54.15496239956184,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/82567290"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92112419,
       "geometry": {
         "type": "LineString",
@@ -1036,6 +1095,103 @@
     },
     {
       "type": "Feature",
+      "id": 103485031,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.637784,
+            54.083302
+          ],
+          [
+            -4.637795,
+            54.083309
+          ],
+          [
+            -4.637837,
+            54.083334
+          ],
+          [
+            -4.637677,
+            54.083427
+          ],
+          [
+            -4.63765,
+            54.083442
+          ],
+          [
+            -4.637578,
+            54.083484
+          ],
+          [
+            -4.637524,
+            54.083452
+          ],
+          [
+            -4.637583,
+            54.083418
+          ],
+          [
+            -4.637552,
+            54.083399
+          ],
+          [
+            -4.637542,
+            54.083405
+          ],
+          [
+            -4.637533,
+            54.083411
+          ],
+          [
+            -4.637475,
+            54.083376
+          ],
+          [
+            -4.637538,
+            54.08334
+          ],
+          [
+            -4.637626,
+            54.083393
+          ],
+          [
+            -4.637727,
+            54.083335
+          ],
+          [
+            -4.637784,
+            54.083302
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ronaldsway",
+        "addr:country": "IM",
+        "addr:postcode": "IM9 2AT",
+        "building": "yes",
+        "charity": "yes",
+        "fee": "no",
+        "museum": "aviation",
+        "name": "Manx Aviation and Military Museum",
+        "operator": "Manx Aviation and Military Museum",
+        "operator:type": "charitable",
+        "phone": "+44 1624 829294",
+        "ref:charity": "827",
+        "source": "Bing",
+        "tourism": "museum",
+        "website": "http://www.maps.org.im/museum",
+        "wikidata": "Q15245777",
+        "wikipedia": "en:Manx Aviation and Military Museum",
+        "osm_id": 103485031,
+        "lon": -4.637641492609207,
+        "lat": 54.08338793363213,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/103485031"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 104794522,
       "geometry": {
         "type": "LineString",
@@ -1200,6 +1356,71 @@
         "lat": 54.17393238991956,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/104794522"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146835161,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694651,
+            54.224013
+          ],
+          [
+            -4.694446,
+            54.223985
+          ],
+          [
+            -4.694484,
+            54.223889
+          ],
+          [
+            -4.69455,
+            54.223898
+          ],
+          [
+            -4.694561,
+            54.22387
+          ],
+          [
+            -4.694634,
+            54.22388
+          ],
+          [
+            -4.694622,
+            54.223908
+          ],
+          [
+            -4.694689,
+            54.223917
+          ],
+          [
+            -4.694685,
+            54.223927
+          ],
+          [
+            -4.694651,
+            54.224013
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:street": "Shore Road",
+        "building": "yes",
+        "charity": "yes",
+        "contact:facebook": "https://www.facebook.com/PeelCharityShop/",
+        "name": "Peel Charity Shop",
+        "ref:charity": "815",
+        "shop": "clothes;charity",
+        "osm_id": 146835161,
+        "lon": -4.694570938595034,
+        "lat": 54.22394241446218,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146835161"
       }
     },
     {

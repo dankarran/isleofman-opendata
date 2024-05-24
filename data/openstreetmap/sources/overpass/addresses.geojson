@@ -8010,6 +8010,239 @@
     },
     {
       "type": "Feature",
+      "id": 27032567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.437803,
+            54.175246
+          ],
+          [
+            -4.437356,
+            54.175422
+          ],
+          [
+            -4.436704,
+            54.175623
+          ],
+          [
+            -4.43576,
+            54.175889
+          ],
+          [
+            -4.434988,
+            54.1762
+          ],
+          [
+            -4.433855,
+            54.176351
+          ],
+          [
+            -4.433082,
+            54.176577
+          ],
+          [
+            -4.43267,
+            54.176778
+          ],
+          [
+            -4.431445,
+            54.17702
+          ],
+          [
+            -4.430378,
+            54.177235
+          ],
+          [
+            -4.429761,
+            54.177225
+          ],
+          [
+            -4.429177,
+            54.177301
+          ],
+          [
+            -4.428095,
+            54.177461
+          ],
+          [
+            -4.427289,
+            54.177466
+          ],
+          [
+            -4.426858,
+            54.177316
+          ],
+          [
+            -4.425916,
+            54.176735
+          ],
+          [
+            -4.424885,
+            54.175929
+          ],
+          [
+            -4.424671,
+            54.175668
+          ],
+          [
+            -4.424696,
+            54.174924
+          ],
+          [
+            -4.424782,
+            54.174502
+          ],
+          [
+            -4.4251,
+            54.173809
+          ],
+          [
+            -4.4251,
+            54.173432
+          ],
+          [
+            -4.424988,
+            54.172227
+          ],
+          [
+            -4.425014,
+            54.172041
+          ],
+          [
+            -4.425074,
+            54.17199
+          ],
+          [
+            -4.425211,
+            54.1719
+          ],
+          [
+            -4.425469,
+            54.17184
+          ],
+          [
+            -4.425787,
+            54.171799
+          ],
+          [
+            -4.425958,
+            54.171774
+          ],
+          [
+            -4.426276,
+            54.171639
+          ],
+          [
+            -4.426645,
+            54.171498
+          ],
+          [
+            -4.426988,
+            54.171372
+          ],
+          [
+            -4.42722,
+            54.171297
+          ],
+          [
+            -4.428765,
+            54.171021
+          ],
+          [
+            -4.430207,
+            54.170453
+          ],
+          [
+            -4.431426,
+            54.169941
+          ],
+          [
+            -4.431596,
+            54.169959
+          ],
+          [
+            -4.431794,
+            54.170036
+          ],
+          [
+            -4.432673,
+            54.170604
+          ],
+          [
+            -4.433967,
+            54.170577
+          ],
+          [
+            -4.43372,
+            54.170888
+          ],
+          [
+            -4.434112,
+            54.171036
+          ],
+          [
+            -4.436206,
+            54.171751
+          ],
+          [
+            -4.436737,
+            54.172072
+          ],
+          [
+            -4.440074,
+            54.173136
+          ],
+          [
+            -4.439972,
+            54.173422
+          ],
+          [
+            -4.439779,
+            54.173522
+          ],
+          [
+            -4.439527,
+            54.17388
+          ],
+          [
+            -4.439393,
+            54.174066
+          ],
+          [
+            -4.438926,
+            54.174593
+          ],
+          [
+            -4.438599,
+            54.175036
+          ],
+          [
+            -4.438502,
+            54.175061
+          ],
+          [
+            -4.437803,
+            54.175246
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:postcode": "IM3 2JR",
+        "addr:street": "Groudle Road",
+        "leisure": "golf_course",
+        "name": "King Edward Bay Golf and Country Club",
+        "phone": "+44 1624 677442",
+        "phone:lockerroom": "+44 1624 676794",
+        "phone:proshop": "+44 1624 672709",
+        "website": "https://www.kingedwardbay.co.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -26387,6 +26620,49 @@
     },
     {
       "type": "Feature",
+      "id": 78189884,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.610849,
+            54.197161
+          ],
+          [
+            -4.610525,
+            54.197144
+          ],
+          [
+            -4.610541,
+            54.197041
+          ],
+          [
+            -4.610865,
+            54.197058
+          ],
+          [
+            -4.610849,
+            54.197161
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Greeba",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 3LF",
+        "addr:street": "Peel Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/thehawthorn/",
+        "name": "The Hawthorn",
+        "phone": "+44 1624 801268",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://thehawthorn.im",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 78189895,
       "geometry": {
         "type": "LineString",
@@ -26515,8 +26791,12 @@
             54.203072
           ],
           [
+            -4.641361,
+            54.203067
+          ],
+          [
             -4.640983,
-            54.203055
+            54.203052
           ],
           [
             -4.640807,
@@ -30534,12 +30814,140 @@
         "addr:street": "Loch Promenade",
         "amenity": "place_of_worship",
         "building": "church",
+        "contact:facebook": "https://www.facebook.com/PromenadeMethodistChurch",
         "denomination": "methodist",
         "name": "Promenade Methodist Church",
         "postal_code": "IM1 2LY",
         "religion": "christian",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81446776,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477829,
+            54.150644
+          ],
+          [
+            -4.477942,
+            54.150886
+          ],
+          [
+            -4.478301,
+            54.150848
+          ],
+          [
+            -4.478151,
+            54.150606
+          ],
+          [
+            -4.477829,
+            54.150644
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18-22",
+        "addr:postcode": "IM1 2LX",
+        "addr:street": "Loch Promenade",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Claremont",
+        "phone": "+44 1624 617068",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.promenademethodistchurch.im/"
+        "tourism": "hotel",
+        "website": "https://www.claremonthoteldouglas.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81446777,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477995,
+            54.151005
+          ],
+          [
+            -4.477942,
+            54.150886
+          ],
+          [
+            -4.478301,
+            54.150848
+          ],
+          [
+            -4.478355,
+            54.150965
+          ],
+          [
+            -4.477995,
+            54.151005
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18-22",
+        "addr:postcode": "IM1 2LX",
+        "addr:street": "Loch Promenade",
+        "amenity": "restaurant",
+        "building": "yes",
+        "fixme": "is Coast next to rather than inside Claremont? Seems to share same address",
+        "name": "Coast",
+        "phone": "+44 1624 698888",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.coast.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81446779,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478419,
+            54.151093
+          ],
+          [
+            -4.478054,
+            54.151134
+          ],
+          [
+            -4.478028,
+            54.151075
+          ],
+          [
+            -4.478387,
+            54.15103
+          ],
+          [
+            -4.478419,
+            54.151093
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM1 2LX",
+        "addr:street": "Loch Promenade",
+        "building": "yes",
+        "name": "The Town House",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "hotel",
+        "website": "https://www.thetownhouse.im/"
       }
     },
     {
@@ -32824,6 +33232,56 @@
         "source": "Bing",
         "tourism": "hotel",
         "website": "https://www.premierinn.com/gb/en/hotels/england/isle-of-man/douglas/douglas-isle-of-man.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82737630,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481062,
+            54.152974
+          ],
+          [
+            -4.481011,
+            54.152945
+          ],
+          [
+            -4.481045,
+            54.152901
+          ],
+          [
+            -4.48111,
+            54.152919
+          ],
+          [
+            -4.481163,
+            54.152846
+          ],
+          [
+            -4.481304,
+            54.152885
+          ],
+          [
+            -4.481187,
+            54.153037
+          ],
+          [
+            -4.481062,
+            54.152974
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:postcode": "IM1 2PW",
+        "addr:street": "Finch Road",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -45963,6 +46421,7 @@
         ]
       },
       "properties": {
+        "addr:alt_housename": "Helmshore House",
         "addr:city": "Port Saint Mary",
         "addr:country": "IM",
         "addr:housename": "Manchester House",
@@ -45970,8 +46429,10 @@
         "addr:street": "Bay View Road",
         "amenity": "pharmacy",
         "building": "yes",
+        "fixme": "check building name on the ground",
         "healthcare": "pharmacy",
         "name": "Clear Pharmacy",
+        "source:addr:alt_housename": "website",
         "website": "https://www.clearpharmacy.im/"
       }
     },
@@ -53544,12 +54005,14 @@
         "addr:country": "IM",
         "addr:postcode": "IM9 2AT",
         "building": "yes",
+        "charity": "yes",
         "fee": "no",
         "museum": "aviation",
         "name": "Manx Aviation and Military Museum",
         "operator": "Manx Aviation and Military Museum",
         "operator:type": "charitable",
         "phone": "+44 1624 829294",
+        "ref:charity": "827",
         "source": "Bing",
         "tourism": "museum",
         "website": "http://www.maps.org.im/museum",
@@ -59455,9 +59918,10 @@
         "addr:street": "Shore Road",
         "amenity": "restaurant",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/harbourlightspeel/",
+        "fixme": "is Harbour Lights still open? Website gone and last socials in April 2023",
         "name": "Harbour Lights",
         "toilets:wheelchair": "no",
-        "website": "http://www.harbour-lights.net/",
         "wheelchair": "no"
       }
     },
@@ -81122,11 +81586,11 @@
         "addr:city": "Laxey",
         "addr:postcode": "IM4 7PD",
         "addr:street": "Ramsey Road",
-        "building": "yes",
-        "name": "Green's Garage",
-        "shop": "car_repair",
+        "building": "industrial",
+        "old_name": "Green's Garage",
         "source": "Bing",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "was:shop": "car_repair"
       }
     },
     {
@@ -81600,10 +82064,10 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
-        "name": "Peter Norris Music",
-        "phone": "+44 1624 661794",
-        "shop": "music",
-        "source": "Isle of Man Government aerial imagery (2001);survey"
+        "name": "Morrison Photos",
+        "shop": "photo",
+        "source": "Isle of Man Government aerial imagery (2001);survey",
+        "website": "http://www.morrisonphotos.co.uk"
       }
     },
     {
@@ -81786,7 +82250,7 @@
         "operator": "Regent Dental",
         "payment:contactless": "yes",
         "payment:debit_cards": "yes",
-        "website": "https://www.regentdental.im/our-practices-and-team/peel"
+        "website": "https://regentdental.im/regent-dental-peel/"
       }
     },
     {
@@ -81833,6 +82297,51 @@
         "phone:out_of_hours": "+44 1624 812108",
         "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
         "website": "https://iomvet.co.uk/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246812757,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455982,
+            54.175991
+          ],
+          [
+            -4.455984,
+            54.176043
+          ],
+          [
+            -4.4558,
+            54.176046
+          ],
+          [
+            -4.455797,
+            54.175994
+          ],
+          [
+            -4.455982,
+            54.175991
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "21B",
+        "addr:postcode": "IM3 4EB",
+        "addr:street": "Avondale Road",
+        "building": "yes",
+        "email": "info@completecare.im",
+        "level": "0",
+        "name": "Complete Care",
+        "office": "healthcare",
+        "opening_hours": "Mo-Fr 09:00-14:30",
+        "phone": "+44 1624 674119;+44 1624 308459",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
+        "website": "https://completecare.im/"
       }
     },
     {
@@ -85240,10 +85749,8 @@
         "addr:housenumber": "1",
         "addr:postcode": "IM4 7NY",
         "addr:street": "Mines Road",
-        "amenity": "restaurant",
-        "name": "Laxey's Diner",
-        "old_name": "Browns",
-        "website": "http://www.laxeys-diner.com/"
+        "old_name": "Browns;Laxey's Diner",
+        "was:amenity": "restaurant"
       }
     },
     {
@@ -127799,14 +128306,15 @@
       "properties": {
         "addr:city": "Strang",
         "addr:country": "IM",
-        "addr:postcode": "IM4 4RF",
+        "addr:postcode": "IM4 4RE",
         "addr:street": "Ballaoates Road",
         "amenity": "community_centre",
         "building": "yes",
         "name": "The Roundhouse",
         "operator": "Braddan Commissioners",
         "operator:type": "government",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "website": "https://theroundhouse.im/"
       }
     },
     {
@@ -128880,6 +129388,77 @@
         "addr:street": "Lag Birragh Drive",
         "building": "yes",
         "source": "microsoft/BuildingFootprints"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249706822,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.433058,
+            54.169736
+          ],
+          [
+            -4.433543,
+            54.169773
+          ],
+          [
+            -4.433547,
+            54.169754
+          ],
+          [
+            -4.433592,
+            54.169757
+          ],
+          [
+            -4.433604,
+            54.169703
+          ],
+          [
+            -4.433485,
+            54.169694
+          ],
+          [
+            -4.433495,
+            54.169648
+          ],
+          [
+            -4.433349,
+            54.169637
+          ],
+          [
+            -4.433363,
+            54.169574
+          ],
+          [
+            -4.433266,
+            54.169566
+          ],
+          [
+            -4.433245,
+            54.169663
+          ],
+          [
+            -4.433077,
+            54.16965
+          ],
+          [
+            -4.433058,
+            54.169736
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Far End",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM3 2AU",
+        "addr:street": "King Edward Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Transactions"
       }
     },
     {

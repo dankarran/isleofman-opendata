@@ -6573,8 +6573,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.461338,
-            54.173387
+            -4.461396,
+            54.173379
+          ],
+          [
+            -4.461346,
+            54.173395
           ],
           [
             -4.45952,
@@ -10159,7 +10163,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Glen Vine Drive",
         "postal_code": "IM4 4EX",
@@ -14701,8 +14705,12 @@
             54.174692
           ],
           [
-            -4.460126,
-            54.174827
+            -4.460144,
+            54.174824
+          ],
+          [
+            -4.460099,
+            54.174833
           ]
         ]
       },
@@ -14987,6 +14995,10 @@
             54.175477
           ],
           [
+            -4.458694,
+            54.175431
+          ],
+          [
             -4.458701,
             54.175386
           ],
@@ -14995,8 +15007,8 @@
             54.175326
           ],
           [
-            -4.458549,
-            54.175131
+            -4.458527,
+            54.175115
           ],
           [
             -4.458484,
@@ -15548,6 +15560,10 @@
           [
             -4.459702,
             54.175194
+          ],
+          [
+            -4.459664,
+            54.17514
           ],
           [
             -4.459648,
@@ -18189,8 +18205,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.385003,
-            54.317811
+            -4.384971,
+            54.317816
           ],
           [
             -4.383197,
@@ -19600,8 +19616,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.385003,
-            54.317811
+            -4.384971,
+            54.317816
+          ],
+          [
+            -4.38499,
+            54.317789
           ],
           [
             -4.385224,
@@ -25571,48 +25591,6 @@
     },
     {
       "type": "Feature",
-      "id": 78189884,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.610849,
-            54.197161
-          ],
-          [
-            -4.610525,
-            54.197144
-          ],
-          [
-            -4.610541,
-            54.197041
-          ],
-          [
-            -4.610865,
-            54.197058
-          ],
-          [
-            -4.610849,
-            54.197161
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Greeba",
-        "addr:country": "IM",
-        "addr:street": "Peel Road",
-        "amenity": "restaurant",
-        "building": "yes",
-        "name": "The Hawthorn",
-        "phone": "+44 1624 801268",
-        "postal_code": "IM4 3LF",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.thehawthorn.co.uk/",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 79141600,
       "geometry": {
         "type": "LineString",
@@ -26540,55 +26518,12 @@
         "addr:street": "Loch Promenade",
         "amenity": "place_of_worship",
         "building": "church",
+        "contact:facebook": "https://www.facebook.com/PromenadeMethodistChurch",
         "denomination": "methodist",
         "name": "Promenade Methodist Church",
         "postal_code": "IM1 2LY",
         "religion": "christian",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.promenademethodistchurch.im/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 81446776,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.477829,
-            54.150644
-          ],
-          [
-            -4.477942,
-            54.150886
-          ],
-          [
-            -4.478301,
-            54.150848
-          ],
-          [
-            -4.478151,
-            54.150606
-          ],
-          [
-            -4.477829,
-            54.150644
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "18-22",
-        "addr:street": "Loch Promenade",
-        "building": "yes",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Claremont",
-        "phone": "+44 1624 617068",
-        "postal_code": "IM1 2LX",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "hotel",
-        "website": "https://www.sleepwellhotels.com/hotels/isle_of_man/claremont"
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -26778,51 +26713,6 @@
     },
     {
       "type": "Feature",
-      "id": 82674239,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484276,
-            54.151827
-          ],
-          [
-            -4.484198,
-            54.151859
-          ],
-          [
-            -4.484085,
-            54.151787
-          ],
-          [
-            -4.484139,
-            54.151769
-          ],
-          [
-            -4.484174,
-            54.151754
-          ],
-          [
-            -4.484276,
-            54.151827
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Tynwald Street",
-        "building": "yes",
-        "name": "Morrison Photos",
-        "postal_code": "IM1 1BF",
-        "shop": "photo",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.morrisonphotos.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82674250,
       "geometry": {
         "type": "LineString",
@@ -26861,59 +26751,6 @@
         "shop": "optician",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "http://www.gilliansheard.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82737630,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481062,
-            54.152974
-          ],
-          [
-            -4.481011,
-            54.152945
-          ],
-          [
-            -4.481045,
-            54.152901
-          ],
-          [
-            -4.48111,
-            54.152919
-          ],
-          [
-            -4.481163,
-            54.152846
-          ],
-          [
-            -4.481304,
-            54.152885
-          ],
-          [
-            -4.481187,
-            54.153037
-          ],
-          [
-            -4.481062,
-            54.152974
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "39",
-        "addr:street": "Finch Road",
-        "building": "yes",
-        "name": "Peter Norris Music",
-        "postal_code": "IM1 2PW",
-        "shop": "music",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.peternorrismusic.co.im"
       }
     },
     {
@@ -35853,6 +35690,10 @@
           [
             -4.552095,
             54.176459
+          ],
+          [
+            -4.552052,
+            54.176448
           ],
           [
             -4.552005,

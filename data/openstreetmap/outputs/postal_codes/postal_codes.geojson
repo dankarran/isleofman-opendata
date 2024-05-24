@@ -7758,8 +7758,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.461338,
-            54.173387
+            -4.461396,
+            54.173379
+          ],
+          [
+            -4.461346,
+            54.173395
           ],
           [
             -4.45952,
@@ -7782,8 +7786,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986671,
-        "lon": -4.4603549910041975,
-        "lat": 54.173566583909924,
+        "lon": -4.460384483914537,
+        "lat": 54.17356554854873,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986671"
       }
@@ -11719,7 +11723,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Glen Vine Drive",
         "postal_code": "IM4 4EX",
@@ -16741,8 +16745,12 @@
             54.174692
           ],
           [
-            -4.460126,
-            54.174827
+            -4.460144,
+            54.174824
+          ],
+          [
+            -4.460099,
+            54.174833
           ]
         ]
       },
@@ -16755,8 +16763,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988582,
-        "lon": -4.460529451891537,
-        "lat": 54.17475716353927,
+        "lon": -4.460516047231485,
+        "lat": 54.17475971111657,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988582"
       }
@@ -17057,6 +17065,10 @@
             54.175477
           ],
           [
+            -4.458694,
+            54.175431
+          ],
+          [
             -4.458701,
             54.175386
           ],
@@ -17065,8 +17077,8 @@
             54.175326
           ],
           [
-            -4.458549,
-            54.175131
+            -4.458527,
+            54.175115
           ],
           [
             -4.458484,
@@ -17087,8 +17099,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988608,
-        "lon": -4.4585624005952225,
-        "lat": 54.1751477016567,
+        "lon": -4.458559668026333,
+        "lat": 54.175148986505704,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988608"
       }
@@ -17690,6 +17702,10 @@
             54.175194
           ],
           [
+            -4.459664,
+            54.17514
+          ],
+          [
             -4.459648,
             54.175119
           ]
@@ -17704,8 +17720,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988770,
-        "lon": -4.459930501645645,
-        "lat": 54.17515350416831,
+        "lon": -4.45993053776365,
+        "lat": 54.17515347383444,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988770"
       }
@@ -20624,8 +20640,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.385003,
-            54.317811
+            -4.384971,
+            54.317816
           ],
           [
             -4.383197,
@@ -20640,8 +20656,8 @@
         "postal_code": "IM8 2HF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25989370,
-        "lon": -4.3841,
-        "lat": 54.31778350000001,
+        "lon": -4.384084,
+        "lat": 54.317786,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989370"
       }
@@ -22160,8 +22176,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.385003,
-            54.317811
+            -4.384971,
+            54.317816
+          ],
+          [
+            -4.38499,
+            54.317789
           ],
           [
             -4.385224,
@@ -22179,8 +22199,8 @@
         "postal_code": "IM8 2HE",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25989699,
-        "lon": -4.385225285957866,
-        "lat": 54.31748441476814,
+        "lon": -4.385213644405541,
+        "lat": 54.31748962042968,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989699"
       }
@@ -28556,53 +28576,6 @@
     },
     {
       "type": "Feature",
-      "id": 78189884,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.610849,
-            54.197161
-          ],
-          [
-            -4.610525,
-            54.197144
-          ],
-          [
-            -4.610541,
-            54.197041
-          ],
-          [
-            -4.610865,
-            54.197058
-          ],
-          [
-            -4.610849,
-            54.197161
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Greeba",
-        "addr:country": "IM",
-        "addr:street": "Peel Road",
-        "amenity": "restaurant",
-        "building": "yes",
-        "name": "The Hawthorn",
-        "phone": "+44 1624 801268",
-        "postal_code": "IM4 3LF",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.thehawthorn.co.uk/",
-        "wheelchair": "no",
-        "osm_id": 78189884,
-        "lon": -4.610695000000001,
-        "lat": 54.197100999999996,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/78189884"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 79141600,
       "geometry": {
         "type": "LineString",
@@ -29605,65 +29578,17 @@
         "addr:street": "Loch Promenade",
         "amenity": "place_of_worship",
         "building": "church",
+        "contact:facebook": "https://www.facebook.com/PromenadeMethodistChurch",
         "denomination": "methodist",
         "name": "Promenade Methodist Church",
         "postal_code": "IM1 2LY",
         "religion": "christian",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.promenademethodistchurch.im/",
         "osm_id": 81446772,
         "lon": -4.478356863170604,
         "lat": 54.15137334727719,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/81446772"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 81446776,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.477829,
-            54.150644
-          ],
-          [
-            -4.477942,
-            54.150886
-          ],
-          [
-            -4.478301,
-            54.150848
-          ],
-          [
-            -4.478151,
-            54.150606
-          ],
-          [
-            -4.477829,
-            54.150644
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "18-22",
-        "addr:street": "Loch Promenade",
-        "building": "yes",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Claremont",
-        "phone": "+44 1624 617068",
-        "postal_code": "IM1 2LX",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "hotel",
-        "website": "https://www.sleepwellhotels.com/hotels/isle_of_man/claremont",
-        "osm_id": 81446776,
-        "lon": -4.478060131475047,
-        "lat": 54.15074932586915,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/81446776"
       }
     },
     {
@@ -29873,56 +29798,6 @@
     },
     {
       "type": "Feature",
-      "id": 82674239,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484276,
-            54.151827
-          ],
-          [
-            -4.484198,
-            54.151859
-          ],
-          [
-            -4.484085,
-            54.151787
-          ],
-          [
-            -4.484139,
-            54.151769
-          ],
-          [
-            -4.484174,
-            54.151754
-          ],
-          [
-            -4.484276,
-            54.151827
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Tynwald Street",
-        "building": "yes",
-        "name": "Morrison Photos",
-        "postal_code": "IM1 1BF",
-        "shop": "photo",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.morrisonphotos.co.uk",
-        "osm_id": 82674239,
-        "lon": -4.484181198842405,
-        "lat": 54.15180637553745,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82674239"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82674250,
       "geometry": {
         "type": "LineString",
@@ -29966,64 +29841,6 @@
         "lat": 54.151749984133765,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82674250"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82737630,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481062,
-            54.152974
-          ],
-          [
-            -4.481011,
-            54.152945
-          ],
-          [
-            -4.481045,
-            54.152901
-          ],
-          [
-            -4.48111,
-            54.152919
-          ],
-          [
-            -4.481163,
-            54.152846
-          ],
-          [
-            -4.481304,
-            54.152885
-          ],
-          [
-            -4.481187,
-            54.153037
-          ],
-          [
-            -4.481062,
-            54.152974
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "39",
-        "addr:street": "Finch Road",
-        "building": "yes",
-        "name": "Peter Norris Music",
-        "postal_code": "IM1 2PW",
-        "shop": "music",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.peternorrismusic.co.im",
-        "osm_id": 82737630,
-        "lon": -4.481159885029805,
-        "lat": 54.152933714852246,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82737630"
       }
     },
     {
@@ -39680,6 +39497,10 @@
             54.176459
           ],
           [
+            -4.552052,
+            54.176448
+          ],
+          [
             -4.552005,
             54.176435
           ],
@@ -39708,8 +39529,8 @@
         "postal_code": "IM4 4BA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1086228184,
-        "lon": -4.552314843173897,
-        "lat": 54.176329452196285,
+        "lon": -4.552314839539953,
+        "lat": 54.17632946372217,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1086228184"
       }

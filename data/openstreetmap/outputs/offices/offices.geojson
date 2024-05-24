@@ -2389,12 +2389,12 @@
         ]
       },
       "properties": {
-        "addr:alt_housename": "Unite House",
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Transport House",
         "addr:housenumber": "25",
         "addr:street": "Fort Street",
+        "alt_name": "Unite House",
         "building": "yes",
         "building:colour": "red",
         "building:levels": "2",
@@ -2402,7 +2402,7 @@
         "name": "Unite The Union",
         "office": "trade_union",
         "old_name": "Transport & General Workers Union",
-        "source": "Isle of Man Government aerial imagery (2001);survey;",
+        "source": "Isle of Man Government aerial imagery (2001);survey",
         "osm_id": 62118204,
         "lon": -4.4780002747801495,
         "lat": 54.149068702272345,
@@ -5054,6 +5054,56 @@
         "lat": 54.15197049092088,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/241013779"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246812757,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455982,
+            54.175991
+          ],
+          [
+            -4.455984,
+            54.176043
+          ],
+          [
+            -4.4558,
+            54.176046
+          ],
+          [
+            -4.455797,
+            54.175994
+          ],
+          [
+            -4.455982,
+            54.175991
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "21B",
+        "addr:postcode": "IM3 4EB",
+        "addr:street": "Avondale Road",
+        "building": "yes",
+        "email": "info@completecare.im",
+        "level": "0",
+        "name": "Complete Care",
+        "office": "healthcare",
+        "opening_hours": "Mo-Fr 09:00-14:30",
+        "phone": "+44 1624 674119;+44 1624 308459",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
+        "website": "https://completecare.im/",
+        "osm_id": 246812757,
+        "lon": -4.455890737996775,
+        "lat": 54.17601844521139,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/246812757"
       }
     },
     {
