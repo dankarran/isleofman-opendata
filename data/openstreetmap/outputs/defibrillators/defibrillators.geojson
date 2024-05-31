@@ -568,6 +568,28 @@
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11256220727"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 11945673094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48402,
+          54.154813
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "locked": "yes",
+        "phone": "999",
+        "osm_id": 11945673094,
+        "lon": -4.48402,
+        "lat": 54.154813,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11945673094"
+      }
     }
   ]
 }

@@ -378,6 +378,7 @@
         "brand": "Joe Jennings",
         "brand:wikidata": "Q113499916",
         "name": "Joe Jennings",
+        "opening_hours": "Mo-Sa 10:00-20:00, Su 11:00-18:00",
         "shop": "bookmaker"
       }
     },
@@ -400,31 +401,8 @@
         "addr:substreet": "Prospect Terrace",
         "female": "yes",
         "name": "Salon 3",
-        "phone": "01624 616263",
-        "shop": "hairdresser",
-        "takeaway": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 685338699,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.484485,
-          54.154605
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "142",
-        "addr:postcode": "IM1 3AJ",
-        "addr:street": "Bucks Road",
-        "contact:facebook": "https://www.facebook.com/PremierKitchensLtd/",
-        "name": "Premier Kitchens",
-        "shop": "kitchen",
-        "source:addr": "Isle of Man Government Land Registry Land Transactions"
+        "phone": "+44 1624 616263",
+        "shop": "hairdresser"
       }
     },
     {
@@ -445,7 +423,8 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "atm": "yes",
-        "name": "The Co-operative",
+        "name": "The Co-operative, Woodbourne Road",
+        "opening_hours": "08:00-22:00",
         "shop": "convenience",
         "website": "https://www.coop.co.uk/store-finder/IM1-3HH/woodbourne-road"
       }
@@ -468,6 +447,7 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "name": "Fortuna Antiques",
+        "opening_hours": "We-Sa 10:00-17:00",
         "phone": "+44 7624 340079",
         "shop": "antiques",
         "website": "https://fortunaantiques.im/"
@@ -491,7 +471,8 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "name": "Harrison & Garrett",
-        "phone": "01624615818",
+        "opening_hours": "Mo-Sa 08:30-17:30",
+        "phone": "+44 1624 615818",
         "shop": "butcher"
       }
     },
@@ -512,16 +493,7 @@
         "addr:postcode": "IM1 3AL",
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
-        "charity": "yes",
-        "contact:facebook": "https://www.facebook.com/crossroadscharityshops/",
-        "contact:phone": "+44 1624 673580",
-        "name": "Crossroads Caring for Carers",
-        "opening_hours": "Mo-Sa 10:00-17:00",
-        "operator": "Crossroads Care",
-        "operator:type": "charitable",
-        "ref:charity": "383",
-        "shop": "charity",
-        "website": "https://www.crossroadsiom.org/"
+        "shop": "vacant"
       }
     },
     {
@@ -1964,7 +1936,7 @@
         "type": "Point",
         "coordinates": [
           -4.479196,
-          54.151657
+          54.151609
         ]
       },
       "properties": {
@@ -2382,10 +2354,12 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "6",
+        "addr:postcode": "IM3 1AG",
         "addr:street": "Avondale Court",
         "contact:facebook": "https://www.facebook.com/IroningBoredIOM",
         "name": "Ironing Bored",
-        "shop": "laundry"
+        "shop": "laundry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -2471,6 +2445,29 @@
         "contact:phone": "+44 7624 261662",
         "name": "VIstudio",
         "shop": "art"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10782024752,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484447,
+          54.154309
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "132",
+        "addr:postcode": "IM1 3AJ",
+        "addr:street": "Bucks Road",
+        "contact:email": "info@gooduuuu.com",
+        "contact:phone": "+44 7624 451050",
+        "name": "Good for You beauty therapy",
+        "shop": "beauty",
+        "source:addr:housenumber": "interpolation"
       }
     },
     {
@@ -5157,8 +5154,16 @@
             54.151911
           ],
           [
+            -4.483551,
+            54.151981
+          ],
+          [
             -4.483634,
             54.152097
+          ],
+          [
+            -4.483654,
+            54.152102
           ],
           [
             -4.483673,
@@ -5169,6 +5174,10 @@
             54.152093
           ],
           [
+            -4.484025,
+            54.151957
+          ],
+          [
             -4.484093,
             54.151926
           ],
@@ -5177,16 +5186,16 @@
             54.151852
           ],
           [
+            -4.483949,
+            54.15186
+          ],
+          [
             -4.483865,
             54.151882
           ],
           [
             -4.483805,
             54.151831
-          ],
-          [
-            -4.483612,
-            54.151881
           ],
           [
             -4.483501,
@@ -5203,6 +5212,7 @@
         "building": "yes",
         "name": "homeco",
         "old_name": "bedco",
+        "opening_hours": "Mo-Fr 09:30-17:30, Sa 09:30-17:00, Su 14:00-16:00",
         "phone": "+44 1624 624311",
         "shop": "furniture",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -5414,7 +5424,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "35-37",
+        "addr:housenumber": "35",
         "addr:street": "Strand Street",
         "building": "retail",
         "building:levels": "2",
@@ -5467,21 +5477,16 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:housenumber": "2",
         "addr:postcode": "IM1 3AL",
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "building": "yes",
-        "charity": "yes",
-        "contact:facebook": "https://www.facebook.com/crossroadscharityshops/",
-        "contact:phone": "+44 1624 611363",
-        "name": "Crossroads Care",
-        "opening_hours": "Mo-Sa 10:00-17:00",
-        "operator": "Crossroads Care",
-        "operator:type": "charitable",
-        "ref:charity": "383",
-        "shop": "furniture",
-        "source": "Isle of Man Government aerial imagery (2001);survey;",
-        "website": "https://www.crossroadsiom.org/"
+        "cuisine": "asian",
+        "name": "NC Oriental",
+        "opening_hours": "Mo-Fr 10:00-21:30, Sa 11:00-21:30",
+        "shop": "convenience",
+        "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
     {
@@ -5583,9 +5588,10 @@
         "addr:city": "Douglas",
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
+        "alt_name": "Robinson's World Food Market",
         "building": "yes",
-        "name": "Robinsons",
-        "shop": "florist",
+        "name": "Robinson's on the Terrace",
+        "shop": "greengrocer;florist",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -5745,6 +5751,51 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:name": "photo",
         "website": "https://www.isleofmankippers.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67525066,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655233,
+            54.07538
+          ],
+          [
+            -4.655537,
+            54.075589
+          ],
+          [
+            -4.655512,
+            54.075602
+          ],
+          [
+            -4.655496,
+            54.075592
+          ],
+          [
+            -4.655486,
+            54.075597
+          ],
+          [
+            -4.655196,
+            54.075396
+          ],
+          [
+            -4.655233,
+            54.07538
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "old_name": "The Crown Green Cafe",
+        "planned:barrier": "wall",
+        "shop": "vacant",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "was:amenity": "cafe"
       }
     },
     {
@@ -7356,9 +7407,10 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "cuisine": "breakfast;sandwich",
         "currency:XBT": "yes",
         "name": "Newsbeat",
-        "opening_hours": "08:00-14:00, Mo-Sa 07:00-08:00, Mo-Sa 14:00-15:00, Mo-Fr 15:00-18:00",
+        "opening_hours": "Mo-Fr 07:00-15:00, Sa 07:00-14:30, Su 08:00-13:30",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
@@ -7535,11 +7587,13 @@
         "addr:postcode": "IM1 3DE",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "contact:email": "info@gilliansheardoptician.co.uk",
+        "contact:phone": "+44 1624 676260",
+        "contact:website": "http://www.gilliansheard.co.uk/",
         "name": "Gillian Sheard",
-        "postal_code": "IM1 3DE",
+        "opening_hours": "Mo-Fr 08:45-17:15",
         "shop": "optician",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.gilliansheard.co.uk"
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -7587,11 +7641,14 @@
         "brand:wikidata": "Q42847650",
         "brand:wikipedia": "en:Up & Running",
         "building": "yes",
+        "contact:email": "upandrunning@manx.net",
+        "contact:phone": "+44 1624 677867",
+        "contact:website": "https://upandrunning.co.uk/pages/up-running-isle-of-man",
         "name": "Up & Running",
+        "opening_hours": "Mo-We 10:00-17:30, Th-Fr 10:00-17:00, Sa 09:00-17:00",
         "shop": "sports",
         "source": "Isle of Man Government aerial imagery (2001);survey",
-        "sport": "running",
-        "website": "https://upandrunning.co.uk/pages/up-running-isle-of-man"
+        "sport": "running"
       }
     },
     {
@@ -7625,10 +7682,6 @@
             54.151831
           ],
           [
-            -4.483612,
-            54.151881
-          ],
-          [
             -4.483501,
             54.151911
           ]
@@ -7640,7 +7693,7 @@
         "addr:postcode": "IM1 3DE",
         "addr:street": "Bucks Road",
         "building": "yes",
-        "name": "Heatwave",
+        "name": "Heatwave Hairderessers",
         "phone": "+44 1624 677739",
         "shop": "hairdresser",
         "source": "Isle of Man Government aerial imagery (2001);survey"
@@ -7789,9 +7842,10 @@
         "addr:street": "Windsor Road",
         "building": "commercial",
         "name": "Hemensley's Pharmacy",
-        "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:30-14:00",
+        "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:30-17:00",
         "shop": "chemist",
-        "source": "Isle of Man Government aerial imagery (2001);survey;"
+        "source": "Isle of Man Government aerial imagery (2001);survey",
+        "start_date": "1885"
       }
     },
     {
@@ -14028,6 +14082,10 @@
             54.154812
           ],
           [
+            -4.48402,
+            54.154813
+          ],
+          [
             -4.484037,
             54.154813
           ],
@@ -14048,7 +14106,7 @@
         "contact:website": "http://www.convenienceshop.co.im/",
         "name": "Howard's Convenience Shopping Centre",
         "shop": "convenience",
-        "source": "Isle of Man Government aerial imagery (2001);survey;"
+        "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
     {
@@ -15673,7 +15731,51 @@
         "addr:street": "Bucks Road",
         "building": "yes",
         "name": "Carnation Cleaners",
+        "opening_hours": "Mo-Fr 08:00-16:30, Sa 10:00-15:00",
         "shop": "laundry",
+        "source": "Isle of Man Government aerial imagery (2001);survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241013776,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483376,
+            54.152104
+          ],
+          [
+            -4.48334,
+            54.152057
+          ],
+          [
+            -4.483204,
+            54.152093
+          ],
+          [
+            -4.483237,
+            54.152139
+          ],
+          [
+            -4.483376,
+            54.152104
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "56",
+        "addr:postcode": "IM1 3AD",
+        "addr:street": "Bucks Road",
+        "alt_name": "Aldriges",
+        "building": "yes",
+        "contact:phone": "+441624627171",
+        "contact:website": "https://www.pcsolutions.co.im/",
+        "name": "PC Solutions",
+        "shop": "computer",
         "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
@@ -15720,10 +15822,13 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/pcsolutionsiom",
+        "contact:phone": "+44 1624 629641",
+        "contact:website": "http://www.morrisonphotos.co.uk/",
         "name": "Morrison Photos",
+        "opening_hours": "Mo-Fr 08:30-18:00, Sa 09:00-17:00",
         "shop": "photo",
-        "source": "Isle of Man Government aerial imagery (2001);survey",
-        "website": "http://www.morrisonphotos.co.uk"
+        "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
     {
@@ -16074,6 +16179,9 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
+        "addr:postcode": "IM9 6AB",
+        "addr:street": "Station Road",
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
@@ -16082,7 +16190,8 @@
         "name": "Spar",
         "phone": "+44 1624 834454",
         "shop": "convenience",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.spar.co.uk/store-locator/hal26906-spar-port-erin"
       }
     },
     {
@@ -16373,9 +16482,13 @@
         "addr:housenumber": "44",
         "addr:street": "Bucks Road",
         "building": "yes",
-        "name": "The Art Gallery",
-        "shop": "art",
-        "source": "Isle of Man Government aerial imagery (2001);survey"
+        "contact:email": "info@iomprint.com",
+        "contact:phone": "+44 1624 625690",
+        "contact:website": "https://www.iomprint.com/",
+        "name": "Cannel Print Limited",
+        "shop": "copyshop",
+        "source": "Isle of Man Government aerial imagery (2001);survey",
+        "start_date": "2003"
       }
     },
     {
@@ -16424,8 +16537,8 @@
         "addr:street": "Bucks Road",
         "building": "yes",
         "name": "The Copyshop",
-        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-17:00",
-        "phone": "+44 1624622697",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "phone": "+44 1624 622697",
         "postal_code": "IM1 3AD",
         "shop": "printer",
         "source": "Isle of Man Government aerial imagery (2001); survey",
@@ -16471,6 +16584,47 @@
         "phone": "+44 1624 626735;+44 7624 421058",
         "shop": "hairdresser;beauty",
         "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280860907,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483199,
+            54.151867
+          ],
+          [
+            -4.483166,
+            54.151821
+          ],
+          [
+            -4.483017,
+            54.151861
+          ],
+          [
+            -4.48305,
+            54.151905
+          ],
+          [
+            -4.483199,
+            54.151867
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "46",
+        "addr:street": "Bucks Road",
+        "building": "yes",
+        "disused:amenity": "restaurant",
+        "disused:cuisine": "thai",
+        "disused:name": "Chaba",
+        "shop": "vacant",
+        "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
     {
@@ -18731,15 +18885,11 @@
           ],
           [
             -4.478718,
-            54.152005
+            54.152011
           ],
           [
-            -4.478744,
+            -4.479125,
             54.152004
-          ],
-          [
-            -4.479127,
-            54.151995
           ],
           [
             -4.479134,
@@ -19117,8 +19267,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "48-50",
+        "addr:postcode": "IM1 2EL",
         "addr:street": "Strand Street",
         "brand": "WHSmith",
         "brand:wikidata": "Q1548712",
@@ -19127,7 +19279,8 @@
         "name": "WHSmith",
         "postal_code": "IM1 2EL",
         "shop": "newsagent",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "website": "https://www.whsmith.co.uk/stores/details/?StoreID=2812"
       }
     },
     {
@@ -19211,6 +19364,52 @@
     },
     {
       "type": "Feature",
+      "id": 417401621,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479125,
+            54.152004
+          ],
+          [
+            -4.478718,
+            54.152011
+          ],
+          [
+            -4.478684,
+            54.15201
+          ],
+          [
+            -4.478662,
+            54.151884
+          ],
+          [
+            -4.479107,
+            54.151867
+          ],
+          [
+            -4.479125,
+            54.152004
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "68-72",
+        "addr:postcode": "IM1 2EW",
+        "addr:street": "Strand Street",
+        "brand": "Mountain Warehouse",
+        "brand:wikidata": "Q6925414",
+        "building": "retail",
+        "name": "Mountain Warehouse",
+        "shop": "outdoor",
+        "source": "Bing;photograph",
+        "website": "https://www.mountainwarehouse.com/stores/iom/douglas/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 417401623,
       "geometry": {
         "type": "LineString",
@@ -19220,20 +19419,28 @@
             54.151758
           ],
           [
-            -4.4791,
-            54.151802
+            -4.479107,
+            54.151867
           ],
           [
-            -4.478768,
-            54.151814
+            -4.478662,
+            54.151884
+          ],
+          [
+            -4.478651,
+            54.151788
           ],
           [
             -4.478762,
-            54.151772
+            54.151784
+          ],
+          [
+            -4.478761,
+            54.151771
           ],
           [
             -4.478817,
-            54.15177
+            54.151769
           ],
           [
             -4.479095,
@@ -19243,10 +19450,7 @@
       },
       "properties": {
         "building": "retail",
-        "building:levels": "2",
-        "old_name": "Stardust",
-        "shop": "vacant",
-        "source": "Bing;photograph"
+        "shop": "vacant"
       }
     },
     {
@@ -19935,55 +20139,6 @@
     },
     {
       "type": "Feature",
-      "id": 419070466,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479047,
-            54.150954
-          ],
-          [
-            -4.479059,
-            54.151033
-          ],
-          [
-            -4.479612,
-            54.151009
-          ],
-          [
-            -4.479606,
-            54.150957
-          ],
-          [
-            -4.479536,
-            54.15096
-          ],
-          [
-            -4.479532,
-            54.150933
-          ],
-          [
-            -4.479047,
-            54.150954
-          ]
-        ]
-      },
-      "properties": {
-        "brand": "Mountain Warehouse",
-        "brand:wikidata": "Q6925414",
-        "brand:wikipedia": "en:Mountain Warehouse",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "name": "Mountain Warehouse",
-        "shop": "outdoor",
-        "source": "Bing;photograph"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419070468,
       "geometry": {
         "type": "LineString",
@@ -20065,15 +20220,22 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "27/31",
+        "addr:postcode": "IM1 2EF",
+        "addr:street": "Strand Street",
         "brand": "Superdrug",
         "brand:wikidata": "Q7643261",
         "brand:wikipedia": "en:Superdrug",
         "building": "retail",
         "building:levels": "3",
         "building:material": "timber_framing",
+        "fixme": "check if this is in the right unit... 33 missing between here and Sure?",
         "name": "Superdrug",
         "shop": "chemist",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "website": "https://www.superdrug.com/store/douglas-iom"
       }
     },
     {
@@ -20363,6 +20525,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "57",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Clarks",
         "brand:wikidata": "Q1095857",
         "brand:wikipedia": "en:C. & J. Clark",
@@ -20372,7 +20539,8 @@
         "building:material": "plaster",
         "name": "Clarks",
         "shop": "shoes",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "website": "https://www.clarks.com/en-gb/store-locator/UnitedKingdom/DOUGLAS/2563"
       }
     },
     {
@@ -20404,11 +20572,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "59",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:levels": "2",
+        "charity": "yes",
         "name": "Crossroads Care",
+        "ref:charity": "383",
         "shop": "charity",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "website": "https://www.crossroadsiom.org/"
       }
     },
     {
@@ -20452,8 +20627,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "45",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
         "name": "Holmes & Davidson, Opticians",
-        "shop": "optician"
+        "shop": "optician",
+        "website": "https://www.holmesanddavidsonopticians.co.uk"
       }
     },
     {
@@ -20527,6 +20708,9 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "53",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "orange",
         "building:levels": "3",
@@ -20574,6 +20758,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "51",
         "addr:street": "Strand Street",
@@ -20658,6 +20843,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "47",
         "addr:street": "Strand Street",
@@ -20863,10 +21049,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "55",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "fixme": "is this now Hot Choccy Bar?",
         "name": "Sweets 'n' Treats",
         "shop": "confectionery",
         "source": "Bing;photograph"
@@ -22198,12 +22388,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM2 2BZ",
+        "addr:street": "Cushag Road",
+        "alt_name": "Anagh Coar Spar",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
-        "name": "Anagh Coar Spar",
-        "shop": "newsagent"
+        "name": "Spar",
+        "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal19169-spar-anagh-coar"
       }
     },
     {
@@ -22454,15 +22650,19 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483998,
-            54.154505
+            -4.483999,
+            54.154536
           ],
           [
-            -4.483882,
-            54.154507
+            -4.483959,
+            54.154536
           ],
           [
-            -4.483887,
+            -4.483883,
+            54.154537
+          ],
+          [
+            -4.483886,
             54.154631
           ],
           [
@@ -22470,16 +22670,58 @@
             54.154633
           ],
           [
-            -4.483998,
-            54.154505
+            -4.483999,
+            54.154536
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 3LG",
+        "addr:street": "Windsor Road",
         "building": "yes",
-        "description": "Not just locks, peace of mind",
-        "name": "Fayle Safe Security Limited",
-        "shop": "locksmith",
+        "shop": "vacant",
+        "source": "Bing;survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 753425840,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484091,
+            54.154636
+          ],
+          [
+            -4.484182,
+            54.154638
+          ],
+          [
+            -4.484176,
+            54.154491
+          ],
+          [
+            -4.484087,
+            54.154492
+          ],
+          [
+            -4.484091,
+            54.154636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 3JY",
+        "addr:street": "Windsor Road",
+        "building": "yes",
+        "shop": "vacant",
         "source": "Bing;survey"
       }
     },
@@ -22506,8 +22748,8 @@
             54.154493
           ],
           [
-            -4.483998,
-            54.154505
+            -4.483999,
+            54.154536
           ],
           [
             -4.484002,
@@ -22516,10 +22758,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM1 3LG",
+        "addr:street": "Windsor Road",
         "building": "yes",
-        "contact:email": "angelshairiom@gmail.com",
         "contact:phone": "+44 1624 667997",
-        "name": "Angels Hair & Beauty",
+        "name": "Magnificence Hair and Beauty",
         "shop": "hairdresser",
         "source": "Bing;survey"
       }
@@ -23769,6 +24015,9 @@
         "addr:housenumber": "5",
         "addr:street": "Windsor Road",
         "building": "yes",
+        "cuisine": "bulgarian",
+        "name": "Bulgarian Food Shop Arbanasi",
+        "opening_hours": "Tu-Sa 10:00-18:00, Su 10:00-17:00",
         "shop": "deli",
         "source:addr:housenumber": "interpolation"
       }
@@ -24048,6 +24297,112 @@
         "contact:website": "https://www.im1.co.im/",
         "name": "IM1 Car Centre",
         "shop": "car"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154139332,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483702,
+            54.154632
+          ],
+          [
+            -4.483614,
+            54.154631
+          ],
+          [
+            -4.483616,
+            54.154531
+          ],
+          [
+            -4.483616,
+            54.154517
+          ],
+          [
+            -4.483704,
+            54.154518
+          ],
+          [
+            -4.483703,
+            54.154575
+          ],
+          [
+            -4.483702,
+            54.154632
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM1 3LG",
+        "addr:street": "Windsor Road",
+        "building": "house",
+        "house": "terraced",
+        "name": "blond. with lucy",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154142805,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484349,
+            54.154592
+          ],
+          [
+            -4.484349,
+            54.154575
+          ],
+          [
+            -4.484366,
+            54.154575
+          ],
+          [
+            -4.484524,
+            54.15457
+          ],
+          [
+            -4.484527,
+            54.154638
+          ],
+          [
+            -4.484485,
+            54.154637
+          ],
+          [
+            -4.484349,
+            54.154635
+          ],
+          [
+            -4.484349,
+            54.154592
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "142",
+        "addr:postcode": "IM1 3AJ",
+        "addr:street": "Bucks Road",
+        "alt_name": "Premier Windows & Doors",
+        "building": "yes",
+        "contact:email": "hello@premier.co.im",
+        "contact:facebook": "https://www.facebook.com/PremierKitchensLtd/",
+        "contact:mobile": "+44 7624 479272;+44 7624 221083;+44 7624 397529",
+        "contact:phone": "+44 1624 612159",
+        "fixme": "Resurvey opening hours once refurbishment complete",
+        "name": "Premier Kitchens",
+        "opening_hours": "\"Only by appointment while under refurbishment\"",
+        "shop": "kitchen",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -24335,9 +24690,9 @@
         "addr:street": "Bucks Road",
         "building": "terrace",
         "charity": "animal",
-        "contact:website": "https://www.manxspca.com",
+        "contact:website": "https://www.manxspca.com/",
         "name": "ManxSPCA",
-        "opening_hours": "Tu-Sa 10:00-16:00",
+        "opening_hours": "Mo-Sa 10:00-16:00",
         "operator": "ManxSPCA",
         "phone": "+44 1624 851672",
         "ref:charity": "26A",
@@ -24378,9 +24733,11 @@
         "addr:housenumber": "90",
         "addr:postcode": "IM1 3AG",
         "addr:street": "Bucks Road",
-        "alt_name": "I.O.M. HEALTH FOOD CENTRE",
+        "alt_name": "I.O.M. Health Food Centre",
         "building": "terrace",
+        "contact:phone": "+44 1624 675647",
         "name": "Health Foods",
+        "opening_hours": "Mo,Tu,Th,Fr 10:30-17:30, We 10:30-13:00",
         "shop": "health_food"
       }
     },
@@ -24397,6 +24754,10 @@
           [
             -4.4838,
             54.152914
+          ],
+          [
+            -4.483786,
+            54.152917
           ],
           [
             -4.483698,
@@ -25867,7 +26228,7 @@
         "addr:housenumber": "64",
         "addr:street": "Bucks Road",
         "building": "terrace",
-        "name": "The Tailor's Shop",
+        "name": "The Savile Row Tailor",
         "shop": "clothes"
       }
     },
@@ -25909,6 +26270,7 @@
         "brand:wikidata": "Q610492",
         "building": "terrace",
         "name": "Spar",
+        "opening_hours": "Mo-Sa 07:00-22:00, Su 09:00-22:00",
         "shop": "convenience",
         "website": "https://www.spar.co.uk/store-locator/hal28170-spar-bucks-road"
       }
@@ -25948,7 +26310,9 @@
         "addr:postcode": "IM1 3AF",
         "addr:street": "Bucks Road",
         "building": "terrace",
-        "name": "The Dolly Blue",
+        "contact:mobile": "+44 7624 495684",
+        "contact:phone": "+44 1624 618394",
+        "name": "Dolly Blue",
         "shop": "laundry",
         "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
@@ -25994,6 +26358,46 @@
         "ref:charity": "317",
         "shop": "charity",
         "website": "https://www.hospiceshops.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1220527326,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483666,
+            54.152713
+          ],
+          [
+            -4.483697,
+            54.152755
+          ],
+          [
+            -4.483833,
+            54.152721
+          ],
+          [
+            -4.483802,
+            54.152679
+          ],
+          [
+            -4.483666,
+            54.152713
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "78",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "name": "Renegade Cuts & Clobber",
+        "opening_hours": "Mo,Tu,Sa 09:00-18:00, Th,Fr 09:00-19:00",
+        "postal_code": "IM1 3AF",
+        "shop": "hairdresser;variety_store"
       }
     },
     {
@@ -26468,6 +26872,183 @@
         "addr:substreet": "Marathon Terrace",
         "building": "retail",
         "shop": "vacant"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287655063,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.504912,
+            54.154795
+          ],
+          [
+            -4.504675,
+            54.154786
+          ],
+          [
+            -4.50469,
+            54.154654
+          ],
+          [
+            -4.504927,
+            54.154663
+          ],
+          [
+            -4.504912,
+            54.154795
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 1HE",
+        "addr:street": "New Castletown Road",
+        "addr:substreet": "Mill Mount",
+        "building": "retail",
+        "charity": "yes",
+        "name": "Crossroads Home Interiors Store",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Crossroads",
+        "operator:type": "charitable",
+        "ref:charity": "383",
+        "shop": "interior_decoration",
+        "website": "https://www.crossroadsiom.org/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Dedicated accessible parking bay outside the store. Please knock on the double doors next to the bay so a member of the shop team can open them as the main entrance has a steep slope."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287825077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484349,
+            54.154635
+          ],
+          [
+            -4.48429,
+            54.154635
+          ],
+          [
+            -4.484231,
+            54.154634
+          ],
+          [
+            -4.484228,
+            54.154595
+          ],
+          [
+            -4.484349,
+            54.154592
+          ],
+          [
+            -4.484349,
+            54.154635
+          ]
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "contact:email": "serendipitybeauty@mail.com",
+        "contact:phone": "+44 7624 410440",
+        "contact:website": "https://serendipitybeauty.im/",
+        "name": "Serendipity Beauty",
+        "opening_hours": "\"Only by appointment\"",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287825078,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483883,
+            54.154537
+          ],
+          [
+            -4.483883,
+            54.154513
+          ],
+          [
+            -4.483882,
+            54.154489
+          ],
+          [
+            -4.483958,
+            54.154488
+          ],
+          [
+            -4.483959,
+            54.154536
+          ],
+          [
+            -4.483883,
+            54.154537
+          ]
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "contact:phone": "+44 7624 427658",
+        "name": "Hair by Karyn",
+        "opening_hours": "\"Only by appointment\"",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288114142,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483734,
+            54.152806
+          ],
+          [
+            -4.483619,
+            54.152833
+          ],
+          [
+            -4.4836,
+            54.152829
+          ],
+          [
+            -4.483582,
+            54.152825
+          ],
+          [
+            -4.483557,
+            54.152789
+          ],
+          [
+            -4.483697,
+            54.152755
+          ],
+          [
+            -4.483734,
+            54.152806
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "31",
+        "addr:street": "Christian Road",
+        "building": "retail",
+        "contact:email": "booboosgroomroom@gmail.com",
+        "contact:mobile": "+44 7624 406262",
+        "name": "Booboo's Groom Room",
+        "pet": "dog",
+        "shop": "pet_grooming"
       }
     }
   ]

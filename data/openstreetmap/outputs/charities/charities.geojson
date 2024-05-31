@@ -3,40 +3,6 @@
   "features": [
     {
       "type": "Feature",
-      "id": 685338712,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.484727,
-          54.155228
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "16",
-        "addr:postcode": "IM1 3AL",
-        "addr:street": "Woodbourne Road",
-        "addr:substreet": "Prospect Terrace",
-        "charity": "yes",
-        "contact:facebook": "https://www.facebook.com/crossroadscharityshops/",
-        "contact:phone": "+44 1624 673580",
-        "name": "Crossroads Caring for Carers",
-        "opening_hours": "Mo-Sa 10:00-17:00",
-        "operator": "Crossroads Care",
-        "operator:type": "charitable",
-        "ref:charity": "383",
-        "shop": "charity",
-        "website": "https://www.crossroadsiom.org/",
-        "osm_id": 685338712,
-        "lon": -4.484727,
-        "lat": 54.155228,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/685338712"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1666047899,
       "geometry": {
         "type": "Point",
@@ -429,70 +395,6 @@
         "lat": 54.0851491789085,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60007259"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 62241469,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.48459,
-            54.154845
-          ],
-          [
-            -4.484557,
-            54.154771
-          ],
-          [
-            -4.484538,
-            54.154763
-          ],
-          [
-            -4.484283,
-            54.154771
-          ],
-          [
-            -4.484304,
-            54.154827
-          ],
-          [
-            -4.484427,
-            54.154824
-          ],
-          [
-            -4.484448,
-            54.154868
-          ],
-          [
-            -4.48459,
-            54.154845
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM1 3AL",
-        "addr:street": "Woodbourne Road",
-        "addr:substreet": "Prospect Terrace",
-        "building": "yes",
-        "charity": "yes",
-        "contact:facebook": "https://www.facebook.com/crossroadscharityshops/",
-        "contact:phone": "+44 1624 611363",
-        "name": "Crossroads Care",
-        "opening_hours": "Mo-Sa 10:00-17:00",
-        "operator": "Crossroads Care",
-        "operator:type": "charitable",
-        "ref:charity": "383",
-        "shop": "furniture",
-        "source": "Isle of Man Government aerial imagery (2001);survey;",
-        "website": "https://www.crossroadsiom.org/",
-        "osm_id": 62241469,
-        "lon": -4.484438389784577,
-        "lat": 54.15480682399747,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/62241469"
       }
     },
     {
@@ -1681,6 +1583,97 @@
     },
     {
       "type": "Feature",
+      "id": 238678567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467763,
+            54.177303
+          ],
+          [
+            -4.467562,
+            54.177291
+          ],
+          [
+            -4.467535,
+            54.177444
+          ],
+          [
+            -4.467154,
+            54.177421
+          ],
+          [
+            -4.46714,
+            54.177502
+          ],
+          [
+            -4.467166,
+            54.177504
+          ],
+          [
+            -4.467155,
+            54.177562
+          ],
+          [
+            -4.4676,
+            54.177589
+          ],
+          [
+            -4.467597,
+            54.177609
+          ],
+          [
+            -4.467618,
+            54.17761
+          ],
+          [
+            -4.46764,
+            54.177612
+          ],
+          [
+            -4.467644,
+            54.177591
+          ],
+          [
+            -4.467727,
+            54.177596
+          ],
+          [
+            -4.467734,
+            54.177554
+          ],
+          [
+            -4.467719,
+            54.177553
+          ],
+          [
+            -4.467763,
+            54.177303
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Corrin Court",
+        "addr:postcode": "IM3 3AP",
+        "addr:street": "Heywood Avenue",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Manx Blind Welfare Society",
+        "office": "charity",
+        "ref:charity": "132",
+        "website": "https://www.sightmatters.im",
+        "osm_id": 238678567,
+        "lon": -4.467482598163382,
+        "lat": 54.17747144357107,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/238678567"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 328917787,
       "geometry": {
         "type": "LineString",
@@ -1898,50 +1891,50 @@
     },
     {
       "type": "Feature",
-      "id": 753425840,
+      "id": 419113935,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.484091,
-            54.154636
+            -4.479165,
+            54.151676
           ],
           [
-            -4.484182,
-            54.154638
+            -4.47917,
+            54.151713
           ],
           [
-            -4.484176,
-            54.154491
+            -4.479557,
+            54.151696
           ],
           [
-            -4.484087,
-            54.154492
+            -4.479549,
+            54.151657
           ],
           [
-            -4.484091,
-            54.154636
+            -4.479165,
+            54.151676
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM1 3JY",
-        "addr:street": "Windsor Road",
-        "building": "yes",
+        "addr:housenumber": "59",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:levels": "2",
         "charity": "yes",
-        "fixme": "still charity office, even if shop closed?",
-        "name": "Save the Children",
-        "ref:charity": "199",
-        "source": "Bing;survey",
-        "was:shop": "charity",
-        "osm_id": 753425840,
-        "lon": -4.484134303581507,
-        "lat": 54.15456456293504,
+        "name": "Crossroads Care",
+        "ref:charity": "383",
+        "shop": "charity",
+        "source": "Bing;photograph",
+        "website": "https://www.crossroadsiom.org/",
+        "osm_id": 419113935,
+        "lon": -4.479360823194088,
+        "lat": 54.151685538732586,
         "osm_type": "way",
-        "osm_url": "https://osm.org/way/753425840"
+        "osm_url": "https://osm.org/way/419113935"
       }
     },
     {
@@ -2124,9 +2117,9 @@
         "addr:street": "Bucks Road",
         "building": "terrace",
         "charity": "animal",
-        "contact:website": "https://www.manxspca.com",
+        "contact:website": "https://www.manxspca.com/",
         "name": "ManxSPCA",
-        "opening_hours": "Tu-Sa 10:00-16:00",
+        "opening_hours": "Mo-Sa 10:00-16:00",
         "operator": "ManxSPCA",
         "phone": "+44 1624 851672",
         "ref:charity": "26A",
@@ -2309,6 +2302,57 @@
         "lat": 54.16994474810418,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1270919366"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287655063,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.504912,
+            54.154795
+          ],
+          [
+            -4.504675,
+            54.154786
+          ],
+          [
+            -4.50469,
+            54.154654
+          ],
+          [
+            -4.504927,
+            54.154663
+          ],
+          [
+            -4.504912,
+            54.154795
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 1HE",
+        "addr:street": "New Castletown Road",
+        "addr:substreet": "Mill Mount",
+        "building": "retail",
+        "charity": "yes",
+        "name": "Crossroads Home Interiors Store",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Crossroads",
+        "operator:type": "charitable",
+        "ref:charity": "383",
+        "shop": "interior_decoration",
+        "website": "https://www.crossroadsiom.org/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Dedicated accessible parking bay outside the store. Please knock on the double doors next to the bay so a member of the shop team can open them as the main entrance has a steep slope.",
+        "osm_id": 1287655063,
+        "lon": -4.504801,
+        "lat": 54.1547245,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1287655063"
       }
     }
   ]

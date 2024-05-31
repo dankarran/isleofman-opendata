@@ -279,7 +279,7 @@
         "highway": "bus_stop",
         "name": "Bucks Road / Tynwald Street",
         "public_transport": "platform",
-        "ref": "130"
+        "ref": "891085000130"
       }
     },
     {
@@ -399,7 +399,7 @@
         "type": "Point",
         "coordinates": [
           -4.484684,
-          54.154978
+          54.154986
         ]
       },
       "properties": {
@@ -407,7 +407,7 @@
         "highway": "bus_stop",
         "name": "Prospect Terrace",
         "public_transport": "platform",
-        "ref": "20128"
+        "ref": "891085020128"
       }
     },
     {
@@ -425,7 +425,7 @@
         "highway": "bus_stop",
         "name": "Rosemount Church",
         "public_transport": "platform",
-        "ref": "131",
+        "ref": "891085000131",
         "shelter": "yes"
       }
     },
@@ -3530,9 +3530,9 @@
         "bus": "yes",
         "highway": "bus_stop",
         "lit": "no",
-        "name": "Buck Road / Christian Road",
+        "name": "Bucks Road / Christian Road",
         "public_transport": "platform",
-        "ref": "20129",
+        "ref": "891085020129",
         "shelter": "no"
       }
     },
@@ -4006,9 +4006,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Woodbourne Square",
+        "name": "Woodburn Square",
         "public_transport": "platform",
-        "ref": "132"
+        "ref": "891085000132"
       }
     },
     {
@@ -4089,8 +4089,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.489542,
-          54.151671
+          -4.48955,
+          54.151704
         ]
       },
       "properties": {
@@ -4098,7 +4098,8 @@
         "highway": "bus_stop",
         "name": "Westmoreland Road Health Centre",
         "public_transport": "platform",
-        "ref": "137"
+        "ref": "137",
+        "shelter": "yes"
       }
     },
     {
@@ -4143,8 +4144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.492261,
-          54.155758
+          -4.492706,
+          54.155741
         ]
       },
       "properties": {
@@ -15871,10 +15872,10 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Woodbourn Road Opp. Woodbourn Square",
+        "name": "Woodbourne Road opposite Woodburn Square",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20127"
+        "ref": "891085020127"
       }
     },
     {
@@ -15923,8 +15924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.489,
-          54.151628
+          -4.489128,
+          54.151695
         ]
       },
       "properties": {
@@ -15934,7 +15935,8 @@
         "name": "Westmoreland Road / Nurses' Home",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20142"
+        "ref": "20142",
+        "shelter": "yes"
       }
     },
     {

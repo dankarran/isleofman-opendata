@@ -349,7 +349,7 @@
         "highway": "bus_stop",
         "name": "Bucks Road / Tynwald Street",
         "public_transport": "platform",
-        "ref": "130",
+        "ref": "891085000130",
         "osm_id": 498484848,
         "lon": -4.483529,
         "lat": 54.151962,
@@ -504,7 +504,7 @@
         "type": "Point",
         "coordinates": [
           -4.484684,
-          54.154978
+          54.154986
         ]
       },
       "properties": {
@@ -512,10 +512,10 @@
         "highway": "bus_stop",
         "name": "Prospect Terrace",
         "public_transport": "platform",
-        "ref": "20128",
+        "ref": "891085020128",
         "osm_id": 685338692,
         "lon": -4.484684,
-        "lat": 54.154978,
+        "lat": 54.154986,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/685338692"
       }
@@ -535,7 +535,7 @@
         "highway": "bus_stop",
         "name": "Rosemount Church",
         "public_transport": "platform",
-        "ref": "131",
+        "ref": "891085000131",
         "shelter": "yes",
         "osm_id": 685338703,
         "lon": -4.484813,
@@ -4470,9 +4470,9 @@
         "bus": "yes",
         "highway": "bus_stop",
         "lit": "no",
-        "name": "Buck Road / Christian Road",
+        "name": "Bucks Road / Christian Road",
         "public_transport": "platform",
-        "ref": "20129",
+        "ref": "891085020129",
         "shelter": "no",
         "osm_id": 5682302538,
         "lon": -4.483891,
@@ -5071,9 +5071,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Woodbourne Square",
+        "name": "Woodburn Square",
         "public_transport": "platform",
-        "ref": "132",
+        "ref": "891085000132",
         "osm_id": 9179870110,
         "lon": -4.485896,
         "lat": 54.156747,
@@ -5179,8 +5179,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.489542,
-          54.151671
+          -4.48955,
+          54.151704
         ]
       },
       "properties": {
@@ -5189,9 +5189,10 @@
         "name": "Westmoreland Road Health Centre",
         "public_transport": "platform",
         "ref": "137",
+        "shelter": "yes",
         "osm_id": 9179912264,
-        "lon": -4.489542,
-        "lat": 54.151671,
+        "lon": -4.48955,
+        "lat": 54.151704,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179912264"
       }
@@ -5248,8 +5249,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.492261,
-          54.155758
+          -4.492706,
+          54.155741
         ]
       },
       "properties": {
@@ -5259,8 +5260,8 @@
         "public_transport": "platform",
         "ref": "140",
         "osm_id": 9179912267,
-        "lon": -4.492261,
-        "lat": 54.155758,
+        "lon": -4.492706,
+        "lat": 54.155741,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179912267"
       }
@@ -20186,10 +20187,10 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
-        "name": "Woodbourn Road Opp. Woodbourn Square",
+        "name": "Woodbourne Road opposite Woodburn Square",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20127",
+        "ref": "891085020127",
         "osm_id": 9195333341,
         "lon": -4.485321,
         "lat": 54.156106,
@@ -20253,8 +20254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.489,
-          54.151628
+          -4.489128,
+          54.151695
         ]
       },
       "properties": {
@@ -20265,9 +20266,10 @@
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "20142",
+        "shelter": "yes",
         "osm_id": 9195333344,
-        "lon": -4.489,
-        "lat": 54.151628,
+        "lon": -4.489128,
+        "lat": 54.151695,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9195333344"
       }

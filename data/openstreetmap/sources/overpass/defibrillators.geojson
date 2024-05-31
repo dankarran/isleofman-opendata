@@ -438,6 +438,23 @@
       "properties": {
         "emergency": "defibrillator"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 11945673094,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48402,
+          54.154813
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "locked": "yes",
+        "phone": "999"
+      }
     }
   ]
 }

@@ -1870,6 +1870,113 @@
     },
     {
       "type": "Feature",
+      "id": 60705599,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497814,
+            54.150075
+          ],
+          [
+            -4.497796,
+            54.150109
+          ],
+          [
+            -4.497857,
+            54.15012
+          ],
+          [
+            -4.497782,
+            54.150261
+          ],
+          [
+            -4.497721,
+            54.150249
+          ],
+          [
+            -4.497664,
+            54.150354
+          ],
+          [
+            -4.497657,
+            54.150367
+          ],
+          [
+            -4.497643,
+            54.150394
+          ],
+          [
+            -4.497368,
+            54.150343
+          ],
+          [
+            -4.497336,
+            54.150403
+          ],
+          [
+            -4.496961,
+            54.150334
+          ],
+          [
+            -4.496993,
+            54.150274
+          ],
+          [
+            -4.496975,
+            54.15027
+          ],
+          [
+            -4.496979,
+            54.150262
+          ],
+          [
+            -4.496917,
+            54.15025
+          ],
+          [
+            -4.497083,
+            54.14994
+          ],
+          [
+            -4.497146,
+            54.149952
+          ],
+          [
+            -4.497176,
+            54.149896
+          ],
+          [
+            -4.497509,
+            54.149957
+          ],
+          [
+            -4.497479,
+            54.150013
+          ],
+          [
+            -4.497814,
+            54.150075
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Hills Meadow Industrial Estate",
+        "addr:postcode": "IM1 5EB",
+        "alt_name": "Infrastructure",
+        "alt_name:en": "Infrastructure",
+        "alt_name:gv": "Bun Troggalys",
+        "building": "yes",
+        "government": "ministry",
+        "name": "Isle of Man Government Department of Infrastructure Public Estates and Housing Division",
+        "office": "government",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 61580822,
       "geometry": {
         "type": "LineString",
@@ -4438,6 +4545,92 @@
     },
     {
       "type": "Feature",
+      "id": 238678567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467763,
+            54.177303
+          ],
+          [
+            -4.467562,
+            54.177291
+          ],
+          [
+            -4.467535,
+            54.177444
+          ],
+          [
+            -4.467154,
+            54.177421
+          ],
+          [
+            -4.46714,
+            54.177502
+          ],
+          [
+            -4.467166,
+            54.177504
+          ],
+          [
+            -4.467155,
+            54.177562
+          ],
+          [
+            -4.4676,
+            54.177589
+          ],
+          [
+            -4.467597,
+            54.177609
+          ],
+          [
+            -4.467618,
+            54.17761
+          ],
+          [
+            -4.46764,
+            54.177612
+          ],
+          [
+            -4.467644,
+            54.177591
+          ],
+          [
+            -4.467727,
+            54.177596
+          ],
+          [
+            -4.467734,
+            54.177554
+          ],
+          [
+            -4.467719,
+            54.177553
+          ],
+          [
+            -4.467763,
+            54.177303
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Corrin Court",
+        "addr:postcode": "IM3 3AP",
+        "addr:street": "Heywood Avenue",
+        "building": "yes",
+        "charity": "yes",
+        "name": "Manx Blind Welfare Society",
+        "office": "charity",
+        "ref:charity": "132",
+        "website": "https://www.sightmatters.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 241013779,
       "geometry": {
         "type": "LineString",
@@ -4471,6 +4664,7 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "retail",
+        "contact:phone": "+44 1624 624594",
         "name": "Kestrel Insurance",
         "office": "insurance",
         "source": "Isle of Man Government aerial imagery (2001);survey"

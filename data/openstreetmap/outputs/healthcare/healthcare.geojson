@@ -70,11 +70,12 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "amenity": "pharmacy",
-        "brand": "Lloyds Pharmacy",
-        "brand:wikidata": "Q6662870",
-        "brand:wikipedia": "en:LloydsPharmacy",
+        "brand": "Clear Pharmacy",
+        "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Lloyds Pharmacy",
+        "name": "Clear Pharmacy",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-17:30",
+        "website": "https://www.clearpharmacy.im/",
         "osm_id": 685338708,
         "lon": -4.484808,
         "lat": 54.155393,
@@ -422,14 +423,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 2BZ",
+        "addr:street": "Cushag Road",
         "amenity": "pharmacy",
-        "brand": "Lloyds Pharmacy",
-        "brand:wikidata": "Q6662870",
-        "brand:wikipedia": "en:LloydsPharmacy",
+        "brand": "Clear Pharmacy",
         "dispensing": "yes",
         "entrance": "main",
         "healthcare": "pharmacy",
-        "name": "Lloyds Pharmacy",
+        "name": "Clear Pharmacy",
+        "website": "https://www.clearpharmacy.im",
         "osm_id": 10631164328,
         "lon": -4.51838,
         "lat": 54.150701,
@@ -634,6 +637,36 @@
         "lat": 54.158185,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11874165105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11945847081,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.483819,
+          54.152264
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 1BE",
+        "addr:street": "Tynwald Street",
+        "addr:substreet": "Fairfield Terrace",
+        "contact:email": "relate@mcb.net",
+        "contact:phone": "+44 1624 623902",
+        "contact:website": "https://www.relate.org.uk/find-your-online-centre?postcode=IM1+1BE",
+        "healthcare": "counselling",
+        "name": "Relate",
+        "opening_hours": "Mo-Th 09:00-13:00, Tu 13:00-14:00, Mo 17:00-20:30, Tu 16:00-19:30, We 17:00-20:45, Th 15:15-20:00",
+        "osm_id": 11945847081,
+        "lon": -4.483819,
+        "lat": 54.152264,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11945847081"
       }
     },
     {
@@ -1693,17 +1726,14 @@
         "addr:postcode": "IM9 6AQ",
         "addr:street": "Church Road",
         "amenity": "pharmacy",
-        "brand": "Lloyds Pharmacy",
-        "brand:wikidata": "Q6662870",
-        "brand:wikipedia": "en:LloydsPharmacy",
+        "brand": "Clear Pharmacy",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/LloydsPharmacyChurchRoadPortErin/",
         "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Lloyds Pharmacy",
+        "name": "Clear Pharmacy",
         "opening_hours": "Mo-Fr 08:30-17:30, Sa 09:00-17:30",
         "source": "survey",
-        "website": "https://lloydspharmacy.com/",
+        "website": "https://www.clearpharmacy.im",
         "osm_id": 158973978,
         "lon": -4.75872850201876,
         "lat": 54.08583270606392,
@@ -3050,6 +3080,55 @@
     },
     {
       "type": "Feature",
+      "id": 1154142824,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485093,
+            54.155918
+          ],
+          [
+            -4.48506,
+            54.155859
+          ],
+          [
+            -4.484915,
+            54.155887
+          ],
+          [
+            -4.484948,
+            54.155946
+          ],
+          [
+            -4.485093,
+            54.155918
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM1 3AN",
+        "addr:street": "Woodbourne Road",
+        "amenity": "dentist",
+        "building": "terrace",
+        "contact:email": "36@woodbournedental.co.uk",
+        "contact:phone": "+44 1624 676994",
+        "contact:website": "https://woodbournedental.co.uk/",
+        "healthcare": "dentist",
+        "name": "Woodbourne Dental 36",
+        "opening_hours": "Mo-Fr 09:00-17:30",
+        "osm_id": 1154142824,
+        "lon": -4.485004,
+        "lat": 54.155902499999996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1154142824"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1158812323,
       "geometry": {
         "type": "LineString",
@@ -3088,7 +3167,7 @@
         "healthcare": "dentist",
         "name": "A D Hewett",
         "opening_hours": "Mo-Fr 08:45-13:00,14:00-17:00",
-        "website": "https://www.adhewett.im",
+        "website": "https://www.adhewett.im/",
         "osm_id": 1158812323,
         "lon": -4.483925500000002,
         "lat": 54.1529705,
@@ -3132,14 +3211,17 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "3",
+        "addr:postcode": "IM2 7EA",
         "addr:street": "Hailwood Court",
         "amenity": "pharmacy",
         "brand": "Clear Pharmacy",
         "building": "retail",
+        "dispensing": "yes",
         "healthcare": "pharmacy",
-        "name": "Lloyds Pharmacy",
-        "opening_hours": "Mo-Th 08:30-18:00, Fr 09:00-18:00",
+        "name": "Clear Pharmacy",
+        "opening_hours": "Mo-Fr 08:30-18:00, Sa 09:00-13:00",
         "source": "Bing;Local Knowledge",
+        "website": "https://www.clearpharmacy.im/",
         "osm_id": 1214914744,
         "lon": -4.478994923549085,
         "lat": 54.1793225268996,

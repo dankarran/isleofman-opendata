@@ -73471,10 +73471,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.489441,
-            54.156255
-          ],
-          [
             -4.490295,
             54.155883
           ],
@@ -73501,22 +73497,12 @@
           [
             -4.491295,
             54.155838
-          ],
-          [
-            -4.49141,
-            54.155855
-          ],
-          [
-            -4.49151,
-            54.155876
-          ],
-          [
-            -4.491566,
-            54.155889
           ]
         ]
       },
       "properties": {
+        "alt_name": "Marlborough Terrace;Westminster Terrace",
+        "alt_name:en": "Marlborough Terrace;Westminster Terrace",
         "highway": "secondary",
         "maxspeed": "30 mph",
         "name": "Alexander Drive",
@@ -85800,6 +85786,94 @@
     },
     {
       "type": "Feature",
+      "id": 1197505115,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491444,
+            54.155775
+          ],
+          [
+            -4.491054,
+            54.155778
+          ],
+          [
+            -4.490543,
+            54.155803
+          ],
+          [
+            -4.490352,
+            54.15582
+          ],
+          [
+            -4.490316,
+            54.155815
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Westminster Terrace",
+        "alt_name:en": "Westminster Terrace",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1197505118,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491215,
+            54.155873
+          ],
+          [
+            -4.491055,
+            54.155864
+          ],
+          [
+            -4.490914,
+            54.155862
+          ],
+          [
+            -4.49069,
+            54.155869
+          ],
+          [
+            -4.490503,
+            54.155883
+          ],
+          [
+            -4.490401,
+            54.1559
+          ],
+          [
+            -4.490336,
+            54.155918
+          ],
+          [
+            -4.490263,
+            54.15595
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Marlborough Terrace",
+        "alt_name:en": "Marlborough Terrace",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1197716939,
       "geometry": {
         "type": "LineString",
@@ -87165,6 +87239,126 @@
         "name": "Woodburn Square",
         "name:en": "Woodburn Square",
         "name:gv": "Raad Strooan ny Kelley"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326653,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491524,
+            54.155803
+          ],
+          [
+            -4.491444,
+            54.155775
+          ]
+        ]
+      },
+      "properties": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326654,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491295,
+            54.155838
+          ],
+          [
+            -4.49141,
+            54.155855
+          ],
+          [
+            -4.49151,
+            54.155876
+          ],
+          [
+            -4.491566,
+            54.155889
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Westminster Terrace",
+        "alt_name:en": "Westminster Terrace",
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "ref": "B61",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326655,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490222,
+            54.155915
+          ],
+          [
+            -4.490295,
+            54.155883
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Marlborough Terrace",
+        "alt_name:en": "Marlborough Terrace",
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "ref": "B61",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326656,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489441,
+            54.156255
+          ],
+          [
+            -4.490222,
+            54.155915
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "ref": "B61",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt"
       }
     }
   ]

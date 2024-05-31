@@ -579,6 +579,7 @@
         "contact:facebook": "https://www.facebook.com/people/Terrace-Chippy/100077454909329/",
         "cuisine": "fish_and_chips",
         "name": "Terrace Chippy",
+        "opening_hours": "11:30-22:00",
         "website": "https://terracechippy.com"
       }
     },
@@ -600,8 +601,9 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "amenity": "restaurant",
+        "contact:phone": "+44 1624 617888",
         "cuisine": "chinese",
-        "name": "Little Panda Takeaway"
+        "name": "The One"
       }
     },
     {
@@ -622,8 +624,13 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/masalazoneiom",
+        "contact:phone": "+44 1624 610062",
         "cuisine": "indian",
-        "name": "Masala Zone"
+        "indoor_seating": "no",
+        "name": "Masala Zone",
+        "opening_hours": "Tu-Sa 17:00-23:00",
+        "takeaway": "yes"
       }
     },
     {
@@ -647,6 +654,7 @@
         "contact:facebook": "https://www.facebook.com/people/Terrace-Chippy/100077454909329/",
         "cuisine": "fish_and_chips",
         "name": "Terrace Chippy Diner",
+        "opening_hours": "10:00-20:00",
         "website": "https://terracechippy.com"
       }
     },
@@ -906,13 +914,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "The Empress",
+        "addr:postcode": "IM2 4RA",
+        "addr:street": "Central Promenade",
         "amenity": "cafe",
-        "brand": "Aroma",
-        "brand:wikidata": "Q2909872",
-        "brand:wikipedia": "en:Aroma Espresso Bar",
-        "cuisine": "coffee_shop",
-        "name": "Aroma",
-        "takeaway": "yes"
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Piano Bar & Lounge",
+        "operator": "The Empress",
+        "website": "https://www.theempresshotel.net/dining/restaurants-bars/piano-bar-lounge"
       }
     },
     {
@@ -2606,6 +2617,27 @@
     },
     {
       "type": "Feature",
+      "id": 11948134461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475739,
+          54.159266
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "The Empress",
+        "addr:postcode": "IM2 4RA",
+        "addr:street": "Central Promenade",
+        "amenity": "restaurant",
+        "name": "The Brasserie Restaurant",
+        "operator": "The Empress",
+        "website": "https://www.theempresshotel.net/dining/restaurants-bars/brasserie"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38300992,
       "geometry": {
         "type": "LineString",
@@ -4064,17 +4096,19 @@
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "6",
+        "addr:housenumber": "4-6",
         "addr:postcode": "IM1 3AL",
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "amenity": "restaurant",
         "building": "yes",
         "cuisine": "pizza",
+        "name": "Pizza Napoli",
         "old_name": "Isle of Man Bank",
+        "opening_hours": "Tu-Sa 17:00-21:00; Fr-Sa 21:00-22:00",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
         "was:amenity": "bank",
-        "website": "https://www.pizzanapoli.im"
+        "website": "https://www.pizzanapoli.im/"
       }
     },
     {
@@ -5357,52 +5391,6 @@
     },
     {
       "type": "Feature",
-      "id": 82564017,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.476506,
-            54.158963
-          ],
-          [
-            -4.476781,
-            54.159052
-          ],
-          [
-            -4.47671,
-            54.159128
-          ],
-          [
-            -4.476688,
-            54.159121
-          ],
-          [
-            -4.476436,
-            54.159041
-          ],
-          [
-            -4.476506,
-            54.158963
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Esplanade Lane",
-        "amenity": "restaurant",
-        "building": "yes",
-        "cuisine": "indian",
-        "name": "Taj Mahal",
-        "postal_code": "IM2 4LE",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.thetaj.co.im"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82614390,
       "geometry": {
         "type": "LineString",
@@ -5414,6 +5402,10 @@
           [
             -4.483911,
             54.152885
+          ],
+          [
+            -4.483931,
+            54.15289
           ],
           [
             -4.483951,
@@ -5443,6 +5435,7 @@
         "building": "yes",
         "cuisine": "fish_and_chips",
         "name": "The Islander Chippy",
+        "opening_hours": "Fr-Sa 16:30-20:30",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -5484,19 +5477,22 @@
         "addr:country": "IM",
         "addr:housenumber": "62",
         "addr:street": "Bucks Road",
-        "amenity": "restaurant",
+        "amenity": "cafe",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/FrothIOM/",
-        "cuisine": "chinese",
+        "cuisine": "coffee_shop;bubble_tea;breakfast;chinese",
         "currency:XBT": "yes",
-        "name": "Froth Coffee Shop",
+        "indoor_seating": "yes",
+        "name": "Froth",
+        "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:00-18:00",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
         "phone": "+44 1624 612883",
         "postal_code": "IM1 3AE",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "survey:date": "2022-09-24"
+        "survey:date": "2022-09-24",
+        "takeaway": "yes"
       }
     },
     {
@@ -9945,7 +9941,7 @@
         "building": "yes",
         "cuisine": "italian",
         "name": "Enzo's",
-        "phone": "+44 1624 623959",
+        "phone": "+44 1624 622653",
         "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
@@ -10074,14 +10070,15 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "11B",
-        "addr:place": "Village Walk",
+        "addr:postcode": "IM3 4EA",
         "addr:street": "Avondale Road",
         "amenity": "restaurant",
         "building": "yes",
         "cuisine": "chinese",
         "level": "0",
         "name": "Loong Tan Garden",
-        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey"
+        "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -10268,6 +10265,53 @@
         "level": "1",
         "name": "Domino's",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280860894,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483132,
+            54.151778
+          ],
+          [
+            -4.482882,
+            54.151845
+          ],
+          [
+            -4.482843,
+            54.151796
+          ],
+          [
+            -4.483094,
+            54.151728
+          ],
+          [
+            -4.483132,
+            54.151778
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "42",
+        "addr:postcode": "IM1 3AH",
+        "addr:street": "Bucks Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:phone": "+44 1624 815207",
+        "cuisine": "ice_cream;pizza",
+        "indoor_seating": "yes",
+        "name": "Isle of Gelato",
+        "opening_hours": "Tu-Sa 12:00-21:00, Su 12:00-20:00",
+        "source": "Isle of Man Government aerial imagery (2001);survey",
+        "strapline": "Artisan gelato",
+        "survey:date": "2023-05",
         "takeaway": "yes"
       }
     },
@@ -12178,6 +12222,9 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "61",
+        "addr:street": "Strand Street",
         "amenity": "cafe",
         "building": "retail",
         "building:levels": "2",
@@ -14853,6 +14900,68 @@
         "cuisine": "chinese;thai;british",
         "delivery": "yes",
         "name": "Food Paradise",
+        "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1286650367,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.628182,
+            54.092681
+          ],
+          [
+            -4.628134,
+            54.092699
+          ],
+          [
+            -4.628112,
+            54.09268
+          ],
+          [
+            -4.627991,
+            54.092726
+          ],
+          [
+            -4.627914,
+            54.092657
+          ],
+          [
+            -4.628004,
+            54.092622
+          ],
+          [
+            -4.627984,
+            54.092604
+          ],
+          [
+            -4.628062,
+            54.092574
+          ],
+          [
+            -4.628182,
+            54.092681
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AH",
+        "addr:street": "Harcourt Drive",
+        "addr:unit": "KB1",
+        "amenity": "cafe",
+        "building": "industrial",
+        "contact:facebook": "https://www.facebook.com/KellysCafe1234/",
+        "contact:phone": "+44 7624 455807",
+        "indoor_seating": "yes",
+        "name": "Kelly's Cafe",
+        "opening_hours": "Mo-Fr 09:00-14:30, Sa 08:00-13:00",
+        "source": "Isle of Man Government aerial imagery (2001)",
         "takeaway": "yes"
       }
     }

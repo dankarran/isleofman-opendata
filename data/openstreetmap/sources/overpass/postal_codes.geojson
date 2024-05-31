@@ -7558,6 +7558,10 @@
             54.162858
           ],
           [
+            -4.478695,
+            54.16283
+          ],
+          [
             -4.478597,
             54.162802
           ],
@@ -7595,6 +7599,7 @@
         "highway": "unclassified",
         "maxspeed": "30 mph",
         "name": "Marathon Drive",
+        "oneway:conditional": "yes @ (TT races)",
         "postal_code": "IM2 4BP",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
@@ -24340,7 +24345,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "35-37",
+        "addr:housenumber": "35",
         "addr:street": "Strand Street",
         "building": "retail",
         "building:levels": "2",
@@ -26330,54 +26335,6 @@
     },
     {
       "type": "Feature",
-      "id": 80830546,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.475526,
-            54.159486
-          ],
-          [
-            -4.475579,
-            54.159428
-          ],
-          [
-            -4.475542,
-            54.159416
-          ],
-          [
-            -4.475725,
-            54.159219
-          ],
-          [
-            -4.476134,
-            54.159348
-          ],
-          [
-            -4.475898,
-            54.159604
-          ],
-          [
-            -4.475526,
-            54.159486
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "The Empress",
-        "addr:street": "Central Promenade",
-        "building": "yes",
-        "name": "The Empress",
-        "postal_code": "IM2 4RA",
-        "tourism": "hotel",
-        "website": "https://www.theempresshotel.net/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 80830551,
       "geometry": {
         "type": "LineString",
@@ -26528,52 +26485,6 @@
     },
     {
       "type": "Feature",
-      "id": 82564017,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.476506,
-            54.158963
-          ],
-          [
-            -4.476781,
-            54.159052
-          ],
-          [
-            -4.47671,
-            54.159128
-          ],
-          [
-            -4.476688,
-            54.159121
-          ],
-          [
-            -4.476436,
-            54.159041
-          ],
-          [
-            -4.476506,
-            54.158963
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Esplanade Lane",
-        "amenity": "restaurant",
-        "building": "yes",
-        "cuisine": "indian",
-        "name": "Taj Mahal",
-        "postal_code": "IM2 4LE",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.thetaj.co.im"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82614372,
       "geometry": {
         "type": "LineString",
@@ -26651,19 +26562,22 @@
         "addr:country": "IM",
         "addr:housenumber": "62",
         "addr:street": "Bucks Road",
-        "amenity": "restaurant",
+        "amenity": "cafe",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/FrothIOM/",
-        "cuisine": "chinese",
+        "cuisine": "coffee_shop;bubble_tea;breakfast;chinese",
         "currency:XBT": "yes",
-        "name": "Froth Coffee Shop",
+        "indoor_seating": "yes",
+        "name": "Froth",
+        "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:00-18:00",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
         "phone": "+44 1624 612883",
         "postal_code": "IM1 3AE",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "survey:date": "2022-09-24"
+        "survey:date": "2022-09-24",
+        "takeaway": "yes"
       }
     },
     {
@@ -26709,48 +26623,6 @@
         "postal_code": "IM1 1BF",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.roadandtrackmcs.co.uk/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82674250,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.483379,
-            54.151751
-          ],
-          [
-            -4.483585,
-            54.151697
-          ],
-          [
-            -4.483624,
-            54.151749
-          ],
-          [
-            -4.483419,
-            54.151803
-          ],
-          [
-            -4.483379,
-            54.151751
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "35",
-        "addr:postcode": "IM1 3DE",
-        "addr:street": "Bucks Road",
-        "building": "yes",
-        "name": "Gillian Sheard",
-        "postal_code": "IM1 3DE",
-        "shop": "optician",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://www.gilliansheard.co.uk"
       }
     },
     {
@@ -31455,49 +31327,6 @@
     },
     {
       "type": "Feature",
-      "id": 241013776,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.483376,
-            54.152104
-          ],
-          [
-            -4.48334,
-            54.152057
-          ],
-          [
-            -4.483204,
-            54.152093
-          ],
-          [
-            -4.483237,
-            54.152139
-          ],
-          [
-            -4.483376,
-            54.152104
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "56",
-        "addr:postcode": "IM1 3AD",
-        "addr:street": "Bucks Road",
-        "alt_name": "Aldriges",
-        "building": "yes",
-        "name": "PC Solutions",
-        "phone": "+441624627171",
-        "postal_code": "IM1 3AD",
-        "source": "Isle of Man Government aerial imagery (2001);survey",
-        "website": "https://www.pcsolutions.co.im/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 244714300,
       "geometry": {
         "type": "LineString",
@@ -31852,8 +31681,8 @@
         "addr:street": "Bucks Road",
         "building": "yes",
         "name": "The Copyshop",
-        "opening_hours": "Mo-Th 09:00-17:30; Fr 09:00-17:00",
-        "phone": "+44 1624622697",
+        "opening_hours": "Mo-Fr 09:00-16:00",
+        "phone": "+44 1624 622697",
         "postal_code": "IM1 3AD",
         "shop": "printer",
         "source": "Isle of Man Government aerial imagery (2001); survey",
@@ -32678,8 +32507,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "48-50",
+        "addr:postcode": "IM1 2EL",
         "addr:street": "Strand Street",
         "brand": "WHSmith",
         "brand:wikidata": "Q1548712",
@@ -32688,7 +32519,8 @@
         "name": "WHSmith",
         "postal_code": "IM1 2EL",
         "shop": "newsagent",
-        "source": "Bing;photograph"
+        "source": "Bing;photograph",
+        "website": "https://www.whsmith.co.uk/stores/details/?StoreID=2812"
       }
     },
     {
@@ -32934,6 +32766,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "51",
         "addr:street": "Strand Street",
@@ -33018,6 +32851,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "47",
         "addr:street": "Strand Street",
@@ -36217,7 +36051,7 @@
             54.152957
           ],
           [
-            -4.484229,
+            -4.484228,
             54.152942
           ],
           [
@@ -36986,7 +36820,10 @@
         "addr:housenumber": "78",
         "addr:street": "Bucks Road",
         "building": "terrace",
-        "postal_code": "IM1 3AF"
+        "name": "Renegade Cuts & Clobber",
+        "opening_hours": "Mo,Tu,Sa 09:00-18:00, Th,Fr 09:00-19:00",
+        "postal_code": "IM1 3AF",
+        "shop": "hairdresser;variety_store"
       }
     },
     {

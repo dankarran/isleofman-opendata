@@ -79016,10 +79016,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.489441,
-            54.156255
-          ],
-          [
             -4.490295,
             54.155883
           ],
@@ -79046,22 +79042,12 @@
           [
             -4.491295,
             54.155838
-          ],
-          [
-            -4.49141,
-            54.155855
-          ],
-          [
-            -4.49151,
-            54.155876
-          ],
-          [
-            -4.491566,
-            54.155889
           ]
         ]
       },
       "properties": {
+        "alt_name": "Marlborough Terrace;Westminster Terrace",
+        "alt_name:en": "Marlborough Terrace;Westminster Terrace",
         "highway": "secondary",
         "maxspeed": "30 mph",
         "name": "Alexander Drive",
@@ -79072,8 +79058,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 528717358,
-        "lon": -4.4904832876634435,
-        "lat": 54.15593764450788,
+        "lon": -4.490793414712291,
+        "lat": 54.155836922117786,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/528717358"
       }
@@ -92475,6 +92461,104 @@
     },
     {
       "type": "Feature",
+      "id": 1197505115,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491444,
+            54.155775
+          ],
+          [
+            -4.491054,
+            54.155778
+          ],
+          [
+            -4.490543,
+            54.155803
+          ],
+          [
+            -4.490352,
+            54.15582
+          ],
+          [
+            -4.490316,
+            54.155815
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Westminster Terrace",
+        "alt_name:en": "Westminster Terrace",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "osm_id": 1197505115,
+        "lon": -4.490879503602905,
+        "lat": 54.15579009992397,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1197505115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1197505118,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491215,
+            54.155873
+          ],
+          [
+            -4.491055,
+            54.155864
+          ],
+          [
+            -4.490914,
+            54.155862
+          ],
+          [
+            -4.49069,
+            54.155869
+          ],
+          [
+            -4.490503,
+            54.155883
+          ],
+          [
+            -4.490401,
+            54.1559
+          ],
+          [
+            -4.490336,
+            54.155918
+          ],
+          [
+            -4.490263,
+            54.15595
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Marlborough Terrace",
+        "alt_name:en": "Marlborough Terrace",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "osm_id": 1197505118,
+        "lon": -4.490734618548591,
+        "lat": 54.15587917941653,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1197505118"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1197716939,
       "geometry": {
         "type": "LineString",
@@ -94015,6 +94099,146 @@
         "lat": 54.15640170134385,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1263025987"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326653,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491524,
+            54.155803
+          ],
+          [
+            -4.491444,
+            54.155775
+          ]
+        ]
+      },
+      "properties": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "osm_id": 1288326653,
+        "lon": -4.491484,
+        "lat": 54.155789000000006,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1288326653"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326654,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491295,
+            54.155838
+          ],
+          [
+            -4.49141,
+            54.155855
+          ],
+          [
+            -4.49151,
+            54.155876
+          ],
+          [
+            -4.491566,
+            54.155889
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Westminster Terrace",
+        "alt_name:en": "Westminster Terrace",
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "ref": "B61",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 1288326654,
+        "lon": -4.491430960090197,
+        "lat": 54.15586103700576,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1288326654"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326655,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490222,
+            54.155915
+          ],
+          [
+            -4.490295,
+            54.155883
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Marlborough Terrace",
+        "alt_name:en": "Marlborough Terrace",
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "ref": "B61",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 1288326655,
+        "lon": -4.4902584999999995,
+        "lat": 54.15589900000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1288326655"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288326656,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489441,
+            54.156255
+          ],
+          [
+            -4.490222,
+            54.155915
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Alexander Drive",
+        "name:en": "Alexander Drive",
+        "name:gv": "Imman Alexander",
+        "ref": "B61",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 1288326656,
+        "lon": -4.4898315,
+        "lat": 54.156085000000004,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1288326656"
       }
     }
   ]
