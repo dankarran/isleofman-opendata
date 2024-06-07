@@ -842,8 +842,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM4 2AF",
+        "addr:street": "Cooil Road",
         "amenity": "cafe",
-        "name": "Cafe Eden"
+        "name": "Cafe @ Riley's Garden Centre",
+        "website": "https://rileys.co.im/cafe/"
       }
     },
     {
@@ -2634,6 +2638,25 @@
         "name": "The Brasserie Restaurant",
         "operator": "The Empress",
         "website": "https://www.theempresshotel.net/dining/restaurants-bars/brasserie"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11958717634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477152,
+          54.149077
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Douglasia EN",
+        "name:en": "Douglasia EN",
+        "name:gv": "Douglasia GV",
+        "opening_hours": "Mo-Su 00:30-23:00"
       }
     },
     {

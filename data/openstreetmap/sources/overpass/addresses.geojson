@@ -1892,6 +1892,25 @@
     },
     {
       "type": "Feature",
+      "id": 937630387,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.535615,
+          54.151975
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM4 2AF",
+        "addr:street": "Cooil Road",
+        "amenity": "cafe",
+        "name": "Cafe @ Riley's Garden Centre",
+        "website": "https://rileys.co.im/cafe/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 939199118,
       "geometry": {
         "type": "Point",
@@ -3281,6 +3300,26 @@
         "name": "Talk of the Town",
         "phone": "+44 1624 670430",
         "website": "https://talkofthetown.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8290482468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.530701,
+          54.151359
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "contact:facebook": "https://www.facebook.com/premierflooringltd/",
+        "name": "Premier Flooring",
+        "shop": "flooring"
       }
     },
     {
@@ -8069,6 +8108,171 @@
         "name": "The Brasserie Restaurant",
         "operator": "The Empress",
         "website": "https://www.theempresshotel.net/dining/restaurants-bars/brasserie"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11948344802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.530584,
+          54.152413
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QZ",
+        "addr:unit": "7",
+        "name": "The Garage Door & Gate Automation Company",
+        "shop": "doors",
+        "website": "https://www.manxgaragedoors.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11948344817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.530802,
+          54.152484
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "11",
+        "amenity": "car_rental",
+        "name": "CamperMann",
+        "source": "Isle of Man Government Companies Registry",
+        "website": "https://camper-mann.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11948344818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.531081,
+          54.152909
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "15",
+        "contact:facebook": "https://www.facebook.com/mandkiom",
+        "name": "M & K Automotive Engineers",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11950397984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.531174,
+          54.152801
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "17",
+        "leisure": "fitness_centre",
+        "name": "Impact Kickboxing",
+        "sport": "kickboxing",
+        "website": "https://impactkickboxing.co.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11950397985,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.531125,
+          54.152858
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11950397986,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.53123,
+          54.152737
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "18",
+        "craft": "joiner",
+        "name": "TWD Joinery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11951973540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480305,
+          54.148382
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "IM1 1EN",
+        "addr:street": "Ridgeway Street",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Regent Dental",
+        "operator": "Regent Dental",
+        "website": "https://regentdental.im/regent-dental-ridgeway-street/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11951973541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480245,
+          54.148354
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Regent House",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "IM1 1EN",
+        "addr:street": "Ridgeway Street",
+        "level": "1",
+        "name": "Silva Consulting",
+        "office": "yes",
+        "website": "https://www.silvaqs.im"
       }
     },
     {
@@ -30437,6 +30641,112 @@
     },
     {
       "type": "Feature",
+      "id": 80341937,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.535197,
+            54.151954
+          ],
+          [
+            -4.535261,
+            54.151829
+          ],
+          [
+            -4.535206,
+            54.151819
+          ],
+          [
+            -4.535251,
+            54.151732
+          ],
+          [
+            -4.535306,
+            54.151742
+          ],
+          [
+            -4.535455,
+            54.151451
+          ],
+          [
+            -4.536178,
+            54.151581
+          ],
+          [
+            -4.536072,
+            54.151754
+          ],
+          [
+            -4.536101,
+            54.15176
+          ],
+          [
+            -4.536126,
+            54.151711
+          ],
+          [
+            -4.53618,
+            54.151721
+          ],
+          [
+            -4.536207,
+            54.151685
+          ],
+          [
+            -4.536459,
+            54.151729
+          ],
+          [
+            -4.536405,
+            54.151834
+          ],
+          [
+            -4.536148,
+            54.151789
+          ],
+          [
+            -4.536077,
+            54.151927
+          ],
+          [
+            -4.536024,
+            54.151918
+          ],
+          [
+            -4.536012,
+            54.151941
+          ],
+          [
+            -4.535709,
+            54.151887
+          ],
+          [
+            -4.535635,
+            54.152031
+          ],
+          [
+            -4.535197,
+            54.151954
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 2AF",
+        "addr:street": "Cooil Road",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/RileysGardenCentre/",
+        "name": "Riley's Garden Centre",
+        "phone": "+44 1624 616116",
+        "shop": "garden_centre",
+        "source": "observation",
+        "website": "https://rileys.co.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 80509025,
       "geometry": {
         "type": "LineString",
@@ -33096,19 +33406,19 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
         "addr:postcode": "IM1 1BF",
         "addr:street": "Tynwald Street",
-        "brand": "KTM",
-        "brand:wikidata": "Q215657",
-        "brand:wikipedia": "en:KTM",
         "building": "yes",
-        "description": "KTM dealer",
-        "name": "Road and Track Motorcycles",
-        "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-17:00; Su,PH off",
-        "phone": "+44 1624 623725",
-        "shop": "motorcycle",
+        "charity": "yes",
+        "name": "Crossroads Charity Shop & Community Space",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Crossroads",
+        "ref:charity": "383",
+        "shop": "charity",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://ktm.roadandtrackmcs.co.uk"
+        "website": "https://www.crossroadsiom.org/"
       }
     },
     {
@@ -37328,6 +37638,55 @@
         "addr:street": "Pooil Vaaish Road",
         "building": "yes",
         "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92055438,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529868,
+            54.152168
+          ],
+          [
+            -4.529667,
+            54.152087
+          ],
+          [
+            -4.529508,
+            54.152222
+          ],
+          [
+            -4.52931,
+            54.152141
+          ],
+          [
+            -4.530056,
+            54.151511
+          ],
+          [
+            -4.530454,
+            54.151672
+          ],
+          [
+            -4.529868,
+            54.152168
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:street": "Barley Field Road",
+        "building": "yes",
+        "name": "Haldane Fisher",
+        "operator": "Haldane Fisher",
+        "shop": "doityourself",
+        "source": "Bing",
+        "website": "https://www.haldane-fisher.com/iom"
       }
     },
     {
@@ -47422,17 +47781,8 @@
         "addr:housename": "Wave House",
         "addr:postcode": "IM9 6LN",
         "addr:street": "Shore Road",
-        "amenity": "boat_rental",
-        "boat:rental": "yes",
-        "boat:type": "paddleboard",
         "building": "yes",
-        "contact:phone": "+44 7624 302308",
-        "contact:website": "porterinpaddleboards.com",
-        "name": "Port Erin Paddleboards",
-        "paddleboard_rental": "yes",
-        "shop": "boat",
-        "source": "survey",
-        "standup_paddleboard_rental": "yes"
+        "source": "survey"
       }
     },
     {
@@ -67384,6 +67734,83 @@
         "building": "residential",
         "building:levels": "2",
         "old_name": "Douglas Head Restaurant"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186074060,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529592,
+            54.15271
+          ],
+          [
+            -4.529468,
+            54.152661
+          ],
+          [
+            -4.529626,
+            54.152521
+          ],
+          [
+            -4.529751,
+            54.152568
+          ],
+          [
+            -4.529592,
+            54.15271
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "2",
+        "building": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186074062,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529592,
+            54.15271
+          ],
+          [
+            -4.529726,
+            54.152761
+          ],
+          [
+            -4.529886,
+            54.152619
+          ],
+          [
+            -4.529751,
+            54.152568
+          ],
+          [
+            -4.529592,
+            54.15271
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "1",
+        "building": "yes",
+        "name": "JC Fargher",
+        "source": "Bing"
       }
     },
     {
@@ -134598,6 +135025,247 @@
         "website": "https://www.crossroadsiom.org/",
         "wheelchair": "limited",
         "wheelchair:description": "Dedicated accessible parking bay outside the store. Please knock on the double doors next to the bay so a member of the shop team can open them as the main entrance has a steep slope."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287825077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484349,
+            54.154635
+          ],
+          [
+            -4.48429,
+            54.154635
+          ],
+          [
+            -4.484231,
+            54.154634
+          ],
+          [
+            -4.484228,
+            54.154595
+          ],
+          [
+            -4.484349,
+            54.154592
+          ],
+          [
+            -4.484349,
+            54.154635
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2a",
+        "addr:postcode": "IM1 3JX",
+        "addr:street": "Windsor Road",
+        "building": "retail",
+        "contact:email": "serendipitybeauty@mail.com",
+        "contact:phone": "+44 7624 410440",
+        "contact:website": "https://serendipitybeauty.im/",
+        "name": "Serendipity Beauty",
+        "opening_hours": "\"Only by appointment\"",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288619466,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484823,
+            54.151567
+          ],
+          [
+            -4.484609,
+            54.151669
+          ],
+          [
+            -4.484375,
+            54.151507
+          ],
+          [
+            -4.4846,
+            54.151403
+          ],
+          [
+            -4.484628,
+            54.151423
+          ],
+          [
+            -4.484823,
+            54.151567
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM1 1BF",
+        "addr:street": "Tynwald Street",
+        "building": "yes",
+        "level": "0"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288736370,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529468,
+            54.152661
+          ],
+          [
+            -4.529346,
+            54.152616
+          ],
+          [
+            -4.529502,
+            54.152473
+          ],
+          [
+            -4.529626,
+            54.152521
+          ],
+          [
+            -4.529468,
+            54.152661
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "3",
+        "building": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288736371,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529346,
+            54.152616
+          ],
+          [
+            -4.529223,
+            54.152569
+          ],
+          [
+            -4.529378,
+            54.152427
+          ],
+          [
+            -4.529502,
+            54.152473
+          ],
+          [
+            -4.529346,
+            54.152616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "4",
+        "building": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288736372,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529223,
+            54.152569
+          ],
+          [
+            -4.529099,
+            54.152522
+          ],
+          [
+            -4.529255,
+            54.152381
+          ],
+          [
+            -4.529378,
+            54.152427
+          ],
+          [
+            -4.529223,
+            54.152569
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "5",
+        "building": "yes",
+        "source": "Bing"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1288736373,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529099,
+            54.152522
+          ],
+          [
+            -4.528976,
+            54.152475
+          ],
+          [
+            -4.529133,
+            54.152335
+          ],
+          [
+            -4.529255,
+            54.152381
+          ],
+          [
+            -4.529099,
+            54.152522
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "6",
+        "building": "yes",
+        "source": "Bing"
       }
     }
   ]

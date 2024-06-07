@@ -1965,6 +1965,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "contact:facebook": "https://www.facebook.com/premierflooringltd/",
         "name": "Premier Flooring",
         "shop": "flooring",
         "osm_id": 8290482468,
@@ -4042,6 +4047,57 @@
         "lat": 54.152368,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11889062920"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11948344802,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.530584,
+          54.152413
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QZ",
+        "addr:unit": "7",
+        "name": "The Garage Door & Gate Automation Company",
+        "shop": "doors",
+        "website": "https://www.manxgaragedoors.com",
+        "osm_id": 11948344802,
+        "lon": -4.530584,
+        "lat": 54.152413,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11948344802"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11948344818,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.531081,
+          54.152909
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:unit": "15",
+        "contact:facebook": "https://www.facebook.com/mandkiom",
+        "name": "M & K Automotive Engineers",
+        "shop": "car_repair",
+        "osm_id": 11948344818,
+        "lon": -4.531081,
+        "lat": 54.152909,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11948344818"
       }
     },
     {
@@ -7809,15 +7865,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:street": "The Cooil Road",
+        "addr:postcode": "IM4 2AF",
+        "addr:street": "Cooil Road",
         "building": "yes",
-        "name": "Eden Park Garden Centre",
-        "phone": "01624 616116",
-        "postal_code": "IM4 2AF",
+        "contact:facebook": "https://www.facebook.com/RileysGardenCentre/",
+        "name": "Riley's Garden Centre",
+        "phone": "+44 1624 616116",
         "shop": "garden_centre",
         "source": "observation",
-        "website": "http://edenparkgc.com",
+        "website": "https://rileys.co.im",
         "osm_id": 80341937,
         "lon": -4.535810267628124,
         "lat": 54.15175390749833,
@@ -8660,19 +8718,19 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
         "addr:postcode": "IM1 1BF",
         "addr:street": "Tynwald Street",
-        "brand": "KTM",
-        "brand:wikidata": "Q215657",
-        "brand:wikipedia": "en:KTM",
         "building": "yes",
-        "description": "KTM dealer",
-        "name": "Road and Track Motorcycles",
-        "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-17:00; Su,PH off",
-        "phone": "+44 1624 623725",
-        "shop": "motorcycle",
+        "charity": "yes",
+        "name": "Crossroads Charity Shop & Community Space",
+        "opening_hours": "Mo-Sa 10:00-17:00",
+        "operator": "Crossroads",
+        "ref:charity": "383",
+        "shop": "charity",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "http://ktm.roadandtrackmcs.co.uk",
+        "website": "https://www.crossroadsiom.org/",
         "osm_id": 82674223,
         "lon": -4.484445979743633,
         "lat": 54.1516120598002,
@@ -9090,15 +9148,64 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "addr:postcode": "IM2 2QY",
+        "addr:street": "Barley Field Road",
         "building": "yes",
         "name": "Haldane Fisher",
-        "shop": "yes",
+        "operator": "Haldane Fisher",
+        "shop": "doityourself",
         "source": "Bing",
+        "website": "https://www.haldane-fisher.com/iom",
         "osm_id": 92055438,
         "lon": -4.529879369142082,
         "lat": 54.15189049156935,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/92055438"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92055454,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.530641,
+            54.15265
+          ],
+          [
+            -4.530938,
+            54.152745
+          ],
+          [
+            -4.530727,
+            54.152972
+          ],
+          [
+            -4.53043,
+            54.152877
+          ],
+          [
+            -4.530641,
+            54.15265
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Isle of Man Business Park",
+        "building": "yes",
+        "name": "Manx Self Storage",
+        "shop": "storage_rental",
+        "source": "Bing",
+        "website": "https://selfstorage.co.im",
+        "osm_id": 92055454,
+        "lon": -4.530684,
+        "lat": 54.15281100000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/92055454"
       }
     },
     {
@@ -11405,62 +11512,6 @@
         "lat": 54.077402781986294,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/101812287"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 101833314,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.761682,
-            54.083992
-          ],
-          [
-            -4.761551,
-            54.084056
-          ],
-          [
-            -4.761544,
-            54.084051
-          ],
-          [
-            -4.761518,
-            54.084033
-          ],
-          [
-            -4.761648,
-            54.083968
-          ],
-          [
-            -4.761682,
-            54.083992
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Port Erin",
-        "addr:country": "IM",
-        "addr:housename": "Wave House",
-        "addr:postcode": "IM9 6LN",
-        "addr:street": "Shore Road",
-        "amenity": "boat_rental",
-        "boat:rental": "yes",
-        "boat:type": "paddleboard",
-        "building": "yes",
-        "contact:phone": "+44 7624 302308",
-        "contact:website": "porterinpaddleboards.com",
-        "name": "Port Erin Paddleboards",
-        "paddleboard_rental": "yes",
-        "shop": "boat",
-        "source": "survey",
-        "standup_paddleboard_rental": "yes",
-        "osm_id": 101833314,
-        "lon": -4.7616000169974155,
-        "lat": 54.08401213952026,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/101833314"
       }
     },
     {
@@ -30198,6 +30249,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2a",
+        "addr:postcode": "IM1 3JX",
+        "addr:street": "Windsor Road",
         "building": "retail",
         "contact:email": "serendipitybeauty@mail.com",
         "contact:phone": "+44 7624 410440",

@@ -1199,6 +1199,29 @@
     },
     {
       "type": "Feature",
+      "id": 11951973541,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480245,
+          54.148354
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Regent House",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "IM1 1EN",
+        "addr:street": "Ridgeway Street",
+        "level": "1",
+        "name": "Silva Consulting",
+        "office": "yes",
+        "website": "https://www.silvaqs.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59286000,
       "geometry": {
         "type": "LineString",

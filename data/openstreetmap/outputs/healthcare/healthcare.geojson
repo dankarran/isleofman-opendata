@@ -671,6 +671,34 @@
     },
     {
       "type": "Feature",
+      "id": 11951973540,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480305,
+          54.148382
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "IM1 1EN",
+        "addr:street": "Ridgeway Street",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Regent Dental",
+        "operator": "Regent Dental",
+        "website": "https://regentdental.im/regent-dental-ridgeway-street/",
+        "osm_id": 11951973540,
+        "lon": -4.480305,
+        "lat": 54.148382,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11951973540"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60048718,
       "geometry": {
         "type": "LineString",

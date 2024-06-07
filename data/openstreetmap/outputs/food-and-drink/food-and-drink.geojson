@@ -1042,8 +1042,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM4 2AF",
+        "addr:street": "Cooil Road",
         "amenity": "cafe",
-        "name": "Cafe Eden",
+        "name": "Cafe @ Riley's Garden Centre",
+        "website": "https://rileys.co.im/cafe/",
         "osm_id": 937630387,
         "lon": -4.535615,
         "lat": 54.151975,
@@ -3269,6 +3273,30 @@
         "lat": 54.159266,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11948134461"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11958717634,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477152,
+          54.149077
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "diet:vegetarian": "yes",
+        "name": "Douglasia EN",
+        "name:en": "Douglasia EN",
+        "name:gv": "Douglasia GV",
+        "opening_hours": "Mo-Su 00:30-23:00",
+        "osm_id": 11958717634,
+        "lon": -4.477152,
+        "lat": 54.149077,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11958717634"
       }
     },
     {
