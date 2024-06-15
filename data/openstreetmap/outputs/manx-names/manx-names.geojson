@@ -6835,30 +6835,6 @@
     },
     {
       "type": "Feature",
-      "id": 11958717634,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.477152,
-          54.149077
-        ]
-      },
-      "properties": {
-        "amenity": "restaurant",
-        "diet:vegetarian": "yes",
-        "name": "Douglasia EN",
-        "name:en": "Douglasia EN",
-        "name:gv": "Douglasia GV",
-        "opening_hours": "Mo-Su 00:30-23:00",
-        "osm_id": 11958717634,
-        "lon": -4.477152,
-        "lat": 54.149077,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/11958717634"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25985930,
       "geometry": {
         "type": "LineString",
@@ -9734,6 +9710,14 @@
             54.151593
           ],
           [
+            -4.488013,
+            54.15162
+          ],
+          [
+            -4.487787,
+            54.151766
+          ],
+          [
             -4.487552,
             54.151918
           ],
@@ -9784,8 +9768,8 @@
         "oneway": "yes",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 25986393,
-        "lon": -4.486511907661644,
-        "lat": 54.15250210842301,
+        "lon": -4.486511901054082,
+        "lat": 54.15250209808274,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986393"
       }
@@ -11974,24 +11958,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.655873,
-            54.078389
+            -4.655893,
+            54.078401
           ],
           [
-            -4.65586,
-            54.078284
+            -4.655909,
+            54.078283
           ],
           [
-            -4.655857,
-            54.078266
+            -4.655912,
+            54.078254
           ],
           [
-            -4.655853,
-            54.078234
+            -4.655896,
+            54.078205
           ],
           [
-            -4.655837,
-            54.078111
+            -4.655871,
+            54.078126
           ]
         ]
       },
@@ -12002,8 +11986,8 @@
         "name:en": "Malew Street",
         "name:gv": "Straid Valen",
         "osm_id": 25986700,
-        "lon": -4.655855143491459,
-        "lat": 54.07824998302842,
+        "lon": -4.6558973966261,
+        "lat": 54.07826215752753,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986700"
       }
@@ -56904,8 +56888,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.655837,
-            54.078111
+            -4.655871,
+            54.078126
           ],
           [
             -4.655814,
@@ -57004,8 +56988,8 @@
         "name:en": "Malew Street",
         "name:gv": "Straid Valen",
         "osm_id": 160837803,
-        "lon": -4.655220139565552,
-        "lat": 54.075999600980744,
+        "lon": -4.655223604565256,
+        "lat": 54.076009194169565,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/160837803"
       }

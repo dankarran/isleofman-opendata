@@ -681,6 +681,122 @@
     },
     {
       "type": "Feature",
+      "id": 11964300608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.500148,
+          54.150558
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-404713",
+        "ref_name": "Tony-Ross",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11964305061,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.503285,
+          54.151415
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "87307",
+        "ref_name": "Cain-Robb",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11973625400,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481345,
+          54.151186
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "contact:phone": "+44 333 006 3503",
+        "contact:website": "https://www.pod-point.com/",
+        "fee": "yes",
+        "name_ref": "Enzo-Andy",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-404712",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11973902921,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.656689,
+          54.078028
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "contact:phone": "+44 333 006 3503",
+        "contact:website": "https://www.pod-point.com/",
+        "fee": "yes",
+        "name_ref": "Bill-Greg",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-402343",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1165384236,
       "geometry": {
         "type": "LineString",

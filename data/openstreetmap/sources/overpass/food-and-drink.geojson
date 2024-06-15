@@ -1842,50 +1842,6 @@
     },
     {
       "type": "Feature",
-      "id": 10049625877,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478073,
-          54.149382
-        ]
-      },
-      "properties": {
-        "amenity": "cafe",
-        "currency:XBT": "yes",
-        "name": "Freshly Squeezed",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+441624613585",
-        "survey:date": "2022-09-24",
-        "website": "https://freshlysqueezed.im/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10049641174,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48086,
-          54.149623
-        ]
-      },
-      "properties": {
-        "amenity": "restaurant",
-        "contact:facebook": "https://www.facebook.com/streetkitcheniom",
-        "currency:XBT": "yes",
-        "name": "Street Kitchen",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624304904",
-        "survey:date": "2022-09-24"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10132078264,
       "geometry": {
         "type": "Point",
@@ -2611,6 +2567,7 @@
       },
       "properties": {
         "addr:city": "Port St Mary",
+        "addr:country": "IM",
         "addr:housename": "Manxonia House",
         "addr:street": "Bay View Road",
         "amenity": "restaurant",
@@ -2642,21 +2599,21 @@
     },
     {
       "type": "Feature",
-      "id": 11958717634,
+      "id": 11964344884,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.477152,
-          54.149077
+          -4.50422,
+          54.152624
         ]
       },
       "properties": {
-        "amenity": "restaurant",
-        "diet:vegetarian": "yes",
-        "name": "Douglasia EN",
-        "name:en": "Douglasia EN",
-        "name:gv": "Douglasia GV",
-        "opening_hours": "Mo-Su 00:30-23:00"
+        "amenity": "cafe",
+        "contact:email": "manager@aquacafe.im",
+        "contact:phone": "+44 1624 610480",
+        "contact:website": "https://www.aquacafe.im/",
+        "name": "Aqua Caf\u00e9",
+        "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 09:00-18:00"
       }
     },
     {
@@ -4443,43 +4400,49 @@
     },
     {
       "type": "Feature",
-      "id": 79141601,
+      "id": 79141600,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.481535,
-            54.150207
+            -4.481492,
+            54.150246
           ],
           [
-            -4.481647,
-            54.150308
+            -4.48125,
+            54.150345
           ],
           [
-            -4.481347,
-            54.150427
+            -4.481128,
+            54.150237
           ],
           [
-            -4.481239,
-            54.15033
+            -4.481258,
+            54.150185
           ],
           [
-            -4.481479,
-            54.15023
+            -4.481278,
+            54.150201
           ],
           [
-            -4.481535,
-            54.150207
+            -4.481388,
+            54.150155
+          ],
+          [
+            -4.481492,
+            54.150246
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "23-25",
         "addr:postcode": "IM1 1ET",
         "addr:street": "Prospect Hill",
         "amenity": "pub",
         "building": "yes",
+        "layer": "3",
         "name": "The Prospect Hotel",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://pubsandbars.im/venue/the-prospect/"
@@ -6385,6 +6348,7 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Seamount",
         "addr:postcode": "IM9 5AG",
         "addr:street": "Bay View Road",
@@ -6569,61 +6533,6 @@
         "building": "yes",
         "name": "The Boathouse",
         "postal_code": "IM9 5EB"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 101954780,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.738628,
-            54.074401
-          ],
-          [
-            -4.738686,
-            54.074278
-          ],
-          [
-            -4.738908,
-            54.074314
-          ],
-          [
-            -4.7389,
-            54.074368
-          ],
-          [
-            -4.738847,
-            54.074361
-          ],
-          [
-            -4.738823,
-            54.07436
-          ],
-          [
-            -4.738809,
-            54.07439
-          ],
-          [
-            -4.73878,
-            54.074386
-          ],
-          [
-            -4.738762,
-            54.074424
-          ],
-          [
-            -4.738628,
-            54.074401
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "pub",
-        "building": "yes",
-        "name": "Bay View Hotel",
-        "note": "Closed"
       }
     },
     {
@@ -12389,50 +12298,16 @@
         "contact:phone": "+441624613585",
         "contact:website": "freshlysqueezed.im",
         "cuisine": "juice",
+        "currency:XBT": "yes",
         "name": "Freshly Squeezed",
         "opening_hours": "Mo-Fr 07:15-17:00",
-        "source": "survey"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419775941,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478298,
-            54.149358
-          ],
-          [
-            -4.478288,
-            54.149412
-          ],
-          [
-            -4.478182,
-            54.149406
-          ],
-          [
-            -4.478131,
-            54.149346
-          ],
-          [
-            -4.478298,
-            54.149358
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "cafe",
-        "building": "retail",
-        "building:colour": "grey",
-        "building:levels": "4",
-        "building:material": "plaster",
-        "description": "Sandwich and smoothie bar",
-        "drink:smoothie": "yes",
-        "name": "Fresh Squeezed",
-        "roof:levels": "1",
-        "source": "Bing;photograph"
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+441624613585",
+        "source": "survey",
+        "survey:date": "2022-09-24",
+        "website": "https://freshlysqueezed.im/"
       }
     },
     {
@@ -12647,13 +12522,70 @@
     },
     {
       "type": "Feature",
+      "id": 419950958,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480665,
+            54.149471
+          ],
+          [
+            -4.480595,
+            54.149508
+          ],
+          [
+            -4.480527,
+            54.149465
+          ],
+          [
+            -4.4806,
+            54.149431
+          ],
+          [
+            -4.480617,
+            54.149434
+          ],
+          [
+            -4.480634,
+            54.149437
+          ],
+          [
+            -4.480655,
+            54.149452
+          ],
+          [
+            -4.480665,
+            54.149471
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Prospect Hill",
+        "amenity": "cafe",
+        "building": "retail",
+        "building:levels": "4",
+        "name": "Roots in the city",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 420023851,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.480837,
-            54.149599
+            -4.480841,
+            54.149589
+          ],
+          [
+            -4.480836,
+            54.1496
           ],
           [
             -4.480818,
@@ -12664,27 +12596,41 @@
             54.149659
           ],
           [
-            -4.481007,
-            54.149636
+            -4.481004,
+            54.149638
           ],
           [
-            -4.480837,
-            54.149599
+            -4.480963,
+            54.14963
+          ],
+          [
+            -4.480974,
+            54.149614
+          ],
+          [
+            -4.480841,
+            54.149589
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housename": "Street Kitchen",
-        "addr:housenumber": "3",
+        "addr:country": "IM",
+        "addr:housename": "Belfast House",
+        "addr:housenumber": "5",
         "addr:postcode": "IM1 1ES",
         "addr:street": "Prospect Hill",
         "amenity": "restaurant",
         "building": "yes",
-        "contact:phone": "+44 1624 254234",
+        "contact:facebook": "https://www.facebook.com/streetkitcheniom",
+        "contact:phone": "+44 7624 304904",
         "cuisine": "indian",
+        "currency:XBT": "yes",
         "name": "Street Kitchen",
-        "opening_hours": "Mo 12:00-15:00, Tu-Sa 12:00-17:00,18:00-22:00"
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2022-09-24"
       }
     },
     {
@@ -13065,7 +13011,11 @@
         "coordinates": [
           [
             -4.480817,
-            54.149712
+            54.149733
+          ],
+          [
+            -4.480818,
+            54.149675
           ],
           [
             -4.480818,
@@ -13081,15 +13031,19 @@
           ],
           [
             -4.480912,
-            54.149743
+            54.149734
           ],
           [
             -4.480817,
-            54.149712
+            54.149733
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7-9",
+        "addr:street": "Prospect Hill",
         "amenity": "restaurant",
         "cuisine": "noodle",
         "level": "0",
@@ -13106,11 +13060,11 @@
         "coordinates": [
           [
             -4.480817,
-            54.149712
+            54.149733
           ],
           [
             -4.480912,
-            54.149743
+            54.149734
           ],
           [
             -4.481007,
@@ -13130,13 +13084,18 @@
           ],
           [
             -4.480817,
-            54.149712
+            54.149745
+          ],
+          [
+            -4.480817,
+            54.149733
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "7-11",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
         "addr:street": "Prospect Hill",
         "amenity": "cafe",
         "contact:phone": "+44 1624 677228",
@@ -14005,11 +13964,60 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "brand:wikidata": "Q37158",
-        "building": "yes",
+        "building": "retail",
         "cuisine": "coffee_shop",
         "name": "Starbucks",
         "official_name": "Starbucks Coffee",
         "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1125185106,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.500092,
+            54.151658
+          ],
+          [
+            -4.499905,
+            54.151703
+          ],
+          [
+            -4.499795,
+            54.151544
+          ],
+          [
+            -4.499774,
+            54.151513
+          ],
+          [
+            -4.499961,
+            54.151469
+          ],
+          [
+            -4.500092,
+            54.151658
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Peel Road Retail Park",
+        "addr:postcode": "IM1 5ED",
+        "addr:street": "Peel Road",
+        "addr:unit": "3",
+        "amenity": "restaurant",
+        "building": "retail",
+        "contact:email": "info@vellikas.com",
+        "contact:phone": "+44 1624 890685",
+        "contact:website": "https://vellikaskitchen.com/douglas/",
+        "cuisine": "indian",
+        "indoor_seating": "yes",
+        "name": "Vellika's Kitchen"
       }
     },
     {
@@ -14070,7 +14078,7 @@
         "amenity": "fast_food",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "building": "yes",
+        "building": "retail",
         "changing_table": "yes",
         "changing_table:fee": "no",
         "cuisine": "chicken",

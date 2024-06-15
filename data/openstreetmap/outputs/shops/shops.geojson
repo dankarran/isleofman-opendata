@@ -2174,26 +2174,6 @@
     },
     {
       "type": "Feature",
-      "id": 10005036836,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.488048,
-          54.151392
-        ]
-      },
-      "properties": {
-        "entrance": "main",
-        "shop": "convenience",
-        "osm_id": 10005036836,
-        "lon": -4.488048,
-        "lat": 54.151392,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10005036836"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10017522876,
       "geometry": {
         "type": "Point",
@@ -2403,23 +2383,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480658,
-          54.150214
+          -4.480621,
+          54.150177
         ]
       },
       "properties": {
+        "contact:phone": "+44 1624 620121",
         "currency:XBT": "yes",
-        "name": "iQ Isle of Man Apple Premium Reseller",
+        "name": "iQ",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "no",
         "payment:onchain": "yes",
-        "phone": "+441624620121",
         "shop": "mobile_phone",
         "survey:date": "2022-10-04",
         "website": "https://www.iqiom.com/",
         "osm_id": 10074774594,
-        "lon": -4.480658,
-        "lat": 54.150214,
+        "lon": -4.480621,
+        "lat": 54.150177,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10074774594"
       }
@@ -6210,6 +6190,10 @@
             54.151882
           ],
           [
+            -4.483857,
+            54.151875
+          ],
+          [
             -4.483805,
             54.151831
           ],
@@ -6234,8 +6218,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://homeco.im",
         "osm_id": 61561709,
-        "lon": -4.483787401954639,
-        "lat": 54.151950534482495,
+        "lon": -4.4837874048465505,
+        "lat": 54.15195053108607,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/61561709"
       }
@@ -8724,7 +8708,8 @@
         "addr:street": "Tynwald Street",
         "building": "yes",
         "charity": "yes",
-        "name": "Crossroads Charity Shop & Community Space",
+        "description": "Charity shop and community space",
+        "name": "Crossroads, Putting carers first",
         "opening_hours": "Mo-Sa 10:00-17:00",
         "operator": "Crossroads",
         "ref:charity": "383",
@@ -8736,53 +8721,6 @@
         "lat": 54.1516120598002,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82674223"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82674240,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484354,
-            54.151793
-          ],
-          [
-            -4.484276,
-            54.151827
-          ],
-          [
-            -4.484174,
-            54.151754
-          ],
-          [
-            -4.484252,
-            54.151722
-          ],
-          [
-            -4.484354,
-            54.151793
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "5",
-        "addr:postcode": "IM1 1BF",
-        "addr:street": "Tynwald Street",
-        "building": "yes",
-        "contact:facebook": "https://www.facebook.com/Thebedandflooringhouseiom/",
-        "name": "Bed & Flooring House",
-        "shop": "bed",
-        "source": "mapillary",
-        "website": "https://thebedandflooringhouseiom.business.site",
-        "osm_id": 82674240,
-        "lon": -4.484263987498645,
-        "lat": 54.15177411234037,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82674240"
       }
     },
     {
@@ -8954,8 +8892,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.487707,
-            54.151433
+            -4.487708,
+            54.151434
           ],
           [
             -4.487526,
@@ -8974,12 +8912,20 @@
             54.151301
           ],
           [
-            -4.48789,
+            -4.487889,
             54.151311
           ],
           [
-            -4.487707,
-            54.151433
+            -4.487861,
+            54.151331
+          ],
+          [
+            -4.487729,
+            54.15142
+          ],
+          [
+            -4.487708,
+            54.151434
           ]
         ]
       },
@@ -8993,8 +8939,8 @@
         "shop": "car_repair",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 82674370,
-        "lon": -4.487713055483233,
-        "lat": 54.15133144907243,
+        "lon": -4.487713142431901,
+        "lat": 54.15133180527629,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82674370"
       }
@@ -11105,6 +11051,7 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Marina House",
         "addr:postcode": "IM9 5AQ",
         "addr:street": "Bay View Road",
@@ -11327,6 +11274,7 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Manchester House",
         "addr:street": "Bay View Road",
         "building": "yes",
@@ -24005,6 +23953,56 @@
     },
     {
       "type": "Feature",
+      "id": 419775941,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478298,
+            54.149358
+          ],
+          [
+            -4.478288,
+            54.149412
+          ],
+          [
+            -4.478182,
+            54.149406
+          ],
+          [
+            -4.478131,
+            54.149346
+          ],
+          [
+            -4.478298,
+            54.149358
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:street": "Victoria Street",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/no.16victoriastreet/",
+        "name": "No. 16 Victoria Street",
+        "note:name": "as signed on building facade",
+        "roof:levels": "1",
+        "shop": "butcher",
+        "source": "Bing;photograph",
+        "osm_id": 419775941,
+        "lon": -4.478219215010845,
+        "lat": 54.14937594973392,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419775941"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419775942,
       "geometry": {
         "type": "LineString",
@@ -24327,34 +24325,59 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480837,
+            -4.481,
+            54.149602
+          ],
+          [
+            -4.480983,
             54.149599
           ],
           [
-            -4.481007,
-            54.149636
-          ],
-          [
-            -4.48106,
+            -4.480974,
             54.149614
           ],
           [
-            -4.480948,
-            54.149566
+            -4.480841,
+            54.149589
           ],
           [
-            -4.480868,
-            54.149532
+            -4.48086,
+            54.149553
           ],
           [
-            -4.480837,
-            54.149599
+            -4.480879,
+            54.149515
+          ],
+          [
+            -4.480945,
+            54.149546
+          ],
+          [
+            -4.481004,
+            54.149531
+          ],
+          [
+            -4.48102,
+            54.149545
+          ],
+          [
+            -4.481005,
+            54.149567
+          ],
+          [
+            -4.48106,
+            54.149577
+          ],
+          [
+            -4.481,
+            54.149602
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Belfast House",
         "addr:housenumber": "3",
         "addr:postcode": "IM1 1ES",
         "addr:street": "Prospect Hill",
@@ -24366,8 +24389,8 @@
         "opening_hours": "Mo-Fr 10:00-15:00, Sa-Su \"By appointment\"",
         "shop": "kitchen",
         "osm_id": 420023846,
-        "lon": -4.480941539326346,
-        "lat": 54.149592763379395,
+        "lon": -4.480949114785819,
+        "lat": 54.149569041895354,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023846"
       }
@@ -24379,36 +24402,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480662,
-            54.149609
+            -4.480653,
+            54.149612
           ],
           [
-            -4.480658,
-            54.149624
+            -4.480647,
+            54.149625
           ],
           [
             -4.48063,
             54.149665
           ],
           [
-            -4.480555,
-            54.149627
+            -4.48055,
+            54.149623
           ],
           [
-            -4.480516,
-            54.149605
+            -4.480513,
+            54.149603
           ],
           [
-            -4.48057,
-            54.149575
+            -4.480563,
+            54.149579
           ],
           [
-            -4.480583,
-            54.149569
+            -4.480577,
+            54.149572
           ],
           [
-            -4.480662,
-            54.149609
+            -4.480653,
+            54.149612
           ]
         ]
       },
@@ -24419,8 +24442,8 @@
         "shop": "massage",
         "website": "https://www.menzone.im/",
         "osm_id": 420023854,
-        "lon": -4.480593676815535,
-        "lat": 54.149614098900685,
+        "lon": -4.480588434759976,
+        "lat": 54.149614900590414,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023854"
       }
@@ -24432,37 +24455,39 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480658,
-            54.149624
+            -4.480647,
+            54.149625
           ],
           [
-            -4.48057,
-            54.149575
+            -4.480563,
+            54.149579
           ],
           [
-            -4.480516,
-            54.149605
+            -4.480513,
+            54.149603
           ],
           [
-            -4.480555,
-            54.149627
+            -4.48055,
+            54.149623
           ],
           [
             -4.48063,
             54.149665
           ],
           [
-            -4.480658,
-            54.149624
+            -4.480647,
+            54.149625
           ]
         ]
       },
       "properties": {
-        "name": "Newby's Convenience",
+        "cuisine": "sandwich",
+        "name": "Any Other Business",
+        "opening_hours": "Mo-Fr 08:30-14:30",
         "shop": "convenience",
         "osm_id": 420023855,
-        "lon": -4.480589896884275,
-        "lat": 54.14961796267863,
+        "lon": -4.480584497274771,
+        "lat": 54.149618864008,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023855"
       }
@@ -24511,7 +24536,7 @@
         "phone": "+44 1624 670520",
         "shop": "jewelry",
         "source": "Bing;photograph",
-        "website": "https://rhsjewellers.com",
+        "website": "https://rhsjewellers.com/",
         "osm_id": 420023856,
         "lon": -4.480645576645187,
         "lat": 54.149511125740844,
@@ -27218,8 +27243,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.485378,
-            54.151479
+            -4.485362,
+            54.151469
           ],
           [
             -4.485577,
@@ -27230,26 +27255,29 @@
             54.151656
           ],
           [
-            -4.485306,
-            54.151513
+            -4.485291,
+            54.151503
           ],
           [
-            -4.485378,
-            54.151479
+            -4.485362,
+            54.151469
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "20",
+        "addr:postcode": "IM1 1BG",
         "addr:street": "Tynwald Street",
-        "building": "yes",
+        "building": "industrial",
         "contact:facebook": "https://www.facebook.com/eastcoastautosim/",
-        "name": "East Coast Autos",
+        "contact:phone": "+44 7624 497392",
+        "name": "East Coast Autos Ltd",
         "shop": "car_repair",
         "osm_id": 1153437142,
-        "lon": -4.485441500000001,
-        "lat": 54.151567500000006,
+        "lon": -4.485433933805445,
+        "lat": 54.15156258061686,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1153437142"
       }
@@ -30365,6 +30393,110 @@
         "lat": 54.15279618434156,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1288114142"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291532800,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487907,
+            54.15132
+          ],
+          [
+            -4.488048,
+            54.151392
+          ],
+          [
+            -4.488104,
+            54.15142
+          ],
+          [
+            -4.487943,
+            54.151529
+          ],
+          [
+            -4.487729,
+            54.15142
+          ],
+          [
+            -4.487861,
+            54.151331
+          ],
+          [
+            -4.487878,
+            54.15134
+          ],
+          [
+            -4.487907,
+            54.15132
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Diamond House",
+        "addr:postcode": "IM1 4AQ",
+        "addr:street": "Westmoreland Road",
+        "brand": "Spar",
+        "name": "Spar, Westmoreland Road",
+        "shop": "convenience",
+        "osm_id": 1291532800,
+        "lon": -4.487916525434458,
+        "lat": 54.15142091547359,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1291532800"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291547307,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484347,
+            54.151789
+          ],
+          [
+            -4.484274,
+            54.151825
+          ],
+          [
+            -4.4842,
+            54.151861
+          ],
+          [
+            -4.484099,
+            54.15179
+          ],
+          [
+            -4.484173,
+            54.151754
+          ],
+          [
+            -4.484246,
+            54.151718
+          ],
+          [
+            -4.484347,
+            54.151789
+          ]
+        ]
+      },
+      "properties": {
+        "contact:facebook": "https://www.facebook.com/Thebedandflooringhouseiom/",
+        "contact:website": "https://thebedandflooringhouseiom.business.site/",
+        "name": "The Bed & Flooring House",
+        "shop": "bed;flooring",
+        "osm_id": 1291547307,
+        "lon": -4.484223027574527,
+        "lat": 54.151789556295896,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1291547307"
       }
     }
   ]

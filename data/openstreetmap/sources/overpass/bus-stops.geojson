@@ -1686,16 +1686,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.504725,
-          54.152098
+          -4.504727,
+          54.1521
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "National Sports Centre Layby",
+        "name": "National Sports Centre layby",
         "public_transport": "platform",
-        "ref": "206"
+        "ref": "206",
+        "shelter": "yes"
       }
     },
     {
@@ -3638,9 +3639,10 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Groves Road / National Sports Centre",
+        "name": "National Sports Centre, Groves Road",
         "public_transport": "platform",
-        "ref": "205"
+        "ref": "205",
+        "shelter": "yes"
       }
     },
     {
@@ -3957,8 +3959,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.499399,
-          54.152005
+          -4.499354,
+          54.152012
         ]
       },
       "properties": {
@@ -10498,7 +10500,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "National Sports Centre Car Park",
+        "name": "National Sports Centre car park",
         "public_transport": "platform",
         "ref": "40106"
       }

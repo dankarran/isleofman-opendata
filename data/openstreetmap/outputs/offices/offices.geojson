@@ -12,6 +12,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "1",
         "addr:street": "Athol Street",
@@ -229,6 +230,7 @@
       },
       "properties": {
         "addr:city": "Port St Mary",
+        "addr:country": "IM",
         "addr:housename": "Beach House",
         "addr:postcode": "IM9 5AE",
         "addr:street": "Bay View Road",
@@ -855,12 +857,15 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "10-12",
         "addr:postcode": "IM1 1EJ",
         "addr:street": "Prospect Hill",
+        "contact:phone": "+44 1624 612611",
+        "contact:website": "https://financialoptions.co.im/",
         "name": "Financial Options",
         "office": "financial_advisor",
-        "website": "https://financialoptions.co.im",
+        "opening_hours": "Mo-Th 09:00-17:30, Fr 09:00-17:00, Sa 09:30-12:30",
         "osm_id": 10709045253,
         "lon": -4.48057,
         "lat": 54.149885,
@@ -880,12 +885,13 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "10-12",
         "addr:postcode": "IM1 1EJ",
         "addr:street": "Prospect Hill",
+        "contact:website": "https://www.chasewealth.im/",
         "name": "Chase Wealth Solutions",
         "office": "financial_advisor",
-        "website": "https://www.chasewealth.im",
         "osm_id": 10709045254,
         "lon": -4.48057,
         "lat": 54.149834,
@@ -2681,61 +2687,6 @@
         "lat": 54.15136604539363,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79141571"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 79141602,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481556,
-            54.15055
-          ],
-          [
-            -4.481497,
-            54.150546
-          ],
-          [
-            -4.481433,
-            54.150499
-          ],
-          [
-            -4.481647,
-            54.150415
-          ],
-          [
-            -4.481733,
-            54.150374
-          ],
-          [
-            -4.481776,
-            54.150402
-          ],
-          [
-            -4.481556,
-            54.15055
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Nivison House",
-        "addr:housenumber": "31",
-        "addr:postcode": "IM1 1QS",
-        "addr:street": "Prospect Hill",
-        "building": "yes",
-        "name": "The Jobcentre",
-        "office": "employment_agency",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.gov.im/dti/jobcentre",
-        "osm_id": 79141602,
-        "lon": -4.4816065915326435,
-        "lat": 54.15046485079813,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/79141602"
       }
     },
     {
@@ -6428,13 +6379,14 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "Victory House",
         "addr:postcode": "IM1 1EQ",
         "addr:street": "Prospect Hill",
         "name": "Rossborough Insurance",
         "office": "insurance",
         "phone": "+44 1624 631631",
-        "website": "https://www.rossborough.co.uk",
+        "website": "https://www.rossborough.co.uk/",
         "osm_id": 420023857,
         "lon": -4.480682934587989,
         "lat": 54.15031572600511,

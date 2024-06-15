@@ -20870,21 +20870,6 @@
     },
     {
       "type": "Feature",
-      "id": 10727513214,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.499515,
-          54.151645
-        ]
-      },
-      "properties": {
-        "name": "Peel Road Retail Park",
-        "place": "locality"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10728485983,
       "geometry": {
         "type": "Point",
@@ -37044,6 +37029,53 @@
       "properties": {
         "landuse": "industrial",
         "name": "White Hoe Industrial Estate",
+        "place": "estate",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1290499338,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.500415,
+            54.151961
+          ],
+          [
+            -4.499919,
+            54.151215
+          ],
+          [
+            -4.499775,
+            54.151051
+          ],
+          [
+            -4.498843,
+            54.151372
+          ],
+          [
+            -4.499194,
+            54.151782
+          ],
+          [
+            -4.499325,
+            54.151973
+          ],
+          [
+            -4.499525,
+            54.152174
+          ],
+          [
+            -4.500415,
+            54.151961
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "commercial",
+        "name": "Peel Road Retail Park",
         "place": "estate",
         "source": "Isle of Man Government aerial imagery (2001)"
       }

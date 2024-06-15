@@ -3009,6 +3009,7 @@
       },
       "properties": {
         "addr:city": "Port St Mary",
+        "addr:country": "IM",
         "addr:housename": "Beach House",
         "addr:postcode": "IM9 5AE",
         "addr:street": "Bay View Road",
@@ -6256,12 +6257,15 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "10-12",
         "addr:postcode": "IM1 1EJ",
         "addr:street": "Prospect Hill",
+        "contact:phone": "+44 1624 612611",
+        "contact:website": "https://financialoptions.co.im/",
         "name": "Financial Options",
         "office": "financial_advisor",
-        "website": "https://financialoptions.co.im",
+        "opening_hours": "Mo-Th 09:00-17:30, Fr 09:00-17:00, Sa 09:30-12:30",
         "osm_id": 10709045253,
         "lon": -4.48057,
         "lat": 54.149885,
@@ -6281,12 +6285,13 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "10-12",
         "addr:postcode": "IM1 1EJ",
         "addr:street": "Prospect Hill",
+        "contact:website": "https://www.chasewealth.im/",
         "name": "Chase Wealth Solutions",
         "office": "financial_advisor",
-        "website": "https://www.chasewealth.im",
         "osm_id": 10709045254,
         "lon": -4.48057,
         "lat": 54.149834,
@@ -13758,6 +13763,18 @@
         "type": "LineString",
         "coordinates": [
           [
+            -4.504876,
+            54.152502
+          ],
+          [
+            -4.50494,
+            54.152489
+          ],
+          [
+            -4.505213,
+            54.152874
+          ],
+          [
             -4.505351,
             54.153082
           ],
@@ -13786,48 +13803,64 @@
             54.152224
           ],
           [
-            -4.504321,
-            54.152067
+            -4.504292,
+            54.152074
           ],
           [
-            -4.504361,
-            54.15211
+            -4.504333,
+            54.152121
           ],
           [
-            -4.504415,
-            54.152142
+            -4.504396,
+            54.152158
           ],
           [
-            -4.504497,
-            54.152168
+            -4.504479,
+            54.152184
           ],
           [
-            -4.504564,
-            54.152192
+            -4.504547,
+            54.152205
           ],
           [
-            -4.504641,
-            54.152227
+            -4.504617,
+            54.152238
           ],
           [
-            -4.504714,
-            54.152282
+            -4.504644,
+            54.152264
+          ],
+          [
+            -4.504672,
+            54.152299
+          ],
+          [
+            -4.504686,
+            54.152337
+          ],
+          [
+            -4.504694,
+            54.152371
+          ],
+          [
+            -4.504692,
+            54.152402
+          ],
+          [
+            -4.504686,
+            54.152431
+          ],
+          [
+            -4.504736,
+            54.152501
+          ],
+          [
+            -4.504759,
+            54.152532
           ],
           [
             -4.504876,
             54.152502
-          ],
-          [
-            -4.50494,
-            54.152489
-          ],
-          [
-            -4.505213,
-            54.152874
-          ],
-          [
-            -4.505351,
-            54.153082
           ]
         ]
       },
@@ -13843,8 +13876,8 @@
         "wikidata": "Q6978644",
         "wikipedia": "en:National Sports Centre (Isle of Man)",
         "osm_id": 59287712,
-        "lon": -4.504560666946978,
-        "lat": 54.152733361251016,
+        "lon": -4.504560098077696,
+        "lat": 54.15273546891823,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59287712"
       }
@@ -14522,24 +14555,24 @@
             54.151669
           ],
           [
-            -4.482812,
-            54.151672
+            -4.482822,
+            54.151659
           ],
           [
             -4.482795,
-            54.151694
+            54.151684
           ],
           [
-            -4.482736,
-            54.151694
+            -4.482735,
+            54.151683
           ],
           [
-            -4.482726,
-            54.151704
+            -4.482733,
+            54.151692
           ],
           [
-            -4.482064,
-            54.151694
+            -4.482051,
+            54.151682
           ],
           [
             -4.482522,
@@ -14560,8 +14593,8 @@
         "source": "Isle of Man Government aerial imagery (2001);local knowledge",
         "website": "https://www.courts.im",
         "osm_id": 59384905,
-        "lon": -4.482546094882705,
-        "lat": 54.15155396754529,
+        "lon": -4.482541616858909,
+        "lat": 54.15154909849421,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59384905"
       }
@@ -24401,57 +24434,44 @@
     },
     {
       "type": "Feature",
-      "id": 61561703,
+      "id": 61561701,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.487664,
-            54.151713
+            -4.484886,
+            54.151701
           ],
           [
-            -4.487451,
-            54.151604
+            -4.485401,
+            54.152078
           ],
           [
-            -4.487707,
-            54.151433
+            -4.484806,
+            54.152361
           ],
           [
-            -4.48789,
-            54.151311
+            -4.484296,
+            54.151984
           ],
           [
-            -4.487907,
-            54.15132
-          ],
-          [
-            -4.488048,
-            54.151392
-          ],
-          [
-            -4.488102,
-            54.15142
-          ],
-          [
-            -4.487664,
-            54.151713
+            -4.484886,
+            54.151701
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housename": "Diamond House",
-        "addr:postcode": "IM1 4AQ",
-        "addr:street": "Westmoreland Road",
-        "building": "commercial",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 61561703,
-        "lon": -4.487776555001307,
-        "lat": 54.151512037219,
+        "addr:postcode": "IM1 1BE",
+        "addr:street": "Tynwald Street",
+        "old_name": "Fairfield Junior School",
+        "was:amenity": "school",
+        "osm_id": 61561701,
+        "lon": -4.484848158586612,
+        "lat": 54.15203110850322,
         "osm_type": "way",
-        "osm_url": "https://osm.org/way/61561703"
+        "osm_url": "https://osm.org/way/61561701"
       }
     },
     {
@@ -24505,6 +24525,10 @@
             54.151882
           ],
           [
+            -4.483857,
+            54.151875
+          ],
+          [
             -4.483805,
             54.151831
           ],
@@ -24529,8 +24553,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://homeco.im",
         "osm_id": 61561709,
-        "lon": -4.483787401954639,
-        "lat": 54.151950534482495,
+        "lon": -4.4837874048465505,
+        "lat": 54.15195053108607,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/61561709"
       }
@@ -24866,11 +24890,11 @@
             54.14936
           ],
           [
-            -4.481382,
-            54.149337
+            -4.481383,
+            54.149339
           ],
           [
-            -4.481284,
+            -4.481283,
             54.149231
           ],
           [
@@ -24901,8 +24925,8 @@
         "url:registered_building": "https://www.gov.im/media/632291/0500167regbldformerdouglascourth.pdf",
         "wikidata": "Q118188668",
         "osm_id": 61580810,
-        "lon": -4.481560111650098,
-        "lat": 54.149321062794336,
+        "lon": -4.481559693380191,
+        "lat": 54.14932099235434,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/61580810"
       }
@@ -24989,7 +25013,7 @@
         "addr:housename": "Victory House",
         "addr:postcode": "IM1 1EQ",
         "addr:street": "Prospect Hill",
-        "building": "yes",
+        "building": "office",
         "building:colour": "grey",
         "building:levels": "5",
         "building:material": "concrete",
@@ -25081,6 +25105,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "Hillary House",
         "addr:postcode": "IM1 1EQ",
         "addr:street": "Prospect Hill",
@@ -31410,6 +31435,62 @@
     },
     {
       "type": "Feature",
+      "id": 79141593,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481348,
+            54.150428
+          ],
+          [
+            -4.481646,
+            54.150307
+          ],
+          [
+            -4.481733,
+            54.150374
+          ],
+          [
+            -4.481777,
+            54.150413
+          ],
+          [
+            -4.481521,
+            54.150546
+          ],
+          [
+            -4.481491,
+            54.150546
+          ],
+          [
+            -4.481433,
+            54.150499
+          ],
+          [
+            -4.481348,
+            54.150428
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Nivison House",
+        "addr:housenumber": "31",
+        "addr:postcode": "IM1 1QS",
+        "addr:street": "Prospect Hill",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 79141593,
+        "lon": -4.481563409924824,
+        "lat": 54.15042627806065,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79141593"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141596,
       "geometry": {
         "type": "LineString",
@@ -31516,6 +31597,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "2",
         "addr:postcode": "IM1 1JA",
@@ -31538,106 +31620,105 @@
     },
     {
       "type": "Feature",
+      "id": 79141600,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481492,
+            54.150246
+          ],
+          [
+            -4.48125,
+            54.150345
+          ],
+          [
+            -4.481128,
+            54.150237
+          ],
+          [
+            -4.481258,
+            54.150185
+          ],
+          [
+            -4.481278,
+            54.150201
+          ],
+          [
+            -4.481388,
+            54.150155
+          ],
+          [
+            -4.481492,
+            54.150246
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "23-25",
+        "addr:postcode": "IM1 1ET",
+        "addr:street": "Prospect Hill",
+        "amenity": "pub",
+        "building": "yes",
+        "layer": "3",
+        "name": "The Prospect Hotel",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://pubsandbars.im/venue/the-prospect/",
+        "osm_id": 79141600,
+        "lon": -4.48130939128612,
+        "lat": 54.15024555316093,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79141600"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141601,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.481535,
-            54.150207
+            -4.481548,
+            54.150224
           ],
           [
-            -4.481647,
-            54.150308
+            -4.481646,
+            54.150307
           ],
           [
-            -4.481347,
-            54.150427
+            -4.481348,
+            54.150428
           ],
           [
-            -4.481239,
-            54.15033
+            -4.48125,
+            54.150345
           ],
           [
-            -4.481479,
-            54.15023
+            -4.481492,
+            54.150246
           ],
           [
-            -4.481535,
-            54.150207
+            -4.481548,
+            54.150224
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Prospect House",
+        "addr:housenumber": "27-29",
         "addr:postcode": "IM1 1ET",
         "addr:street": "Prospect Hill",
-        "amenity": "pub",
         "building": "yes",
-        "name": "The Prospect Hotel",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://pubsandbars.im/venue/the-prospect/",
         "osm_id": 79141601,
-        "lon": -4.4814430087181165,
-        "lat": 54.15031771275286,
+        "lon": -4.481447954258973,
+        "lat": 54.150325886347616,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79141601"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 79141602,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481556,
-            54.15055
-          ],
-          [
-            -4.481497,
-            54.150546
-          ],
-          [
-            -4.481433,
-            54.150499
-          ],
-          [
-            -4.481647,
-            54.150415
-          ],
-          [
-            -4.481733,
-            54.150374
-          ],
-          [
-            -4.481776,
-            54.150402
-          ],
-          [
-            -4.481556,
-            54.15055
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Nivison House",
-        "addr:housenumber": "31",
-        "addr:postcode": "IM1 1QS",
-        "addr:street": "Prospect Hill",
-        "building": "yes",
-        "name": "The Jobcentre",
-        "office": "employment_agency",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.gov.im/dti/jobcentre",
-        "osm_id": 79141602,
-        "lon": -4.4816065915326435,
-        "lat": 54.15046485079813,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/79141602"
       }
     },
     {
@@ -36794,175 +36875,6 @@
     },
     {
       "type": "Feature",
-      "id": 82651994,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657506,
-            54.077204
-          ],
-          [
-            -4.657406,
-            54.077169
-          ],
-          [
-            -4.657382,
-            54.077193
-          ],
-          [
-            -4.657317,
-            54.077171
-          ],
-          [
-            -4.657342,
-            54.077147
-          ],
-          [
-            -4.657324,
-            54.07714
-          ],
-          [
-            -4.657362,
-            54.077103
-          ],
-          [
-            -4.657431,
-            54.077126
-          ],
-          [
-            -4.65746,
-            54.077098
-          ],
-          [
-            -4.657511,
-            54.077115
-          ],
-          [
-            -4.657482,
-            54.077144
-          ],
-          [
-            -4.657544,
-            54.077166
-          ],
-          [
-            -4.657506,
-            54.077204
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "32",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 82651994,
-        "lon": -4.657430782499549,
-        "lat": 54.07715109936272,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82651994"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82652006,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658249,
-            54.077806
-          ],
-          [
-            -4.65831,
-            54.077725
-          ],
-          [
-            -4.65842,
-            54.077753
-          ],
-          [
-            -4.658359,
-            54.077834
-          ],
-          [
-            -4.658249,
-            54.077806
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "19",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 82652006,
-        "lon": -4.6583345,
-        "lat": 54.07777949999999,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82652006"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82652016,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659348,
-            54.077862
-          ],
-          [
-            -4.659275,
-            54.0778
-          ],
-          [
-            -4.659348,
-            54.07777
-          ],
-          [
-            -4.659319,
-            54.077746
-          ],
-          [
-            -4.659364,
-            54.077728
-          ],
-          [
-            -4.659466,
-            54.077815
-          ],
-          [
-            -4.659348,
-            54.077862
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "42",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 82652016,
-        "lon": -4.659365702591705,
-        "lat": 54.07779658948385,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82652016"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82652019,
       "geometry": {
         "type": "LineString",
@@ -37332,7 +37244,8 @@
         "addr:street": "Tynwald Street",
         "building": "yes",
         "charity": "yes",
-        "name": "Crossroads Charity Shop & Community Space",
+        "description": "Charity shop and community space",
+        "name": "Crossroads, Putting carers first",
         "opening_hours": "Mo-Sa 10:00-17:00",
         "operator": "Crossroads",
         "ref:charity": "383",
@@ -37353,42 +37266,39 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484354,
-            54.151793
+            -4.484347,
+            54.151789
           ],
           [
-            -4.484276,
-            54.151827
+            -4.484274,
+            54.151825
           ],
           [
-            -4.484174,
+            -4.484173,
             54.151754
           ],
           [
-            -4.484252,
-            54.151722
+            -4.484246,
+            54.151718
           ],
           [
-            -4.484354,
-            54.151793
+            -4.484347,
+            54.151789
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Tynwald Apartments",
         "addr:housenumber": "5",
         "addr:postcode": "IM1 1BF",
         "addr:street": "Tynwald Street",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/Thebedandflooringhouseiom/",
-        "name": "Bed & Flooring House",
-        "shop": "bed",
         "source": "mapillary",
-        "website": "https://thebedandflooringhouseiom.business.site",
         "osm_id": 82674240,
-        "lon": -4.484263987498645,
-        "lat": 54.15177411234037,
+        "lon": -4.48426,
+        "lat": 54.1517715,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82674240"
       }
@@ -37787,8 +37697,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.487707,
-            54.151433
+            -4.487708,
+            54.151434
           ],
           [
             -4.487526,
@@ -37807,12 +37717,20 @@
             54.151301
           ],
           [
-            -4.48789,
+            -4.487889,
             54.151311
           ],
           [
-            -4.487707,
-            54.151433
+            -4.487861,
+            54.151331
+          ],
+          [
+            -4.487729,
+            54.15142
+          ],
+          [
+            -4.487708,
+            54.151434
           ]
         ]
       },
@@ -37826,8 +37744,8 @@
         "shop": "car_repair",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 82674370,
-        "lon": -4.487713055483233,
-        "lat": 54.15133144907243,
+        "lon": -4.487713142431901,
+        "lat": 54.15133180527629,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82674370"
       }
@@ -52510,6 +52428,7 @@
         ]
       },
       "properties": {
+        "addr:country": "IM",
         "addr:housename": "Habour Cottage",
         "addr:postcode": "IM9 5DX",
         "addr:street": "Shore Road/The Underway",
@@ -52564,19 +52483,16 @@
         ]
       },
       "properties": {
-        "addr:alt_housename": "Helmshore House",
         "addr:city": "Port Saint Mary",
         "addr:country": "IM",
-        "addr:housename": "Manchester House",
+        "addr:housename": "Helmshore House",
         "addr:postcode": "IM9 5AG",
         "addr:street": "Bay View Road",
         "amenity": "pharmacy",
         "building": "yes",
-        "fixme": "check building name on the ground",
+        "contact:website": "https://www.clearpharmacy.im/",
         "healthcare": "pharmacy",
         "name": "Clear Pharmacy",
-        "source:addr:alt_housename": "website",
-        "website": "https://www.clearpharmacy.im/",
         "osm_id": 101812236,
         "lon": -4.739142405711958,
         "lat": 54.077008365840356,
@@ -52622,6 +52538,7 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Marina House",
         "addr:postcode": "IM9 5AQ",
         "addr:street": "Bay View Road",
@@ -53009,6 +52926,7 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Seamount",
         "addr:postcode": "IM9 5AG",
         "addr:street": "Bay View Road",
@@ -81764,92 +81682,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668841,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65662,
-            54.077972
-          ],
-          [
-            -4.656623,
-            54.078024
-          ],
-          [
-            -4.656493,
-            54.078026
-          ],
-          [
-            -4.65649,
-            54.077975
-          ],
-          [
-            -4.65662,
-            54.077972
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668841,
-        "lon": -4.656556678570342,
-        "lat": 54.07799924520136,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668841"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668845,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656993,
-            54.077711
-          ],
-          [
-            -4.656996,
-            54.077763
-          ],
-          [
-            -4.656866,
-            54.077765
-          ],
-          [
-            -4.656863,
-            54.077714
-          ],
-          [
-            -4.656993,
-            54.077711
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "10",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668845,
-        "lon": -4.656929678570344,
-        "lat": 54.07773824520137,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668845"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668848,
       "geometry": {
         "type": "LineString",
@@ -81889,573 +81721,6 @@
         "lat": 54.07793399999999,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668848"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668849,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656605,
-            54.077714
-          ],
-          [
-            -4.656608,
-            54.077766
-          ],
-          [
-            -4.656478,
-            54.077769
-          ],
-          [
-            -4.656475,
-            54.077717
-          ],
-          [
-            -4.656605,
-            54.077714
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "11",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668849,
-        "lon": -4.656541499999999,
-        "lat": 54.0777415,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668849"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668852,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658284,
-            54.077945
-          ],
-          [
-            -4.658227,
-            54.078022
-          ],
-          [
-            -4.658111,
-            54.077992
-          ],
-          [
-            -4.658168,
-            54.077915
-          ],
-          [
-            -4.658284,
-            54.077945
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "11A",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668852,
-        "lon": -4.658197499999998,
-        "lat": 54.0779685,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668852"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668856,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65699,
-            54.077659
-          ],
-          [
-            -4.656993,
-            54.077711
-          ],
-          [
-            -4.656863,
-            54.077714
-          ],
-          [
-            -4.65686,
-            54.077662
-          ],
-          [
-            -4.65699,
-            54.077659
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "12",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668856,
-        "lon": -4.656926500000001,
-        "lat": 54.077686500000006,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668856"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668859,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656602,
-            54.077663
-          ],
-          [
-            -4.656605,
-            54.077714
-          ],
-          [
-            -4.656475,
-            54.077717
-          ],
-          [
-            -4.656472,
-            54.077666
-          ],
-          [
-            -4.656602,
-            54.077663
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "13",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668859,
-        "lon": -4.656538499999999,
-        "lat": 54.077690000000004,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668859"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668862,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657286,
-            54.077506
-          ],
-          [
-            -4.657217,
-            54.077543
-          ],
-          [
-            -4.657141,
-            54.077495
-          ],
-          [
-            -4.65721,
-            54.077458
-          ],
-          [
-            -4.657286,
-            54.077506
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "14",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668862,
-        "lon": -4.6572135,
-        "lat": 54.0775005,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668862"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668864,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658168,
-            54.077915
-          ],
-          [
-            -4.658209,
-            54.077861
-          ],
-          [
-            -4.658345,
-            54.077895
-          ],
-          [
-            -4.658304,
-            54.07795
-          ],
-          [
-            -4.658284,
-            54.077945
-          ],
-          [
-            -4.658168,
-            54.077915
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "15",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668864,
-        "lon": -4.6582566122789295,
-        "lat": 54.077905322400525,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668864"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668867,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656599,
-            54.077611
-          ],
-          [
-            -4.656602,
-            54.077663
-          ],
-          [
-            -4.656472,
-            54.077666
-          ],
-          [
-            -4.656469,
-            54.077614
-          ],
-          [
-            -4.656599,
-            54.077611
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "15",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668867,
-        "lon": -4.656535500000001,
-        "lat": 54.0776385,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668867"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668869,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657355,
-            54.077469
-          ],
-          [
-            -4.657286,
-            54.077506
-          ],
-          [
-            -4.65721,
-            54.077458
-          ],
-          [
-            -4.657279,
-            54.077421
-          ],
-          [
-            -4.657355,
-            54.077469
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "16",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668869,
-        "lon": -4.6572825,
-        "lat": 54.0774635,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668869"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668871,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658209,
-            54.077861
-          ],
-          [
-            -4.658249,
-            54.077806
-          ],
-          [
-            -4.658359,
-            54.077834
-          ],
-          [
-            -4.658386,
-            54.077841
-          ],
-          [
-            -4.658345,
-            54.077895
-          ],
-          [
-            -4.658209,
-            54.077861
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "17",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668871,
-        "lon": -4.6582972793955655,
-        "lat": 54.07785064592868,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668871"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668873,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656665,
-            54.077512
-          ],
-          [
-            -4.656598,
-            54.077547
-          ],
-          [
-            -4.656517,
-            54.077495
-          ],
-          [
-            -4.656584,
-            54.07746
-          ],
-          [
-            -4.656665,
-            54.077512
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "17",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668873,
-        "lon": -4.656591000000001,
-        "lat": 54.07750350000001,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668873"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668876,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657424,
-            54.077432
-          ],
-          [
-            -4.657355,
-            54.077469
-          ],
-          [
-            -4.657279,
-            54.077421
-          ],
-          [
-            -4.657348,
-            54.077383
-          ],
-          [
-            -4.657424,
-            54.077432
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668876,
-        "lon": -4.657351501226817,
-        "lat": 54.07742618578194,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668876"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668879,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656732,
-            54.077477
-          ],
-          [
-            -4.656665,
-            54.077512
-          ],
-          [
-            -4.656584,
-            54.07746
-          ],
-          [
-            -4.656651,
-            54.077425
-          ],
-          [
-            -4.656732,
-            54.077477
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "19",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668879,
-        "lon": -4.656658,
-        "lat": 54.0774685,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668879"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668882,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657005,
-            54.077918
-          ],
-          [
-            -4.657008,
-            54.077969
-          ],
-          [
-            -4.656878,
-            54.077972
-          ],
-          [
-            -4.656875,
-            54.07792
-          ],
-          [
-            -4.657005,
-            54.077918
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668882,
-        "lon": -4.656941321429657,
-        "lat": 54.07794475479863,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668882"
       }
     },
     {
@@ -82503,186 +81768,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668884,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657579,
-            54.077463
-          ],
-          [
-            -4.657675,
-            54.077497
-          ],
-          [
-            -4.657618,
-            54.077553
-          ],
-          [
-            -4.657522,
-            54.07752
-          ],
-          [
-            -4.657579,
-            54.077463
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "20",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668884,
-        "lon": -4.657598432940779,
-        "lat": 54.077508192014996,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668884"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668885,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658878,
-            54.077961
-          ],
-          [
-            -4.658859,
-            54.077987
-          ],
-          [
-            -4.658805,
-            54.077974
-          ],
-          [
-            -4.658782,
-            54.078005
-          ],
-          [
-            -4.658671,
-            54.077977
-          ],
-          [
-            -4.658713,
-            54.07792
-          ],
-          [
-            -4.658878,
-            54.077961
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "21",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668885,
-        "lon": -4.658772814964514,
-        "lat": 54.07796445847381,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668885"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668886,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656799,
-            54.077441
-          ],
-          [
-            -4.656732,
-            54.077477
-          ],
-          [
-            -4.656651,
-            54.077425
-          ],
-          [
-            -4.656718,
-            54.07739
-          ],
-          [
-            -4.656799,
-            54.077441
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "21",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668886,
-        "lon": -4.6567250028738965,
-        "lat": 54.07743331279889,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668886"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668887,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65868,
-            54.077894
-          ],
-          [
-            -4.658806,
-            54.077926
-          ],
-          [
-            -4.658857,
-            54.077856
-          ],
-          [
-            -4.658731,
-            54.077824
-          ],
-          [
-            -4.65868,
-            54.077894
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "21A-B",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668887,
-        "lon": -4.658768500000001,
-        "lat": 54.077875000000006,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668887"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668888,
       "geometry": {
         "type": "LineString",
@@ -82722,143 +81807,6 @@
         "lat": 54.07824421469832,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668888"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668889,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657675,
-            54.077497
-          ],
-          [
-            -4.657771,
-            54.07753
-          ],
-          [
-            -4.657714,
-            54.077586
-          ],
-          [
-            -4.657618,
-            54.077553
-          ],
-          [
-            -4.657675,
-            54.077497
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "22",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668889,
-        "lon": -4.657694500000001,
-        "lat": 54.0775415,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668889"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668890,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658782,
-            54.078005
-          ],
-          [
-            -4.658762,
-            54.078033
-          ],
-          [
-            -4.658812,
-            54.078046
-          ],
-          [
-            -4.658792,
-            54.078073
-          ],
-          [
-            -4.65863,
-            54.078032
-          ],
-          [
-            -4.658671,
-            54.077977
-          ],
-          [
-            -4.658782,
-            54.078005
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "23",
-        "addr:postcode": "IM9 1HS",
-        "addr:street": "School Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668890,
-        "lon": -4.658725274625957,
-        "lat": 54.07802712576363,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668890"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668891,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656866,
-            54.077406
-          ],
-          [
-            -4.656799,
-            54.077441
-          ],
-          [
-            -4.656718,
-            54.07739
-          ],
-          [
-            -4.656785,
-            54.077356
-          ],
-          [
-            -4.656866,
-            54.077406
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "23",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668891,
-        "lon": -4.656792002392202,
-        "lat": 54.07739831054862,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668891"
       }
     },
     {
@@ -82949,49 +81897,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668894,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657771,
-            54.07753
-          ],
-          [
-            -4.657868,
-            54.077563
-          ],
-          [
-            -4.657811,
-            54.07762
-          ],
-          [
-            -4.657714,
-            54.077586
-          ],
-          [
-            -4.657771,
-            54.07753
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "24",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668894,
-        "lon": -4.657791067911489,
-        "lat": 54.077574807451235,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668894"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668895,
       "geometry": {
         "type": "LineString",
@@ -83030,49 +81935,6 @@
         "lat": 54.07245244169857,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668895"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668896,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656933,
-            54.077371
-          ],
-          [
-            -4.656866,
-            54.077406
-          ],
-          [
-            -4.656785,
-            54.077356
-          ],
-          [
-            -4.656852,
-            54.077321
-          ],
-          [
-            -4.656933,
-            54.077371
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "25",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668896,
-        "lon": -4.656859000000001,
-        "lat": 54.0773635,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668896"
       }
     },
     {
@@ -83120,92 +81982,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668898,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657868,
-            54.077563
-          ],
-          [
-            -4.657964,
-            54.077596
-          ],
-          [
-            -4.657907,
-            54.077653
-          ],
-          [
-            -4.657811,
-            54.07762
-          ],
-          [
-            -4.657868,
-            54.077563
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "26",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668898,
-        "lon": -4.657887499999999,
-        "lat": 54.07760799999999,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668898"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668899,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657,
-            54.077336
-          ],
-          [
-            -4.656933,
-            54.077371
-          ],
-          [
-            -4.656852,
-            54.077321
-          ],
-          [
-            -4.656919,
-            54.077286
-          ],
-          [
-            -4.657,
-            54.077336
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "27",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668899,
-        "lon": -4.656926,
-        "lat": 54.0773285,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668899"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668900,
       "geometry": {
         "type": "LineString",
@@ -83245,92 +82021,6 @@
         "lat": 54.07829291971376,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668900"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668901,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657964,
-            54.077596
-          ],
-          [
-            -4.65806,
-            54.07763
-          ],
-          [
-            -4.658003,
-            54.077686
-          ],
-          [
-            -4.657907,
-            54.077653
-          ],
-          [
-            -4.657964,
-            54.077596
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "28",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668901,
-        "lon": -4.657983432940779,
-        "lat": 54.077641192015,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668901"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668902,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657141,
-            54.077109
-          ],
-          [
-            -4.657013,
-            54.077067
-          ],
-          [
-            -4.657065,
-            54.077013
-          ],
-          [
-            -4.657193,
-            54.077055
-          ],
-          [
-            -4.657141,
-            54.077109
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "29",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668902,
-        "lon": -4.657102999999999,
-        "lat": 54.07706099999999,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668902"
       }
     },
     {
@@ -83378,899 +82068,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668904,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656617,
-            54.077921
-          ],
-          [
-            -4.65662,
-            54.077972
-          ],
-          [
-            -4.65649,
-            54.077975
-          ],
-          [
-            -4.656487,
-            54.077923
-          ],
-          [
-            -4.656617,
-            54.077921
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668904,
-        "lon": -4.656553321429655,
-        "lat": 54.07794775479862,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668904"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668905,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65806,
-            54.07763
-          ],
-          [
-            -4.658156,
-            54.077663
-          ],
-          [
-            -4.658099,
-            54.07772
-          ],
-          [
-            -4.658003,
-            54.077686
-          ],
-          [
-            -4.65806,
-            54.07763
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "30",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668905,
-        "lon": -4.658079567059222,
-        "lat": 54.07767480798501,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668905"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668906,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657268,
-            54.077151
-          ],
-          [
-            -4.657141,
-            54.077109
-          ],
-          [
-            -4.657193,
-            54.077055
-          ],
-          [
-            -4.65732,
-            54.077097
-          ],
-          [
-            -4.657268,
-            54.077151
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "31",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668906,
-        "lon": -4.6572305,
-        "lat": 54.07710299999999,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668906"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668907,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657684,
-            54.077266
-          ],
-          [
-            -4.65758,
-            54.07723
-          ],
-          [
-            -4.657556,
-            54.077254
-          ],
-          [
-            -4.657491,
-            54.077232
-          ],
-          [
-            -4.657516,
-            54.077207
-          ],
-          [
-            -4.657506,
-            54.077204
-          ],
-          [
-            -4.657544,
-            54.077166
-          ],
-          [
-            -4.657608,
-            54.077188
-          ],
-          [
-            -4.657637,
-            54.077159
-          ],
-          [
-            -4.657686,
-            54.077176
-          ],
-          [
-            -4.657657,
-            54.077205
-          ],
-          [
-            -4.657722,
-            54.077228
-          ],
-          [
-            -4.657684,
-            54.077266
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "33",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668907,
-        "lon": -4.6576093357972645,
-        "lat": 54.07721342612305,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668907"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668908,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65786,
-            54.077327
-          ],
-          [
-            -4.657756,
-            54.077291
-          ],
-          [
-            -4.657731,
-            54.077315
-          ],
-          [
-            -4.657667,
-            54.077293
-          ],
-          [
-            -4.657692,
-            54.077268
-          ],
-          [
-            -4.657684,
-            54.077266
-          ],
-          [
-            -4.657722,
-            54.077228
-          ],
-          [
-            -4.657785,
-            54.07725
-          ],
-          [
-            -4.657814,
-            54.077221
-          ],
-          [
-            -4.65787,
-            54.07724
-          ],
-          [
-            -4.657841,
-            54.077269
-          ],
-          [
-            -4.657901,
-            54.07729
-          ],
-          [
-            -4.65786,
-            54.077327
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "34",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668908,
-        "lon": -4.657787878946773,
-        "lat": 54.077274905963094,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668908"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668909,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658037,
-            54.077389
-          ],
-          [
-            -4.657925,
-            54.077349
-          ],
-          [
-            -4.6579,
-            54.077374
-          ],
-          [
-            -4.657842,
-            54.077354
-          ],
-          [
-            -4.657866,
-            54.077329
-          ],
-          [
-            -4.65786,
-            54.077327
-          ],
-          [
-            -4.657901,
-            54.07729
-          ],
-          [
-            -4.657961,
-            54.077311
-          ],
-          [
-            -4.657991,
-            54.077282
-          ],
-          [
-            -4.658039,
-            54.077299
-          ],
-          [
-            -4.65801,
-            54.077328
-          ],
-          [
-            -4.658051,
-            54.077342
-          ],
-          [
-            -4.658069,
-            54.077325
-          ],
-          [
-            -4.658093,
-            54.077333
-          ],
-          [
-            -4.658075,
-            54.077351
-          ],
-          [
-            -4.658037,
-            54.077389
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "35",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668909,
-        "lon": -4.65797152698721,
-        "lat": 54.07733558682246,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668909"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668910,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658233,
-            54.077457
-          ],
-          [
-            -4.658218,
-            54.077452
-          ],
-          [
-            -4.658193,
-            54.077476
-          ],
-          [
-            -4.658122,
-            54.077451
-          ],
-          [
-            -4.658146,
-            54.077427
-          ],
-          [
-            -4.658037,
-            54.077389
-          ],
-          [
-            -4.658075,
-            54.077351
-          ],
-          [
-            -4.658158,
-            54.07738
-          ],
-          [
-            -4.658187,
-            54.077351
-          ],
-          [
-            -4.658232,
-            54.077366
-          ],
-          [
-            -4.658203,
-            54.077395
-          ],
-          [
-            -4.658271,
-            54.077419
-          ],
-          [
-            -4.658233,
-            54.077457
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "36",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668910,
-        "lon": -4.6581599056145535,
-        "lat": 54.07740569115138,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668910"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668911,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658409,
-            54.077518
-          ],
-          [
-            -4.658391,
-            54.077512
-          ],
-          [
-            -4.658366,
-            54.077536
-          ],
-          [
-            -4.658301,
-            54.077513
-          ],
-          [
-            -4.658326,
-            54.077489
-          ],
-          [
-            -4.658233,
-            54.077457
-          ],
-          [
-            -4.658271,
-            54.077419
-          ],
-          [
-            -4.658339,
-            54.077443
-          ],
-          [
-            -4.658368,
-            54.077414
-          ],
-          [
-            -4.658408,
-            54.077428
-          ],
-          [
-            -4.658379,
-            54.077456
-          ],
-          [
-            -4.658448,
-            54.07748
-          ],
-          [
-            -4.658409,
-            54.077518
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "37",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668911,
-        "lon": -4.65834448256003,
-        "lat": 54.07746975656382,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668911"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668912,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658585,
-            54.077579
-          ],
-          [
-            -4.658564,
-            54.077572
-          ],
-          [
-            -4.658539,
-            54.077596
-          ],
-          [
-            -4.658477,
-            54.077575
-          ],
-          [
-            -4.658501,
-            54.07755
-          ],
-          [
-            -4.658409,
-            54.077518
-          ],
-          [
-            -4.658448,
-            54.07748
-          ],
-          [
-            -4.658514,
-            54.077503
-          ],
-          [
-            -4.658543,
-            54.077475
-          ],
-          [
-            -4.658586,
-            54.077489
-          ],
-          [
-            -4.658557,
-            54.077518
-          ],
-          [
-            -4.658623,
-            54.077542
-          ],
-          [
-            -4.658585,
-            54.077579
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "38",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668912,
-        "lon": -4.658520376989212,
-        "lat": 54.07753056658056,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668912"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668913,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658623,
-            54.077542
-          ],
-          [
-            -4.658686,
-            54.077563
-          ],
-          [
-            -4.658715,
-            54.077535
-          ],
-          [
-            -4.658753,
-            54.077548
-          ],
-          [
-            -4.658724,
-            54.077577
-          ],
-          [
-            -4.658788,
-            54.077599
-          ],
-          [
-            -4.658732,
-            54.077654
-          ],
-          [
-            -4.658717,
-            54.077649
-          ],
-          [
-            -4.65871,
-            54.077656
-          ],
-          [
-            -4.658649,
-            54.077635
-          ],
-          [
-            -4.658674,
-            54.07761
-          ],
-          [
-            -4.658585,
-            54.077579
-          ],
-          [
-            -4.658623,
-            54.077542
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "39",
-        "addr:postcode": "IM9 1HX",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668913,
-        "lon": -4.65869101024241,
-        "lat": 54.077591138542694,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668913"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668914,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.657002,
-            54.077866
-          ],
-          [
-            -4.657005,
-            54.077918
-          ],
-          [
-            -4.656875,
-            54.07792
-          ],
-          [
-            -4.656872,
-            54.077869
-          ],
-          [
-            -4.657002,
-            54.077866
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "4",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668914,
-        "lon": -4.656938678570343,
-        "lat": 54.07789324520136,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668914"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668915,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.658894,
-            54.077638
-          ],
-          [
-            -4.659016,
-            54.077681
-          ],
-          [
-            -4.658957,
-            54.07774
-          ],
-          [
-            -4.658835,
-            54.077698
-          ],
-          [
-            -4.658894,
-            54.077638
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "40",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668915,
-        "lon": -4.658925421097434,
-        "lat": 54.07768919160166,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668915"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668916,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659016,
-            54.077681
-          ],
-          [
-            -4.659138,
-            54.077723
-          ],
-          [
-            -4.659079,
-            54.077783
-          ],
-          [
-            -4.658957,
-            54.07774
-          ],
-          [
-            -4.659016,
-            54.077681
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "41",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668916,
-        "lon": -4.659047578902567,
-        "lat": 54.07773180839835,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668916"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668917,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659466,
-            54.077815
-          ],
-          [
-            -4.659568,
-            54.077902
-          ],
-          [
-            -4.659527,
-            54.077918
-          ],
-          [
-            -4.659498,
-            54.077893
-          ],
-          [
-            -4.659421,
-            54.077924
-          ],
-          [
-            -4.659348,
-            54.077862
-          ],
-          [
-            -4.659466,
-            54.077815
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "43",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668917,
-        "lon": -4.659459039261196,
-        "lat": 54.0778756985166,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668917"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668918,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659211,
-            54.07803
-          ],
-          [
-            -4.65919,
-            54.078024
-          ],
-          [
-            -4.659243,
-            54.077965
-          ],
-          [
-            -4.659371,
-            54.078005
-          ],
-          [
-            -4.659318,
-            54.078063
-          ],
-          [
-            -4.659211,
-            54.07803
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "44",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668918,
-        "lon": -4.659280423768151,
-        "lat": 54.07801413823091,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668918"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668919,
       "geometry": {
         "type": "LineString",
@@ -84309,182 +82106,6 @@
         "lat": 54.07224749999999,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668919"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668920,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659318,
-            54.078063
-          ],
-          [
-            -4.659275,
-            54.07811
-          ],
-          [
-            -4.659169,
-            54.078077
-          ],
-          [
-            -4.659211,
-            54.07803
-          ],
-          [
-            -4.659318,
-            54.078063
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "45",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668920,
-        "lon": -4.6592434101610944,
-        "lat": 54.07806996745846,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668920"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668921,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659275,
-            54.07811
-          ],
-          [
-            -4.659232,
-            54.078157
-          ],
-          [
-            -4.659126,
-            54.078124
-          ],
-          [
-            -4.659169,
-            54.078077
-          ],
-          [
-            -4.659275,
-            54.07811
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "46",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668921,
-        "lon": -4.659200499999999,
-        "lat": 54.078117000000006,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668921"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668922,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.659232,
-            54.078157
-          ],
-          [
-            -4.65919,
-            54.078204
-          ],
-          [
-            -4.659084,
-            54.07817
-          ],
-          [
-            -4.659126,
-            54.078124
-          ],
-          [
-            -4.659232,
-            54.078157
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "47",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668922,
-        "lon": -4.659158094928305,
-        "lat": 54.078163805906215,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668922"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668923,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65919,
-            54.078204
-          ],
-          [
-            -4.659143,
-            54.078255
-          ],
-          [
-            -4.659023,
-            54.078217
-          ],
-          [
-            -4.65907,
-            54.078166
-          ],
-          [
-            -4.659084,
-            54.07817
-          ],
-          [
-            -4.65919,
-            54.078204
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "48",
-        "addr:postcode": "IM9 1HY",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668923,
-        "lon": -4.659106519719367,
-        "lat": 54.07821043583469,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668923"
       }
     },
     {
@@ -84571,49 +82192,6 @@
         "lat": 54.077883361173235,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668925"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668926,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656614,
-            54.077869
-          ],
-          [
-            -4.656617,
-            54.077921
-          ],
-          [
-            -4.656487,
-            54.077923
-          ],
-          [
-            -4.656484,
-            54.077872
-          ],
-          [
-            -4.656614,
-            54.077869
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "5",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668926,
-        "lon": -4.656550678570345,
-        "lat": 54.077896245201366,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668926"
       }
     },
     {
@@ -85005,49 +82583,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668936,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656999,
-            54.077814
-          ],
-          [
-            -4.657002,
-            54.077866
-          ],
-          [
-            -4.656872,
-            54.077869
-          ],
-          [
-            -4.656869,
-            54.077817
-          ],
-          [
-            -4.656999,
-            54.077814
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "6",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668936,
-        "lon": -4.656935500000001,
-        "lat": 54.0778415,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668936"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668937,
       "geometry": {
         "type": "LineString",
@@ -85134,92 +82669,6 @@
     },
     {
       "type": "Feature",
-      "id": 218668939,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656611,
-            54.077818
-          ],
-          [
-            -4.656614,
-            54.077869
-          ],
-          [
-            -4.656484,
-            54.077872
-          ],
-          [
-            -4.656481,
-            54.07782
-          ],
-          [
-            -4.656611,
-            54.077818
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "7",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668939,
-        "lon": -4.656547321429657,
-        "lat": 54.07784475479863,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668939"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668940,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656996,
-            54.077763
-          ],
-          [
-            -4.656999,
-            54.077814
-          ],
-          [
-            -4.656869,
-            54.077817
-          ],
-          [
-            -4.656866,
-            54.077765
-          ],
-          [
-            -4.656996,
-            54.077763
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "8",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668940,
-        "lon": -4.656932321429655,
-        "lat": 54.07778975479863,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668940"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 218668941,
       "geometry": {
         "type": "LineString",
@@ -85259,49 +82708,6 @@
         "lat": 54.07791707715451,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218668941"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 218668942,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.656608,
-            54.077766
-          ],
-          [
-            -4.656611,
-            54.077818
-          ],
-          [
-            -4.656481,
-            54.07782
-          ],
-          [
-            -4.656478,
-            54.077769
-          ],
-          [
-            -4.656608,
-            54.077766
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "9",
-        "addr:postcode": "IM9 1HU",
-        "addr:street": "West Hill Avenue",
-        "building": "house",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 218668942,
-        "lon": -4.656544678570344,
-        "lat": 54.07779324520137,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/218668942"
       }
     },
     {
@@ -105346,9 +102752,16 @@
         "contact:phone": "+441624613585",
         "contact:website": "freshlysqueezed.im",
         "cuisine": "juice",
+        "currency:XBT": "yes",
         "name": "Freshly Squeezed",
         "opening_hours": "Mo-Fr 07:15-17:00",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+441624613585",
         "source": "survey",
+        "survey:date": "2022-09-24",
+        "website": "https://freshlysqueezed.im/",
         "osm_id": 419775938,
         "lon": -4.478037931737295,
         "lat": 54.149407268746074,
@@ -106050,12 +103463,20 @@
             54.149465
           ],
           [
-            -4.480607,
-            54.149427
+            -4.4806,
+            54.149431
           ],
           [
-            -4.480652,
-            54.149439
+            -4.480617,
+            54.149434
+          ],
+          [
+            -4.480634,
+            54.149437
+          ],
+          [
+            -4.480655,
+            54.149452
           ],
           [
             -4.480665,
@@ -106065,16 +103486,18 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "2",
         "addr:postcode": "IM1 2AL",
         "addr:street": "Prospect Hill",
+        "amenity": "cafe",
         "building": "retail",
         "building:levels": "4",
-        "old_name": "Blands Insurance Brokers",
+        "name": "Roots in the city",
         "source": "Bing;photograph",
         "osm_id": 419950958,
-        "lon": -4.4805991173896835,
-        "lat": 54.14946545895431,
+        "lon": -4.480597893671641,
+        "lat": 54.14946694474692,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950958"
       }
@@ -106086,12 +103509,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480662,
-            54.149609
+            -4.480653,
+            54.149612
           ],
           [
-            -4.480583,
-            54.149569
+            -4.480577,
+            54.149572
           ],
           [
             -4.480552,
@@ -106106,13 +103529,14 @@
             54.149552
           ],
           [
-            -4.480662,
-            54.149609
+            -4.480653,
+            54.149612
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "6",
         "addr:postcode": "IM1 1EJ",
         "addr:street": "Prospect Hill",
@@ -106124,8 +103548,8 @@
         "roof:levels": "1",
         "was:amenity": "restaurant",
         "osm_id": 420023844,
-        "lon": -4.480621076926063,
-        "lat": 54.14956301971278,
+        "lon": -4.480619393179996,
+        "lat": 54.1495643286307,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023844"
       }
@@ -106137,34 +103561,59 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480837,
+            -4.481,
+            54.149602
+          ],
+          [
+            -4.480983,
             54.149599
           ],
           [
-            -4.481007,
-            54.149636
-          ],
-          [
-            -4.48106,
+            -4.480974,
             54.149614
           ],
           [
-            -4.480948,
-            54.149566
+            -4.480841,
+            54.149589
           ],
           [
-            -4.480868,
-            54.149532
+            -4.48086,
+            54.149553
           ],
           [
-            -4.480837,
-            54.149599
+            -4.480879,
+            54.149515
+          ],
+          [
+            -4.480945,
+            54.149546
+          ],
+          [
+            -4.481004,
+            54.149531
+          ],
+          [
+            -4.48102,
+            54.149545
+          ],
+          [
+            -4.481005,
+            54.149567
+          ],
+          [
+            -4.48106,
+            54.149577
+          ],
+          [
+            -4.481,
+            54.149602
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Belfast House",
         "addr:housenumber": "3",
         "addr:postcode": "IM1 1ES",
         "addr:street": "Prospect Hill",
@@ -106176,8 +103625,8 @@
         "opening_hours": "Mo-Fr 10:00-15:00, Sa-Su \"By appointment\"",
         "shop": "kitchen",
         "osm_id": 420023846,
-        "lon": -4.480941539326346,
-        "lat": 54.149592763379395,
+        "lon": -4.480949114785819,
+        "lat": 54.149569041895354,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023846"
       }
@@ -106189,8 +103638,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480837,
-            54.149599
+            -4.480841,
+            54.149589
+          ],
+          [
+            -4.480836,
+            54.1496
           ],
           [
             -4.480818,
@@ -106201,30 +103654,44 @@
             54.149659
           ],
           [
-            -4.481007,
-            54.149636
+            -4.481004,
+            54.149638
           ],
           [
-            -4.480837,
-            54.149599
+            -4.480963,
+            54.14963
+          ],
+          [
+            -4.480974,
+            54.149614
+          ],
+          [
+            -4.480841,
+            54.149589
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housename": "Street Kitchen",
-        "addr:housenumber": "3",
+        "addr:country": "IM",
+        "addr:housename": "Belfast House",
+        "addr:housenumber": "5",
         "addr:postcode": "IM1 1ES",
         "addr:street": "Prospect Hill",
         "amenity": "restaurant",
         "building": "yes",
-        "contact:phone": "+44 1624 254234",
+        "contact:facebook": "https://www.facebook.com/streetkitcheniom",
+        "contact:phone": "+44 7624 304904",
         "cuisine": "indian",
+        "currency:XBT": "yes",
         "name": "Street Kitchen",
-        "opening_hours": "Mo 12:00-15:00, Tu-Sa 12:00-17:00,18:00-22:00",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "survey:date": "2022-09-24",
         "osm_id": 420023851,
-        "lon": -4.4809080634853995,
-        "lat": 54.14963231787131,
+        "lon": -4.480909714042547,
+        "lat": 54.14962749148619,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023851"
       }
@@ -106273,7 +103740,7 @@
         "phone": "+44 1624 670520",
         "shop": "jewelry",
         "source": "Bing;photograph",
-        "website": "https://rhsjewellers.com",
+        "website": "https://rhsjewellers.com/",
         "osm_id": 420023856,
         "lon": -4.480645576645187,
         "lat": 54.149511125740844,
@@ -106311,13 +103778,14 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "Victory House",
         "addr:postcode": "IM1 1EQ",
         "addr:street": "Prospect Hill",
         "name": "Rossborough Insurance",
         "office": "insurance",
         "phone": "+44 1624 631631",
-        "website": "https://www.rossborough.co.uk",
+        "website": "https://www.rossborough.co.uk/",
         "osm_id": 420023857,
         "lon": -4.480682934587989,
         "lat": 54.15031572600511,
@@ -106367,6 +103835,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "10-12",
         "addr:postcode": "IM1 1EJ",
         "addr:street": "Prospect Hill",
@@ -107529,6 +104998,14 @@
             54.08455
           ],
           [
+            -4.636277,
+            54.084104
+          ],
+          [
+            -4.636806,
+            54.084032
+          ],
+          [
             -4.636972,
             54.084482
           ]
@@ -107540,13 +105017,13 @@
         "addr:place": "Ronaldsway Airport",
         "addr:postcode": "IM9 2RJ",
         "building": "office",
-        "name": "Jet Centre",
+        "name": "The Jet Centre",
         "operator": "The Private Jet Company",
         "source": "survey",
         "website": "http://www.intrust-manx.com",
         "osm_id": 452065973,
-        "lon": -4.6366563558000475,
-        "lat": 54.084556168908854,
+        "lon": -4.636607659074207,
+        "lat": 54.084352833602786,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/452065973"
       }
@@ -111453,24 +108930,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480611,
-            54.151002
+            -4.480571,
+            54.150987
           ],
           [
-            -4.480483,
-            54.150996
+            -4.480578,
+            54.150911
           ],
           [
-            -4.480498,
-            54.150909
+            -4.480704,
+            54.150916
           ],
           [
-            -4.480618,
-            54.150914
+            -4.480692,
+            54.151032
           ],
           [
-            -4.480611,
-            54.151002
+            -4.480624,
+            54.151029
+          ],
+          [
+            -4.480628,
+            54.150989
+          ],
+          [
+            -4.480571,
+            54.150987
           ]
         ]
       },
@@ -111480,14 +108965,15 @@
         "addr:housenumber": "5",
         "addr:postcode": "IM1 2PU",
         "addr:street": "Mount Pleasant",
-        "building": "commercial",
+        "building": "yes",
         "building:levels": "2",
         "name": "DQ Advocates",
         "name:en": "DQ Advocates",
         "smoking": "no",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
         "osm_id": 657558412,
-        "lon": -4.480552395125144,
-        "lat": 54.15095607761979,
+        "lon": -4.480640502559079,
+        "lat": 54.1509668029348,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/657558412"
       }
@@ -128311,7 +125797,7 @@
         "amenity": "cafe",
         "brand": "Starbucks",
         "brand:wikidata": "Q37158",
-        "building": "yes",
+        "building": "retail",
         "cuisine": "coffee_shop",
         "name": "Starbucks",
         "official_name": "Starbucks Coffee",
@@ -128321,6 +125807,60 @@
         "lat": 54.15199529717987,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1125185105"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1125185106,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.500092,
+            54.151658
+          ],
+          [
+            -4.499905,
+            54.151703
+          ],
+          [
+            -4.499795,
+            54.151544
+          ],
+          [
+            -4.499774,
+            54.151513
+          ],
+          [
+            -4.499961,
+            54.151469
+          ],
+          [
+            -4.500092,
+            54.151658
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Peel Road Retail Park",
+        "addr:postcode": "IM1 5ED",
+        "addr:street": "Peel Road",
+        "addr:unit": "3",
+        "amenity": "restaurant",
+        "building": "retail",
+        "contact:email": "info@vellikas.com",
+        "contact:phone": "+44 1624 890685",
+        "contact:website": "https://vellikaskitchen.com/douglas/",
+        "cuisine": "indian",
+        "indoor_seating": "yes",
+        "name": "Vellika's Kitchen",
+        "osm_id": 1125185106,
+        "lon": -4.499932892116031,
+        "lat": 54.15158582137457,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1125185106"
       }
     },
     {
@@ -128381,7 +125921,7 @@
         "amenity": "fast_food",
         "brand": "KFC",
         "brand:wikidata": "Q524757",
-        "building": "yes",
+        "building": "retail",
         "changing_table": "yes",
         "changing_table:fee": "no",
         "cuisine": "chicken",
@@ -134321,6 +131861,52 @@
         "lat": 54.206129007989865,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1153365852"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1153437142,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485362,
+            54.151469
+          ],
+          [
+            -4.485577,
+            54.151622
+          ],
+          [
+            -4.485505,
+            54.151656
+          ],
+          [
+            -4.485291,
+            54.151503
+          ],
+          [
+            -4.485362,
+            54.151469
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 1BG",
+        "addr:street": "Tynwald Street",
+        "building": "industrial",
+        "contact:facebook": "https://www.facebook.com/eastcoastautosim/",
+        "contact:phone": "+44 7624 497392",
+        "name": "East Coast Autos Ltd",
+        "shop": "car_repair",
+        "osm_id": 1153437142,
+        "lon": -4.485433933805445,
+        "lat": 54.15156258061686,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1153437142"
       }
     },
     {
@@ -149611,53 +147197,6 @@
     },
     {
       "type": "Feature",
-      "id": 1288619466,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484823,
-            54.151567
-          ],
-          [
-            -4.484609,
-            54.151669
-          ],
-          [
-            -4.484375,
-            54.151507
-          ],
-          [
-            -4.4846,
-            54.151403
-          ],
-          [
-            -4.484628,
-            54.151423
-          ],
-          [
-            -4.484823,
-            54.151567
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "11",
-        "addr:postcode": "IM1 1BF",
-        "addr:street": "Tynwald Street",
-        "building": "yes",
-        "level": "0",
-        "osm_id": 1288619466,
-        "lon": -4.48459979004202,
-        "lat": 54.15153599053336,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/1288619466"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1288736370,
       "geometry": {
         "type": "LineString",
@@ -149826,6 +147365,145 @@
         "lat": 54.152428380130786,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1288736373"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291532799,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487681,
+            54.151707
+          ],
+          [
+            -4.487466,
+            54.151598
+          ],
+          [
+            -4.487708,
+            54.151434
+          ],
+          [
+            -4.487729,
+            54.15142
+          ],
+          [
+            -4.487861,
+            54.151331
+          ],
+          [
+            -4.487889,
+            54.151311
+          ],
+          [
+            -4.487898,
+            54.151316
+          ],
+          [
+            -4.487907,
+            54.15132
+          ],
+          [
+            -4.488104,
+            54.15142
+          ],
+          [
+            -4.487943,
+            54.151529
+          ],
+          [
+            -4.487926,
+            54.151541
+          ],
+          [
+            -4.487787,
+            54.151635
+          ],
+          [
+            -4.487681,
+            54.151707
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Diamond House",
+        "addr:postcode": "IM1 3DS",
+        "addr:street": "Demesne Road",
+        "after_school": "yes",
+        "amenity": "childcare;kindergarten",
+        "contact:email": "info@littlediamonds-iom.net",
+        "contact:phone": "+44 1624 625835",
+        "contact:website": "https://littlediamonds-iom.net/",
+        "fee": "yes",
+        "name": "Little Diamonds Nursery",
+        "nursery": "yes",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "preschool": "yes",
+        "osm_id": 1291532799,
+        "lon": -4.487785052388604,
+        "lat": 54.15150906037206,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1291532799"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1291532800,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487907,
+            54.15132
+          ],
+          [
+            -4.488048,
+            54.151392
+          ],
+          [
+            -4.488104,
+            54.15142
+          ],
+          [
+            -4.487943,
+            54.151529
+          ],
+          [
+            -4.487729,
+            54.15142
+          ],
+          [
+            -4.487861,
+            54.151331
+          ],
+          [
+            -4.487878,
+            54.15134
+          ],
+          [
+            -4.487907,
+            54.15132
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Diamond House",
+        "addr:postcode": "IM1 4AQ",
+        "addr:street": "Westmoreland Road",
+        "brand": "Spar",
+        "name": "Spar, Westmoreland Road",
+        "shop": "convenience",
+        "osm_id": 1291532800,
+        "lon": -4.487916525434458,
+        "lat": 54.15142091547359,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1291532800"
       }
     }
   ]

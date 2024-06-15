@@ -2131,19 +2131,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.504725,
-          54.152098
+          -4.504727,
+          54.1521
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "National Sports Centre Layby",
+        "name": "National Sports Centre layby",
         "public_transport": "platform",
         "ref": "206",
+        "shelter": "yes",
         "osm_id": 1498453873,
-        "lon": -4.504725,
-        "lat": 54.152098,
+        "lon": -4.504727,
+        "lat": 54.1521,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1498453873"
       }
@@ -4608,9 +4609,10 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Groves Road / National Sports Centre",
+        "name": "National Sports Centre, Groves Road",
         "public_transport": "platform",
         "ref": "205",
+        "shelter": "yes",
         "osm_id": 6737245041,
         "lon": -4.50521,
         "lat": 54.152088,
@@ -5012,8 +5014,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.499399,
-          54.152005
+          -4.499354,
+          54.152012
         ]
       },
       "properties": {
@@ -5025,8 +5027,8 @@
         "public_transport": "platform",
         "ref": "113",
         "osm_id": 9179851518,
-        "lon": -4.499399,
-        "lat": 54.152005,
+        "lon": -4.499354,
+        "lat": 54.152012,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179851518"
       }
@@ -13343,7 +13345,7 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "National Sports Centre Car Park",
+        "name": "National Sports Centre car park",
         "public_transport": "platform",
         "ref": "40106",
         "osm_id": 9190239209,

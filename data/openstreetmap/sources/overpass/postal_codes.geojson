@@ -2793,6 +2793,7 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "1",
         "addr:street": "Athol Street",
@@ -23934,41 +23935,6 @@
     },
     {
       "type": "Feature",
-      "id": 61561701,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484886,
-            54.151701
-          ],
-          [
-            -4.485401,
-            54.152078
-          ],
-          [
-            -4.484806,
-            54.152361
-          ],
-          [
-            -4.484296,
-            54.151984
-          ],
-          [
-            -4.484886,
-            54.151701
-          ]
-        ]
-      },
-      "properties": {
-        "addr:street": "Tynwald Street",
-        "amenity": "school",
-        "name": "disused Fairfield Junior School",
-        "postal_code": "IM1 1BE"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 61580822,
       "geometry": {
         "type": "LineString",
@@ -25592,53 +25558,6 @@
         "shop": "grocery",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "http://www.robinsons-fruit.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 79141600,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481479,
-            54.15023
-          ],
-          [
-            -4.481239,
-            54.15033
-          ],
-          [
-            -4.48112,
-            54.15023
-          ],
-          [
-            -4.481249,
-            54.150177
-          ],
-          [
-            -4.481278,
-            54.150201
-          ],
-          [
-            -4.481388,
-            54.150155
-          ],
-          [
-            -4.481479,
-            54.15023
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "19-21",
-        "addr:street": "Prospect Hill",
-        "building": "yes",
-        "business": "construction",
-        "layer": "3",
-        "postal_code": "IM1 1ET",
-        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
