@@ -2066,9 +2066,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Ballafesson Road",
+        "name": "Ballafesson shelter",
         "public_transport": "platform",
-        "ref": "11905",
+        "ref": "891085011903",
         "shelter": "yes",
         "osm_id": 1202344781,
         "lon": -4.741497,
@@ -2092,7 +2092,7 @@
         "highway": "bus_stop",
         "name": "Ballafesson Farm",
         "public_transport": "platform",
-        "ref": "11904",
+        "ref": "891085011904",
         "shelter": "yes",
         "osm_id": 1202344864,
         "lon": -4.741621,
@@ -2606,9 +2606,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "network": "1904",
+        "name": "Trollaby Junction",
         "public_transport": "platform",
-        "ref": "Trollaby Junction",
+        "ref": "1904",
         "osm_id": 1830297908,
         "lon": -4.527463,
         "lat": 54.170444,
@@ -3469,44 +3469,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.725824,
-          54.091561
+          -4.725497,
+          54.091709
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Opposite Carrick Bay View",
         "public_transport": "platform",
-        "ref": "10711",
+        "ref": "891085010711",
+        "shelter": "no",
+        "tactile_paving": "no",
         "osm_id": 3686503801,
-        "lon": -4.725824,
-        "lat": 54.091561,
+        "lon": -4.725497,
+        "lat": 54.091709,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/3686503801"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 3686505094,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.743999,
-          54.083883
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Four Roads / Holmcroft",
-        "public_transport": "platform",
-        "ref": "809",
-        "osm_id": 3686505094,
-        "lon": -4.743999,
-        "lat": 54.083883,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/3686505094"
       }
     },
     {
@@ -3545,7 +3526,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
+        "name": "Ballafesson Road",
         "public_transport": "platform",
+        "ref": "891085011905",
         "osm_id": 3686505243,
         "lon": -4.743353,
         "lat": 54.091433,
@@ -3614,7 +3597,7 @@
         "highway": "bus_stop",
         "name": "Southlands",
         "public_transport": "platform",
-        "ref": "808",
+        "ref": "891085000808",
         "osm_id": 3686505246,
         "lon": -4.746129,
         "lat": 54.084623,
@@ -3886,19 +3869,19 @@
         "type": "Point",
         "coordinates": [
           -4.746187,
-          54.084516
+          54.084517
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Rheyrt-Y-Chirk",
+        "name": "Rheyrt-y-Chrink",
         "public_transport": "platform",
-        "ref": "811",
+        "ref": "891085000811",
         "shelter": "yes",
         "osm_id": 3732646867,
         "lon": -4.746187,
-        "lat": 54.084516,
+        "lat": 54.084517,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/3732646867"
       }
@@ -6439,7 +6422,7 @@
         "highway": "bus_stop",
         "name": "Four Roads",
         "public_transport": "platform",
-        "ref": "810",
+        "ref": "891085000810",
         "osm_id": 9180402003,
         "lon": -4.744218,
         "lat": 54.083497,
@@ -10346,8 +10329,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.682857,
-          54.220852
+          -4.682878,
+          54.220836
         ]
       },
       "properties": {
@@ -10356,14 +10339,14 @@
         "bus": "yes",
         "highway": "bus_stop",
         "lit": "yes",
-        "name": "Derby Road Opposite Campsite",
+        "name": "Derby Road opposite campsite",
         "public_transport": "platform",
-        "ref": "2433",
+        "ref": "891085002433",
         "shelter": "no",
         "tactile_paving": "no",
         "osm_id": 9189749137,
-        "lon": -4.682857,
-        "lat": 54.220852,
+        "lon": -4.682878,
+        "lat": 54.220836,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9189749137"
       }
@@ -10557,29 +10540,6 @@
         "lat": 54.22107,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9189749145"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9189749146,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.68376,
-          54.221068
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Derby Road Campsite",
-        "public_transport": "platform",
-        "ref": "2444",
-        "osm_id": 9189749146,
-        "lon": -4.68376,
-        "lat": 54.221068,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/9189749146"
       }
     },
     {
@@ -13407,19 +13367,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.684304,
-          54.221169
+          -4.684063,
+          54.22113
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Peel Clothworkers Pool Entrance",
+        "name": "Western Swimming Pool entrance, Derby Road",
         "public_transport": "platform",
-        "ref": "40125",
+        "ref": "891085040125",
+        "shelter": "no",
+        "tactile_paving": "no",
         "osm_id": 9190239212,
-        "lon": -4.684304,
-        "lat": 54.221169,
+        "lon": -4.684063,
+        "lat": 54.22113,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190239212"
       }
@@ -15658,19 +15622,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.725879,
-          54.091678
+          -4.725178,
+          54.091901
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Carrick Bay View",
         "public_transport": "platform",
-        "ref": "10712",
+        "ref": "891085010712",
+        "shelter": "no",
+        "tactile_paving": "no",
         "osm_id": 9190536439,
-        "lon": -4.725879,
-        "lat": 54.091678,
+        "lon": -4.725178,
+        "lat": 54.091901,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190536439"
       }
@@ -15838,47 +15806,26 @@
     },
     {
       "type": "Feature",
-      "id": 9190562420,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.731503,
-          54.090336
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Ballagawne Nurseries",
-        "public_transport": "platform",
-        "ref": "11901",
-        "osm_id": 9190562420,
-        "lon": -4.731503,
-        "lat": 54.090336,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/9190562420"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 9190562421,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.734159,
-          54.090455
+          -4.734001,
+          54.090447
         ]
       },
       "properties": {
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Ballafesson Shelter",
+        "name": "Ballagawne shelter",
         "public_transport": "platform",
-        "ref": "11902",
+        "ref": "891085011902",
         "shelter": "yes",
+        "tactile_paving": "no",
         "osm_id": 9190562421,
-        "lon": -4.734159,
-        "lat": 54.090455,
+        "lon": -4.734001,
+        "lat": 54.090447,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190562421"
       }
@@ -15894,13 +15841,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
-        "fixme": "check name",
         "highway": "bus_stop",
-        "name": "Ballafesson Shelter",
+        "name": "Ballagawne",
         "public_transport": "platform",
-        "ref": "11904",
+        "ref": "891085011901",
         "shelter": "no",
+        "tactile_paving": "no",
         "osm_id": 9190562422,
         "lon": -4.733447,
         "lat": 54.090351,
@@ -15923,7 +15872,7 @@
         "highway": "bus_stop",
         "name": "Ballafesson Road / Qualtrough's Lane",
         "public_transport": "platform",
-        "ref": "11906",
+        "ref": "891085011906",
         "osm_id": 9190562423,
         "lon": -4.743144,
         "lat": 54.091805,

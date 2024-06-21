@@ -4561,64 +4561,6 @@
     },
     {
       "type": "Feature",
-      "id": 60007306,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.757115,
-            54.086813
-          ],
-          [
-            -4.757411,
-            54.086826
-          ],
-          [
-            -4.757364,
-            54.087203
-          ],
-          [
-            -4.757203,
-            54.087196
-          ],
-          [
-            -4.757201,
-            54.08721
-          ],
-          [
-            -4.757141,
-            54.087208
-          ],
-          [
-            -4.757143,
-            54.087195
-          ],
-          [
-            -4.757047,
-            54.087191
-          ],
-          [
-            -4.757061,
-            54.087079
-          ],
-          [
-            -4.757081,
-            54.08708
-          ],
-          [
-            -4.757115,
-            54.086813
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "shop": "supermarket",
-        "source": "Isle of Man Government aerial imagery (2001)"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 60007307,
       "geometry": {
         "type": "LineString",
@@ -16054,48 +15996,6 @@
     },
     {
       "type": "Feature",
-      "id": 246812768,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.457002,
-            54.176265
-          ],
-          [
-            -4.457362,
-            54.176467
-          ],
-          [
-            -4.45699,
-            54.176694
-          ],
-          [
-            -4.456631,
-            54.176491
-          ],
-          [
-            -4.457002,
-            54.176265
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:postcode": "IM3 4EA",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
-        "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Su 08:00-21:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
-        "website": "https://www.manxshoprite.com/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 246812769,
       "geometry": {
         "type": "LineString",
@@ -16145,35 +16045,31 @@
         "coordinates": [
           [
             -4.755937,
-            54.085009
+            54.08502
           ],
           [
             -4.755838,
-            54.085008
+            54.085018
           ],
           [
             -4.755835,
-            54.085054
+            54.085064
           ],
           [
             -4.75577,
-            54.085053
+            54.085063
           ],
           [
             -4.755767,
-            54.085121
+            54.085131
           ],
           [
-            -4.755932,
-            54.085124
-          ],
-          [
-            -4.755935,
-            54.085053
+            -4.755931,
+            54.085134
           ],
           [
             -4.755937,
-            54.085009
+            54.08502
           ]
         ]
       },
@@ -16204,15 +16100,15 @@
             54.085122
           ],
           [
-            -4.756066,
-            54.085055
+            -4.756069,
+            54.08499
           ],
           [
-            -4.756,
-            54.085054
+            -4.756004,
+            54.084989
           ],
           [
-            -4.755997,
+            -4.755998,
             54.085121
           ],
           [
@@ -16222,7 +16118,6 @@
         ]
       },
       "properties": {
-        "building": "yes",
         "name": "The Laptop Shop",
         "shop": "computer",
         "source": "Isle of Man Government aerial imagery (2001);survey"
@@ -17536,47 +17431,6 @@
         "building:levels": "3",
         "building:material": "plaster",
         "shop": "vacant"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 414637475,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.653911,
-            54.073811
-          ],
-          [
-            -4.653887,
-            54.073765
-          ],
-          [
-            -4.654027,
-            54.073742
-          ],
-          [
-            -4.654052,
-            54.073784
-          ],
-          [
-            -4.653911,
-            54.073811
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "7",
-        "addr:street": "Malew Street",
-        "building": "yes",
-        "building:colour": "cream",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "name": "Mr B's Freshbake",
-        "shop": "bakery"
       }
     },
     {

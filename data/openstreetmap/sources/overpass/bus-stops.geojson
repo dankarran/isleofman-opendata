@@ -1636,9 +1636,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Ballafesson Road",
+        "name": "Ballafesson shelter",
         "public_transport": "platform",
-        "ref": "11905",
+        "ref": "891085011903",
         "shelter": "yes"
       }
     },
@@ -1657,7 +1657,7 @@
         "highway": "bus_stop",
         "name": "Ballafesson Farm",
         "public_transport": "platform",
-        "ref": "11904",
+        "ref": "891085011904",
         "shelter": "yes"
       }
     },
@@ -2061,9 +2061,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "network": "1904",
+        "name": "Trollaby Junction",
         "public_transport": "platform",
-        "ref": "Trollaby Junction"
+        "ref": "1904"
       }
     },
     {
@@ -2739,34 +2739,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.725824,
-          54.091561
+          -4.725497,
+          54.091709
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Opposite Carrick Bay View",
         "public_transport": "platform",
-        "ref": "10711"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 3686505094,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.743999,
-          54.083883
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Four Roads / Holmcroft",
-        "public_transport": "platform",
-        "ref": "809"
+        "ref": "891085010711",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2800,7 +2786,9 @@
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "name": "Ballafesson Road",
+        "public_transport": "platform",
+        "ref": "891085011905"
       }
     },
     {
@@ -2854,7 +2842,7 @@
         "highway": "bus_stop",
         "name": "Southlands",
         "public_transport": "platform",
-        "ref": "808"
+        "ref": "891085000808"
       }
     },
     {
@@ -3066,15 +3054,15 @@
         "type": "Point",
         "coordinates": [
           -4.746187,
-          54.084516
+          54.084517
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Rheyrt-Y-Chirk",
+        "name": "Rheyrt-y-Chrink",
         "public_transport": "platform",
-        "ref": "811",
+        "ref": "891085000811",
         "shelter": "yes"
       }
     },
@@ -5084,7 +5072,7 @@
         "highway": "bus_stop",
         "name": "Four Roads",
         "public_transport": "platform",
-        "ref": "810"
+        "ref": "891085000810"
       }
     },
     {
@@ -8146,8 +8134,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.682857,
-          54.220852
+          -4.682878,
+          54.220836
         ]
       },
       "properties": {
@@ -8156,9 +8144,9 @@
         "bus": "yes",
         "highway": "bus_stop",
         "lit": "yes",
-        "name": "Derby Road Opposite Campsite",
+        "name": "Derby Road opposite campsite",
         "public_transport": "platform",
-        "ref": "2433",
+        "ref": "891085002433",
         "shelter": "no",
         "tactile_paving": "no"
       }
@@ -8312,24 +8300,6 @@
         "ref": "2443",
         "shelter": "no",
         "tactile_paving": "no"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9189749146,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.68376,
-          54.221068
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Derby Road Campsite",
-        "public_transport": "platform",
-        "ref": "2444"
       }
     },
     {
@@ -10547,16 +10517,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.684304,
-          54.221169
+          -4.684063,
+          54.22113
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Peel Clothworkers Pool Entrance",
+        "name": "Western Swimming Pool entrance, Derby Road",
         "public_transport": "platform",
-        "ref": "40125"
+        "ref": "891085040125",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12313,16 +12287,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.725879,
-          54.091678
+          -4.725178,
+          54.091901
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Carrick Bay View",
         "public_transport": "platform",
-        "ref": "10712"
+        "ref": "891085010712",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12453,39 +12431,23 @@
     },
     {
       "type": "Feature",
-      "id": 9190562420,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.731503,
-          54.090336
-        ]
-      },
-      "properties": {
-        "bus": "yes",
-        "highway": "bus_stop",
-        "name": "Ballagawne Nurseries",
-        "public_transport": "platform",
-        "ref": "11901"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 9190562421,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.734159,
-          54.090455
+          -4.734001,
+          54.090447
         ]
       },
       "properties": {
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Ballafesson Shelter",
+        "name": "Ballagawne shelter",
         "public_transport": "platform",
-        "ref": "11902",
-        "shelter": "yes"
+        "ref": "891085011902",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12499,13 +12461,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
-        "fixme": "check name",
         "highway": "bus_stop",
-        "name": "Ballafesson Shelter",
+        "name": "Ballagawne",
         "public_transport": "platform",
-        "ref": "11904",
-        "shelter": "no"
+        "ref": "891085011901",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12523,7 +12487,7 @@
         "highway": "bus_stop",
         "name": "Ballafesson Road / Qualtrough's Lane",
         "public_transport": "platform",
-        "ref": "11906"
+        "ref": "891085011906"
       }
     },
     {

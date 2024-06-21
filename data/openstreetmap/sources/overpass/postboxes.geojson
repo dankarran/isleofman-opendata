@@ -509,8 +509,12 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo 06:00, 17:30; Tu-Fr 17:30",
+        "colour": "red",
         "name": "Finch Road",
         "ref": "21B",
+        "royal_cypher": "no",
         "source": "survey"
       }
     },
@@ -1464,7 +1468,17 @@
         ]
       },
       "properties": {
-        "amenity": "post_box"
+        "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "McDowall Steven & Co Ltd London & Glasgow",
+        "name": "Littleswitzerland",
+        "note": "Yes, the name is 'Littleswitzerland' on the ground",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "25",
+        "royal_cypher": "EVIIR"
       }
     },
     {
@@ -1591,8 +1605,13 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "name": "Victoria Road",
         "operator": "Isle of Man Post Office",
         "post_box:type": "lamp",
+        "ref": "42",
         "royal_cypher": "EIIR",
         "royal_cypher:wikidata": "Q33102113"
       }
@@ -1608,7 +1627,16 @@
         ]
       },
       "properties": {
-        "amenity": "post_box"
+        "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "A. Handyside & Co Ltd Derby & London",
+        "name": "Castle Mona Shops",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "23",
+        "royal_cypher": "VR"
       }
     },
     {
@@ -1848,40 +1876,6 @@
     },
     {
       "type": "Feature",
-      "id": 870642008,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.481102,
-          54.152608
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "Finch Road",
-        "ref": "21A",
-        "source": "survey"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 870642011,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.481101,
-          54.152595
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "Finch Road",
-        "ref": "21",
-        "source": "survey"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 873395515,
       "geometry": {
         "type": "Point",
@@ -2047,13 +2041,18 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
         "name": "Rose Gardens",
         "operator": "Isle of Man Post Office",
         "operator:en": "Isle of Man Post Office",
         "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:type": "lamp",
-        "ref": "46"
+        "ref": "46",
+        "royal_cypher": "no",
+        "source": "survey"
       }
     },
     {
@@ -3296,10 +3295,16 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "name": "Derby Road",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
+        "ref": "47",
         "royal_cypher": "GR",
         "royal_cypher:wikidata": "Q33102273",
-        "source": "mapillary;bing"
+        "source": "survey"
       }
     },
     {
@@ -3401,8 +3406,15 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "Carron company Stirlingshire",
+        "name": "Little Switzerland",
         "post_box:type": "wall",
-        "source": "streetside"
+        "ref": "41",
+        "royal_cypher": "EIIR",
+        "source": "survey"
       }
     },
     {
@@ -3791,6 +3803,28 @@
         "post_box:type": "meter",
         "royal_cypher": "CIIIR",
         "source": "https://www.three.fm/news/isle-of-man-news/kings-cypher-unveiled-on-post-box/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11997217983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471058,
+          54.167423
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo 06:00,17:00; Tu-Fr 17:00",
+        "colour": "red",
+        "noname": "yes",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "41 S",
+        "royal_cypher": "no"
       }
     }
   ]

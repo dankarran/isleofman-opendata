@@ -10202,6 +10202,53 @@
     },
     {
       "type": "Feature",
+      "id": 279663208,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756004,
+            54.084989
+          ],
+          [
+            -4.755939,
+            54.084988
+          ],
+          [
+            -4.755937,
+            54.08502
+          ],
+          [
+            -4.755931,
+            54.085134
+          ],
+          [
+            -4.755931,
+            54.08514
+          ],
+          [
+            -4.755997,
+            54.085141
+          ],
+          [
+            -4.755998,
+            54.085121
+          ],
+          [
+            -4.756004,
+            54.084989
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "name": "Bakeaway Cafe",
+        "phone": "+44 1624 832792",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 280860894,
       "geometry": {
         "type": "LineString",
@@ -11151,15 +11198,19 @@
         "addr:city": "Castletown",
         "addr:housenumber": "13",
         "addr:street": "Malew Street",
-        "amenity": "restaurant",
+        "amenity": "fast_food",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "2",
         "building:material": "plaster",
-        "description": "Peri Peri perfection",
+        "contact:phone": "+44 1624 823283",
+        "delivery": "yes",
+        "indoor_seating": "yes",
         "name": "Victoria Grill",
-        "opening_hours": "Mo-Th 11:00-23:00, Fr 23:00-24:00, Sa 00:00-01:00,23:00-24:00, Su 00:00-01:00",
-        "roof:levels": "1"
+        "opening_hours": "Mo-Th 11:00-22:00, Fr 11:00-24:00, Sa 00:00-01:00,11:00-24:00, Su 00:00-01:00,15:00-22:00",
+        "roof:levels": "1",
+        "strapline": "Peri Peri perfection",
+        "takeaway": "yes"
       }
     },
     {

@@ -58915,6 +58915,97 @@
     },
     {
       "type": "Feature",
+      "id": 105051026,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.715424,
+            54.087582
+          ],
+          [
+            -4.715318,
+            54.087575
+          ],
+          [
+            -4.715319,
+            54.087568
+          ],
+          [
+            -4.71524,
+            54.087563
+          ],
+          [
+            -4.715242,
+            54.087552
+          ],
+          [
+            -4.715162,
+            54.087547
+          ],
+          [
+            -4.715173,
+            54.087488
+          ],
+          [
+            -4.715439,
+            54.087505
+          ],
+          [
+            -4.715424,
+            54.087582
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Colby",
+        "addr:country": "IM",
+        "addr:housename": "Kentraugh Mill",
+        "addr:postcode": "IM9 4AU",
+        "addr:street": "Kentraugh Mill Road",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105051042,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.715053,
+            54.087934
+          ],
+          [
+            -4.715023,
+            54.087974
+          ],
+          [
+            -4.714906,
+            54.087944
+          ],
+          [
+            -4.714936,
+            54.087904
+          ],
+          [
+            -4.715053,
+            54.087934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kentraugh",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM9 4AT",
+        "addr:street": "Kentraugh Back Road",
+        "addr:substreet": "Mill Cottages",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 105051221,
       "geometry": {
         "type": "LineString",
@@ -62198,20 +62289,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.684247,
-            54.22132
-          ],
-          [
-            -4.684279,
-            54.221288
-          ],
-          [
-            -4.684451,
-            54.221347
+            -4.684442,
+            54.221357
           ],
           [
             -4.684396,
-            54.221402
+            54.221403
           ],
           [
             -4.684447,
@@ -62226,32 +62309,32 @@
             54.221472
           ],
           [
-            -4.684021,
-            54.221778
+            -4.684022,
+            54.221777
           ],
           [
-            -4.683718,
-            54.221674
+            -4.683728,
+            54.221677
           ],
           [
-            -4.683757,
-            54.221635
+            -4.683767,
+            54.221638
           ],
           [
-            -4.683701,
-            54.221616
+            -4.683749,
+            54.221596
           ],
           [
-            -4.683827,
-            54.221491
+            -4.68382,
+            54.221525
           ],
           [
-            -4.683882,
-            54.22151
+            -4.683894,
+            54.221514
           ],
           [
-            -4.684097,
-            54.221295
+            -4.684107,
+            54.221298
           ],
           [
             -4.684163,
@@ -62266,12 +62349,16 @@
             54.221314
           ],
           [
-            -4.684236,
-            54.221331
+            -4.684248,
+            54.221336
           ],
           [
-            -4.684247,
-            54.22132
+            -4.684282,
+            54.221302
+          ],
+          [
+            -4.684442,
+            54.221357
           ]
         ]
       },
@@ -62280,11 +62367,12 @@
         "addr:country": "IM",
         "addr:postcode": "IM5 1SW",
         "addr:street": "Derby Road",
-        "building": "yes",
+        "building": "sports_centre",
+        "contact:pq": "+44 1624 842525",
         "leisure": "sports_centre",
         "name": "Western Swimming Pool",
         "sport": "swimming",
-        "website": "https://westernswimmingpool.im"
+        "website": "https://westernswimmingpool.im/"
       }
     },
     {
@@ -81074,15 +81162,10 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:postcode": "IM3 4EA",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
         "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Su 08:00-21:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
-        "website": "https://www.manxshoprite.com/"
+        "old_name": "Shoprite",
+        "proposed:name": "Tesco",
+        "proposed:shop": "supermarket"
       }
     },
     {
@@ -83820,35 +83903,31 @@
         "coordinates": [
           [
             -4.755937,
-            54.085009
+            54.08502
           ],
           [
             -4.755838,
-            54.085008
+            54.085018
           ],
           [
             -4.755835,
-            54.085054
+            54.085064
           ],
           [
             -4.75577,
-            54.085053
+            54.085063
           ],
           [
             -4.755767,
-            54.085121
+            54.085131
           ],
           [
-            -4.755932,
-            54.085124
-          ],
-          [
-            -4.755935,
-            54.085053
+            -4.755931,
+            54.085134
           ],
           [
             -4.755937,
-            54.085009
+            54.08502
           ]
         ]
       },
@@ -83866,6 +83945,53 @@
         "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.spar.co.uk/store-locator/hal26906-spar-port-erin"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 279663205,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756062,
+            54.085143
+          ],
+          [
+            -4.756127,
+            54.085144
+          ],
+          [
+            -4.756135,
+            54.084991
+          ],
+          [
+            -4.756069,
+            54.08499
+          ],
+          [
+            -4.756063,
+            54.085122
+          ],
+          [
+            -4.756062,
+            54.085143
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Darnills complex",
+        "addr:postcode": "IM9 6AB",
+        "addr:street": "Station Road",
+        "amenity": "pharmacy",
+        "brand": "Clear Pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "source": "survey",
+        "website": "https://www.clearpharmacy.im"
       }
     },
     {
@@ -95615,8 +95741,8 @@
             54.152781
           ],
           [
-            -4.481237,
-            54.152743
+            -4.481234,
+            54.152749
           ],
           [
             -4.481385,
@@ -115703,6 +115829,58 @@
     },
     {
       "type": "Feature",
+      "id": 1139169130,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481609,
+            54.161925
+          ],
+          [
+            -4.481391,
+            54.162062
+          ],
+          [
+            -4.481308,
+            54.162017
+          ],
+          [
+            -4.481471,
+            54.161912
+          ],
+          [
+            -4.481503,
+            54.16193
+          ],
+          [
+            -4.481559,
+            54.161895
+          ],
+          [
+            -4.481609,
+            54.161925
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4BH",
+        "addr:street": "Duke's Road",
+        "addr:substreet": "Lower Duke's Road",
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "denomination": "spiritist",
+        "mapillary": "265662032135517",
+        "name": "Christian Spiritualist Church",
+        "religion": "christian",
+        "source": "mapillary;note",
+        "website": "https://www.spiritualistchurch.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1139279808,
       "geometry": {
         "type": "LineString",
@@ -133199,6 +133377,754 @@
         "brand": "Spar",
         "name": "Spar, Westmoreland Road",
         "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293150442,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.714936,
+            54.087904
+          ],
+          [
+            -4.714966,
+            54.087864
+          ],
+          [
+            -4.715083,
+            54.087895
+          ],
+          [
+            -4.715053,
+            54.087934
+          ],
+          [
+            -4.714936,
+            54.087904
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kentraugh",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM9 4AT",
+        "addr:street": "Kentraugh Back Road",
+        "addr:substreet": "Mill Cottages",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293150443,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.714993,
+            54.088014
+          ],
+          [
+            -4.714963,
+            54.088053
+          ],
+          [
+            -4.714846,
+            54.088023
+          ],
+          [
+            -4.714876,
+            54.087983
+          ],
+          [
+            -4.714993,
+            54.088014
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kentraugh",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM9 4AT",
+        "addr:street": "Kentraugh Back Road",
+        "addr:substreet": "Mill Cottages",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293150444,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.714876,
+            54.087983
+          ],
+          [
+            -4.714906,
+            54.087944
+          ],
+          [
+            -4.715023,
+            54.087974
+          ],
+          [
+            -4.714993,
+            54.088014
+          ],
+          [
+            -4.714876,
+            54.087983
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kentraugh",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM9 4AT",
+        "addr:street": "Kentraugh Back Road",
+        "addr:substreet": "Mill Cottages",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293150445,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.714966,
+            54.087864
+          ],
+          [
+            -4.714995,
+            54.087826
+          ],
+          [
+            -4.714981,
+            54.087822
+          ],
+          [
+            -4.715005,
+            54.08779
+          ],
+          [
+            -4.715089,
+            54.087812
+          ],
+          [
+            -4.715065,
+            54.087844
+          ],
+          [
+            -4.715112,
+            54.087856
+          ],
+          [
+            -4.715083,
+            54.087895
+          ],
+          [
+            -4.714966,
+            54.087864
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kentraugh",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM9 4AT",
+        "addr:street": "Kentraugh Back Road",
+        "addr:substreet": "Mill Cottages",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501441,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.72981,
+            54.092151
+          ],
+          [
+            -4.729902,
+            54.092073
+          ],
+          [
+            -4.730063,
+            54.092138
+          ],
+          [
+            -4.729977,
+            54.092211
+          ],
+          [
+            -4.729921,
+            54.092188
+          ],
+          [
+            -4.729935,
+            54.092176
+          ],
+          [
+            -4.729907,
+            54.092164
+          ],
+          [
+            -4.729886,
+            54.092182
+          ],
+          [
+            -4.72981,
+            54.092151
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501442,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729632,
+            54.092066
+          ],
+          [
+            -4.729705,
+            54.092003
+          ],
+          [
+            -4.729865,
+            54.092068
+          ],
+          [
+            -4.729788,
+            54.092134
+          ],
+          [
+            -4.729761,
+            54.092123
+          ],
+          [
+            -4.729756,
+            54.092127
+          ],
+          [
+            -4.729714,
+            54.09211
+          ],
+          [
+            -4.729723,
+            54.092102
+          ],
+          [
+            -4.729632,
+            54.092066
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501443,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729535,
+            54.091915
+          ],
+          [
+            -4.729449,
+            54.091988
+          ],
+          [
+            -4.729505,
+            54.09201
+          ],
+          [
+            -4.729518,
+            54.091998
+          ],
+          [
+            -4.729548,
+            54.09201
+          ],
+          [
+            -4.729527,
+            54.092027
+          ],
+          [
+            -4.729593,
+            54.092054
+          ],
+          [
+            -4.729685,
+            54.091975
+          ],
+          [
+            -4.729535,
+            54.091915
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501444,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729079,
+            54.091986
+          ],
+          [
+            -4.728919,
+            54.091887
+          ],
+          [
+            -4.729058,
+            54.09181
+          ],
+          [
+            -4.729149,
+            54.091866
+          ],
+          [
+            -4.729099,
+            54.091894
+          ],
+          [
+            -4.729168,
+            54.091937
+          ],
+          [
+            -4.729079,
+            54.091986
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501445,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.728965,
+            54.09213
+          ],
+          [
+            -4.728811,
+            54.092032
+          ],
+          [
+            -4.728953,
+            54.091955
+          ],
+          [
+            -4.729039,
+            54.09201
+          ],
+          [
+            -4.728984,
+            54.09204
+          ],
+          [
+            -4.729052,
+            54.092083
+          ],
+          [
+            -4.728965,
+            54.09213
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501446,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729052,
+            54.092132
+          ],
+          [
+            -4.729149,
+            54.092195
+          ],
+          [
+            -4.729269,
+            54.092132
+          ],
+          [
+            -4.729234,
+            54.092109
+          ],
+          [
+            -4.729222,
+            54.092116
+          ],
+          [
+            -4.729159,
+            54.092075
+          ],
+          [
+            -4.729052,
+            54.092132
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501447,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729206,
+            54.092203
+          ],
+          [
+            -4.729248,
+            54.09223
+          ],
+          [
+            -4.72922,
+            54.092244
+          ],
+          [
+            -4.729269,
+            54.092276
+          ],
+          [
+            -4.729296,
+            54.092261
+          ],
+          [
+            -4.729334,
+            54.092286
+          ],
+          [
+            -4.729465,
+            54.092216
+          ],
+          [
+            -4.729423,
+            54.092189
+          ],
+          [
+            -4.729408,
+            54.092197
+          ],
+          [
+            -4.729322,
+            54.092141
+          ],
+          [
+            -4.729206,
+            54.092203
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501448,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729413,
+            54.09232
+          ],
+          [
+            -4.729504,
+            54.092379
+          ],
+          [
+            -4.729604,
+            54.092326
+          ],
+          [
+            -4.729513,
+            54.092267
+          ],
+          [
+            -4.729413,
+            54.09232
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501449,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729621,
+            54.092465
+          ],
+          [
+            -4.72952,
+            54.092403
+          ],
+          [
+            -4.729619,
+            54.092347
+          ],
+          [
+            -4.729697,
+            54.092394
+          ],
+          [
+            -4.729705,
+            54.09239
+          ],
+          [
+            -4.729729,
+            54.092404
+          ],
+          [
+            -4.729621,
+            54.092465
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501450,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.729791,
+            54.092543
+          ],
+          [
+            -4.729776,
+            54.092433
+          ],
+          [
+            -4.729916,
+            54.092426
+          ],
+          [
+            -4.729915,
+            54.092415
+          ],
+          [
+            -4.730016,
+            54.09241
+          ],
+          [
+            -4.730032,
+            54.092532
+          ],
+          [
+            -4.729791,
+            54.092543
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501451,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.73017,
+            54.092474
+          ],
+          [
+            -4.730037,
+            54.0924
+          ],
+          [
+            -4.730094,
+            54.092365
+          ],
+          [
+            -4.730104,
+            54.09237
+          ],
+          [
+            -4.730132,
+            54.092353
+          ],
+          [
+            -4.730106,
+            54.092339
+          ],
+          [
+            -4.73018,
+            54.092293
+          ],
+          [
+            -4.730329,
+            54.092376
+          ],
+          [
+            -4.73017,
+            54.092474
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1293501452,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.730353,
+            54.092348
+          ],
+          [
+            -4.730207,
+            54.092268
+          ],
+          [
+            -4.730283,
+            54.09222
+          ],
+          [
+            -4.730297,
+            54.092228
+          ],
+          [
+            -4.730373,
+            54.092181
+          ],
+          [
+            -4.730505,
+            54.092253
+          ],
+          [
+            -4.730353,
+            54.092348
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:place": "Ballagawne",
+        "addr:postcode": "IM9 4DE",
+        "addr:street": "Bradda View Grove",
+        "building": "house"
       }
     }
   ]

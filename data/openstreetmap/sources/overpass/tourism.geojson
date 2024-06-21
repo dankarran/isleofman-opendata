@@ -6927,6 +6927,7 @@
         "building:levels": "1",
         "information": "office",
         "name": "Rushen Heritage Centre",
+        "name:en": "Rushen Heritage Centre",
         "name:gv": "Ynnyd Eiraght Rushen",
         "operator": "Rushen Heritage Trust",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -9807,48 +9808,6 @@
         "name": "Kilavrock",
         "source": "Bing",
         "tourism": "chalet"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 105051114,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.715645,
-            54.087319
-          ],
-          [
-            -4.715544,
-            54.087221
-          ],
-          [
-            -4.715661,
-            54.087179
-          ],
-          [
-            -4.715728,
-            54.087244
-          ],
-          [
-            -4.715672,
-            54.087264
-          ],
-          [
-            -4.715706,
-            54.087297
-          ],
-          [
-            -4.715645,
-            54.087319
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "Kentraugh Mill",
-        "tourism": "museum"
       }
     },
     {

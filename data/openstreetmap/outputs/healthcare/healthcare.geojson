@@ -2224,6 +2224,58 @@
     },
     {
       "type": "Feature",
+      "id": 279663205,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756062,
+            54.085143
+          ],
+          [
+            -4.756127,
+            54.085144
+          ],
+          [
+            -4.756135,
+            54.084991
+          ],
+          [
+            -4.756069,
+            54.08499
+          ],
+          [
+            -4.756063,
+            54.085122
+          ],
+          [
+            -4.756062,
+            54.085143
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Darnills complex",
+        "addr:postcode": "IM9 6AB",
+        "addr:street": "Station Road",
+        "amenity": "pharmacy",
+        "brand": "Clear Pharmacy",
+        "dispensing": "yes",
+        "healthcare": "pharmacy",
+        "name": "Clear Pharmacy",
+        "source": "survey",
+        "website": "https://www.clearpharmacy.im",
+        "osm_id": 279663205,
+        "lon": -4.756098269087088,
+        "lat": 54.085066825491786,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/279663205"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 414251745,
       "geometry": {
         "type": "LineString",

@@ -8297,6 +8297,7 @@
         "building:levels": "1",
         "information": "office",
         "name": "Rushen Heritage Centre",
+        "name:en": "Rushen Heritage Centre",
         "name:gv": "Ynnyd Eiraght Rushen",
         "operator": "Rushen Heritage Trust",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -11442,53 +11443,6 @@
         "lat": 54.08442151647161,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/105039289"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 105051114,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.715645,
-            54.087319
-          ],
-          [
-            -4.715544,
-            54.087221
-          ],
-          [
-            -4.715661,
-            54.087179
-          ],
-          [
-            -4.715728,
-            54.087244
-          ],
-          [
-            -4.715672,
-            54.087264
-          ],
-          [
-            -4.715706,
-            54.087297
-          ],
-          [
-            -4.715645,
-            54.087319
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "Kentraugh Mill",
-        "tourism": "museum",
-        "osm_id": 105051114,
-        "lon": -4.715644177163392,
-        "lat": 54.087247074461075,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/105051114"
       }
     },
     {

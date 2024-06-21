@@ -947,6 +947,92 @@
     },
     {
       "type": "Feature",
+      "id": 11984276010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756585,
+          54.086697
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "yes",
+        "capacity": "1",
+        "contact:phone": "+44 20 7247 4114",
+        "contact:website": "https://pod-point.com/",
+        "fee": "yes",
+        "name_ref": "Joye-Witt",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "payment:contactless": "yes",
+        "socket:chademo": "1",
+        "socket:chademo:output": "50 kW",
+        "socket:type2_combo": "1",
+        "socket:type2_combo:output": "50 kW",
+        "osm_id": 11984276010,
+        "lon": -4.756585,
+        "lat": 54.086697,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11984276010"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11988894003,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.765209,
+          54.091732
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "osm_id": 11988894003,
+        "lon": -4.765209,
+        "lat": 54.091732,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11988894003"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11989163010,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.765208,
+          54.091733
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-86230",
+        "ref_name": "Fern-Lulu",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
+        "osm_id": 11989163010,
+        "lon": -4.765208,
+        "lat": 54.091733,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11989163010"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1165384236,
       "geometry": {
         "type": "LineString",

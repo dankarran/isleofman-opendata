@@ -659,8 +659,12 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo 06:00, 17:30; Tu-Fr 17:30",
+        "colour": "red",
         "name": "Finch Road",
         "ref": "21B",
+        "royal_cypher": "no",
         "source": "survey",
         "osm_id": 283496413,
         "lon": -4.481102,
@@ -1910,6 +1914,16 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "McDowall Steven & Co Ltd London & Glasgow",
+        "name": "Littleswitzerland",
+        "note": "Yes, the name is 'Littleswitzerland' on the ground",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "25",
+        "royal_cypher": "EVIIR",
         "osm_id": 310977302,
         "lon": -4.468076,
         "lat": 54.164468,
@@ -2071,8 +2085,13 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "name": "Victoria Road",
         "operator": "Isle of Man Post Office",
         "post_box:type": "lamp",
+        "ref": "42",
         "royal_cypher": "EIIR",
         "royal_cypher:wikidata": "Q33102113",
         "osm_id": 456469153,
@@ -2094,6 +2113,15 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "A. Handyside & Co Ltd Derby & London",
+        "name": "Castle Mona Shops",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "23",
+        "royal_cypher": "VR",
         "osm_id": 463207458,
         "lon": -4.473128,
         "lat": 54.161368,
@@ -2398,50 +2426,6 @@
     },
     {
       "type": "Feature",
-      "id": 870642008,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.481102,
-          54.152608
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "Finch Road",
-        "ref": "21A",
-        "source": "survey",
-        "osm_id": 870642008,
-        "lon": -4.481102,
-        "lat": 54.152608,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/870642008"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 870642011,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.481101,
-          54.152595
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "Finch Road",
-        "ref": "21",
-        "source": "survey",
-        "osm_id": 870642011,
-        "lon": -4.481101,
-        "lat": 54.152595,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/870642011"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 873395515,
       "geometry": {
         "type": "Point",
@@ -2652,6 +2636,9 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
         "name": "Rose Gardens",
         "operator": "Isle of Man Post Office",
         "operator:en": "Isle of Man Post Office",
@@ -2659,6 +2646,8 @@
         "operator:wikidata": "Q3432267",
         "post_box:type": "lamp",
         "ref": "46",
+        "royal_cypher": "no",
+        "source": "survey",
         "osm_id": 1069323502,
         "lon": -4.479849,
         "lat": 54.158603,
@@ -4281,10 +4270,16 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "name": "Derby Road",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
+        "ref": "47",
         "royal_cypher": "GR",
         "royal_cypher:wikidata": "Q33102273",
-        "source": "mapillary;bing",
+        "source": "survey",
         "osm_id": 10313045469,
         "lon": -4.482176,
         "lat": 54.15734,
@@ -4416,8 +4411,15 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "Carron company Stirlingshire",
+        "name": "Little Switzerland",
         "post_box:type": "wall",
-        "source": "streetside",
+        "ref": "41",
+        "royal_cypher": "EIIR",
+        "source": "survey",
         "osm_id": 10314823785,
         "lon": -4.469909,
         "lat": 54.16731,
@@ -4931,6 +4933,33 @@
         "lat": 54.15133,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11704902912"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11997217983,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.471058,
+          54.167423
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "check_date": "2024-06-20",
+        "collection_times": "Mo 06:00,17:00; Tu-Fr 17:00",
+        "colour": "red",
+        "noname": "yes",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "41 S",
+        "royal_cypher": "no",
+        "osm_id": 11997217983,
+        "lon": -4.471058,
+        "lat": 54.167423,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11997217983"
       }
     }
   ]
