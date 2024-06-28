@@ -1009,6 +1009,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393655,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.550267,
+          54.197311
+        ]
+      },
+      "properties": {
+        "name": "Braaid Farm",
+        "place": "farm",
+        "postal_code": "IM4 4HJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393657,
       "geometry": {
         "type": "Point",
@@ -33567,6 +33585,74 @@
         "postal_code": "IM1 4HQ",
         "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 768889195,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.565598,
+            54.198979
+          ],
+          [
+            -4.565293,
+            54.199019
+          ],
+          [
+            -4.564458,
+            54.199127
+          ],
+          [
+            -4.564334,
+            54.198878
+          ],
+          [
+            -4.564008,
+            54.198796
+          ],
+          [
+            -4.564069,
+            54.198424
+          ],
+          [
+            -4.564085,
+            54.198068
+          ],
+          [
+            -4.564433,
+            54.198154
+          ],
+          [
+            -4.564414,
+            54.198457
+          ],
+          [
+            -4.564556,
+            54.198482
+          ],
+          [
+            -4.565739,
+            54.198637
+          ],
+          [
+            -4.565665,
+            54.198972
+          ],
+          [
+            -4.565598,
+            54.198979
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Bawshen Farm",
+        "postal_code": "IM4 2DN",
+        "source:name": "Isle of Man Government Companies Registry;Isle of Man Government Planning Applications",
+        "source:postal_code": "Isle of Man Government Companies Registry"
       }
     },
     {

@@ -6345,7 +6345,9 @@
       "properties": {
         "name": "Braaid Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM4 4HJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -10175,6 +10177,7 @@
       },
       "properties": {
         "name": "Cronk Breae",
+        "name:gv": "Cronk Breae",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
