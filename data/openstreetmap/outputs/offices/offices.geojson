@@ -1743,6 +1743,53 @@
     },
     {
       "type": "Feature",
+      "id": 59384796,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482592,
+            54.151132
+          ],
+          [
+            -4.482215,
+            54.151461
+          ],
+          [
+            -4.481986,
+            54.151371
+          ],
+          [
+            -4.482363,
+            54.151042
+          ],
+          [
+            -4.482592,
+            54.151132
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Registries Building",
+        "addr:postcode": "IM1 3AR",
+        "addr:street": "Deemsters' Walk",
+        "building": "yes",
+        "government": "register_office",
+        "name": "Central Registry",
+        "office": "government",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.gov.im/centralregistry",
+        "osm_id": 59384796,
+        "lon": -4.482289000000001,
+        "lat": 54.15125150000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/59384796"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59522588,
       "geometry": {
         "type": "LineString",
@@ -2691,6 +2738,127 @@
     },
     {
       "type": "Feature",
+      "id": 79141576,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48141,
+            54.151145
+          ],
+          [
+            -4.481278,
+            54.151101
+          ],
+          [
+            -4.48124,
+            54.151088
+          ],
+          [
+            -4.481235,
+            54.151066
+          ],
+          [
+            -4.481261,
+            54.150876
+          ],
+          [
+            -4.481253,
+            54.150867
+          ],
+          [
+            -4.481248,
+            54.150854
+          ],
+          [
+            -4.481254,
+            54.150838
+          ],
+          [
+            -4.481264,
+            54.150827
+          ],
+          [
+            -4.481253,
+            54.150799
+          ],
+          [
+            -4.481248,
+            54.150768
+          ],
+          [
+            -4.481259,
+            54.150731
+          ],
+          [
+            -4.481275,
+            54.150698
+          ],
+          [
+            -4.481326,
+            54.150672
+          ],
+          [
+            -4.481395,
+            54.150664
+          ],
+          [
+            -4.48157,
+            54.150732
+          ],
+          [
+            -4.481627,
+            54.150732
+          ],
+          [
+            -4.481655,
+            54.150745
+          ],
+          [
+            -4.481675,
+            54.150773
+          ],
+          [
+            -4.481787,
+            54.150816
+          ],
+          [
+            -4.48141,
+            54.151145
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Legislative Buildings",
+        "addr:postcode": "IM1 3PW",
+        "addr:street": "Bucks Road",
+        "building": "government",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "government": "parliament",
+        "name": "Tynwald",
+        "name:en": "Tynwald",
+        "name:gv": "Tinvaal",
+        "name:lt": "Tinvaldas",
+        "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
+        "office": "government",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "attraction",
+        "website": "https://www.tynwald.org.im/",
+        "wikidata": "Q827704",
+        "wikipedia": "en:Tynwald",
+        "osm_id": 79141576,
+        "lon": -4.481460627341768,
+        "lat": 54.150885780327016,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79141576"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141608,
       "geometry": {
         "type": "LineString",
@@ -3596,6 +3764,54 @@
         "lat": 54.07399311565078,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/91347946"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92057077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.530104,
+            54.153224
+          ],
+          [
+            -4.52977,
+            54.153515
+          ],
+          [
+            -4.529122,
+            54.153261
+          ],
+          [
+            -4.529456,
+            54.152969
+          ],
+          [
+            -4.5295,
+            54.152987
+          ],
+          [
+            -4.530104,
+            54.153224
+          ]
+        ]
+      },
+      "properties": {
+        "building": "industrial",
+        "contact:phone": "+44 1624 696300",
+        "government": "local_authority",
+        "name": "Douglas City Council Operational Service Centre",
+        "name:en": "Douglas City Council Operational Service Centre",
+        "name:gv": "Coyrle Ard-Valley Ghoolish",
+        "office": "government",
+        "website": "http://www.douglas.gov.im/",
+        "osm_id": 92057077,
+        "lon": -4.529612897408401,
+        "lat": 54.15324228003677,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/92057077"
       }
     },
     {

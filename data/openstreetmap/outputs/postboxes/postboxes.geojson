@@ -120,7 +120,14 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "name": "Cooil Drive",
+        "post_box:apertures": "1",
+        "post_box:type": "lamp",
         "ref": "59",
+        "royal_cypher": "EIIR",
         "osm_id": 283482890,
         "lon": -4.52472,
         "lat": 54.148109,
@@ -180,6 +187,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "wall",
         "ref": "157",
         "osm_id": 283484830,
         "lon": -4.75082,
@@ -243,9 +251,13 @@
       },
       "properties": {
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 06:00, 17:00; Sa 06:00; 11:00",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "McDowall, Steven & Co Ltd London & Glasgow",
         "name": "Market Hill",
         "operator": "IOM Post",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
         "ref": "15",
         "royal_cypher": "GR",
@@ -382,9 +394,15 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "Carron company Stirlingshire",
+        "name": "Farrants Way",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
-        "ref": "82",
+        "ref": "270",
+        "royal_cypher": "EIIR",
         "source": "survey",
         "osm_id": 283490374,
         "lon": -4.657221,
@@ -953,7 +971,14 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "Carron company Stirlingshire",
+        "name": "Ballalough",
+        "post_box:type": "lamp",
         "ref": "122",
+        "royal_cypher": "EIIR",
         "source": "survey",
         "osm_id": 283502944,
         "lon": -4.664065,
@@ -1743,7 +1768,9 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "pillar",
         "ref": "51",
+        "royal_cypher": "EIIR",
         "osm_id": 283519449,
         "lon": -4.484743,
         "lat": 54.166244,
@@ -1976,15 +2003,17 @@
       },
       "properties": {
         "amenity": "post_box",
-        "brand": "Royal Mail",
-        "brand:wikidata": "Q638098",
+        "brand": "Isle of Man Post Office",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 06:00,17:00; Sa 06:00",
+        "colour": "red",
         "mapillary": "265220775303512",
-        "operator": "Royal Mail",
-        "operator:wikidata": "Q638098",
+        "name": "Castletown Post Office",
+        "operator": "Isle of Man Post Office",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
         "ref": "121",
         "source": "survey",
-        "survey:date": "2020-08-18",
         "osm_id": 452016597,
         "lon": -4.653429,
         "lat": 54.073066,
@@ -2004,8 +2033,13 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-22",
+        "collection_times": "Mo-Fr 10:30",
+        "colour": "red",
         "drive_through": "no",
-        "name": "Laxey Station Pillar Postbox",
+        "manufacturer": "McDowall, Steven & Co Ltd London & Glasgow",
+        "name": "Laxey Station",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
         "ref": "102",
         "royal_cypher": "EVIIR",
@@ -2237,6 +2271,13 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "note": "No name and ref on the ground",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "royal_cypher": "no",
         "osm_id": 685338686,
         "lon": -4.484157,
         "lat": 54.153096,
@@ -2311,6 +2352,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "fixme": "No postbox found on 2024-06-23, resurvey to remove",
         "name": "Victoria Road",
         "ref": "128",
         "source": "survey",
@@ -2333,6 +2375,9 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
         "name": "Douglas Road",
         "operator": "Isle of Man Post Office",
         "operator:wikidata": "Q3432267",
@@ -2448,27 +2493,6 @@
     },
     {
       "type": "Feature",
-      "id": 943789019,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.476805,
-          54.157723
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "Castle Mona Avenue",
-        "ref": "22",
-        "osm_id": 943789019,
-        "lon": -4.476805,
-        "lat": 54.157723,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/943789019"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 948950542,
       "geometry": {
         "type": "Point",
@@ -2572,7 +2596,14 @@
       },
       "properties": {
         "amenity": "post_box",
-        "description": "small box by The Crofts",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "Machan Scotland",
+        "name": "The Crofts",
+        "post_box:type": "lamp",
+        "ref": "125",
+        "royal_cypher": "EIIR",
         "osm_id": 967981993,
         "lon": -4.6554,
         "lat": 54.075865,
@@ -2592,12 +2623,19 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "W.T.Allen & Co London",
         "name": "Swing Bridge",
         "operator": "Isle of Man Post Office",
         "operator:en": "Isle of Man Post Office",
         "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
+        "post_box:apertures": "1",
+        "post_box:type": "wall",
         "ref": "14",
+        "royal_cypher": "EVIIR",
         "osm_id": 1068540369,
         "lon": -4.477327,
         "lat": 54.146738,
@@ -2690,9 +2728,15 @@
       },
       "properties": {
         "amenity": "post_box",
-        "post_box:apertures": "2",
+        "check_date": "2024-06-22",
+        "collection_times": "Mo 06:00,15:30; Tu-Fr 15:30; Sa 12:00",
+        "colour": "red",
+        "manufacturer": "Machan Eng",
+        "name": "Court Row",
+        "post_box:apertures": "1",
         "post_box:design": "type_c",
         "post_box:type": "pillar",
+        "ref": "200",
         "royal_cypher": "EIIR",
         "royal_cypher:wikidata": "Q33102113",
         "osm_id": 1138944193,
@@ -2770,29 +2814,6 @@
     },
     {
       "type": "Feature",
-      "id": 1736770834,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.481235,
-          54.149769
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "Athol Street",
-        "post_box:type": "meter",
-        "ref": "10B",
-        "source": "survey",
-        "osm_id": 1736770834,
-        "lon": -4.481235,
-        "lat": 54.149769,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1736770834"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1736770838,
       "geometry": {
         "type": "Point",
@@ -2803,9 +2824,13 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo 06:00,17:30; Tu-Fr 17:30",
+        "colour": "red",
         "name": "Athol Street",
         "post_box:type": "meter",
         "ref": "10A",
+        "royal_cypher": "no",
         "source": "survey",
         "osm_id": 1736770838,
         "lon": -4.481228,
@@ -2826,9 +2851,14 @@
       },
       "properties": {
         "amenity": "post_box",
-        "name": "North Athol Street",
+        "check_date": "2024-06-21",
+        "colour": "red",
+        "manufacturer": "A Handyside & Co Ltd Derby & London",
+        "name": "Athol St North",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
         "ref": "10",
+        "royal_cypher": "VR",
         "source": "survey",
         "osm_id": 1736770841,
         "lon": -4.481243,
@@ -2849,6 +2879,15 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-22",
+        "collection_times": "Mo 10:00,15:30; Tu-Fr 15:30",
+        "colour": "red",
+        "manufacturer": "Carron company Stirlingshire",
+        "name": "St Paul's Square",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "ref": "213",
+        "royal_cypher": "GR",
         "osm_id": 1774120157,
         "lon": -4.379442,
         "lat": 54.32093,
@@ -2912,52 +2951,18 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "colour": "red",
+        "manufacturer": "Carronade Engineering Co Ltd Falkirk",
+        "post_box:apertures": "1",
+        "post_box:design": "type_k",
         "post_box:type": "pillar",
+        "royal_cypher": "EIIR",
         "osm_id": 1823105075,
         "lon": -4.483433,
         "lat": 54.148712,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1823105075"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1823105076,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.483418,
-          54.148718
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "post_box:type": "meter",
-        "osm_id": 1823105076,
-        "lon": -4.483418,
-        "lat": 54.148718,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1823105076"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1823105082,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.483403,
-          54.148724
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "post_box:type": "meter",
-        "osm_id": 1823105082,
-        "lon": -4.483403,
-        "lat": 54.148724,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1823105082"
       }
     },
     {
@@ -2972,36 +2977,18 @@
       },
       "properties": {
         "amenity": "post_box",
-        "name": "PO Headquarters",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 06:00,17:30; Sa 06:00-11:00",
+        "colour": "red",
+        "name": "Capital Box",
         "post_box:type": "meter",
         "ref": "1B",
+        "royal_cypher": "no",
         "osm_id": 1827083732,
         "lon": -4.483923,
         "lat": 54.150591,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1827083732"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1827083733,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.483908,
-          54.150602
-        ]
-      },
-      "properties": {
-        "amenity": "post_box",
-        "name": "PO Headquarters",
-        "post_box:type": "meter",
-        "ref": "1A",
-        "osm_id": 1827083733,
-        "lon": -4.483908,
-        "lat": 54.150602,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1827083733"
       }
     },
     {
@@ -3016,9 +3003,13 @@
       },
       "properties": {
         "amenity": "post_box",
-        "name": "PO Headquarters",
+        "collection_times": "Mo 06:00,17:00; Tu-Fr 17:00",
+        "colour": "red",
+        "manufacturer": "Handyside Derby & London",
+        "note": "No name and ref on the ground",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
-        "ref": "1",
+        "royal_cypher": "VR",
         "osm_id": 1827083734,
         "lon": -4.483894,
         "lat": 54.150613,
@@ -3143,6 +3134,7 @@
         "amenity": "post_box",
         "collection_times": "Tu-Fr 16:45; Mo 06:30-06:30; Mo 16:45-16:45",
         "name": "Reayrt Aalin",
+        "post_box:type": "lamp",
         "ref": "180",
         "royal_cypher": "EIIR",
         "royal_cypher:wikidata": "Q33102113",
@@ -3281,9 +3273,13 @@
       },
       "properties": {
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 06:15,16:00; Sa 06:15",
-        "name": "Airport Terminal",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "name": "Airport Foyer",
+        "note": "A picture on the red post box",
         "operator": "IOM Post",
+        "post_box:apertures": "1",
         "ref": "118",
         "royal_cypher": "no",
         "source": "survey",
@@ -4299,10 +4295,16 @@
       },
       "properties": {
         "amenity": "post_box",
-        "fixme": "Check presence after completion of surrounding developments. As of 24 July 2023, still present but not completed.",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo-Fr 10:00",
+        "colour": "red",
+        "manufacturer": "W.T.Allen & Co Ltd London",
         "mapillary": "121337036931802",
+        "name": "School Hill",
         "post_box:mounting": "brick_pillar",
         "post_box:type": "wall",
+        "ref": "130",
+        "royal_cypher": "EIIR",
         "osm_id": 10313045926,
         "lon": -4.656177,
         "lat": 54.078267,
@@ -4322,7 +4324,15 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo 06:00,17:00; Tu-Fr 17:00",
+        "colour": "red",
+        "manufacturer": "McDowall, Steven & Co Ltd London & Falkirk",
+        "name": "Windsor Rd PO",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
+        "ref": "8",
+        "royal_cypher": "GVIR",
         "osm_id": 10313069962,
         "lon": -4.483494,
         "lat": 54.154774,
@@ -4634,7 +4644,14 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 11:30; Sa 10:30",
+        "colour": "red",
+        "name": "Oakhill",
+        "post_box:apertures": "1",
         "post_box:type": "lamp",
+        "ref": "65",
+        "royal_cypher": "EIIR",
         "osm_id": 10717600769,
         "lon": -4.521105,
         "lat": 54.134227,
@@ -4859,11 +4876,14 @@
       },
       "properties": {
         "amenity": "post_box",
+        "check_date": "2024-06-22",
         "collection_times": "Mo-Fr 06:00,16:45; Sa 06:45,12:00",
         "colour": "red",
-        "description": "SPAR box",
+        "name": "Spar Box",
         "operator": "Isle of Man Post Office",
+        "post_box:apertures": "1",
         "post_box:type": "pillar",
+        "royal_cypher": "no",
         "osm_id": 10827283635,
         "lon": -4.382021,
         "lat": 54.321675,
@@ -4923,11 +4943,14 @@
       },
       "properties": {
         "amenity": "post_box",
-        "collection_times": "Mo-Fr 08:00,18:00",
+        "check_date": "2024-06-21",
+        "collection_times": "Mo-Fr 06:00,18:00",
+        "colour": "red",
+        "note": "No name or ref on the ground",
         "operator": "Isle of Man Post",
         "post_box:type": "meter",
         "royal_cypher": "CIIIR",
-        "source": "https://www.three.fm/news/isle-of-man-news/kings-cypher-unveiled-on-post-box/",
+        "source": "survey",
         "osm_id": 11704902912,
         "lon": -4.529119,
         "lat": 54.15133,
@@ -4960,6 +4983,53 @@
         "lat": 54.167423,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11997217983"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12003623785,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479108,
+          54.15174
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "check_date": "2024-06-23",
+        "collection_times": "Mo 06:00,17:00; Tu-Fr 17:00",
+        "colour": "red",
+        "manufacturer": "no",
+        "name": "Strand Street PO",
+        "post_box:apertures": "1",
+        "post_box:type": "pillar",
+        "royal_cypher": "no",
+        "osm_id": 12003623785,
+        "lon": -4.479108,
+        "lat": 54.15174,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12003623785"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12009889445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.385197,
+          54.322194
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "post_box:type": "lamp",
+        "osm_id": 12009889445,
+        "lon": -4.385197,
+        "lat": 54.322194,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12009889445"
       }
     }
   ]

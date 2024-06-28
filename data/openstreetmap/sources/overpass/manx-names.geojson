@@ -3,6 +3,26 @@
   "features": [
     {
       "type": "Feature",
+      "id": 283479392,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.70306,
+          54.184658
+        ]
+      },
+      "properties": {
+        "alt_name": "Glenmaye",
+        "name": "Glen Maye",
+        "name:en": "Glen Maye",
+        "name:gv": "Glion Meay",
+        "place": "village",
+        "wikidata": "Q3495211",
+        "wikipedia": "en:Glen Maye"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 283485908,
       "geometry": {
         "type": "Point",
@@ -1303,6 +1323,23 @@
     },
     {
       "type": "Feature",
+      "id": 842400476,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.70533,
+          54.103404
+        ]
+      },
+      "properties": {
+        "name": "Colby Glen",
+        "name:en": "Colby Glen",
+        "name:gv": "Glion Colby",
+        "place": "hamlet"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1200806942,
       "geometry": {
         "type": "Point",
@@ -1338,6 +1375,43 @@
         "place": "village",
         "wikidata": "Q520798",
         "wikipedia": "en:Port Erin"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287831031,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.631618,
+          54.097785
+        ]
+      },
+      "properties": {
+        "name": "Ballasalla",
+        "name:en": "Ballasalla",
+        "name:gv": "Balley Sallagh",
+        "place": "village",
+        "wikidata": "Q2881163",
+        "wikipedia": "en:Ballasalla"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1287831033,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.704633,
+          54.096602
+        ]
+      },
+      "properties": {
+        "name": "Colby",
+        "name:en": "Colby",
+        "name:gv": "Colby",
+        "place": "village",
+        "wikidata": "Q5142001"
       }
     },
     {
@@ -1552,6 +1626,7 @@
         "name:it": "Isola di Man",
         "name:ja": "\u30de\u30f3\u5cf6",
         "name:kn": "\u0c90\u0cb2\u0ccd \u0c86\u0cab\u0ccd \u0cae\u0ccd\u0caf\u0cbe\u0ca8\u0ccd",
+        "name:ko": "\ub9e8\uc12c",
         "name:ku": "Girava Man\u00ea",
         "name:kw": "Manow",
         "name:la": "Monapia",
@@ -1602,6 +1677,43 @@
         "train": "yes",
         "wikidata": "Q7365445",
         "wikimedia_commons": "File:Ronaldsway Halt.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1773962837,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.552984,
+          54.176946
+        ]
+      },
+      "properties": {
+        "name": "Glen Vine",
+        "name:gv": "Glion Vian",
+        "place": "village",
+        "wikidata": "Q5568088",
+        "wikipedia": "en:Glen Vine"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1773962839,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.522811,
+          54.16977
+        ]
+      },
+      "properties": {
+        "name": "Union Mills",
+        "name:en": "Union Mills",
+        "name:gv": "Mwyllin Doo Aah",
+        "place": "village",
+        "wikidata": "Q692852",
+        "wikipedia": "en:Union Mills"
       }
     },
     {
@@ -6784,60 +6896,60 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474868,
-            54.177872
+            -4.474839,
+            54.177857
           ],
           [
-            -4.474295,
-            54.178212
+            -4.474299,
+            54.178191
           ],
           [
-            -4.474244,
-            54.178263
+            -4.474265,
+            54.178258
           ],
           [
-            -4.474273,
-            54.178392
+            -4.474259,
+            54.178371
           ],
           [
-            -4.474339,
-            54.178483
+            -4.474316,
+            54.178493
           ],
           [
-            -4.474496,
-            54.178699
+            -4.474481,
+            54.178686
           ],
           [
-            -4.474835,
-            54.179124
+            -4.474851,
+            54.179078
           ],
           [
-            -4.474834,
-            54.179194
+            -4.47485,
+            54.179148
           ],
           [
-            -4.47474,
-            54.179297
+            -4.474753,
+            54.179254
           ],
           [
-            -4.474679,
-            54.179355
+            -4.474695,
+            54.179309
           ],
           [
-            -4.474554,
-            54.179449
+            -4.47457,
+            54.179403
           ],
           [
-            -4.47445,
-            54.179535
+            -4.474466,
+            54.179489
           ],
           [
-            -4.474088,
-            54.179775
+            -4.474105,
+            54.179729
           ],
           [
-            -4.474058,
-            54.179822
+            -4.474074,
+            54.179776
           ],
           [
             -4.47403,
@@ -6888,64 +7000,72 @@
             54.179667
           ],
           [
-            -4.471628,
-            54.17957
+            -4.471606,
+            54.179585
           ],
           [
-            -4.471754,
-            54.179467
+            -4.471724,
+            54.179469
           ],
           [
-            -4.471999,
-            54.179355
+            -4.472023,
+            54.179363
           ],
           [
-            -4.472312,
-            54.179219
+            -4.472329,
+            54.179244
           ],
           [
-            -4.472483,
-            54.179155
+            -4.472498,
+            54.179166
           ],
           [
             -4.472637,
             54.179101
           ],
           [
-            -4.472735,
-            54.17899
+            -4.47271,
+            54.179056
+          ],
+          [
+            -4.472759,
+            54.178997
           ],
           [
             -4.472863,
             54.178785
           ],
           [
-            -4.472974,
-            54.178542
+            -4.472912,
+            54.178672
           ],
           [
-            -4.473121,
-            54.178409
+            -4.472964,
+            54.17855
           ],
           [
-            -4.473286,
-            54.178298
+            -4.473186,
+            54.178341
           ],
           [
-            -4.473543,
+            -4.473294,
+            54.17829
+          ],
+          [
+            -4.473549,
+            54.17823
+          ],
+          [
+            -4.473871,
+            54.178235
+          ],
+          [
+            -4.473975,
             54.17824
           ],
           [
-            -4.473863,
-            54.178242
-          ],
-          [
-            -4.473967,
-            54.178248
-          ],
-          [
-            -4.474244,
-            54.178263
+            -4.474265,
+            54.178258
           ]
         ]
       },
@@ -10611,6 +10731,10 @@
             54.085024
           ],
           [
+            -4.748715,
+            54.085018
+          ],
+          [
             -4.748645,
             54.08501
           ],
@@ -10832,8 +10956,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.471415,
-            54.179079
+            -4.471401,
+            54.178994
+          ],
+          [
+            -4.471459,
+            54.179049
+          ],
+          [
+            -4.471418,
+            54.179076
           ],
           [
             -4.471386,
@@ -12941,6 +13073,7 @@
         "name:en": "East Street",
         "name:gv": "Straid Hiar",
         "oneway": "yes",
+        "parking:both:restriction": "no_parking",
         "source": "survey"
       }
     },
@@ -18866,16 +18999,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.473617,
-            54.17803
+            -4.473614,
+            54.178027
           ],
           [
-            -4.47355,
-            54.178115
+            -4.473548,
+            54.178113
           ],
           [
-            -4.473438,
-            54.178164
+            -4.473435,
+            54.178162
           ]
         ]
       },
@@ -19448,44 +19581,64 @@
             54.17944
           ],
           [
-            -4.477008,
+            -4.477002,
+            54.179454
+          ],
+          [
+            -4.476821,
             54.179436
           ],
           [
-            -4.476628,
-            54.179385
+            -4.476618,
+            54.179404
           ],
           [
-            -4.476413,
-            54.179318
+            -4.476386,
+            54.17934
           ],
           [
-            -4.476306,
-            54.179285
+            -4.476283,
+            54.179297
           ],
           [
-            -4.476034,
-            54.179147
+            -4.476143,
+            54.179233
           ],
           [
-            -4.475963,
-            54.179084
+            -4.476033,
+            54.17917
           ],
           [
-            -4.475818,
-            54.178918
+            -4.475939,
+            54.179091
           ],
           [
-            -4.4756,
-            54.178594
+            -4.475868,
+            54.179017
           ],
           [
-            -4.475518,
-            54.178487
+            -4.475792,
+            54.178923
           ],
           [
-            -4.475334,
-            54.178224
+            -4.475694,
+            54.178785
+          ],
+          [
+            -4.475575,
+            54.178603
+          ],
+          [
+            -4.475517,
+            54.1785
+          ],
+          [
+            -4.475425,
+            54.178356
+          ],
+          [
+            -4.4753,
+            54.178202
           ]
         ]
       },
@@ -20418,6 +20571,52 @@
     },
     {
       "type": "Feature",
+      "id": 25988031,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.67983,
+            54.225696
+          ],
+          [
+            -4.679824,
+            54.225624
+          ],
+          [
+            -4.679835,
+            54.225572
+          ],
+          [
+            -4.680715,
+            54.225297
+          ],
+          [
+            -4.680769,
+            54.225301
+          ],
+          [
+            -4.680825,
+            54.225334
+          ],
+          [
+            -4.680862,
+            54.225366
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ramsey Road",
+        "name:en": "Ramsey Road",
+        "name:gv": "Raad Rhumsaa",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988043,
       "geometry": {
         "type": "LineString",
@@ -20475,12 +20674,12 @@
             54.166289
           ],
           [
-            -4.473385,
-            54.166142
+            -4.473289,
+            54.16609
           ],
           [
-            -4.473276,
-            54.166077
+            -4.473232,
+            54.166061
           ]
         ]
       },
@@ -24273,44 +24472,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.473953,
-            54.178148
+            -4.473921,
+            54.178139
           ],
           [
-            -4.473804,
-            54.178083
+            -4.473802,
+            54.17808
           ],
           [
-            -4.473617,
-            54.17803
+            -4.473614,
+            54.178027
           ],
           [
-            -4.473548,
-            54.178012
+            -4.473363,
+            54.177985
           ],
           [
-            -4.473395,
-            54.178003
+            -4.473298,
+            54.177987
           ],
           [
-            -4.473307,
-            54.178034
+            -4.473249,
+            54.178006
           ],
           [
-            -4.473294,
-            54.178067
+            -4.473235,
+            54.178047
           ],
           [
-            -4.473332,
-            54.178122
+            -4.473329,
+            54.17812
           ],
           [
-            -4.473438,
-            54.178164
+            -4.473435,
+            54.178162
           ],
           [
-            -4.473543,
-            54.17824
+            -4.473549,
+            54.17823
           ]
         ]
       },
@@ -25649,16 +25848,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.471754,
-            54.179467
+            -4.471724,
+            54.179469
           ],
           [
-            -4.471376,
-            54.179268
+            -4.471563,
+            54.179364
           ],
           [
-            -4.471282,
-            54.179305
+            -4.471362,
+            54.179254
+          ],
+          [
+            -4.471268,
+            54.179293
           ]
         ]
       },
@@ -27677,6 +27880,42 @@
         "name:gv": "Bayr Glion Purt Soderick",
         "ref": "B23",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989247,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.678634,
+            54.226097
+          ],
+          [
+            -4.6773,
+            54.226546
+          ],
+          [
+            -4.677132,
+            54.2266
+          ],
+          [
+            -4.676193,
+            54.226917
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Ramsey Road",
+        "name:en": "Ramsey Road",
+        "name:gv": "Raad Rhumsaa",
+        "ref": "A4",
+        "sidewalk:left": "yes",
+        "surface": "paved"
       }
     },
     {
@@ -29906,8 +30145,8 @@
             54.220146
           ],
           [
-            -4.695673,
-            54.219368
+            -4.695684,
+            54.219367
           ]
         ]
       },
@@ -31180,24 +31419,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.472974,
-            54.178542
+            -4.472964,
+            54.17855
           ],
           [
-            -4.472683,
-            54.178447
+            -4.472753,
+            54.178479
+          ],
+          [
+            -4.472639,
+            54.178426
+          ],
+          [
+            -4.472563,
+            54.178364
           ],
           [
             -4.472412,
             54.178276
           ],
           [
-            -4.472251,
-            54.178259
+            -4.47227,
+            54.178252
           ],
           [
-            -4.472062,
-            54.178277
+            -4.472054,
+            54.178272
           ],
           [
             -4.471921,
@@ -31220,8 +31467,8 @@
             54.178716
           ],
           [
-            -4.471949,
-            54.178835
+            -4.471951,
+            54.178806
           ]
         ]
       },
@@ -35677,7 +35924,7 @@
           ],
           [
             -4.379112,
-            54.32151
+            54.321506
           ],
           [
             -4.378857,
@@ -35920,6 +36167,8 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
         "highway": "primary",
         "maxspeed": "30 mph",
         "name": "Ballaquayle Road",
@@ -42690,19 +42939,20 @@
         "addr:housename": "Legislative Buildings",
         "addr:postcode": "IM1 3PW",
         "addr:street": "Bucks Road",
-        "amenity": "parliament",
-        "building": "parliament",
+        "building": "government",
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "government": "parliament",
         "name": "Tynwald",
         "name:en": "Tynwald",
         "name:gv": "Tinvaal",
         "name:lt": "Tinvaldas",
         "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
+        "office": "government",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
-        "website": "https://www.tynwald.org.im//",
+        "website": "https://www.tynwald.org.im/",
         "wikidata": "Q827704",
         "wikipedia": "en:Tynwald"
       }
@@ -45379,34 +45629,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.530049,
-            54.153232
+            -4.530104,
+            54.153224
           ],
           [
-            -4.529715,
-            54.153523
+            -4.52977,
+            54.153515
           ],
           [
-            -4.529067,
-            54.153269
+            -4.529122,
+            54.153261
           ],
           [
-            -4.529401,
-            54.152977
+            -4.529456,
+            54.152969
           ],
           [
-            -4.530049,
-            54.153232
+            -4.5295,
+            54.152987
+          ],
+          [
+            -4.530104,
+            54.153224
           ]
         ]
       },
       "properties": {
-        "amenity": "works",
-        "building": "yes",
-        "name": "Douglas Borough Council",
-        "name:en": "Douglas Borough Council",
-        "name:gv": "Coonceil Balley Corpagh Doolish",
-        "website": "http://www.douglas.gov.im"
+        "building": "industrial",
+        "contact:phone": "+44 1624 696300",
+        "government": "local_authority",
+        "name": "Douglas City Council Operational Service Centre",
+        "name:en": "Douglas City Council Operational Service Centre",
+        "name:gv": "Coyrle Ard-Valley Ghoolish",
+        "office": "government",
+        "website": "http://www.douglas.gov.im/"
       }
     },
     {
@@ -51267,12 +51523,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.470972,
-            54.17956
+            -4.470987,
+            54.179586
           ],
           [
-            -4.470887,
-            54.17956
+            -4.470848,
+            54.179575
           ]
         ]
       },
@@ -52267,8 +52523,8 @@
             54.163291
           ],
           [
-            -4.483034,
-            54.163174
+            -4.483026,
+            54.163159
           ]
         ]
       },
@@ -56662,6 +56918,106 @@
     },
     {
       "type": "Feature",
+      "id": 165792254,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675784,
+            54.226986
+          ],
+          [
+            -4.675805,
+            54.226973
+          ],
+          [
+            -4.675832,
+            54.226965
+          ],
+          [
+            -4.675862,
+            54.226963
+          ],
+          [
+            -4.67589,
+            54.226966
+          ],
+          [
+            -4.675914,
+            54.226973
+          ],
+          [
+            -4.675934,
+            54.226985
+          ],
+          [
+            -4.675946,
+            54.227
+          ],
+          [
+            -4.67595,
+            54.227018
+          ],
+          [
+            -4.675943,
+            54.227036
+          ],
+          [
+            -4.675927,
+            54.227052
+          ],
+          [
+            -4.675902,
+            54.227063
+          ],
+          [
+            -4.675873,
+            54.227068
+          ],
+          [
+            -4.675844,
+            54.227068
+          ],
+          [
+            -4.675816,
+            54.227062
+          ],
+          [
+            -4.675792,
+            54.227051
+          ],
+          [
+            -4.675776,
+            54.227037
+          ],
+          [
+            -4.675769,
+            54.227019
+          ],
+          [
+            -4.675772,
+            54.227002
+          ],
+          [
+            -4.675784,
+            54.226986
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "junction": "roundabout",
+        "maxspeed": "30 mph",
+        "name": "Ramsey Road",
+        "name:en": "Ramsey Road",
+        "name:gv": "Raad Rhumsaa",
+        "ref": "A4",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 165795651,
       "geometry": {
         "type": "LineString",
@@ -56871,36 +57227,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693939,
-            54.21892
+            -4.693937,
+            54.218909
           ],
           [
-            -4.693699,
-            54.218927
+            -4.693815,
+            54.218906
           ],
           [
-            -4.693418,
-            54.21899
+            -4.693697,
+            54.218915
           ],
           [
-            -4.693169,
-            54.219066
+            -4.69356,
+            54.218942
           ],
           [
-            -4.692943,
-            54.219156
+            -4.693406,
+            54.218981
           ],
           [
-            -4.692747,
-            54.219254
+            -4.693144,
+            54.219059
           ],
           [
-            -4.692606,
-            54.21935
+            -4.692932,
+            54.219139
           ],
           [
-            -4.692495,
-            54.219501
+            -4.692833,
+            54.219186
+          ],
+          [
+            -4.692742,
+            54.219242
+          ],
+          [
+            -4.692608,
+            54.219345
+          ],
+          [
+            -4.692533,
+            54.219427
+          ],
+          [
+            -4.69248,
+            54.219512
           ],
           [
             -4.692433,
@@ -60938,6 +61310,33 @@
     },
     {
       "type": "Feature",
+      "id": 186074544,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529686,
+            54.152817
+          ],
+          [
+            -4.529318,
+            54.152677
+          ],
+          [
+            -4.52908,
+            54.152587
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Woodland Close",
+        "name:en": "Woodland Close",
+        "name:gv": "Close Thalloo Keylley"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 186131618,
       "geometry": {
         "type": "LineString",
@@ -63574,8 +63973,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483034,
-            54.163174
+            -4.483026,
+            54.163159
           ],
           [
             -4.482785,
@@ -63609,16 +64008,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.475108,
-            54.17806
+            -4.475142,
+            54.178093
           ],
           [
             -4.475021,
             54.177973
           ],
           [
-            -4.474868,
-            54.177872
+            -4.474839,
+            54.177857
           ],
           [
             -4.4746,
@@ -63707,12 +64106,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.475108,
-            54.17806
+            -4.475142,
+            54.178093
           ],
           [
-            -4.475334,
-            54.178224
+            -4.4753,
+            54.178202
           ]
         ]
       },
@@ -63781,8 +64180,8 @@
             54.179204
           ],
           [
-            -4.471376,
-            54.179268
+            -4.471362,
+            54.179254
           ]
         ]
       },
@@ -63805,20 +64204,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.471282,
-            54.179305
+            -4.471268,
+            54.179293
           ],
           [
             -4.471177,
             54.179347
           ],
           [
-            -4.470972,
-            54.17956
+            -4.470987,
+            54.179586
           ],
           [
-            -4.471012,
-            54.179618
+            -4.471033,
+            54.179624
           ]
         ]
       },
@@ -73639,8 +74038,8 @@
             54.163134
           ],
           [
-            -4.483034,
-            54.163174
+            -4.483026,
+            54.163159
           ]
         ]
       },
@@ -73819,6 +74218,35 @@
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 529202833,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529907,
+            54.152878
+          ],
+          [
+            -4.529845,
+            54.152877
+          ],
+          [
+            -4.529686,
+            54.152817
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "industrial",
+        "highway": "unclassified",
+        "name": "Woodland Close",
+        "name:en": "Woodland Close",
+        "name:gv": "Close Thalloo Keylley",
+        "surface": "paved"
       }
     },
     {
@@ -85793,6 +86221,38 @@
     },
     {
       "type": "Feature",
+      "id": 1196897510,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483505,
+            54.163997
+          ],
+          [
+            -4.483467,
+            54.163984
+          ],
+          [
+            -4.483439,
+            54.163956
+          ],
+          [
+            -4.483205,
+            54.163407
+          ]
+        ]
+      },
+      "properties": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Laureston View",
+        "name:en": "Laureston View",
+        "name:gv": "Reayrt Laureston"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1197121688,
       "geometry": {
         "type": "LineString",
@@ -86266,6 +86726,110 @@
         "ref": "A20",
         "sidewalk:both": "yes",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1203510604,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.680862,
+            54.225366
+          ],
+          [
+            -4.680377,
+            54.225521
+          ],
+          [
+            -4.67983,
+            54.225696
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Ramsey Road",
+        "name:en": "Ramsey Road",
+        "name:gv": "Raad Rhumsaa",
+        "ref": "A4",
+        "sidewalk:left": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1203510605,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.67983,
+            54.225696
+          ],
+          [
+            -4.679545,
+            54.22579
+          ],
+          [
+            -4.678869,
+            54.226021
+          ],
+          [
+            -4.678829,
+            54.226031
+          ],
+          [
+            -4.678634,
+            54.226097
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Ramsey Road",
+        "name:en": "Ramsey Road",
+        "name:gv": "Raad Rhumsaa",
+        "ref": "A4",
+        "sidewalk:both": "yes",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1203510606,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.676193,
+            54.226917
+          ],
+          [
+            -4.676075,
+            54.226957
+          ],
+          [
+            -4.675946,
+            54.227
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Ramsey Road",
+        "name:en": "Ramsey Road",
+        "name:gv": "Raad Rhumsaa",
+        "ref": "A4",
+        "sidewalk:both": "yes",
+        "surface": "paved"
       }
     },
     {
@@ -87545,6 +88109,34 @@
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1294863455,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471459,
+            54.179049
+          ],
+          [
+            -4.471503,
+            54.179066
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
       }
     }
   ]

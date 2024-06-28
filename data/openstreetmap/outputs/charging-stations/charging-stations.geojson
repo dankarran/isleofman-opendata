@@ -1033,30 +1033,12 @@
     },
     {
       "type": "Feature",
-      "id": 1165384236,
+      "id": 12009872054,
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            -4.478399,
-            54.153819
-          ],
-          [
-            -4.478357,
-            54.154024
-          ],
-          [
-            -4.478328,
-            54.154022
-          ],
-          [
-            -4.478371,
-            54.153817
-          ],
-          [
-            -4.478399,
-            54.153819
-          ]
+          -4.379552,
+          54.321505
         ]
       },
       "properties": {
@@ -1066,16 +1048,142 @@
         "authentication:url": "https://charge.pod-point.com/",
         "authentication:website": "yes",
         "brand": "Pod Point",
-        "capacity": "4",
+        "capacity": "2",
         "fee": "yes",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
         "operator:wikipedia": "en:Pod Point",
-        "osm_id": 1165384236,
-        "lon": -4.478363699374565,
-        "lat": 54.15392071444446,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/1165384236"
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12009872054,
+        "lon": -4.379552,
+        "lat": 54.321505,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12009872054"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12009872055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379658,
+          54.321486
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12009872055,
+        "lon": -4.379658,
+        "lat": 54.321486,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12009872055"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017443317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478199,
+          54.151916
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2:output": "7 kW",
+        "website": "https://charge.pod-point.com/address/loch-promenade-rxeme",
+        "osm_id": 12017443317,
+        "lon": -4.478199,
+        "lat": 54.151916,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12017443317"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017443318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478383,
+          54.153895
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12017443318,
+        "lon": -4.478383,
+        "lat": 54.153895,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12017443318"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017443319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478361,
+          54.154006
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12017443319,
+        "lon": -4.478361,
+        "lat": 54.154006,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12017443319"
       }
     },
     {
@@ -1124,54 +1232,6 @@
         "lat": 54.15972299999999,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1167710497"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1174305874,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478192,
-            54.151849
-          ],
-          [
-            -4.478225,
-            54.151992
-          ],
-          [
-            -4.478189,
-            54.152019
-          ],
-          [
-            -4.47815,
-            54.151852
-          ],
-          [
-            -4.478192,
-            54.151849
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "charging_station",
-        "authentication:app": "yes",
-        "authentication:none": "no",
-        "authentication:url": "https://charge.pod-point.com/",
-        "authentication:website": "yes",
-        "brand": "Pod Point",
-        "capacity": "2",
-        "fee": "yes",
-        "operator": "Pod Point",
-        "operator:wikidata": "Q42888154",
-        "operator:wikipedia": "en:Pod Point",
-        "website": "https://charge.pod-point.com/address/loch-promenade-rxeme",
-        "osm_id": 1174305874,
-        "lon": -4.478187938566747,
-        "lat": 54.151929010760234,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/1174305874"
       }
     },
     {

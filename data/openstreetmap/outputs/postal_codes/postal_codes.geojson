@@ -4407,8 +4407,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.47445,
-            54.179535
+            -4.474466,
+            54.179489
           ],
           [
             -4.474799,
@@ -4423,8 +4423,8 @@
             54.180015
           ],
           [
-            -4.475081,
-            54.180112
+            -4.475038,
+            54.180078
           ],
           [
             -4.475296,
@@ -4461,8 +4461,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986052,
-        "lon": -4.475024468295811,
-        "lat": 54.18016271785843,
+        "lon": -4.4750240755180135,
+        "lat": 54.18015519697541,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986052"
       }
@@ -4893,6 +4893,10 @@
             54.163927
           ],
           [
+            -4.474779,
+            54.16424
+          ],
+          [
             -4.47453,
             54.16438
           ]
@@ -4905,8 +4909,8 @@
         "postal_code": "IM2 4AX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986117,
-        "lon": -4.474932,
-        "lat": 54.1641535,
+        "lon": -4.474932063005281,
+        "lat": 54.16415361188882,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986117"
       }
@@ -6032,38 +6036,47 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474496,
-            54.178699
+            -4.474369,
+            54.178716
           ],
           [
-            -4.474161,
-            54.178794
+            -4.474271,
+            54.178743
           ],
           [
-            -4.473876,
-            54.178894
+            -4.474102,
+            54.178788
           ],
           [
-            -4.473493,
-            54.178713
+            -4.473932,
+            54.178857
           ],
           [
-            -4.473284,
-            54.178786
+            -4.473644,
+            54.178731
+          ],
+          [
+            -4.47351,
+            54.178656
+          ],
+          [
+            -4.473317,
+            54.17873
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
+        "lanes": "1",
         "maxspeed": "20 mph",
         "name": "Stanley Mews",
         "postal_code": "IM2 7AE;IM2 7AF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "paving_stones",
         "osm_id": 25986332,
-        "lon": -4.473884924018825,
-        "lat": 54.17878839071835,
+        "lon": -4.473837333790395,
+        "lat": 54.17875643560967,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986332"
       }
@@ -8298,8 +8311,8 @@
             54.179449
           ],
           [
-            -4.473458,
-            54.179413
+            -4.473493,
+            54.1794
           ],
           [
             -4.473188,
@@ -8307,11 +8320,11 @@
           ],
           [
             -4.473089,
-            54.179127
+            54.17912
           ],
           [
-            -4.472735,
-            54.17899
+            -4.472759,
+            54.178997
           ]
         ]
       },
@@ -8324,8 +8337,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986789,
-        "lon": -4.47314494784572,
-        "lat": 54.17919320192917,
+        "lon": -4.473178919015662,
+        "lat": 54.17920403286134,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986789"
       }
@@ -8376,8 +8389,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.471415,
-            54.179079
+            -4.471401,
+            54.178994
+          ],
+          [
+            -4.471459,
+            54.179049
+          ],
+          [
+            -4.471418,
+            54.179076
           ],
           [
             -4.471386,
@@ -8396,8 +8417,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones",
         "osm_id": 25986822,
-        "lon": -4.4714005,
-        "lat": 54.1791415,
+        "lon": -4.47141744254586,
+        "lat": 54.179089124997354,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986822"
       }
@@ -8499,8 +8520,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.476,
-            54.164484
+            -4.47599,
+            54.164469
+          ],
+          [
+            -4.475946,
+            54.164439
           ],
           [
             -4.475334,
@@ -8509,6 +8534,10 @@
           [
             -4.475165,
             54.163771
+          ],
+          [
+            -4.474907,
+            54.163569
           ],
           [
             -4.474869,
@@ -8523,8 +8552,8 @@
         "postal_code": "IM2 4AU;IM2 4AY",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986889,
-        "lon": -4.475436057825456,
-        "lat": 54.164009455837046,
+        "lon": -4.4754295598306495,
+        "lat": 54.16400394214243,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986889"
       }
@@ -8860,8 +8889,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478794,
-            54.162858
+            -4.478768,
+            54.162842
           ],
           [
             -4.478695,
@@ -8910,8 +8939,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986937,
-        "lon": -4.477867127767044,
-        "lat": 54.16267122237936,
+        "lon": -4.477853029758854,
+        "lat": 54.16266823055409,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986937"
       }
@@ -9352,8 +9381,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.451709,
-            54.169484
+            -4.451705,
+            54.169497
           ],
           [
             -4.451484,
@@ -9377,8 +9406,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 25987050,
-        "lon": -4.4510896200638825,
-        "lat": 54.16887937704378,
+        "lon": -4.451091133804451,
+        "lat": 54.16888241620392,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987050"
       }
@@ -10084,8 +10113,8 @@
             54.163109
           ],
           [
-            -4.479358,
-            54.162537
+            -4.47931,
+            54.162525
           ]
         ]
       },
@@ -10097,8 +10126,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987161,
-        "lon": -4.479836477883623,
-        "lat": 54.16290773341271,
+        "lon": -4.479813794131881,
+        "lat": 54.16290002073753,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987161"
       }
@@ -13927,8 +13956,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474999,
-            54.165076
+            -4.474965,
+            54.16506
+          ],
+          [
+            -4.474914,
+            54.165034
+          ],
+          [
+            -4.47469,
+            54.164924
+          ],
+          [
+            -4.473732,
+            54.164454
           ],
           [
             -4.473695,
@@ -13943,8 +13984,8 @@
         "postal_code": "IM2 4AS",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987874,
-        "lon": -4.474347,
-        "lat": 54.164756499999996,
+        "lon": -4.4743304195489655,
+        "lat": 54.164747637707336,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987874"
       }
@@ -16402,6 +16443,10 @@
             54.171469
           ],
           [
+            -4.453416,
+            54.171487
+          ],
+          [
             -4.452917,
             54.171609
           ],
@@ -16417,8 +16462,8 @@
         "postal_code": "IM3 1BS",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25988404,
-        "lon": -4.452958156896268,
-        "lat": 54.17160013379611,
+        "lon": -4.452958192891681,
+        "lat": 54.171600276142335,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988404"
       }
@@ -16565,8 +16610,8 @@
             54.219682
           ],
           [
-            -4.695002,
-            54.219256
+            -4.695007,
+            54.219252
           ]
         ]
       },
@@ -16579,8 +16624,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988458,
-        "lon": -4.694353098686573,
-        "lat": 54.21999043058975,
+        "lon": -4.6943552960632635,
+        "lat": 54.219988151117896,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988458"
       }
@@ -17483,44 +17528,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.473953,
-            54.178148
+            -4.473921,
+            54.178139
           ],
           [
-            -4.473804,
-            54.178083
+            -4.473802,
+            54.17808
           ],
           [
-            -4.473617,
-            54.17803
+            -4.473614,
+            54.178027
           ],
           [
-            -4.473548,
-            54.178012
+            -4.473363,
+            54.177985
           ],
           [
-            -4.473395,
-            54.178003
+            -4.473298,
+            54.177987
           ],
           [
-            -4.473307,
-            54.178034
+            -4.473249,
+            54.178006
           ],
           [
-            -4.473294,
-            54.178067
+            -4.473235,
+            54.178047
           ],
           [
-            -4.473332,
-            54.178122
+            -4.473329,
+            54.17812
           ],
           [
-            -4.473438,
-            54.178164
+            -4.473435,
+            54.178162
           ],
           [
-            -4.473543,
-            54.17824
+            -4.473549,
+            54.17823
           ]
         ]
       },
@@ -17535,8 +17580,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988709,
-        "lon": -4.473554994564633,
-        "lat": 54.17808300367006,
+        "lon": -4.473510052469541,
+        "lat": 54.17807085958109,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988709"
       }
@@ -18459,16 +18504,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.471754,
-            54.179467
+            -4.471724,
+            54.179469
           ],
           [
-            -4.471376,
-            54.179268
+            -4.471563,
+            54.179364
           ],
           [
-            -4.471282,
-            54.179305
+            -4.471362,
+            54.179254
+          ],
+          [
+            -4.471268,
+            54.179293
           ]
         ]
       },
@@ -18483,8 +18532,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988907,
-        "lon": -4.471519864515155,
-        "lat": 54.17935200858359,
+        "lon": -4.471500311377299,
+        "lat": 54.179341593545054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988907"
       }
@@ -21031,8 +21080,8 @@
             54.220146
           ],
           [
-            -4.695673,
-            54.219368
+            -4.695684,
+            54.219367
           ]
         ]
       },
@@ -21047,8 +21096,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989463,
-        "lon": -4.694687308822583,
-        "lat": 54.22065866059493,
+        "lon": -4.694690330927511,
+        "lat": 54.220656734542345,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989463"
       }
@@ -21996,24 +22045,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.472974,
-            54.178542
+            -4.472964,
+            54.17855
           ],
           [
-            -4.472683,
-            54.178447
+            -4.472753,
+            54.178479
+          ],
+          [
+            -4.472639,
+            54.178426
+          ],
+          [
+            -4.472563,
+            54.178364
           ],
           [
             -4.472412,
             54.178276
           ],
           [
-            -4.472251,
-            54.178259
+            -4.47227,
+            54.178252
           ],
           [
-            -4.472062,
-            54.178277
+            -4.472054,
+            54.178272
           ],
           [
             -4.471921,
@@ -22036,8 +22093,8 @@
             54.178716
           ],
           [
-            -4.471949,
-            54.178835
+            -4.471951,
+            54.178806
           ]
         ]
       },
@@ -22052,8 +22109,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989671,
-        "lon": -4.472233167385679,
-        "lat": 54.1784434424728,
+        "lon": -4.472233361346728,
+        "lat": 54.17843801105134,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989671"
       }
@@ -31893,12 +31950,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.470972,
-            54.17956
+            -4.470987,
+            54.179586
           ],
           [
-            -4.470887,
-            54.17956
+            -4.470848,
+            54.179575
           ]
         ]
       },
@@ -31913,8 +31970,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 157344968,
-        "lon": -4.4709295000000004,
-        "lat": 54.17956,
+        "lon": -4.4709175000000005,
+        "lat": 54.1795805,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/157344968"
       }
@@ -34825,8 +34882,8 @@
             54.179204
           ],
           [
-            -4.471376,
-            54.179268
+            -4.471362,
+            54.179254
           ]
         ]
       },
@@ -34841,8 +34898,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 267426975,
-        "lon": -4.471381,
-        "lat": 54.179236,
+        "lon": -4.471374,
+        "lat": 54.179229,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/267426975"
       }
@@ -34854,20 +34911,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.471282,
-            54.179305
+            -4.471268,
+            54.179293
           ],
           [
             -4.471177,
             54.179347
           ],
           [
-            -4.470972,
-            54.17956
+            -4.470987,
+            54.179586
           ],
           [
-            -4.471012,
-            54.179618
+            -4.471033,
+            54.179624
           ]
         ]
       },
@@ -34882,8 +34939,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones",
         "osm_id": 267426976,
-        "lon": -4.471098950918936,
-        "lat": 54.179443332317916,
+        "lon": -4.4711044535598905,
+        "lat": 54.17945112557486,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/267426976"
       }
@@ -34988,6 +35045,184 @@
         "lat": 54.1740653629256,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/303188598"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 362437567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480315,
+            54.159534
+          ],
+          [
+            -4.480849,
+            54.159845
+          ],
+          [
+            -4.481142,
+            54.160017
+          ],
+          [
+            -4.481514,
+            54.160235
+          ],
+          [
+            -4.481307,
+            54.160356
+          ],
+          [
+            -4.481216,
+            54.160303
+          ],
+          [
+            -4.481299,
+            54.160254
+          ],
+          [
+            -4.481276,
+            54.160241
+          ],
+          [
+            -4.481193,
+            54.160289
+          ],
+          [
+            -4.481094,
+            54.160231
+          ],
+          [
+            -4.48117,
+            54.160187
+          ],
+          [
+            -4.481114,
+            54.160154
+          ],
+          [
+            -4.481033,
+            54.160202
+          ],
+          [
+            -4.48094,
+            54.160148
+          ],
+          [
+            -4.481034,
+            54.160092
+          ],
+          [
+            -4.480992,
+            54.160068
+          ],
+          [
+            -4.480904,
+            54.160119
+          ],
+          [
+            -4.480811,
+            54.160065
+          ],
+          [
+            -4.480904,
+            54.16001
+          ],
+          [
+            -4.480836,
+            54.159971
+          ],
+          [
+            -4.480741,
+            54.160026
+          ],
+          [
+            -4.480658,
+            54.159978
+          ],
+          [
+            -4.480757,
+            54.15992
+          ],
+          [
+            -4.48069,
+            54.159881
+          ],
+          [
+            -4.480582,
+            54.159945
+          ],
+          [
+            -4.480504,
+            54.159899
+          ],
+          [
+            -4.480599,
+            54.159843
+          ],
+          [
+            -4.48054,
+            54.159809
+          ],
+          [
+            -4.480446,
+            54.159864
+          ],
+          [
+            -4.480361,
+            54.159814
+          ],
+          [
+            -4.480459,
+            54.159756
+          ],
+          [
+            -4.480404,
+            54.159724
+          ],
+          [
+            -4.480312,
+            54.159778
+          ],
+          [
+            -4.480213,
+            54.15972
+          ],
+          [
+            -4.480308,
+            54.159664
+          ],
+          [
+            -4.480266,
+            54.15964
+          ],
+          [
+            -4.480171,
+            54.159696
+          ],
+          [
+            -4.480106,
+            54.159659
+          ],
+          [
+            -4.480315,
+            54.159534
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley View",
+        "building": "terrace",
+        "postal_code": "IM2 3JA",
+        "source": "bing",
+        "osm_id": 362437567,
+        "lon": -4.480789558104818,
+        "lat": 54.159947684837526,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/362437567"
       }
     },
     {
@@ -40533,6 +40768,71 @@
         "lat": 54.104576,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1279218078"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1294863451,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474481,
+            54.178686
+          ],
+          [
+            -4.474369,
+            54.178716
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "20 mph",
+        "name": "Stanley Mews",
+        "postal_code": "IM2 7AE;IM2 7AF",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 1294863451,
+        "lon": -4.474425,
+        "lat": 54.178701,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1294863451"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1294863455,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471459,
+            54.179049
+          ],
+          [
+            -4.471503,
+            54.179066
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Olaf's Close",
+        "name:en": "Olaf's Close",
+        "name:gv": "Close Olaf",
+        "postal_code": "IM2 7AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 1294863455,
+        "lon": -4.471481000000001,
+        "lat": 54.1790575,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1294863455"
       }
     }
   ]

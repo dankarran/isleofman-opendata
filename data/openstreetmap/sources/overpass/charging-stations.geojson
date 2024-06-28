@@ -868,30 +868,12 @@
     },
     {
       "type": "Feature",
-      "id": 1165384236,
+      "id": 12009872054,
       "geometry": {
-        "type": "LineString",
+        "type": "Point",
         "coordinates": [
-          [
-            -4.478399,
-            54.153819
-          ],
-          [
-            -4.478357,
-            54.154024
-          ],
-          [
-            -4.478328,
-            54.154022
-          ],
-          [
-            -4.478371,
-            54.153817
-          ],
-          [
-            -4.478399,
-            54.153819
-          ]
+          -4.379552,
+          54.321505
         ]
       },
       "properties": {
@@ -901,11 +883,117 @@
         "authentication:url": "https://charge.pod-point.com/",
         "authentication:website": "yes",
         "brand": "Pod Point",
-        "capacity": "4",
+        "capacity": "2",
         "fee": "yes",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
-        "operator:wikipedia": "en:Pod Point"
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12009872055,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379658,
+          54.321486
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017443317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478199,
+          54.151916
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2:output": "7 kW",
+        "website": "https://charge.pod-point.com/address/loch-promenade-rxeme"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017443318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478383,
+          54.153895
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12017443319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478361,
+          54.154006
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "2",
+        "fee": "yes",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
       }
     },
     {
@@ -949,49 +1037,6 @@
         "operator:wikidata": "Q42888154",
         "operator:wikipedia": "en:Pod Point",
         "website": "https://charge.pod-point.com/address/spectrum-apartments-xjpep"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1174305874,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478192,
-            54.151849
-          ],
-          [
-            -4.478225,
-            54.151992
-          ],
-          [
-            -4.478189,
-            54.152019
-          ],
-          [
-            -4.47815,
-            54.151852
-          ],
-          [
-            -4.478192,
-            54.151849
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "charging_station",
-        "authentication:app": "yes",
-        "authentication:none": "no",
-        "authentication:url": "https://charge.pod-point.com/",
-        "authentication:website": "yes",
-        "brand": "Pod Point",
-        "capacity": "2",
-        "fee": "yes",
-        "operator": "Pod Point",
-        "operator:wikidata": "Q42888154",
-        "operator:wikipedia": "en:Pod Point",
-        "website": "https://charge.pod-point.com/address/loch-promenade-rxeme"
       }
     },
     {

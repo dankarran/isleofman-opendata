@@ -151,22 +151,6 @@
     },
     {
       "type": "Feature",
-      "id": 455677527,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.452452,
-          54.167258
-        ]
-      },
-      "properties": {
-        "amenity": "restaurant",
-        "cuisine": "fish_and_chips",
-        "name": "Port Jack Chippy"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 455952594,
       "geometry": {
         "type": "Point",
@@ -1099,8 +1083,10 @@
         ]
       },
       "properties": {
-        "amenity": "cafe",
-        "name": "Tuck Inn"
+        "amenity": "fast_food",
+        "cuisine": "fish_and_chips",
+        "name": "The Chip Yard",
+        "opening_hours": "Mo-Sa 16:30-21:30, Su 16:30-20:30"
       }
     },
     {
@@ -1109,14 +1095,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481774,
-          54.159853
+          -4.48182,
+          54.159889
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3HZ",
+        "addr:street": "Waverley Terrace",
         "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/MagicWok.IOM/",
         "cuisine": "cantonese",
-        "name": "Magic Wok"
+        "name": "Magic Wok",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -8960,8 +8952,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.689575,
-            54.223086
+            -4.689646,
+            54.22307
           ],
           [
             -4.689746,
@@ -8984,12 +8976,12 @@
             54.222993
           ],
           [
-            -4.689542,
-            54.223012
+            -4.689629,
+            54.223019
           ],
           [
-            -4.689575,
-            54.223086
+            -4.689646,
+            54.22307
           ]
         ]
       },
@@ -9002,6 +8994,7 @@
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/peelfisherieschippy",
         "cuisine": "fish_and_chips",
+        "fixme": "building should be about half this width, so neighbouring buildings may be misnumbered by 1...",
         "name": "Peel Fisheries Chippy",
         "source": "http://www.peel2011.com/a/athollplace/peelfisheries.html"
       }
@@ -11207,7 +11200,7 @@
         "delivery": "yes",
         "indoor_seating": "yes",
         "name": "Victoria Grill",
-        "opening_hours": "Mo-Th 11:00-22:00, Fr 11:00-24:00, Sa 00:00-01:00,11:00-24:00, Su 00:00-01:00,15:00-22:00",
+        "opening_hours": "Mo 12:00-14:00, 17:00-21:30, We-Th,Su 17:00-21:30, Fr 12:00-24:30, Sa 17:00-24:30",
         "roof:levels": "1",
         "strapline": "Peri Peri perfection",
         "takeaway": "yes"
@@ -13875,6 +13868,93 @@
     },
     {
       "type": "Feature",
+      "id": 1107455501,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452604,
+            54.167247
+          ],
+          [
+            -4.452621,
+            54.167308
+          ],
+          [
+            -4.452628,
+            54.167332
+          ],
+          [
+            -4.452294,
+            54.167341
+          ],
+          [
+            -4.452281,
+            54.167326
+          ],
+          [
+            -4.452401,
+            54.167257
+          ],
+          [
+            -4.452604,
+            54.167247
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "7",
+        "addr:place": "Port Jack",
+        "amenity": "restaurant",
+        "building": "yes",
+        "cuisine": "fish_and_chips",
+        "name": "Port Jack Chippy",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107455507,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451973,
+            54.16751
+          ],
+          [
+            -4.452048,
+            54.167476
+          ],
+          [
+            -4.452086,
+            54.167543
+          ],
+          [
+            -4.452003,
+            54.167574
+          ],
+          [
+            -4.451973,
+            54.16751
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "10",
+        "addr:place": "Port Jack",
+        "addr:postcode": "IM3 1EB",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Delissimo",
+        "source": "streetside",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1107791004,
       "geometry": {
         "type": "LineString",
@@ -14476,9 +14556,8 @@
         "addr:street": "Broadway",
         "amenity": "restaurant",
         "building": "yes",
-        "cuisine": "steak_house",
-        "name": "Meating Steakhouse",
-        "website": "https://www.meating.im"
+        "name": "Cheng Du Impression",
+        "opening_hours": "Mo-Sa 12:00-14:00,18:00-21:00"
       }
     },
     {

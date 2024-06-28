@@ -48,16 +48,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.452114,
-          54.167499
+          -4.452217,
+          54.167491
         ]
       },
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "14",
+        "addr:place": "Port Jack",
         "addr:postcode": "IM3 1EB",
-        "addr:street": "Port Jack",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:SPAR (retailer)",
@@ -66,8 +66,8 @@
         "shop": "convenience",
         "website": "https://www.spar.co.uk/store-locator/hal19038-spar-onchan",
         "osm_id": 455677528,
-        "lon": -4.452114,
-        "lat": 54.167499,
+        "lon": -4.452217,
+        "lat": 54.167491,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/455677528"
       }
@@ -1067,9 +1067,10 @@
         "addr:country": "IM",
         "addr:postcode": "IM2 4BH",
         "addr:street": "Lower Duke's Road",
-        "fixme": "check if still here",
-        "name": "Dukes Road Clinic",
-        "shop": "beauty",
+        "contact:phone": "+44 7624 290199",
+        "name": "Barber Top Studio",
+        "opening_hours": "Mo-Fr 10:00-20:00, Sa 08:00-18:00, Su 09:00-15:00",
+        "shop": "hairdresser",
         "osm_id": 1069288782,
         "lon": -4.48188,
         "lat": 54.161165,
@@ -1083,16 +1084,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.482015,
-          54.16119
+          -4.48203,
+          54.161189
         ]
       },
       "properties": {
-        "name": "Fishing Adventures",
-        "shop": "outdoor",
+        "name": "All Round Fishing",
+        "opening_hours": "We-Fr 12:00-16:00, Sa 10:00-16:00",
+        "shop": "fishing",
         "osm_id": 1069288850,
-        "lon": -4.482015,
-        "lat": 54.16119,
+        "lon": -4.48203,
+        "lat": 54.161189,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069288850"
       }
@@ -1464,26 +1466,6 @@
         "lat": 54.321186,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/2935278200"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2935283901,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.380702,
-          54.321793
-        ]
-      },
-      "properties": {
-        "name": "KD's Barbers",
-        "shop": "hairdresser",
-        "osm_id": 2935283901,
-        "lon": -4.380702,
-        "lat": 54.321793,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/2935283901"
       }
     },
     {
@@ -2123,25 +2105,6 @@
         "lat": 54.183749,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9952891795"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9970463018,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.45328,
-          54.174425
-        ]
-      },
-      "properties": {
-        "shop": "car_repair",
-        "osm_id": 9970463018,
-        "lon": -4.45328,
-        "lat": 54.174425,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/9970463018"
       }
     },
     {
@@ -3583,8 +3546,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.454449,
-          54.174575
+          -4.454467,
+          54.174555
         ]
       },
       "properties": {
@@ -3599,8 +3562,8 @@
         "name": "Vanity House",
         "shop": "beauty",
         "osm_id": 11261590895,
-        "lon": -4.454449,
-        "lat": 54.174575,
+        "lon": -4.454467,
+        "lat": 54.174555,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11261590895"
       }
@@ -4027,6 +3990,32 @@
         "lat": 54.152368,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11889062920"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11904565155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481755,
+          54.160977
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:street": "Duke's Road",
+        "description": "Pink and clouds",
+        "name": "Allusion",
+        "note": "\"Allusion\" is a random neon sign in shop",
+        "old_name": "Blush",
+        "shop": "hairdresser;beauty",
+        "source": "mapillary",
+        "osm_id": 11904565155,
+        "lon": -4.481755,
+        "lat": 54.160977,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11904565155"
       }
     },
     {
@@ -7789,7 +7778,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:postcode": "IM4 2AF",
-        "addr:street": "Cooil Road",
+        "addr:street": "The Cooil Road",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/RileysGardenCentre/",
         "name": "Riley's Garden Centre",
@@ -12383,8 +12372,8 @@
         "addr:postcode": "IM8 1DW",
         "addr:street": "West Quay",
         "building": "yes",
-        "name": "Sun 'n' Beauty Salon",
-        "shop": "beauty",
+        "name": "KD's Barbers",
+        "shop": "hairdresser",
         "source": "survey",
         "osm_id": 102783350,
         "lon": -4.3807075007657215,
@@ -15484,6 +15473,58 @@
     },
     {
       "type": "Feature",
+      "id": 147199527,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.689306,
+            54.223169
+          ],
+          [
+            -4.689215,
+            54.223056
+          ],
+          [
+            -4.689355,
+            54.223018
+          ],
+          [
+            -4.689379,
+            54.223042
+          ],
+          [
+            -4.689467,
+            54.223019
+          ],
+          [
+            -4.689478,
+            54.223119
+          ],
+          [
+            -4.689306,
+            54.223169
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Peveril Building",
+        "addr:street": "Peveril Road",
+        "building": "yes",
+        "name": "Gales Fayre",
+        "shop": "convenience",
+        "source": "Isle of Man Government aerial imagery (2001);streetlevel imagery",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 147199527,
+        "lon": -4.689356691764643,
+        "lat": 54.223083792832156,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147199527"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 151087546,
       "geometry": {
         "type": "LineString",
@@ -15968,7 +16009,7 @@
         "addr:street": "Snaefell Road",
         "addr:suburb": "Willaston",
         "building": "yes",
-        "name": "Mr B's Sandwhich Deli",
+        "name": "Mr B's Sandwich Deli",
         "shop": "deli",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 165129865,
@@ -24276,7 +24317,7 @@
       },
       "properties": {
         "level": "2",
-        "name": "MenZone",
+        "name": "MenZone Grooming Centre",
         "phone": "+44 1624 619799",
         "shop": "massage",
         "website": "https://www.menzone.im/",
@@ -26470,6 +26511,92 @@
     },
     {
       "type": "Feature",
+      "id": 1088222504,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453293,
+            54.174493
+          ],
+          [
+            -4.453385,
+            54.174349
+          ],
+          [
+            -4.453181,
+            54.174305
+          ],
+          [
+            -4.453089,
+            54.174449
+          ],
+          [
+            -4.453293,
+            54.174493
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "car_repair",
+        "osm_id": 1088222504,
+        "lon": -4.453237,
+        "lat": 54.17439900000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1088222504"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107455508,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452048,
+            54.167476
+          ],
+          [
+            -4.452109,
+            54.167465
+          ],
+          [
+            -4.452172,
+            54.167462
+          ],
+          [
+            -4.452172,
+            54.167528
+          ],
+          [
+            -4.452086,
+            54.167543
+          ],
+          [
+            -4.452048,
+            54.167476
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "11",
+        "addr:place": "Port Jack",
+        "building": "yes",
+        "name": "Passion",
+        "shop": "hairdresser",
+        "source": "streetside",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 1107455508,
+        "lon": -4.452116780742191,
+        "lat": 54.167498227832674,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1107455508"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1107791004,
       "geometry": {
         "type": "LineString",
@@ -28577,6 +28704,77 @@
         "lat": 54.15130458736632,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1205090672"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1206732764,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478105,
+            54.157745
+          ],
+          [
+            -4.47802,
+            54.15771
+          ],
+          [
+            -4.477961,
+            54.157763
+          ],
+          [
+            -4.4779,
+            54.157817
+          ],
+          [
+            -4.477921,
+            54.157825
+          ],
+          [
+            -4.477856,
+            54.157899
+          ],
+          [
+            -4.477926,
+            54.157918
+          ],
+          [
+            -4.477988,
+            54.157837
+          ],
+          [
+            -4.478008,
+            54.157843
+          ],
+          [
+            -4.478076,
+            54.157767
+          ],
+          [
+            -4.478105,
+            54.157745
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM2 4EL",
+        "addr:street": "Broadway",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/B4andafterltd/",
+        "contact:phone": "+44 1624 668306",
+        "name": "B4 and After Ltd",
+        "shop": "hairdresser",
+        "unisex": "yes",
+        "osm_id": 1206732764,
+        "lon": -4.477973963239291,
+        "lat": 54.15781354396024,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1206732764"
       }
     },
     {

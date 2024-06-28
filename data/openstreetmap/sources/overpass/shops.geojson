@@ -38,16 +38,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.452114,
-          54.167499
+          -4.452217,
+          54.167491
         ]
       },
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "14",
+        "addr:place": "Port Jack",
         "addr:postcode": "IM3 1EB",
-        "addr:street": "Port Jack",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:SPAR (retailer)",
@@ -857,9 +857,10 @@
         "addr:country": "IM",
         "addr:postcode": "IM2 4BH",
         "addr:street": "Lower Duke's Road",
-        "fixme": "check if still here",
-        "name": "Dukes Road Clinic",
-        "shop": "beauty"
+        "contact:phone": "+44 7624 290199",
+        "name": "Barber Top Studio",
+        "opening_hours": "Mo-Fr 10:00-20:00, Sa 08:00-18:00, Su 09:00-15:00",
+        "shop": "hairdresser"
       }
     },
     {
@@ -868,13 +869,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.482015,
-          54.16119
+          -4.48203,
+          54.161189
         ]
       },
       "properties": {
-        "name": "Fishing Adventures",
-        "shop": "outdoor"
+        "name": "All Round Fishing",
+        "opening_hours": "We-Fr 12:00-16:00, Sa 10:00-16:00",
+        "shop": "fishing"
       }
     },
     {
@@ -1169,21 +1171,6 @@
         "brand:wikidata": "Q113499916",
         "name": "Joe Jennings",
         "shop": "bookmaker"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2935283901,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.380702,
-          54.321793
-        ]
-      },
-      "properties": {
-        "name": "KD's Barbers",
-        "shop": "hairdresser"
       }
     },
     {
@@ -1688,20 +1675,6 @@
         "phone": "+44 1624 852571",
         "shop": "supermarket",
         "website": "https://www.coop.co.uk/store-finder/IM4-2EE/crosby-meadows"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9970463018,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.45328,
-          54.174425
-        ]
-      },
-      "properties": {
-        "shop": "car_repair"
       }
     },
     {
@@ -2858,8 +2831,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.454449,
-          54.174575
+          -4.454467,
+          54.174555
         ]
       },
       "properties": {
@@ -3217,6 +3190,27 @@
         "name": "Leonidas",
         "shop": "chocolate",
         "source": "Isle of Man Government Companies Registry;social media"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11904565155,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481755,
+          54.160977
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:street": "Duke's Road",
+        "description": "Pink and clouds",
+        "name": "Allusion",
+        "note": "\"Allusion\" is a random neon sign in shop",
+        "old_name": "Blush",
+        "shop": "hairdresser;beauty",
+        "source": "mapillary"
       }
     },
     {
@@ -6699,7 +6693,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:postcode": "IM4 2AF",
-        "addr:street": "Cooil Road",
+        "addr:street": "The Cooil Road",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/RileysGardenCentre/",
         "name": "Riley's Garden Centre",
@@ -10883,8 +10877,8 @@
         "addr:postcode": "IM8 1DW",
         "addr:street": "West Quay",
         "building": "yes",
-        "name": "Sun 'n' Beauty Salon",
-        "shop": "beauty",
+        "name": "KD's Barbers",
+        "shop": "hairdresser",
         "source": "survey"
       }
     },
@@ -13689,6 +13683,53 @@
     },
     {
       "type": "Feature",
+      "id": 147199527,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.689306,
+            54.223169
+          ],
+          [
+            -4.689215,
+            54.223056
+          ],
+          [
+            -4.689355,
+            54.223018
+          ],
+          [
+            -4.689379,
+            54.223042
+          ],
+          [
+            -4.689467,
+            54.223019
+          ],
+          [
+            -4.689478,
+            54.223119
+          ],
+          [
+            -4.689306,
+            54.223169
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Peveril Building",
+        "addr:street": "Peveril Road",
+        "building": "yes",
+        "name": "Gales Fayre",
+        "shop": "convenience",
+        "source": "Isle of Man Government aerial imagery (2001);streetlevel imagery",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 151087546,
       "geometry": {
         "type": "LineString",
@@ -14133,7 +14174,7 @@
         "addr:street": "Snaefell Road",
         "addr:suburb": "Willaston",
         "building": "yes",
-        "name": "Mr B's Sandwhich Deli",
+        "name": "Mr B's Sandwich Deli",
         "shop": "deli",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
@@ -21621,7 +21662,7 @@
       },
       "properties": {
         "level": "2",
-        "name": "MenZone",
+        "name": "MenZone Grooming Centre",
         "phone": "+44 1624 619799",
         "shop": "massage",
         "website": "https://www.menzone.im/"
@@ -23595,6 +23636,82 @@
     },
     {
       "type": "Feature",
+      "id": 1088222504,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453293,
+            54.174493
+          ],
+          [
+            -4.453385,
+            54.174349
+          ],
+          [
+            -4.453181,
+            54.174305
+          ],
+          [
+            -4.453089,
+            54.174449
+          ],
+          [
+            -4.453293,
+            54.174493
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "shop": "car_repair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107455508,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452048,
+            54.167476
+          ],
+          [
+            -4.452109,
+            54.167465
+          ],
+          [
+            -4.452172,
+            54.167462
+          ],
+          [
+            -4.452172,
+            54.167528
+          ],
+          [
+            -4.452086,
+            54.167543
+          ],
+          [
+            -4.452048,
+            54.167476
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "11",
+        "addr:place": "Port Jack",
+        "building": "yes",
+        "name": "Passion",
+        "shop": "hairdresser",
+        "source": "streetside",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1107791004,
       "geometry": {
         "type": "LineString",
@@ -25492,6 +25609,72 @@
         "shop": "trade",
         "trade": "elecrician",
         "website": "https://www.yesss.co.uk/store/isle-of-man"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1206732764,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478105,
+            54.157745
+          ],
+          [
+            -4.47802,
+            54.15771
+          ],
+          [
+            -4.477961,
+            54.157763
+          ],
+          [
+            -4.4779,
+            54.157817
+          ],
+          [
+            -4.477921,
+            54.157825
+          ],
+          [
+            -4.477856,
+            54.157899
+          ],
+          [
+            -4.477926,
+            54.157918
+          ],
+          [
+            -4.477988,
+            54.157837
+          ],
+          [
+            -4.478008,
+            54.157843
+          ],
+          [
+            -4.478076,
+            54.157767
+          ],
+          [
+            -4.478105,
+            54.157745
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM2 4EL",
+        "addr:street": "Broadway",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/B4andafterltd/",
+        "contact:phone": "+44 1624 668306",
+        "name": "B4 and After Ltd",
+        "shop": "hairdresser",
+        "unisex": "yes"
       }
     },
     {

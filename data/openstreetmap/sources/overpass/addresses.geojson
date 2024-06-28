@@ -69,16 +69,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.452114,
-          54.167499
+          -4.452217,
+          54.167491
         ]
       },
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "14",
+        "addr:place": "Port Jack",
         "addr:postcode": "IM3 1EB",
-        "addr:street": "Port Jack",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:SPAR (retailer)",
@@ -2056,9 +2056,10 @@
         "addr:country": "IM",
         "addr:postcode": "IM2 4BH",
         "addr:street": "Lower Duke's Road",
-        "fixme": "check if still here",
-        "name": "Dukes Road Clinic",
-        "shop": "beauty"
+        "contact:phone": "+44 7624 290199",
+        "name": "Barber Top Studio",
+        "opening_hours": "Mo-Fr 10:00-20:00, Sa 08:00-18:00, Su 09:00-15:00",
+        "shop": "hairdresser"
       }
     },
     {
@@ -2123,6 +2124,28 @@
         "name": "Kinrade's Pharmacy",
         "operator": "Edwin Kinrade",
         "website": "http://www.kinradespharmacy.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069323499,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48182,
+          54.159889
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3HZ",
+        "addr:street": "Waverley Terrace",
+        "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/MagicWok.IOM/",
+        "cuisine": "cantonese",
+        "name": "Magic Wok",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -8282,6 +8305,50 @@
     },
     {
       "type": "Feature",
+      "id": 12003494521,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.425777,
+          54.195354
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:housename": "Dreamlang",
+        "addr:postcode": "IM4 6AP",
+        "addr:street": "Barroose Road",
+        "amenity": "place_of_worship",
+        "denomination": "theravada",
+        "name": "Wat Mahathat, Isle of Man",
+        "religion": "buddhist"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12009773329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.480939,
+          54.159962
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "8/11",
+        "addr:postcode": "IM2 3JA",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley View",
+        "amenity": "social_facility",
+        "name": "Sunnydale Residential Home",
+        "social_facility": "group_home",
+        "social_facility:for": "senior",
+        "website": "https://www.pearlhealthcare.com/sunnydale"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -12346,6 +12413,48 @@
     },
     {
       "type": "Feature",
+      "id": 59384796,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482592,
+            54.151132
+          ],
+          [
+            -4.482215,
+            54.151461
+          ],
+          [
+            -4.481986,
+            54.151371
+          ],
+          [
+            -4.482363,
+            54.151042
+          ],
+          [
+            -4.482592,
+            54.151132
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Registries Building",
+        "addr:postcode": "IM1 3AR",
+        "addr:street": "Deemsters' Walk",
+        "building": "yes",
+        "government": "register_office",
+        "name": "Central Registry",
+        "office": "government",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.gov.im/centralregistry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59384842,
       "geometry": {
         "type": "LineString",
@@ -15773,40 +15882,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.753671,
-            54.085028
+            -4.753656,
+            54.085048
           ],
           [
-            -4.753486,
-            54.085017
+            -4.753471,
+            54.085037
           ],
           [
-            -4.753499,
-            54.084944
+            -4.753484,
+            54.084964
           ],
           [
-            -4.753374,
-            54.084937
+            -4.75336,
+            54.084956
           ],
           [
-            -4.753408,
+            -4.753393,
+            54.084777
+          ],
+          [
+            -4.753587,
+            54.084789
+          ],
+          [
+            -4.753593,
             54.084757
           ],
           [
-            -4.753602,
-            54.084769
+            -4.753708,
+            54.084764
           ],
           [
-            -4.753608,
-            54.084737
-          ],
-          [
-            -4.753723,
-            54.084744
-          ],
-          [
-            -4.753671,
-            54.085028
+            -4.753656,
+            54.085048
           ]
         ]
       },
@@ -22386,6 +22495,68 @@
     },
     {
       "type": "Feature",
+      "id": 61597683,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.499385,
+            54.170146
+          ],
+          [
+            -4.499882,
+            54.169965
+          ],
+          [
+            -4.500017,
+            54.170093
+          ],
+          [
+            -4.500058,
+            54.170131
+          ],
+          [
+            -4.499845,
+            54.170209
+          ],
+          [
+            -4.49988,
+            54.170242
+          ],
+          [
+            -4.499766,
+            54.170283
+          ],
+          [
+            -4.499731,
+            54.17025
+          ],
+          [
+            -4.499561,
+            54.170312
+          ],
+          [
+            -4.499385,
+            54.170146
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Champion House",
+        "addr:postcode": "IM88 1DD",
+        "addr:street": "Ballafletcher Farm Road",
+        "building": "office",
+        "business": "entertainment",
+        "name": "Duke Video",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "website": "https://www.dukevideo.com/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 61597684,
       "geometry": {
         "type": "LineString",
@@ -27802,19 +27973,20 @@
         "addr:housename": "Legislative Buildings",
         "addr:postcode": "IM1 3PW",
         "addr:street": "Bucks Road",
-        "amenity": "parliament",
-        "building": "parliament",
+        "building": "government",
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "government": "parliament",
         "name": "Tynwald",
         "name:en": "Tynwald",
         "name:gv": "Tinvaal",
         "name:lt": "Tinvaldas",
         "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
+        "office": "government",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
-        "website": "https://www.tynwald.org.im//",
+        "website": "https://www.tynwald.org.im/",
         "wikidata": "Q827704",
         "wikipedia": "en:Tynwald"
       }
@@ -30811,7 +30983,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:postcode": "IM4 2AF",
-        "addr:street": "Cooil Road",
+        "addr:street": "The Cooil Road",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/RileysGardenCentre/",
         "name": "Riley's Garden Centre",
@@ -31538,6 +31710,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Admiral House",
         "addr:housenumber": "12",
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
@@ -51425,8 +51598,7 @@
         "old_name": "Tracey Bell Dental",
         "source": "survey",
         "was:amenity": "dentist",
-        "was:healthcare": "dentist",
-        "website": "https://traceybell.co.uk/ramsey-practice-making-people-smile/"
+        "was:healthcare": "dentist"
       }
     },
     {
@@ -51521,8 +51693,8 @@
         "addr:postcode": "IM8 1DW",
         "addr:street": "West Quay",
         "building": "yes",
-        "name": "Sun 'n' Beauty Salon",
-        "shop": "beauty",
+        "name": "KD's Barbers",
+        "shop": "hairdresser",
         "source": "survey"
       }
     },
@@ -61965,6 +62137,46 @@
     },
     {
       "type": "Feature",
+      "id": 147600988,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.687399,
+            54.223842
+          ],
+          [
+            -4.687368,
+            54.223804
+          ],
+          [
+            -4.6875,
+            54.223768
+          ],
+          [
+            -4.687531,
+            54.223805
+          ],
+          [
+            -4.687399,
+            54.223842
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Porch Cottage",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM5 1PQ",
+        "addr:street": "Peveril Road",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr": "streetside",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147604396,
       "geometry": {
         "type": "LineString",
@@ -62517,6 +62729,53 @@
         "addr:street": "Ballaquane Park",
         "building": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151084486,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.678452,
+            54.22644
+          ],
+          [
+            -4.678367,
+            54.226347
+          ],
+          [
+            -4.678492,
+            54.226307
+          ],
+          [
+            -4.678546,
+            54.226366
+          ],
+          [
+            -4.678574,
+            54.226358
+          ],
+          [
+            -4.678605,
+            54.226391
+          ],
+          [
+            -4.678452,
+            54.22644
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Tangles",
+        "addr:postcode": "IM5 1UH",
+        "addr:street": "Ramsey Road",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -66189,7 +66448,7 @@
         "addr:street": "Snaefell Road",
         "addr:suburb": "Willaston",
         "building": "yes",
-        "name": "Mr B's Sandwhich Deli",
+        "name": "Mr B's Sandwich Deli",
         "shop": "deli",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
@@ -79449,6 +79708,66 @@
         "operator": "D's Leisure",
         "phone": "+44 1624 674787",
         "website": "http://www.liverpoolarms.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227140565,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.425912,
+            54.195278
+          ],
+          [
+            -4.42575,
+            54.195245
+          ],
+          [
+            -4.425648,
+            54.195418
+          ],
+          [
+            -4.425723,
+            54.195433
+          ],
+          [
+            -4.425735,
+            54.195413
+          ],
+          [
+            -4.425795,
+            54.195425
+          ],
+          [
+            -4.425829,
+            54.195367
+          ],
+          [
+            -4.425812,
+            54.195363
+          ],
+          [
+            -4.425835,
+            54.195325
+          ],
+          [
+            -4.425879,
+            54.195334
+          ],
+          [
+            -4.425912,
+            54.195278
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Barroose Road",
+        "addr:postcode": "IM4 6AP",
+        "addr:street": "Barroose Road",
+        "building": "house",
+        "name": "Dreamlang"
       }
     },
     {
@@ -107578,6 +107897,62 @@
     },
     {
       "type": "Feature",
+      "id": 981865616,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453339,
+            54.17554
+          ],
+          [
+            -4.453442,
+            54.175597
+          ],
+          [
+            -4.453422,
+            54.175609
+          ],
+          [
+            -4.45345,
+            54.175623
+          ],
+          [
+            -4.453385,
+            54.175666
+          ],
+          [
+            -4.45323,
+            54.175584
+          ],
+          [
+            -4.453258,
+            54.175565
+          ],
+          [
+            -4.45328,
+            54.175577
+          ],
+          [
+            -4.453339,
+            54.17554
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "75",
+        "addr:postcode": "IM3 1AJ",
+        "addr:street": "Onchan Main Road",
+        "building": "yes",
+        "proposed:shop": "yes",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "was:amenity": "doctor"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865677,
       "geometry": {
         "type": "LineString",
@@ -111885,6 +112260,46 @@
         "addr:street": "Olaf's Close",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107455507,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451973,
+            54.16751
+          ],
+          [
+            -4.452048,
+            54.167476
+          ],
+          [
+            -4.452086,
+            54.167543
+          ],
+          [
+            -4.452003,
+            54.167574
+          ],
+          [
+            -4.451973,
+            54.16751
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "10",
+        "addr:place": "Port Jack",
+        "addr:postcode": "IM3 1EB",
+        "amenity": "cafe",
+        "building": "yes",
+        "name": "Delissimo",
+        "source": "streetside",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -117219,12 +117634,15 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM2 5AQ",
         "addr:street": "Somerset Road",
         "amenity": "veterinary",
         "building": "yes",
+        "contact:phone": "+44 1624 674076",
         "name": "Milan Vets",
-        "website": "https://www.milanvets.co.uk"
+        "opening_hours": "Mo-Fr 08:30-18:00, Sa 08:30-12:00",
+        "website": "https://www.milanvets.co.uk/"
       }
     },
     {
@@ -121200,9 +121618,8 @@
         "addr:street": "Broadway",
         "amenity": "restaurant",
         "building": "yes",
-        "cuisine": "steak_house",
-        "name": "Meating Steakhouse",
-        "website": "https://www.meating.im"
+        "name": "Cheng Du Impression",
+        "opening_hours": "Mo-Sa 12:00-14:00,18:00-21:00"
       }
     },
     {
@@ -125771,6 +126188,72 @@
         "name": "The Copyshop Digital Print and Sign Centre",
         "opening_hours": "Mo-Fr 09:00-16:00",
         "shop": "copyshop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1206732764,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478105,
+            54.157745
+          ],
+          [
+            -4.47802,
+            54.15771
+          ],
+          [
+            -4.477961,
+            54.157763
+          ],
+          [
+            -4.4779,
+            54.157817
+          ],
+          [
+            -4.477921,
+            54.157825
+          ],
+          [
+            -4.477856,
+            54.157899
+          ],
+          [
+            -4.477926,
+            54.157918
+          ],
+          [
+            -4.477988,
+            54.157837
+          ],
+          [
+            -4.478008,
+            54.157843
+          ],
+          [
+            -4.478076,
+            54.157767
+          ],
+          [
+            -4.478105,
+            54.157745
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM2 4EL",
+        "addr:street": "Broadway",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/B4andafterltd/",
+        "contact:phone": "+44 1624 668306",
+        "name": "B4 and After Ltd",
+        "shop": "hairdresser",
+        "unisex": "yes"
       }
     },
     {

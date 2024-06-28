@@ -3985,20 +3985,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.478166,
-          54.149324
+          -4.477058,
+          54.149255
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
+        "description": "The platform further up the street is only for set-down.",
         "highway": "bus_stop",
         "name": "Victoria Street",
         "public_transport": "platform",
         "ref": "20108",
         "shelter": "no",
         "osm_id": 3732769884,
-        "lon": -4.478166,
-        "lat": 54.149324,
+        "lon": -4.477058,
+        "lat": 54.149255,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/3732769884"
       }
@@ -4099,21 +4102,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.47726,
-          54.149934
+          -4.477344,
+          54.150044
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Loch Promenade",
+        "note": "Stand F?",
         "public_transport": "platform",
-        "ref": "F",
+        "ref": "891085000108",
         "route_ref": "1;1H;2;2A;2C;3;11;13;26C",
         "shelter": "yes",
         "osm_id": 3732769889,
-        "lon": -4.47726,
-        "lat": 54.149934,
+        "lon": -4.477344,
+        "lat": 54.150044,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/3732769889"
       }
@@ -11654,8 +11659,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.458481,
-          54.171922
+          -4.458342,
+          54.171946
         ]
       },
       "properties": {
@@ -11665,8 +11670,8 @@
         "public_transport": "platform",
         "ref": "3225",
         "osm_id": 9189973807,
-        "lon": -4.458481,
-        "lat": 54.171922,
+        "lon": -4.458342,
+        "lat": 54.171946,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9189973807"
       }
@@ -21660,6 +21665,32 @@
         "lat": 54.162809,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11302562435"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12003298747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694869,
+          54.21925
+        ]
+      },
+      "properties": {
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "flag": "yes",
+        "highway": "bus_stop",
+        "name": "North View / Ballaterson Road",
+        "pole": "yes",
+        "public_transport": "platform",
+        "osm_id": 12003298747,
+        "lon": -4.694869,
+        "lat": 54.21925,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12003298747"
       }
     }
   ]

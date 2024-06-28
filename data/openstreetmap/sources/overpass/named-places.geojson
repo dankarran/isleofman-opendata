@@ -63,6 +63,8 @@
       "properties": {
         "alt_name": "Glenmaye",
         "name": "Glen Maye",
+        "name:en": "Glen Maye",
+        "name:gv": "Glion Meay",
         "place": "village",
         "wikidata": "Q3495211",
         "wikipedia": "en:Glen Maye"
@@ -16289,6 +16291,8 @@
       },
       "properties": {
         "name": "Colby Glen",
+        "name:en": "Colby Glen",
+        "name:gv": "Glion Colby",
         "place": "hamlet"
       }
     },
@@ -16483,6 +16487,8 @@
       },
       "properties": {
         "name": "Ballasalla",
+        "name:en": "Ballasalla",
+        "name:gv": "Balley Sallagh",
         "place": "village",
         "wikidata": "Q2881163",
         "wikipedia": "en:Ballasalla"
@@ -16500,6 +16506,8 @@
       },
       "properties": {
         "name": "Colby",
+        "name:en": "Colby",
+        "name:gv": "Colby",
         "place": "village",
         "wikidata": "Q5142001"
       }
@@ -16565,6 +16573,7 @@
         "name:it": "Isola di Man",
         "name:ja": "\u30de\u30f3\u5cf6",
         "name:kn": "\u0c90\u0cb2\u0ccd \u0c86\u0cab\u0ccd \u0cae\u0ccd\u0caf\u0cbe\u0ca8\u0ccd",
+        "name:ko": "\ub9e8\uc12c",
         "name:ku": "Girava Man\u00ea",
         "name:kw": "Manow",
         "name:la": "Monapia",
@@ -16622,6 +16631,7 @@
       },
       "properties": {
         "name": "Glen Vine",
+        "name:gv": "Glion Vian",
         "place": "village",
         "wikidata": "Q5568088",
         "wikipedia": "en:Glen Vine"
@@ -16656,6 +16666,8 @@
       },
       "properties": {
         "name": "Union Mills",
+        "name:en": "Union Mills",
+        "name:gv": "Mwyllin Doo Aah",
         "place": "village",
         "wikidata": "Q692852",
         "wikipedia": "en:Union Mills"
@@ -21443,6 +21455,21 @@
         "place": "locality",
         "protection_title": "Area of Special Scientific Interest",
         "url": "https://www.gov.im/media/465829/17_-__446kb_psm_ledges___kallow_point_assi_designation_documents.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013419815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452131,
+          54.167354
+        ]
+      },
+      "properties": {
+        "name": "Port Jack",
+        "place": "locality"
       }
     },
     {
@@ -26991,6 +27018,10 @@
           [
             -4.528416,
             54.152947
+          ],
+          [
+            -4.528907,
+            54.152491
           ],
           [
             -4.530714,

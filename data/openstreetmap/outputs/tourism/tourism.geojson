@@ -1946,8 +1946,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480967,
-          54.159942
+          -4.481327,
+          54.160192
         ]
       },
       "properties": {
@@ -1958,10 +1958,9 @@
         "name": "Adelphi Hotel",
         "phone": "+44 1624 676591",
         "tourism": "hotel",
-        "website": "http://www.iomhotels.co.uk/",
         "osm_id": 1069323482,
-        "lon": -4.480967,
-        "lat": 54.159942,
+        "lon": -4.481327,
+        "lat": 54.160192,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069323482"
       }
@@ -8950,19 +8949,20 @@
         "addr:housename": "Legislative Buildings",
         "addr:postcode": "IM1 3PW",
         "addr:street": "Bucks Road",
-        "amenity": "parliament",
-        "building": "parliament",
+        "building": "government",
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "government": "parliament",
         "name": "Tynwald",
         "name:en": "Tynwald",
         "name:gv": "Tinvaal",
         "name:lt": "Tinvaldas",
         "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
+        "office": "government",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
-        "website": "https://www.tynwald.org.im//",
+        "website": "https://www.tynwald.org.im/",
         "wikidata": "Q827704",
         "wikipedia": "en:Tynwald",
         "osm_id": 79141576,
@@ -9416,6 +9416,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Admiral House",
         "addr:housenumber": "12",
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
@@ -21941,6 +21942,47 @@
         "lat": 54.06884195130698,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1211313378"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1238605604,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.410126,
+            54.205613
+          ],
+          [
+            -4.410179,
+            54.205756
+          ],
+          [
+            -4.41003,
+            54.205775
+          ],
+          [
+            -4.409977,
+            54.205632
+          ],
+          [
+            -4.410126,
+            54.205613
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:street": "Baldrine Main Road",
+        "building": "yes",
+        "guest_house": "bed_and_breakfast",
+        "tourism": "guest_house",
+        "osm_id": 1238605604,
+        "lon": -4.410078,
+        "lat": 54.205694,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1238605604"
       }
     },
     {

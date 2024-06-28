@@ -78,6 +78,8 @@
       "properties": {
         "alt_name": "Glenmaye",
         "name": "Glen Maye",
+        "name:en": "Glen Maye",
+        "name:gv": "Glion Meay",
         "place": "village",
         "wikidata": "Q3495211",
         "wikipedia": "en:Glen Maye",
@@ -21194,6 +21196,8 @@
       },
       "properties": {
         "name": "Colby Glen",
+        "name:en": "Colby Glen",
+        "name:gv": "Glion Colby",
         "place": "hamlet",
         "osm_id": 842400476,
         "lon": -4.70533,
@@ -21448,6 +21452,8 @@
       },
       "properties": {
         "name": "Ballasalla",
+        "name:en": "Ballasalla",
+        "name:gv": "Balley Sallagh",
         "place": "village",
         "wikidata": "Q2881163",
         "wikipedia": "en:Ballasalla",
@@ -21470,6 +21476,8 @@
       },
       "properties": {
         "name": "Colby",
+        "name:en": "Colby",
+        "name:gv": "Colby",
         "place": "village",
         "wikidata": "Q5142001",
         "osm_id": 1287831033,
@@ -21545,6 +21553,7 @@
         "name:it": "Isola di Man",
         "name:ja": "\u30de\u30f3\u5cf6",
         "name:kn": "\u0c90\u0cb2\u0ccd \u0c86\u0cab\u0ccd \u0cae\u0ccd\u0caf\u0cbe\u0ca8\u0ccd",
+        "name:ko": "\ub9e8\uc12c",
         "name:ku": "Girava Man\u00ea",
         "name:kw": "Manow",
         "name:la": "Monapia",
@@ -21612,6 +21621,7 @@
       },
       "properties": {
         "name": "Glen Vine",
+        "name:gv": "Glion Vian",
         "place": "village",
         "wikidata": "Q5568088",
         "wikipedia": "en:Glen Vine",
@@ -21656,6 +21666,8 @@
       },
       "properties": {
         "name": "Union Mills",
+        "name:en": "Union Mills",
+        "name:gv": "Mwyllin Doo Aah",
         "place": "village",
         "wikidata": "Q692852",
         "wikipedia": "en:Union Mills",
@@ -27897,6 +27909,26 @@
     },
     {
       "type": "Feature",
+      "id": 12013419815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452131,
+          54.167354
+        ]
+      },
+      "properties": {
+        "name": "Port Jack",
+        "place": "locality",
+        "osm_id": 12013419815,
+        "lon": -4.452131,
+        "lat": 54.167354,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12013419815"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987471,
       "geometry": {
         "type": "LineString",
@@ -33498,6 +33530,10 @@
             54.152947
           ],
           [
+            -4.528907,
+            54.152491
+          ],
+          [
             -4.530714,
             54.150815
           ],
@@ -33537,8 +33573,8 @@
         "name": "Isle of Man Business Park",
         "place": "estate",
         "osm_id": 39707183,
-        "lon": -4.5331789643550735,
-        "lat": 54.153555559463875,
+        "lon": -4.53317894901126,
+        "lat": 54.153555542941945,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/39707183"
       }
