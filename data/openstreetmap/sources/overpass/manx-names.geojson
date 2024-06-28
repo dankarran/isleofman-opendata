@@ -50603,6 +50603,55 @@
     },
     {
       "type": "Feature",
+      "id": 147601014,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.685612,
+            54.22405
+          ],
+          [
+            -4.685513,
+            54.224073
+          ],
+          [
+            -4.685433,
+            54.223957
+          ],
+          [
+            -4.685498,
+            54.223942
+          ],
+          [
+            -4.685515,
+            54.223967
+          ],
+          [
+            -4.685549,
+            54.223959
+          ],
+          [
+            -4.685612,
+            54.22405
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Yn Fea",
+        "addr:postcode": "IM5 1PJ",
+        "addr:street": "Peveril Road",
+        "building": "yes",
+        "name:gv": "Yn Fea",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147604396,
       "geometry": {
         "type": "LineString",

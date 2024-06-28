@@ -271,8 +271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.406718,
-          54.207371
+          -4.4068,
+          54.207155
         ]
       },
       "properties": {
@@ -281,9 +281,10 @@
         "name": "Ballagawne Road",
         "public_transport": "platform",
         "ref": "3315",
+        "shelter": "yes",
         "osm_id": 469407671,
-        "lon": -4.406718,
-        "lat": 54.207371,
+        "lon": -4.4068,
+        "lat": 54.207155,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/469407671"
       }

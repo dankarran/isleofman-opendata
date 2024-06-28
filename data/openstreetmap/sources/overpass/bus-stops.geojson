@@ -216,8 +216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.406718,
-          54.207371
+          -4.4068,
+          54.207155
         ]
       },
       "properties": {
@@ -225,7 +225,8 @@
         "highway": "bus_stop",
         "name": "Ballagawne Road",
         "public_transport": "platform",
-        "ref": "3315"
+        "ref": "3315",
+        "shelter": "yes"
       }
     },
     {

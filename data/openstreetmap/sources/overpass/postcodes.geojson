@@ -62177,6 +62177,55 @@
     },
     {
       "type": "Feature",
+      "id": 147601014,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.685612,
+            54.22405
+          ],
+          [
+            -4.685513,
+            54.224073
+          ],
+          [
+            -4.685433,
+            54.223957
+          ],
+          [
+            -4.685498,
+            54.223942
+          ],
+          [
+            -4.685515,
+            54.223967
+          ],
+          [
+            -4.685549,
+            54.223959
+          ],
+          [
+            -4.685612,
+            54.22405
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Yn Fea",
+        "addr:postcode": "IM5 1PJ",
+        "addr:street": "Peveril Road",
+        "building": "yes",
+        "name:gv": "Yn Fea",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147604396,
       "geometry": {
         "type": "LineString",
@@ -114731,6 +114780,60 @@
     },
     {
       "type": "Feature",
+      "id": 1126224388,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.410275,
+            54.204325
+          ],
+          [
+            -4.410354,
+            54.204318
+          ],
+          [
+            -4.410351,
+            54.204305
+          ],
+          [
+            -4.410393,
+            54.204301
+          ],
+          [
+            -4.410376,
+            54.204239
+          ],
+          [
+            -4.410363,
+            54.204241
+          ],
+          [
+            -4.410285,
+            54.204248
+          ],
+          [
+            -4.410256,
+            54.20425
+          ],
+          [
+            -4.410275,
+            54.204325
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:country": "IM",
+        "addr:housename": "Hatfield Cottage",
+        "addr:postcode": "IM4 6DU",
+        "addr:street": "Baldrine Main Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1126242028,
       "geometry": {
         "type": "LineString",
@@ -128414,6 +128517,45 @@
     },
     {
       "type": "Feature",
+      "id": 1238605594,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.407358,
+            54.206616
+          ],
+          [
+            -4.407261,
+            54.206747
+          ],
+          [
+            -4.40712,
+            54.206712
+          ],
+          [
+            -4.407216,
+            54.20658
+          ],
+          [
+            -4.407358,
+            54.206616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:country": "IM",
+        "addr:housename": "Canny Hill House",
+        "addr:postcode": "IM4 6ER",
+        "addr:street": "Baldrine Main Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1240147735,
       "geometry": {
         "type": "LineString",
@@ -134608,6 +134750,240 @@
         "addr:postcode": "IM9 4DE",
         "addr:street": "Bradda View Grove",
         "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1296053984,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488565,
+            54.170241
+          ],
+          [
+            -4.488622,
+            54.170313
+          ],
+          [
+            -4.48849,
+            54.170349
+          ],
+          [
+            -4.488444,
+            54.170291
+          ],
+          [
+            -4.488478,
+            54.170282
+          ],
+          [
+            -4.488467,
+            54.170267
+          ],
+          [
+            -4.488565,
+            54.170241
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Cronk Ard",
+        "addr:housenumber": "64",
+        "addr:postcode": "IM2 5HE",
+        "addr:street": "Ballanard Road",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Planning Applications",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1296444731,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.412409,
+            54.201351
+          ],
+          [
+            -4.412389,
+            54.201498
+          ],
+          [
+            -4.412114,
+            54.201485
+          ],
+          [
+            -4.41213,
+            54.201368
+          ],
+          [
+            -4.412232,
+            54.201373
+          ],
+          [
+            -4.412236,
+            54.201343
+          ],
+          [
+            -4.412409,
+            54.201351
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:country": "IM",
+        "addr:housename": "The Mount",
+        "addr:postcode": "IM4 6DG",
+        "addr:street": "Chapel Lane",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1297170858,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.417364,
+            54.202581
+          ],
+          [
+            -4.417207,
+            54.20274
+          ],
+          [
+            -4.417183,
+            54.202811
+          ],
+          [
+            -4.416969,
+            54.203075
+          ],
+          [
+            -4.416945,
+            54.203166
+          ],
+          [
+            -4.416804,
+            54.203487
+          ],
+          [
+            -4.416711,
+            54.203786
+          ],
+          [
+            -4.416476,
+            54.204385
+          ],
+          [
+            -4.416483,
+            54.204627
+          ],
+          [
+            -4.415343,
+            54.204506
+          ],
+          [
+            -4.415233,
+            54.204344
+          ],
+          [
+            -4.414894,
+            54.204211
+          ],
+          [
+            -4.415015,
+            54.203682
+          ],
+          [
+            -4.415553,
+            54.202222
+          ],
+          [
+            -4.415638,
+            54.202029
+          ],
+          [
+            -4.416243,
+            54.202188
+          ],
+          [
+            -4.417238,
+            54.202528
+          ],
+          [
+            -4.417364,
+            54.202581
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:housename": "Baldrine Farm",
+        "addr:postcode": "IM4 6EG",
+        "addr:street": "Baldrine Road",
+        "fixme": "is this also known as Baldrine Stables?",
+        "leisure": "horse_riding",
+        "name": "Baldrine Equestrian Centre",
+        "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1297170861,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.407802,
+            54.206215
+          ],
+          [
+            -4.407904,
+            54.20631
+          ],
+          [
+            -4.40779,
+            54.206354
+          ],
+          [
+            -4.407773,
+            54.206339
+          ],
+          [
+            -4.407727,
+            54.206356
+          ],
+          [
+            -4.407638,
+            54.206274
+          ],
+          [
+            -4.407802,
+            54.206215
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Baldrine",
+        "addr:country": "IM",
+        "addr:housename": "Baldrine Lodge",
+        "addr:postcode": "IM4 6ET",
+        "addr:street": "Baldrine Main Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     }
   ]
