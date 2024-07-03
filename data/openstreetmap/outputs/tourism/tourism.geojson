@@ -1543,32 +1543,6 @@
     },
     {
       "type": "Feature",
-      "id": 501841536,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.482761,
-          54.152965
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM1 2QN",
-        "addr:street": "Christian Road",
-        "name": "Melrose Guest House",
-        "tourism": "guest_house",
-        "website": "http://www.melroseguesthouse.co.uk",
-        "osm_id": 501841536,
-        "lon": -4.482761,
-        "lat": 54.152965,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/501841536"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 502292309,
       "geometry": {
         "type": "Point",
@@ -6557,20 +6531,28 @@
             54.154319
           ],
           [
-            -4.480945,
-            54.154303
+            -4.480924,
+            54.154295
           ],
           [
-            -4.480935,
-            54.154321
+            -4.480917,
+            54.154306
           ],
           [
-            -4.480687,
-            54.154267
+            -4.48067,
+            54.154253
           ],
           [
-            -4.480746,
-            54.154174
+            -4.480711,
+            54.154188
+          ],
+          [
+            -4.480846,
+            54.154212
+          ],
+          [
+            -4.480856,
+            54.154195
           ],
           [
             -4.480966,
@@ -6645,8 +6627,8 @@
         "wheelchair:description": "Wheelchairs currently unable to access the basement display area",
         "wikidata": "Q11988082",
         "osm_id": 59279322,
-        "lon": -4.481429785586944,
-        "lat": 54.15427947807043,
+        "lon": -4.481424687681902,
+        "lat": 54.15427855326845,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59279322"
       }
@@ -13152,56 +13134,6 @@
         "lat": 54.18394876145434,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165795669"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165803331,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.644208,
-            54.200896
-          ],
-          [
-            -4.644163,
-            54.200983
-          ],
-          [
-            -4.643912,
-            54.200938
-          ],
-          [
-            -4.643936,
-            54.200892
-          ],
-          [
-            -4.643961,
-            54.200896
-          ],
-          [
-            -4.643981,
-            54.200856
-          ],
-          [
-            -4.644208,
-            54.200896
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Patrick Road",
-        "building": "house",
-        "name": "Kerrowkeil Bed & Breakfast",
-        "tourism": "guest_house",
-        "website": "http://www.kerrowkeil.com",
-        "osm_id": 165803331,
-        "lon": -4.6440609183265025,
-        "lat": 54.20091888041193,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/165803331"
       }
     },
     {
@@ -21942,6 +21874,52 @@
         "lat": 54.06884195130698,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1211313378"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1236560744,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482783,
+            54.153083
+          ],
+          [
+            -4.482673,
+            54.153083
+          ],
+          [
+            -4.482673,
+            54.152989
+          ],
+          [
+            -4.482783,
+            54.152989
+          ],
+          [
+            -4.482783,
+            54.153083
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 2QN",
+        "addr:street": "Christian Road",
+        "building": "house",
+        "house": "terraced",
+        "name": "Melrose Guest House",
+        "tourism": "guest_house",
+        "website": "http://www.melroseguesthouse.co.uk",
+        "osm_id": 1236560744,
+        "lon": -4.482728000000001,
+        "lat": 54.153035999999986,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1236560744"
       }
     },
     {

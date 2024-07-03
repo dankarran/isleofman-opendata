@@ -1058,8 +1058,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.48188,
-          54.161165
+          -4.481844,
+          54.161155
         ]
       },
       "properties": {
@@ -1072,8 +1072,8 @@
         "opening_hours": "Mo-Fr 10:00-20:00, Sa 08:00-18:00, Su 09:00-15:00",
         "shop": "hairdresser",
         "osm_id": 1069288782,
-        "lon": -4.48188,
-        "lat": 54.161165,
+        "lon": -4.481844,
+        "lat": 54.161155,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069288782"
       }
@@ -1084,8 +1084,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.48203,
-          54.161189
+          -4.482013,
+          54.161187
         ]
       },
       "properties": {
@@ -1093,8 +1093,8 @@
         "opening_hours": "We-Fr 12:00-16:00, Sa 10:00-16:00",
         "shop": "fishing",
         "osm_id": 1069288850,
-        "lon": -4.48203,
-        "lat": 54.161189,
+        "lon": -4.482013,
+        "lat": 54.161187,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069288850"
       }
@@ -1132,8 +1132,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.482075,
-          54.161307
+          -4.482086,
+          54.161313
         ]
       },
       "properties": {
@@ -1146,8 +1146,8 @@
         "shop": "convenience",
         "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 1069288866,
-        "lon": -4.482075,
-        "lat": 54.161307,
+        "lon": -4.482086,
+        "lat": 54.161313,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069288866"
       }
@@ -4911,55 +4911,6 @@
     },
     {
       "type": "Feature",
-      "id": 59284274,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478392,
-            54.158703
-          ],
-          [
-            -4.478329,
-            54.158745
-          ],
-          [
-            -4.478172,
-            54.158848
-          ],
-          [
-            -4.477779,
-            54.158642
-          ],
-          [
-            -4.477998,
-            54.158498
-          ],
-          [
-            -4.478392,
-            54.158703
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM2 4EZ",
-        "addr:street": "Victoria Road",
-        "building": "yes",
-        "name": "Winerite Extra",
-        "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-18:00",
-        "operator": "Shoprite",
-        "shop": "beverages",
-        "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
-        "osm_id": 59284274,
-        "lon": -4.478085496383448,
-        "lat": 54.15867286013143,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/59284274"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 59384658,
       "geometry": {
         "type": "LineString",
@@ -6811,76 +6762,6 @@
         "lat": 54.097362,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/67761899"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 68245524,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.687169,
-            54.221843
-          ],
-          [
-            -4.687154,
-            54.221867
-          ],
-          [
-            -4.686921,
-            54.222256
-          ],
-          [
-            -4.686415,
-            54.222152
-          ],
-          [
-            -4.686641,
-            54.221777
-          ],
-          [
-            -4.686794,
-            54.221808
-          ],
-          [
-            -4.686817,
-            54.22177
-          ],
-          [
-            -4.686934,
-            54.221795
-          ],
-          [
-            -4.687139,
-            54.221837
-          ],
-          [
-            -4.687169,
-            54.221843
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:postcode": "IM5 1HP",
-        "addr:street": "Derby Road",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
-        "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
-        "toilets:wheelchair": "yes",
-        "website": "https://www.manxshoprite.com/",
-        "wheelchair": "yes",
-        "osm_id": 68245524,
-        "lon": -4.686793668927191,
-        "lat": 54.22200122035804,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/68245524"
       }
     },
     {
@@ -9224,81 +9105,6 @@
         "lat": 54.321284487888605,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/99323317"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 99350139,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.387585,
-            54.322384
-          ],
-          [
-            -4.387839,
-            54.322305
-          ],
-          [
-            -4.388504,
-            54.32226
-          ],
-          [
-            -4.388559,
-            54.322501
-          ],
-          [
-            -4.388013,
-            54.322548
-          ],
-          [
-            -4.38802,
-            54.322581
-          ],
-          [
-            -4.387891,
-            54.32259
-          ],
-          [
-            -4.387639,
-            54.322609
-          ],
-          [
-            -4.387634,
-            54.322587
-          ],
-          [
-            -4.387633,
-            54.32258
-          ],
-          [
-            -4.387585,
-            54.322384
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:postcode": "IM8 2LL",
-        "addr:street": "Bowring Road",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
-        "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
-        "source": "Bing;local_knowledge",
-        "website": "https://www.manxshoprite.com/",
-        "wheelchair": "yes",
-        "osm_id": 99350139,
-        "lon": -4.388072229226186,
-        "lat": 54.32243056684368,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/99350139"
       }
     },
     {
@@ -14979,6 +14785,7 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housenumber": "11",
+        "addr:postcode": "IM5 1AG",
         "addr:street": "Michael Street",
         "brand": "Co-op Food",
         "brand:wikidata": "Q3277439",
@@ -15146,15 +14953,14 @@
         "addr:housenumber": "13",
         "addr:postcode": "IM5 1HB",
         "addr:street": "Michael Street",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
         "building": "yes",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Su 08:00-21:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
-        "website": "https://www.manxshoprite.com/",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Tesco",
+        "shop": "convenience",
+        "website": "https://www.tesco.com/store-locator/peel/michael-street",
         "wheelchair": "yes",
         "osm_id": 146980728,
         "lon": -4.694117920298232,

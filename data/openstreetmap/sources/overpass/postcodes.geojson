@@ -1149,27 +1149,6 @@
     },
     {
       "type": "Feature",
-      "id": 501841536,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.482761,
-          54.152965
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM1 2QN",
-        "addr:street": "Christian Road",
-        "name": "Melrose Guest House",
-        "tourism": "guest_house",
-        "website": "http://www.melroseguesthouse.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 502471206,
       "geometry": {
         "type": "Point",
@@ -2047,8 +2026,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.48188,
-          54.161165
+          -4.481844,
+          54.161155
         ]
       },
       "properties": {
@@ -2090,8 +2069,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.482075,
-          54.161307
+          -4.482086,
+          54.161313
         ]
       },
       "properties": {
@@ -2111,8 +2090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.482052,
-          54.161261
+          -4.482063,
+          54.161272
         ]
       },
       "properties": {
@@ -8349,6 +8328,26 @@
     },
     {
       "type": "Feature",
+      "id": 12020022500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487255,
+          54.154698
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 4AR",
+        "addr:street": "Mount Bradda",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -9345,32 +9344,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482752,
-            54.150506
+            -4.482711,
+            54.150537
           ],
           [
-            -4.482367,
-            54.15079
+            -4.482326,
+            54.15082
           ],
           [
-            -4.481832,
-            54.150541
+            -4.481791,
+            54.150571
           ],
           [
-            -4.481919,
-            54.150477
+            -4.481878,
+            54.150507
           ],
           [
-            -4.482188,
-            54.150602
+            -4.482147,
+            54.150632
           ],
           [
-            -4.482486,
-            54.150382
+            -4.482445,
+            54.150413
           ],
           [
-            -4.482752,
-            54.150506
+            -4.482711,
+            54.150537
           ]
         ]
       },
@@ -11228,20 +11227,28 @@
             54.154319
           ],
           [
-            -4.480945,
-            54.154303
+            -4.480924,
+            54.154295
           ],
           [
-            -4.480935,
-            54.154321
+            -4.480917,
+            54.154306
           ],
           [
-            -4.480687,
-            54.154267
+            -4.48067,
+            54.154253
           ],
           [
-            -4.480746,
-            54.154174
+            -4.480711,
+            54.154188
+          ],
+          [
+            -4.480846,
+            54.154212
+          ],
+          [
+            -4.480856,
+            54.154195
           ],
           [
             -4.480966,
@@ -11665,11 +11672,9 @@
         "addr:postcode": "IM2 4EZ",
         "addr:street": "Victoria Road",
         "building": "yes",
-        "name": "Winerite Extra",
-        "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 10:00-18:00",
-        "operator": "Shoprite",
-        "shop": "beverages",
-        "source": "Isle of Man Government aerial imagery (2001);local_knowledge"
+        "old_name": "Winerite Extra",
+        "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
+        "was:shop": "beverages"
       }
     },
     {
@@ -26118,16 +26123,10 @@
         "addr:city": "Peel",
         "addr:postcode": "IM5 1HP",
         "addr:street": "Derby Road",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
         "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
+        "old_name": "Shoprite",
         "toilets:wheelchair": "yes",
-        "website": "https://www.manxshoprite.com/",
+        "was:shop": "supermarket",
         "wheelchair": "yes"
       }
     },
@@ -28627,6 +28626,48 @@
     },
     {
       "type": "Feature",
+      "id": 79141612,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48256,
+            54.149067
+          ],
+          [
+            -4.482438,
+            54.14897
+          ],
+          [
+            -4.482394,
+            54.148935
+          ],
+          [
+            -4.482456,
+            54.148908
+          ],
+          [
+            -4.482622,
+            54.14904
+          ],
+          [
+            -4.48256,
+            54.149067
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "25",
+        "addr:postcode": "IM1 1LB",
+        "addr:street": "Athol Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141614,
       "geometry": {
         "type": "LineString",
@@ -28801,6 +28842,61 @@
     },
     {
       "type": "Feature",
+      "id": 79141630,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483187,
+            54.148946
+          ],
+          [
+            -4.483341,
+            54.148878
+          ],
+          [
+            -4.483429,
+            54.148949
+          ],
+          [
+            -4.483349,
+            54.148984
+          ],
+          [
+            -4.483376,
+            54.149006
+          ],
+          [
+            -4.483329,
+            54.149026
+          ],
+          [
+            -4.48331,
+            54.149012
+          ],
+          [
+            -4.483285,
+            54.149023
+          ],
+          [
+            -4.483187,
+            54.148946
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "50",
+        "addr:postcode": "IM1 1JB",
+        "addr:street": "Athol Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141632,
       "geometry": {
         "type": "LineString",
@@ -28899,6 +28995,44 @@
     },
     {
       "type": "Feature",
+      "id": 79141635,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482429,
+            54.149278
+          ],
+          [
+            -4.482344,
+            54.149315
+          ],
+          [
+            -4.482424,
+            54.149377
+          ],
+          [
+            -4.482508,
+            54.14934
+          ],
+          [
+            -4.482429,
+            54.149278
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM1 1JB",
+        "addr:street": "Athol Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141637,
       "geometry": {
         "type": "LineString",
@@ -28932,6 +29066,52 @@
         "addr:street": "Athol Street",
         "building": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79141642,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482223,
+            54.149367
+          ],
+          [
+            -4.482344,
+            54.149315
+          ],
+          [
+            -4.482424,
+            54.149377
+          ],
+          [
+            -4.482526,
+            54.149449
+          ],
+          [
+            -4.482471,
+            54.149472
+          ],
+          [
+            -4.482455,
+            54.149478
+          ],
+          [
+            -4.482223,
+            54.149367
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM1 1JB",
+        "addr:street": "Athol Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -29573,6 +29753,48 @@
         "office": "company",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.sanctuary-trust.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79143413,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481937,
+            54.149487
+          ],
+          [
+            -4.481827,
+            54.149536
+          ],
+          [
+            -4.481951,
+            54.149632
+          ],
+          [
+            -4.482058,
+            54.149586
+          ],
+          [
+            -4.482041,
+            54.149572
+          ],
+          [
+            -4.481937,
+            54.149487
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 1JA",
+        "addr:street": "Athol Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -30366,6 +30588,45 @@
     },
     {
       "type": "Feature",
+      "id": 79372972,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.499727,
+            54.154923
+          ],
+          [
+            -4.49965,
+            54.154844
+          ],
+          [
+            -4.499745,
+            54.154812
+          ],
+          [
+            -4.499822,
+            54.154891
+          ],
+          [
+            -4.499727,
+            54.154923
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "114",
+        "addr:postcode": "IM1 4HQ",
+        "addr:street": "Ballabrooie Drive",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79372973,
       "geometry": {
         "type": "LineString",
@@ -30400,6 +30661,84 @@
         "addr:street": "Peel Road",
         "building": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79372976,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498152,
+            54.153389
+          ],
+          [
+            -4.498238,
+            54.153462
+          ],
+          [
+            -4.498163,
+            54.153492
+          ],
+          [
+            -4.498077,
+            54.153419
+          ],
+          [
+            -4.498152,
+            54.153389
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "146",
+        "addr:postcode": "IM1 4HJ",
+        "addr:street": "Ballabrooie Drive",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79372979,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498708,
+            54.153956
+          ],
+          [
+            -4.498618,
+            54.153881
+          ],
+          [
+            -4.498706,
+            54.153845
+          ],
+          [
+            -4.498796,
+            54.15392
+          ],
+          [
+            -4.498708,
+            54.153956
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "136",
+        "addr:postcode": "IM1 4HJ",
+        "addr:street": "Ballabrooie Drive",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -30551,6 +30890,359 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632357/0500191regbldravenscourt.pdf",
         "wikidata": "Q118188677"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79376788,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498342,
+            54.154373
+          ],
+          [
+            -4.498337,
+            54.154439
+          ],
+          [
+            -4.498195,
+            54.154436
+          ],
+          [
+            -4.498199,
+            54.15437
+          ],
+          [
+            -4.498342,
+            54.154373
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "95",
+        "addr:postcode": "IM1 4HA",
+        "addr:street": "Ballabrooie Avenue",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79379466,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497257,
+            54.153695
+          ],
+          [
+            -4.497303,
+            54.153636
+          ],
+          [
+            -4.497435,
+            54.153672
+          ],
+          [
+            -4.49739,
+            54.15373
+          ],
+          [
+            -4.497257,
+            54.153695
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "31",
+        "addr:postcode": "IM1 4EX",
+        "addr:street": "Ballabrooie Grove",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79379467,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497165,
+            54.153495
+          ],
+          [
+            -4.497088,
+            54.153464
+          ],
+          [
+            -4.497152,
+            54.15341
+          ],
+          [
+            -4.497229,
+            54.153442
+          ],
+          [
+            -4.497165,
+            54.153495
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM1 4EU",
+        "addr:street": "Ballabrooie Close",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79379468,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497421,
+            54.153365
+          ],
+          [
+            -4.497423,
+            54.153309
+          ],
+          [
+            -4.497538,
+            54.15331
+          ],
+          [
+            -4.497536,
+            54.153366
+          ],
+          [
+            -4.497421,
+            54.153365
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 4HL",
+        "addr:street": "Ballabrooie Gardens",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79379490,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497765,
+            54.154524
+          ],
+          [
+            -4.497754,
+            54.154586
+          ],
+          [
+            -4.497611,
+            54.154578
+          ],
+          [
+            -4.497622,
+            54.154516
+          ],
+          [
+            -4.497765,
+            54.154524
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Evergreen",
+        "addr:housenumber": "69",
+        "addr:postcode": "IM1 4EZ",
+        "addr:street": "Ballabrooie Avenue",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79379500,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497231,
+            54.154692
+          ],
+          [
+            -4.497222,
+            54.15476
+          ],
+          [
+            -4.497075,
+            54.154753
+          ],
+          [
+            -4.497083,
+            54.154685
+          ],
+          [
+            -4.497231,
+            54.154692
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "53",
+        "addr:postcode": "IM1 4EX",
+        "addr:street": "Ballabrooie Grove",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79379510,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497336,
+            54.154915
+          ],
+          [
+            -4.497459,
+            54.154921
+          ],
+          [
+            -4.497448,
+            54.155009
+          ],
+          [
+            -4.497324,
+            54.155003
+          ],
+          [
+            -4.497336,
+            54.154915
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "59",
+        "addr:postcode": "IM1 4EY",
+        "addr:street": "Ballabrooie Way",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79387565,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496501,
+            54.153718
+          ],
+          [
+            -4.496456,
+            54.153671
+          ],
+          [
+            -4.496577,
+            54.153632
+          ],
+          [
+            -4.496622,
+            54.153679
+          ],
+          [
+            -4.496501,
+            54.153718
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 4EU",
+        "addr:street": "Ballabrooie Close",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79387567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496676,
+            54.154752
+          ],
+          [
+            -4.496668,
+            54.154814
+          ],
+          [
+            -4.496528,
+            54.154808
+          ],
+          [
+            -4.496536,
+            54.154745
+          ],
+          [
+            -4.496676,
+            54.154752
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM1 4ET",
+        "addr:street": "Ballabrooie Grove",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -32460,6 +33152,178 @@
     },
     {
       "type": "Feature",
+      "id": 82567244,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495876,
+            54.153773
+          ],
+          [
+            -4.495954,
+            54.153742
+          ],
+          [
+            -4.496026,
+            54.153804
+          ],
+          [
+            -4.495948,
+            54.153835
+          ],
+          [
+            -4.495876,
+            54.153773
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "30",
+        "addr:postcode": "IM1 4ER",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82567246,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495624,
+            54.153931
+          ],
+          [
+            -4.495596,
+            54.153854
+          ],
+          [
+            -4.495689,
+            54.153843
+          ],
+          [
+            -4.495717,
+            54.15392
+          ],
+          [
+            -4.495624,
+            54.153931
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM1 4EP",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82567270,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496079,
+            54.154289
+          ],
+          [
+            -4.496074,
+            54.154311
+          ],
+          [
+            -4.496144,
+            54.154316
+          ],
+          [
+            -4.496136,
+            54.154351
+          ],
+          [
+            -4.495908,
+            54.154333
+          ],
+          [
+            -4.49592,
+            54.154277
+          ],
+          [
+            -4.496079,
+            54.154289
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 4ER",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82567291,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49576,
+            54.15493
+          ],
+          [
+            -4.495775,
+            54.154874
+          ],
+          [
+            -4.495988,
+            54.154894
+          ],
+          [
+            -4.495979,
+            54.154928
+          ],
+          [
+            -4.495931,
+            54.154924
+          ],
+          [
+            -4.495926,
+            54.154945
+          ],
+          [
+            -4.49576,
+            54.15493
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM1 4ER",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 82568077,
       "geometry": {
         "type": "LineString",
@@ -34140,36 +35004,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481062,
-            54.152974
+            -4.481056,
+            54.152989
           ],
           [
-            -4.481011,
-            54.152945
+            -4.481,
+            54.152958
           ],
           [
-            -4.481045,
-            54.152901
-          ],
-          [
-            -4.48111,
+            -4.48103,
             54.152919
           ],
           [
-            -4.481163,
-            54.152846
+            -4.48108,
+            54.152932
           ],
           [
-            -4.481304,
-            54.152885
+            -4.481143,
+            54.152848
           ],
           [
-            -4.481187,
-            54.153037
+            -4.481288,
+            54.152887
           ],
           [
-            -4.481062,
-            54.152974
+            -4.481174,
+            54.153043
+          ],
+          [
+            -4.481056,
+            54.152989
           ]
         ]
       },
@@ -34179,7 +35043,7 @@
         "addr:housenumber": "39",
         "addr:postcode": "IM1 2PW",
         "addr:street": "Finch Road",
-        "building": "yes",
+        "building": "commercial",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -38118,16 +38982,10 @@
         "addr:country": "IM",
         "addr:postcode": "IM8 2LL",
         "addr:street": "Bowring Road",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
         "building": "retail",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Sa 08:00-21:00; Su 09:00-18:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
+        "old_name": "Shoprite",
         "source": "Bing;local_knowledge",
-        "website": "https://www.manxshoprite.com/",
+        "was:shop": "supermarket",
         "wheelchair": "yes"
       }
     },
@@ -61515,6 +62373,53 @@
     },
     {
       "type": "Feature",
+      "id": 146980705,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694352,
+            54.222867
+          ],
+          [
+            -4.694231,
+            54.222875
+          ],
+          [
+            -4.694215,
+            54.222771
+          ],
+          [
+            -4.694329,
+            54.222764
+          ],
+          [
+            -4.694352,
+            54.222867
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM5 1AG",
+        "addr:street": "Michael Street",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "building": "yes",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "toilets:wheelchair": "no",
+        "website": "https://www.coop.co.uk/store-finder/IM5-1AG/michael-street",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146980728,
       "geometry": {
         "type": "LineString",
@@ -61555,15 +62460,14 @@
         "addr:housenumber": "13",
         "addr:postcode": "IM5 1HB",
         "addr:street": "Michael Street",
-        "brand": "Shoprite",
-        "brand:wikidata": "Q7501242",
-        "brand:wikipedia": "en:Shoprite (Isle of Man)",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
         "building": "yes",
-        "name": "Shoprite",
-        "opening_hours": "Mo-Su 08:00-21:00",
-        "operator": "Shoprite",
-        "shop": "supermarket",
-        "website": "https://www.manxshoprite.com/",
+        "name": "Tesco Express",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "operator": "Tesco",
+        "shop": "convenience",
+        "website": "https://www.tesco.com/store-locator/peel/michael-street",
         "wheelchair": "yes"
       }
     },
@@ -66671,6 +67575,52 @@
         "name": "Waterfall Barn",
         "tourism": "chalet",
         "website": "http://www.glenmaye.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165803331,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.644208,
+            54.200896
+          ],
+          [
+            -4.644163,
+            54.200983
+          ],
+          [
+            -4.643912,
+            54.200938
+          ],
+          [
+            -4.643936,
+            54.200892
+          ],
+          [
+            -4.643961,
+            54.200896
+          ],
+          [
+            -4.643981,
+            54.200856
+          ],
+          [
+            -4.644208,
+            54.200896
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "St Johns",
+        "addr:country": "IM",
+        "addr:housename": "Kerrowkeil",
+        "addr:postcode": "IM4 3BN",
+        "addr:street": "Patrick Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -96097,28 +97047,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481304,
-            54.152885
+            -4.481288,
+            54.152887
           ],
           [
-            -4.481163,
-            54.152846
+            -4.481143,
+            54.152848
           ],
           [
-            -4.48121,
-            54.152781
+            -4.481194,
+            54.152783
           ],
           [
-            -4.481234,
-            54.152749
+            -4.481218,
+            54.152752
           ],
           [
-            -4.481385,
-            54.152788
+            -4.481363,
+            54.15279
           ],
           [
-            -4.481304,
-            54.152885
+            -4.481288,
+            54.152887
           ]
         ]
       },
@@ -96129,10 +97079,9 @@
         "addr:housenumber": "39",
         "addr:postcode": "IM1 2PW",
         "addr:street": "Finch Road",
-        "building": "yes",
+        "building": "office",
         "contact:email": "coroner@coronerofmiddle.com",
-        "contact:fax": "+44 7092 136805",
-        "contact:phone": "+44 1624 612130",
+        "contact:phone": "+44 1624 622280",
         "contact:website": "http://coronerofmiddle.com/",
         "government": "coroner",
         "name": "Coroner of Middle",
@@ -100599,6 +101548,45 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "tourism": "chalet",
         "website": "https://www.visitisleofman.com/stay/eary-cushlin-p1289431"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 872187570,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488996,
+            54.154098
+          ],
+          [
+            -4.489028,
+            54.154178
+          ],
+          [
+            -4.488888,
+            54.154198
+          ],
+          [
+            -4.488855,
+            54.154118
+          ],
+          [
+            -4.488996,
+            54.154098
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 4AX",
+        "addr:street": "Westmount",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -118298,6 +119286,61 @@
     },
     {
       "type": "Feature",
+      "id": 1147742344,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.645012,
+            54.201045
+          ],
+          [
+            -4.644978,
+            54.201108
+          ],
+          [
+            -4.644945,
+            54.201101
+          ],
+          [
+            -4.644941,
+            54.201109
+          ],
+          [
+            -4.644899,
+            54.201101
+          ],
+          [
+            -4.644883,
+            54.201131
+          ],
+          [
+            -4.644805,
+            54.201116
+          ],
+          [
+            -4.644858,
+            54.201017
+          ],
+          [
+            -4.645012,
+            54.201045
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "St Johns",
+        "addr:country": "IM",
+        "addr:housename": "Bluebell Cottage",
+        "addr:postcode": "IM4 3BR",
+        "addr:street": "Patrick Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1147859234,
       "geometry": {
         "type": "LineString",
@@ -121888,24 +122931,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483641,
-            54.153086
+            -4.483639,
+            54.153085
           ],
           [
-            -4.483527,
+            -4.483528,
             54.153084
           ],
           [
-            -4.483535,
+            -4.483531,
             54.152994
           ],
           [
-            -4.483642,
-            54.152996
+            -4.483643,
+            54.152995
           ],
           [
-            -4.483641,
-            54.153086
+            -4.483639,
+            54.153085
           ]
         ]
       },
@@ -121916,6 +122959,46 @@
         "addr:street": "Christian Road",
         "building": "house",
         "house": "terraced"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154139341,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483452,
+            54.15242
+          ],
+          [
+            -4.483489,
+            54.152471
+          ],
+          [
+            -4.483626,
+            54.152437
+          ],
+          [
+            -4.483588,
+            54.152386
+          ],
+          [
+            -4.483452,
+            54.15242
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "66",
+        "addr:postcode": "IM1 3AF",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "old_name": "NC Oriental",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "was:shop": "convenience"
       }
     },
     {
@@ -122018,6 +123101,7 @@
         "contact:website": "https://woodbournedental.co.uk/",
         "healthcare": "dentist",
         "name": "Woodbourne Dental 36",
+        "old_name": "Westview Dental Practice",
         "opening_hours": "Mo-Fr 09:00-17:30"
       }
     },
@@ -125212,6 +126296,68 @@
     },
     {
       "type": "Feature",
+      "id": 1173147174,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494934,
+            54.154934
+          ],
+          [
+            -4.49489,
+            54.154934
+          ],
+          [
+            -4.494889,
+            54.154908
+          ],
+          [
+            -4.494862,
+            54.154908
+          ],
+          [
+            -4.494863,
+            54.154917
+          ],
+          [
+            -4.494847,
+            54.154918
+          ],
+          [
+            -4.494848,
+            54.154936
+          ],
+          [
+            -4.494835,
+            54.154936
+          ],
+          [
+            -4.494838,
+            54.155018
+          ],
+          [
+            -4.494937,
+            54.155016
+          ],
+          [
+            -4.494934,
+            54.154934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 4EW",
+        "addr:street": "Ballabrooie Way",
+        "building": "semidetached_house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1173431606,
       "geometry": {
         "type": "LineString",
@@ -127921,23 +129067,23 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483527,
+            -4.483528,
             54.153084
           ],
           [
-            -4.483435,
-            54.153081
+            -4.483436,
+            54.153083
           ],
           [
-            -4.48344,
+            -4.483438,
+            54.152993
+          ],
+          [
+            -4.483531,
             54.152994
           ],
           [
-            -4.483535,
-            54.152994
-          ],
-          [
-            -4.483527,
+            -4.483528,
             54.153084
           ]
         ]
@@ -127958,24 +129104,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483435,
-            54.153081
+            -4.483436,
+            54.153083
           ],
           [
-            -4.483342,
-            54.153081
+            -4.483346,
+            54.153082
           ],
           [
             -4.483348,
             54.152992
           ],
           [
-            -4.48344,
-            54.152994
+            -4.483438,
+            54.152993
           ],
           [
-            -4.483435,
-            54.153081
+            -4.483436,
+            54.153083
           ]
         ]
       },
@@ -127995,15 +129141,15 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483342,
-            54.153081
+            -4.483346,
+            54.153082
           ],
           [
-            -4.48324,
-            54.15308
+            -4.483251,
+            54.153082
           ],
           [
-            -4.483253,
+            -4.483252,
             54.152991
           ],
           [
@@ -128011,8 +129157,8 @@
             54.152992
           ],
           [
-            -4.483342,
-            54.153081
+            -4.483346,
+            54.153082
           ]
         ]
       },
@@ -128032,24 +129178,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48324,
-            54.15308
+            -4.483251,
+            54.153082
           ],
           [
-            -4.483148,
-            54.15308
+            -4.483158,
+            54.153082
           ],
           [
-            -4.483153,
-            54.15299
-          ],
-          [
-            -4.483253,
+            -4.483159,
             54.152991
           ],
           [
-            -4.48324,
-            54.15308
+            -4.483252,
+            54.152991
+          ],
+          [
+            -4.483251,
+            54.153082
           ]
         ]
       },
@@ -128069,24 +129215,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483148,
-            54.15308
+            -4.483158,
+            54.153082
           ],
           [
-            -4.483049,
-            54.153081
+            -4.483063,
+            54.153082
           ],
           [
-            -4.483055,
+            -4.483064,
             54.15299
           ],
           [
-            -4.483153,
-            54.15299
+            -4.483159,
+            54.152991
           ],
           [
-            -4.483148,
-            54.15308
+            -4.483158,
+            54.153082
           ]
         ]
       },
@@ -128106,24 +129252,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483049,
-            54.153081
+            -4.483063,
+            54.153082
           ],
           [
-            -4.482952,
-            54.153081
+            -4.482973,
+            54.153082
           ],
           [
-            -4.482963,
+            -4.482973,
             54.15299
           ],
           [
-            -4.483055,
+            -4.483064,
             54.15299
           ],
           [
-            -4.483049,
-            54.153081
+            -4.483063,
+            54.153082
           ]
         ]
       },
@@ -128143,24 +129289,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482952,
-            54.153081
+            -4.482973,
+            54.153082
           ],
           [
-            -4.482861,
+            -4.482882,
             54.153083
           ],
           [
-            -4.482869,
+            -4.482882,
             54.152989
           ],
           [
-            -4.482963,
+            -4.482973,
             54.15299
           ],
           [
-            -4.482952,
-            54.153081
+            -4.482973,
+            54.153082
           ]
         ]
       },
@@ -128180,23 +129326,23 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482861,
+            -4.482882,
             54.153083
           ],
           [
-            -4.482769,
-            54.15309
+            -4.482783,
+            54.153083
           ],
           [
-            -4.482776,
+            -4.482783,
             54.152989
           ],
           [
-            -4.482869,
+            -4.482882,
             54.152989
           ],
           [
-            -4.482861,
+            -4.482882,
             54.153083
           ]
         ]
@@ -128217,34 +129363,38 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482769,
-            54.15309
-          ],
-          [
-            -4.482671,
-            54.153086
+            -4.482783,
+            54.153083
           ],
           [
             -4.482673,
-            54.152988
+            54.153083
           ],
           [
-            -4.482776,
+            -4.482673,
             54.152989
           ],
           [
-            -4.482769,
-            54.15309
+            -4.482783,
+            54.152989
+          ],
+          [
+            -4.482783,
+            54.153083
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "18",
         "addr:postcode": "IM1 2QN",
         "addr:street": "Christian Road",
         "building": "house",
-        "house": "terraced"
+        "house": "terraced",
+        "name": "Melrose Guest House",
+        "tourism": "guest_house",
+        "website": "http://www.melroseguesthouse.co.uk"
       }
     },
     {
@@ -128254,24 +129404,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482671,
-            54.153086
+            -4.482673,
+            54.153083
           ],
           [
-            -4.482562,
-            54.153085
+            -4.482559,
+            54.153083
           ],
           [
-            -4.482566,
-            54.152988
+            -4.482559,
+            54.152989
           ],
           [
             -4.482673,
-            54.152988
+            54.152989
           ],
           [
-            -4.482671,
-            54.153086
+            -4.482673,
+            54.153083
           ]
         ]
       },
@@ -128291,24 +129441,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482562,
-            54.153085
+            -4.482559,
+            54.153083
           ],
           [
-            -4.482476,
-            54.153084
+            -4.482473,
+            54.153083
           ],
           [
-            -4.482481,
-            54.152991
+            -4.482472,
+            54.152989
           ],
           [
-            -4.482566,
-            54.152988
+            -4.482559,
+            54.152989
           ],
           [
-            -4.482562,
-            54.153085
+            -4.482559,
+            54.153083
           ]
         ]
       },
@@ -128328,24 +129478,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482476,
-            54.153084
+            -4.482473,
+            54.153083
           ],
           [
-            -4.482372,
-            54.153084
+            -4.482371,
+            54.153083
           ],
           [
-            -4.48238,
-            54.152991
+            -4.482371,
+            54.152989
           ],
           [
-            -4.482481,
-            54.152991
+            -4.482472,
+            54.152989
           ],
           [
-            -4.482476,
-            54.153084
+            -4.482473,
+            54.153083
           ]
         ]
       },
@@ -128365,24 +129515,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482372,
-            54.153084
+            -4.482371,
+            54.153083
           ],
           [
-            -4.482277,
-            54.153085
+            -4.482274,
+            54.153083
           ],
           [
-            -4.482281,
-            54.152992
+            -4.482274,
+            54.152989
           ],
           [
-            -4.48238,
-            54.152991
+            -4.482371,
+            54.152989
           ],
           [
-            -4.482372,
-            54.153084
+            -4.482371,
+            54.153083
           ]
         ]
       },
@@ -128402,24 +129552,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482277,
-            54.153085
+            -4.482274,
+            54.153083
           ],
           [
-            -4.482167,
-            54.153084
+            -4.482166,
+            54.153083
           ],
           [
-            -4.482171,
-            54.152992
+            -4.482166,
+            54.152989
           ],
           [
-            -4.482281,
-            54.152992
+            -4.482274,
+            54.152989
           ],
           [
-            -4.482277,
-            54.153085
+            -4.482274,
+            54.153083
           ]
         ]
       },
@@ -128439,24 +129589,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482167,
-            54.153084
+            -4.482166,
+            54.153083
           ],
           [
             -4.482076,
             54.153083
           ],
           [
-            -4.482077,
-            54.15299
+            -4.482076,
+            54.152989
           ],
           [
-            -4.482171,
-            54.152992
+            -4.482166,
+            54.152989
           ],
           [
-            -4.482167,
-            54.153084
+            -4.482166,
+            54.153083
           ]
         ]
       },
@@ -133016,6 +134166,371 @@
     },
     {
       "type": "Feature",
+      "id": 1273200810,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495593,
+            54.154318
+          ],
+          [
+            -4.495582,
+            54.154375
+          ],
+          [
+            -4.495378,
+            54.154361
+          ],
+          [
+            -4.495384,
+            54.154327
+          ],
+          [
+            -4.495444,
+            54.154331
+          ],
+          [
+            -4.495449,
+            54.154308
+          ],
+          [
+            -4.495593,
+            54.154318
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM1 4EP",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1273200820,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495432,
+            54.154958
+          ],
+          [
+            -4.495445,
+            54.1549
+          ],
+          [
+            -4.495254,
+            54.154885
+          ],
+          [
+            -4.495247,
+            54.154919
+          ],
+          [
+            -4.495287,
+            54.154922
+          ],
+          [
+            -4.495282,
+            54.154946
+          ],
+          [
+            -4.495432,
+            54.154958
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM1 4EP",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1273200821,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496187,
+            54.153812
+          ],
+          [
+            -4.496112,
+            54.153743
+          ],
+          [
+            -4.496218,
+            54.153703
+          ],
+          [
+            -4.496293,
+            54.153772
+          ],
+          [
+            -4.496187,
+            54.153812
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM1 4ER",
+        "addr:street": "Western Avenue",
+        "building": "house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276549326,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497536,
+            54.153366
+          ],
+          [
+            -4.497532,
+            54.153464
+          ],
+          [
+            -4.497417,
+            54.153463
+          ],
+          [
+            -4.497421,
+            54.153365
+          ],
+          [
+            -4.497536,
+            54.153366
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 4HL",
+        "addr:street": "Ballabrooie Gardens",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596783,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.500307,
+            54.155348
+          ],
+          [
+            -4.500363,
+            54.155409
+          ],
+          [
+            -4.500233,
+            54.15545
+          ],
+          [
+            -4.500177,
+            54.155389
+          ],
+          [
+            -4.500307,
+            54.155348
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "92",
+        "addr:postcode": "IM1 4HF",
+        "addr:street": "Ballabrooie Drive",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596785,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498509,
+            54.153768
+          ],
+          [
+            -4.498416,
+            54.153695
+          ],
+          [
+            -4.4985,
+            54.153658
+          ],
+          [
+            -4.498592,
+            54.153731
+          ],
+          [
+            -4.498509,
+            54.153768
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "140",
+        "addr:postcode": "IM1 4HJ",
+        "addr:street": "Ballabrooie Drive",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596793,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497684,
+            54.154128
+          ],
+          [
+            -4.497693,
+            54.154064
+          ],
+          [
+            -4.497832,
+            54.15407
+          ],
+          [
+            -4.497824,
+            54.154134
+          ],
+          [
+            -4.497684,
+            54.154128
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM1 4EZ",
+        "addr:street": "Ballabrooie Avenue",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596796,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498178,
+            54.15475
+          ],
+          [
+            -4.498188,
+            54.154685
+          ],
+          [
+            -4.498349,
+            54.154693
+          ],
+          [
+            -4.498339,
+            54.154758
+          ],
+          [
+            -4.498178,
+            54.15475
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "101",
+        "addr:postcode": "IM1 4HA",
+        "addr:street": "Ballabrooie Avenue",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596801,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496566,
+            54.154552
+          ],
+          [
+            -4.496576,
+            54.154488
+          ],
+          [
+            -4.496721,
+            54.154497
+          ],
+          [
+            -4.496711,
+            54.15456
+          ],
+          [
+            -4.496566,
+            54.154552
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM1 4ET",
+        "addr:street": "Ballabrooie Grove",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1276596809,
       "geometry": {
         "type": "LineString",
@@ -133092,6 +134607,45 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1276596816,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497586,
+            54.154901
+          ],
+          [
+            -4.497676,
+            54.154862
+          ],
+          [
+            -4.497767,
+            54.154927
+          ],
+          [
+            -4.497676,
+            54.154967
+          ],
+          [
+            -4.497586,
+            54.154901
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "63",
+        "addr:postcode": "IM1 4EZ",
+        "addr:street": "Ballabrooie Avenue",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

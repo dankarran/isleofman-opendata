@@ -1208,27 +1208,6 @@
     },
     {
       "type": "Feature",
-      "id": 501841536,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.482761,
-          54.152965
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM1 2QN",
-        "addr:street": "Christian Road",
-        "name": "Melrose Guest House",
-        "tourism": "guest_house",
-        "website": "http://www.melroseguesthouse.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 502292309,
       "geometry": {
         "type": "Point",
@@ -5262,20 +5241,28 @@
             54.154319
           ],
           [
-            -4.480945,
-            54.154303
+            -4.480924,
+            54.154295
           ],
           [
-            -4.480935,
-            54.154321
+            -4.480917,
+            54.154306
           ],
           [
-            -4.480687,
-            54.154267
+            -4.48067,
+            54.154253
           ],
           [
-            -4.480746,
-            54.154174
+            -4.480711,
+            54.154188
+          ],
+          [
+            -4.480846,
+            54.154212
+          ],
+          [
+            -4.480856,
+            54.154195
           ],
           [
             -4.480966,
@@ -11357,51 +11344,6 @@
         "name": "Waterfall Barn",
         "tourism": "chalet",
         "website": "http://www.glenmaye.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165803331,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.644208,
-            54.200896
-          ],
-          [
-            -4.644163,
-            54.200983
-          ],
-          [
-            -4.643912,
-            54.200938
-          ],
-          [
-            -4.643936,
-            54.200892
-          ],
-          [
-            -4.643961,
-            54.200896
-          ],
-          [
-            -4.643981,
-            54.200856
-          ],
-          [
-            -4.644208,
-            54.200896
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Patrick Road",
-        "building": "house",
-        "name": "Kerrowkeil Bed & Breakfast",
-        "tourism": "guest_house",
-        "website": "http://www.kerrowkeil.com"
       }
     },
     {
@@ -19572,6 +19514,47 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
         "url:imher": "https://isleofmanher.im/report/2e253fbf-2228-49b7-8af4-610fe511a804"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1236560744,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482783,
+            54.153083
+          ],
+          [
+            -4.482673,
+            54.153083
+          ],
+          [
+            -4.482673,
+            54.152989
+          ],
+          [
+            -4.482783,
+            54.152989
+          ],
+          [
+            -4.482783,
+            54.153083
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 2QN",
+        "addr:street": "Christian Road",
+        "building": "house",
+        "house": "terraced",
+        "name": "Melrose Guest House",
+        "tourism": "guest_house",
+        "website": "http://www.melroseguesthouse.co.uk"
       }
     },
     {

@@ -455,6 +455,22 @@
         "locked": "yes",
         "phone": "999"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12029023066,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481401,
+          54.148911
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "Outside the southeastern corner of Shaw's Brow car park, on the corner of Church Street and Barrack Street",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
     }
   ]
 }

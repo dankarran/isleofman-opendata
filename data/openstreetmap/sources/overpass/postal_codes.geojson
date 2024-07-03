@@ -4459,40 +4459,6 @@
     },
     {
       "type": "Feature",
-      "id": 25986240,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.483819,
-            54.154715
-          ],
-          [
-            -4.483818,
-            54.154658
-          ],
-          [
-            -4.483816,
-            54.154444
-          ],
-          [
-            -4.483794,
-            54.154013
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Richmond Grove",
-        "postal_code": "IM1 3JZ;IM1 3LA",
-        "postal_code:left": "IM1 3LA",
-        "postal_code:right": "IM1 3JZ",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25986244,
       "geometry": {
         "type": "LineString",
@@ -7073,38 +7039,6 @@
         "postal_code": "IM2 1JG",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25986746,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.495837,
-            54.153973
-          ],
-          [
-            -4.495825,
-            54.15399
-          ],
-          [
-            -4.49583,
-            54.154027
-          ],
-          [
-            -4.495551,
-            54.155124
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Western Avenue",
-        "postal_code": "IM1 4EP;IM1 4ER",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -10193,16 +10127,16 @@
             54.150596
           ],
           [
-            -4.481864,
-            54.150442
+            -4.48182,
+            54.150463
           ],
           [
-            -4.481886,
-            54.150428
+            -4.481859,
+            54.150438
           ],
           [
-            -4.482093,
-            54.150294
+            -4.482057,
+            54.150319
           ],
           [
             -4.48287,
@@ -10213,8 +10147,8 @@
             54.149754
           ],
           [
-            -4.482977,
-            54.149724
+            -4.482964,
+            54.149729
           ]
         ]
       },
@@ -10227,6 +10161,7 @@
         "oneway": "yes",
         "postal_code": "IM1 1EF",
         "ref": "B68",
+        "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "asphalt"
@@ -11536,42 +11471,6 @@
         "name": "Park Road",
         "oneway": "yes",
         "postal_code": "IM2 3EL",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25987748,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.498202,
-            54.153728
-          ],
-          [
-            -4.498158,
-            54.15375
-          ],
-          [
-            -4.498109,
-            54.1538
-          ],
-          [
-            -4.498079,
-            54.153859
-          ],
-          [
-            -4.497898,
-            54.155148
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Ballabrooie Avenue",
-        "postal_code": "IM1 4HA;IM1 4EZ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -13930,32 +13829,6 @@
     },
     {
       "type": "Feature",
-      "id": 25988280,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484667,
-            54.159167
-          ],
-          [
-            -4.483147,
-            54.158697
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Farrant Street",
-        "postal_code": "IM2 3HF;IM2 3HG",
-        "postal_code:left": "IM2 3HG",
-        "postal_code:right": "IM2 3HF",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25988283,
       "geometry": {
         "type": "LineString",
@@ -15746,38 +15619,6 @@
     },
     {
       "type": "Feature",
-      "id": 25988773,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.496964,
-            54.153625
-          ],
-          [
-            -4.496998,
-            54.153678
-          ],
-          [
-            -4.496995,
-            54.153817
-          ],
-          [
-            -4.496778,
-            54.155115
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Ballabrooie Grove",
-        "postal_code": "IM1 4ET;IM1 4EX",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25988779,
       "geometry": {
         "type": "LineString",
@@ -16254,40 +16095,6 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25988878,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.482966,
-            54.154698
-          ],
-          [
-            -4.482971,
-            54.154658
-          ],
-          [
-            -4.482996,
-            54.154438
-          ],
-          [
-            -4.48304,
-            54.154109
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Osborne Grove",
-        "postal_code": "IM1 3LE;IM1 3LF",
-        "postal_code:left": "IM1 3LF",
-        "postal_code:right": "IM1 3LE",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -19277,6 +19084,43 @@
     },
     {
       "type": "Feature",
+      "id": 25989626,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496073,
+            54.15386
+          ],
+          [
+            -4.4959,
+            54.153927
+          ],
+          [
+            -4.495837,
+            54.153973
+          ],
+          [
+            -4.495825,
+            54.15399
+          ],
+          [
+            -4.49583,
+            54.154027
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Western Avenue",
+        "postal_code": "IM1 4ER",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989633,
       "geometry": {
         "type": "LineString",
@@ -19856,59 +19700,6 @@
         "postal_code": "IM2 5NQ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 28616195,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.483615,
-            54.152212
-          ],
-          [
-            -4.483524,
-            54.152233
-          ],
-          [
-            -4.48323,
-            54.152306
-          ],
-          [
-            -4.483186,
-            54.152312
-          ],
-          [
-            -4.481769,
-            54.152297
-          ],
-          [
-            -4.481422,
-            54.152286
-          ],
-          [
-            -4.481394,
-            54.152285
-          ],
-          [
-            -4.481346,
-            54.152282
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "residential",
-        "maxspeed": "30 mph",
-        "name": "Mona Street",
-        "oneway": "yes",
-        "postal_code": "IM1 2QE;IM1 2QD",
-        "postal_code:left": "IM1 2QD",
-        "postal_code:right": "IM1 2QE",
-        "sidewalk:both": "yes",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -24222,68 +24013,6 @@
         "maxspeed": "30 mph",
         "name": "Willow Terrace",
         "postal_code": "IM1 3HA",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 61596063,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.485895,
-            54.155089
-          ],
-          [
-            -4.486248,
-            54.155031
-          ],
-          [
-            -4.487095,
-            54.154887
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "residential",
-        "maxspeed": "30 mph",
-        "name": "Wesley Terrace",
-        "postal_code": "IM1 3HF;IM1 3HG",
-        "postal_code:left": "IM1 3HG",
-        "postal_code:right": "IM1 3HF",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 61596064,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.487275,
-            54.155182
-          ],
-          [
-            -4.486307,
-            54.155355
-          ],
-          [
-            -4.486033,
-            54.155404
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "residential",
-        "maxspeed": "30 mph",
-        "name": "Hatfield Grove",
-        "postal_code": "IM1 3HD;IM1 3HE",
-        "postal_code:left": "IM1 3HD",
-        "postal_code:right": "IM1 3HE",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -32341,8 +32070,16 @@
             54.150147
           ],
           [
-            -4.483582,
-            54.149938
+            -4.483508,
+            54.149999
+          ],
+          [
+            -4.483525,
+            54.149985
+          ],
+          [
+            -4.483569,
+            54.149947
           ]
         ]
       },
@@ -36977,6 +36714,62 @@
         "opening_hours": "Mo,Tu,Sa 09:00-18:00, Th,Fr 09:00-19:00",
         "postal_code": "IM1 3AF",
         "shop": "hairdresser;variety_store"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1273127250,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4967,
+            54.153577
+          ],
+          [
+            -4.496964,
+            54.153625
+          ],
+          [
+            -4.497071,
+            54.153548
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Ballabrooie Close",
+        "postal_code": "IM1 4EU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1273200809,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495825,
+            54.15399
+          ],
+          [
+            -4.495776,
+            54.153978
+          ],
+          [
+            -4.495541,
+            54.154001
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Western Avenue",
+        "postal_code": "IM1 4EP",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
