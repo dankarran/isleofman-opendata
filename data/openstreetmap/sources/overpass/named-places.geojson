@@ -21483,6 +21483,40 @@
     },
     {
       "type": "Feature",
+      "id": 12034890905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.562592,
+          54.18372
+        ]
+      },
+      "properties": {
+        "name": "Eyreton Lea",
+        "place": "locality",
+        "source": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12034890925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.561901,
+          54.185452
+        ]
+      },
+      "properties": {
+        "name": "Eyreton Farm Cottages",
+        "place": "locality",
+        "postal_code": "IM4 4BU",
+        "source": "streetside",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987471,
       "geometry": {
         "type": "LineString",

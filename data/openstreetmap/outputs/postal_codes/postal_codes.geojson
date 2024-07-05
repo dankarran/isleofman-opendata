@@ -3998,6 +3998,29 @@
     },
     {
       "type": "Feature",
+      "id": 12034890925,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.561901,
+          54.185452
+        ]
+      },
+      "properties": {
+        "name": "Eyreton Farm Cottages",
+        "place": "locality",
+        "postal_code": "IM4 4BU",
+        "source": "streetside",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12034890925,
+        "lon": -4.561901,
+        "lat": 54.185452,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12034890925"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985921,
       "geometry": {
         "type": "LineString",
@@ -4922,6 +4945,91 @@
         "lat": 54.175393500000006,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986067"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.564961,
+            54.184098
+          ],
+          [
+            -4.564853,
+            54.184023
+          ],
+          [
+            -4.56478,
+            54.183955
+          ],
+          [
+            -4.564621,
+            54.183772
+          ],
+          [
+            -4.564559,
+            54.183728
+          ],
+          [
+            -4.564489,
+            54.1837
+          ],
+          [
+            -4.564389,
+            54.183688
+          ],
+          [
+            -4.56404,
+            54.18369
+          ],
+          [
+            -4.563934,
+            54.183687
+          ],
+          [
+            -4.563837,
+            54.183656
+          ],
+          [
+            -4.563399,
+            54.183439
+          ],
+          [
+            -4.563145,
+            54.183359
+          ],
+          [
+            -4.562952,
+            54.183283
+          ],
+          [
+            -4.562608,
+            54.183133
+          ],
+          [
+            -4.562422,
+            54.183023
+          ],
+          [
+            -4.562103,
+            54.182895
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Kermode Road",
+        "postal_code": "IM4 4BZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 25986100,
+        "lon": -4.563562001058726,
+        "lat": 54.18348150081502,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986100"
       }
     },
     {
@@ -9188,6 +9296,36 @@
         "lat": 54.16690987259663,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986997"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.56248,
+            54.183239
+          ],
+          [
+            -4.562311,
+            54.183379
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Forest Close",
+        "postal_code": "IM4 4DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 25987006,
+        "lon": -4.5623955,
+        "lat": 54.183309,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987006"
       }
     },
     {
@@ -14883,6 +15021,41 @@
     },
     {
       "type": "Feature",
+      "id": 25988058,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.563304,
+            54.183578
+          ],
+          [
+            -4.563115,
+            54.183855
+          ],
+          [
+            -4.563039,
+            54.183979
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Old School View",
+        "postal_code": "IM4 4DA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 25988058,
+        "lon": -4.563169417795864,
+        "lat": 54.1837771526938,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988058"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988070,
       "geometry": {
         "type": "LineString",
@@ -18681,6 +18854,43 @@
         "lat": 54.2864200890951,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989009"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989024,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.564367,
+            54.184431
+          ],
+          [
+            -4.564247,
+            54.184356
+          ],
+          [
+            -4.563581,
+            54.184738
+          ],
+          [
+            -4.563692,
+            54.1848
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Kermode Close",
+        "postal_code": "IM4 4BS",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 25989024,
+        "lon": -4.563933616917105,
+        "lat": 54.18455327511932,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989024"
       }
     },
     {
@@ -33166,6 +33376,111 @@
     },
     {
       "type": "Feature",
+      "id": 167025105,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.519351,
+            54.1794
+          ],
+          [
+            -4.519216,
+            54.179445
+          ],
+          [
+            -4.518896,
+            54.17946
+          ],
+          [
+            -4.517855,
+            54.179507
+          ],
+          [
+            -4.517158,
+            54.179538
+          ],
+          [
+            -4.517074,
+            54.179536
+          ],
+          [
+            -4.517024,
+            54.17952
+          ],
+          [
+            -4.516975,
+            54.179498
+          ],
+          [
+            -4.516952,
+            54.17946
+          ],
+          [
+            -4.516915,
+            54.1791
+          ],
+          [
+            -4.516943,
+            54.179049
+          ],
+          [
+            -4.517001,
+            54.179023
+          ],
+          [
+            -4.517063,
+            54.179017
+          ],
+          [
+            -4.517553,
+            54.178995
+          ],
+          [
+            -4.517605,
+            54.179004
+          ],
+          [
+            -4.517643,
+            54.179015
+          ],
+          [
+            -4.517693,
+            54.179035
+          ],
+          [
+            -4.517723,
+            54.179067
+          ],
+          [
+            -4.51775,
+            54.179108
+          ],
+          [
+            -4.517855,
+            54.179507
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Ballamillaghyn",
+        "name:en": "Ballamillaghyn",
+        "name:gv": "Balley Millaghan",
+        "postal_code": "IM4 4HU;IM4 4HX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 167025105,
+        "lon": -4.517822652676459,
+        "lat": 54.179349596621364,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/167025105"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 168797474,
       "geometry": {
         "type": "LineString",
@@ -40761,6 +41076,100 @@
         "lat": 54.1790575,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1294863455"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299145633,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.562438,
+            54.183441
+          ],
+          [
+            -4.562311,
+            54.183379
+          ],
+          [
+            -4.562203,
+            54.183335
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Forest Close",
+        "postal_code": "IM4 4DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 1299145633,
+        "lon": -4.56232137727177,
+        "lat": 54.18338603825875,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299145633"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299145634,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.562608,
+            54.183133
+          ],
+          [
+            -4.56248,
+            54.183239
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Forest Close",
+        "postal_code": "IM4 4DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1299145634,
+        "lon": -4.562544,
+        "lat": 54.183186000000006,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299145634"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299145635,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.563399,
+            54.183439
+          ],
+          [
+            -4.563304,
+            54.183578
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Old School View",
+        "postal_code": "IM4 4DA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 1299145635,
+        "lon": -4.5633515,
+        "lat": 54.1835085,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299145635"
       }
     }
   ]

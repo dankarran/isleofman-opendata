@@ -112497,6 +112497,51 @@
     },
     {
       "type": "Feature",
+      "id": 868336180,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.565361,
+            54.18385
+          ],
+          [
+            -4.565296,
+            54.18382
+          ],
+          [
+            -4.565381,
+            54.183757
+          ],
+          [
+            -4.565447,
+            54.183788
+          ],
+          [
+            -4.565361,
+            54.18385
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Crosby",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM4 4BL",
+        "addr:street": "Peel Road",
+        "addr:substreet": "Eyreton Terrace",
+        "building": "house",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 868336180,
+        "lon": -4.565371429363737,
+        "lat": 54.18380364277067,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/868336180"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 872187570,
       "geometry": {
         "type": "LineString",
@@ -132603,6 +132648,51 @@
     },
     {
       "type": "Feature",
+      "id": 1148871840,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.565316,
+            54.183726
+          ],
+          [
+            -4.565381,
+            54.183757
+          ],
+          [
+            -4.565296,
+            54.18382
+          ],
+          [
+            -4.56523,
+            54.183789
+          ],
+          [
+            -4.565316,
+            54.183726
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Crosby",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM4 4BL",
+        "addr:street": "Peel Road",
+        "addr:substreet": "Eyreton Terrace",
+        "building": "house",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1148871840,
+        "lon": -4.565305568083381,
+        "lat": 54.18377304475771,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1148871840"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1148906138,
       "geometry": {
         "type": "LineString",
@@ -151218,6 +151308,57 @@
         "lat": 54.20629078761167,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1297170861"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1298885231,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.519008,
+            54.170936
+          ],
+          [
+            -4.518905,
+            54.170944
+          ],
+          [
+            -4.518918,
+            54.170998
+          ],
+          [
+            -4.518816,
+            54.171006
+          ],
+          [
+            -4.518789,
+            54.17089
+          ],
+          [
+            -4.518993,
+            54.170874
+          ],
+          [
+            -4.519008,
+            54.170936
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:housename": "Forest Lodge",
+        "addr:postcode": "IM4 4NP",
+        "addr:street": "Strang Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1298885231,
+        "lon": -4.518893920338229,
+        "lat": 54.170932164287116,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1298885231"
       }
     }
   ]
