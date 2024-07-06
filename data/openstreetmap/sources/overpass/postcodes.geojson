@@ -51295,6 +51295,56 @@
     },
     {
       "type": "Feature",
+      "id": 102638487,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.379309,
+            54.322222
+          ],
+          [
+            -4.379541,
+            54.32217
+          ],
+          [
+            -4.379553,
+            54.322147
+          ],
+          [
+            -4.379478,
+            54.322034
+          ],
+          [
+            -4.379223,
+            54.322091
+          ],
+          [
+            -4.379276,
+            54.322172
+          ],
+          [
+            -4.379309,
+            54.322222
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Shipdesign House",
+        "addr:postcode": "IM8 1BA",
+        "addr:street": "East Quay",
+        "alt_name": "Shipdesine House",
+        "building": "yes",
+        "old_name": "Harbour Bistro",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "was:amenity": "cafe"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102638491,
       "geometry": {
         "type": "LineString",
