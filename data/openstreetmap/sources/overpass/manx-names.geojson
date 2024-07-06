@@ -9057,8 +9057,10 @@
         "name": "Willow Close",
         "name:en": "Willow Close",
         "name:gv": "Close Shelee",
+        "postal_code": "IM5 1WL",
         "source:maxweight": "survey",
         "source:name": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -18122,12 +18124,16 @@
             54.224101
           ],
           [
-            -4.675001,
-            54.224082
+            -4.675031,
+            54.224083
           ],
           [
-            -4.675186,
+            -4.675146,
             54.224079
+          ],
+          [
+            -4.675237,
+            54.224092
           ],
           [
             -4.675441,
@@ -18158,9 +18164,12 @@
         "maxweight": "7.5",
         "maxweight:conditional": "none @ destination",
         "name": "Maple Avenue",
+        "name:en": "Maple Avenue",
         "name:gv": "Astyl Mabbyl",
+        "postal_code": "IM5 1WP",
         "sidewalk:left": "yes",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -27786,8 +27795,11 @@
         "maxweight": "7.5",
         "maxweight:conditional": "none @ destination",
         "name": "Birch Drive",
+        "name:en": "Birch Drive",
         "name:gv": "Imman Beih",
-        "source:maxweight": "survey"
+        "postal_code": "IM5 1WR;IM5 1WQ",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -28348,6 +28360,10 @@
             54.223499
           ],
           [
+            -4.675421,
+            54.223515
+          ],
+          [
             -4.675635,
             54.223521
           ],
@@ -28376,6 +28392,7 @@
         "maxweight": "7.5",
         "maxweight:conditional": "none @ destination",
         "name": "Aspen Drive",
+        "name:en": "Aspen Drive",
         "name:gv": "Imman Croan Craaee",
         "source:maxweight": "survey",
         "surface": "paved"
@@ -63487,7 +63504,9 @@
         "name": "Auldyn Walk",
         "name:en": "Auldyn Walk",
         "name:gv": "Cassan Auldyn",
-        "source": "Bing;survey"
+        "postal_code": "IM8 2TN",
+        "source": "Bing;survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -63515,7 +63534,9 @@
         "name": "Auldyn Court",
         "name:en": "Auldyn Court",
         "name:gv": "Close Auldyn",
-        "source": "Bing;survey"
+        "postal_code": "IM8 2TP",
+        "source": "Bing;survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -63547,7 +63568,9 @@
         "name": "Auldyn Court",
         "name:en": "Auldyn Court",
         "name:gv": "Close Auldyn",
-        "source": "Bing;survey"
+        "postal_code": "IM8 2TP",
+        "source": "Bing;survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

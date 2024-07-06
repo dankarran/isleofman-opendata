@@ -3853,6 +3853,28 @@
     },
     {
       "type": "Feature",
+      "id": 2475398561,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.675262,
+          54.226639
+        ]
+      },
+      "properties": {
+        "name": "McLeod's Field",
+        "place": "locality",
+        "postal_code": "IM5 1UX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 2475398561,
+        "lon": -4.675262,
+        "lat": 54.226639,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/2475398561"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 7711616380,
       "geometry": {
         "type": "Point",
@@ -7314,6 +7336,70 @@
         "lat": 54.17052280510904,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986528"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986529,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674972,
+            54.225748
+          ],
+          [
+            -4.674913,
+            54.225859
+          ],
+          [
+            -4.674857,
+            54.225985
+          ],
+          [
+            -4.674812,
+            54.226027
+          ],
+          [
+            -4.674663,
+            54.226068
+          ],
+          [
+            -4.674569,
+            54.226096
+          ],
+          [
+            -4.67444,
+            54.226133
+          ],
+          [
+            -4.674406,
+            54.226204
+          ],
+          [
+            -4.674338,
+            54.226327
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "maxweight": "7.5",
+        "name": "Willow Close",
+        "name:en": "Willow Close",
+        "name:gv": "Close Shelee",
+        "postal_code": "IM5 1WL",
+        "source:maxweight": "survey",
+        "source:name": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25986529,
+        "lon": -4.674665300525077,
+        "lat": 54.2260496565018,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986529"
       }
     },
     {
@@ -12455,6 +12541,119 @@
         "lat": 54.17207538585594,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987559"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987564,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675813,
+            54.224729
+          ],
+          [
+            -4.675719,
+            54.224705
+          ],
+          [
+            -4.675539,
+            54.22466
+          ],
+          [
+            -4.675271,
+            54.224622
+          ],
+          [
+            -4.675023,
+            54.224604
+          ],
+          [
+            -4.674888,
+            54.224562
+          ],
+          [
+            -4.674782,
+            54.224509
+          ],
+          [
+            -4.674707,
+            54.224429
+          ],
+          [
+            -4.674675,
+            54.224336
+          ],
+          [
+            -4.674686,
+            54.224245
+          ],
+          [
+            -4.67474,
+            54.224179
+          ],
+          [
+            -4.674804,
+            54.224136
+          ],
+          [
+            -4.674907,
+            54.224101
+          ],
+          [
+            -4.675031,
+            54.224083
+          ],
+          [
+            -4.675146,
+            54.224079
+          ],
+          [
+            -4.675237,
+            54.224092
+          ],
+          [
+            -4.675441,
+            54.224129
+          ],
+          [
+            -4.675645,
+            54.224155
+          ],
+          [
+            -4.676005,
+            54.22418
+          ],
+          [
+            -4.676059,
+            54.224178
+          ],
+          [
+            -4.676133,
+            54.224174
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "maxweight": "7.5",
+        "maxweight:conditional": "none @ destination",
+        "name": "Maple Avenue",
+        "name:en": "Maple Avenue",
+        "name:gv": "Astyl Mabbyl",
+        "postal_code": "IM5 1WP",
+        "sidewalk:left": "yes",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25987564,
+        "lon": -4.675281293605771,
+        "lat": 54.22434559296372,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987564"
       }
     },
     {
@@ -19978,6 +20177,45 @@
         "lat": 54.22377461582378,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989186"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989197,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675479,
+            54.225233
+          ],
+          [
+            -4.675369,
+            54.22523
+          ],
+          [
+            -4.674572,
+            54.225119
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "maxweight": "7.5",
+        "maxweight:conditional": "none @ destination",
+        "name": "Birch Drive",
+        "name:en": "Birch Drive",
+        "name:gv": "Imman Beih",
+        "postal_code": "IM5 1WR;IM5 1WQ",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 25989197,
+        "lon": -4.675025055293823,
+        "lat": 54.225181357004956,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989197"
       }
     },
     {
@@ -34368,6 +34606,158 @@
     },
     {
       "type": "Feature",
+      "id": 222820895,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674945,
+            54.227198
+          ],
+          [
+            -4.675029,
+            54.227168
+          ],
+          [
+            -4.67508,
+            54.227121
+          ],
+          [
+            -4.675245,
+            54.227053
+          ],
+          [
+            -4.675266,
+            54.22702
+          ],
+          [
+            -4.675335,
+            54.226943
+          ],
+          [
+            -4.675479,
+            54.226877
+          ],
+          [
+            -4.67565,
+            54.226808
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "maxweight": "7.5",
+        "maxweight:conditional": "none @ destination",
+        "name": "McLeod's Field",
+        "oneway": "no",
+        "postal_code": "IM5 1UX",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 222820895,
+        "lon": -4.675293371951163,
+        "lat": 54.22699767366965,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/222820895"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222820898,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675266,
+            54.22702
+          ],
+          [
+            -4.675112,
+            54.226896
+          ],
+          [
+            -4.675034,
+            54.226816
+          ],
+          [
+            -4.674906,
+            54.226713
+          ],
+          [
+            -4.67485,
+            54.226649
+          ],
+          [
+            -4.674792,
+            54.226611
+          ],
+          [
+            -4.674722,
+            54.226575
+          ],
+          [
+            -4.674751,
+            54.226517
+          ],
+          [
+            -4.674868,
+            54.226432
+          ],
+          [
+            -4.675029,
+            54.226353
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "maxweight": "7.5",
+        "maxweight:conditional": "none @ destination",
+        "name": "McLeod's Field",
+        "oneway": "no",
+        "postal_code": "IM5 1UX",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 222820898,
+        "lon": -4.674949626960915,
+        "lat": 54.22666933526086,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/222820898"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222820904,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.67437,
+            54.22672
+          ],
+          [
+            -4.674722,
+            54.226575
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "maxweight": "7.5",
+        "maxweight:conditional": "none @ destination",
+        "name": "McLeod's Field",
+        "oneway": "no",
+        "postal_code": "IM5 1UX",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 222820904,
+        "lon": -4.674545999999999,
+        "lat": 54.2266475,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/222820904"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 230777716,
       "geometry": {
         "type": "LineString",
@@ -34862,6 +35252,179 @@
         "lat": 54.27361543737337,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/234951317"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241860863,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.403651,
+            54.325434
+          ],
+          [
+            -4.403804,
+            54.325212
+          ],
+          [
+            -4.403851,
+            54.325099
+          ],
+          [
+            -4.403882,
+            54.324938
+          ],
+          [
+            -4.40392,
+            54.324813
+          ],
+          [
+            -4.403981,
+            54.324712
+          ],
+          [
+            -4.404062,
+            54.324606
+          ],
+          [
+            -4.404111,
+            54.324503
+          ],
+          [
+            -4.404139,
+            54.324402
+          ],
+          [
+            -4.40413,
+            54.324249
+          ],
+          [
+            -4.404114,
+            54.324223
+          ],
+          [
+            -4.404074,
+            54.324211
+          ],
+          [
+            -4.403956,
+            54.324201
+          ],
+          [
+            -4.403579,
+            54.324198
+          ],
+          [
+            -4.403436,
+            54.324217
+          ],
+          [
+            -4.403306,
+            54.324258
+          ],
+          [
+            -4.403235,
+            54.324309
+          ],
+          [
+            -4.40303,
+            54.324516
+          ],
+          [
+            -4.402953,
+            54.324592
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Auldyn Walk",
+        "name:en": "Auldyn Walk",
+        "name:gv": "Cassan Auldyn",
+        "postal_code": "IM8 2TN",
+        "source": "Bing;survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 241860863,
+        "lon": -4.403716704560921,
+        "lat": 54.324567410706884,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/241860863"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241860875,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.404114,
+            54.324223
+          ],
+          [
+            -4.404209,
+            54.324151
+          ],
+          [
+            -4.404616,
+            54.324162
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Auldyn Court",
+        "name:en": "Auldyn Court",
+        "name:gv": "Close Auldyn",
+        "postal_code": "IM8 2TP",
+        "source": "Bing;survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 241860875,
+        "lon": -4.404355656508889,
+        "lat": 54.32416340727681,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/241860875"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241860898,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.403956,
+            54.324201
+          ],
+          [
+            -4.403967,
+            54.323954
+          ],
+          [
+            -4.40392,
+            54.323919
+          ],
+          [
+            -4.40383,
+            54.323915
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Auldyn Court",
+        "name:en": "Auldyn Court",
+        "name:gv": "Close Auldyn",
+        "postal_code": "IM8 2TP",
+        "source": "Bing;survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 241860898,
+        "lon": -4.403939154126336,
+        "lat": 54.32402011188101,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/241860898"
       }
     },
     {
@@ -37958,6 +38521,219 @@
     },
     {
       "type": "Feature",
+      "id": 840674137,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.400539,
+            54.3252
+          ],
+          [
+            -4.400581,
+            54.325131
+          ],
+          [
+            -4.400713,
+            54.324931
+          ],
+          [
+            -4.400917,
+            54.324661
+          ],
+          [
+            -4.400976,
+            54.324607
+          ],
+          [
+            -4.401284,
+            54.324446
+          ],
+          [
+            -4.401361,
+            54.324356
+          ],
+          [
+            -4.401398,
+            54.324271
+          ],
+          [
+            -4.401369,
+            54.324185
+          ],
+          [
+            -4.401304,
+            54.32413
+          ],
+          [
+            -4.401252,
+            54.324102
+          ],
+          [
+            -4.401142,
+            54.324077
+          ],
+          [
+            -4.400079,
+            54.324043
+          ],
+          [
+            -4.400034,
+            54.324043
+          ],
+          [
+            -4.399645,
+            54.324039
+          ],
+          [
+            -4.399448,
+            54.324055
+          ],
+          [
+            -4.399297,
+            54.324079
+          ],
+          [
+            -4.399155,
+            54.324141
+          ],
+          [
+            -4.398669,
+            54.324617
+          ],
+          [
+            -4.398583,
+            54.324746
+          ],
+          [
+            -4.398567,
+            54.32479
+          ],
+          [
+            -4.398549,
+            54.324839
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Auldyn Meadow Drive",
+        "postal_code": "IM8 2TR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 840674137,
+        "lon": -4.4001893314971765,
+        "lat": 54.324334328385,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/840674137"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 840674138,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.401375,
+            54.323792
+          ],
+          [
+            -4.401368,
+            54.323939
+          ],
+          [
+            -4.401345,
+            54.324006
+          ],
+          [
+            -4.401252,
+            54.324102
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "River Court",
+        "postal_code": "IM8 2TS",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 840674138,
+        "lon": -4.401340732746136,
+        "lat": 54.3239586983998,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/840674138"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 840674140,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.400713,
+            54.324931
+          ],
+          [
+            -4.400804,
+            54.324953
+          ],
+          [
+            -4.401465,
+            54.325103
+          ],
+          [
+            -4.401591,
+            54.325131
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Riverview",
+        "highway": "living_street",
+        "name": "River View",
+        "postal_code": "IM8 2TT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 840674140,
+        "lon": -4.4011518112001005,
+        "lat": 54.32503181576009,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/840674140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 840674141,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.401284,
+            54.324446
+          ],
+          [
+            -4.402199,
+            54.324659
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "River Close",
+        "postal_code": "IM8 2TU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 840674141,
+        "lon": -4.4017415,
+        "lat": 54.324552499999996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/840674141"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 845468327,
       "geometry": {
         "type": "LineString",
@@ -39539,6 +40315,59 @@
     },
     {
       "type": "Feature",
+      "id": 1026694402,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399564,
+            54.324962
+          ],
+          [
+            -4.3996,
+            54.324923
+          ],
+          [
+            -4.399709,
+            54.324803
+          ],
+          [
+            -4.399737,
+            54.324714
+          ],
+          [
+            -4.399878,
+            54.324534
+          ],
+          [
+            -4.400016,
+            54.324379
+          ],
+          [
+            -4.400063,
+            54.324218
+          ],
+          [
+            -4.400079,
+            54.324043
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Auldyn Meadow Way",
+        "postal_code": "IM8 2TX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1026694402,
+        "lon": -4.39987138124346,
+        "lat": 54.32452485825546,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1026694402"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1067881496,
       "geometry": {
         "type": "LineString",
@@ -41067,6 +41896,46 @@
         "lat": 54.15271700000001,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1220527326"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255796155,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675029,
+            54.226353
+          ],
+          [
+            -4.675276,
+            54.226306
+          ],
+          [
+            -4.675469,
+            54.226269
+          ],
+          [
+            -4.675536,
+            54.226246
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxweight": "7.5",
+        "maxweight:conditional": "none @ destination",
+        "name": "McLeod's Field",
+        "oneway": "no",
+        "postal_code": "IM5 1UX",
+        "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1255796155,
+        "lon": -4.675283626663256,
+        "lat": 54.226303759172254,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1255796155"
       }
     },
     {

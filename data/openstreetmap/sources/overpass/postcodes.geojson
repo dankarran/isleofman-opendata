@@ -125275,6 +125275,54 @@
     },
     {
       "type": "Feature",
+      "id": 1155410599,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.410288,
+            54.31308
+          ],
+          [
+            -4.410256,
+            54.312968
+          ],
+          [
+            -4.41024,
+            54.31297
+          ],
+          [
+            -4.410223,
+            54.31291
+          ],
+          [
+            -4.410346,
+            54.312897
+          ],
+          [
+            -4.410396,
+            54.313069
+          ],
+          [
+            -4.410288,
+            54.31308
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Ballagarrow Cottage",
+        "addr:place": "Glen Auldyn",
+        "addr:postcode": "IM7 2AF",
+        "building": "house",
+        "name": "Ballagarrow Cottage",
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/stay/ballagarrow-cottage-p1288771"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1157520335,
       "geometry": {
         "type": "LineString",
