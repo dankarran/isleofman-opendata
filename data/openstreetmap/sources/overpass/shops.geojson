@@ -3256,6 +3256,28 @@
     },
     {
       "type": "Feature",
+      "id": 12037914229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.696287,
+          54.222264
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1AZ",
+        "addr:street": "Patrick Street",
+        "name": "Warm & Cozy",
+        "shop": "yes",
+        "source": "streetside",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",

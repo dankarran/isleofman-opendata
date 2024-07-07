@@ -7171,7 +7171,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Ballellis",
         "name:gv": "Ballellis",
+        "postal_code": "IM5 1WZ",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25985943,
         "lon": -4.675515544223208,
@@ -15312,7 +15314,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Cronk Lheanag",
         "name:gv": "Cronk Lheanag",
+        "postal_code": "IM5 1XA",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987192,
         "lon": -4.676020958796586,
@@ -20148,7 +20152,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Magher Breek",
         "name:gv": "Magher Breek",
+        "postal_code": "IM5 1XD",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987527,
         "lon": -4.6761462617627565,
@@ -21064,7 +21070,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Magher Breek",
         "name:gv": "Magher Breek",
+        "postal_code": "IM5 1XD",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987686,
         "lon": -4.6765872447267265,
@@ -21761,6 +21769,8 @@
         "name:en": "Mona Street",
         "name:gv": "Straid Mona",
         "oneway": "yes",
+        "postal_code": "IM5 1HJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987823,
         "lon": -4.690345755489174,
@@ -22382,8 +22392,8 @@
             54.220769
           ],
           [
-            -4.69871,
-            54.220925
+            -4.698683,
+            54.220936
           ],
           [
             -4.698526,
@@ -22400,6 +22410,10 @@
           [
             -4.697737,
             54.221466
+          ],
+          [
+            -4.697428,
+            54.221725
           ],
           [
             -4.697218,
@@ -22425,8 +22439,8 @@
         "oneway": "no",
         "surface": "paved",
         "osm_id": 25987916,
-        "lon": -4.698278791614738,
-        "lat": 54.22119401049433,
+        "lon": -4.698278847894292,
+        "lat": 54.221194070012466,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987916"
       }
@@ -26989,6 +27003,8 @@
         "maxweight": "7.5",
         "name": "Close Toalt",
         "name:gv": "Close Toalt",
+        "postal_code": "IM5 1XB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988609,
         "lon": -4.675928,
@@ -27220,7 +27236,10 @@
         "name": "Church Street",
         "name:en": "Church Street",
         "name:gv": "Straaid ny Keeilley",
+        "postal_code:left": "IM5 1HN",
+        "postal_code:right": "IM5 1HL",
         "sidewalk:both": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 25988674,
         "lon": -4.689728526951389,
@@ -31384,7 +31403,9 @@
         "name": "Aspen Drive",
         "name:en": "Aspen Drive",
         "name:gv": "Imman Croan Craaee",
+        "postal_code": "IM5 1WS;IM5 1WT",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989296,
         "lon": -4.6754011409364065,
@@ -74957,46 +74978,6 @@
         "lat": 54.32184059934276,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/436655773"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 436673353,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.697031,
-            54.221965
-          ],
-          [
-            -4.696801,
-            54.222001
-          ],
-          [
-            -4.696391,
-            54.222152
-          ],
-          [
-            -4.696204,
-            54.222156
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "commercial",
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Mill Road",
-        "name:en": "Mill Road",
-        "name:gv": "Bayr y Wyllin",
-        "oneway": "no",
-        "surface": "paved",
-        "osm_id": 436673353,
-        "lon": -4.696617784076886,
-        "lat": 54.222068013408716,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/436673353"
       }
     },
     {

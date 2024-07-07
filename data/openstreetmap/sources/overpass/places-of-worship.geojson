@@ -3504,57 +3504,62 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.696359,
-            54.221588
+            -4.696344,
+            54.221602
           ],
           [
-            -4.696648,
-            54.221629
+            -4.696633,
+            54.221643
           ],
           [
-            -4.696605,
-            54.221734
+            -4.69659,
+            54.221748
           ],
           [
-            -4.69666,
-            54.221742
+            -4.696645,
+            54.221756
           ],
           [
-            -4.696636,
-            54.221801
+            -4.69662,
+            54.221815
           ],
           [
-            -4.696424,
-            54.221772
+            -4.696409,
+            54.221786
           ],
           [
-            -4.696443,
-            54.221726
+            -4.696428,
+            54.22174
           ],
           [
-            -4.696504,
-            54.221735
+            -4.696489,
+            54.221749
           ],
           [
-            -4.696518,
-            54.221702
+            -4.696503,
+            54.221716
           ],
           [
-            -4.696324,
-            54.221674
+            -4.696308,
+            54.221688
           ],
           [
-            -4.696359,
-            54.221588
+            -4.696344,
+            54.221602
           ]
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1BR",
+        "addr:street": "Patrick Street",
         "amenity": "place_of_worship",
         "building": "church",
         "denomination": "roman_catholic",
         "name": "Saint Patrick's Church",
-        "religion": "christian"
+        "religion": "christian",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

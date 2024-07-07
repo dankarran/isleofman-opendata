@@ -10283,6 +10283,33 @@
     },
     {
       "type": "Feature",
+      "id": 12037914229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.696287,
+          54.222264
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1AZ",
+        "addr:street": "Patrick Street",
+        "name": "Warm & Cozy",
+        "shop": "yes",
+        "source": "streetside",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 12037914229,
+        "lon": -4.696287,
+        "lat": 54.222264,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12037914229"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -68759,6 +68786,176 @@
     },
     {
       "type": "Feature",
+      "id": 146890271,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696344,
+            54.221602
+          ],
+          [
+            -4.696633,
+            54.221643
+          ],
+          [
+            -4.69659,
+            54.221748
+          ],
+          [
+            -4.696645,
+            54.221756
+          ],
+          [
+            -4.69662,
+            54.221815
+          ],
+          [
+            -4.696409,
+            54.221786
+          ],
+          [
+            -4.696428,
+            54.22174
+          ],
+          [
+            -4.696489,
+            54.221749
+          ],
+          [
+            -4.696503,
+            54.221716
+          ],
+          [
+            -4.696308,
+            54.221688
+          ],
+          [
+            -4.696344,
+            54.221602
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1BR",
+        "addr:street": "Patrick Street",
+        "amenity": "place_of_worship",
+        "building": "church",
+        "denomination": "roman_catholic",
+        "name": "Saint Patrick's Church",
+        "religion": "christian",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146890271,
+        "lon": -4.696487925493223,
+        "lat": 54.22170761540503,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146890271"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146890333,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696422,
+            54.221831
+          ],
+          [
+            -4.696431,
+            54.2218
+          ],
+          [
+            -4.696365,
+            54.221793
+          ],
+          [
+            -4.696372,
+            54.221772
+          ],
+          [
+            -4.696296,
+            54.221764
+          ],
+          [
+            -4.696279,
+            54.221815
+          ],
+          [
+            -4.696422,
+            54.221831
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM5 1BR",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146890333,
+        "lon": -4.696353935634343,
+        "lat": 54.2218004565855,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146890333"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146890343,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696994,
+            54.218678
+          ],
+          [
+            -4.696814,
+            54.218654
+          ],
+          [
+            -4.696836,
+            54.218599
+          ],
+          [
+            -4.696985,
+            54.218619
+          ],
+          [
+            -4.697015,
+            54.218623
+          ],
+          [
+            -4.696994,
+            54.218678
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "54",
+        "addr:postcode": "IM5 1DA",
+        "addr:street": "Glenfaba Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146890343,
+        "lon": -4.696914659233695,
+        "lat": 54.2186385517811,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146890343"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146907353,
       "geometry": {
         "type": "LineString",
@@ -68905,6 +69102,151 @@
     },
     {
       "type": "Feature",
+      "id": 146910960,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696134,
+            54.222252
+          ],
+          [
+            -4.696135,
+            54.222206
+          ],
+          [
+            -4.696003,
+            54.222205
+          ],
+          [
+            -4.695947,
+            54.222206
+          ],
+          [
+            -4.695947,
+            54.222231
+          ],
+          [
+            -4.695996,
+            54.222231
+          ],
+          [
+            -4.695996,
+            54.222253
+          ],
+          [
+            -4.696134,
+            54.222252
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM5 1BP",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146910960,
+        "lon": -4.696042854849348,
+        "lat": 54.22222674860595,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146910960"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146910975,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696139,
+            54.22209
+          ],
+          [
+            -4.696137,
+            54.222045
+          ],
+          [
+            -4.696039,
+            54.222046
+          ],
+          [
+            -4.696004,
+            54.222046
+          ],
+          [
+            -4.696005,
+            54.222091
+          ],
+          [
+            -4.696139,
+            54.22209
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM5 1BP",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146910975,
+        "lon": -4.6960712585751585,
+        "lat": 54.2220681118916,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146910975"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146911001,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696137,
+            54.222045
+          ],
+          [
+            -4.696135,
+            54.221953
+          ],
+          [
+            -4.696037,
+            54.221954
+          ],
+          [
+            -4.696039,
+            54.222046
+          ],
+          [
+            -4.696137,
+            54.222045
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM5 1BP",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146911001,
+        "lon": -4.6960869999999995,
+        "lat": 54.221999499999995,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146911001"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146911007,
       "geometry": {
         "type": "LineString",
@@ -68959,6 +69301,570 @@
         "lat": 54.22239218997528,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/146911007"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146911028,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696136,
+            54.222154
+          ],
+          [
+            -4.696139,
+            54.22209
+          ],
+          [
+            -4.696005,
+            54.222091
+          ],
+          [
+            -4.695964,
+            54.222088
+          ],
+          [
+            -4.695964,
+            54.222106
+          ],
+          [
+            -4.695916,
+            54.222106
+          ],
+          [
+            -4.695914,
+            54.222151
+          ],
+          [
+            -4.695963,
+            54.222152
+          ],
+          [
+            -4.696136,
+            54.222154
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM5 1BP",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146911028,
+        "lon": -4.696027984109712,
+        "lat": 54.222122571023796,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146911028"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146921969,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696612,
+            54.220895
+          ],
+          [
+            -4.696626,
+            54.220861
+          ],
+          [
+            -4.696793,
+            54.220885
+          ],
+          [
+            -4.696779,
+            54.220919
+          ],
+          [
+            -4.696612,
+            54.220895
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM5 1BS",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146921969,
+        "lon": -4.696702500000001,
+        "lat": 54.22089,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146921969"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146921993,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696708,
+            54.218998
+          ],
+          [
+            -4.696725,
+            54.218946
+          ],
+          [
+            -4.696937,
+            54.218972
+          ],
+          [
+            -4.696925,
+            54.219003
+          ],
+          [
+            -4.696884,
+            54.218996
+          ],
+          [
+            -4.696872,
+            54.219023
+          ],
+          [
+            -4.696819,
+            54.219015
+          ],
+          [
+            -4.696708,
+            54.218998
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "48",
+        "addr:postcode": "IM5 1BX",
+        "addr:street": "Glenfaba Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146921993,
+        "lon": -4.696821165095944,
+        "lat": 54.21898385313584,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146921993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922001,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69669,
+            54.219059
+          ],
+          [
+            -4.696706,
+            54.219011
+          ],
+          [
+            -4.696817,
+            54.219027
+          ],
+          [
+            -4.696819,
+            54.219038
+          ],
+          [
+            -4.696878,
+            54.219044
+          ],
+          [
+            -4.696878,
+            54.219065
+          ],
+          [
+            -4.696811,
+            54.219065
+          ],
+          [
+            -4.69669,
+            54.219059
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "46",
+        "addr:postcode": "IM5 1BX",
+        "addr:street": "Glenfaba Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922001,
+        "lon": -4.69678241689745,
+        "lat": 54.219044548492896,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922001"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922021,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696499,
+            54.221169
+          ],
+          [
+            -4.696517,
+            54.221124
+          ],
+          [
+            -4.696669,
+            54.221145
+          ],
+          [
+            -4.696661,
+            54.221166
+          ],
+          [
+            -4.696614,
+            54.22116
+          ],
+          [
+            -4.696604,
+            54.221183
+          ],
+          [
+            -4.696499,
+            54.221169
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM5 1BR",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922021,
+        "lon": -4.696582105617254,
+        "lat": 54.221153686744394,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922021"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922031,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696536,
+            54.221076
+          ],
+          [
+            -4.69656,
+            54.221013
+          ],
+          [
+            -4.696655,
+            54.221025
+          ],
+          [
+            -4.696641,
+            54.221061
+          ],
+          [
+            -4.696707,
+            54.22107
+          ],
+          [
+            -4.696696,
+            54.221097
+          ],
+          [
+            -4.696663,
+            54.221093
+          ],
+          [
+            -4.696536,
+            54.221076
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM5 1BS",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922031,
+        "lon": -4.696620773207632,
+        "lat": 54.22105940437485,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922031"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922067,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696775,
+            54.219781
+          ],
+          [
+            -4.696763,
+            54.219712
+          ],
+          [
+            -4.696952,
+            54.2197
+          ],
+          [
+            -4.696964,
+            54.21977
+          ],
+          [
+            -4.696775,
+            54.219781
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM5 1BU",
+        "addr:street": "Glenfaba Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922067,
+        "lon": -4.696863678463391,
+        "lat": 54.219740735037895,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922067"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922068,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696597,
+            54.22093
+          ],
+          [
+            -4.696612,
+            54.220895
+          ],
+          [
+            -4.696779,
+            54.220919
+          ],
+          [
+            -4.696764,
+            54.220954
+          ],
+          [
+            -4.696597,
+            54.22093
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "42",
+        "addr:postcode": "IM5 1BS",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922068,
+        "lon": -4.696687999999998,
+        "lat": 54.220924499999995,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922068"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922073,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696687,
+            54.220704
+          ],
+          [
+            -4.696711,
+            54.220651
+          ],
+          [
+            -4.696831,
+            54.22067
+          ],
+          [
+            -4.696823,
+            54.220687
+          ],
+          [
+            -4.696916,
+            54.220703
+          ],
+          [
+            -4.696898,
+            54.22074
+          ],
+          [
+            -4.696687,
+            54.220704
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "48",
+        "addr:postcode": "IM5 1BS",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922073,
+        "lon": -4.696800845578044,
+        "lat": 54.2206974633043,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922073"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922075,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69656,
+            54.221013
+          ],
+          [
+            -4.696597,
+            54.22093
+          ],
+          [
+            -4.696764,
+            54.220954
+          ],
+          [
+            -4.696799,
+            54.220958
+          ],
+          [
+            -4.696788,
+            54.220989
+          ],
+          [
+            -4.696733,
+            54.220982
+          ],
+          [
+            -4.696713,
+            54.221035
+          ],
+          [
+            -4.696655,
+            54.221025
+          ],
+          [
+            -4.69656,
+            54.221013
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM5 1BS",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922075,
+        "lon": -4.696677244399911,
+        "lat": 54.220980595103505,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922075"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146922076,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696816,
+            54.220147
+          ],
+          [
+            -4.69694,
+            54.220148
+          ],
+          [
+            -4.696938,
+            54.2202
+          ],
+          [
+            -4.696815,
+            54.220199
+          ],
+          [
+            -4.696816,
+            54.220147
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "68",
+        "addr:postcode": "IM5 1BS",
+        "addr:street": "Patrick Street",
+        "building": "terrace",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 146922076,
+        "lon": -4.696877257207969,
+        "lat": 54.22017342598126,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146922076"
       }
     },
     {
@@ -69872,6 +70778,176 @@
         "lat": 54.22269783536322,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/147191861"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147458947,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.689861,
+            54.22289
+          ],
+          [
+            -4.689871,
+            54.222934
+          ],
+          [
+            -4.690014,
+            54.222923
+          ],
+          [
+            -4.690108,
+            54.222915
+          ],
+          [
+            -4.690102,
+            54.22289
+          ],
+          [
+            -4.690009,
+            54.222897
+          ],
+          [
+            -4.690005,
+            54.222879
+          ],
+          [
+            -4.689861,
+            54.22289
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM5 1HL",
+        "addr:street": "Church Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 147458947,
+        "lon": -4.689981920448036,
+        "lat": 54.22290605570686,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147458947"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147458979,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.689738,
+            54.222375
+          ],
+          [
+            -4.689749,
+            54.222427
+          ],
+          [
+            -4.689915,
+            54.222414
+          ],
+          [
+            -4.689993,
+            54.222407
+          ],
+          [
+            -4.689986,
+            54.22238
+          ],
+          [
+            -4.6899,
+            54.222387
+          ],
+          [
+            -4.689893,
+            54.222361
+          ],
+          [
+            -4.689738,
+            54.222375
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM5 1HL",
+        "addr:street": "Church Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 147458979,
+        "lon": -4.689862250008327,
+        "lat": 54.222394961553206,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147458979"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147598248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.689637,
+            54.222508
+          ],
+          [
+            -4.689623,
+            54.222455
+          ],
+          [
+            -4.689484,
+            54.222465
+          ],
+          [
+            -4.689489,
+            54.222494
+          ],
+          [
+            -4.689395,
+            54.2225
+          ],
+          [
+            -4.689403,
+            54.222525
+          ],
+          [
+            -4.689496,
+            54.222518
+          ],
+          [
+            -4.689637,
+            54.222508
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM5 1HN",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 147598248,
+        "lon": -4.689518596008732,
+        "lat": 54.22249429118573,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147598248"
       }
     },
     {
@@ -151420,6 +152496,67 @@
     },
     {
       "type": "Feature",
+      "id": 1298175929,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.689741,
+            54.222957
+          ],
+          [
+            -4.689752,
+            54.223002
+          ],
+          [
+            -4.689645,
+            54.223011
+          ],
+          [
+            -4.689593,
+            54.223015
+          ],
+          [
+            -4.689588,
+            54.222993
+          ],
+          [
+            -4.689549,
+            54.222996
+          ],
+          [
+            -4.689543,
+            54.222974
+          ],
+          [
+            -4.689613,
+            54.222968
+          ],
+          [
+            -4.689741,
+            54.222957
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM5 1HN",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1298175929,
+        "lon": -4.689649120446184,
+        "lat": 54.22298590005111,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1298175929"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1298885231,
       "geometry": {
         "type": "LineString",
@@ -151467,6 +152604,215 @@
         "lat": 54.170932164287116,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1298885231"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299857495,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.697435,
+            54.221292
+          ],
+          [
+            -4.697116,
+            54.221655
+          ],
+          [
+            -4.696915,
+            54.221595
+          ],
+          [
+            -4.697233,
+            54.221231
+          ],
+          [
+            -4.697435,
+            54.221292
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "The Old Gasworks",
+        "addr:postcode": "IM5 1AX",
+        "addr:street": "Mill Road",
+        "building": "yes",
+        "osm_id": 1299857495,
+        "lon": -4.697174886184103,
+        "lat": 54.22144308482764,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299857495"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299867227,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696252,
+            54.221903
+          ],
+          [
+            -4.696261,
+            54.22186
+          ],
+          [
+            -4.696397,
+            54.221873
+          ],
+          [
+            -4.69639,
+            54.221896
+          ],
+          [
+            -4.696506,
+            54.221916
+          ],
+          [
+            -4.696487,
+            54.221947
+          ],
+          [
+            -4.696387,
+            54.221927
+          ],
+          [
+            -4.696252,
+            54.221903
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM5 1BR",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1299867227,
+        "lon": -4.69637613380177,
+        "lat": 54.22190321108655,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299867227"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299867230,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696517,
+            54.221124
+          ],
+          [
+            -4.696536,
+            54.221076
+          ],
+          [
+            -4.696663,
+            54.221093
+          ],
+          [
+            -4.69665,
+            54.221123
+          ],
+          [
+            -4.696677,
+            54.221127
+          ],
+          [
+            -4.696669,
+            54.221145
+          ],
+          [
+            -4.696517,
+            54.221124
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM5 1BR",
+        "addr:street": "Patrick Street",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1299867230,
+        "lon": -4.696600208131456,
+        "lat": 54.22111201488362,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299867230"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1299867233,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696836,
+            54.218599
+          ],
+          [
+            -4.696855,
+            54.21855
+          ],
+          [
+            -4.696976,
+            54.218567
+          ],
+          [
+            -4.696983,
+            54.21855
+          ],
+          [
+            -4.697034,
+            54.218557
+          ],
+          [
+            -4.697017,
+            54.2186
+          ],
+          [
+            -4.696994,
+            54.218597
+          ],
+          [
+            -4.696985,
+            54.218619
+          ],
+          [
+            -4.696836,
+            54.218599
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "56",
+        "addr:postcode": "IM5 1DA",
+        "addr:street": "Glenfaba Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1299867233,
+        "lon": -4.696936940971605,
+        "lat": 54.21858145347365,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1299867233"
       }
     }
   ]

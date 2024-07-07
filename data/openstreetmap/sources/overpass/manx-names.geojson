@@ -5696,7 +5696,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Ballellis",
         "name:gv": "Ballellis",
+        "postal_code": "IM5 1WZ",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -13247,7 +13249,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Cronk Lheanag",
         "name:gv": "Cronk Lheanag",
+        "postal_code": "IM5 1XA",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -17963,7 +17967,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Magher Breek",
         "name:gv": "Magher Breek",
+        "postal_code": "IM5 1XD",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -18804,7 +18810,9 @@
         "maxweight:conditional": "none @ destination",
         "name": "Magher Breek",
         "name:gv": "Magher Breek",
+        "postal_code": "IM5 1XD",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -19426,6 +19434,8 @@
         "name:en": "Mona Street",
         "name:gv": "Straid Mona",
         "oneway": "yes",
+        "postal_code": "IM5 1HJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -20002,8 +20012,8 @@
             54.220769
           ],
           [
-            -4.69871,
-            54.220925
+            -4.698683,
+            54.220936
           ],
           [
             -4.698526,
@@ -20020,6 +20030,10 @@
           [
             -4.697737,
             54.221466
+          ],
+          [
+            -4.697428,
+            54.221725
           ],
           [
             -4.697218,
@@ -24324,6 +24338,8 @@
         "maxweight": "7.5",
         "name": "Close Toalt",
         "name:gv": "Close Toalt",
+        "postal_code": "IM5 1XB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -24525,7 +24541,10 @@
         "name": "Church Street",
         "name:en": "Church Street",
         "name:gv": "Straaid ny Keeilley",
+        "postal_code:left": "IM5 1HN",
+        "postal_code:right": "IM5 1HL",
         "sidewalk:both": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
       }
     },
@@ -28394,7 +28413,9 @@
         "name": "Aspen Drive",
         "name:en": "Aspen Drive",
         "name:gv": "Imman Croan Craaee",
+        "postal_code": "IM5 1WS;IM5 1WT",
         "source:maxweight": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -69491,41 +69512,6 @@
         "name:gv": "Bayr Skyll Chreest",
         "ref": "A3",
         "sidewalk:both": "yes",
-        "surface": "paved"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 436673353,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.697031,
-            54.221965
-          ],
-          [
-            -4.696801,
-            54.222001
-          ],
-          [
-            -4.696391,
-            54.222152
-          ],
-          [
-            -4.696204,
-            54.222156
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "commercial",
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Mill Road",
-        "name:en": "Mill Road",
-        "name:gv": "Bayr y Wyllin",
-        "oneway": "no",
         "surface": "paved"
       }
     },
