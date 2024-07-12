@@ -71503,6 +71503,589 @@
     },
     {
       "type": "Feature",
+      "id": 150845469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693802,
+            54.221038
+          ],
+          [
+            -4.693871,
+            54.220968
+          ],
+          [
+            -4.693713,
+            54.220915
+          ],
+          [
+            -4.693643,
+            54.220986
+          ],
+          [
+            -4.693691,
+            54.221002
+          ],
+          [
+            -4.693678,
+            54.221016
+          ],
+          [
+            -4.693716,
+            54.221029
+          ],
+          [
+            -4.693731,
+            54.221014
+          ],
+          [
+            -4.693802,
+            54.221038
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Heyville",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "semidetached_house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150845469,
+        "lon": -4.6937524844134915,
+        "lat": 54.22098035127066,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150845469"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150845470,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693643,
+            54.220986
+          ],
+          [
+            -4.693429,
+            54.220914
+          ],
+          [
+            -4.693485,
+            54.220858
+          ],
+          [
+            -4.693528,
+            54.220873
+          ],
+          [
+            -4.693543,
+            54.220857
+          ],
+          [
+            -4.693713,
+            54.220915
+          ],
+          [
+            -4.693643,
+            54.220986
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150845470,
+        "lon": -4.693571398825402,
+        "lat": 54.22091589828184,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150845470"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150845471,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692946,
+            54.220668
+          ],
+          [
+            -4.692792,
+            54.220572
+          ],
+          [
+            -4.692895,
+            54.220515
+          ],
+          [
+            -4.693049,
+            54.220611
+          ],
+          [
+            -4.692946,
+            54.220668
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Rivington",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150845471,
+        "lon": -4.6929205000000005,
+        "lat": 54.2205915,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150845471"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150845482,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693359,
+            54.220411
+          ],
+          [
+            -4.693407,
+            54.220438
+          ],
+          [
+            -4.693492,
+            54.220385
+          ],
+          [
+            -4.693427,
+            54.220349
+          ],
+          [
+            -4.693452,
+            54.220334
+          ],
+          [
+            -4.693421,
+            54.220316
+          ],
+          [
+            -4.693396,
+            54.220332
+          ],
+          [
+            -4.693361,
+            54.220312
+          ],
+          [
+            -4.693246,
+            54.220384
+          ],
+          [
+            -4.693329,
+            54.22043
+          ],
+          [
+            -4.693359,
+            54.220411
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150845482,
+        "lon": -4.693375471200477,
+        "lat": 54.22037556703212,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150845482"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150845487,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693013,
+            54.220798
+          ],
+          [
+            -4.693071,
+            54.220828
+          ],
+          [
+            -4.693226,
+            54.220726
+          ],
+          [
+            -4.693181,
+            54.220702
+          ],
+          [
+            -4.693195,
+            54.220693
+          ],
+          [
+            -4.693127,
+            54.220658
+          ],
+          [
+            -4.693103,
+            54.220674
+          ],
+          [
+            -4.693049,
+            54.220646
+          ],
+          [
+            -4.692985,
+            54.220688
+          ],
+          [
+            -4.693019,
+            54.220706
+          ],
+          [
+            -4.692996,
+            54.220722
+          ],
+          [
+            -4.693071,
+            54.22076
+          ],
+          [
+            -4.693013,
+            54.220798
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150845487,
+        "lon": -4.693091377063718,
+        "lat": 54.22073037604512,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150845487"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150845493,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69328,
+            54.221
+          ],
+          [
+            -4.693483,
+            54.220829
+          ],
+          [
+            -4.693353,
+            54.220776
+          ],
+          [
+            -4.693308,
+            54.220814
+          ],
+          [
+            -4.693209,
+            54.220774
+          ],
+          [
+            -4.693109,
+            54.220858
+          ],
+          [
+            -4.693175,
+            54.220885
+          ],
+          [
+            -4.693208,
+            54.220857
+          ],
+          [
+            -4.693257,
+            54.220877
+          ],
+          [
+            -4.69324,
+            54.220892
+          ],
+          [
+            -4.693271,
+            54.220905
+          ],
+          [
+            -4.693197,
+            54.220966
+          ],
+          [
+            -4.69328,
+            54.221
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150845493,
+        "lon": -4.693284799263948,
+        "lat": 54.22087040098311,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150845493"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150850598,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692594,
+            54.220456
+          ],
+          [
+            -4.692706,
+            54.220403
+          ],
+          [
+            -4.692741,
+            54.220385
+          ],
+          [
+            -4.692666,
+            54.220334
+          ],
+          [
+            -4.69264,
+            54.220348
+          ],
+          [
+            -4.692586,
+            54.220311
+          ],
+          [
+            -4.692483,
+            54.220363
+          ],
+          [
+            -4.692543,
+            54.220404
+          ],
+          [
+            -4.692484,
+            54.220433
+          ],
+          [
+            -4.692524,
+            54.220461
+          ],
+          [
+            -4.692572,
+            54.220437
+          ],
+          [
+            -4.692594,
+            54.220456
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Bedwyn",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "semidetached_house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150850598,
+        "lon": -4.692593627434776,
+        "lat": 54.22038966774164,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150850598"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150850603,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.6923,
+            54.220221
+          ],
+          [
+            -4.692416,
+            54.220185
+          ],
+          [
+            -4.692443,
+            54.220215
+          ],
+          [
+            -4.692465,
+            54.220208
+          ],
+          [
+            -4.692479,
+            54.220223
+          ],
+          [
+            -4.692502,
+            54.220216
+          ],
+          [
+            -4.692555,
+            54.220274
+          ],
+          [
+            -4.692387,
+            54.220326
+          ],
+          [
+            -4.692356,
+            54.220292
+          ],
+          [
+            -4.692331,
+            54.2203
+          ],
+          [
+            -4.692307,
+            54.220273
+          ],
+          [
+            -4.692339,
+            54.220263
+          ],
+          [
+            -4.6923,
+            54.220221
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150850603,
+        "lon": -4.692415598527232,
+        "lat": 54.220255459304305,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150850603"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 150850604,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692195,
+            54.220191
+          ],
+          [
+            -4.69244,
+            54.220124
+          ],
+          [
+            -4.692396,
+            54.220069
+          ],
+          [
+            -4.692303,
+            54.220095
+          ],
+          [
+            -4.692272,
+            54.220056
+          ],
+          [
+            -4.692119,
+            54.220098
+          ],
+          [
+            -4.692195,
+            54.220191
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 150850604,
+        "lon": -4.692277532224497,
+        "lat": 54.220117469690756,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/150850604"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 150967027,
       "geometry": {
         "type": "LineString",
@@ -77415,6 +77998,7 @@
         "tourism": "attraction",
         "url:registered_building": "https://www.gov.im/media/632063/0500077regbldcameraobscura.pdf",
         "wikidata": "Q5595201",
+        "wikimedia_commons": "File:Camera obscura douglas isle of man.jpg",
         "wikipedia": "en:Grand Union Camera Obscura",
         "osm_id": 186072536,
         "lon": -4.467308576090491,
@@ -152813,6 +153397,52 @@
         "lat": 54.21858145347365,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1299867233"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300041090,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692706,
+            54.220403
+          ],
+          [
+            -4.692835,
+            54.220495
+          ],
+          [
+            -4.692723,
+            54.220549
+          ],
+          [
+            -4.692594,
+            54.220456
+          ],
+          [
+            -4.692706,
+            54.220403
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Sheeanys",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM5 1BH",
+        "addr:street": "Queens Drive",
+        "building": "semidetached_house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1300041090,
+        "lon": -4.692714491459554,
+        "lat": 54.220475812792266,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1300041090"
       }
     }
   ]

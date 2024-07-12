@@ -3330,23 +3330,6 @@
     },
     {
       "type": "Feature",
-      "id": 10853173502,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.501449,
-          54.155831
-        ]
-      },
-      "properties": {
-        "name": "Quarterbridge",
-        "tourism": "attraction",
-        "wikidata": "Q7269285",
-        "wikipedia": "en:Quarterbridge, Isle of Man"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10853994042,
       "geometry": {
         "type": "Point",
@@ -4323,8 +4306,8 @@
             54.155693
           ],
           [
-            -4.50138,
-            54.155747
+            -4.501318,
+            54.155715
           ]
         ]
       },
@@ -11838,8 +11821,8 @@
             54.155964
           ],
           [
-            -4.501567,
-            54.155841
+            -4.501521,
+            54.155817
           ]
         ]
       },
@@ -11860,16 +11843,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.501567,
-            54.155841
+            -4.501521,
+            54.155817
           ],
           [
             -4.50146,
             54.155787
           ],
           [
-            -4.50138,
-            54.155747
+            -4.501318,
+            54.155715
           ]
         ]
       },
@@ -11999,6 +11982,7 @@
         "tourism": "attraction",
         "url:registered_building": "https://www.gov.im/media/632063/0500077regbldcameraobscura.pdf",
         "wikidata": "Q5595201",
+        "wikimedia_commons": "File:Camera obscura douglas isle of man.jpg",
         "wikipedia": "en:Grand Union Camera Obscura"
       }
     },
@@ -19832,6 +19816,51 @@
       "properties": {
         "motorhome": "yes",
         "tourism": "caravan_site"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300558126,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.501601,
+            54.155737
+          ],
+          [
+            -4.501433,
+            54.155875
+          ],
+          [
+            -4.501349,
+            54.15584
+          ],
+          [
+            -4.501251,
+            54.155831
+          ],
+          [
+            -4.501399,
+            54.155531
+          ],
+          [
+            -4.501452,
+            54.155605
+          ],
+          [
+            -4.501601,
+            54.155737
+          ]
+        ]
+      },
+      "properties": {
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "Quarterbridge",
+        "tourism": "attraction",
+        "wikidata": "Q7269285",
+        "wikipedia": "en:Quarterbridge, Isle of Man"
       }
     }
   ]

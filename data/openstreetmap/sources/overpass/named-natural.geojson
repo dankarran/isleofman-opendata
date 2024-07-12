@@ -1201,7 +1201,7 @@
     },
     {
       "type": "Feature",
-      "id": 1967660955,
+      "id": 1905894110,
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -1211,7 +1211,12 @@
       },
       "properties": {
         "name": "Douglas Head",
-        "natural": "headland"
+        "name:en": "Douglas Head",
+        "name:gv": "Kione Ghoolish",
+        "natural": "headland",
+        "place": "locality",
+        "wikidata": "Q5301580",
+        "wikipedia": "en:Douglas Head"
       }
     },
     {

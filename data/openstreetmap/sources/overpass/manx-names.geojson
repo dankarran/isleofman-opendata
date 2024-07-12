@@ -1357,6 +1357,30 @@
     },
     {
       "type": "Feature",
+      "id": 918436621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.640131,
+          54.20431
+        ]
+      },
+      "properties": {
+        "alt_name": "Millennium of Tynwald Monument",
+        "description": "Erected to mark the 1000th anniversary of Isle of Man Parliament, Tynwald.",
+        "historic": "monument",
+        "image": "http://manxscenes.com/01&2/April%2003/Millenium_Stone.htm",
+        "material": "stone",
+        "name": "The Millennium Stone",
+        "name:en": "Millennium Stone",
+        "name:gv": "Clagh y Fealley Milleyvleeanagh",
+        "start_date": "1979",
+        "wikidata": "Q127413109",
+        "wikimedia_commons": "File:The Manx Millennium Stone at St John's (geograph 7603827).jpg"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1200806942,
       "geometry": {
         "type": "Point",
@@ -1756,6 +1780,26 @@
         "url:imher": "https://isleofmanher.im/report/cd448b28-5ac2-4fa2-8662-7a3db4de2128",
         "website": "https://manxnationalheritage.im/our-sites/ballafayle-cairn/",
         "wikimedia_commons": "File:Quakers burial ground, Maughold. Isle of Man. - geograph.org.uk - 44543.jpg"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1905894110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467937,
+          54.143217
+        ]
+      },
+      "properties": {
+        "name": "Douglas Head",
+        "name:en": "Douglas Head",
+        "name:gv": "Kione Ghoolish",
+        "natural": "headland",
+        "place": "locality",
+        "wikidata": "Q5301580",
+        "wikipedia": "en:Douglas Head"
       }
     },
     {
@@ -20526,6 +20570,103 @@
     },
     {
       "type": "Feature",
+      "id": 25988023,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483925,
+            54.165269
+          ],
+          [
+            -4.484097,
+            54.165174
+          ],
+          [
+            -4.484144,
+            54.165149
+          ],
+          [
+            -4.48419,
+            54.165123
+          ],
+          [
+            -4.48432,
+            54.165048
+          ],
+          [
+            -4.484553,
+            54.16491
+          ],
+          [
+            -4.485517,
+            54.164296
+          ],
+          [
+            -4.485839,
+            54.164106
+          ],
+          [
+            -4.486491,
+            54.163791
+          ],
+          [
+            -4.48711,
+            54.163492
+          ],
+          [
+            -4.487844,
+            54.1631
+          ],
+          [
+            -4.488552,
+            54.162673
+          ],
+          [
+            -4.488859,
+            54.162476
+          ],
+          [
+            -4.489122,
+            54.162288
+          ],
+          [
+            -4.489419,
+            54.162064
+          ],
+          [
+            -4.489827,
+            54.161696
+          ],
+          [
+            -4.489862,
+            54.161668
+          ],
+          [
+            -4.489919,
+            54.16162
+          ],
+          [
+            -4.490034,
+            54.161534
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Bray Hill",
+        "name:en": "Bray Hill",
+        "name:gv": "Cronk Bray",
+        "ref": "A2",
+        "sidewalk:both": "separate",
+        "wikidata": "Q3389200",
+        "wikipedia": "en:Bray Hill"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988026,
       "geometry": {
         "type": "LineString",
@@ -21527,7 +21668,7 @@
         "coordinates": [
           [
             -4.493208,
-            54.168826
+            54.168818
           ],
           [
             -4.493104,
@@ -27067,7 +27208,7 @@
         "name:en": "Tromode Road",
         "name:gv": "Raad Tromode",
         "ref": "A47",
-        "sidewalk:left": "none",
+        "sidewalk:left": "no",
         "sidewalk:right": "separate",
         "surface": "paved"
       }
@@ -30225,40 +30366,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693466,
-            54.221719
+            -4.694475,
+            54.221007
           ],
           [
-            -4.693606,
-            54.221638
+            -4.694501,
+            54.220983
           ],
           [
-            -4.693897,
-            54.221469
+            -4.694676,
+            54.220773
           ],
           [
-            -4.694227,
-            54.221228
+            -4.694704,
+            54.220739
           ],
           [
-            -4.6945,
-            54.220996
+            -4.694941,
+            54.220454
           ],
           [
-            -4.694683,
-            54.220782
+            -4.695194,
+            54.22014
           ],
           [
-            -4.694715,
-            54.220743
+            -4.695319,
+            54.219993
           ],
           [
-            -4.694959,
-            54.220458
-          ],
-          [
-            -4.695212,
-            54.220146
+            -4.695642,
+            54.219439
           ],
           [
             -4.695684,
@@ -56588,32 +56725,44 @@
             54.168022
           ],
           [
-            -4.494201,
-            54.168185
+            -4.494239,
+            54.168172
           ],
           [
-            -4.494443,
-            54.168337
+            -4.494456,
+            54.168327
           ],
           [
-            -4.494498,
-            54.168451
+            -4.494534,
+            54.1684
           ],
           [
-            -4.49448,
+            -4.494566,
+            54.168463
+          ],
+          [
+            -4.494534,
             54.168521
           ],
           [
             -4.494378,
-            54.168597
+            54.168585
           ],
           [
-            -4.494081,
-            54.168684
+            -4.494134,
+            54.168674
+          ],
+          [
+            -4.493984,
+            54.168705
           ],
           [
             -4.493208,
-            54.168826
+            54.168818
+          ],
+          [
+            -4.492977,
+            54.168866
           ],
           [
             -4.492345,
@@ -57456,8 +57605,8 @@
             54.219659
           ],
           [
-            -4.692428,
-            54.219785
+            -4.69241,
+            54.219796
           ]
         ]
       },
@@ -69522,36 +69671,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692428,
-            54.219785
+            -4.69241,
+            54.219796
           ],
           [
-            -4.692495,
-            54.219857
+            -4.692476,
+            54.219859
           ],
           [
             -4.692626,
-            54.220051
+            54.220073
           ],
           [
-            -4.692725,
-            54.220163
+            -4.692719,
+            54.220185
           ],
           [
-            -4.692826,
-            54.220255
+            -4.692861,
+            54.22031
           ],
           [
-            -4.693038,
-            54.220405
+            -4.693011,
+            54.220422
           ],
           [
-            -4.693328,
-            54.22058
+            -4.693169,
+            54.220512
           ],
           [
-            -4.693739,
-            54.220754
+            -4.693314,
+            54.220592
+          ],
+          [
+            -4.693518,
+            54.220686
+          ],
+          [
+            -4.69372,
+            54.220768
           ]
         ]
       },
@@ -69807,12 +69964,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693739,
-            54.220754
+            -4.69372,
+            54.220768
           ],
           [
-            -4.6945,
-            54.220996
+            -4.694475,
+            54.221007
           ]
         ]
       },
@@ -86555,7 +86712,7 @@
         "name:en": "Tromode Road",
         "name:gv": "Raad Tromode",
         "ref": "A47",
-        "sidewalk:left": "none",
+        "sidewalk:left": "no",
         "sidewalk:right": "separate",
         "surface": "paved"
       }
@@ -88329,6 +88486,51 @@
         "name": "Finch Road",
         "name:en": "Finch Road",
         "name:gv": "Strane Mona"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300041091,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693466,
+            54.221719
+          ],
+          [
+            -4.693606,
+            54.221638
+          ],
+          [
+            -4.693866,
+            54.221477
+          ],
+          [
+            -4.694227,
+            54.221228
+          ],
+          [
+            -4.694435,
+            54.221042
+          ],
+          [
+            -4.694475,
+            54.221007
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "West View",
+        "name:en": "West View",
+        "name:gv": "Reayrt y Heear",
+        "oneway": "yes",
+        "postal_code": "IM5 1BN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     }
   ]

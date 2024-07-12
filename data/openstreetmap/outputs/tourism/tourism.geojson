@@ -4285,28 +4285,6 @@
     },
     {
       "type": "Feature",
-      "id": 10853173502,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.501449,
-          54.155831
-        ]
-      },
-      "properties": {
-        "name": "Quarterbridge",
-        "tourism": "attraction",
-        "wikidata": "Q7269285",
-        "wikipedia": "en:Quarterbridge, Isle of Man",
-        "osm_id": 10853173502,
-        "lon": -4.501449,
-        "lat": 54.155831,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10853173502"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10853994042,
       "geometry": {
         "type": "Point",
@@ -5568,8 +5546,8 @@
             54.155693
           ],
           [
-            -4.50138,
-            54.155747
+            -4.501318,
+            54.155715
           ]
         ]
       },
@@ -5582,8 +5560,8 @@
         "surface": "paved",
         "tourism": "attraction",
         "osm_id": 25986488,
-        "lon": -4.501322500000001,
-        "lat": 54.15572,
+        "lon": -4.501291500000001,
+        "lat": 54.155704,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986488"
       }
@@ -13678,8 +13656,8 @@
             54.155964
           ],
           [
-            -4.501567,
-            54.155841
+            -4.501521,
+            54.155817
           ]
         ]
       },
@@ -13692,8 +13670,8 @@
         "surface": "paved",
         "tourism": "attraction",
         "osm_id": 186060138,
-        "lon": -4.501675499999999,
-        "lat": 54.155902499999996,
+        "lon": -4.5016525000000005,
+        "lat": 54.1558905,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/186060138"
       }
@@ -13705,16 +13683,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.501567,
-            54.155841
+            -4.501521,
+            54.155817
           ],
           [
             -4.50146,
             54.155787
           ],
           [
-            -4.50138,
-            54.155747
+            -4.501318,
+            54.155715
           ]
         ]
       },
@@ -13731,8 +13709,8 @@
         "tourism": "attraction",
         "wikidata": "Q7269285",
         "osm_id": 186060139,
-        "lon": -4.50147354289433,
-        "lat": 54.15579391460997,
+        "lon": -4.501419370203464,
+        "lat": 54.155766259905185,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/186060139"
       }
@@ -13849,6 +13827,7 @@
         "tourism": "attraction",
         "url:registered_building": "https://www.gov.im/media/632063/0500077regbldcameraobscura.pdf",
         "wikidata": "Q5595201",
+        "wikimedia_commons": "File:Camera obscura douglas isle of man.jpg",
         "wikipedia": "en:Grand Union Camera Obscura",
         "osm_id": 186072536,
         "lon": -4.467308576090491,
@@ -22227,6 +22206,56 @@
         "lat": 54.33274001787946,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1280889802"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300558126,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.501601,
+            54.155737
+          ],
+          [
+            -4.501433,
+            54.155875
+          ],
+          [
+            -4.501349,
+            54.15584
+          ],
+          [
+            -4.501251,
+            54.155831
+          ],
+          [
+            -4.501399,
+            54.155531
+          ],
+          [
+            -4.501452,
+            54.155605
+          ],
+          [
+            -4.501601,
+            54.155737
+          ]
+        ]
+      },
+      "properties": {
+        "layer": "1",
+        "man_made": "bridge",
+        "name": "Quarterbridge",
+        "tourism": "attraction",
+        "wikidata": "Q7269285",
+        "wikipedia": "en:Quarterbridge, Isle of Man",
+        "osm_id": 1300558126,
+        "lon": -4.501416666338647,
+        "lat": 54.15572575995262,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1300558126"
       }
     }
   ]

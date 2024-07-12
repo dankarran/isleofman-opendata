@@ -7733,6 +7733,32 @@
     },
     {
       "type": "Feature",
+      "id": 25986910,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.493107,
+            54.169394
+          ],
+          [
+            -4.49305,
+            54.169414
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Johnny Watterson Court",
+        "postal_code": "IM2 5ND",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986911,
       "geometry": {
         "type": "LineString",
@@ -12400,6 +12426,37 @@
     },
     {
       "type": "Feature",
+      "id": 25987779,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696309,
+            54.22151
+          ],
+          [
+            -4.696253,
+            54.221495
+          ],
+          [
+            -4.694475,
+            54.221007
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "tertiary",
+        "maxspeed": "30 mph",
+        "name": "Heathfield Drive",
+        "postal_code": "IM5 1DP",
+        "sidewalk:both": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987791,
       "geometry": {
         "type": "LineString",
@@ -15595,8 +15652,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693739,
-            54.220754
+            -4.69372,
+            54.220768
+          ],
+          [
+            -4.693743,
+            54.22074
           ],
           [
             -4.69408,
@@ -17530,7 +17591,7 @@
         "coordinates": [
           [
             -4.466448,
-            54.180429
+            54.180444
           ],
           [
             -4.4646,
@@ -19885,40 +19946,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693466,
-            54.221719
+            -4.694475,
+            54.221007
           ],
           [
-            -4.693606,
-            54.221638
+            -4.694501,
+            54.220983
           ],
           [
-            -4.693897,
-            54.221469
+            -4.694676,
+            54.220773
           ],
           [
-            -4.694227,
-            54.221228
+            -4.694704,
+            54.220739
           ],
           [
-            -4.6945,
-            54.220996
+            -4.694941,
+            54.220454
           ],
           [
-            -4.694683,
-            54.220782
+            -4.695194,
+            54.22014
           ],
           [
-            -4.694715,
-            54.220743
+            -4.695319,
+            54.219993
           ],
           [
-            -4.694959,
-            54.220458
-          ],
-          [
-            -4.695212,
-            54.220146
+            -4.695642,
+            54.219439
           ],
           [
             -4.695684,
@@ -39109,6 +39166,51 @@
         "postal_code": "IM4 4DA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300041091,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693466,
+            54.221719
+          ],
+          [
+            -4.693606,
+            54.221638
+          ],
+          [
+            -4.693866,
+            54.221477
+          ],
+          [
+            -4.694227,
+            54.221228
+          ],
+          [
+            -4.694435,
+            54.221042
+          ],
+          [
+            -4.694475,
+            54.221007
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "West View",
+        "name:en": "West View",
+        "name:gv": "Reayrt y Heear",
+        "oneway": "yes",
+        "postal_code": "IM5 1BN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     }
   ]

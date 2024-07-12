@@ -1702,6 +1702,35 @@
     },
     {
       "type": "Feature",
+      "id": 918436621,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.640131,
+          54.20431
+        ]
+      },
+      "properties": {
+        "alt_name": "Millennium of Tynwald Monument",
+        "description": "Erected to mark the 1000th anniversary of Isle of Man Parliament, Tynwald.",
+        "historic": "monument",
+        "image": "http://manxscenes.com/01&2/April%2003/Millenium_Stone.htm",
+        "material": "stone",
+        "name": "The Millennium Stone",
+        "name:en": "Millennium Stone",
+        "name:gv": "Clagh y Fealley Milleyvleeanagh",
+        "start_date": "1979",
+        "wikidata": "Q127413109",
+        "wikimedia_commons": "File:The Manx Millennium Stone at St John's (geograph 7603827).jpg",
+        "osm_id": 918436621,
+        "lon": -4.640131,
+        "lat": 54.20431,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/918436621"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1200806942,
       "geometry": {
         "type": "Point",
@@ -2186,6 +2215,31 @@
         "lat": 54.284216,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1833598303"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1905894110,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.467937,
+          54.143217
+        ]
+      },
+      "properties": {
+        "name": "Douglas Head",
+        "name:en": "Douglas Head",
+        "name:gv": "Kione Ghoolish",
+        "natural": "headland",
+        "place": "locality",
+        "wikidata": "Q5301580",
+        "wikipedia": "en:Douglas Head",
+        "osm_id": 1905894110,
+        "lon": -4.467937,
+        "lat": 54.143217,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1905894110"
       }
     },
     {
@@ -22951,6 +23005,108 @@
     },
     {
       "type": "Feature",
+      "id": 25988023,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483925,
+            54.165269
+          ],
+          [
+            -4.484097,
+            54.165174
+          ],
+          [
+            -4.484144,
+            54.165149
+          ],
+          [
+            -4.48419,
+            54.165123
+          ],
+          [
+            -4.48432,
+            54.165048
+          ],
+          [
+            -4.484553,
+            54.16491
+          ],
+          [
+            -4.485517,
+            54.164296
+          ],
+          [
+            -4.485839,
+            54.164106
+          ],
+          [
+            -4.486491,
+            54.163791
+          ],
+          [
+            -4.48711,
+            54.163492
+          ],
+          [
+            -4.487844,
+            54.1631
+          ],
+          [
+            -4.488552,
+            54.162673
+          ],
+          [
+            -4.488859,
+            54.162476
+          ],
+          [
+            -4.489122,
+            54.162288
+          ],
+          [
+            -4.489419,
+            54.162064
+          ],
+          [
+            -4.489827,
+            54.161696
+          ],
+          [
+            -4.489862,
+            54.161668
+          ],
+          [
+            -4.489919,
+            54.16162
+          ],
+          [
+            -4.490034,
+            54.161534
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Bray Hill",
+        "name:en": "Bray Hill",
+        "name:gv": "Cronk Bray",
+        "ref": "A2",
+        "sidewalk:both": "separate",
+        "wikidata": "Q3389200",
+        "wikipedia": "en:Bray Hill",
+        "osm_id": 25988023,
+        "lon": -4.487032131178309,
+        "lat": 54.163477978755964,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988023"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988026,
       "geometry": {
         "type": "LineString",
@@ -24027,7 +24183,7 @@
         "coordinates": [
           [
             -4.493208,
-            54.168826
+            54.168818
           ],
           [
             -4.493104,
@@ -24067,8 +24223,8 @@
         "name:gv": "Eary Veg",
         "surface": "paved",
         "osm_id": 25988261,
-        "lon": -4.492952932228778,
-        "lat": 54.16828085141815,
+        "lon": -4.4929517277540105,
+        "lat": 54.1682775836449,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988261"
       }
@@ -29952,7 +30108,7 @@
         "name:en": "Tromode Road",
         "name:gv": "Raad Tromode",
         "ref": "A47",
-        "sidewalk:left": "none",
+        "sidewalk:left": "no",
         "sidewalk:right": "separate",
         "surface": "paved",
         "osm_id": 25989058,
@@ -33320,40 +33476,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693466,
-            54.221719
+            -4.694475,
+            54.221007
           ],
           [
-            -4.693606,
-            54.221638
+            -4.694501,
+            54.220983
           ],
           [
-            -4.693897,
-            54.221469
+            -4.694676,
+            54.220773
           ],
           [
-            -4.694227,
-            54.221228
+            -4.694704,
+            54.220739
           ],
           [
-            -4.6945,
-            54.220996
+            -4.694941,
+            54.220454
           ],
           [
-            -4.694683,
-            54.220782
+            -4.695194,
+            54.22014
           ],
           [
-            -4.694715,
-            54.220743
+            -4.695319,
+            54.219993
           ],
           [
-            -4.694959,
-            54.220458
-          ],
-          [
-            -4.695212,
-            54.220146
+            -4.695642,
+            54.219439
           ],
           [
             -4.695684,
@@ -33372,8 +33524,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989463,
-        "lon": -4.694690330927511,
-        "lat": 54.220656734542345,
+        "lon": -4.695112539138331,
+        "lat": 54.22021049999712,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989463"
       }
@@ -61283,32 +61435,44 @@
             54.168022
           ],
           [
-            -4.494201,
-            54.168185
+            -4.494239,
+            54.168172
           ],
           [
-            -4.494443,
-            54.168337
+            -4.494456,
+            54.168327
           ],
           [
-            -4.494498,
-            54.168451
+            -4.494534,
+            54.1684
           ],
           [
-            -4.49448,
+            -4.494566,
+            54.168463
+          ],
+          [
+            -4.494534,
             54.168521
           ],
           [
             -4.494378,
-            54.168597
+            54.168585
           ],
           [
-            -4.494081,
-            54.168684
+            -4.494134,
+            54.168674
+          ],
+          [
+            -4.493984,
+            54.168705
           ],
           [
             -4.493208,
-            54.168826
+            54.168818
+          ],
+          [
+            -4.492977,
+            54.168866
           ],
           [
             -4.492345,
@@ -61336,8 +61500,8 @@
         "name:gv": "Cronk-Liauyr",
         "surface": "paved",
         "osm_id": 165339587,
-        "lon": -4.492738938003725,
-        "lat": 54.16889478851455,
+        "lon": -4.492771057029464,
+        "lat": 54.16888385440688,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165339587"
       }
@@ -62231,8 +62395,8 @@
             54.219659
           ],
           [
-            -4.692428,
-            54.219785
+            -4.69241,
+            54.219796
           ]
         ]
       },
@@ -62247,8 +62411,8 @@
         "sidewalk:both": "yes",
         "surface": "asphalt",
         "osm_id": 165801853,
-        "lon": -4.693052860776153,
-        "lat": 54.219183468556196,
+        "lon": -4.693048076670695,
+        "lat": 54.21918744349667,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165801853"
       }
@@ -74987,36 +75151,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.692428,
-            54.219785
+            -4.69241,
+            54.219796
           ],
           [
-            -4.692495,
-            54.219857
+            -4.692476,
+            54.219859
           ],
           [
             -4.692626,
-            54.220051
+            54.220073
           ],
           [
-            -4.692725,
-            54.220163
+            -4.692719,
+            54.220185
           ],
           [
-            -4.692826,
-            54.220255
+            -4.692861,
+            54.22031
           ],
           [
-            -4.693038,
-            54.220405
+            -4.693011,
+            54.220422
           ],
           [
-            -4.693328,
-            54.22058
+            -4.693169,
+            54.220512
           ],
           [
-            -4.693739,
-            54.220754
+            -4.693314,
+            54.220592
+          ],
+          [
+            -4.693518,
+            54.220686
+          ],
+          [
+            -4.69372,
+            54.220768
           ]
         ]
       },
@@ -75030,8 +75202,8 @@
         "sidewalk:both": "yes",
         "surface": "paved",
         "osm_id": 436673355,
-        "lon": -4.6930285050701475,
-        "lat": 54.22034052460872,
+        "lon": -4.693010332830157,
+        "lat": 54.22035314511972,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/436673355"
       }
@@ -75297,12 +75469,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.693739,
-            54.220754
+            -4.69372,
+            54.220768
           ],
           [
-            -4.6945,
-            54.220996
+            -4.694475,
+            54.221007
           ]
         ]
       },
@@ -75316,8 +75488,8 @@
         "sidewalk:both": "yes",
         "surface": "paved",
         "osm_id": 436983774,
-        "lon": -4.694119499999999,
-        "lat": 54.220875,
+        "lon": -4.6940975,
+        "lat": 54.2208875,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/436983774"
       }
@@ -93305,7 +93477,7 @@
         "name:en": "Tromode Road",
         "name:gv": "Raad Tromode",
         "ref": "A47",
-        "sidewalk:left": "none",
+        "sidewalk:left": "no",
         "sidewalk:right": "separate",
         "surface": "paved",
         "osm_id": 1197121709,
@@ -95319,6 +95491,56 @@
         "lat": 54.153241629189154,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1297652584"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300041091,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693466,
+            54.221719
+          ],
+          [
+            -4.693606,
+            54.221638
+          ],
+          [
+            -4.693866,
+            54.221477
+          ],
+          [
+            -4.694227,
+            54.221228
+          ],
+          [
+            -4.694435,
+            54.221042
+          ],
+          [
+            -4.694475,
+            54.221007
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "West View",
+        "name:en": "West View",
+        "name:gv": "Reayrt y Heear",
+        "oneway": "yes",
+        "postal_code": "IM5 1BN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1300041091,
+        "lon": -4.693984779596049,
+        "lat": 54.221382619496744,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1300041091"
       }
     }
   ]
