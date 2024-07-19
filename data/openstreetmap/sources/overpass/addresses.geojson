@@ -1396,8 +1396,11 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "atm": "yes",
+        "check_date": "2024-07-15",
         "name": "The Co-operative, Woodbourne Road",
         "opening_hours": "08:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
         "shop": "convenience",
         "website": "https://www.coop.co.uk/store-finder/IM1-3HH/woodbourne-road"
       }
@@ -3564,6 +3567,8 @@
         "addr:postcode": "IM4 2EE",
         "brand": "Co-op Food",
         "brand:wikidata": "Q3277439",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "name": "Co-op Food",
         "opening_hours": "Mo-Su 08:00-22:00",
         "operator": "The Co-operative Group",
@@ -16553,24 +16558,40 @@
             54.159008
           ],
           [
-            -4.510139,
-            54.159965
+            -4.510147,
+            54.16
+          ],
+          [
+            -4.509767,
+            54.160075
           ],
           [
             -4.509765,
             54.160011
           ],
           [
-            -4.509624,
-            54.160028
+            -4.509713,
+            54.160012
           ],
           [
-            -4.508885,
-            54.160075
+            -4.509631,
+            54.160015
           ],
           [
-            -4.508874,
-            54.160163
+            -4.509358,
+            54.160026
+          ],
+          [
+            -4.508978,
+            54.16004
+          ],
+          [
+            -4.508857,
+            54.160045
+          ],
+          [
+            -4.508871,
+            54.16017
           ],
           [
             -4.508532,
@@ -16591,6 +16612,7 @@
         "addr:country": "IM",
         "addr:postcode": "IM2 2RD",
         "addr:street": "Vicarage Road",
+        "landuse": "retail",
         "name": "Kirby Garden Centre",
         "shop": "garden_centre",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -34938,8 +34960,11 @@
         "building": "yes",
         "building:levels": "2",
         "building:material": "stone",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "listed_status": "Registered",
         "name": "Co-op Food",
+        "opening_hours": "Mo-Su 08:00-22:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
         "ref:registered_building": "32",
@@ -47005,6 +47030,8 @@
         "brand:wikidata": "Q3277439",
         "building": "yes",
         "building:levels": "3",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "name": "Co-op Food",
         "opening_hours": "Mo-Su 08:00-22:00",
         "operator": "The Co-operative Group",
@@ -63274,6 +63301,8 @@
         "brand": "Co-op Food",
         "brand:wikidata": "Q3277439",
         "building": "yes",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "name": "Co-op Food",
         "opening_hours": "Mo-Su 08:00-22:00",
         "operator": "The Co-operative Group",
@@ -70100,7 +70129,10 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "name": "Co-op Food",
+        "opening_hours": "Mo-Su 08:00-22:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
         "shop": "convenience",
@@ -93761,6 +93793,66 @@
     },
     {
       "type": "Feature",
+      "id": 416526337,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478497,
+            54.153111
+          ],
+          [
+            -4.478676,
+            54.15311
+          ],
+          [
+            -4.47868,
+            54.153082
+          ],
+          [
+            -4.478715,
+            54.153082
+          ],
+          [
+            -4.478722,
+            54.153041
+          ],
+          [
+            -4.478684,
+            54.15304
+          ],
+          [
+            -4.478685,
+            54.15302
+          ],
+          [
+            -4.478493,
+            54.153015
+          ],
+          [
+            -4.478497,
+            54.153111
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "47",
+        "addr:postcode": "IM1 2LZ",
+        "addr:street": "Loch Promenade",
+        "building": "yes",
+        "name": "Marina",
+        "old_name": "Marina Hotel",
+        "source": "Bing",
+        "source:addr:housename": "streetside",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "was:tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 417401591,
       "geometry": {
         "type": "LineString",
@@ -97034,7 +97126,10 @@
         "building:colour": "white",
         "building:levels": "2",
         "building:material": "plaster",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "name": "Co-op Food",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-20:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
         "operator:wikipedia": "en:The Co-operative Group",
@@ -109795,7 +109890,10 @@
         "brand": "Co-op Food",
         "brand:wikidata": "Q3277439",
         "building": "yes",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
         "name": "Co-op Food",
+        "opening_hours": "Mo-Su 08:00-22:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
         "shop": "convenience",
