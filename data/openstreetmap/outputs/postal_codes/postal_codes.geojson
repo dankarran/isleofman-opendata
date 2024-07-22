@@ -4043,6 +4043,29 @@
     },
     {
       "type": "Feature",
+      "id": 12068347115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.740912,
+          54.092371
+        ]
+      },
+      "properties": {
+        "name": "Ballachurry Barns",
+        "place": "locality",
+        "postal_code": "IM9 6TW",
+        "source": "Isle of Man Government Land Registry Land Transactions",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12068347115,
+        "lon": -4.740912,
+        "lat": 54.092371,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12068347115"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985921,
       "geometry": {
         "type": "LineString",
@@ -39148,6 +39171,586 @@
     },
     {
       "type": "Feature",
+      "id": 749001038,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745114,
+            54.087178
+          ],
+          [
+            -4.744269,
+            54.086638
+          ],
+          [
+            -4.744196,
+            54.086598
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Meayll Drive",
+        "postal_code": "IM9 5NT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 749001038,
+        "lon": -4.744656319785935,
+        "lat": 54.0868857728495,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749001038"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749001041,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744196,
+            54.086598
+          ],
+          [
+            -4.744118,
+            54.086639
+          ],
+          [
+            -4.743578,
+            54.087018
+          ],
+          [
+            -4.743396,
+            54.087112
+          ],
+          [
+            -4.743286,
+            54.087142
+          ],
+          [
+            -4.743171,
+            54.087152
+          ],
+          [
+            -4.743105,
+            54.087141
+          ],
+          [
+            -4.74301,
+            54.087111
+          ],
+          [
+            -4.742825,
+            54.087011
+          ],
+          [
+            -4.742601,
+            54.086875
+          ],
+          [
+            -4.742509,
+            54.086815
+          ],
+          [
+            -4.742341,
+            54.086756
+          ],
+          [
+            -4.742242,
+            54.086716
+          ],
+          [
+            -4.742043,
+            54.086592
+          ],
+          [
+            -4.741894,
+            54.086471
+          ],
+          [
+            -4.741791,
+            54.086418
+          ],
+          [
+            -4.741643,
+            54.086341
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Carnane Lane",
+        "postal_code": "IM9 5NQ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 749001041,
+        "lon": -4.742922980479978,
+        "lat": 54.0868276530614,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749001041"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749001042,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.743493,
+            54.086236
+          ],
+          [
+            -4.743071,
+            54.0865
+          ],
+          [
+            -4.742595,
+            54.086761
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Carnane View",
+        "postal_code": "IM9 5NR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 749001042,
+        "lon": -4.743047773655105,
+        "lat": 54.08650493633749,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749001042"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749001043,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.742819,
+            54.085931
+          ],
+          [
+            -4.742777,
+            54.085962
+          ],
+          [
+            -4.742736,
+            54.085981
+          ],
+          [
+            -4.74257,
+            54.086021
+          ],
+          [
+            -4.742462,
+            54.086063
+          ],
+          [
+            -4.742184,
+            54.086223
+          ],
+          [
+            -4.742084,
+            54.086303
+          ],
+          [
+            -4.741985,
+            54.086417
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Ballakilley Lane",
+        "postal_code": "IM9 5NP",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 749001043,
+        "lon": -4.742379243804367,
+        "lat": 54.08613707792135,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749001043"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749001047,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745515,
+            54.086951
+          ],
+          [
+            -4.744578,
+            54.08643
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kitterland Lane",
+        "postal_code": "IM9 6DX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 749001047,
+        "lon": -4.7450465,
+        "lat": 54.0866905,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749001047"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749001048,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744196,
+            54.086598
+          ],
+          [
+            -4.744277,
+            54.086565
+          ],
+          [
+            -4.744539,
+            54.086413
+          ],
+          [
+            -4.744681,
+            54.086311
+          ],
+          [
+            -4.744918,
+            54.086073
+          ],
+          [
+            -4.744941,
+            54.086051
+          ],
+          [
+            -4.744985,
+            54.086032
+          ],
+          [
+            -4.745043,
+            54.086015
+          ],
+          [
+            -4.745097,
+            54.086002
+          ],
+          [
+            -4.745177,
+            54.086024
+          ],
+          [
+            -4.745278,
+            54.086066
+          ],
+          [
+            -4.745401,
+            54.086136
+          ],
+          [
+            -4.745532,
+            54.086198
+          ],
+          [
+            -4.746232,
+            54.086584
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "South Barrule Avenue",
+        "postal_code": "IM9 6DT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 749001048,
+        "lon": -4.745200441498437,
+        "lat": 54.08629038577799,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749001048"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749225444,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.743669,
+            54.087069
+          ],
+          [
+            -4.744359,
+            54.087522
+          ],
+          [
+            -4.744449,
+            54.087494
+          ],
+          [
+            -4.745034,
+            54.08722
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Fleshwick Close",
+        "postal_code": "IM9 5NS",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 749225444,
+        "lon": -4.744337644152511,
+        "lat": 54.08733366764278,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749225444"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749225445,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744196,
+            54.086598
+          ],
+          [
+            -4.744146,
+            54.086557
+          ],
+          [
+            -4.74394,
+            54.086413
+          ],
+          [
+            -4.743551,
+            54.086202
+          ],
+          [
+            -4.742946,
+            54.085887
+          ],
+          [
+            -4.742797,
+            54.085801
+          ],
+          [
+            -4.742719,
+            54.085756
+          ],
+          [
+            -4.74267,
+            54.08573
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Ballakilley Road",
+        "postal_code": "IM9 5NN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 749225445,
+        "lon": -4.7434416093888645,
+        "lat": 54.086150515938755,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749225445"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749225446,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.746352,
+            54.086548
+          ],
+          [
+            -4.746577,
+            54.086504
+          ],
+          [
+            -4.746704,
+            54.08646
+          ],
+          [
+            -4.746987,
+            54.086337
+          ],
+          [
+            -4.747036,
+            54.086309
+          ],
+          [
+            -4.747078,
+            54.086257
+          ],
+          [
+            -4.74708,
+            54.08619
+          ],
+          [
+            -4.747045,
+            54.086143
+          ],
+          [
+            -4.746967,
+            54.086093
+          ],
+          [
+            -4.746793,
+            54.08599
+          ],
+          [
+            -4.746684,
+            54.085922
+          ],
+          [
+            -4.746479,
+            54.085791
+          ],
+          [
+            -4.746379,
+            54.085734
+          ],
+          [
+            -4.746335,
+            54.085722
+          ],
+          [
+            -4.746284,
+            54.085714
+          ],
+          [
+            -4.746236,
+            54.085709
+          ],
+          [
+            -4.746188,
+            54.085713
+          ],
+          [
+            -4.746115,
+            54.085727
+          ],
+          [
+            -4.746038,
+            54.085766
+          ],
+          [
+            -4.745981,
+            54.085811
+          ],
+          [
+            -4.745941,
+            54.085878
+          ],
+          [
+            -4.745898,
+            54.085951
+          ],
+          [
+            -4.745839,
+            54.086013
+          ],
+          [
+            -4.745645,
+            54.086133
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk View Crescent",
+        "postal_code": "IM9 6DU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 749225446,
+        "lon": -4.7464858620377886,
+        "lat": 54.086078474903054,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749225446"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749225447,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745102,
+            54.085944
+          ],
+          [
+            -4.745119,
+            54.085743
+          ],
+          [
+            -4.745148,
+            54.085679
+          ],
+          [
+            -4.745205,
+            54.0856
+          ],
+          [
+            -4.745267,
+            54.085541
+          ],
+          [
+            -4.7453,
+            54.085478
+          ],
+          [
+            -4.745305,
+            54.085423
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Church View Court",
+        "postal_code": "IM9 6DZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 749225447,
+        "lon": -4.745182221442596,
+        "lat": 54.085674910811385,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749225447"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 768889195,
       "geometry": {
         "type": "LineString",
@@ -41730,6 +42333,64 @@
     },
     {
       "type": "Feature",
+      "id": 1120678775,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745034,
+            54.08722
+          ],
+          [
+            -4.745114,
+            54.087178
+          ],
+          [
+            -4.745447,
+            54.087047
+          ],
+          [
+            -4.745575,
+            54.086985
+          ],
+          [
+            -4.745709,
+            54.086927
+          ],
+          [
+            -4.745874,
+            54.086829
+          ],
+          [
+            -4.746029,
+            54.086724
+          ],
+          [
+            -4.746133,
+            54.086642
+          ],
+          [
+            -4.746232,
+            54.086584
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Fleshwick Close",
+        "postal_code": "IM9 5NS",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 1120678775,
+        "lon": -4.745647487697788,
+        "lat": 54.086928413170476,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1120678775"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1126021452,
       "geometry": {
         "type": "LineString",
@@ -42526,6 +43187,43 @@
         "lat": 54.368029,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1176917703"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1183018445,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.742103,
+            54.092663
+          ],
+          [
+            -4.741988,
+            54.092626
+          ],
+          [
+            -4.741394,
+            54.092462
+          ],
+          [
+            -4.741183,
+            54.092424
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Ditchfield Lane",
+        "name:en": "Ditchfield Lane",
+        "postal_code": "IM9 6TW",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1183018445,
+        "lon": -4.7416453124998,
+        "lat": 54.092534001432284,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1183018445"
       }
     },
     {

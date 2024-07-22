@@ -27988,6 +27988,29 @@
     },
     {
       "type": "Feature",
+      "id": 12068347115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.740912,
+          54.092371
+        ]
+      },
+      "properties": {
+        "name": "Ballachurry Barns",
+        "place": "locality",
+        "postal_code": "IM9 6TW",
+        "source": "Isle of Man Government Land Registry Land Transactions",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12068347115,
+        "lon": -4.740912,
+        "lat": 54.092371,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12068347115"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987471,
       "geometry": {
         "type": "LineString",

@@ -58233,6 +58233,51 @@
     },
     {
       "type": "Feature",
+      "id": 104425108,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.732158,
+            54.090305
+          ],
+          [
+            -4.731412,
+            54.090328
+          ],
+          [
+            -4.730777,
+            54.090421
+          ],
+          [
+            -4.73052,
+            54.090011
+          ],
+          [
+            -4.731132,
+            54.089761
+          ],
+          [
+            -4.73197,
+            54.089846
+          ],
+          [
+            -4.732158,
+            54.090305
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Colby",
+        "addr:postcode": "IM9 4AZ",
+        "addr:street": "Ballagawne Road",
+        "name": "Ballagawne Garden Nurseries",
+        "shop": "garden_centre",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 104720046,
       "geometry": {
         "type": "LineString",

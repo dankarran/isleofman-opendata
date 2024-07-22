@@ -12076,8 +12076,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Colby",
+        "addr:postcode": "IM9 4AZ",
+        "addr:street": "Ballagawne Road",
         "name": "Ballagawne Garden Nurseries",
-        "shop": "garden_centre"
+        "shop": "garden_centre",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
