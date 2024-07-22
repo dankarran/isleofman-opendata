@@ -1461,7 +1461,7 @@
         "internet_access:fee": "no",
         "name": "Arrandale House",
         "tourism": "hotel",
-        "website": "http://www.arrandale.com",
+        "website": "https://www.arrandale.com",
         "osm_id": 502490905,
         "lon": -4.479197,
         "lat": 54.16027,
@@ -6219,7 +6219,7 @@
         "name": "St John's United Football Club Campsite",
         "seasonal": "yes",
         "tourism": "camp_site",
-        "website": "http://www.stjohnsfootballclub.com",
+        "website": "https://www.stjohnsfootballclub.com/",
         "osm_id": 10693193695,
         "lon": -4.638457,
         "lat": 54.199963,
@@ -7132,306 +7132,6 @@
         "lat": 54.170454,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10733868465"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808068,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.489088,
-          54.156567
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "44",
-        "addr:postcode": "IM2 3QG",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808068,
-        "lon": -4.489088,
-        "lat": 54.156567,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808068"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808070,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48876,
-          54.156692
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "36",
-        "addr:postcode": "IM2 3QG",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808070,
-        "lon": -4.48876,
-        "lat": 54.156692,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808070"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808075,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.487189,
-          54.156952
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "16",
-        "addr:postcode": "IM2 3QE",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808075,
-        "lon": -4.487189,
-        "lat": 54.156952,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808075"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808076,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.487282,
-          54.156931
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM2 3QE",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808076,
-        "lon": -4.487282,
-        "lat": 54.156931,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808076"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808077,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486595,
-          54.157067
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM2 3QE",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808077,
-        "lon": -4.486595,
-        "lat": 54.157067,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808077"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808078,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486917,
-          54.156771
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "13",
-        "addr:postcode": "IM2 3QD",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808078,
-        "lon": -4.486917,
-        "lat": 54.156771,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808078"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808079,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.487081,
-          54.156737
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "17",
-        "addr:postcode": "IM2 3QD",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808079,
-        "lon": -4.487081,
-        "lat": 54.156737,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808079"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808080,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486444,
-          54.156868
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM2 3QD",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808080,
-        "lon": -4.486444,
-        "lat": 54.156868,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808080"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739808081,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.488667,
-          54.156721
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "34",
-        "addr:postcode": "IM2 3QG",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739808081,
-        "lon": -4.488667,
-        "lat": 54.156721,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739808081"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739811706,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.490107,
-          54.156133
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "The Ferns",
-        "addr:housenumber": "52",
-        "addr:postcode": "IM2 3QH",
-        "addr:street": "Alexander Drive",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739811706,
-        "lon": -4.490107,
-        "lat": 54.156133,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739811706"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739811709,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.490962,
-          54.15594
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:postcode": "IM2 3QJ",
-        "addr:street": "Alexander Drive",
-        "addr:substreet": "Marlborough Terrace",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739811709,
-        "lon": -4.490962,
-        "lat": 54.15594,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739811709"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739811710,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.49047,
-          54.155966
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM2 3QL",
-        "addr:street": "Alexander Drive",
-        "addr:substreet": "Marlborough Terrace",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739811710,
-        "lon": -4.49047,
-        "lat": 54.155966,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739811710"
       }
     },
     {
@@ -9092,7 +8792,7 @@
         "contact:facebook": "https://www.facebook.com/KenQuine/",
         "name": "Ken Quine",
         "shop": "hardware",
-        "website": "http://info.kenquine.com",
+        "website": "https://info.kenquine.com/",
         "osm_id": 11167151440,
         "lon": -4.755693,
         "lat": 54.086007,
@@ -51553,7 +51253,7 @@
         "phone": "01624 832346",
         "postal_code": "IM9 6BD",
         "tourism": "guest_house",
-        "website": "http://westlodgeiom.com",
+        "website": "https://westlodgeiom.com/",
         "osm_id": 101393009,
         "lon": -4.7486742150011345,
         "lat": 54.084809757759515,
@@ -62061,7 +61761,7 @@
         "ref:charity": "827",
         "source": "Bing",
         "tourism": "museum",
-        "website": "http://www.maps.org.im/museum",
+        "website": "https://www.maps.org.im/museum",
         "wikidata": "Q15245777",
         "wikipedia": "en:Manx Aviation and Military Museum",
         "osm_id": 103485031,
@@ -74549,7 +74249,7 @@
         "operator:type": "charitable",
         "source": "Bing",
         "tourism": "museum",
-        "website": "http://www.maps.org.im/regimental-museum",
+        "website": "https://www.maps.org.im/regimental-museum",
         "wheelchair": "yes",
         "osm_id": 159151053,
         "lon": -4.6377810897823135,
@@ -140513,7 +140213,7 @@
         "contact:phone": "+44 1624 676999",
         "name": "Paul Ridgway Ltd",
         "shop": "car;car_repair",
-        "website": "http://www.paulridgwayiom.com/",
+        "website": "https://www.paulridgwayiom.com/",
         "osm_id": 1155200519,
         "lon": -4.495613000000001,
         "lat": 54.172855,
@@ -153546,6 +153246,1653 @@
         "lat": 54.220475812792266,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1300041090"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300354305,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490804,
+            54.161341
+          ],
+          [
+            -4.490676,
+            54.161401
+          ],
+          [
+            -4.490799,
+            54.16149
+          ],
+          [
+            -4.49085,
+            54.161467
+          ],
+          [
+            -4.490829,
+            54.161451
+          ],
+          [
+            -4.490907,
+            54.161415
+          ],
+          [
+            -4.490804,
+            54.161341
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Slegaby Beg",
+        "addr:postcode": "IM2 3RL",
+        "addr:street": "Quarterbridge Road",
+        "building": "yes",
+        "osm_id": 1300354305,
+        "lon": -4.490795449842488,
+        "lat": 54.16141496344749,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1300354305"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302848913,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494783,
+            54.158945
+          ],
+          [
+            -4.494766,
+            54.158932
+          ],
+          [
+            -4.494954,
+            54.158846
+          ],
+          [
+            -4.495059,
+            54.158926
+          ],
+          [
+            -4.494992,
+            54.158957
+          ],
+          [
+            -4.495012,
+            54.158972
+          ],
+          [
+            -4.494859,
+            54.159042
+          ],
+          [
+            -4.494751,
+            54.15896
+          ],
+          [
+            -4.494783,
+            54.158945
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Woodstock",
+        "addr:postcode": "IM2 3RG",
+        "addr:street": "Quarterbridge Road",
+        "building": "house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302848913,
+        "lon": -4.494904145051676,
+        "lat": 54.158943765918316,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302848913"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302848919,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49489,
+            54.159643
+          ],
+          [
+            -4.494659,
+            54.159743
+          ],
+          [
+            -4.494578,
+            54.159679
+          ],
+          [
+            -4.494809,
+            54.159578
+          ],
+          [
+            -4.49489,
+            54.159643
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Little Acre",
+        "addr:postcode": "IM2 3RH",
+        "addr:street": "Quarterbridge Road",
+        "building": "house",
+        "osm_id": 1302848919,
+        "lon": -4.494734078476291,
+        "lat": 54.159660687872346,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302848919"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302848920,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494296,
+            54.159315
+          ],
+          [
+            -4.49417,
+            54.159378
+          ],
+          [
+            -4.494067,
+            54.159308
+          ],
+          [
+            -4.494116,
+            54.159283
+          ],
+          [
+            -4.494059,
+            54.159244
+          ],
+          [
+            -4.49416,
+            54.159193
+          ],
+          [
+            -4.494288,
+            54.15928
+          ],
+          [
+            -4.494263,
+            54.159292
+          ],
+          [
+            -4.494296,
+            54.159315
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Lezayre",
+        "addr:postcode": "IM2 3RG",
+        "addr:street": "Quarterbridge Road",
+        "building": "house",
+        "osm_id": 1302848920,
+        "lon": -4.494171775136967,
+        "lat": 54.15928599376513,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302848920"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302848937,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49194,
+            54.160428
+          ],
+          [
+            -4.49182,
+            54.160484
+          ],
+          [
+            -4.491699,
+            54.160395
+          ],
+          [
+            -4.491819,
+            54.160339
+          ],
+          [
+            -4.49194,
+            54.160428
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Castleward",
+        "addr:postcode": "IM2 3RJ",
+        "addr:street": "Quarterbridge Road",
+        "building": "semidetached_house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "osm_id": 1302848937,
+        "lon": -4.4918195,
+        "lat": 54.1604115,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302848937"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302848947,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494699,
+            54.159824
+          ],
+          [
+            -4.494801,
+            54.159906
+          ],
+          [
+            -4.494959,
+            54.159832
+          ],
+          [
+            -4.494916,
+            54.159798
+          ],
+          [
+            -4.49482,
+            54.159845
+          ],
+          [
+            -4.494759,
+            54.159799
+          ],
+          [
+            -4.494699,
+            54.159824
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Little Acre",
+        "addr:postcode": "IM2 3RH",
+        "addr:street": "Quarterbridge Road",
+        "amenity": "animal_boarding",
+        "animal_boarding": "cat",
+        "building": "yes",
+        "name": "Aristocat Hotel",
+        "source": "streetside",
+        "website": "https://www.aristocathotel.im",
+        "osm_id": 1302848947,
+        "lon": -4.494827615352938,
+        "lat": 54.15984288589104,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302848947"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302860946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496211,
+            54.157413
+          ],
+          [
+            -4.496259,
+            54.157238
+          ],
+          [
+            -4.496494,
+            54.15726
+          ],
+          [
+            -4.49646,
+            54.157382
+          ],
+          [
+            -4.496328,
+            54.15737
+          ],
+          [
+            -4.496313,
+            54.157422
+          ],
+          [
+            -4.496211,
+            54.157413
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Arkadia",
+        "addr:postcode": "IM2 3QX",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "osm_id": 1302860946,
+        "lon": -4.49634603384612,
+        "lat": 54.15732706432373,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302860946"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302865605,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490846,
+            54.155914
+          ],
+          [
+            -4.490889,
+            54.155954
+          ],
+          [
+            -4.490977,
+            54.156031
+          ],
+          [
+            -4.491016,
+            54.156016
+          ],
+          [
+            -4.490974,
+            54.155978
+          ],
+          [
+            -4.491022,
+            54.15596
+          ],
+          [
+            -4.491049,
+            54.155985
+          ],
+          [
+            -4.491091,
+            54.155968
+          ],
+          [
+            -4.491101,
+            54.155977
+          ],
+          [
+            -4.491138,
+            54.155963
+          ],
+          [
+            -4.491105,
+            54.155933
+          ],
+          [
+            -4.491123,
+            54.155926
+          ],
+          [
+            -4.491067,
+            54.155876
+          ],
+          [
+            -4.490972,
+            54.155912
+          ],
+          [
+            -4.490936,
+            54.15588
+          ],
+          [
+            -4.490846,
+            54.155914
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 3QJ",
+        "addr:street": "Alexander Drive",
+        "addr:substreet": "Marlborough Terrace",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302865605,
+        "lon": -4.490998083975887,
+        "lat": 54.15594563160306,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302865605"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302865609,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490501,
+            54.155932
+          ],
+          [
+            -4.490482,
+            54.155916
+          ],
+          [
+            -4.490399,
+            54.155952
+          ],
+          [
+            -4.490557,
+            54.156085
+          ],
+          [
+            -4.490581,
+            54.156103
+          ],
+          [
+            -4.490622,
+            54.156087
+          ],
+          [
+            -4.490588,
+            54.156058
+          ],
+          [
+            -4.490606,
+            54.15605
+          ],
+          [
+            -4.490539,
+            54.155992
+          ],
+          [
+            -4.490561,
+            54.155983
+          ],
+          [
+            -4.490501,
+            54.155932
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 3QL",
+        "addr:street": "Alexander Drive",
+        "addr:substreet": "Marlborough Terrace",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302865609,
+        "lon": -4.490520045066211,
+        "lat": 54.15600841858013,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302865609"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302865612,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490103,
+            54.156078
+          ],
+          [
+            -4.490021,
+            54.156112
+          ],
+          [
+            -4.490105,
+            54.15618
+          ],
+          [
+            -4.490134,
+            54.156168
+          ],
+          [
+            -4.490217,
+            54.156237
+          ],
+          [
+            -4.490269,
+            54.156216
+          ],
+          [
+            -4.490103,
+            54.156078
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "The Ferns",
+        "addr:housenumber": "52",
+        "addr:postcode": "IM2 3QH",
+        "addr:street": "Alexander Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302865612,
+        "lon": -4.490146000365515,
+        "lat": 54.15615780733639,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302865612"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302867095,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488701,
+            54.15682
+          ],
+          [
+            -4.488597,
+            54.156692
+          ],
+          [
+            -4.488679,
+            54.156669
+          ],
+          [
+            -4.488739,
+            54.156743
+          ],
+          [
+            -4.488711,
+            54.15675
+          ],
+          [
+            -4.488755,
+            54.156805
+          ],
+          [
+            -4.488701,
+            54.15682
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM2 3QG",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302867095,
+        "lon": -4.488683585304208,
+        "lat": 54.156742445606135,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302867095"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302867096,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488871,
+            54.156766
+          ],
+          [
+            -4.488823,
+            54.156784
+          ],
+          [
+            -4.488774,
+            54.156734
+          ],
+          [
+            -4.488739,
+            54.156743
+          ],
+          [
+            -4.488679,
+            54.156669
+          ],
+          [
+            -4.488755,
+            54.156644
+          ],
+          [
+            -4.488871,
+            54.156766
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM2 3QG",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302867096,
+        "lon": -4.488775272769136,
+        "lat": 54.15671456925922,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302867096"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302867100,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489211,
+            54.156636
+          ],
+          [
+            -4.489164,
+            54.156655
+          ],
+          [
+            -4.489107,
+            54.156606
+          ],
+          [
+            -4.489075,
+            54.156618
+          ],
+          [
+            -4.489002,
+            54.156547
+          ],
+          [
+            -4.489079,
+            54.156517
+          ],
+          [
+            -4.489211,
+            54.156636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM2 3QG",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302867100,
+        "lon": -4.489106921162193,
+        "lat": 54.15658742204648,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302867100"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875628,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486466,
+            54.156822
+          ],
+          [
+            -4.486388,
+            54.156839
+          ],
+          [
+            -4.486436,
+            54.156915
+          ],
+          [
+            -4.486515,
+            54.156898
+          ],
+          [
+            -4.486466,
+            54.156822
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875628,
+        "lon": -4.486451381439476,
+        "lat": 54.156868595515576,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875628"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875629,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487095,
+            54.156685
+          ],
+          [
+            -4.487016,
+            54.156703
+          ],
+          [
+            -4.487068,
+            54.156779
+          ],
+          [
+            -4.487144,
+            54.156762
+          ],
+          [
+            -4.487095,
+            54.156685
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875629,
+        "lon": -4.487080425240378,
+        "lat": 54.15673191926062,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875629"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875630,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487016,
+            54.156703
+          ],
+          [
+            -4.486941,
+            54.15672
+          ],
+          [
+            -4.486989,
+            54.156797
+          ],
+          [
+            -4.487068,
+            54.156779
+          ],
+          [
+            -4.487016,
+            54.156703
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875630,
+        "lon": -4.487003955080372,
+        "lat": 54.156750178028595,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875630"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875631,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486941,
+            54.15672
+          ],
+          [
+            -4.486862,
+            54.156736
+          ],
+          [
+            -4.486909,
+            54.156813
+          ],
+          [
+            -4.486989,
+            54.156797
+          ],
+          [
+            -4.486941,
+            54.15672
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875631,
+        "lon": -4.486925378673908,
+        "lat": 54.15676659775463,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875631"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875632,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486862,
+            54.156736
+          ],
+          [
+            -4.486784,
+            54.156753
+          ],
+          [
+            -4.486833,
+            54.15683
+          ],
+          [
+            -4.486909,
+            54.156813
+          ],
+          [
+            -4.486862,
+            54.156736
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875632,
+        "lon": -4.486846741728234,
+        "lat": 54.156782804839466,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875632"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875633,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486784,
+            54.156753
+          ],
+          [
+            -4.486703,
+            54.15677
+          ],
+          [
+            -4.486752,
+            54.156847
+          ],
+          [
+            -4.486833,
+            54.15683
+          ],
+          [
+            -4.486784,
+            54.156753
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875633,
+        "lon": -4.4867680000000005,
+        "lat": 54.156800000000004,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875633"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875634,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486703,
+            54.15677
+          ],
+          [
+            -4.486621,
+            54.156788
+          ],
+          [
+            -4.486623,
+            54.156789
+          ],
+          [
+            -4.486669,
+            54.156865
+          ],
+          [
+            -4.486752,
+            54.156847
+          ],
+          [
+            -4.486703,
+            54.15677
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875634,
+        "lon": -4.486686446963518,
+        "lat": 54.15681748661944,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875634"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875635,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486623,
+            54.156789
+          ],
+          [
+            -4.486544,
+            54.156805
+          ],
+          [
+            -4.486592,
+            54.156882
+          ],
+          [
+            -4.486669,
+            54.156865
+          ],
+          [
+            -4.486623,
+            54.156789
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875635,
+        "lon": -4.486606660277638,
+        "lat": 54.15683509880829,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875635"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875636,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486544,
+            54.156805
+          ],
+          [
+            -4.486466,
+            54.156822
+          ],
+          [
+            -4.486515,
+            54.156898
+          ],
+          [
+            -4.486592,
+            54.156882
+          ],
+          [
+            -4.486544,
+            54.156805
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 3QD",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875636,
+        "lon": -4.48652920056625,
+        "lat": 54.15685160889057,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875636"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875637,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486633,
+            54.157016
+          ],
+          [
+            -4.486542,
+            54.157034
+          ],
+          [
+            -4.48659,
+            54.157117
+          ],
+          [
+            -4.486629,
+            54.15711
+          ],
+          [
+            -4.486662,
+            54.157166
+          ],
+          [
+            -4.486714,
+            54.157155
+          ],
+          [
+            -4.486681,
+            54.157098
+          ],
+          [
+            -4.486633,
+            54.157016
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875637,
+        "lon": -4.486630414779923,
+        "lat": 54.15708930396285,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875637"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875638,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486718,
+            54.156999
+          ],
+          [
+            -4.486633,
+            54.157016
+          ],
+          [
+            -4.486681,
+            54.157098
+          ],
+          [
+            -4.486708,
+            54.157092
+          ],
+          [
+            -4.486732,
+            54.157133
+          ],
+          [
+            -4.48679,
+            54.157121
+          ],
+          [
+            -4.486766,
+            54.157081
+          ],
+          [
+            -4.486718,
+            54.156999
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875638,
+        "lon": -4.486712737581846,
+        "lat": 54.15706569478845,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875638"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875639,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486804,
+            54.156982
+          ],
+          [
+            -4.486718,
+            54.156999
+          ],
+          [
+            -4.486766,
+            54.157081
+          ],
+          [
+            -4.48679,
+            54.157076
+          ],
+          [
+            -4.486833,
+            54.157148
+          ],
+          [
+            -4.486895,
+            54.157135
+          ],
+          [
+            -4.486853,
+            54.157064
+          ],
+          [
+            -4.486804,
+            54.156982
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875639,
+        "lon": -4.48680821987482,
+        "lat": 54.15706320862454,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875639"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875640,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486888,
+            54.156966
+          ],
+          [
+            -4.486804,
+            54.156982
+          ],
+          [
+            -4.486853,
+            54.157064
+          ],
+          [
+            -4.486881,
+            54.157059
+          ],
+          [
+            -4.486905,
+            54.157099
+          ],
+          [
+            -4.486959,
+            54.157088
+          ],
+          [
+            -4.486934,
+            54.157046
+          ],
+          [
+            -4.486888,
+            54.156966
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875640,
+        "lon": -4.48688306490217,
+        "lat": 54.15703180716303,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875640"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875641,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486973,
+            54.156949
+          ],
+          [
+            -4.486888,
+            54.156966
+          ],
+          [
+            -4.486934,
+            54.157046
+          ],
+          [
+            -4.486961,
+            54.15704
+          ],
+          [
+            -4.487004,
+            54.157111
+          ],
+          [
+            -4.487063,
+            54.157098
+          ],
+          [
+            -4.487023,
+            54.157032
+          ],
+          [
+            -4.486973,
+            54.156949
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875641,
+        "lon": -4.486977116496004,
+        "lat": 54.157028114279065,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875641"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875642,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487056,
+            54.156932
+          ],
+          [
+            -4.486973,
+            54.156949
+          ],
+          [
+            -4.487023,
+            54.157032
+          ],
+          [
+            -4.487055,
+            54.157026
+          ],
+          [
+            -4.48709,
+            54.157086
+          ],
+          [
+            -4.487139,
+            54.157076
+          ],
+          [
+            -4.487107,
+            54.15702
+          ],
+          [
+            -4.487056,
+            54.156932
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875642,
+        "lon": -4.487058595118141,
+        "lat": 54.15700715839094,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875642"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875643,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48715,
+            54.156913
+          ],
+          [
+            -4.487056,
+            54.156932
+          ],
+          [
+            -4.487107,
+            54.15702
+          ],
+          [
+            -4.487134,
+            54.157014
+          ],
+          [
+            -4.487156,
+            54.15705
+          ],
+          [
+            -4.487187,
+            54.157044
+          ],
+          [
+            -4.487199,
+            54.157064
+          ],
+          [
+            -4.487236,
+            54.157057
+          ],
+          [
+            -4.487202,
+            54.157001
+          ],
+          [
+            -4.48715,
+            54.156913
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875643,
+        "lon": -4.487147916097644,
+        "lat": 54.156989527615856,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875643"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875644,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487224,
+            54.156899
+          ],
+          [
+            -4.48715,
+            54.156913
+          ],
+          [
+            -4.487202,
+            54.157001
+          ],
+          [
+            -4.487224,
+            54.156996
+          ],
+          [
+            -4.487253,
+            54.157047
+          ],
+          [
+            -4.487302,
+            54.157037
+          ],
+          [
+            -4.487288,
+            54.157012
+          ],
+          [
+            -4.487224,
+            54.156899
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875644,
+        "lon": -4.487227798971071,
+        "lat": 54.15697170104397,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875644"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1302875645,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4873,
+            54.156883
+          ],
+          [
+            -4.487224,
+            54.156899
+          ],
+          [
+            -4.487288,
+            54.157012
+          ],
+          [
+            -4.487443,
+            54.15698
+          ],
+          [
+            -4.487404,
+            54.156916
+          ],
+          [
+            -4.487329,
+            54.156932
+          ],
+          [
+            -4.4873,
+            54.156883
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM2 3QE",
+        "addr:street": "Alexander Drive",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1302875645,
+        "lon": -4.487329392880545,
+        "lat": 54.15694799549937,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1302875645"
       }
     }
   ]
