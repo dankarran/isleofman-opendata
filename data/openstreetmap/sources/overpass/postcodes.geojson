@@ -673,6 +673,7 @@
         "addr:country": "IM",
         "addr:postcode": "IM6 1HP",
         "addr:street": "Stockfield Road",
+        "fixme": "is Kerrowglass actually the property directly east of this one, which is connected to Stockfield Road? There's also one to the west...?",
         "name": "Kerrowglass",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)",
@@ -58274,6 +58275,60 @@
         "name": "Ballagawne Garden Nurseries",
         "shop": "garden_centre",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104709368,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.736724,
+            54.08986
+          ],
+          [
+            -4.736736,
+            54.089884
+          ],
+          [
+            -4.736675,
+            54.089895
+          ],
+          [
+            -4.736625,
+            54.089797
+          ],
+          [
+            -4.736836,
+            54.08976
+          ],
+          [
+            -4.736862,
+            54.089813
+          ],
+          [
+            -4.73682,
+            54.08982
+          ],
+          [
+            -4.736831,
+            54.089842
+          ],
+          [
+            -4.736724,
+            54.08986
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:country": "IM",
+        "addr:housename": "Greenfields",
+        "addr:postcode": "IM9 5LR",
+        "addr:street": "Old School Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
