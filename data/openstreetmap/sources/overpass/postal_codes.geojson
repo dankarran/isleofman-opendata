@@ -174,27 +174,6 @@
     },
     {
       "type": "Feature",
-      "id": 455952598,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.475331,
-          54.148874
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housename": "Peveril Building",
-        "addr:housenumber": "6/7",
-        "addr:street": "Loch Promenade",
-        "amenity": "bar",
-        "name": "Bordello's",
-        "postal_code": "IM1 2BT",
-        "website": "http://www.bordellowinebar.co.uk"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 456469140,
       "geometry": {
         "type": "Point",
@@ -12481,12 +12460,13 @@
       "properties": {
         "abutters": "residential",
         "highway": "tertiary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Heathfield Drive",
         "postal_code": "IM5 1DP",
         "sidewalk:both": "yes",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -14926,6 +14906,10 @@
             54.159079
           ],
           [
+            -4.492961,
+            54.159097
+          ],
+          [
             -4.492587,
             54.159283
           ],
@@ -15718,7 +15702,7 @@
         "name": "Ballaterson Road",
         "postal_code": "IM5 1BJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -18197,16 +18181,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.491124,
-            54.158705
+            -4.491113,
+            54.158709
           ],
           [
-            -4.490656,
-            54.158284
+            -4.490634,
+            54.158295
           ],
           [
-            -4.490338,
-            54.158017
+            -4.490325,
+            54.158028
           ]
         ]
       },
@@ -39894,7 +39878,7 @@
         "oneway": "yes",
         "postal_code": "IM5 1BN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     }
   ]

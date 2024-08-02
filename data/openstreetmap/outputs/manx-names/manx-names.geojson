@@ -8129,6 +8129,45 @@
     },
     {
       "type": "Feature",
+      "id": 25986079,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.686359,
+            54.220485
+          ],
+          [
+            -4.686478,
+            54.220512
+          ],
+          [
+            -4.68701,
+            54.220612
+          ],
+          [
+            -4.687694,
+            54.220738
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroo Coar",
+        "name:gv": "Kerroo Coar",
+        "oneway": "yes",
+        "surface": "paved",
+        "osm_id": 25986079,
+        "lon": -4.687025966477056,
+        "lat": 54.22061413518485,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986079"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986080,
       "geometry": {
         "type": "LineString",
@@ -9802,6 +9841,7 @@
         "name": "Old School Hill",
         "name:en": "Old School Hill",
         "name:gv": "Cronk Y Shenn Scoill",
+        "surface": "asphalt",
         "osm_id": 25986287,
         "lon": -4.3946710502344635,
         "lat": 54.22445140614644,
@@ -10600,10 +10640,12 @@
       "properties": {
         "abutters": "retail",
         "highway": "unclassified",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Station Place",
         "name:en": "Station Place",
         "name:gv": "Ynnyd y Stashoon",
+        "surface": "asphalt",
         "osm_id": 25986483,
         "lon": -4.697294206802748,
         "lat": 54.22211741788239,
@@ -10662,8 +10704,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482082,
-            54.158942
+            -4.482039,
+            54.158924
           ],
           [
             -4.481715,
@@ -10698,8 +10740,8 @@
         "name:en": "Falcon Street Lane",
         "name:gv": "Lhoan Straid Shirragh",
         "osm_id": 25986501,
-        "lon": -4.481569196354627,
-        "lat": 54.158228719538336,
+        "lon": -4.481554537521313,
+        "lat": 54.15821464193059,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986501"
       }
@@ -11267,6 +11309,36 @@
         "lat": 54.20268259136353,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986595"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986598,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.687805,
+            54.220453
+          ],
+          [
+            -4.687971,
+            54.220514
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroo Coar",
+        "name:gv": "Kerroo Coar",
+        "surface": "paved",
+        "osm_id": 25986598,
+        "lon": -4.687888,
+        "lat": 54.2204835,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986598"
       }
     },
     {
@@ -21669,6 +21741,48 @@
     },
     {
       "type": "Feature",
+      "id": 25987781,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.685982,
+            54.220956
+          ],
+          [
+            -4.686668,
+            54.22113
+          ],
+          [
+            -4.686834,
+            54.221167
+          ],
+          [
+            -4.686969,
+            54.221177
+          ],
+          [
+            -4.687032,
+            54.221173
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroo Coar",
+        "name:gv": "Kerroo Coar",
+        "surface": "paved",
+        "osm_id": 25987781,
+        "lon": -4.686504443862479,
+        "lat": 54.22108363781812,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987781"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987793,
       "geometry": {
         "type": "LineString",
@@ -23487,6 +23601,7 @@
         ]
       },
       "properties": {
+        "bicycle": "dismount",
         "highway": "pedestrian",
         "motor_vehicle:loading": "Mo-Sa 10:00-17:00",
         "name": "Marina Road",
@@ -23977,13 +24092,14 @@
       "properties": {
         "abutters": "residential",
         "highway": "trunk",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Tynwald Road",
         "name:en": "Tynwald Road",
         "name:gv": "Bayr Tinvaal",
         "ref": "A1",
         "sidewalk:right": "separate",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988201,
         "lon": -4.689405407222125,
         "lat": 54.21936094402664,
@@ -24349,6 +24465,10 @@
             54.159079
           ],
           [
+            -4.492961,
+            54.159097
+          ],
+          [
             -4.492587,
             54.159283
           ],
@@ -24375,8 +24495,8 @@
         "postal_code": "IM2 3NN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25988268,
-        "lon": -4.491922680880125,
-        "lat": 54.15962034661312,
+        "lon": -4.491922652956306,
+        "lat": 54.15962028261508,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988268"
       }
@@ -25128,7 +25248,7 @@
         "name": "Lake Lane",
         "name:en": "Lake Lane",
         "name:gv": "Bayr ny Loghan",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988387,
         "lon": -4.696689109497887,
         "lat": 54.22231594280751,
@@ -27294,6 +27414,72 @@
         "lat": 54.28397562723846,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988633"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988643,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.687396,
+            54.220144
+          ],
+          [
+            -4.687211,
+            54.220115
+          ],
+          [
+            -4.687116,
+            54.220065
+          ],
+          [
+            -4.686943,
+            54.219983
+          ],
+          [
+            -4.686773,
+            54.220044
+          ],
+          [
+            -4.68664,
+            54.220133
+          ],
+          [
+            -4.686528,
+            54.220259
+          ],
+          [
+            -4.686457,
+            54.220353
+          ],
+          [
+            -4.686359,
+            54.220485
+          ],
+          [
+            -4.685982,
+            54.220956
+          ],
+          [
+            -4.685726,
+            54.2213
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroo Coar",
+        "name:gv": "Kerroo Coar",
+        "surface": "asphalt",
+        "osm_id": 25988643,
+        "lon": -4.686475376449113,
+        "lat": 54.22048123085173,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988643"
       }
     },
     {
@@ -33626,7 +33812,7 @@
         "name": "Victoria Road",
         "name:en": "Victoria Road",
         "name:gv": "Raad Barriaght",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25989482,
         "lon": -4.696884618751473,
         "lat": 54.22457481106903,
@@ -34903,6 +35089,52 @@
         "lat": 54.160750918096696,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989656"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989668,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.688019,
+            54.220475
+          ],
+          [
+            -4.687971,
+            54.220514
+          ],
+          [
+            -4.687694,
+            54.220738
+          ],
+          [
+            -4.687657,
+            54.220768
+          ],
+          [
+            -4.687326,
+            54.221036
+          ],
+          [
+            -4.687032,
+            54.221173
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Kerroo Coar",
+        "name:gv": "Kerroo Coar",
+        "surface": "paved",
+        "osm_id": 25989668,
+        "lon": -4.687540860786014,
+        "lat": 54.22084859389264,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989668"
       }
     },
     {
@@ -75239,12 +75471,13 @@
       "properties": {
         "abutters": "residential",
         "highway": "tertiary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Queens Drive",
         "name:en": "Queens Drive",
         "name:gv": "Imman y Venrein",
         "sidewalk:both": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 436673355,
         "lon": -4.693010332830157,
         "lat": 54.22035314511972,
@@ -75525,12 +75758,13 @@
       "properties": {
         "abutters": "residential",
         "highway": "tertiary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Queens Drive",
         "name:en": "Queens Drive",
         "name:gv": "Imman y Venrein",
         "sidewalk:both": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 436983774,
         "lon": -4.6940975,
         "lat": 54.2208875,
@@ -89501,13 +89735,14 @@
       "properties": {
         "abutters": "residential",
         "highway": "trunk",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Douglas Road",
         "name:en": "Douglas Road",
         "name:gv": "Bayr Tinvaal",
         "ref": "A1",
         "sidewalk:right": "separate",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1105655962,
         "lon": -4.685742928060301,
         "lat": 54.21721773606965,
@@ -93891,7 +94126,7 @@
         "name:gv": "Bayr Tinvaal",
         "ref": "A1",
         "sidewalk:both": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1203500464,
         "lon": -4.690505610412798,
         "lat": 54.21997330357216,
@@ -95615,7 +95850,7 @@
         "oneway": "yes",
         "postal_code": "IM5 1BN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1300041091,
         "lon": -4.693984779596049,
         "lat": 54.221382619496744,

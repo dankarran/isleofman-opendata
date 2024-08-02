@@ -269,32 +269,6 @@
     },
     {
       "type": "Feature",
-      "id": 455952598,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.475331,
-          54.148874
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housename": "Peveril Building",
-        "addr:housenumber": "6/7",
-        "addr:street": "Loch Promenade",
-        "amenity": "bar",
-        "name": "Bordello's",
-        "postal_code": "IM1 2BT",
-        "website": "http://www.bordellowinebar.co.uk",
-        "osm_id": 455952598,
-        "lon": -4.475331,
-        "lat": 54.148874,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/455952598"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 456430223,
       "geometry": {
         "type": "Point",
@@ -10045,64 +10019,6 @@
         "lat": 54.22269783536322,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/147191861"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 147204825,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.688066,
-            54.224725
-          ],
-          [
-            -4.687959,
-            54.224759
-          ],
-          [
-            -4.68799,
-            54.224791
-          ],
-          [
-            -4.687949,
-            54.224805
-          ],
-          [
-            -4.688027,
-            54.224886
-          ],
-          [
-            -4.688143,
-            54.224848
-          ],
-          [
-            -4.688115,
-            54.22482
-          ],
-          [
-            -4.688147,
-            54.224809
-          ],
-          [
-            -4.688066,
-            54.224725
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "10",
-        "addr:street": "Marine Parade",
-        "amenity": "cafe",
-        "building": "yes",
-        "osm_id": 147204825,
-        "lon": -4.688047920921186,
-        "lat": 54.224805711902405,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/147204825"
       }
     },
     {

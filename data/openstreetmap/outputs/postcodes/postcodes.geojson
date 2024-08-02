@@ -7137,133 +7137,6 @@
     },
     {
       "type": "Feature",
-      "id": 10739841166,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.492975,
-          54.157142
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "44",
-        "addr:postcode": "IM2 3NA",
-        "addr:street": "Albany Road",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739841166,
-        "lon": -4.492975,
-        "lat": 54.157142,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739841166"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739841167,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.491975,
-          54.157549
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "34",
-        "addr:postcode": "IM2 3NA",
-        "addr:street": "Albany Road",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739841167,
-        "lon": -4.491975,
-        "lat": 54.157549,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739841167"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739841168,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.491873,
-          54.157589
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "32",
-        "addr:postcode": "IM2 3NA",
-        "addr:street": "Albany Road",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739841168,
-        "lon": -4.491873,
-        "lat": 54.157589,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739841168"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739841169,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.49305,
-          54.157114
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "46",
-        "addr:postcode": "IM2 3NA",
-        "addr:street": "Albany Road",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739841169,
-        "lon": -4.49305,
-        "lat": 54.157114,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739841169"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739841170,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.493143,
-          54.157078
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Bleng",
-        "addr:housenumber": "48",
-        "addr:postcode": "IM2 3NA",
-        "addr:street": "Albany Road",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10739841170,
-        "lon": -4.493143,
-        "lat": 54.157078,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739841170"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10740059374,
       "geometry": {
         "type": "Point",
@@ -25856,6 +25729,63 @@
         "lat": 54.14861355884546,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62118205"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62118219,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47537,
+            54.148691
+          ],
+          [
+            -4.475449,
+            54.148709
+          ],
+          [
+            -4.475382,
+            54.148841
+          ],
+          [
+            -4.475415,
+            54.14885
+          ],
+          [
+            -4.475372,
+            54.148931
+          ],
+          [
+            -4.47526,
+            54.1489
+          ],
+          [
+            -4.475311,
+            54.1488
+          ],
+          [
+            -4.47537,
+            54.148691
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Peveril Building",
+        "addr:housenumber": "6/7",
+        "addr:postcode": "IM1 2BT",
+        "addr:street": "Loch Promenade",
+        "building": "yes",
+        "old_name": "Bordello's",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "was:amenity": "bar",
+        "osm_id": 62118219,
+        "lon": -4.475361021162592,
+        "lat": 54.148814607053936,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/62118219"
       }
     },
     {
@@ -155003,6 +154933,392 @@
         "lat": 54.15694799549937,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1302875645"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304642224,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492956,
+            54.157079
+          ],
+          [
+            -4.492983,
+            54.157068
+          ],
+          [
+            -4.492972,
+            54.157058
+          ],
+          [
+            -4.49303,
+            54.157034
+          ],
+          [
+            -4.493044,
+            54.157046
+          ],
+          [
+            -4.493136,
+            54.157123
+          ],
+          [
+            -4.493109,
+            54.157134
+          ],
+          [
+            -4.493159,
+            54.157176
+          ],
+          [
+            -4.493149,
+            54.15718
+          ],
+          [
+            -4.493188,
+            54.157212
+          ],
+          [
+            -4.49314,
+            54.157232
+          ],
+          [
+            -4.493098,
+            54.157197
+          ],
+          [
+            -4.492956,
+            54.157079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "46",
+        "addr:postcode": "IM2 3NA",
+        "addr:street": "Albany Road",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1304642224,
+        "lon": -4.493076307869334,
+        "lat": 54.15713185213497,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304642224"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304642225,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492956,
+            54.157079
+          ],
+          [
+            -4.492923,
+            54.157093
+          ],
+          [
+            -4.492907,
+            54.157093
+          ],
+          [
+            -4.492893,
+            54.157098
+          ],
+          [
+            -4.49289,
+            54.157109
+          ],
+          [
+            -4.492893,
+            54.157117
+          ],
+          [
+            -4.492905,
+            54.157121
+          ],
+          [
+            -4.49292,
+            54.157121
+          ],
+          [
+            -4.492941,
+            54.157138
+          ],
+          [
+            -4.492918,
+            54.157148
+          ],
+          [
+            -4.493017,
+            54.157229
+          ],
+          [
+            -4.492977,
+            54.157246
+          ],
+          [
+            -4.493026,
+            54.157286
+          ],
+          [
+            -4.493079,
+            54.157264
+          ],
+          [
+            -4.493031,
+            54.157225
+          ],
+          [
+            -4.493098,
+            54.157197
+          ],
+          [
+            -4.492956,
+            54.157079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "44",
+        "addr:postcode": "IM2 3NA",
+        "addr:street": "Albany Road",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1304642225,
+        "lon": -4.492998038351913,
+        "lat": 54.157181996111696,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304642225"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304642226,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.493044,
+            54.157046
+          ],
+          [
+            -4.49308,
+            54.157031
+          ],
+          [
+            -4.49308,
+            54.157023
+          ],
+          [
+            -4.493087,
+            54.157015
+          ],
+          [
+            -4.493102,
+            54.157012
+          ],
+          [
+            -4.493115,
+            54.157013
+          ],
+          [
+            -4.493125,
+            54.157017
+          ],
+          [
+            -4.493132,
+            54.157026
+          ],
+          [
+            -4.493128,
+            54.157035
+          ],
+          [
+            -4.49314,
+            54.157045
+          ],
+          [
+            -4.49319,
+            54.157024
+          ],
+          [
+            -4.493238,
+            54.157064
+          ],
+          [
+            -4.493206,
+            54.157077
+          ],
+          [
+            -4.49327,
+            54.157131
+          ],
+          [
+            -4.493187,
+            54.157165
+          ],
+          [
+            -4.493136,
+            54.157123
+          ],
+          [
+            -4.493044,
+            54.157046
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Bleng",
+        "addr:housenumber": "48",
+        "addr:postcode": "IM2 3NA",
+        "addr:street": "Albany Road",
+        "building": "semidetached_house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1304642226,
+        "lon": -4.493162674344026,
+        "lat": 54.15708118639909,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304642226"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304642232,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491995,
+            54.157488
+          ],
+          [
+            -4.491894,
+            54.157529
+          ],
+          [
+            -4.491991,
+            54.157612
+          ],
+          [
+            -4.492006,
+            54.157606
+          ],
+          [
+            -4.492044,
+            54.157638
+          ],
+          [
+            -4.4921,
+            54.157615
+          ],
+          [
+            -4.492063,
+            54.157584
+          ],
+          [
+            -4.492092,
+            54.157572
+          ],
+          [
+            -4.491995,
+            54.157488
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM2 3NA",
+        "addr:street": "Albany Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1304642232,
+        "lon": -4.492007240165331,
+        "lat": 54.15756393409628,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304642232"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304642233,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491894,
+            54.157529
+          ],
+          [
+            -4.491791,
+            54.15757
+          ],
+          [
+            -4.491856,
+            54.157626
+          ],
+          [
+            -4.491831,
+            54.157636
+          ],
+          [
+            -4.491872,
+            54.15767
+          ],
+          [
+            -4.491905,
+            54.157657
+          ],
+          [
+            -4.491956,
+            54.157701
+          ],
+          [
+            -4.49205,
+            54.157664
+          ],
+          [
+            -4.491991,
+            54.157612
+          ],
+          [
+            -4.491894,
+            54.157529
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "32",
+        "addr:postcode": "IM2 3NA",
+        "addr:street": "Albany Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1304642233,
+        "lon": -4.49191442719916,
+        "lat": 54.15761894855171,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304642233"
       }
     }
   ]

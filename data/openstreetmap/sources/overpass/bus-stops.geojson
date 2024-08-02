@@ -6851,11 +6851,13 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Tynwald Inn Car Park",
         "public_transport": "platform",
-        "ref": "2317"
+        "ref": "2317",
+        "shelter": "yes"
       }
     },
     {
@@ -7815,8 +7817,11 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Tynwald Close Shelter",
         "public_transport": "platform",
         "ref": "2406",
@@ -7856,7 +7861,8 @@
         "highway": "bus_stop",
         "name": "Queens Drive",
         "public_transport": "platform",
-        "ref": "2407"
+        "ref": "2407",
+        "shelter": "no"
       }
     },
     {
@@ -7894,7 +7900,8 @@
         "highway": "bus_stop",
         "name": "Heathfield Drive",
         "public_transport": "platform",
-        "ref": "2409"
+        "ref": "2409",
+        "shelter": "no"
       }
     },
     {
@@ -7929,11 +7936,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "House Of Mannanan",
         "public_transport": "platform",
-        "ref": "2411"
+        "ref": "2411",
+        "shelter": "no"
       }
     },
     {
@@ -9481,7 +9492,8 @@
         "highway": "bus_stop",
         "name": "South Cape / Whitebeam",
         "public_transport": "platform",
-        "ref": "3406"
+        "ref": "3406",
+        "shelter": "no"
       }
     },
     {
