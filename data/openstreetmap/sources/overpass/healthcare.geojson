@@ -709,12 +709,15 @@
       "properties": {
         "addr:city": "Castletown",
         "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM9 1AD",
         "addr:street": "Malew Street",
         "amenity": "pharmacy",
         "building": "yes",
         "building:colour": "blue",
         "building:levels": "3",
         "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/CastlePharmacyIOM/",
         "healthcare": "pharmacy",
         "name": "Castle Pharmacy"
       }
@@ -2185,7 +2188,8 @@
         "contact:phone": "+44 1624 623001",
         "contact:website": "1dentalclinic.com",
         "healthcare": "dentist",
-        "name": "1 Dental Clinic"
+        "name": "1 Dental Clinic",
+        "opening_hours": "Mo-We 09:15-13:00,14:00-17:30, Th,Fr 09:15-13:30, Th 14:30-18:30"
       }
     },
     {

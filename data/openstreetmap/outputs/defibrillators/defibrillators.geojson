@@ -611,6 +611,50 @@
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12029023066"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12094100769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697465,
+          54.224541
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "On the wall facing the harbour",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12094100769,
+        "lon": -4.697465,
+        "lat": 54.224541,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12094100769"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12100709469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473076,
+          54.148296
+        ]
+      },
+      "properties": {
+        "access": "permissive",
+        "defibrillator:location": "Next to gents toilet entrance on wall",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "wheelchair": "yes",
+        "osm_id": 12100709469,
+        "lon": -4.473076,
+        "lat": 54.148296,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12100709469"
+      }
     }
   ]
 }

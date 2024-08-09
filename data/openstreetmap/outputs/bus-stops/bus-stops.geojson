@@ -551,20 +551,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481259,
-          54.150387
+          -4.481057,
+          54.150265
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Prospect Hill",
         "public_transport": "platform",
         "ref": "129",
         "shelter": "yes",
         "osm_id": 685539625,
-        "lon": -4.481259,
-        "lat": 54.150387,
+        "lon": -4.481057,
+        "lat": 54.150265,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/685539625"
       }
@@ -580,8 +583,11 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Prospect Hill / Finch Road",
         "public_transport": "platform",
         "ref": "10107",
@@ -2161,8 +2167,11 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Peel Town Hall",
         "public_transport": "platform",
         "ref": "2414",
@@ -2580,6 +2589,8 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Braddan Bridge / Douglas Road Layby",
@@ -2628,11 +2639,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Trollaby Lane",
         "public_transport": "platform",
         "ref": "1903",
+        "shelter": "no",
         "osm_id": 1830297913,
         "lon": -4.528122,
         "lat": 54.170569,
@@ -2674,9 +2688,12 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "shelter": "no",
         "osm_id": 1830297916,
         "lon": -4.552821,
         "lat": 54.176114,
@@ -2860,8 +2877,10 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Crosby Shelter",
         "public_transport": "platform",
         "ref": "2104",
@@ -4168,6 +4187,7 @@
         "bus": "yes",
         "departures_board": "timetable",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Peel Road Brown Bobby",
         "operator": "Bus Vannin",
         "public_transport": "platform",
@@ -4811,11 +4831,14 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Strang Crossroads Phonebox",
         "public_transport": "platform",
         "ref": "1807",
+        "shelter": "yes",
         "osm_id": 6737245072,
         "lon": -4.511417,
         "lat": 54.172684,
@@ -4954,21 +4977,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.501167,
-          54.154921
+          -4.501126,
+          54.154797
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Peel Road Quarterbridge Shelter",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "114 / 120101",
+        "shelter": "yes",
         "osm_id": 9179844236,
-        "lon": -4.501167,
-        "lat": 54.154921,
+        "lon": -4.501126,
+        "lat": 54.154797,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179844236"
       }
@@ -4984,8 +5011,11 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Harris Promenade / Gaiety Theatre",
         "public_transport": "platform",
         "ref": "118",
@@ -5015,6 +5045,7 @@
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "113",
+        "surface": "asphalt",
         "osm_id": 9179851518,
         "lon": -4.499354,
         "lat": 54.152012,
@@ -7556,6 +7587,8 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballanawin",
@@ -7971,6 +8004,8 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballagarey Entrance",
@@ -8135,11 +8170,13 @@
         ]
       },
       "properties": {
+        "bench": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Cedar Lodge",
         "public_transport": "platform",
         "ref": "2101",
+        "shelter": "no",
         "osm_id": 9186767428,
         "lon": -4.562673,
         "lat": 54.182292,
@@ -8153,19 +8190,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.562915,
-          54.182523
+          -4.563177,
+          54.182581
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Woodlea Villas",
         "public_transport": "platform",
         "ref": "2102",
+        "shelter": "no",
         "osm_id": 9186767429,
-        "lon": -4.562915,
-        "lat": 54.182523,
+        "lon": -4.563177,
+        "lat": 54.182581,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9186767429"
       }
@@ -8209,6 +8249,7 @@
         "name": "Ballavitchell Road",
         "public_transport": "platform",
         "ref": "2108",
+        "shelter": "no",
         "osm_id": 9186767431,
         "lon": -4.572297,
         "lat": 54.186479,
@@ -8245,8 +8286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.594265,
-          54.193362
+          -4.594481,
+          54.193397
         ]
       },
       "properties": {
@@ -8255,9 +8296,10 @@
         "name": "Appledene",
         "public_transport": "platform",
         "ref": "2203",
+        "shelter": "no",
         "osm_id": 9186767433,
-        "lon": -4.594265,
-        "lat": 54.193362,
+        "lon": -4.594481,
+        "lat": 54.193397,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9186767433"
       }
@@ -8361,8 +8403,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.609969,
-          54.197198
+          -4.609704,
+          54.197166
         ]
       },
       "properties": {
@@ -8372,8 +8414,8 @@
         "public_transport": "platform",
         "ref": "2208",
         "osm_id": 9186767438,
-        "lon": -4.609969,
-        "lat": 54.197198,
+        "lon": -4.609704,
+        "lat": 54.197166,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9186767438"
       }
@@ -8389,11 +8431,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Kerrowgarrow Road",
         "public_transport": "platform",
         "ref": "2210",
+        "shelter": "no",
         "osm_id": 9186767439,
         "lon": -4.61525,
         "lat": 54.19758,
@@ -8716,11 +8761,14 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Tynwald Inn Shelter",
         "public_transport": "platform",
         "ref": "2316",
+        "shelter": "yes",
         "osm_id": 9186788277,
         "lon": -4.643413,
         "lat": 54.203406,
@@ -9896,6 +9944,7 @@
       },
       "properties": {
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -9949,11 +9998,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Tynwald Close",
         "public_transport": "platform",
         "ref": "2405",
+        "shelter": "no",
         "osm_id": 9189749119,
         "lon": -4.689236,
         "lat": 54.219191,
@@ -9997,8 +10050,10 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Tynwald Road Shelter",
         "public_transport": "platform",
         "ref": "2408",
@@ -10300,19 +10355,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.687244,
-          54.221724
+          -4.686838,
+          54.221651
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Derby Road / Shoprite",
         "public_transport": "platform",
         "ref": "2431",
+        "shelter": "no",
         "osm_id": 9189749135,
-        "lon": -4.687244,
-        "lat": 54.221724,
+        "lon": -4.686838,
+        "lat": 54.221651,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9189749135"
       }
@@ -10328,11 +10387,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Derby Road No.44",
         "public_transport": "platform",
         "ref": "2432",
+        "shelter": "no",
         "osm_id": 9189749136,
         "lon": -4.687035,
         "lat": 54.221589,
@@ -13394,6 +13457,7 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Western Swimming Pool entrance, Derby Road",
         "public_transport": "platform",
         "ref": "891085040125",
@@ -17336,19 +17400,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481208,
-          54.148388
+          -4.480947,
+          54.148426
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Lord Street / Salvation Army",
         "public_transport": "platform",
         "ref": "20163",
+        "shelter": "no",
         "osm_id": 9192945252,
-        "lon": -4.481208,
-        "lat": 54.148388,
+        "lon": -4.480947,
+        "lat": 54.148426,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192945252"
       }
@@ -21560,9 +21628,12 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
+        "shelter": "yes",
         "osm_id": 10289908783,
         "lon": -4.499062,
         "lat": 54.151655,
@@ -21644,9 +21715,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Peel Promenade, Yacht Club",
         "public_transport": "platform",
+        "shelter": "no",
         "osm_id": 11076921059,
         "lon": -4.696358,
         "lat": 54.224413,

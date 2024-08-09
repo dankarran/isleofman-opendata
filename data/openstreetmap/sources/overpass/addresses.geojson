@@ -1729,6 +1729,7 @@
         "brand": "Millets",
         "brand:wikidata": "Q64822903",
         "name": "Millets",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 10:00-16:00",
         "shop": "outdoor",
         "source": "photo",
         "website": "https://www.millets.co.uk/stores/isle-of-man-store"
@@ -8034,6 +8035,26 @@
     },
     {
       "type": "Feature",
+      "id": 12097395612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.668856,
+          54.203893
+        ]
+      },
+      "properties": {
+        "addr:housename": "Ballabrooie",
+        "addr:postcode": "IM4 3BR",
+        "addr:street": "Patrick Road",
+        "fixme": "confirm location",
+        "name": "Green Mann Spring",
+        "shop": "water",
+        "website": "https://www.greenmannspring.com"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -11216,6 +11237,44 @@
         "shop": "supermarket",
         "website": "https://www.tesco.com/store-locator/douglas/little-switzerland",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59284209,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469894,
+            54.165141
+          ],
+          [
+            -4.469707,
+            54.165287
+          ],
+          [
+            -4.469203,
+            54.165066
+          ],
+          [
+            -4.469391,
+            54.16492
+          ],
+          [
+            -4.469894,
+            54.165141
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Millennium House",
+        "addr:postcode": "IM2 4RW",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "name": "Millennium House",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -21046,6 +21105,52 @@
     },
     {
       "type": "Feature",
+      "id": 60928927,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478877,
+            54.150211
+          ],
+          [
+            -4.479117,
+            54.150211
+          ],
+          [
+            -4.479133,
+            54.150298
+          ],
+          [
+            -4.478895,
+            54.150308
+          ],
+          [
+            -4.478877,
+            54.150211
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "brand": "Card Factory",
+        "brand:wikidata": "Q5038192",
+        "brand:wikipedia": "en:Card Factory",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "name": "Card Factory",
+        "operator": "SandpiperCI",
+        "shop": "gift",
+        "website": "https://www.sandpiperci.com/brands/card-factory/strand-street/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60930657,
       "geometry": {
         "type": "LineString",
@@ -29375,7 +29480,7 @@
         "addr:housenumber": "11",
         "addr:postcode": "IM1 1LD",
         "addr:street": "Athol Street",
-        "building": "yes",
+        "building": "house",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -29415,7 +29520,7 @@
         "addr:housenumber": "9",
         "addr:postcode": "IM1 1LD",
         "addr:street": "Athol Street",
-        "building": "yes",
+        "building": "house",
         "listed_status": "Registered",
         "old_name": "Isle of Man Times",
         "ref:registered_building": "198",
@@ -29460,7 +29565,7 @@
         "addr:housenumber": "7",
         "addr:postcode": "IM1 1LD",
         "addr:street": "Athol Street",
-        "building": "yes",
+        "building": "house",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -39290,6 +39395,195 @@
     },
     {
       "type": "Feature",
+      "id": 99608774,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655821,
+            54.075786
+          ],
+          [
+            -4.655894,
+            54.075738
+          ],
+          [
+            -4.655993,
+            54.075791
+          ],
+          [
+            -4.655946,
+            54.075821
+          ],
+          [
+            -4.656008,
+            54.075854
+          ],
+          [
+            -4.655981,
+            54.075871
+          ],
+          [
+            -4.655821,
+            54.075786
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM9 1LY",
+        "addr:street": "The Crofts",
+        "building": "house",
+        "name": "Croft End",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "chalet",
+        "website": "https://www.islandescapes.im/property/642345"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99608782,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655574,
+            54.075706
+          ],
+          [
+            -4.655642,
+            54.075745
+          ],
+          [
+            -4.655697,
+            54.075712
+          ],
+          [
+            -4.655677,
+            54.075701
+          ],
+          [
+            -4.655582,
+            54.075645
+          ],
+          [
+            -4.655526,
+            54.075678
+          ],
+          [
+            -4.655574,
+            54.075706
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:postcode": "IM9 1LP",
+        "addr:street": "The Crofts",
+        "addr:substreet": "Albert Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99608798,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655462,
+            54.075705
+          ],
+          [
+            -4.655436,
+            54.075721
+          ],
+          [
+            -4.655467,
+            54.075739
+          ],
+          [
+            -4.655441,
+            54.075756
+          ],
+          [
+            -4.655527,
+            54.075807
+          ],
+          [
+            -4.655588,
+            54.075778
+          ],
+          [
+            -4.655462,
+            54.075705
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:postcode": "IM9 1LP",
+        "addr:street": "The Crofts",
+        "addr:substreet": "Albert Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99608824,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655574,
+            54.075706
+          ],
+          [
+            -4.655552,
+            54.07572
+          ],
+          [
+            -4.655494,
+            54.075686
+          ],
+          [
+            -4.655462,
+            54.075705
+          ],
+          [
+            -4.655588,
+            54.075778
+          ],
+          [
+            -4.655642,
+            54.075745
+          ],
+          [
+            -4.655574,
+            54.075706
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:postcode": "IM9 1LP",
+        "addr:street": "The Crofts",
+        "addr:substreet": "Albert Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 99608826,
       "geometry": {
         "type": "LineString",
@@ -39359,6 +39653,61 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632021/0500261regbldcrofton.pdf",
         "wikidata": "Q118188629"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99608856,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655527,
+            54.075807
+          ],
+          [
+            -4.655435,
+            54.075853
+          ],
+          [
+            -4.655419,
+            54.075839
+          ],
+          [
+            -4.655367,
+            54.075793
+          ],
+          [
+            -4.655398,
+            54.075779
+          ],
+          [
+            -4.655362,
+            54.075755
+          ],
+          [
+            -4.655406,
+            54.075733
+          ],
+          [
+            -4.655441,
+            54.075756
+          ],
+          [
+            -4.655527,
+            54.075807
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:postcode": "IM9 1LP",
+        "addr:street": "The Crofts",
+        "addr:substreet": "Albert Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -39488,6 +39837,62 @@
         "source": "survey;photo;Bing",
         "url:registered_building": "https://www.gov.im/media/631649/0500017regbldmanannanhouse.pdf",
         "wikidata": "Q118188576"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99861954,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.654017,
+            54.074211
+          ],
+          [
+            -4.65396,
+            54.07421
+          ],
+          [
+            -4.653977,
+            54.074174
+          ],
+          [
+            -4.654034,
+            54.074175
+          ],
+          [
+            -4.654101,
+            54.074146
+          ],
+          [
+            -4.654196,
+            54.074236
+          ],
+          [
+            -4.654085,
+            54.074273
+          ],
+          [
+            -4.654017,
+            54.074211
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM9 1AD",
+        "addr:street": "Malew Street",
+        "amenity": "pharmacy",
+        "building": "yes",
+        "building:colour": "blue",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/CastlePharmacyIOM/",
+        "healthcare": "pharmacy",
+        "name": "Castle Pharmacy"
       }
     },
     {
@@ -61533,6 +61938,7 @@
         "addr:postcode": "IM5 1AR",
         "addr:street": "East Quay",
         "building": "yes",
+        "fee": "no",
         "name": "The Leece Museum",
         "postal_code": "IM5 1AR",
         "tourism": "museum",
@@ -61724,7 +62130,6 @@
         "amenity": "restaurant",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/harbourlightspeel/",
-        "fixme": "is Harbour Lights still open? Website gone and last socials in April 2023",
         "name": "Harbour Lights",
         "toilets:wheelchair": "no",
         "wheelchair": "no"
@@ -69365,18 +69770,10 @@
         "addr:country": "IM",
         "addr:postcode": "IM5 1AR",
         "addr:street": "East Quay",
-        "amenity": "fast_food",
+        "amenity": "ice_cream",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/quaysidefishandchip",
-        "contact:phone": "+44 1624 845460",
-        "cuisine": "fish_and_chips",
-        "indoor_seating": "no",
-        "name": "Quayside Fish and Chip Shop",
-        "old_name": "Waters Edge",
-        "operator": "Peel Fisheries",
-        "outdoor_seating": "yes",
-        "source:addr:postcode": "Isle of Man Government Companies Registry",
-        "takeaway": "yes"
+        "name": "Gelatory",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -71931,6 +72328,8 @@
         "addr:place": "Springham Park",
         "addr:postcode": "IM2 2QR",
         "addr:unit": "4",
+        "brand": "Pets at Home",
+        "brand:wikidata": "Q7179258",
         "building": "industrial",
         "name": "Pets at Home",
         "shop": "pet"
@@ -83619,7 +84018,7 @@
         "addr:postcode": "IM1 4LA",
         "addr:street": "North Quay",
         "amenity": "bar",
-        "building": "yes",
+        "building": "retail",
         "contact:facebook": "https://www.facebook.com/barbarycoastisleofman/",
         "description": "Grill & bar",
         "name": "The Barbary Coast",
@@ -93330,6 +93729,7 @@
         "building:levels": "3",
         "building:material": "plaster",
         "name": "Butlers",
+        "opening_hours": "Mo-Fr 09:30-17:00; Sa 09:00-17:00",
         "shop": "interior_decoration",
         "source": "Bing;photograph",
         "website": "https://www.butlers-choice.co.uk/"
@@ -93506,6 +93906,7 @@
         "building": "retail",
         "building:levels": "3",
         "name": "The Book Company",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 11:00-16:30",
         "shop": "books;jewelry;gift;",
         "source": "survey"
       }
@@ -94244,6 +94645,48 @@
         "postal_code": "IM1 2FD",
         "source": "Bing;photograph",
         "website": "https://www.boots.com/stores/1153-isle-of-man-douglas-im1-2ee"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 418111624,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478433,
+            54.150843
+          ],
+          [
+            -4.478418,
+            54.150782
+          ],
+          [
+            -4.478893,
+            54.150744
+          ],
+          [
+            -4.478906,
+            54.150802
+          ],
+          [
+            -4.478433,
+            54.150843
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "26-30",
+        "addr:postcode": "IM1 2EG",
+        "addr:street": "Strand Street",
+        "brand": "Holland & Barrett",
+        "brand:wikidata": "Q5880870",
+        "brand:wikipedia": "en:Holland & Barrett",
+        "name": "Holland & Barrett",
+        "shop": "health_food",
+        "website": "https://www.hollandandbarrett.com/"
       }
     },
     {
@@ -95101,6 +95544,69 @@
         "shop": "chemist",
         "source": "Bing;photograph",
         "website": "https://www.superdrug.com/store/douglas-iom"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419070477,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478907,
+            54.150364
+          ],
+          [
+            -4.478919,
+            54.150432
+          ],
+          [
+            -4.47914,
+            54.150424
+          ],
+          [
+            -4.47914,
+            54.150395
+          ],
+          [
+            -4.479156,
+            54.150395
+          ],
+          [
+            -4.479171,
+            54.150395
+          ],
+          [
+            -4.479149,
+            54.150351
+          ],
+          [
+            -4.478907,
+            54.150364
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7/7a",
+        "addr:postcode": "IM1 2ED",
+        "addr:street": "Strand Street",
+        "brand": "Hays Travel",
+        "brand:wikidata": "Q70250954",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "check_date": "2024-07-29",
+        "check_date:opening_hours": "2024-07-29",
+        "contact:facebook": "https://facebook.com/HaysTravelDouglas",
+        "name": "Hays Travel",
+        "opening_hours": "Mo 09:15-17:00; Tu 09:30-17:00; We-Sa 09:15-17:00; Su closed",
+        "phone": "+44 1624 671155",
+        "shop": "travel_agency",
+        "source": "Bing;photograph",
+        "website": "https://www.haystravel.co.uk/branches/douglas/"
       }
     },
     {

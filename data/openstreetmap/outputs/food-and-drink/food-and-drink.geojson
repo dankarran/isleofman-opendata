@@ -3209,6 +3209,32 @@
     },
     {
       "type": "Feature",
+      "id": 12093529788,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.654579,
+          54.074489
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:housenumber": "31",
+        "addr:street": "Malew Street",
+        "amenity": "restaurant",
+        "contact:facebook": "https://www.facebook.com/p/Tuscany-Restaurant-Castletown-100077888823352/",
+        "cuisine": "italian",
+        "name": "Tuscany Restaurant",
+        "source": "mapillary",
+        "osm_id": 12093529788,
+        "lon": -4.654579,
+        "lat": 54.074489,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12093529788"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38300992,
       "geometry": {
         "type": "LineString",
@@ -9308,7 +9334,6 @@
         "amenity": "restaurant",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/harbourlightspeel/",
-        "fixme": "is Harbour Lights still open? Website gone and last socials in April 2023",
         "name": "Harbour Lights",
         "toilets:wheelchair": "no",
         "wheelchair": "no",
@@ -10105,8 +10130,13 @@
       },
       "properties": {
         "amenity": "cafe",
-        "building": "yes",
+        "building": "kiosk",
+        "changing_table": "no",
+        "indoor_seating": "no",
         "name": "Peel Kiosk",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets": "no",
         "wheelchair": "yes",
         "osm_id": 147604379,
         "lon": -4.695255005917937,
@@ -10497,66 +10527,6 @@
         "lat": 54.38226851083612,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167556267"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 168817261,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.697304,
-            54.223868
-          ],
-          [
-            -4.697357,
-            54.223941
-          ],
-          [
-            -4.69748,
-            54.223917
-          ],
-          [
-            -4.697485,
-            54.223863
-          ],
-          [
-            -4.697394,
-            54.223881
-          ],
-          [
-            -4.69738,
-            54.223852
-          ],
-          [
-            -4.697304,
-            54.223868
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:postcode": "IM5 1AR",
-        "addr:street": "East Quay",
-        "amenity": "fast_food",
-        "building": "yes",
-        "contact:facebook": "https://www.facebook.com/quaysidefishandchip",
-        "contact:phone": "+44 1624 845460",
-        "cuisine": "fish_and_chips",
-        "indoor_seating": "no",
-        "name": "Quayside Fish and Chip Shop",
-        "old_name": "Waters Edge",
-        "operator": "Peel Fisheries",
-        "outdoor_seating": "yes",
-        "source:addr:postcode": "Isle of Man Government Companies Registry",
-        "takeaway": "yes",
-        "osm_id": 168817261,
-        "lon": -4.69739844134101,
-        "lat": 54.223893046294315,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/168817261"
       }
     },
     {
@@ -11078,7 +11048,7 @@
         "addr:postcode": "IM1 4LA",
         "addr:street": "North Quay",
         "amenity": "bar",
-        "building": "yes",
+        "building": "retail",
         "contact:facebook": "https://www.facebook.com/barbarycoastisleofman/",
         "description": "Grill & bar",
         "name": "The Barbary Coast",
@@ -12772,13 +12742,15 @@
         "addr:country": "IM",
         "addr:housenumber": "24",
         "addr:street": "Castle Street",
-        "amenity": "cafe",
+        "amenity": "restaurant",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "cuisine": "greek",
-        "name": "Greek Food Story",
+        "check_date:opening_hours": "2024-08-04",
+        "cuisine": "indian",
+        "name": "Orange Indya",
+        "opening_hours:signed": "no",
         "source": "Bing;photograph;survey",
         "osm_id": 415157502,
         "lon": -4.478840474862639,
@@ -16776,6 +16748,51 @@
         "lat": 54.0926553239667,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1286650367"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1306229008,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.6974,
+            54.224887
+          ],
+          [
+            -4.697387,
+            54.224868
+          ],
+          [
+            -4.697333,
+            54.224881
+          ],
+          [
+            -4.697346,
+            54.2249
+          ],
+          [
+            -4.6974,
+            54.224887
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "building": "kiosk",
+        "changing_table": "no",
+        "cuisine": "seafood",
+        "indoor_seating": "no",
+        "name": "Fish Bar",
+        "shop": "seafood",
+        "toilets": "no",
+        "wheelchair": "yes",
+        "osm_id": 1306229008,
+        "lon": -4.697366500000001,
+        "lat": 54.22488400000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1306229008"
       }
     }
   ]

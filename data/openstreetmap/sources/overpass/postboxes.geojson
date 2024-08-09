@@ -1123,9 +1123,11 @@
       },
       "properties": {
         "amenity": "post_box",
-        "fixme": "check mounting, streetside (2018) suggests pole mounted",
+        "collection_times": "Mo-Fr 10:00",
         "operator": "Isle of Man Post",
-        "post_box:type": "wall"
+        "post_box:type": "lamp",
+        "ref:signed": "no",
+        "royal_cypher": "no"
       }
     },
     {
@@ -1968,9 +1970,11 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
         "name": "Shore Road",
         "post_box:type": "lamp",
-        "ref": "173"
+        "ref": "173",
+        "royal_cypher": "EIIR"
       }
     },
     {
@@ -2310,11 +2314,13 @@
       "properties": {
         "amenity": "post_box",
         "check_date": "2024-06-21",
+        "collection_times:signed": "no",
         "colour": "red",
         "manufacturer": "Carronade Engineering Co Ltd Falkirk",
         "post_box:apertures": "1",
         "post_box:design": "type_k",
         "post_box:type": "pillar",
+        "ref:signed": "no",
         "royal_cypher": "EIIR"
       }
     },

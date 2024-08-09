@@ -471,6 +471,40 @@
         "emergency": "defibrillator",
         "indoor": "no"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12094100769,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697465,
+          54.224541
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "On the wall facing the harbour",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12100709469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473076,
+          54.148296
+        ]
+      },
+      "properties": {
+        "access": "permissive",
+        "defibrillator:location": "Next to gents toilet entrance on wall",
+        "emergency": "defibrillator",
+        "indoor": "yes",
+        "wheelchair": "yes"
+      }
     }
   ]
 }

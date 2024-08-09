@@ -7228,7 +7228,7 @@
         "postal_code": "IM5 1WZ",
         "source:maxweight": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25985943,
         "lon": -4.675515544223208,
         "lat": 54.22208203820467,
@@ -7784,13 +7784,15 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "40 mph",
         "name": "Braddan Road",
         "name:en": "Braddan Road",
         "name:gv": "Raad Braddan",
         "ref": "A23",
         "sidewalk:left": "separate",
-        "surface": "paved",
+        "sidewalk:right": "no",
+        "surface": "asphalt",
         "osm_id": 25986023,
         "lon": -4.509918413600868,
         "lat": 54.17063842727245,
@@ -8033,6 +8035,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Parade Street",
         "name:en": "Parade Street",
@@ -8569,6 +8572,7 @@
         "parking:left:orientation": "parallel",
         "postal_code": "IM1 1AT",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
         "osm_id": 25986103,
         "lon": -4.486437389812454,
         "lat": 54.14914943365312,
@@ -10135,7 +10139,7 @@
         "maxspeed": "40 mph",
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25986407,
         "lon": -4.510111882248735,
         "lat": 54.17081964399711,
@@ -10316,7 +10320,7 @@
         "name:gv": "Raad Braddan",
         "ref": "A23",
         "sidewalk:both": "separate",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25986419,
         "lon": -4.511739755706137,
         "lat": 54.172997175499574,
@@ -13412,6 +13416,7 @@
         "name:en": "Harris Lane",
         "name:gv": "Lhoan Harris",
         "oneway": "yes",
+        "surface": "asphalt",
         "osm_id": 25986993,
         "lon": -4.477934536940295,
         "lat": 54.14782083607735,
@@ -16033,11 +16038,13 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Bridge Street",
         "name:en": "Bridge Street",
         "name:gv": "Straid ny Droghad",
         "oneway": "yes",
+        "surface": "asphalt",
         "osm_id": 25987284,
         "lon": -4.692406938444806,
         "lat": 54.223374575499626,
@@ -20212,12 +20219,13 @@
       "properties": {
         "abutters": "residential",
         "highway": "tertiary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Albany Road",
         "name:en": "Albany Road",
         "name:gv": "Bayr ny Halbey",
         "sidewalk:both": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25987495,
         "lon": -4.690137937822646,
         "lat": 54.22111408181557,
@@ -20447,11 +20455,12 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Charles Street",
         "name:en": "Charles Street",
         "name:gv": "Straid Chalse",
-        "surface": "paved",
+        "surface": "paving_stones",
         "osm_id": 25987548,
         "lon": -4.695132071485803,
         "lat": 54.223663500824316,
@@ -20936,11 +20945,14 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Cambridge Terrace Lane",
         "name:en": "Cambridge Terrace Lane",
         "name:gv": "Lhon Strane Cambridge",
+        "sidewalk": "both",
         "source": "survey",
+        "surface": "asphalt",
         "osm_id": 25987636,
         "lon": -4.48112250182152,
         "lat": 54.15575146871605,
@@ -21462,11 +21474,12 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Trollaby Lane",
         "name:en": "Trollaby Lane",
         "name:gv": "Lhoan Trollaby",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25987726,
         "lon": -4.527767818444628,
         "lat": 54.17059706428706,
@@ -21994,6 +22007,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "service",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Mona Street",
         "name:en": "Mona Street",
@@ -22001,7 +22015,7 @@
         "oneway": "yes",
         "postal_code": "IM5 1HJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25987823,
         "lon": -4.690345755489174,
         "lat": 54.2226371001433,
@@ -22500,12 +22514,15 @@
       },
       "properties": {
         "abutters": "commercial",
+        "cycleway:both": "no",
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Crown Street",
         "name:en": "Crown Street",
         "name:gv": "Straid yn Attey",
-        "surface": "paved",
+        "sidewalk": "both",
+        "surface": "asphalt",
         "osm_id": 25987854,
         "lon": -4.69694275532288,
         "lat": 54.224260936964086,
@@ -23608,7 +23625,7 @@
         "name:en": "Marina Road",
         "name:gv": "Bayr Ny Marrey",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "surface": "paved",
+        "surface": "paving_stones",
         "osm_id": 25988095,
         "lon": -4.478802912540848,
         "lat": 54.154082867732754,
@@ -24093,6 +24110,7 @@
         "abutters": "residential",
         "highway": "trunk",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Tynwald Road",
         "name:en": "Tynwald Road",
@@ -27547,6 +27565,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "maxweight": "7.5",
         "maxweight:conditional": "none @ destination",
@@ -27555,7 +27574,7 @@
         "name:gv": "Raad Darragh",
         "oneway": "yes",
         "source:maxweight": "survey",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988671,
         "lon": -4.678562531986249,
         "lat": 54.2201874011764,
@@ -27594,6 +27613,8 @@
       "properties": {
         "cycleway": "no",
         "highway": "tertiary",
+        "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Church Street",
         "name:en": "Church Street",
@@ -28313,7 +28334,7 @@
         "name:gv": "Cronk Stanlagh",
         "postal_code": "IM5 1NE",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988733,
         "lon": -4.691594784353117,
         "lat": 54.22345201266083,
@@ -29534,7 +29555,7 @@
         "name:gv": "Ballanawin",
         "oneway": "no",
         "sidewalk": "both",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988963,
         "lon": -4.513940327455406,
         "lat": 54.17134685093892,
@@ -33807,11 +33828,14 @@
       },
       "properties": {
         "abutters": "retail",
+        "cycleway:both": "no",
         "highway": "unclassified",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Victoria Road",
         "name:en": "Victoria Road",
         "name:gv": "Raad Barriaght",
+        "sidewalk": "both",
         "surface": "asphalt",
         "osm_id": 25989482,
         "lon": -4.696884618751473,
@@ -34140,10 +34164,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482039,
-            54.153223
-          ],
-          [
             -4.481633,
             54.153205
           ],
@@ -34168,10 +34188,12 @@
         "name": "Saint Barnabas Hill",
         "name:en": "Saint Barnabas Hill",
         "name:gv": "Cronk Noo Barnabas",
+        "sidewalk": "both",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
         "osm_id": 25989514,
-        "lon": -4.481450760226097,
-        "lat": 54.15314378778189,
+        "lon": -4.481252953478054,
+        "lat": 54.15310773633685,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989514"
       }
@@ -35315,7 +35337,7 @@
         "highway": "service",
         "name": "Close Beg",
         "name:gv": "Close Beg",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25989700,
         "lon": -4.677376965606392,
         "lat": 54.220299958737456,
@@ -36164,6 +36186,7 @@
         "name:en": "Fancy Street",
         "name:gv": "Straid Fancy",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
         "osm_id": 28616203,
         "lon": -4.4801010493024975,
         "lat": 54.14873341168749,
@@ -36321,6 +36344,7 @@
         "name:gv": "Straid y Vargee",
         "oneway": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt",
         "osm_id": 28640396,
         "lon": -4.479823748338543,
         "lat": 54.15174798021764,
@@ -37191,7 +37215,7 @@
         "name:gv": "Raad Braddan",
         "ref": "A23",
         "sidewalk:both": "separate",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 28900632,
         "lon": -4.5082420935072225,
         "lat": 54.16775696341876,
@@ -37939,13 +37963,14 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Tynwald Road",
         "name:en": "Tynwald Road",
         "name:gv": "Bayr Tinvaal",
         "ref": "A1",
         "sidewalk:right": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 37805552,
         "lon": -4.691379025033739,
         "lat": 54.22048145856664,
@@ -39330,7 +39355,7 @@
         "oneway": "yes",
         "ref": "A1",
         "sidewalk:left": "separate",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 38595739,
         "lon": -4.476592915041498,
         "lat": 54.148184610071155,
@@ -39384,7 +39409,7 @@
         "oneway": "yes",
         "ref": "A1",
         "sidewalk:left": "separate",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 38595740,
         "lon": -4.476873077206141,
         "lat": 54.148350833816714,
@@ -40633,6 +40658,7 @@
         "name": "Well Road Lane",
         "name:en": "Well Road Lane",
         "name:gv": "Lhoan Raad Y Chibbyr",
+        "surface": "paving_stones",
         "osm_id": 39990372,
         "lon": -4.479423219921941,
         "lat": 54.15290348291306,
@@ -41054,7 +41080,7 @@
         "name": "Love Lane",
         "name:en": "Love Lane",
         "name:gv": "Bayr ny Graih",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 43531309,
         "lon": -4.696185741617795,
         "lat": 54.223396534202934,
@@ -41106,7 +41132,8 @@
         "name": "Orry Lane",
         "name:en": "Orry Lane",
         "name:gv": "Bayr Orree",
-        "surface": "paved",
+        "sidewalk": "no",
+        "surface": "asphalt",
         "osm_id": 43531310,
         "lon": -4.694621725449521,
         "lat": 54.22315884776689,
@@ -41550,8 +41577,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478952,
-            54.153598
+            -4.479029,
+            54.153617
           ],
           [
             -4.479205,
@@ -41565,13 +41592,15 @@
       },
       "properties": {
         "highway": "residential",
+        "lane_markings": "no",
         "name": "Frederick Street",
         "name:en": "Frederick Street",
         "name:gv": "Straid Frederick",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
         "osm_id": 59326201,
-        "lon": -4.479184502984133,
-        "lat": 54.153654987828375,
+        "lon": -4.479223010714517,
+        "lat": 54.153664456231645,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59326201"
       }
@@ -43621,7 +43650,7 @@
           ],
           [
             -4.638748,
-            54.083209
+            54.08321
           ],
           [
             -4.638827,
@@ -43730,8 +43759,8 @@
         "wikidata": "Q9001",
         "wikipedia": "en:Isle of Man Airport",
         "osm_id": 60355828,
-        "lon": -4.6247016710568785,
-        "lat": 54.08393786643162,
+        "lon": -4.624701674392261,
+        "lat": 54.083937866767435,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60355828"
       }
@@ -55937,6 +55966,7 @@
       },
       "properties": {
         "highway": "residential",
+        "lit": "yes",
         "maxspeed": "20 mph",
         "name": "Fuchsia Lane",
         "name:en": "Fuchsia Lane",
@@ -63438,6 +63468,10 @@
             54.203263
           ],
           [
+            -4.669018,
+            54.203402
+          ],
+          [
             -4.669717,
             54.203453
           ],
@@ -63618,8 +63652,8 @@
         "source:name": "Isle of Man Government 1:25000 map",
         "surface": "paved",
         "osm_id": 167315198,
-        "lon": -4.674462338731173,
-        "lat": 54.20370454070267,
+        "lon": -4.674462338130608,
+        "lat": 54.20370454879956,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167315198"
       }
@@ -65732,6 +65766,7 @@
       },
       "properties": {
         "highway": "residential",
+        "lit": "yes",
         "maxspeed": "20 mph",
         "name": "Fuchsia Lane",
         "name:en": "Fuchsia Lane",
@@ -66847,7 +66882,7 @@
         "name:en": "Trollaby Lane",
         "name:gv": "Lhoan Trollaby",
         "oneway": "no",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 172089720,
         "lon": -4.528276501480357,
         "lat": 54.17364511467534,
@@ -67146,6 +67181,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Parade Street",
         "name:en": "Parade Street",
@@ -67230,6 +67266,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Bath Place",
         "name:en": "Bath Place",
@@ -69489,6 +69526,7 @@
       },
       "properties": {
         "highway": "service",
+        "lit": "yes",
         "name": "Harris Lane",
         "name:en": "Harris Lane",
         "name:gv": "Lhoan Harris",
@@ -69534,6 +69572,7 @@
         "name:en": "Harris Lane",
         "name:gv": "Lhoan Harris",
         "oneway": "yes",
+        "surface": "asphalt",
         "osm_id": 246336688,
         "lon": -4.4777940318991885,
         "lat": 54.14780610096762,
@@ -69573,7 +69612,7 @@
         "name:gv": "Raad Balley Poer",
         "ref": "A20",
         "sidewalk:left": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 246384277,
         "lon": -4.677430885306003,
         "lat": 54.21976704827743,
@@ -71348,6 +71387,7 @@
         "name": "Laxey Wheel",
         "name:en": "Laxey Wheel",
         "name:gv": "Queeyl Vooar Laksey",
+        "opening_hours": "09:30-17:00",
         "operator": "Manx National Heritage",
         "ref:GB:imher": "0223.00",
         "start_date": "1854",
@@ -77118,6 +77158,7 @@
         "name:gv": "Straid y Vargee",
         "oneway": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "paving_stones",
         "osm_id": 463711623,
         "lon": -4.479302086582091,
         "lat": 54.15401550379339,
@@ -88851,7 +88892,7 @@
         "name:gv": "Raad Poyll Roish",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1087488016,
         "lon": -4.498580854896119,
         "lat": 54.150852091434906,
@@ -89695,10 +89736,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.682724,
-            54.215417
-          ],
-          [
             -4.68488,
             54.216701
           ],
@@ -89736,6 +89773,7 @@
         "abutters": "residential",
         "highway": "trunk",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Douglas Road",
         "name:en": "Douglas Road",
@@ -89744,8 +89782,8 @@
         "sidewalk:right": "separate",
         "surface": "asphalt",
         "osm_id": 1105655962,
-        "lon": -4.685742928060301,
-        "lat": 54.21721773606965,
+        "lon": -4.686820222638076,
+        "lat": 54.217860882052456,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1105655962"
       }
@@ -94120,6 +94158,8 @@
       "properties": {
         "abutters": "residential",
         "highway": "trunk",
+        "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Tynwald Road",
         "name:en": "Tynwald Road",
@@ -94383,7 +94423,7 @@
         "name:gv": "Raad Darragh",
         "oneway": "yes",
         "source:maxweight": "survey",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1204121396,
         "lon": -4.6786438449680885,
         "lat": 54.22020499956198,
@@ -94522,7 +94562,7 @@
         "oneway": "yes",
         "ref": "A20",
         "sidewalk:left": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1204121408,
         "lon": -4.678418617461536,
         "lat": 54.22001905188163,
@@ -94567,7 +94607,7 @@
         "oneway": "yes",
         "ref": "A20",
         "sidewalk:left": "yes",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1204121409,
         "lon": -4.678445724551408,
         "lat": 54.21997420977379,
@@ -95843,12 +95883,14 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "West View",
         "name:en": "West View",
         "name:gv": "Reayrt y Heear",
         "oneway": "yes",
         "postal_code": "IM5 1BN",
+        "sidewalk": "both",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 1300041091,
@@ -95960,6 +96002,106 @@
         "lat": 54.320785127167014,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1301270444"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1305553082,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478952,
+            54.153598
+          ],
+          [
+            -4.479029,
+            54.153617
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "name": "Frederick Street",
+        "name:en": "Frederick Street",
+        "name:gv": "Straid Frederick",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paving_stones",
+        "osm_id": 1305553082,
+        "lon": -4.4789905,
+        "lat": 54.1536075,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1305553082"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1305553243,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482039,
+            54.153223
+          ],
+          [
+            -4.481633,
+            54.153205
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxspeed": "30 mph",
+        "name": "Saint Barnabas Hill",
+        "name:en": "Saint Barnabas Hill",
+        "name:gv": "Cronk Noo Barnabas",
+        "sidewalk": "right",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 1305553243,
+        "lon": -4.481836,
+        "lat": 54.153214,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1305553243"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1305915878,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.682724,
+            54.215417
+          ],
+          [
+            -4.68488,
+            54.216701
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "trunk",
+        "lanes": "2",
+        "lit": "no",
+        "maxspeed": "30 mph",
+        "name": "Douglas Road",
+        "name:en": "Douglas Road",
+        "name:gv": "Bayr Tinvaal",
+        "ref": "A1",
+        "sidewalk:right": "separate",
+        "surface": "asphalt",
+        "osm_id": 1305915878,
+        "lon": -4.683802,
+        "lat": 54.216059,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1305915878"
       }
     }
   ]

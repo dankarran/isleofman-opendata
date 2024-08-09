@@ -3280,7 +3280,7 @@
         "postal_code": "IM5 1WZ",
         "source:maxweight": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -4234,7 +4234,8 @@
         "parking:left:authentication:disc:conditional": "yes @ (Mo-Fr 08:00-18:00)",
         "parking:left:orientation": "parallel",
         "postal_code": "IM1 1AT",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
       }
     },
     {
@@ -5110,8 +5111,8 @@
             54.316864
           ],
           [
-            -4.376236,
-            54.316764
+            -4.376121,
+            54.316744
           ]
         ]
       },
@@ -7773,12 +7774,8 @@
             54.316786
           ],
           [
-            -4.376146,
-            54.31676
-          ],
-          [
-            -4.376236,
-            54.316764
+            -4.376121,
+            54.316744
           ]
         ]
       },
@@ -10133,7 +10130,8 @@
         "maxspeed": "30 mph",
         "name": "Ballaglonney Close",
         "postal_code": "IM4 2DH",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
       }
     },
     {
@@ -12896,6 +12894,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "service",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Mona Street",
         "name:en": "Mona Street",
@@ -12903,7 +12902,7 @@
         "oneway": "yes",
         "postal_code": "IM5 1HJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -14730,10 +14729,13 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Cambridge Terrace",
         "postal_code": "IM1 3LL",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+        "sidewalk": "both",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
       }
     },
     {
@@ -15319,7 +15321,7 @@
         "name": "Glenlough Circle",
         "postal_code": "IM4 4AX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -16766,7 +16768,7 @@
         "name:gv": "Cronk Stanlagh",
         "postal_code": "IM5 1NE",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -16949,9 +16951,11 @@
         "name": "Harris Terrace",
         "oneway": "yes",
         "postal_code": "IM1 3LZ",
+        "sidewalk": "right",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:highway": "survey",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
       }
     },
     {
@@ -29747,6 +29751,7 @@
         "addr:postcode": "IM5 1AR",
         "addr:street": "East Quay",
         "building": "yes",
+        "fee": "no",
         "name": "The Leece Museum",
         "postal_code": "IM5 1AR",
         "tourism": "museum",
@@ -34393,47 +34398,6 @@
     },
     {
       "type": "Feature",
-      "id": 418111624,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478433,
-            54.150843
-          ],
-          [
-            -4.478418,
-            54.150782
-          ],
-          [
-            -4.478893,
-            54.150744
-          ],
-          [
-            -4.478906,
-            54.150802
-          ],
-          [
-            -4.478433,
-            54.150843
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "26-30",
-        "addr:street": "Strand Street",
-        "brand": "Holland & Barrett",
-        "brand:wikidata": "Q5880870",
-        "brand:wikipedia": "en:Holland & Barrett",
-        "name": "Holland & Barrett",
-        "postal_code": "IM1 2EG",
-        "shop": "health_food",
-        "website": "https://www.hollandandbarrett.com/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419070482,
       "geometry": {
         "type": "LineString",
@@ -38230,7 +38194,8 @@
         "highway": "residential",
         "name": "Ballabeg Grove",
         "postal_code": "IM4 4BA",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
       }
     },
     {
@@ -39871,12 +39836,14 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "West View",
         "name:en": "West View",
         "name:gv": "Reayrt y Heear",
         "oneway": "yes",
         "postal_code": "IM5 1BN",
+        "sidewalk": "both",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
       }

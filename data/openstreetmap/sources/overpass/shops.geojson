@@ -641,6 +641,7 @@
         "brand": "Millets",
         "brand:wikidata": "Q64822903",
         "name": "Millets",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 10:00-16:00",
         "shop": "outdoor",
         "source": "photo",
         "website": "https://www.millets.co.uk/stores/isle-of-man-store"
@@ -3283,6 +3284,56 @@
     },
     {
       "type": "Feature",
+      "id": 12090361222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.696819,
+          54.224417
+        ]
+      },
+      "properties": {
+        "self_service": "yes",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12090653555,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697462,
+          54.223151
+        ]
+      },
+      "properties": {
+        "name": "Fresh Ink Tattoo",
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12097395612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.668856,
+          54.203893
+        ]
+      },
+      "properties": {
+        "addr:housename": "Ballabrooie",
+        "addr:postcode": "IM4 3BR",
+        "addr:street": "Patrick Road",
+        "fixme": "confirm location",
+        "name": "Green Mann Spring",
+        "shop": "water",
+        "website": "https://www.greenmannspring.com"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -5012,6 +5063,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "brand": "Card Factory",
         "brand:wikidata": "Q5038192",
         "brand:wikipedia": "en:Card Factory",
@@ -5020,7 +5075,9 @@
         "building:levels": "2",
         "building:material": "plaster",
         "name": "Card Factory",
-        "shop": "gift"
+        "operator": "SandpiperCI",
+        "shop": "gift",
+        "website": "https://www.sandpiperci.com/brands/card-factory/strand-street/"
       }
     },
     {
@@ -14829,6 +14886,8 @@
         "addr:place": "Springham Park",
         "addr:postcode": "IM2 2QR",
         "addr:unit": "4",
+        "brand": "Pets at Home",
+        "brand:wikidata": "Q7179258",
         "building": "industrial",
         "name": "Pets at Home",
         "shop": "pet"
@@ -17689,6 +17748,7 @@
         "building:levels": "4",
         "building:material": "plaster",
         "name": "Joe Jennings",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 11:00-18:00; PH off",
         "shop": "bookmaker",
         "source": "photo;Bing"
       }
@@ -17832,11 +17892,13 @@
         ]
       },
       "properties": {
+        "addr:housenumber": "3",
+        "addr:street": "Granville Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Studio 1 Hair Design",
+        "name": "Vienna Hair Design",
         "shop": "hairdresser"
       }
     },
@@ -18089,6 +18151,7 @@
         "building:levels": "3",
         "building:material": "plaster",
         "name": "Butlers",
+        "opening_hours": "Mo-Fr 09:30-17:00; Sa 09:00-17:00",
         "shop": "interior_decoration",
         "source": "Bing;photograph",
         "website": "https://www.butlers-choice.co.uk/"
@@ -18468,6 +18531,7 @@
         "building": "retail",
         "building:levels": "3",
         "name": "The Book Company",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 11:00-16:30",
         "shop": "books;jewelry;gift;",
         "source": "survey"
       }
@@ -18591,7 +18655,7 @@
         "building:material": "plaster",
         "building:part": "yes",
         "name": "Eclipse",
-        "shop": "yes"
+        "shop": "clothes"
       }
     },
     {
@@ -19309,14 +19373,15 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "26-30",
+        "addr:postcode": "IM1 2EG",
         "addr:street": "Strand Street",
         "brand": "Holland & Barrett",
         "brand:wikidata": "Q5880870",
         "brand:wikipedia": "en:Holland & Barrett",
         "name": "Holland & Barrett",
-        "postal_code": "IM1 2EG",
         "shop": "health_food",
         "website": "https://www.hollandandbarrett.com/"
       }
@@ -20043,12 +20108,14 @@
         ]
       },
       "properties": {
+        "addr:country": "IM",
         "addr:housenumber": "5",
         "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/thecreativeshop_iom/",
         "name": "The Creative Shop",
         "phone": "+44 1624 628618",
         "shop": "stationery",
@@ -20096,6 +20163,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7/7a",
+        "addr:postcode": "IM1 2ED",
+        "addr:street": "Strand Street",
         "brand": "Hays Travel",
         "brand:wikidata": "Q70250954",
         "building": "retail",
@@ -27152,6 +27224,46 @@
         "contact:website": "https://thebedandflooringhouseiom.business.site/",
         "name": "The Bed & Flooring House",
         "shop": "bed;flooring"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1306229008,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.6974,
+            54.224887
+          ],
+          [
+            -4.697387,
+            54.224868
+          ],
+          [
+            -4.697333,
+            54.224881
+          ],
+          [
+            -4.697346,
+            54.2249
+          ],
+          [
+            -4.6974,
+            54.224887
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "building": "kiosk",
+        "changing_table": "no",
+        "cuisine": "seafood",
+        "indoor_seating": "no",
+        "name": "Fish Bar",
+        "shop": "seafood",
+        "toilets": "no",
+        "wheelchair": "yes"
       }
     }
   ]

@@ -436,13 +436,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481259,
-          54.150387
+          -4.481057,
+          54.150265
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Prospect Hill",
         "public_transport": "platform",
         "ref": "129",
@@ -460,8 +463,11 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Prospect Hill / Finch Road",
         "public_transport": "platform",
         "ref": "10107",
@@ -1711,8 +1717,11 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Peel Town Hall",
         "public_transport": "platform",
         "ref": "2414",
@@ -2040,6 +2049,8 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Braddan Bridge / Douglas Road Layby",
@@ -2078,11 +2089,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Trollaby Lane",
         "public_transport": "platform",
-        "ref": "1903"
+        "ref": "1903",
+        "shelter": "no"
       }
     },
     {
@@ -2114,9 +2128,12 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
@@ -2260,8 +2277,10 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Crosby Shelter",
         "public_transport": "platform",
         "ref": "2104",
@@ -3293,6 +3312,7 @@
         "bus": "yes",
         "departures_board": "timetable",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Peel Road Brown Bobby",
         "operator": "Bus Vannin",
         "public_transport": "platform",
@@ -3801,11 +3821,14 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Strang Crossroads Phonebox",
         "public_transport": "platform",
-        "ref": "1807"
+        "ref": "1807",
+        "shelter": "yes"
       }
     },
     {
@@ -3914,18 +3937,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.501167,
-          54.154921
+          -4.501126,
+          54.154797
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Peel Road Quarterbridge Shelter",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "114 / 120101"
+        "ref": "114 / 120101",
+        "shelter": "yes"
       }
     },
     {
@@ -3939,8 +3966,11 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Harris Promenade / Gaiety Theatre",
         "public_transport": "platform",
         "ref": "118",
@@ -3964,7 +3994,8 @@
         "name": "Pulrose Road / Peel Road",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "113"
+        "ref": "113",
+        "surface": "asphalt"
       }
     },
     {
@@ -5961,6 +5992,8 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballanawin",
@@ -6286,6 +6319,8 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballagarey Entrance",
@@ -6415,11 +6450,13 @@
         ]
       },
       "properties": {
+        "bench": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Cedar Lodge",
         "public_transport": "platform",
-        "ref": "2101"
+        "ref": "2101",
+        "shelter": "no"
       }
     },
     {
@@ -6428,16 +6465,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.562915,
-          54.182523
+          -4.563177,
+          54.182581
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Woodlea Villas",
         "public_transport": "platform",
-        "ref": "2102"
+        "ref": "2102",
+        "shelter": "no"
       }
     },
     {
@@ -6473,7 +6513,8 @@
         "highway": "bus_stop",
         "name": "Ballavitchell Road",
         "public_transport": "platform",
-        "ref": "2108"
+        "ref": "2108",
+        "shelter": "no"
       }
     },
     {
@@ -6500,8 +6541,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.594265,
-          54.193362
+          -4.594481,
+          54.193397
         ]
       },
       "properties": {
@@ -6509,7 +6550,8 @@
         "highway": "bus_stop",
         "name": "Appledene",
         "public_transport": "platform",
-        "ref": "2203"
+        "ref": "2203",
+        "shelter": "no"
       }
     },
     {
@@ -6591,8 +6633,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.609969,
-          54.197198
+          -4.609704,
+          54.197166
         ]
       },
       "properties": {
@@ -6614,11 +6656,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Kerrowgarrow Road",
         "public_transport": "platform",
-        "ref": "2210"
+        "ref": "2210",
+        "shelter": "no"
       }
     },
     {
@@ -6871,11 +6916,14 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Tynwald Inn Shelter",
         "public_transport": "platform",
-        "ref": "2316"
+        "ref": "2316",
+        "shelter": "yes"
       }
     },
     {
@@ -7796,6 +7844,7 @@
       },
       "properties": {
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -7839,11 +7888,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Tynwald Close",
         "public_transport": "platform",
-        "ref": "2405"
+        "ref": "2405",
+        "shelter": "no"
       }
     },
     {
@@ -7877,8 +7930,10 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Tynwald Road Shelter",
         "public_transport": "platform",
         "ref": "2408",
@@ -8115,16 +8170,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.687244,
-          54.221724
+          -4.686838,
+          54.221651
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Derby Road / Shoprite",
         "public_transport": "platform",
-        "ref": "2431"
+        "ref": "2431",
+        "shelter": "no"
       }
     },
     {
@@ -8138,11 +8197,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Derby Road No.44",
         "public_transport": "platform",
-        "ref": "2432"
+        "ref": "2432",
+        "shelter": "no"
       }
     },
     {
@@ -10544,6 +10607,7 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Western Swimming Pool entrance, Derby Road",
         "public_transport": "platform",
         "ref": "891085040125",
@@ -13641,16 +13705,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481208,
-          54.148388
+          -4.480947,
+          54.148426
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Lord Street / Salvation Army",
         "public_transport": "platform",
-        "ref": "20163"
+        "ref": "20163",
+        "shelter": "no"
       }
     },
     {
@@ -16960,9 +17028,12 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     },
     {
@@ -17024,9 +17095,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "lit": "yes",
+        "name": "Peel Promenade, Yacht Club",
+        "public_transport": "platform",
+        "shelter": "no"
       }
     },
     {
