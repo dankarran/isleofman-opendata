@@ -174,15 +174,17 @@
       "properties": {
         "addr:city": "Port St Mary",
         "addr:street": "Queens Road",
+        "amenity": "public_bookcase",
         "booth": "K6",
+        "colour": "red",
         "covered": "booth",
         "disused:amenity": "telephone",
         "listed_status": "Registered",
         "man_made": "telephone_box",
         "mapillary": "136654515150728",
-        "note": "Actual phone removed from phone box as of Dec 2022",
+        "name": "Phurt le Moirrey Book Nook",
         "ref:registered_building": "330",
-        "survey:date": "2020-10-01",
+        "survey:date": "2024-08-12",
         "url:registered_building": "https://www.gov.im/media/1374324/rb-330-k6-telephone-kiosk-queens-road.pdf",
         "wikidata": "Q118188732",
         "osm_id": 283514433,
@@ -595,8 +597,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.38129,
-          54.321387
+          -4.381278,
+          54.321384
         ]
       },
       "properties": {
@@ -615,8 +617,8 @@
         "url:registered_building": "https://www.gov.im/media/1373640/321-notice-and-entry-summary.pdf",
         "wikidata": "Q118188723",
         "osm_id": 9473024605,
-        "lon": -4.38129,
-        "lat": 54.321387,
+        "lon": -4.381278,
+        "lat": 54.321384,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9473024605"
       }
@@ -1155,6 +1157,7 @@
         "name:gv": "Cashtal Rushen",
         "name:ru": "\u0417\u0430\u043c\u043e\u043a \u0420\u0430\u0448\u0435\u043d",
         "operator": "Manx National Heritage",
+        "payment:cash": "yes",
         "ref:GB:imher": "0080.00",
         "ref:registered_building": "24",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -3109,32 +3112,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.652136,
-            54.072931
+            -4.65216,
+            54.072952
           ],
           [
-            -4.652278,
-            54.072851
+            -4.652303,
+            54.072872
           ],
           [
-            -4.652211,
-            54.07281
+            -4.652235,
+            54.072831
           ],
           [
-            -4.652139,
-            54.072851
+            -4.652163,
+            54.072872
           ],
           [
-            -4.652062,
-            54.072804
+            -4.652086,
+            54.072825
           ],
           [
-            -4.651992,
-            54.072844
+            -4.652016,
+            54.072864
           ],
           [
-            -4.652136,
-            54.072931
+            -4.65216,
+            54.072952
           ]
         ]
       },
@@ -3161,8 +3164,8 @@
         "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
         "wikidata": "Q118188623",
         "osm_id": 60930657,
-        "lon": -4.652134827637946,
-        "lat": 54.07285861853227,
+        "lon": -4.652159270363251,
+        "lat": 54.07287948589684,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60930657"
       }
@@ -11447,6 +11450,98 @@
         "lat": 54.224354477319146,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/146833064"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146833658,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.695066,
+            54.223689
+          ],
+          [
+            -4.695113,
+            54.223708
+          ],
+          [
+            -4.695092,
+            54.223761
+          ],
+          [
+            -4.695046,
+            54.22375
+          ],
+          [
+            -4.695008,
+            54.223734
+          ],
+          [
+            -4.695066,
+            54.223689
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "7",
+        "addr:street": "Charles Street",
+        "building": "house",
+        "house": "terraced",
+        "listed_status": "Registered",
+        "ref:registered_building": "108",
+        "wikidata": "Q118188797",
+        "osm_id": 146833658,
+        "lon": -4.695064802676997,
+        "lat": 54.22372630029362,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146833658"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146833675,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.695113,
+            54.223708
+          ],
+          [
+            -4.695182,
+            54.223715
+          ],
+          [
+            -4.695183,
+            54.223766
+          ],
+          [
+            -4.695092,
+            54.223761
+          ],
+          [
+            -4.695113,
+            54.223708
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "5",
+        "addr:street": "Charles Street",
+        "building": "house",
+        "house": "terraced",
+        "listed_status": "Registered",
+        "ref:registered_building": "108",
+        "wikidata": "Q118188797",
+        "osm_id": 146833675,
+        "lon": -4.69514120070309,
+        "lat": 54.22373954224642,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146833675"
       }
     },
     {

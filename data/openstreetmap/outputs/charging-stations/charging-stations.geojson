@@ -1188,6 +1188,72 @@
     },
     {
       "type": "Feature",
+      "id": 12108669696,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.616707,
+          54.225574
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "osm_id": 12108669696,
+        "lon": -4.616707,
+        "lat": 54.225574,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12108669696"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12108672611,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697511,
+          54.2239
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "osm_id": 12108672611,
+        "lon": -4.697511,
+        "lat": 54.2239,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12108672611"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12108672612,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.697519,
+          54.223792
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "osm_id": 12108672612,
+        "lon": -4.697519,
+        "lat": 54.223792,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12108672612"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1167710497,
       "geometry": {
         "type": "LineString",

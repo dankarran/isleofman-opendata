@@ -2072,6 +2072,8 @@
         "name:gd": "Eilean Mhanainn",
         "name:gv": "Vannin",
         "name:he": "\u05d4\u05d0\u05d9 \u05de\u05d0\u05df",
+        "name:hr": "Otok Man",
+        "name:hu": "Man-sziget",
         "name:ia": "Insula de Man",
         "name:io": "Man-Insulo",
         "name:it": "Isola di Man",
@@ -2087,8 +2089,10 @@
         "name:nl": "Man",
         "name:no": "Man",
         "name:pl": "Wyspa Man",
+        "name:ro": "Insula Man",
         "name:ru": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
         "name:sk": "Ostrov Man",
+        "name:sl": "Otok Man",
         "name:sr": "\u041e\u0441\u0442\u0440\u0432\u043e \u041c\u0430\u043d",
         "name:sv": "Isle of Man",
         "name:tr": "Man Adas\u0131",
@@ -7305,6 +7309,58 @@
     },
     {
       "type": "Feature",
+      "id": 25985955,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.737989,
+            54.071687
+          ],
+          [
+            -4.738055,
+            54.071732
+          ],
+          [
+            -4.738431,
+            54.071982
+          ],
+          [
+            -4.738486,
+            54.072005
+          ],
+          [
+            -4.738759,
+            54.072178
+          ],
+          [
+            -4.739327,
+            54.072523
+          ],
+          [
+            -4.739381,
+            54.072601
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "service",
+        "maxspeed": "30 mph",
+        "name": "Paddocks Lane",
+        "name:en": "Paddocks Lane",
+        "name:gv": "Lhoan ny Faaieghyn",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 25985955,
+        "lon": -4.7386940479143105,
+        "lat": 54.07213602434538,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25985955"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985960,
       "geometry": {
         "type": "LineString",
@@ -11347,6 +11403,92 @@
     },
     {
       "type": "Feature",
+      "id": 25986601,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.762549,
+            54.082189
+          ],
+          [
+            -4.762441,
+            54.082248
+          ],
+          [
+            -4.762228,
+            54.082304
+          ],
+          [
+            -4.761938,
+            54.08233
+          ],
+          [
+            -4.761842,
+            54.082339
+          ],
+          [
+            -4.761713,
+            54.082371
+          ],
+          [
+            -4.761597,
+            54.082423
+          ],
+          [
+            -4.76145,
+            54.082499
+          ],
+          [
+            -4.761279,
+            54.08264
+          ],
+          [
+            -4.761173,
+            54.082718
+          ],
+          [
+            -4.761053,
+            54.082846
+          ],
+          [
+            -4.760869,
+            54.083102
+          ],
+          [
+            -4.760815,
+            54.083188
+          ],
+          [
+            -4.760172,
+            54.084028
+          ],
+          [
+            -4.760061,
+            54.084151
+          ],
+          [
+            -4.759951,
+            54.084289
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ballafurt Road",
+        "name:en": "Ballafurt Road",
+        "name:gv": "Raad Balley Phurt",
+        "surface": "paved",
+        "osm_id": 25986601,
+        "lon": -4.761113276508013,
+        "lat": 54.08302837456165,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986601"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986604,
       "geometry": {
         "type": "LineString",
@@ -11769,6 +11911,44 @@
         "lat": 54.071146216310495,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986624"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986654,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.761448,
+            54.081046
+          ],
+          [
+            -4.760847,
+            54.08156
+          ],
+          [
+            -4.760255,
+            54.081951
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Baymount Road",
+        "foot": "designated",
+        "highway": "residential",
+        "name": "Baymount",
+        "name:en": "Baymount",
+        "name:gv": "Cronk ny Baie",
+        "postal_code": "IM9 6JH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25986654,
+        "lon": -4.7608654224475435,
+        "lat": 54.081516981714145,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986654"
       }
     },
     {
@@ -12961,6 +13141,126 @@
     },
     {
       "type": "Feature",
+      "id": 25986790,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.520543,
+            54.134511
+          ],
+          [
+            -4.520767,
+            54.133736
+          ],
+          [
+            -4.520954,
+            54.132801
+          ],
+          [
+            -4.52111,
+            54.132116
+          ],
+          [
+            -4.521375,
+            54.131652
+          ],
+          [
+            -4.521502,
+            54.131458
+          ],
+          [
+            -4.521629,
+            54.131288
+          ],
+          [
+            -4.521795,
+            54.131082
+          ],
+          [
+            -4.521989,
+            54.130876
+          ],
+          [
+            -4.522356,
+            54.130565
+          ],
+          [
+            -4.522452,
+            54.13047
+          ],
+          [
+            -4.522534,
+            54.130377
+          ],
+          [
+            -4.522633,
+            54.130216
+          ],
+          [
+            -4.522737,
+            54.129885
+          ],
+          [
+            -4.522812,
+            54.129762
+          ],
+          [
+            -4.523003,
+            54.12955
+          ],
+          [
+            -4.52318,
+            54.129286
+          ],
+          [
+            -4.523252,
+            54.129094
+          ],
+          [
+            -4.523266,
+            54.128803
+          ],
+          [
+            -4.523269,
+            54.128708
+          ],
+          [
+            -4.523211,
+            54.128497
+          ],
+          [
+            -4.523148,
+            54.128352
+          ],
+          [
+            -4.523095,
+            54.128195
+          ],
+          [
+            -4.523114,
+            54.128074
+          ]
+        ]
+      },
+      "properties": {
+        "fixme": "Check name:gv spelling",
+        "highway": "primary",
+        "name": "Marine Drive",
+        "name:en": "Marine Drive",
+        "name:gv": "Imman ny Marree",
+        "ref": "A37",
+        "source": "IOM Gov 1:25000",
+        "surface": "asphalt",
+        "osm_id": 25986790,
+        "lon": -4.5218891229325795,
+        "lat": 54.13123727283139,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986790"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986795,
       "geometry": {
         "type": "LineString",
@@ -13355,6 +13655,53 @@
     },
     {
       "type": "Feature",
+      "id": 25986959,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739704,
+            54.076465
+          ],
+          [
+            -4.739667,
+            54.076485
+          ],
+          [
+            -4.739535,
+            54.076548
+          ],
+          [
+            -4.739119,
+            54.076734
+          ],
+          [
+            -4.738754,
+            54.076913
+          ],
+          [
+            -4.738716,
+            54.076931
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Gellings Avenue",
+        "name:en": "Gellings Avenue",
+        "name:gv": "Astyl Gelling",
+        "surface": "paved",
+        "osm_id": 25986959,
+        "lon": -4.7392094009677885,
+        "lat": 54.07669666166433,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986959"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986971,
       "geometry": {
         "type": "LineString",
@@ -13717,6 +14064,53 @@
         "lat": 54.23212781743973,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987023"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987026,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739749,
+            54.073488
+          ],
+          [
+            -4.739824,
+            54.073156
+          ],
+          [
+            -4.739945,
+            54.072624
+          ],
+          [
+            -4.739975,
+            54.072569
+          ],
+          [
+            -4.740078,
+            54.072328
+          ],
+          [
+            -4.740199,
+            54.072176
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Barna Beg",
+        "name:gv": "Barna Beg",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 25987026,
+        "lon": -4.739925737831581,
+        "lat": 54.07281098594071,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987026"
       }
     },
     {
@@ -15491,6 +15885,77 @@
     },
     {
       "type": "Feature",
+      "id": 25987202,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.730335,
+            54.072129
+          ],
+          [
+            -4.731854,
+            54.071164
+          ],
+          [
+            -4.732174,
+            54.070987
+          ],
+          [
+            -4.73304,
+            54.070538
+          ],
+          [
+            -4.73331,
+            54.070429
+          ],
+          [
+            -4.733434,
+            54.070412
+          ],
+          [
+            -4.7336,
+            54.070418
+          ],
+          [
+            -4.733808,
+            54.070398
+          ],
+          [
+            -4.733924,
+            54.070379
+          ],
+          [
+            -4.734046,
+            54.070336
+          ],
+          [
+            -4.734321,
+            54.070193
+          ],
+          [
+            -4.734619,
+            54.070088
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Alfred Pier",
+        "name:en": "Alfred Pier",
+        "name:gv": "Keiy Alfred",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:name": "Isle of Man Government 1:25000 map",
+        "surface": "paved",
+        "osm_id": 25987202,
+        "lon": -4.732421001765968,
+        "lat": 54.07097108256511,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987202"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987203,
       "geometry": {
         "type": "LineString",
@@ -16648,6 +17113,46 @@
         "lat": 54.16836673886819,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987448"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987451,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.76037,
+            54.084887
+          ],
+          [
+            -4.760251,
+            54.084846
+          ],
+          [
+            -4.760024,
+            54.084756
+          ],
+          [
+            -4.759856,
+            54.084667
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Ballafurt Road",
+        "name:en": "Ballafurt Road",
+        "name:gv": "Raad Balley Phurt",
+        "oneway": "yes",
+        "surface": "paved",
+        "osm_id": 25987451,
+        "lon": -4.760109341360483,
+        "lat": 54.08478534158113,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987451"
       }
     },
     {
@@ -20423,32 +20928,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.694749,
-            54.223585
+            -4.694777,
+            54.223598
           ],
           [
-            -4.695099,
-            54.223672
+            -4.694852,
+            54.223624
           ],
           [
-            -4.695163,
-            54.223695
+            -4.694949,
+            54.223639
           ],
           [
-            -4.695324,
-            54.223697
+            -4.695126,
+            54.223688
           ],
           [
-            -4.695426,
-            54.223678
+            -4.695214,
+            54.2237
           ],
           [
-            -4.695458,
-            54.223703
+            -4.695331,
+            54.223702
           ],
           [
-            -4.695512,
-            54.223713
+            -4.69543,
+            54.223684
           ]
         ]
       },
@@ -20462,8 +20967,8 @@
         "name:gv": "Straid Chalse",
         "surface": "paving_stones",
         "osm_id": 25987548,
-        "lon": -4.695132071485803,
-        "lat": 54.223663500824316,
+        "lon": -4.695101354726591,
+        "lat": 54.22366762956482,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987548"
       }
@@ -21588,6 +22093,66 @@
     },
     {
       "type": "Feature",
+      "id": 25987743,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.751134,
+            54.08512
+          ],
+          [
+            -4.751115,
+            54.08515
+          ],
+          [
+            -4.751026,
+            54.085307
+          ],
+          [
+            -4.750968,
+            54.085407
+          ],
+          [
+            -4.750655,
+            54.085988
+          ],
+          [
+            -4.750389,
+            54.08647
+          ],
+          [
+            -4.750287,
+            54.086623
+          ],
+          [
+            -4.750066,
+            54.086853
+          ],
+          [
+            -4.749624,
+            54.087305
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Ballafesson Road",
+        "name:en": "Ballafesson Road",
+        "name:gv": "Raad Balley Phesson",
+        "ref": "A7",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 25987743,
+        "lon": -4.750445169551302,
+        "lat": 54.086261544188545,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987743"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987760,
       "geometry": {
         "type": "LineString",
@@ -22304,16 +22869,20 @@
             54.075129
           ],
           [
-            -4.737523,
-            54.074853
+            -4.737446,
+            54.074924
           ],
           [
-            -4.737694,
-            54.074709
+            -4.737493,
+            54.074852
           ],
           [
-            -4.737861,
-            54.074624
+            -4.737678,
+            54.074733
+          ],
+          [
+            -4.737866,
+            54.07463
           ],
           [
             -4.737929,
@@ -22431,8 +23000,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 25987851,
-        "lon": -4.737882206955574,
-        "lat": 54.07351719097821,
+        "lon": -4.737880465927152,
+        "lat": 54.07351943248219,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987851"
       }
@@ -22528,6 +23097,58 @@
         "lat": 54.224260936964086,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987854"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987879,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.740219,
+            54.076768
+          ],
+          [
+            -4.740183,
+            54.076791
+          ],
+          [
+            -4.739556,
+            54.077059
+          ],
+          [
+            -4.739522,
+            54.077074
+          ],
+          [
+            -4.739172,
+            54.077231
+          ],
+          [
+            -4.739166,
+            54.077234
+          ],
+          [
+            -4.739127,
+            54.077251
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Victoria Road",
+        "name:en": "Victoria Road",
+        "name:gv": "Raad Victoria",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 25987879,
+        "lon": -4.7396736117760865,
+        "lat": 54.077010284963436,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987879"
       }
     },
     {
@@ -23194,6 +23815,49 @@
         "lat": 54.07339356025756,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987989"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988016,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.740392,
+            54.072608
+          ],
+          [
+            -4.739975,
+            54.072569
+          ],
+          [
+            -4.739606,
+            54.072546
+          ],
+          [
+            -4.739588,
+            54.072545
+          ],
+          [
+            -4.739528,
+            54.072541
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Barna Beg",
+        "name:gv": "Barna Beg",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 25988016,
+        "lon": -4.739960255824562,
+        "lat": 54.07257122469398,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988016"
       }
     },
     {
@@ -24907,6 +25571,140 @@
     },
     {
       "type": "Feature",
+      "id": 25988344,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.761597,
+            54.082423
+          ],
+          [
+            -4.761577,
+            54.082406
+          ],
+          [
+            -4.760711,
+            54.08216
+          ],
+          [
+            -4.760509,
+            54.082085
+          ],
+          [
+            -4.760255,
+            54.081951
+          ],
+          [
+            -4.760126,
+            54.081885
+          ],
+          [
+            -4.759945,
+            54.081785
+          ],
+          [
+            -4.759922,
+            54.081731
+          ],
+          [
+            -4.759939,
+            54.081643
+          ],
+          [
+            -4.759903,
+            54.081534
+          ],
+          [
+            -4.759782,
+            54.081451
+          ],
+          [
+            -4.759436,
+            54.081382
+          ],
+          [
+            -4.759226,
+            54.081339
+          ],
+          [
+            -4.758905,
+            54.081227
+          ],
+          [
+            -4.758729,
+            54.081188
+          ],
+          [
+            -4.75854,
+            54.081162
+          ],
+          [
+            -4.757762,
+            54.081104
+          ],
+          [
+            -4.75713,
+            54.081027
+          ],
+          [
+            -4.756803,
+            54.080948
+          ],
+          [
+            -4.75627,
+            54.08078
+          ],
+          [
+            -4.755753,
+            54.080653
+          ],
+          [
+            -4.755194,
+            54.080536
+          ],
+          [
+            -4.754855,
+            54.080416
+          ],
+          [
+            -4.754548,
+            54.080306
+          ],
+          [
+            -4.754405,
+            54.080257
+          ],
+          [
+            -4.754181,
+            54.080149
+          ],
+          [
+            -4.754048,
+            54.080076
+          ],
+          [
+            -4.753825,
+            54.079889
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "name": "Saint Marys Road",
+        "name:en": "Saint Marys Road",
+        "name:gv": "Raad Noo Moirrey",
+        "surface": "paved",
+        "osm_id": 25988344,
+        "lon": -4.757749907333065,
+        "lat": 54.08114472355385,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988344"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988351,
       "geometry": {
         "type": "LineString",
@@ -26406,6 +27204,98 @@
     },
     {
       "type": "Feature",
+      "id": 25988511,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.742467,
+            54.077085
+          ],
+          [
+            -4.742402,
+            54.07707
+          ],
+          [
+            -4.742105,
+            54.077019
+          ],
+          [
+            -4.741518,
+            54.076921
+          ],
+          [
+            -4.740621,
+            54.076909
+          ],
+          [
+            -4.740465,
+            54.076866
+          ],
+          [
+            -4.740396,
+            54.076845
+          ],
+          [
+            -4.740219,
+            54.076768
+          ],
+          [
+            -4.739994,
+            54.076653
+          ],
+          [
+            -4.739704,
+            54.076465
+          ],
+          [
+            -4.739554,
+            54.076358
+          ],
+          [
+            -4.738986,
+            54.075981
+          ],
+          [
+            -4.738919,
+            54.075922
+          ],
+          [
+            -4.738832,
+            54.075806
+          ],
+          [
+            -4.738747,
+            54.075695
+          ],
+          [
+            -4.738721,
+            54.075585
+          ],
+          [
+            -4.738731,
+            54.075418
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Cronk Road",
+        "name:en": "Cronk Road",
+        "name:gv": "Raad y Chrink",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 25988511,
+        "lon": -4.740382195250035,
+        "lat": 54.07657350283455,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988511"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988512,
       "geometry": {
         "type": "LineString",
@@ -26708,6 +27598,90 @@
         "lat": 54.173965878275304,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988591,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.760869,
+            54.083102
+          ],
+          [
+            -4.760842,
+            54.083097
+          ],
+          [
+            -4.760264,
+            54.082994
+          ],
+          [
+            -4.760152,
+            54.082974
+          ],
+          [
+            -4.760017,
+            54.082973
+          ],
+          [
+            -4.759904,
+            54.082985
+          ],
+          [
+            -4.759789,
+            54.083008
+          ],
+          [
+            -4.759718,
+            54.083039
+          ],
+          [
+            -4.759625,
+            54.0831
+          ],
+          [
+            -4.75954,
+            54.083193
+          ],
+          [
+            -4.759377,
+            54.083452
+          ],
+          [
+            -4.759233,
+            54.083822
+          ],
+          [
+            -4.759228,
+            54.08402
+          ],
+          [
+            -4.759117,
+            54.084112
+          ],
+          [
+            -4.758594,
+            54.084406
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Saint Georges Crescent",
+        "name:en": "Saint Georges Crescent",
+        "name:gv": "Corran Noo Shorys",
+        "postal_code": "IM9 6HR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25988591,
+        "lon": -4.759624281428135,
+        "lat": 54.083488614769585,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988591"
       }
     },
     {
@@ -29043,10 +30017,10 @@
         "maxspeed": "40 mph",
         "name": "Howe Road",
         "name:en": "Howe Road",
-        "name:gv": "Raad Cheyllys",
+        "name:gv": "Raad yn Ow",
         "ref": "A31",
         "sidewalk:right": "separate",
-        "source:name:gv": "Isle of Man Government 1:25000 map",
+        "source:name:gv": "street sign",
         "surface": "paved",
         "osm_id": 25988839,
         "lon": -4.7529143728950425,
@@ -31419,6 +32393,122 @@
     },
     {
       "type": "Feature",
+      "id": 25989267,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.734994,
+            54.069438
+          ],
+          [
+            -4.734793,
+            54.069604
+          ],
+          [
+            -4.734713,
+            54.0697
+          ],
+          [
+            -4.734653,
+            54.069797
+          ],
+          [
+            -4.734618,
+            54.069862
+          ],
+          [
+            -4.734593,
+            54.069932
+          ],
+          [
+            -4.734596,
+            54.070006
+          ],
+          [
+            -4.734619,
+            54.070088
+          ],
+          [
+            -4.734684,
+            54.070306
+          ],
+          [
+            -4.734719,
+            54.070364
+          ],
+          [
+            -4.734776,
+            54.070422
+          ],
+          [
+            -4.734911,
+            54.070516
+          ],
+          [
+            -4.735156,
+            54.07065
+          ],
+          [
+            -4.735484,
+            54.070791
+          ],
+          [
+            -4.735673,
+            54.070888
+          ],
+          [
+            -4.735836,
+            54.070979
+          ],
+          [
+            -4.735899,
+            54.071027
+          ],
+          [
+            -4.736004,
+            54.07111
+          ],
+          [
+            -4.736097,
+            54.071208
+          ],
+          [
+            -4.736281,
+            54.071401
+          ],
+          [
+            -4.736376,
+            54.071518
+          ],
+          [
+            -4.736519,
+            54.071714
+          ],
+          [
+            -4.736587,
+            54.071746
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential;commercial",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Lime Street",
+        "name:en": "Lime Street",
+        "name:gv": "Straid yn Eayil",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 25989267,
+        "lon": -4.735389481596403,
+        "lat": 54.07063534636782,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989267"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989268,
       "geometry": {
         "type": "LineString",
@@ -31587,6 +32677,50 @@
         "lat": 54.07149110733242,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989291,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.764319,
+            54.082872
+          ],
+          [
+            -4.763466,
+            54.082643
+          ],
+          [
+            -4.763064,
+            54.082508
+          ],
+          [
+            -4.762789,
+            54.082343
+          ],
+          [
+            -4.762549,
+            54.082189
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Darragh;The Darragh",
+        "highway": "residential",
+        "name": "Darrag",
+        "name:gv": "Darrag",
+        "postal_code": "IM9 6JB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25989291,
+        "lon": -4.763409108373016,
+        "lat": 54.0825882440182,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989291"
       }
     },
     {
@@ -31920,6 +33054,60 @@
         "lat": 54.150294338815456,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989315"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989321,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.751177,
+            54.084112
+          ],
+          [
+            -4.751075,
+            54.084257
+          ],
+          [
+            -4.750975,
+            54.084335
+          ],
+          [
+            -4.750729,
+            54.084534
+          ],
+          [
+            -4.750599,
+            54.084539
+          ],
+          [
+            -4.750546,
+            54.084999
+          ],
+          [
+            -4.750539,
+            54.085058
+          ],
+          [
+            -4.750534,
+            54.085097
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ballamaddrell",
+        "name:en": "Ballamaddrell",
+        "name:gv": "Balley Maddrell",
+        "surface": "paved",
+        "osm_id": 25989321,
+        "lon": -4.750765016133593,
+        "lat": 54.08456163163836,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989321"
       }
     },
     {
@@ -32358,6 +33546,10 @@
             54.237043
           ],
           [
+            -4.622563,
+            54.236705
+          ],
+          [
             -4.62277,
             54.236469
           ],
@@ -32667,8 +33859,8 @@
         "name:gv": "Bayr ny Staarvey",
         "ref": "C25",
         "osm_id": 25989423,
-        "lon": -4.628834859973433,
-        "lat": 54.23150913973204,
+        "lon": -4.628834858752358,
+        "lat": 54.23150913867959,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989423"
       }
@@ -34284,6 +35476,44 @@
     },
     {
       "type": "Feature",
+      "id": 25989530,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759951,
+            54.084289
+          ],
+          [
+            -4.759925,
+            54.084282
+          ],
+          [
+            -4.759446,
+            54.084148
+          ],
+          [
+            -4.759228,
+            54.08402
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Saint Georges Crescent",
+        "name:en": "Saint Georges Crescent",
+        "name:gv": "Corran Noo Shorys",
+        "surface": "paved",
+        "osm_id": 25989530,
+        "lon": -4.759580879704888,
+        "lat": 54.08417482767357,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989530"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989537,
       "geometry": {
         "type": "LineString",
@@ -35609,6 +36839,217 @@
         "lat": 54.07433329335777,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/26957864"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26977139,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738731,
+            54.075418
+          ],
+          [
+            -4.738793,
+            54.075067
+          ],
+          [
+            -4.738817,
+            54.074809
+          ],
+          [
+            -4.738836,
+            54.074702
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Lhargan",
+        "name:gv": "Lhargan",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 26977139,
+        "lon": -4.738787063271633,
+        "lat": 54.075060477868576,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/26977139"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26987236,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.734994,
+            54.069438
+          ],
+          [
+            -4.735035,
+            54.069462
+          ],
+          [
+            -4.735783,
+            54.069902
+          ],
+          [
+            -4.735919,
+            54.069986
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Marine Terrace",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Queens Road",
+        "name:en": "Queens Road",
+        "name:gv": "Raad y Ven-Rein",
+        "sidewalk:both": "separate",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 26987236,
+        "lon": -4.735457282259575,
+        "lat": 54.06971070127559,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/26987236"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26987237,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753825,
+            54.079889
+          ],
+          [
+            -4.753618,
+            54.079709
+          ],
+          [
+            -4.753349,
+            54.079517
+          ],
+          [
+            -4.752991,
+            54.079274
+          ],
+          [
+            -4.752664,
+            54.079115
+          ],
+          [
+            -4.752522,
+            54.07906
+          ],
+          [
+            -4.752309,
+            54.079008
+          ],
+          [
+            -4.752117,
+            54.079003
+          ],
+          [
+            -4.751829,
+            54.079004
+          ],
+          [
+            -4.751672,
+            54.078998
+          ],
+          [
+            -4.751421,
+            54.078962
+          ],
+          [
+            -4.751251,
+            54.078949
+          ],
+          [
+            -4.750552,
+            54.078919
+          ],
+          [
+            -4.750372,
+            54.078913
+          ],
+          [
+            -4.749882,
+            54.078897
+          ],
+          [
+            -4.749317,
+            54.078887
+          ],
+          [
+            -4.748872,
+            54.078876
+          ],
+          [
+            -4.748776,
+            54.07887
+          ],
+          [
+            -4.747455,
+            54.078607
+          ],
+          [
+            -4.745988,
+            54.078317
+          ],
+          [
+            -4.745781,
+            54.078273
+          ],
+          [
+            -4.745068,
+            54.078126
+          ],
+          [
+            -4.74483,
+            54.078067
+          ],
+          [
+            -4.744675,
+            54.078012
+          ],
+          [
+            -4.744578,
+            54.077941
+          ],
+          [
+            -4.744202,
+            54.077621
+          ],
+          [
+            -4.743886,
+            54.077372
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Bayr y Trooan",
+        "name:en": "Truggan Road",
+        "name:gv": "Bayr y Trooan",
+        "note": "Manx name signed first",
+        "surface": "paved",
+        "osm_id": 26987237,
+        "lon": -4.74884598230955,
+        "lat": 54.07869976656737,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/26987237"
       }
     },
     {
@@ -38500,6 +39941,7 @@
         "name:gv": "Cashtal Rushen",
         "name:ru": "\u0417\u0430\u043c\u043e\u043a \u0420\u0430\u0448\u0435\u043d",
         "operator": "Manx National Heritage",
+        "payment:cash": "yes",
         "ref:GB:imher": "0080.00",
         "ref:registered_building": "24",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -41111,6 +42553,10 @@
             54.223268
           ],
           [
+            -4.694677,
+            54.223289
+          ],
+          [
             -4.694709,
             54.223331
           ],
@@ -41119,8 +42565,8 @@
             54.223386
           ],
           [
-            -4.694749,
-            54.223585
+            -4.694752,
+            54.223542
           ]
         ]
       },
@@ -41135,8 +42581,8 @@
         "sidewalk": "no",
         "surface": "asphalt",
         "osm_id": 43531310,
-        "lon": -4.694621725449521,
-        "lat": 54.22315884776689,
+        "lon": -4.694616074998685,
+        "lat": 54.22313885932612,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/43531310"
       }
@@ -44770,32 +46216,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.652136,
-            54.072931
+            -4.65216,
+            54.072952
           ],
           [
-            -4.652278,
-            54.072851
+            -4.652303,
+            54.072872
           ],
           [
-            -4.652211,
-            54.07281
+            -4.652235,
+            54.072831
           ],
           [
-            -4.652139,
-            54.072851
+            -4.652163,
+            54.072872
           ],
           [
-            -4.652062,
-            54.072804
+            -4.652086,
+            54.072825
           ],
           [
-            -4.651992,
-            54.072844
+            -4.652016,
+            54.072864
           ],
           [
-            -4.652136,
-            54.072931
+            -4.65216,
+            54.072952
           ]
         ]
       },
@@ -44822,8 +46268,8 @@
         "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
         "wikidata": "Q118188623",
         "osm_id": 60930657,
-        "lon": -4.652134827637946,
-        "lat": 54.07285861853227,
+        "lon": -4.652159270363251,
+        "lat": 54.07287948589684,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60930657"
       }
@@ -56709,20 +58155,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.751189,
-            54.07166
-          ],
-          [
-            -4.751025,
-            54.071722
-          ],
-          [
-            -4.750823,
-            54.071771
-          ],
-          [
-            -4.750632,
-            54.071836
+            -4.750722,
+            54.071816
           ],
           [
             -4.750024,
@@ -56740,8 +58174,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 158617622,
-        "lon": -4.750605175165668,
-        "lat": 54.07185181517229,
+        "lon": -4.750373,
+        "lat": 54.071934500000005,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/158617622"
       }
@@ -56984,6 +58418,49 @@
         "lat": 54.0838736250722,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/159092823"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159092827,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759856,
+            54.084667
+          ],
+          [
+            -4.75982,
+            54.084637
+          ],
+          [
+            -4.759806,
+            54.084536
+          ],
+          [
+            -4.759849,
+            54.084421
+          ],
+          [
+            -4.759951,
+            54.084289
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ballafurt Road",
+        "name:en": "Ballafurt Road",
+        "name:gv": "Raad Balley Phurt",
+        "oneway": "yes",
+        "surface": "paved",
+        "osm_id": 159092827,
+        "lon": -4.7598528359296965,
+        "lat": 54.08447517176076,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/159092827"
       }
     },
     {
@@ -57601,10 +59078,10 @@
         "maxspeed": "40 mph",
         "name": "Howe Road",
         "name:en": "Howe Road",
-        "name:gv": "Raad Cheyllys",
+        "name:gv": "Raad yn Ow",
         "ref": "A31",
         "sidewalk:right": "separate",
-        "source:name:gv": "Isle of Man Government 1:25000 map",
+        "source:name:gv": "street sign",
         "surface": "paved",
         "osm_id": 160183778,
         "lon": -4.750769561619852,
@@ -57899,6 +59376,10 @@
             54.07766
           ],
           [
+            -4.655769,
+            54.077548
+          ],
+          [
             -4.655771,
             54.077525
           ],
@@ -57987,8 +59468,8 @@
         "name:en": "Malew Street",
         "name:gv": "Straid Valen",
         "osm_id": 160837803,
-        "lon": -4.655223604565256,
-        "lat": 54.076009194169565,
+        "lon": -4.655223600667193,
+        "lat": 54.076009194592864,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/160837803"
       }
@@ -58207,10 +59688,10 @@
         "maxspeed": "40 mph",
         "name": "Howe Road",
         "name:en": "Howe Road",
-        "name:gv": "Raad Cheyllys",
+        "name:gv": "Raad yn Ow",
         "ref": "A31",
         "sidewalk:right": "separate",
-        "source:name:gv": "Isle of Man Government 1:25000 map",
+        "source:name:gv": "street sign",
         "surface": "paved",
         "osm_id": 162110743,
         "lon": -4.7474674009099385,
@@ -63179,10 +64660,10 @@
         "maxspeed": "30 mph",
         "name": "Howe Road",
         "name:en": "Howe Road",
-        "name:gv": "Raad Cheyllys",
+        "name:gv": "Raad yn Ow",
         "ref": "A31",
         "sidewalk": "no",
-        "source:name:gv": "Isle of Man Government 1:25000 map",
+        "source:name:gv": "street sign",
         "surface": "paved",
         "osm_id": 167230580,
         "lon": -4.744761222656842,
@@ -92601,6 +94082,54 @@
     },
     {
       "type": "Feature",
+      "id": 1191595008,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.74264,
+            54.077226
+          ],
+          [
+            -4.742619,
+            54.077196
+          ],
+          [
+            -4.742581,
+            54.077162
+          ],
+          [
+            -4.74256,
+            54.077143
+          ],
+          [
+            -4.7425,
+            54.077103
+          ],
+          [
+            -4.742467,
+            54.077085
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Cronk Road",
+        "name:en": "Cronk Road",
+        "name:gv": "Raad y Chrink",
+        "sidewalk:left": "separate",
+        "surface": "paved",
+        "osm_id": 1191595008,
+        "lon": -4.742559304495161,
+        "lat": 54.07714880903758,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1191595008"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1191595011,
       "geometry": {
         "type": "LineString",
@@ -96102,6 +97631,111 @@
         "lat": 54.216059,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1305915878"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307611690,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69543,
+            54.223684
+          ],
+          [
+            -4.695458,
+            54.223703
+          ],
+          [
+            -4.695512,
+            54.223713
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "footway",
+        "lane_markings": "no",
+        "name": "Charles Street",
+        "name:en": "Charles Street",
+        "name:gv": "Straid Chalse",
+        "surface": "paving_stones",
+        "osm_id": 1307611690,
+        "lon": -4.695469368918488,
+        "lat": 54.22370247193459,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1307611690"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1308282694,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.751189,
+            54.07166
+          ],
+          [
+            -4.751025,
+            54.071722
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Fistard Road",
+        "name:en": "Fistard Road",
+        "name:gv": "Raad Fistard",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 1308282694,
+        "lon": -4.751107,
+        "lat": 54.071690999999994,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1308282694"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1308282695,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.751025,
+            54.071722
+          ],
+          [
+            -4.750831,
+            54.071782
+          ],
+          [
+            -4.750722,
+            54.071816
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "bridge": "yes",
+        "highway": "unclassified",
+        "layer": "1",
+        "maxspeed": "30 mph",
+        "name": "Fistard Road",
+        "name:en": "Fistard Road",
+        "name:gv": "Raad Fistard",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "paved",
+        "osm_id": 1308282695,
+        "lon": -4.750873473820153,
+        "lat": 54.07176891571256,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1308282695"
       }
     }
   ]

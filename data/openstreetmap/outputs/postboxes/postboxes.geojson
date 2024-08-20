@@ -228,10 +228,11 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "name": "The Point",
         "post_box:type": "pillar",
         "ref": "141",
-        "royal_cypher": "GR",
-        "royal_cypher:wikidata": "Q33102273",
+        "royal_cypher": "GVIR",
         "osm_id": 283487243,
         "lon": -4.737304,
         "lat": 54.071332,
@@ -739,16 +740,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.754633,
-          54.083224
+          -4.754596,
+          54.083267
         ]
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "lamp",
         "ref": "158",
+        "royal_cypher": "EIIR",
         "osm_id": 283497832,
-        "lon": -4.754633,
-        "lat": 54.083224,
+        "lon": -4.754596,
+        "lat": 54.083267,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283497832"
       }
@@ -1600,10 +1603,11 @@
       },
       "properties": {
         "amenity": "post_box",
-        "collection_times": "Mo-Sa 06:00; Mo-Fr 16:00;",
+        "collection_times": "Mo-Fr 10:00",
         "name": "Four Roads",
+        "post_box:type": "wall",
         "ref": "144",
-        "royal_cypher": "ER",
+        "royal_cypher": "EIIR",
         "osm_id": 283515733,
         "lon": -4.744197,
         "lat": 54.08403,
@@ -1795,6 +1799,8 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "name": "Park Road",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
         "ref": "142",
@@ -1837,8 +1843,10 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
         "post_box:type": "wall",
         "ref": "160",
+        "royal_cypher": "VR",
         "source": "survey",
         "osm_id": 283522069,
         "lon": -4.760004,
@@ -2200,7 +2208,11 @@
       },
       "properties": {
         "amenity": "post_box",
-        "ref": "164",
+        "collection_times": "Mo 06:00,16:45; Tu-Fr 16:45",
+        "name": "Spar Colby",
+        "post_box:type": "lamp",
+        "ref": "183",
+        "royal_cypher": "EIIR",
         "osm_id": 508062040,
         "lon": -4.702632,
         "lat": 54.096589,
@@ -3038,6 +3050,8 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "wall",
+        "royal_cypher": "GR",
         "osm_id": 1971040765,
         "lon": -4.482165,
         "lat": 54.146646,
@@ -3459,6 +3473,10 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "name": "St Marys Road",
+        "post_box:type": "wall",
+        "ref": "159",
         "royal_cypher": "VR",
         "royal_cypher:wikidata": "Q33102356",
         "osm_id": 10291919451,
@@ -5040,6 +5058,27 @@
         "lat": 54.322194,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12009889445"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12108669697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.617052,
+          54.225855
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "post_box:type": "lamp",
+        "royal_cypher": "GR",
+        "osm_id": 12108669697,
+        "lon": -4.617052,
+        "lat": 54.225855,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12108669697"
       }
     }
   ]

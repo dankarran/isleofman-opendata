@@ -178,10 +178,11 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "name": "The Point",
         "post_box:type": "pillar",
         "ref": "141",
-        "royal_cypher": "GR",
-        "royal_cypher:wikidata": "Q33102273"
+        "royal_cypher": "GVIR"
       }
     },
     {
@@ -574,13 +575,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.754633,
-          54.083224
+          -4.754596,
+          54.083267
         ]
       },
       "properties": {
         "amenity": "post_box",
-        "ref": "158"
+        "post_box:type": "lamp",
+        "ref": "158",
+        "royal_cypher": "EIIR"
       }
     },
     {
@@ -1235,10 +1238,11 @@
       },
       "properties": {
         "amenity": "post_box",
-        "collection_times": "Mo-Sa 06:00; Mo-Fr 16:00;",
+        "collection_times": "Mo-Fr 10:00",
         "name": "Four Roads",
+        "post_box:type": "wall",
         "ref": "144",
-        "royal_cypher": "ER"
+        "royal_cypher": "EIIR"
       }
     },
     {
@@ -1385,6 +1389,8 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "name": "Park Road",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
         "ref": "142",
@@ -1417,8 +1423,10 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
         "post_box:type": "wall",
         "ref": "160",
+        "royal_cypher": "VR",
         "source": "survey"
       }
     },
@@ -1705,7 +1713,11 @@
       },
       "properties": {
         "amenity": "post_box",
-        "ref": "164"
+        "collection_times": "Mo 06:00,16:45; Tu-Fr 16:45",
+        "name": "Spar Colby",
+        "post_box:type": "lamp",
+        "ref": "183",
+        "royal_cypher": "EIIR"
       }
     },
     {
@@ -2377,7 +2389,9 @@
         ]
       },
       "properties": {
-        "amenity": "post_box"
+        "amenity": "post_box",
+        "post_box:type": "wall",
+        "royal_cypher": "GR"
       }
     },
     {
@@ -2704,6 +2718,10 @@
       },
       "properties": {
         "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:00",
+        "name": "St Marys Road",
+        "post_box:type": "wall",
+        "ref": "159",
         "royal_cypher": "VR",
         "royal_cypher:wikidata": "Q33102356"
       }
@@ -3920,6 +3938,22 @@
       "properties": {
         "amenity": "post_box",
         "post_box:type": "lamp"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12108669697,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.617052,
+          54.225855
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "post_box:type": "lamp",
+        "royal_cypher": "GR"
       }
     }
   ]

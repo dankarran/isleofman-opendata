@@ -163,18 +163,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.491346,
-          54.156199
+          -4.500621,
+          54.152807
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:postcode": "IM2 3LX",
-        "addr:street": "Tennis Road",
+        "addr:place": "The Milestone",
+        "addr:street": "Peel Road",
         "name": "The Wine Cellar",
         "shop": "alcohol",
-        "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "website": "https://www.thewinecellar.im/"
       }
     },
@@ -4023,34 +4022,37 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.477033,
-            54.145438
+            -4.477153,
+            54.145357
           ],
           [
-            -4.47678,
-            54.14531
+            -4.477022,
+            54.145446
           ],
           [
-            -4.477033,
-            54.14514
+            -4.476769,
+            54.145318
           ],
           [
-            -4.477285,
-            54.145268
+            -4.476901,
+            54.145229
           ],
           [
-            -4.477033,
-            54.145438
+            -4.477153,
+            54.145357
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "Unit 1",
         "addr:place": "Douglas Head Industrial Estate",
+        "addr:postcode": "IM1 5BF",
+        "addr:unit": "Bays 7-8",
         "building": "industrial",
-        "name": "Furniture Direct",
-        "shop": "furniture",
+        "name": "Ace Carpets",
+        "shop": "carpet",
         "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
@@ -4139,6 +4141,89 @@
     },
     {
       "type": "Feature",
+      "id": 59384642,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479795,
+            54.146382
+          ],
+          [
+            -4.47949,
+            54.146445
+          ],
+          [
+            -4.4794,
+            54.146295
+          ],
+          [
+            -4.479705,
+            54.146232
+          ],
+          [
+            -4.479795,
+            54.146382
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "6",
+        "building": "industrial",
+        "contact:email": "goldiesgarage22@gmail.com",
+        "contact:phone": "+44 1624 610910",
+        "description": "Land Rover and Jaguar specialist",
+        "name": "Goldie's Garage",
+        "shop": "car_repair",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59384650,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481413,
+            54.14617
+          ],
+          [
+            -4.481012,
+            54.146244
+          ],
+          [
+            -4.480945,
+            54.146121
+          ],
+          [
+            -4.481347,
+            54.146047
+          ],
+          [
+            -4.481413,
+            54.14617
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "10",
+        "building": "industrial",
+        "name": "Ace Hire",
+        "shop": "tool_hire",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59384658,
       "geometry": {
         "type": "LineString",
@@ -4174,6 +4259,50 @@
         "name": "ATS",
         "operator": "ATS",
         "shop": "car_repair",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59384660,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480611,
+            54.146251
+          ],
+          [
+            -4.480028,
+            54.146353
+          ],
+          [
+            -4.479972,
+            54.146243
+          ],
+          [
+            -4.480555,
+            54.146141
+          ],
+          [
+            -4.480611,
+            54.146251
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "7A-B",
+        "building": "industrial",
+        "contact:email": "sadlers11@hotmail.com",
+        "contact:phone": "+44 1624 623838",
+        "layer": "1",
+        "level": "1",
+        "name": "Sadler",
+        "shop": "agriculture",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -4357,6 +4486,8 @@
         "addr:country": "IM",
         "addr:place": "Spring Valley Industrial Estate",
         "addr:unit": "26",
+        "brand": "Screwfix",
+        "brand:wikidata": "Q7439115",
         "building": "industrial",
         "name": "Screwfix",
         "shop": "trade",
@@ -6274,55 +6405,6 @@
         "shop": "grocery",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "http://www.robinsons-fruit.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 79122772,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.630127,
-            54.097654
-          ],
-          [
-            -4.630271,
-            54.097613
-          ],
-          [
-            -4.630354,
-            54.097716
-          ],
-          [
-            -4.630274,
-            54.097741
-          ],
-          [
-            -4.630212,
-            54.09776
-          ],
-          [
-            -4.630193,
-            54.097734
-          ],
-          [
-            -4.630127,
-            54.097654
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ballasalla",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM9 2EQ",
-        "addr:street": "Ballasalla Main Road",
-        "building": "yes",
-        "building:levels": "3",
-        "name": "Beautiful Blooms",
-        "shop": "florist",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.beautifulbloomsiom.com"
       }
     },
     {
@@ -12057,6 +12139,73 @@
     },
     {
       "type": "Feature",
+      "id": 103568634,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.75986,
+            54.085079
+          ],
+          [
+            -4.759709,
+            54.085011
+          ],
+          [
+            -4.75968,
+            54.085005
+          ],
+          [
+            -4.759664,
+            54.085016
+          ],
+          [
+            -4.759602,
+            54.085064
+          ],
+          [
+            -4.759629,
+            54.085074
+          ],
+          [
+            -4.759602,
+            54.085102
+          ],
+          [
+            -4.759691,
+            54.08514
+          ],
+          [
+            -4.759675,
+            54.085149
+          ],
+          [
+            -4.759723,
+            54.085167
+          ],
+          [
+            -4.759754,
+            54.085147
+          ],
+          [
+            -4.75986,
+            54.085079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:postcode": "IM9 6HF",
+        "addr:street": "Strand Road",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/7thwaveiom/",
+        "name": "7th Wave",
+        "shop": "water_sports",
+        "website": "https://7thwave-iom.com"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 103884687,
       "geometry": {
         "type": "LineString",
@@ -12486,6 +12635,49 @@
     },
     {
       "type": "Feature",
+      "id": 146833077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.697171,
+            54.22371
+          ],
+          [
+            -4.69739,
+            54.223685
+          ],
+          [
+            -4.697415,
+            54.223725
+          ],
+          [
+            -4.697216,
+            54.223749
+          ],
+          [
+            -4.697144,
+            54.223736
+          ],
+          [
+            -4.697134,
+            54.223722
+          ],
+          [
+            -4.697171,
+            54.22371
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "General boat repairs",
+        "repair": "boats",
+        "shop": "repair"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146833094,
       "geometry": {
         "type": "LineString",
@@ -12610,12 +12802,16 @@
             54.223693
           ],
           [
-            -4.695434,
-            54.223658
+            -4.695441,
+            54.223664
           ],
           [
             -4.695394,
             54.223599
+          ],
+          [
+            -4.695444,
+            54.223586
           ],
           [
             -4.695513,
@@ -16112,36 +16308,38 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.477033,
-            54.145438
+            -4.477022,
+            54.145446
           ],
           [
-            -4.476897,
-            54.14553
+            -4.47689,
+            54.145535
           ],
           [
-            -4.476645,
-            54.145401
+            -4.476638,
+            54.145406
           ],
           [
-            -4.47678,
-            54.14531
+            -4.476769,
+            54.145318
           ],
           [
-            -4.477033,
-            54.145438
+            -4.477022,
+            54.145446
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "Bays 7 & 8, Unit 1",
+        "addr:housenumber": "Unit 1",
         "addr:place": "Douglas Head Industrial Estate",
-        "addr:postcode": "IM1 5BX",
+        "addr:postcode": "IM1 5BF",
+        "addr:unit": "Bays 5-6",
         "building": "industrial",
-        "name": "Douglas Carpet Superstore",
-        "shop": "carpet",
+        "contact:phone": "+44 1624 679889",
+        "name": "TaylorClarke Automotive Specialists Ltd",
+        "shop": "car_repair",
         "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
@@ -16277,47 +16475,6 @@
         "shop": "window_blind",
         "source": "survey;note",
         "website": "https://www.talbots.im"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 280860901,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.476897,
-            54.14553
-          ],
-          [
-            -4.476762,
-            54.145621
-          ],
-          [
-            -4.47651,
-            54.145493
-          ],
-          [
-            -4.476645,
-            54.145401
-          ],
-          [
-            -4.476897,
-            54.14553
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "Unit 1",
-        "addr:place": "Douglas Head Industrial Estate",
-        "addr:postcode": "IM1 5BF",
-        "building": "industrial",
-        "name": "TaylorClarke",
-        "phone": "+44 1624 679889",
-        "shop": "car_repair",
-        "source": "Isle of Man Government aerial imagery (2001);survey"
       }
     },
     {
@@ -16460,6 +16617,49 @@
         "phone": "+44 1624 626735;+44 7624 421058",
         "shop": "hairdresser;beauty",
         "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 280860906,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476758,
+            54.145624
+          ],
+          [
+            -4.476627,
+            54.145712
+          ],
+          [
+            -4.476374,
+            54.145584
+          ],
+          [
+            -4.476506,
+            54.145495
+          ],
+          [
+            -4.476758,
+            54.145624
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "Unit 1",
+        "addr:place": "Douglas Head Industrial Estate",
+        "addr:postcode": "IM1 5BF",
+        "addr:unit": "Bays 1-2",
+        "building": "industrial",
+        "contact:phone": "+44 1624 613322",
+        "name": "Island Tyres & Autocare",
+        "shop": "tyres;car_repair",
+        "source": "Isle of Man Government aerial imagery (2001);survey",
+        "start_date": "1999"
       }
     },
     {
@@ -23476,6 +23676,45 @@
     },
     {
       "type": "Feature",
+      "id": 999054890,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481501,
+            54.145846
+          ],
+          [
+            -4.481491,
+            54.145722
+          ],
+          [
+            -4.481959,
+            54.145709
+          ],
+          [
+            -4.481969,
+            54.145833
+          ],
+          [
+            -4.481501,
+            54.145846
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "23A-B",
+        "building": "industrial",
+        "name": "Quayside Tyre and Service Centre",
+        "shop": "tyres;car_repair"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1006192142,
       "geometry": {
         "type": "LineString",
@@ -27264,6 +27503,238 @@
         "shop": "seafood",
         "toilets": "no",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307250328,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481533,
+            54.146146
+          ],
+          [
+            -4.481528,
+            54.146088
+          ],
+          [
+            -4.481739,
+            54.146082
+          ],
+          [
+            -4.481744,
+            54.146139
+          ],
+          [
+            -4.481533,
+            54.146146
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "25A",
+        "building": "industrial",
+        "name": "Quayside Electric & Hybrid Centre",
+        "shop": "motorcycle_repair;car_repair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307250329,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481763,
+            54.146368
+          ],
+          [
+            -4.481758,
+            54.146311
+          ],
+          [
+            -4.481753,
+            54.146254
+          ],
+          [
+            -4.481749,
+            54.146197
+          ],
+          [
+            -4.481538,
+            54.146203
+          ],
+          [
+            -4.481543,
+            54.14626
+          ],
+          [
+            -4.481548,
+            54.146317
+          ],
+          [
+            -4.481553,
+            54.146374
+          ],
+          [
+            -4.481763,
+            54.146368
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "25C-E",
+        "contact:email": "nathan@handhmotorcycles.im",
+        "contact:phone": "+44 1624 665646",
+        "contact:website": "https://handhmotorcycles.im/",
+        "name": "H&H Motorcycles",
+        "shop": "motorcycle;motorcycle_repair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307709949,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476901,
+            54.145229
+          ],
+          [
+            -4.477033,
+            54.14514
+          ],
+          [
+            -4.477285,
+            54.145268
+          ],
+          [
+            -4.477153,
+            54.145357
+          ],
+          [
+            -4.476901,
+            54.145229
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "Unit 1",
+        "addr:place": "Douglas Head Industrial Estate",
+        "addr:postcode": "IM1 5BF",
+        "addr:unit": "Bays 9-10",
+        "building": "industrial",
+        "contact:email": "randtltd@manx.net",
+        "contact:phone": "+44 1624 627533",
+        "description": "Motor body repairs & servicing",
+        "name": "Reynolds & Turner Ltd",
+        "shop": "car_repair",
+        "source": "Isle of Man Government aerial imagery (2001);survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307999946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481329,
+            54.146629
+          ],
+          [
+            -4.481204,
+            54.146651
+          ],
+          [
+            -4.481178,
+            54.146655
+          ],
+          [
+            -4.481093,
+            54.146489
+          ],
+          [
+            -4.481108,
+            54.146486
+          ],
+          [
+            -4.481244,
+            54.146462
+          ],
+          [
+            -4.481329,
+            54.146629
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "18",
+        "building": "industrial",
+        "contact:email": "hello@houndandhowl.com",
+        "contact:phone": "+44 7624 469099",
+        "contact:website": "https://houndandhowl.com/",
+        "name": "Hound and Howl",
+        "operator": "Mo-Fr 10:00-17:30, Sa 10:00-15:00",
+        "shop": "pet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1308483341,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480541,
+            54.146433
+          ],
+          [
+            -4.480687,
+            54.146407
+          ],
+          [
+            -4.480755,
+            54.146543
+          ],
+          [
+            -4.480609,
+            54.146568
+          ],
+          [
+            -4.480541,
+            54.146433
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "13D",
+        "building": "yes",
+        "contact:phone": "+44 1624 620000",
+        "name": "GSF Car Parts",
+        "shop": "car_parts;wholesale",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "wholesale": "car_parts"
       }
     }
   ]

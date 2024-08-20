@@ -8115,9 +8115,12 @@
       },
       "properties": {
         "abutters": "residential",
+        "alt_name": "Baymount Road",
         "foot": "designated",
         "highway": "residential",
-        "name": "Baymount Road",
+        "name": "Baymount",
+        "name:en": "Baymount",
+        "name:gv": "Cronk ny Baie",
         "postal_code": "IM9 6JH",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
@@ -13364,8 +13367,12 @@
             54.083261
           ],
           [
-            -4.760807,
+            -4.760897,
             54.083199
+          ],
+          [
+            -4.760815,
+            54.083188
           ]
         ]
       },
@@ -13377,8 +13384,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987584,
-        "lon": -4.761576527285563,
-        "lat": 54.08301267837754,
+        "lon": -4.761579719475148,
+        "lat": 54.08301008551133,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987584"
       }
@@ -18122,6 +18129,10 @@
             54.083102
           ],
           [
+            -4.760842,
+            54.083097
+          ],
+          [
             -4.760264,
             54.082994
           ],
@@ -18179,12 +18190,14 @@
         "abutters": "residential",
         "highway": "residential",
         "name": "Saint Georges Crescent",
+        "name:en": "Saint Georges Crescent",
+        "name:gv": "Corran Noo Shorys",
         "postal_code": "IM9 6HR",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988591,
-        "lon": -4.759624278053223,
-        "lat": 54.08348863241304,
+        "lon": -4.759624281428135,
+        "lat": 54.083488614769585,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988591"
       }
@@ -21634,6 +21647,7 @@
         "alt_name": "Darragh;The Darragh",
         "highway": "residential",
         "name": "Darrag",
+        "name:gv": "Darrag",
         "postal_code": "IM9 6JB",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
@@ -23073,6 +23087,10 @@
             54.080788
           ],
           [
+            -4.753637,
+            54.080751
+          ],
+          [
             -4.753573,
             54.080695
           ],
@@ -23109,6 +23127,10 @@
             54.080477
           ],
           [
+            -4.752162,
+            54.08047
+          ],
+          [
             -4.752005,
             54.080456
           ],
@@ -23141,6 +23163,10 @@
             54.08077
           ],
           [
+            -4.751393,
+            54.080864
+          ],
+          [
             -4.751392,
             54.080888
           ],
@@ -23159,6 +23185,10 @@
           [
             -4.751315,
             54.081449
+          ],
+          [
+            -4.751276,
+            54.081504
           ],
           [
             -4.751212,
@@ -23189,6 +23219,10 @@
             54.082359
           ],
           [
+            -4.752199,
+            54.082442
+          ],
+          [
             -4.752405,
             54.082507
           ],
@@ -23214,8 +23248,8 @@
         "postal_code": "IM9 6EF",
         "surface": "paved",
         "osm_id": 25989585,
-        "lon": -4.75256326049648,
-        "lat": 54.081762095386495,
+        "lon": -4.752563264540554,
+        "lat": 54.08176210320828,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989585"
       }
@@ -24208,44 +24242,64 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480181,
-            54.146411
+            -4.480124,
+            54.146417
           ],
           [
-            -4.480929,
-            54.146285
+            -4.480635,
+            54.14633
           ],
           [
-            -4.48135,
-            54.146244
+            -4.480958,
+            54.146344
           ],
           [
-            -4.481462,
-            54.146207
+            -4.481366,
+            54.146269
           ],
           [
-            -4.481506,
-            54.146107
+            -4.481437,
+            54.146236
           ],
           [
-            -4.481482,
-            54.146049
+            -4.481475,
+            54.146187
           ],
           [
-            -4.481452,
-            54.145975
+            -4.481479,
+            54.146108
           ],
           [
-            -4.481393,
-            54.145874
+            -4.481454,
+            54.146026
           ],
           [
-            -4.481237,
-            54.145865
+            -4.481407,
+            54.145977
           ],
           [
-            -4.479767,
-            54.146151
+            -4.48137,
+            54.145887
+          ],
+          [
+            -4.481241,
+            54.145877
+          ],
+          [
+            -4.480471,
+            54.146018
+          ],
+          [
+            -4.480218,
+            54.14611
+          ],
+          [
+            -4.479813,
+            54.146181
+          ],
+          [
+            -4.479139,
+            54.146303
           ]
         ]
       },
@@ -24254,8 +24308,8 @@
         "maxspeed": "10 mph",
         "postal_code": "IM1 5AT",
         "osm_id": 38430285,
-        "lon": -4.4807722490939454,
-        "lat": 54.146122876923265,
+        "lon": -4.48054697029156,
+        "lat": 54.14616480417004,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/38430285"
       }
@@ -32141,212 +32195,6 @@
         "lat": 54.151085418815306,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/103567076"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786559,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.752495,
-            54.079743
-          ],
-          [
-            -4.752663,
-            54.079674
-          ],
-          [
-            -4.752647,
-            54.07966
-          ],
-          [
-            -4.752695,
-            54.079641
-          ],
-          [
-            -4.752629,
-            54.079585
-          ],
-          [
-            -4.752412,
-            54.079673
-          ],
-          [
-            -4.752495,
-            54.079743
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Truggan Road",
-        "building": "yes",
-        "name": "Ballahane House",
-        "postal_code": "IM9 5LD",
-        "tourism": "guest_house",
-        "website": "http://ballahane.co.uk/bhindex.htm",
-        "osm_id": 103786559,
-        "lon": -4.752558854153722,
-        "lat": 54.07966343860164,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786559"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786575,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.752267,
-            54.079301
-          ],
-          [
-            -4.752382,
-            54.079214
-          ],
-          [
-            -4.752534,
-            54.079283
-          ],
-          [
-            -4.752457,
-            54.079342
-          ],
-          [
-            -4.752433,
-            54.079331
-          ],
-          [
-            -4.752395,
-            54.07936
-          ],
-          [
-            -4.752267,
-            54.079301
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Truggan Road",
-        "building": "house",
-        "name": "Ballahane Cottage",
-        "postal_code": "IM9 5LD",
-        "tourism": "chalet",
-        "website": "http://ballahane.co.uk/bcindex.htm",
-        "osm_id": 103786575,
-        "lon": -4.752400306126599,
-        "lat": 54.07929025251542,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786575"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786586,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.752729,
-            54.078921
-          ],
-          [
-            -4.752651,
-            54.078877
-          ],
-          [
-            -4.752728,
-            54.07883
-          ],
-          [
-            -4.752629,
-            54.078774
-          ],
-          [
-            -4.752716,
-            54.07872
-          ],
-          [
-            -4.752794,
-            54.078764
-          ],
-          [
-            -4.752837,
-            54.078738
-          ],
-          [
-            -4.752936,
-            54.078794
-          ],
-          [
-            -4.752894,
-            54.07882
-          ],
-          [
-            -4.752729,
-            54.078921
-          ]
-        ]
-      },
-      "properties": {
-        "building": "house",
-        "name": "Ballahane House",
-        "postal_code": "IM9 5LD",
-        "tourism": "guest_house",
-        "website": "http://ballahane.co.uk/bhindex.htm",
-        "osm_id": 103786586,
-        "lon": -4.7527639118831395,
-        "lat": 54.078812275719514,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786586"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786657,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.753402,
-            54.079676
-          ],
-          [
-            -4.753244,
-            54.0796
-          ],
-          [
-            -4.753301,
-            54.07956
-          ],
-          [
-            -4.753458,
-            54.079636
-          ],
-          [
-            -4.753402,
-            54.079676
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Truggan Road",
-        "building": "yes",
-        "name": "Ballahane Cottage",
-        "postal_code": "IM9 5LD",
-        "tourism": "chalet",
-        "website": "http://ballahane.co.uk/bcindex.htm",
-        "osm_id": 103786657,
-        "lon": -4.753351066235996,
-        "lat": 54.079617973369025,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786657"
       }
     },
     {

@@ -1569,11 +1569,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Victoria Road / Thirtle Bridge",
         "public_transport": "platform",
         "ref": "614",
+        "shelter": "no",
         "osm_id": 962512493,
         "lon": -4.652422,
         "lat": 54.075349,
@@ -1592,11 +1595,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Victoria Road / Brewery Wharf",
         "public_transport": "platform",
         "ref": "613",
+        "shelter": "no",
         "osm_id": 962512494,
         "lon": -4.652286,
         "lat": 54.075312,
@@ -1755,11 +1761,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Castletown Station / The Sidings",
         "public_transport": "platform",
         "ref": "609",
+        "shelter": "yes",
+        "tactile_paving": "no",
         "osm_id": 1195573091,
         "lon": -4.649123,
         "lat": 54.077894,

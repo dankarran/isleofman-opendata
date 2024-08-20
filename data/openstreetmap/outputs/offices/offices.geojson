@@ -3816,6 +3816,93 @@
     },
     {
       "type": "Feature",
+      "id": 99527589,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.654434,
+            54.074647
+          ],
+          [
+            -4.6544,
+            54.074658
+          ],
+          [
+            -4.654232,
+            54.074714
+          ],
+          [
+            -4.654207,
+            54.074722
+          ],
+          [
+            -4.654176,
+            54.074689
+          ],
+          [
+            -4.65415,
+            54.074692
+          ],
+          [
+            -4.654131,
+            54.074686
+          ],
+          [
+            -4.654121,
+            54.074671
+          ],
+          [
+            -4.654106,
+            54.074666
+          ],
+          [
+            -4.654095,
+            54.074663
+          ],
+          [
+            -4.654083,
+            54.07465
+          ],
+          [
+            -4.654085,
+            54.074633
+          ],
+          [
+            -4.654113,
+            54.074624
+          ],
+          [
+            -4.65434,
+            54.074549
+          ],
+          [
+            -4.654387,
+            54.074598
+          ],
+          [
+            -4.654434,
+            54.074647
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:street": "Malew Street",
+        "building": "church",
+        "name": "Haven Homes",
+        "note": "Appears to be a former church, now converted into offices",
+        "office": "yes",
+        "website": "https://haven.im/",
+        "osm_id": 99527589,
+        "lon": -4.654257982603895,
+        "lat": 54.07463854394926,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/99527589"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101772793,
       "geometry": {
         "type": "LineString",
@@ -9686,6 +9773,53 @@
         "lat": 54.16994474810418,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1270919366"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1308483344,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480264,
+            54.146192
+          ],
+          [
+            -4.480409,
+            54.146167
+          ],
+          [
+            -4.480465,
+            54.146277
+          ],
+          [
+            -4.48032,
+            54.146302
+          ],
+          [
+            -4.480264,
+            54.146192
+          ]
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "South Quay Industrial Estate",
+        "addr:postcode": "IM1 5AT",
+        "addr:unit": "12",
+        "building": "industrial",
+        "layer": "0",
+        "level": "0",
+        "name": "Brian Connachan Maintenance Ltd",
+        "office": "maintenance",
+        "osm_id": 1308483344,
+        "lon": -4.4803645,
+        "lat": 54.1462345,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1308483344"
       }
     }
   ]

@@ -2260,6 +2260,27 @@
     },
     {
       "type": "Feature",
+      "id": 1751388298,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.755243,
+          54.080201
+        ]
+      },
+      "properties": {
+        "information": "route_marker",
+        "note": "Footpath signed up this road, but it doesn't connect to other paths at the top of the road. Good view from turning point.",
+        "tourism": "information",
+        "osm_id": 1751388298,
+        "lon": -4.755243,
+        "lat": 54.080201,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1751388298"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1751528049,
       "geometry": {
         "type": "Point",
@@ -2676,16 +2697,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.652179,
-          54.072558
+          -4.652216,
+          54.072555
         ]
       },
       "properties": {
         "source": "survey",
         "tourism": "viewpoint",
         "osm_id": 5211483492,
-        "lon": -4.652179,
-        "lat": 54.072558,
+        "lon": -4.652216,
+        "lat": 54.072555,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/5211483492"
       }
@@ -5537,6 +5558,133 @@
     },
     {
       "type": "Feature",
+      "id": 12108629870,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.642568,
+          54.20135
+        ]
+      },
+      "properties": {
+        "artwork_type": "sculpture",
+        "material": "metal",
+        "name": "2018 Year of Our Island",
+        "tourism": "artwork",
+        "osm_id": 12108629870,
+        "lon": -4.642568,
+        "lat": 54.20135,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12108629870"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12111433269,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.792657,
+          54.063547
+        ]
+      },
+      "properties": {
+        "board_type": "history",
+        "information": "board",
+        "name": "The Parade",
+        "tourism": "information",
+        "osm_id": 12111433269,
+        "lon": -4.792657,
+        "lat": 54.063547,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12111433269"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12112964329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.739021,
+          54.072721
+        ]
+      },
+      "properties": {
+        "board_type": "notice",
+        "information": "board",
+        "tourism": "information",
+        "osm_id": 12112964329,
+        "lon": -4.739021,
+        "lat": 54.072721,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12112964329"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12113252314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.73492,
+          54.069369
+        ]
+      },
+      "properties": {
+        "information": "guidepost",
+        "tourism": "information",
+        "osm_id": 12113252314,
+        "lon": -4.73492,
+        "lat": 54.069369,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12113252314"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12115263335,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.757297,
+          54.079197
+        ]
+      },
+      "properties": {
+        "tourism": "viewpoint",
+        "osm_id": 12115263335,
+        "lon": -4.757297,
+        "lat": 54.079197,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12115263335"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12118902523,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.65231,
+          54.072769
+        ]
+      },
+      "properties": {
+        "description": "Millennium Way Start/End",
+        "information": "guidepost",
+        "material": "wood",
+        "source": "survey",
+        "tourism": "information",
+        "osm_id": 12118902523,
+        "lon": -4.65231,
+        "lat": 54.072769,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12118902523"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -6107,6 +6255,7 @@
         "name:gv": "Cashtal Rushen",
         "name:ru": "\u0417\u0430\u043c\u043e\u043a \u0420\u0430\u0448\u0435\u043d",
         "operator": "Manx National Heritage",
+        "payment:cash": "yes",
         "ref:GB:imher": "0080.00",
         "ref:registered_building": "24",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -8383,32 +8532,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.652136,
-            54.072931
+            -4.65216,
+            54.072952
           ],
           [
-            -4.652278,
-            54.072851
+            -4.652303,
+            54.072872
           ],
           [
-            -4.652211,
-            54.07281
+            -4.652235,
+            54.072831
           ],
           [
-            -4.652139,
-            54.072851
+            -4.652163,
+            54.072872
           ],
           [
-            -4.652062,
-            54.072804
+            -4.652086,
+            54.072825
           ],
           [
-            -4.651992,
-            54.072844
+            -4.652016,
+            54.072864
           ],
           [
-            -4.652136,
-            54.072931
+            -4.65216,
+            54.072952
           ]
         ]
       },
@@ -8435,8 +8584,8 @@
         "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
         "wikidata": "Q118188623",
         "osm_id": 60930657,
-        "lon": -4.652134827637946,
-        "lat": 54.07285861853227,
+        "lon": -4.652159270363251,
+        "lat": 54.07287948589684,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60930657"
       }
@@ -10574,6 +10723,55 @@
     },
     {
       "type": "Feature",
+      "id": 101845108,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759433,
+            54.083959
+          ],
+          [
+            -4.759367,
+            54.08394
+          ],
+          [
+            -4.759416,
+            54.083881
+          ],
+          [
+            -4.759558,
+            54.083922
+          ],
+          [
+            -4.759484,
+            54.084011
+          ],
+          [
+            -4.759408,
+            54.08399
+          ],
+          [
+            -4.759433,
+            54.083959
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Windways",
+        "addr:street": "Saint Georges Crescent",
+        "building": "yes",
+        "name": "Windways",
+        "tourism": "chalet",
+        "osm_id": 101845108,
+        "lon": -4.759458104151313,
+        "lat": 54.08394362242805,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101845108"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101847182,
       "geometry": {
         "type": "LineString",
@@ -10630,53 +10828,107 @@
     },
     {
       "type": "Feature",
-      "id": 102227003,
+      "id": 101959623,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.753579,
-            54.074485
+            -4.739447,
+            54.068579
           ],
           [
-            -4.753513,
-            54.074376
+            -4.739357,
+            54.068566
           ],
           [
-            -4.75358,
-            54.074362
+            -4.739395,
+            54.068474
           ],
           [
-            -4.753565,
-            54.074337
+            -4.739302,
+            54.068461
           ],
           [
-            -4.753649,
-            54.074319
+            -4.739266,
+            54.068549
           ],
           [
-            -4.753731,
-            54.074453
+            -4.739218,
+            54.068542
           ],
           [
-            -4.753579,
-            54.074485
+            -4.739293,
+            54.068361
+          ],
+          [
+            -4.739443,
+            54.068382
+          ],
+          [
+            -4.73945,
+            54.068365
+          ],
+          [
+            -4.739531,
+            54.068377
+          ],
+          [
+            -4.739447,
+            54.068579
           ]
         ]
       },
       "properties": {
-        "addr:city": "Port Saint Mary",
-        "addr:postcode": "IM9 5PW",
-        "addr:street": "Glen Chass Road",
+        "addr:housename": "Seaton House",
+        "addr:street": "Clifton Road",
         "building": "yes",
-        "name": "Colloway Cottage",
+        "tourism": "guest_house",
+        "osm_id": 101959623,
+        "lon": -4.7393715289409375,
+        "lat": 54.06846486365669,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/101959623"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.75374,
+            54.074589
+          ],
+          [
+            -4.753536,
+            54.074611
+          ],
+          [
+            -4.753524,
+            54.074573
+          ],
+          [
+            -4.753729,
+            54.074552
+          ],
+          [
+            -4.75374,
+            54.074589
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Colloway Cottage",
+        "addr:postcode": "IM9 5PW",
+        "building": "yes",
         "tourism": "chalet",
         "website": "https://www.visitisleofman.com/stay/colloway-cottage-p1289221",
-        "osm_id": 102227003,
-        "lon": -4.753619152362057,
-        "lat": 54.07440421181561,
+        "osm_id": 102226991,
+        "lon": -4.753631978718986,
+        "lat": 54.074581243347424,
         "osm_type": "way",
-        "osm_url": "https://osm.org/way/102227003"
+        "osm_url": "https://osm.org/way/102226991"
       }
     },
     {
@@ -10978,212 +11230,6 @@
         "lat": 54.08342468572841,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/103529579"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786559,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.752495,
-            54.079743
-          ],
-          [
-            -4.752663,
-            54.079674
-          ],
-          [
-            -4.752647,
-            54.07966
-          ],
-          [
-            -4.752695,
-            54.079641
-          ],
-          [
-            -4.752629,
-            54.079585
-          ],
-          [
-            -4.752412,
-            54.079673
-          ],
-          [
-            -4.752495,
-            54.079743
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Truggan Road",
-        "building": "yes",
-        "name": "Ballahane House",
-        "postal_code": "IM9 5LD",
-        "tourism": "guest_house",
-        "website": "http://ballahane.co.uk/bhindex.htm",
-        "osm_id": 103786559,
-        "lon": -4.752558854153722,
-        "lat": 54.07966343860164,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786559"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786575,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.752267,
-            54.079301
-          ],
-          [
-            -4.752382,
-            54.079214
-          ],
-          [
-            -4.752534,
-            54.079283
-          ],
-          [
-            -4.752457,
-            54.079342
-          ],
-          [
-            -4.752433,
-            54.079331
-          ],
-          [
-            -4.752395,
-            54.07936
-          ],
-          [
-            -4.752267,
-            54.079301
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Truggan Road",
-        "building": "house",
-        "name": "Ballahane Cottage",
-        "postal_code": "IM9 5LD",
-        "tourism": "chalet",
-        "website": "http://ballahane.co.uk/bcindex.htm",
-        "osm_id": 103786575,
-        "lon": -4.752400306126599,
-        "lat": 54.07929025251542,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786575"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786586,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.752729,
-            54.078921
-          ],
-          [
-            -4.752651,
-            54.078877
-          ],
-          [
-            -4.752728,
-            54.07883
-          ],
-          [
-            -4.752629,
-            54.078774
-          ],
-          [
-            -4.752716,
-            54.07872
-          ],
-          [
-            -4.752794,
-            54.078764
-          ],
-          [
-            -4.752837,
-            54.078738
-          ],
-          [
-            -4.752936,
-            54.078794
-          ],
-          [
-            -4.752894,
-            54.07882
-          ],
-          [
-            -4.752729,
-            54.078921
-          ]
-        ]
-      },
-      "properties": {
-        "building": "house",
-        "name": "Ballahane House",
-        "postal_code": "IM9 5LD",
-        "tourism": "guest_house",
-        "website": "http://ballahane.co.uk/bhindex.htm",
-        "osm_id": 103786586,
-        "lon": -4.7527639118831395,
-        "lat": 54.078812275719514,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786586"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 103786657,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.753402,
-            54.079676
-          ],
-          [
-            -4.753244,
-            54.0796
-          ],
-          [
-            -4.753301,
-            54.07956
-          ],
-          [
-            -4.753458,
-            54.079636
-          ],
-          [
-            -4.753402,
-            54.079676
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Truggan Road",
-        "building": "yes",
-        "name": "Ballahane Cottage",
-        "postal_code": "IM9 5LD",
-        "tourism": "chalet",
-        "website": "http://ballahane.co.uk/bcindex.htm",
-        "osm_id": 103786657,
-        "lon": -4.753351066235996,
-        "lat": 54.079617973369025,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/103786657"
       }
     },
     {
@@ -22251,6 +22297,61 @@
         "lat": 54.15572575995262,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1300558126"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1308982224,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486254,
+            54.157199
+          ],
+          [
+            -4.48629,
+            54.157254
+          ],
+          [
+            -4.486441,
+            54.157221
+          ],
+          [
+            -4.486587,
+            54.157188
+          ],
+          [
+            -4.486562,
+            54.157149
+          ],
+          [
+            -4.486406,
+            54.157184
+          ],
+          [
+            -4.486395,
+            54.157167
+          ],
+          [
+            -4.486254,
+            54.157199
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM2 3AD",
+        "addr:street": "Woodbourne Road",
+        "building": "house",
+        "name": "The Victorian House",
+        "tourism": "guest_house",
+        "osm_id": 1308982224,
+        "lon": -4.486418791419532,
+        "lat": 54.15719789814274,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1308982224"
       }
     }
   ]
