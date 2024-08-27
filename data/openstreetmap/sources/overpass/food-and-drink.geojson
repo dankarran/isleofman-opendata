@@ -107,6 +107,7 @@
         ]
       },
       "properties": {
+        "air_conditioning": "no",
         "amenity": "cafe",
         "name": "Laxey Station Cafe",
         "outdoor_seating": "yes"
@@ -246,11 +247,8 @@
         "addr:country": "IM",
         "addr:housename": "South View",
         "addr:street": "Queens Promenade",
-        "amenity": "fast_food",
-        "cuisine": "pizza",
-        "name": "Pizza King",
-        "phone": "+44 1624 660166",
-        "website": "http://www.pizzakingiom.co.uk"
+        "amenity": "cafe",
+        "name": "Mama's Kitchen"
       }
     },
     {
@@ -5576,6 +5574,10 @@
             54.064017
           ],
           [
+            -4.792547,
+            54.064028
+          ],
+          [
             -4.792568,
             54.064038
           ],
@@ -7969,8 +7971,12 @@
             54.262103
           ],
           [
-            -4.462963,
+            -4.462962,
             54.262126
+          ],
+          [
+            -4.462973,
+            54.262139
           ],
           [
             -4.462981,
@@ -7982,7 +7988,7 @@
           ],
           [
             -4.462867,
-            54.262154
+            54.262155
           ],
           [
             -4.462789,
@@ -8047,10 +8053,12 @@
         ]
       },
       "properties": {
+        "air_conditioning": "no",
         "amenity": "cafe",
         "building": "yes",
         "building:levels": "1",
         "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/snaefellsummit/",
         "name": "Summit Hotel",
         "note": "Although it is called a hotel it doesn't have any accommodation, just a cafe, bar and toilets. Open seasonally when railway is open.",
         "operator": "Summit Catering"
@@ -12018,47 +12026,6 @@
     },
     {
       "type": "Feature",
-      "id": 419113945,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479209,
-            54.151984
-          ],
-          [
-            -4.479486,
-            54.151977
-          ],
-          [
-            -4.479621,
-            54.151969
-          ],
-          [
-            -4.479617,
-            54.151919
-          ],
-          [
-            -4.479204,
-            54.151933
-          ],
-          [
-            -4.479209,
-            54.151984
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "cafe",
-        "building": "retail",
-        "cuisine": "taiwanese",
-        "name": "Tea Evolution",
-        "shop": "beverages",
-        "source": "Bing;photograph"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113947,
       "geometry": {
         "type": "LineString",
@@ -12076,10 +12043,6 @@
             54.152149
           ],
           [
-            -4.47948,
-            54.152084
-          ],
-          [
             -4.479466,
             54.152085
           ],
@@ -12090,6 +12053,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "77",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "amenity": "cafe",
         "building": "retail",
         "building:colour": "cream",
@@ -12687,51 +12655,6 @@
         "phone": "+44 1624 620232",
         "source": "survey",
         "website": "https://www.sevenkingdomdistillery.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 531717921,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.464008,
-            54.16661
-          ],
-          [
-            -4.463906,
-            54.166647
-          ],
-          [
-            -4.46403,
-            54.166749
-          ],
-          [
-            -4.464129,
-            54.166712
-          ],
-          [
-            -4.464008,
-            54.16661
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM2 4PL",
-        "addr:street": "Summer Hill",
-        "amenity": "restaurant",
-        "building": "yes",
-        "cuisine": "french",
-        "email": "info@lex.co.im",
-        "name": "L\u2019exp\u00e9rience",
-        "opening_hours": "Mo,We-Sa 12:00-14:00,18:45-23:30",
-        "outdoor_seating": "no",
-        "phone": "+44 1624 623103",
-        "smoking": "no",
-        "website": "http://www.lex.co.im/"
       }
     },
     {

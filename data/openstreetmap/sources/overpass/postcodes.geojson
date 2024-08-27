@@ -8034,6 +8034,29 @@
     },
     {
       "type": "Feature",
+      "id": 12134462885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479366,
+          54.154273
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "St Thomas' Church",
+        "addr:postcode": "IM1 2PL",
+        "addr:street": "Finch Road",
+        "books": "christian",
+        "contact:phone": "+44 1624 621593",
+        "gift": "christian",
+        "name": "Churches Bookshop",
+        "shop": "books;gift;stationery"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -23433,6 +23456,10 @@
             54.154337
           ],
           [
+            -4.479373,
+            54.154256
+          ],
+          [
             -4.479284,
             54.154239
           ],
@@ -31376,6 +31403,77 @@
     },
     {
       "type": "Feature",
+      "id": 79396354,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759833,
+            54.089451
+          ],
+          [
+            -4.759663,
+            54.089501
+          ],
+          [
+            -4.759627,
+            54.089459
+          ],
+          [
+            -4.75946,
+            54.089508
+          ],
+          [
+            -4.759409,
+            54.089448
+          ],
+          [
+            -4.759563,
+            54.089403
+          ],
+          [
+            -4.759494,
+            54.089322
+          ],
+          [
+            -4.759327,
+            54.089372
+          ],
+          [
+            -4.759281,
+            54.089319
+          ],
+          [
+            -4.759442,
+            54.089272
+          ],
+          [
+            -4.759398,
+            54.08922
+          ],
+          [
+            -4.759588,
+            54.089164
+          ],
+          [
+            -4.759833,
+            54.089451
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Erin Court",
+        "addr:postcode": "IM9 6LN",
+        "addr:street": "Rowany Drive",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79396808,
       "geometry": {
         "type": "LineString",
@@ -35416,6 +35514,10 @@
           [
             -4.792527,
             54.064017
+          ],
+          [
+            -4.792547,
+            54.064028
           ],
           [
             -4.792568,
@@ -50897,6 +50999,203 @@
     },
     {
       "type": "Feature",
+      "id": 102226972,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753032,
+            54.074356
+          ],
+          [
+            -4.753083,
+            54.074442
+          ],
+          [
+            -4.753214,
+            54.074415
+          ],
+          [
+            -4.753163,
+            54.074329
+          ],
+          [
+            -4.753032,
+            54.074356
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Cronk View",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226974,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753165,
+            54.072947
+          ],
+          [
+            -4.753126,
+            54.072906
+          ],
+          [
+            -4.753254,
+            54.072863
+          ],
+          [
+            -4.753324,
+            54.072934
+          ],
+          [
+            -4.753236,
+            54.072963
+          ],
+          [
+            -4.753206,
+            54.072933
+          ],
+          [
+            -4.753165,
+            54.072947
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Riverside",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226980,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753679,
+            54.073046
+          ],
+          [
+            -4.753544,
+            54.073059
+          ],
+          [
+            -4.75352,
+            54.072976
+          ],
+          [
+            -4.753828,
+            54.072946
+          ],
+          [
+            -4.753846,
+            54.07301
+          ],
+          [
+            -4.753787,
+            54.073016
+          ],
+          [
+            -4.753794,
+            54.073041
+          ],
+          [
+            -4.753744,
+            54.073046
+          ],
+          [
+            -4.753748,
+            54.07306
+          ],
+          [
+            -4.753684,
+            54.073066
+          ],
+          [
+            -4.753679,
+            54.073046
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Braeside",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226986,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753026,
+            54.073921
+          ],
+          [
+            -4.752886,
+            54.073902
+          ],
+          [
+            -4.752914,
+            54.073833
+          ],
+          [
+            -4.752964,
+            54.07384
+          ],
+          [
+            -4.75297,
+            54.073825
+          ],
+          [
+            -4.75302,
+            54.073832
+          ],
+          [
+            -4.753015,
+            54.073844
+          ],
+          [
+            -4.753054,
+            54.073849
+          ],
+          [
+            -4.753026,
+            54.073921
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Quo Vadis",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102226991,
       "geometry": {
         "type": "LineString",
@@ -50924,11 +51223,267 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
         "addr:housename": "Colloway Cottage",
         "addr:postcode": "IM9 5PW",
+        "addr:street": "Glen Chass Road",
         "building": "yes",
-        "tourism": "chalet",
-        "website": "https://www.visitisleofman.com/stay/colloway-cottage-p1289221"
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "was:tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226996,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.754048,
+            54.074747
+          ],
+          [
+            -4.753995,
+            54.074825
+          ],
+          [
+            -4.753903,
+            54.074804
+          ],
+          [
+            -4.753956,
+            54.074726
+          ],
+          [
+            -4.754048,
+            54.074747
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Cronk Beg",
+        "addr:postcode": "IM9 5PR",
+        "addr:street": "Howe Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226999,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753276,
+            54.073396
+          ],
+          [
+            -4.753099,
+            54.073379
+          ],
+          [
+            -4.753129,
+            54.073271
+          ],
+          [
+            -4.753279,
+            54.073285
+          ],
+          [
+            -4.75326,
+            54.073351
+          ],
+          [
+            -4.753288,
+            54.073354
+          ],
+          [
+            -4.753276,
+            54.073396
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Briarwood",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102227031,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753399,
+            54.074677
+          ],
+          [
+            -4.753276,
+            54.074731
+          ],
+          [
+            -4.75336,
+            54.074796
+          ],
+          [
+            -4.753407,
+            54.074776
+          ],
+          [
+            -4.753431,
+            54.074795
+          ],
+          [
+            -4.753507,
+            54.074762
+          ],
+          [
+            -4.753399,
+            54.074677
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Maynrys",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102227033,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753366,
+            54.074138
+          ],
+          [
+            -4.753243,
+            54.074195
+          ],
+          [
+            -4.753291,
+            54.074231
+          ],
+          [
+            -4.753414,
+            54.074174
+          ],
+          [
+            -4.753366,
+            54.074138
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Honeysuckle Cottage",
+        "addr:postcode": "IM9 5PW",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102227053,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753224,
+            54.073523
+          ],
+          [
+            -4.753079,
+            54.073512
+          ],
+          [
+            -4.753099,
+            54.073423
+          ],
+          [
+            -4.753244,
+            54.073434
+          ],
+          [
+            -4.753224,
+            54.073523
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Rowena",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102227055,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.752419,
+            54.074394
+          ],
+          [
+            -4.752369,
+            54.074359
+          ],
+          [
+            -4.752437,
+            54.074325
+          ],
+          [
+            -4.752373,
+            54.074281
+          ],
+          [
+            -4.752454,
+            54.07424
+          ],
+          [
+            -4.752491,
+            54.074265
+          ],
+          [
+            -4.752541,
+            54.07424
+          ],
+          [
+            -4.752619,
+            54.074294
+          ],
+          [
+            -4.752419,
+            54.074394
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Long Close",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -56645,6 +57200,75 @@
         "addr:postcode": "IM9 5LD",
         "addr:street": "Truggan Road",
         "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103786620,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.754567,
+            54.080094
+          ],
+          [
+            -4.754674,
+            54.08003
+          ],
+          [
+            -4.754631,
+            54.080008
+          ],
+          [
+            -4.754688,
+            54.079983
+          ],
+          [
+            -4.754628,
+            54.079943
+          ],
+          [
+            -4.754567,
+            54.079973
+          ],
+          [
+            -4.754537,
+            54.079959
+          ],
+          [
+            -4.754443,
+            54.080014
+          ],
+          [
+            -4.754516,
+            54.080053
+          ],
+          [
+            -4.754486,
+            54.080069
+          ],
+          [
+            -4.754537,
+            54.080103
+          ],
+          [
+            -4.754559,
+            54.08009
+          ],
+          [
+            -4.754567,
+            54.080094
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:housename": "Maynrys",
+        "addr:postcode": "IM9 6JP",
+        "addr:street": "Saint Marys Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -84654,10 +85278,14 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:postcode": "IM3 4EA",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
         "building": "retail",
+        "name": "Tesco",
         "old_name": "Shoprite",
         "proposed:name": "Tesco",
-        "proposed:shop": "supermarket"
+        "proposed:shop": "supermarket",
+        "shop": "supermarket"
       }
     },
     {
@@ -94743,6 +95371,49 @@
     },
     {
       "type": "Feature",
+      "id": 417401612,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479139,
+            54.152128
+          ],
+          [
+            -4.478732,
+            54.152127
+          ],
+          [
+            -4.478724,
+            54.15207
+          ],
+          [
+            -4.479134,
+            54.152065
+          ],
+          [
+            -4.479139,
+            54.152128
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "76",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "Dunwell Jewellers",
+        "shop": "jewelry",
+        "source": "Bing;photograph;survey"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 417401621,
       "geometry": {
         "type": "LineString",
@@ -96294,6 +96965,190 @@
     },
     {
       "type": "Feature",
+      "id": 419113937,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479226,
+            54.152189
+          ],
+          [
+            -4.479229,
+            54.152225
+          ],
+          [
+            -4.47947,
+            54.152223
+          ],
+          [
+            -4.47947,
+            54.152185
+          ],
+          [
+            -4.479226,
+            54.152189
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "81",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "Trey Barbers",
+        "shop": "hairdresser",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113945,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479209,
+            54.151984
+          ],
+          [
+            -4.479486,
+            54.151977
+          ],
+          [
+            -4.479621,
+            54.151969
+          ],
+          [
+            -4.479617,
+            54.151919
+          ],
+          [
+            -4.479204,
+            54.151933
+          ],
+          [
+            -4.479209,
+            54.151984
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "69",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "name": "Rainbow Candy",
+        "shop": "confectionery",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479489,
+            54.152002
+          ],
+          [
+            -4.479515,
+            54.152001
+          ],
+          [
+            -4.479513,
+            54.152027
+          ],
+          [
+            -4.479213,
+            54.152038
+          ],
+          [
+            -4.479211,
+            54.152011
+          ],
+          [
+            -4.479489,
+            54.152002
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "71A",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "yellow",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "contact:email": "John@securikey.co.im",
+        "contact:mobile": "+44 7624 430242",
+        "contact:phone": "+44 1624 617070",
+        "craft": "key_cutter",
+        "name": "SecuriKey",
+        "shop": "locksmith",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113947,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479218,
+            54.152094
+          ],
+          [
+            -4.479223,
+            54.152159
+          ],
+          [
+            -4.479471,
+            54.152149
+          ],
+          [
+            -4.479466,
+            54.152085
+          ],
+          [
+            -4.479218,
+            54.152094
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "77",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "amenity": "cafe",
+        "building": "retail",
+        "building:colour": "cream",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "cuisine": "coffee_shop",
+        "name": "The Bohemian Coffee House",
+        "opening_hours": "Mo-Fr 08:00-17:00; Sa 09:00-18:00; Su 09:30-17:00",
+        "roof:levels": "1",
+        "source": "Bing;photograph;survey"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -96334,6 +97189,101 @@
         "phone": "+44 1624 626041",
         "shop": "clothes",
         "source": "photo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113950,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479213,
+            54.152038
+          ],
+          [
+            -4.479218,
+            54.152094
+          ],
+          [
+            -4.479466,
+            54.152085
+          ],
+          [
+            -4.479466,
+            54.152058
+          ],
+          [
+            -4.479497,
+            54.152058
+          ],
+          [
+            -4.479513,
+            54.152027
+          ],
+          [
+            -4.479213,
+            54.152038
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "73",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "2",
+        "name": "The VIP Store",
+        "opening_hours": "Mo-Sa 10:30-16:00",
+        "operator": "Sight Matters",
+        "shop": "charity",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113951,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479223,
+            54.152159
+          ],
+          [
+            -4.479226,
+            54.152189
+          ],
+          [
+            -4.47947,
+            54.152185
+          ],
+          [
+            -4.479471,
+            54.152149
+          ],
+          [
+            -4.479223,
+            54.152159
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "Everest",
+        "shop": "yes",
+        "source": "Bing;photograph"
       }
     },
     {
@@ -101361,16 +102311,9 @@
         "addr:housenumber": "1",
         "addr:postcode": "IM2 4PL",
         "addr:street": "Summer Hill",
-        "amenity": "restaurant",
         "building": "yes",
-        "cuisine": "french",
-        "email": "info@lex.co.im",
-        "name": "L\u2019exp\u00e9rience",
-        "opening_hours": "Mo,We-Sa 12:00-14:00,18:45-23:30",
-        "outdoor_seating": "no",
-        "phone": "+44 1624 623103",
-        "smoking": "no",
-        "website": "http://www.lex.co.im/"
+        "old_name": "L\u2019exp\u00e9rience",
+        "was:amenity": "restaurant"
       }
     },
     {
@@ -123027,6 +123970,84 @@
     },
     {
       "type": "Feature",
+      "id": 1152682074,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759017,
+            54.088445
+          ],
+          [
+            -4.758703,
+            54.088542
+          ],
+          [
+            -4.758666,
+            54.0885
+          ],
+          [
+            -4.758693,
+            54.088492
+          ],
+          [
+            -4.758647,
+            54.08844
+          ],
+          [
+            -4.758675,
+            54.088432
+          ],
+          [
+            -4.758618,
+            54.088368
+          ],
+          [
+            -4.758233,
+            54.088486
+          ],
+          [
+            -4.758152,
+            54.088395
+          ],
+          [
+            -4.758297,
+            54.08835
+          ],
+          [
+            -4.758272,
+            54.088322
+          ],
+          [
+            -4.758384,
+            54.088288
+          ],
+          [
+            -4.75841,
+            54.088318
+          ],
+          [
+            -4.758798,
+            54.088199
+          ],
+          [
+            -4.759017,
+            54.088445
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Royal Shore Apartments",
+        "addr:postcode": "IM9 6PT",
+        "addr:street": "The Promenade",
+        "building": "residential",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1153317256,
       "geometry": {
         "type": "LineString",
@@ -129003,6 +130024,64 @@
         "addr:street": "Clannagh Road",
         "building": "house",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466778,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462219,
+            54.167046
+          ],
+          [
+            -4.462236,
+            54.16704
+          ],
+          [
+            -4.462384,
+            54.166991
+          ],
+          [
+            -4.462444,
+            54.167052
+          ],
+          [
+            -4.462424,
+            54.167059
+          ],
+          [
+            -4.462482,
+            54.167119
+          ],
+          [
+            -4.462382,
+            54.167153
+          ],
+          [
+            -4.46232,
+            54.167089
+          ],
+          [
+            -4.462276,
+            54.167103
+          ],
+          [
+            -4.462219,
+            54.167046
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "name": "5 Strathallan",
+        "tourism": "apartment",
+        "website": "https://5strathallan.com"
       }
     },
     {
@@ -142355,6 +143434,51 @@
         "building": "house",
         "name": "The Victorian House",
         "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1309385606,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.753089,
+            54.074221
+          ],
+          [
+            -4.753147,
+            54.074314
+          ],
+          [
+            -4.753099,
+            54.074325
+          ],
+          [
+            -4.753089,
+            54.074308
+          ],
+          [
+            -4.753031,
+            54.07432
+          ],
+          [
+            -4.752983,
+            54.074244
+          ],
+          [
+            -4.753089,
+            54.074221
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Shenvalla",
+        "addr:postcode": "IM9 5PN",
+        "addr:street": "Glen Chass Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     }
   ]

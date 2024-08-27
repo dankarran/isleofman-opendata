@@ -4224,6 +4224,8 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "lamp",
+        "royal_cypher": "EIIR",
         "source": "streetside",
         "osm_id": 10313018525,
         "lon": -4.631026,
@@ -5079,6 +5081,28 @@
         "lat": 54.225855,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12108669697"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12124514865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.405895,
+          54.233261
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "fixme": "check details",
+        "note": "Replica line-side postbox",
+        "source": "https://www.flickr.com/photos/jhluxton/28172367367/",
+        "osm_id": 12124514865,
+        "lon": -4.405895,
+        "lat": 54.233261,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12124514865"
       }
     }
   ]

@@ -5987,6 +5987,7 @@
         ]
       },
       "properties": {
+        "fee": "yes",
         "name": "Rushen Abbey",
         "ref:GB:imher": "1065.00",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -10892,47 +10893,6 @@
     },
     {
       "type": "Feature",
-      "id": 102226991,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.75374,
-            54.074589
-          ],
-          [
-            -4.753536,
-            54.074611
-          ],
-          [
-            -4.753524,
-            54.074573
-          ],
-          [
-            -4.753729,
-            54.074552
-          ],
-          [
-            -4.75374,
-            54.074589
-          ]
-        ]
-      },
-      "properties": {
-        "addr:housename": "Colloway Cottage",
-        "addr:postcode": "IM9 5PW",
-        "building": "yes",
-        "tourism": "chalet",
-        "website": "https://www.visitisleofman.com/stay/colloway-cottage-p1289221",
-        "osm_id": 102226991,
-        "lon": -4.753631978718986,
-        "lat": 54.074581243347424,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/102226991"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 102638470,
       "geometry": {
         "type": "LineString",
@@ -14910,9 +14870,12 @@
         ]
       },
       "properties": {
+        "contact:facebook": "https://www.facebook.com/Manx-Electric-Railway-Museum-675560865868301/",
+        "fee": "no",
         "name": "M.E.R. Museum",
-        "opening_hours": "Su 12:30-17:30",
+        "opening_hours": "Su 12:30-16:30",
         "tourism": "museum",
+        "website": "https://mers.org.im/pages/index/view/id/1154/MER%20Museum%20-%20Derby%20Castle%20Depot",
         "wikidata": "Q113337596",
         "osm_id": 438332821,
         "lon": -4.456700542417171,
@@ -21503,6 +21466,69 @@
         "lat": 54.17857006823666,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1171624282"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466778,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462219,
+            54.167046
+          ],
+          [
+            -4.462236,
+            54.16704
+          ],
+          [
+            -4.462384,
+            54.166991
+          ],
+          [
+            -4.462444,
+            54.167052
+          ],
+          [
+            -4.462424,
+            54.167059
+          ],
+          [
+            -4.462482,
+            54.167119
+          ],
+          [
+            -4.462382,
+            54.167153
+          ],
+          [
+            -4.46232,
+            54.167089
+          ],
+          [
+            -4.462276,
+            54.167103
+          ],
+          [
+            -4.462219,
+            54.167046
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "name": "5 Strathallan",
+        "tourism": "apartment",
+        "website": "https://5strathallan.com",
+        "osm_id": 1172466778,
+        "lon": -4.462358012140318,
+        "lat": 54.16707178508214,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466778"
       }
     },
     {

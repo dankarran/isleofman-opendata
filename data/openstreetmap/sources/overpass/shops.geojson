@@ -3333,6 +3333,29 @@
     },
     {
       "type": "Feature",
+      "id": 12134462885,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479366,
+          54.154273
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "St Thomas' Church",
+        "addr:postcode": "IM1 2PL",
+        "addr:street": "Finch Road",
+        "books": "christian",
+        "contact:phone": "+44 1624 621593",
+        "gift": "christian",
+        "name": "Churches Bookshop",
+        "shop": "books;gift;stationery"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -8707,7 +8730,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Ballasalla",
+        "addr:street": "Ballasalla Main Road",
         "building": "yes",
+        "name": "Whitestone Stores",
         "shop": "convenience"
       }
     },
@@ -13929,6 +13955,44 @@
     },
     {
       "type": "Feature",
+      "id": 157913780,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.460559,
+            54.167332
+          ],
+          [
+            -4.460499,
+            54.167332
+          ],
+          [
+            -4.460497,
+            54.167506
+          ],
+          [
+            -4.460611,
+            54.167506
+          ],
+          [
+            -4.460567,
+            54.167413
+          ],
+          [
+            -4.460559,
+            54.167332
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "Tramway Ticket Office",
+        "shop": "ticket"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 158973759,
       "geometry": {
         "type": "LineString",
@@ -16174,6 +16238,47 @@
     },
     {
       "type": "Feature",
+      "id": 246812768,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.457002,
+            54.176265
+          ],
+          [
+            -4.457362,
+            54.176467
+          ],
+          [
+            -4.45699,
+            54.176694
+          ],
+          [
+            -4.456631,
+            54.176491
+          ],
+          [
+            -4.457002,
+            54.176265
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 4EA",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "building": "retail",
+        "name": "Tesco",
+        "old_name": "Shoprite",
+        "proposed:name": "Tesco",
+        "proposed:shop": "supermarket",
+        "shop": "supermarket"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 246812769,
       "geometry": {
         "type": "LineString",
@@ -17700,7 +17805,8 @@
         "books": "transport",
         "name": "The Tram Junction Shop",
         "second_hand": "yes",
-        "shop": "books"
+        "shop": "books",
+        "wheelchair": "no"
       }
     },
     {
@@ -18136,12 +18242,10 @@
         "addr:housenumber": "3",
         "addr:street": "Marina Road",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/ookcowriesafrocaribbeanfoodstore/",
-        "contact:phone": "+441624629079",
-        "cuisine": "caribbean;mexican;african",
-        "description": "Afro-Caribbean store",
-        "name": "Ook Cowries",
-        "shop": "deli",
+        "contact:phone": "+447624317478",
+        "male": "yes",
+        "name": "The Turkish Barber, Orhan and Ilhan Okur",
+        "shop": "hairdresser",
         "source": "Isle of Man Government aerial imagery (2001);photo;Bing;survey",
         "source:addr:housenumber": "interpolation"
       }
@@ -18628,9 +18732,7 @@
         "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:street": "Marina Road",
-        "contact:phone": "+447624317478",
-        "name": "Orhan Okur, The Turkish Barber",
-        "shop": "hairdresser",
+        "shop": "vacant",
         "source": "photo;survey"
       }
     },
@@ -19352,6 +19454,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "76",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "4",
@@ -20719,6 +20826,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "81",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "4",
@@ -20977,12 +21089,15 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "71",
         "addr:street": "Strand Street",
         "building": "retail",
-        "name": "Island Inspiration",
-        "shop": "yes",
+        "cuisine": "pie",
+        "name": "Morgan's Bakery",
+        "opening_hours": "07:30+",
+        "shop": "bakery",
         "source": "Bing;photograph"
       }
     },
@@ -21019,11 +21134,14 @@
         ]
       },
       "properties": {
-        "amenity": "cafe",
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "69",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "building": "retail",
-        "cuisine": "taiwanese",
-        "name": "Tea Evolution",
-        "shop": "beverages",
+        "name": "Rainbow Candy",
+        "shop": "confectionery",
         "source": "Bing;photograph"
       }
     },
@@ -21060,15 +21178,20 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "73",
+        "addr:housenumber": "71A",
+        "addr:postcode": "IM1 2EN",
         "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "yellow",
         "building:levels": "2",
         "building:material": "plaster",
+        "contact:email": "John@securikey.co.im",
+        "contact:mobile": "+44 7624 430242",
+        "contact:phone": "+44 1624 617070",
         "craft": "key_cutter",
-        "name": "Securikey",
+        "name": "SecuriKey",
         "shop": "locksmith",
         "source": "Bing;photograph"
       }
@@ -21196,10 +21319,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "73",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "2",
         "name": "The VIP Store",
+        "opening_hours": "Mo-Sa 10:30-16:00",
+        "operator": "Sight Matters",
         "shop": "charity",
         "source": "Bing;photograph"
       }
@@ -21233,6 +21363,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",

@@ -7299,6 +7299,8 @@
         "name": "Bradda West Road",
         "name:en": "Bradda West Road",
         "name:gv": "Raad Vradda Heear",
+        "postal_code": "IM9 6PL;IM9 6PN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25985950,
         "lon": -4.765188699729076,
@@ -9942,6 +9944,51 @@
     },
     {
       "type": "Feature",
+      "id": 25986311,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745773,
+            54.087367
+          ],
+          [
+            -4.745895,
+            54.087428
+          ],
+          [
+            -4.74601,
+            54.087439
+          ],
+          [
+            -4.74628,
+            54.087466
+          ],
+          [
+            -4.746334,
+            54.087437
+          ],
+          [
+            -4.746389,
+            54.087409
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Magherbreekyn",
+        "name:gv": "Magherbreekyn",
+        "surface": "paved",
+        "osm_id": 25986311,
+        "lon": -4.746080991604569,
+        "lat": 54.08743458381303,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986311"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986366,
       "geometry": {
         "type": "LineString",
@@ -10871,6 +10918,95 @@
         "lat": 54.16591629113864,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986511"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986523,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745842,
+            54.088098
+          ],
+          [
+            -4.745997,
+            54.08803
+          ],
+          [
+            -4.746237,
+            54.088019
+          ],
+          [
+            -4.746353,
+            54.088
+          ],
+          [
+            -4.746486,
+            54.087978
+          ],
+          [
+            -4.746841,
+            54.087828
+          ],
+          [
+            -4.747006,
+            54.087803
+          ],
+          [
+            -4.747158,
+            54.087818
+          ],
+          [
+            -4.747293,
+            54.087847
+          ],
+          [
+            -4.747313,
+            54.087852
+          ],
+          [
+            -4.747498,
+            54.087915
+          ],
+          [
+            -4.747568,
+            54.087938
+          ],
+          [
+            -4.747912,
+            54.088011
+          ],
+          [
+            -4.748068,
+            54.088059
+          ],
+          [
+            -4.748346,
+            54.0882
+          ],
+          [
+            -4.748391,
+            54.088223
+          ],
+          [
+            -4.748445,
+            54.088251
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Maghergarran",
+        "name:gv": "Maghergarran",
+        "surface": "paved",
+        "osm_id": 25986523,
+        "lon": -4.74715490147592,
+        "lat": 54.08797329994916,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986523"
       }
     },
     {
@@ -13027,11 +13163,12 @@
       },
       "properties": {
         "abutters": "residential",
+        "alt_name:gv": "Raad Balley Chashtal",
         "highway": "primary",
         "maxspeed": "30 mph",
         "name": "Castletown Road",
         "name:en": "Castletown Road",
-        "name:gv": "Raad Balley Chashtal",
+        "name:gv": "Bayr Valley Chashtal",
         "ref": "A5",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -13583,6 +13720,112 @@
         "lat": 54.160539639433026,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986885"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986903,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.743991,
+            54.08431
+          ],
+          [
+            -4.743925,
+            54.084302
+          ],
+          [
+            -4.743868,
+            54.08428
+          ],
+          [
+            -4.743829,
+            54.084248
+          ],
+          [
+            -4.743812,
+            54.08421
+          ],
+          [
+            -4.743819,
+            54.08417
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "junction": "roundabout",
+        "maxspeed": "30 mph",
+        "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A5",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "osm_id": 25986903,
+        "lon": -4.7438781116954525,
+        "lat": 54.084263922900995,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986903"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986938,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.759133,
+            54.085929
+          ],
+          [
+            -4.75857,
+            54.085914
+          ],
+          [
+            -4.758176,
+            54.085905
+          ],
+          [
+            -4.7573,
+            54.085885
+          ],
+          [
+            -4.757168,
+            54.085883
+          ],
+          [
+            -4.756257,
+            54.085874
+          ],
+          [
+            -4.756216,
+            54.085872
+          ],
+          [
+            -4.756147,
+            54.085867
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "retail",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Church Road",
+        "name:en": "Church Road",
+        "name:gv": "Bayr Ny Killey",
+        "oneway": "yes",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 25986938,
+        "lon": -4.757639986630768,
+        "lat": 54.085895498087716,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986938"
       }
     },
     {
@@ -16338,6 +16581,47 @@
     },
     {
       "type": "Feature",
+      "id": 25987252,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745997,
+            54.08803
+          ],
+          [
+            -4.745929,
+            54.087941
+          ],
+          [
+            -4.74584,
+            54.087881
+          ],
+          [
+            -4.745648,
+            54.0878
+          ],
+          [
+            -4.745509,
+            54.087716
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Magherchirrym",
+        "name:gv": "Magherchirrym",
+        "surface": "paved",
+        "osm_id": 25987252,
+        "lon": -4.745765572657346,
+        "lat": 54.08785813828816,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987252"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987268,
       "geometry": {
         "type": "LineString",
@@ -16944,7 +17228,9 @@
         "maxspeed": "30 mph",
         "name": "Traie Meanagh Drive",
         "name:gv": "Traie Meanagh Drive",
-        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "postal_code": "IM9 6LL",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987353,
         "lon": -4.761602306175074,
@@ -22224,7 +22510,9 @@
         "name": "Spaldrick Avenue",
         "name:en": "Spaldrick Avenue",
         "name:gv": "Aslyl Spaldrick",
-        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "postal_code": "IM9 6PE",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987768,
         "lon": -4.761047525486355,
@@ -22727,11 +23015,14 @@
         ]
       },
       "properties": {
+        "cycleway:both": "no",
         "highway": "tertiary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Mines Road",
         "name:gv": "Bayr ny Meainyn",
-        "surface": "paved",
+        "sidewalk": "right",
+        "surface": "asphalt",
         "osm_id": 25987843,
         "lon": -4.40736045127266,
         "lat": 54.235343619771115,
@@ -24663,6 +24954,42 @@
     },
     {
       "type": "Feature",
+      "id": 25988154,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.742641,
+            54.080787
+          ],
+          [
+            -4.742538,
+            54.08068
+          ],
+          [
+            -4.742471,
+            54.080605
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A29",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 25988154,
+        "lon": -4.742555181520206,
+        "lat": 54.08069675903928,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988154"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988183,
       "geometry": {
         "type": "LineString",
@@ -24744,6 +25071,111 @@
         "lat": 54.232578033756965,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988183"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988189,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.748068,
+            54.088059
+          ],
+          [
+            -4.747979,
+            54.088206
+          ],
+          [
+            -4.747826,
+            54.088298
+          ],
+          [
+            -4.747704,
+            54.088374
+          ],
+          [
+            -4.747517,
+            54.088501
+          ],
+          [
+            -4.74743,
+            54.088538
+          ],
+          [
+            -4.747378,
+            54.088545
+          ],
+          [
+            -4.747331,
+            54.088535
+          ],
+          [
+            -4.747228,
+            54.088466
+          ],
+          [
+            -4.747032,
+            54.088363
+          ],
+          [
+            -4.746913,
+            54.088333
+          ],
+          [
+            -4.746888,
+            54.088293
+          ],
+          [
+            -4.746907,
+            54.088238
+          ],
+          [
+            -4.746946,
+            54.088194
+          ],
+          [
+            -4.74703,
+            54.088163
+          ],
+          [
+            -4.747117,
+            54.088152
+          ],
+          [
+            -4.747183,
+            54.088172
+          ],
+          [
+            -4.747282,
+            54.088202
+          ],
+          [
+            -4.747498,
+            54.088227
+          ],
+          [
+            -4.747752,
+            54.088273
+          ],
+          [
+            -4.747826,
+            54.088298
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Magher Donnag",
+        "name:gv": "Magher Donnag",
+        "surface": "paved",
+        "osm_id": 25988189,
+        "lon": -4.747432743333858,
+        "lat": 54.088306697164,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988189"
       }
     },
     {
@@ -25529,6 +25961,47 @@
         "lat": 54.32097118272545,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988288"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.746617,
+            54.088395
+          ],
+          [
+            -4.746469,
+            54.088335
+          ],
+          [
+            -4.746371,
+            54.088263
+          ],
+          [
+            -4.7465,
+            54.088076
+          ],
+          [
+            -4.746486,
+            54.087978
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Maghergarran",
+        "name:gv": "Maghergarran",
+        "surface": "paved",
+        "osm_id": 25988323,
+        "lon": -4.746470028008134,
+        "lat": 54.08822359649558,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988323"
       }
     },
     {
@@ -26447,6 +26920,80 @@
         "lat": 54.15604298313311,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988448"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988457,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.747439,
+            54.087184
+          ],
+          [
+            -4.747689,
+            54.087294
+          ],
+          [
+            -4.747804,
+            54.0873
+          ],
+          [
+            -4.747998,
+            54.087294
+          ],
+          [
+            -4.748081,
+            54.087314
+          ],
+          [
+            -4.748134,
+            54.087342
+          ],
+          [
+            -4.748221,
+            54.087503
+          ],
+          [
+            -4.748419,
+            54.087607
+          ],
+          [
+            -4.748635,
+            54.087684
+          ],
+          [
+            -4.748737,
+            54.087693
+          ],
+          [
+            -4.748862,
+            54.08768
+          ],
+          [
+            -4.748992,
+            54.087627
+          ],
+          [
+            -4.749118,
+            54.087544
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Magher Rosien",
+        "name:gv": "Magher Rosien",
+        "surface": "paved",
+        "osm_id": 25988457,
+        "lon": -4.748280012030352,
+        "lat": 54.08747215362859,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988457"
       }
     },
     {
@@ -27396,6 +27943,51 @@
     },
     {
       "type": "Feature",
+      "id": 25988521,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.755742,
+            54.086451
+          ],
+          [
+            -4.755719,
+            54.086306
+          ],
+          [
+            -4.75575,
+            54.086231
+          ],
+          [
+            -4.755838,
+            54.086106
+          ],
+          [
+            -4.756147,
+            54.085867
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Bridson Street",
+        "name:en": "Bridson Street",
+        "name:gv": "Straid Mylvreeshey",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "surface": "paved",
+        "osm_id": 25988521,
+        "lon": -4.755876168586579,
+        "lat": 54.0861268256069,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988521"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988529,
       "geometry": {
         "type": "LineString",
@@ -27498,7 +28090,9 @@
         "name": "Spaldrick Avenue",
         "name:en": "Spaldrick Avenue",
         "name:gv": "Aslyl Spaldrick",
-        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "postal_code": "IM9 6PE",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "cobblestone",
         "osm_id": 25988554,
         "lon": -4.7602807676024765,
@@ -29437,6 +30031,8 @@
         "name:en": "Rowany Villas",
         "name:gv": "Thieyn Y Daa Voanee",
         "note": "check name:gv, missing part of sign",
+        "postal_code": "IM9 6LJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988745,
         "lon": -4.7585752935405825,
@@ -31784,6 +32380,67 @@
     },
     {
       "type": "Feature",
+      "id": 25989101,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.74497,
+            54.087648
+          ],
+          [
+            -4.745147,
+            54.087722
+          ],
+          [
+            -4.745509,
+            54.087716
+          ],
+          [
+            -4.745531,
+            54.087685
+          ],
+          [
+            -4.745594,
+            54.087656
+          ],
+          [
+            -4.745794,
+            54.087683
+          ],
+          [
+            -4.745945,
+            54.087671
+          ],
+          [
+            -4.746034,
+            54.08769
+          ],
+          [
+            -4.746171,
+            54.08775
+          ],
+          [
+            -4.746221,
+            54.087771
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Magherchirrym",
+        "name:gv": "Magherchirrym",
+        "surface": "paved",
+        "osm_id": 25989101,
+        "lon": -4.745595961959996,
+        "lat": 54.08769758097727,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989101"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989112,
       "geometry": {
         "type": "LineString",
@@ -32310,6 +32967,53 @@
     },
     {
       "type": "Feature",
+      "id": 25989242,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756526,
+            54.0853
+          ],
+          [
+            -4.757299,
+            54.08531
+          ],
+          [
+            -4.757706,
+            54.085317
+          ],
+          [
+            -4.75808,
+            54.085323
+          ],
+          [
+            -4.758198,
+            54.085323
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Station Road",
+        "name:en": "Station Road",
+        "name:gv": "Bayr yn Stashoon",
+        "oneway": "yes",
+        "ref": "A5",
+        "sidewalk": "both",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 25989242,
+        "lon": -4.757362002952854,
+        "lat": 54.085311694722094,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989242"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989247,
       "geometry": {
         "type": "LineString",
@@ -32677,6 +33381,59 @@
         "lat": 54.07149110733242,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989284"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989287,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.751134,
+            54.08512
+          ],
+          [
+            -4.752082,
+            54.085165
+          ],
+          [
+            -4.752275,
+            54.085175
+          ],
+          [
+            -4.752932,
+            54.085199
+          ],
+          [
+            -4.753505,
+            54.08522
+          ],
+          [
+            -4.753548,
+            54.085222
+          ],
+          [
+            -4.754452,
+            54.085252
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Station Road",
+        "name:en": "Station Road",
+        "name:gv": "Bayr yn Stashoon",
+        "ref": "A5",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 25989287,
+        "lon": -4.752792786611702,
+        "lat": 54.08519123728266,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989287"
       }
     },
     {
@@ -33256,6 +34013,62 @@
         "lat": 54.08965010389694,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989343"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989355,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756263,
+            54.086511
+          ],
+          [
+            -4.756653,
+            54.08654
+          ],
+          [
+            -4.756926,
+            54.086562
+          ],
+          [
+            -4.75696,
+            54.086559
+          ],
+          [
+            -4.756979,
+            54.086542
+          ],
+          [
+            -4.757146,
+            54.085928
+          ],
+          [
+            -4.757148,
+            54.08592
+          ],
+          [
+            -4.757168,
+            54.085883
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Orchard Road",
+        "name:en": "Orchard Road",
+        "name:gv": "Raad Ooylagh",
+        "oneway": "yes",
+        "surface": "paved",
+        "osm_id": 25989355,
+        "lon": -4.756840764775486,
+        "lat": 54.0863786491571,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989355"
       }
     },
     {
@@ -34363,6 +35176,58 @@
     },
     {
       "type": "Feature",
+      "id": 25989428,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756261,
+            54.085293
+          ],
+          [
+            -4.756261,
+            54.085334
+          ],
+          [
+            -4.756261,
+            54.085407
+          ],
+          [
+            -4.756236,
+            54.085516
+          ],
+          [
+            -4.756213,
+            54.085615
+          ],
+          [
+            -4.756174,
+            54.085786
+          ],
+          [
+            -4.756147,
+            54.085867
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Bridson Street",
+        "name:en": "Bridson Street",
+        "name:gv": "Straid Mylvreeshey",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 25989428,
+        "lon": -4.756217603808452,
+        "lat": 54.08558210040462,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989428"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989434,
       "geometry": {
         "type": "LineString",
@@ -35148,6 +36013,36 @@
     },
     {
       "type": "Feature",
+      "id": 25989497,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.748,
+            54.087579
+          ],
+          [
+            -4.748221,
+            54.087503
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Magher Rosien",
+        "name:gv": "Magher Rosien",
+        "surface": "paved",
+        "osm_id": 25989497,
+        "lon": -4.7481105,
+        "lat": 54.087541,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989497"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989509,
       "geometry": {
         "type": "LineString",
@@ -35917,7 +36812,7 @@
         "maxspeed": "30 mph",
         "name": "Beach Road",
         "name:en": "Beach Road",
-        "name:gv": "Eaad Ny Traie",
+        "name:gv": "Raad Ny Traie",
         "ref": "A31",
         "sidewalk:left": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -37302,6 +38197,74 @@
         "lat": 54.078514500000004,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/27207594"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27210578,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744119,
+            54.082585
+          ],
+          [
+            -4.744088,
+            54.082453
+          ],
+          [
+            -4.744084,
+            54.082433
+          ],
+          [
+            -4.744062,
+            54.082383
+          ],
+          [
+            -4.744006,
+            54.082302
+          ],
+          [
+            -4.743946,
+            54.082228
+          ],
+          [
+            -4.743818,
+            54.082088
+          ],
+          [
+            -4.743453,
+            54.081701
+          ],
+          [
+            -4.743207,
+            54.081426
+          ],
+          [
+            -4.742767,
+            54.080936
+          ],
+          [
+            -4.742641,
+            54.080787
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A29",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 27210578,
+        "lon": -4.743419813771546,
+        "lat": 54.08166446810652,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/27210578"
       }
     },
     {
@@ -39421,6 +40384,139 @@
     },
     {
       "type": "Feature",
+      "id": 37806267,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.749624,
+            54.087305
+          ],
+          [
+            -4.749557,
+            54.08737
+          ],
+          [
+            -4.749532,
+            54.087396
+          ],
+          [
+            -4.749363,
+            54.087568
+          ],
+          [
+            -4.749215,
+            54.087718
+          ],
+          [
+            -4.748897,
+            54.087959
+          ],
+          [
+            -4.748445,
+            54.088251
+          ],
+          [
+            -4.747743,
+            54.088659
+          ],
+          [
+            -4.747571,
+            54.08877
+          ],
+          [
+            -4.747053,
+            54.089186
+          ],
+          [
+            -4.746924,
+            54.08929
+          ],
+          [
+            -4.746817,
+            54.089352
+          ],
+          [
+            -4.746483,
+            54.089483
+          ],
+          [
+            -4.746125,
+            54.089616
+          ],
+          [
+            -4.74576,
+            54.089766
+          ],
+          [
+            -4.745495,
+            54.089876
+          ],
+          [
+            -4.745217,
+            54.090008
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Ballafesson Road",
+        "name:en": "Ballafesson Road",
+        "name:gv": "Raad Balley Phesson",
+        "ref": "A7",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 37806267,
+        "lon": -4.747503830061461,
+        "lat": 54.08879128806052,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/37806267"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37806268,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756147,
+            54.085867
+          ],
+          [
+            -4.75614,
+            54.085934
+          ],
+          [
+            -4.75596,
+            54.086196
+          ],
+          [
+            -4.755742,
+            54.086451
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Bridson Street",
+        "name:en": "Bridson Street",
+        "name:gv": "Straid Mylvreeshey",
+        "oneway": "yes",
+        "sidewalk:left": "separate",
+        "surface": "paved",
+        "osm_id": 37806268,
+        "lon": -4.755966108350453,
+        "lat": 54.08616995158395,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/37806268"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 37806270,
       "geometry": {
         "type": "LineString",
@@ -40843,7 +41939,10 @@
       },
       "properties": {
         "abutters": "commercial",
+        "cycleway:left": "no",
         "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Lord Street",
         "name:en": "Lord Street",
@@ -40851,6 +41950,7 @@
         "oneway": "yes",
         "ref": "A1",
         "sidewalk:left": "separate",
+        "sidewalk:right": "no",
         "surface": "asphalt",
         "osm_id": 38595740,
         "lon": -4.476873077206141,
@@ -41310,6 +42410,39 @@
     },
     {
       "type": "Feature",
+      "id": 38773785,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758198,
+            54.085323
+          ],
+          [
+            -4.758395,
+            54.085326
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Station Road",
+        "name:en": "Station Road",
+        "name:gv": "Bayr yn Stashoon",
+        "oneway": "yes",
+        "ref": "A5",
+        "surface": "paved",
+        "osm_id": 38773785,
+        "lon": -4.7582965,
+        "lat": 54.0853245,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/38773785"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38773786,
       "geometry": {
         "type": "LineString",
@@ -41598,6 +42731,7 @@
       },
       "properties": {
         "abutters": "residential",
+        "cycleway:left": "no",
         "highway": "secondary",
         "maxheight": "12'8\"",
         "name": "Church Hill",
@@ -41605,7 +42739,7 @@
         "name:gv": "Cronk Ny Killey",
         "oneway": "yes",
         "ref": "B58",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 39187481,
         "lon": -4.405584,
         "lat": 54.23140049999999,
@@ -42651,11 +43785,13 @@
       },
       "properties": {
         "highway": "service",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Muckles Gate",
         "name:en": "Muckles Gate",
         "name:gv": "Gait Muckle",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
         "osm_id": 54415421,
         "lon": -4.478322596252307,
         "lat": 54.1486315659822,
@@ -43302,7 +44438,9 @@
         "name": "Bradda Glen Close",
         "name:en": "Bradda Glen Close",
         "name:gv": "Close Glion Vraddda",
+        "postal_code": "IM9 6PG",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 59463998,
         "lon": -4.763237142080445,
         "lat": 54.0920370677969,
@@ -48147,7 +49285,9 @@
         "name": "Spaldrick Avenue",
         "name:en": "Spaldrick Avenue",
         "name:gv": "Aslyl Spaldrick",
-        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "postal_code": "IM9 6PE",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "cobblestone",
         "osm_id": 64754627,
         "lon": -4.7600905000000004,
@@ -48517,7 +49657,7 @@
         "maxspeed": "30 mph",
         "name": "Bridson Street",
         "name:en": "Bridson Street",
-        "name:gv": "Straid Mylvreeshy",
+        "name:gv": "Straid Mylvreeshey",
         "sidewalk:both": "separate",
         "surface": "paved",
         "osm_id": 68832215,
@@ -52667,6 +53807,124 @@
     },
     {
       "type": "Feature",
+      "id": 104182762,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.747029,
+            54.087035
+          ],
+          [
+            -4.746913,
+            54.087076
+          ],
+          [
+            -4.746694,
+            54.087159
+          ],
+          [
+            -4.746578,
+            54.0872
+          ],
+          [
+            -4.746479,
+            54.087266
+          ],
+          [
+            -4.746404,
+            54.087335
+          ],
+          [
+            -4.746389,
+            54.087409
+          ],
+          [
+            -4.74649,
+            54.087471
+          ],
+          [
+            -4.746569,
+            54.08755
+          ],
+          [
+            -4.746695,
+            54.087673
+          ],
+          [
+            -4.746751,
+            54.087744
+          ],
+          [
+            -4.746768,
+            54.087761
+          ],
+          [
+            -4.746841,
+            54.087828
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Magherbreekyn",
+        "name:gv": "Magherbreekyn",
+        "surface": "paved",
+        "osm_id": 104182762,
+        "lon": -4.746651316778368,
+        "lat": 54.087372781463074,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/104182762"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104182790,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.74628,
+            54.087466
+          ],
+          [
+            -4.746305,
+            54.087502
+          ],
+          [
+            -4.746338,
+            54.087522
+          ],
+          [
+            -4.746413,
+            54.087554
+          ],
+          [
+            -4.746464,
+            54.087557
+          ],
+          [
+            -4.746569,
+            54.08755
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Magherbreekyn",
+        "name:gv": "Magherbreekyn",
+        "surface": "paved",
+        "osm_id": 104182790,
+        "lon": -4.746414012823404,
+        "lat": 54.08753536199481,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/104182790"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 104794513,
       "geometry": {
         "type": "LineString",
@@ -55663,6 +56921,10 @@
             54.166905
           ],
           [
+            -4.458103,
+            54.166889
+          ],
+          [
             -4.458025,
             54.166881
           ],
@@ -56611,8 +57873,8 @@
         "railway": "light_rail",
         "voltage": "550",
         "osm_id": 145322134,
-        "lon": -4.438707136979143,
-        "lat": 54.17107084946541,
+        "lon": -4.4387071372899305,
+        "lat": 54.171070850182474,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/145322134"
       }
@@ -59355,6 +60617,48 @@
         "lat": 54.182661499999995,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/160411594"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160424251,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758395,
+            54.085326
+          ],
+          [
+            -4.759091,
+            54.085339
+          ],
+          [
+            -4.759186,
+            54.08535
+          ],
+          [
+            -4.759246,
+            54.08538
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Station Road",
+        "name:en": "Station Road",
+        "name:gv": "Bayr yn Stashoon",
+        "oneway": "yes",
+        "ref": "A5",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 160424251,
+        "lon": -4.758823985382817,
+        "lat": 54.08533637474974,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/160424251"
       }
     },
     {
@@ -64725,7 +66029,7 @@
         "maxspeed": "30 mph",
         "name": "Beach Road",
         "name:en": "Beach Road",
-        "name:gv": "Eaad Ny Traie",
+        "name:gv": "Raad Ny Traie",
         "ref": "A31",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -66232,6 +67536,10 @@
             54.166854
           ],
           [
+            -4.458112,
+            54.166864
+          ],
+          [
             -4.458282,
             54.166879
           ],
@@ -66272,8 +67580,8 @@
         "railway": "light_rail",
         "voltage": "550",
         "osm_id": 167540470,
-        "lon": -4.438934303949182,
-        "lat": 54.17100421192133,
+        "lon": -4.438934304113764,
+        "lat": 54.17100421266087,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167540470"
       }
@@ -67960,6 +69268,44 @@
         "lat": 54.172342522928794,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/170515403"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170936310,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.756261,
+            54.085293
+          ],
+          [
+            -4.756391,
+            54.085296
+          ],
+          [
+            -4.756526,
+            54.0853
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Station Road",
+        "name:en": "Station Road",
+        "name:gv": "Bayr yn Stashoon",
+        "oneway": "yes",
+        "ref": "A5",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 170936310,
+        "lon": -4.756393505714124,
+        "lat": 54.085296283169804,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/170936310"
       }
     },
     {
@@ -78291,7 +79637,10 @@
       },
       "properties": {
         "abutters": "commercial",
+        "cycleway:left": "no",
         "highway": "primary",
+        "lanes": "1",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Lord Street",
         "name:en": "Lord Street",
@@ -78299,7 +79648,8 @@
         "oneway": "yes",
         "ref": "A1",
         "sidewalk:left": "separate",
-        "surface": "paved",
+        "sidewalk:right": "no",
+        "surface": "asphalt",
         "osm_id": 452791558,
         "lon": -4.477019942463476,
         "lat": 54.148337410854054,
@@ -82066,6 +83416,100 @@
     },
     {
       "type": "Feature",
+      "id": 529268499,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744069,
+            54.084104
+          ],
+          [
+            -4.744118,
+            54.084122
+          ],
+          [
+            -4.744155,
+            54.08415
+          ],
+          [
+            -4.744175,
+            54.084182
+          ],
+          [
+            -4.744176,
+            54.084217
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "junction": "roundabout",
+        "maxspeed": "30 mph",
+        "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A5",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "osm_id": 529268499,
+        "lon": -4.744137645973104,
+        "lat": 54.08414857555966,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/529268499"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 529268500,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.743819,
+            54.08417
+          ],
+          [
+            -4.743847,
+            54.084138
+          ],
+          [
+            -4.743891,
+            54.084113
+          ],
+          [
+            -4.743947,
+            54.084098
+          ],
+          [
+            -4.744009,
+            54.084095
+          ],
+          [
+            -4.744069,
+            54.084104
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "junction": "roundabout",
+        "maxspeed": "30 mph",
+        "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A5",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "osm_id": 529268500,
+        "lon": -4.743936366561085,
+        "lat": 54.08411335734938,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/529268500"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 529268826,
       "geometry": {
         "type": "LineString",
@@ -85343,6 +86787,112 @@
     },
     {
       "type": "Feature",
+      "id": 717379324,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744176,
+            54.084217
+          ],
+          [
+            -4.744155,
+            54.084254
+          ],
+          [
+            -4.744114,
+            54.084284
+          ],
+          [
+            -4.744056,
+            54.084303
+          ],
+          [
+            -4.743991,
+            54.08431
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "junction": "roundabout",
+        "maxspeed": "30 mph",
+        "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A5",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "osm_id": 717379324,
+        "lon": -4.744093732225131,
+        "lat": 54.08428047484874,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/717379324"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 717379325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.754452,
+            54.085252
+          ],
+          [
+            -4.754675,
+            54.085259
+          ],
+          [
+            -4.75523,
+            54.085274
+          ],
+          [
+            -4.755451,
+            54.085277
+          ],
+          [
+            -4.755615,
+            54.085279
+          ],
+          [
+            -4.755659,
+            54.085279
+          ],
+          [
+            -4.755993,
+            54.085287
+          ],
+          [
+            -4.756198,
+            54.085291
+          ],
+          [
+            -4.756261,
+            54.085293
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Station Road",
+        "name:en": "Station Road",
+        "name:gv": "Bayr yn Stashoon",
+        "ref": "A5",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 717379325,
+        "lon": -4.755356463728856,
+        "lat": 54.085274073525945,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/717379325"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 717379326,
       "geometry": {
         "type": "LineString",
@@ -85852,6 +87402,75 @@
         "lat": 54.071726163560065,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/720326173"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 749225445,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744196,
+            54.086598
+          ],
+          [
+            -4.744146,
+            54.086557
+          ],
+          [
+            -4.744093,
+            54.08652
+          ],
+          [
+            -4.743949,
+            54.086421
+          ],
+          [
+            -4.743858,
+            54.086362
+          ],
+          [
+            -4.743551,
+            54.086202
+          ],
+          [
+            -4.743195,
+            54.086014
+          ],
+          [
+            -4.742926,
+            54.085873
+          ],
+          [
+            -4.742797,
+            54.085801
+          ],
+          [
+            -4.742719,
+            54.085756
+          ],
+          [
+            -4.74267,
+            54.08573
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Ballakilley Road",
+        "name:en": "Ballakilley Road",
+        "name:gv": "Raad Valley Killey",
+        "postal_code": "IM9 5NN",
+        "sidewalk:both": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 749225445,
+        "lon": -4.743442325393207,
+        "lat": 54.086149290988814,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749225445"
       }
     },
     {
@@ -93339,6 +94958,7 @@
       },
       "properties": {
         "abutters": "residential",
+        "alt_name:gv": "Raad Balley Chashtal",
         "highway": "primary",
         "maxspeed": "30 mph",
         "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
@@ -93393,6 +95013,55 @@
         "lat": 54.08379945699258,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1181502217"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1181502218,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744131,
+            54.083675
+          ],
+          [
+            -4.744139,
+            54.083483
+          ],
+          [
+            -4.744143,
+            54.083379
+          ],
+          [
+            -4.744151,
+            54.082834
+          ],
+          [
+            -4.744151,
+            54.082804
+          ],
+          [
+            -4.744119,
+            54.082585
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A29",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 1181502218,
+        "lon": -4.744141997045326,
+        "lat": 54.083129161460526,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1181502218"
       }
     },
     {
@@ -93961,7 +95630,7 @@
         "maxspeed": "30 mph",
         "name": "Beach Road",
         "name:en": "Beach Road",
-        "name:gv": "Eaad Ny Traie",
+        "name:gv": "Raad Ny Traie",
         "ref": "A31",
         "sidewalk:left": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -93997,7 +95666,7 @@
         "maxspeed": "30 mph",
         "name": "Beach Road",
         "name:en": "Beach Road",
-        "name:gv": "Eaad Ny Traie",
+        "name:gv": "Raad Ny Traie",
         "ref": "A31",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -94069,7 +95738,7 @@
         "maxspeed": "30 mph",
         "name": "Beach Road",
         "name:en": "Beach Road",
-        "name:gv": "Eaad Ny Traie",
+        "name:gv": "Raad Ny Traie",
         "ref": "A31",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -94175,6 +95844,90 @@
     },
     {
       "type": "Feature",
+      "id": 1191595026,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744069,
+            54.084104
+          ],
+          [
+            -4.74408,
+            54.084085
+          ],
+          [
+            -4.744104,
+            54.083952
+          ],
+          [
+            -4.744116,
+            54.083838
+          ],
+          [
+            -4.744131,
+            54.083675
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "trunk",
+        "maxspeed": "30 mph",
+        "maxspeed:conditional": "20 mph @ ((Mo-Fr 08:20-09:15, 15:10-16:30; SH off) AND signal)",
+        "name": "Four Roads",
+        "name:en": "Four Roads",
+        "name:gv": "Kione Ny Kiare Bayryn",
+        "ref": "A29",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 1191595026,
+        "lon": -4.744107698200707,
+        "lat": 54.083891324982545,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1191595026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1191622499,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.755742,
+            54.086451
+          ],
+          [
+            -4.755832,
+            54.086461
+          ],
+          [
+            -4.755865,
+            54.086465
+          ],
+          [
+            -4.756263,
+            54.086511
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Orchard Road",
+        "name:en": "Orchard Road",
+        "name:gv": "Raad Ooylagh",
+        "surface": "paved",
+        "osm_id": 1191622499,
+        "lon": -4.756002512185071,
+        "lat": 54.08648089007863,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1191622499"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1191865417,
       "geometry": {
         "type": "LineString",
@@ -94210,6 +95963,74 @@
         "lat": 54.07258995384583,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1191865417"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1192127184,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.745217,
+            54.090008
+          ],
+          [
+            -4.744948,
+            54.09018
+          ],
+          [
+            -4.744618,
+            54.09043
+          ],
+          [
+            -4.744573,
+            54.090468
+          ],
+          [
+            -4.744223,
+            54.090763
+          ],
+          [
+            -4.743464,
+            54.091409
+          ],
+          [
+            -4.742988,
+            54.091811
+          ],
+          [
+            -4.742748,
+            54.092029
+          ],
+          [
+            -4.742542,
+            54.092172
+          ],
+          [
+            -4.742421,
+            54.092217
+          ],
+          [
+            -4.74229,
+            54.092236
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "primary",
+        "maxspeed": "30 mph",
+        "name": "Ballafesson Road",
+        "name:en": "Ballafesson Road",
+        "name:gv": "Raad Balley Phesson",
+        "ref": "A7",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 1192127184,
+        "lon": -4.743764794430045,
+        "lat": 54.091154103773334,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1192127184"
       }
     },
     {
@@ -94492,7 +96313,9 @@
         "maxspeed": "30 mph",
         "name": "Traie Meanagh Drive",
         "name:gv": "Traie Meanagh Drive",
-        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "postal_code": "IM9 6LL",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 1193133864,
         "lon": -4.760922037019514,
@@ -94543,7 +96366,9 @@
         "maxspeed": "30 mph",
         "name": "Traie Meanagh Drive",
         "name:gv": "Traie Meanagh Drive",
+        "postal_code": "IM9 6LL",
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 1193133866,
         "lon": -4.761189827574149,

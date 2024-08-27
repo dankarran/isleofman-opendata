@@ -132,6 +132,7 @@
         ]
       },
       "properties": {
+        "air_conditioning": "no",
         "amenity": "cafe",
         "name": "Laxey Station Cafe",
         "outdoor_seating": "yes",
@@ -306,11 +307,8 @@
         "addr:country": "IM",
         "addr:housename": "South View",
         "addr:street": "Queens Promenade",
-        "amenity": "fast_food",
-        "cuisine": "pizza",
-        "name": "Pizza King",
-        "phone": "+44 1624 660166",
-        "website": "http://www.pizzakingiom.co.uk",
+        "amenity": "cafe",
+        "name": "Mama's Kitchen",
         "osm_id": 456430224,
         "lon": -4.464074,
         "lat": 54.166583,
@@ -6466,6 +6464,10 @@
             54.064017
           ],
           [
+            -4.792547,
+            54.064028
+          ],
+          [
             -4.792568,
             54.064038
           ],
@@ -6495,8 +6497,8 @@
         "source": "Bing",
         "website": "https://thesound.im",
         "osm_id": 87988780,
-        "lon": -4.7923857343633625,
-        "lat": 54.063975583331285,
+        "lon": -4.792385730625793,
+        "lat": 54.06397559756135,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/87988780"
       }
@@ -9079,8 +9081,12 @@
             54.262103
           ],
           [
-            -4.462963,
+            -4.462962,
             54.262126
+          ],
+          [
+            -4.462973,
+            54.262139
           ],
           [
             -4.462981,
@@ -9092,7 +9098,7 @@
           ],
           [
             -4.462867,
-            54.262154
+            54.262155
           ],
           [
             -4.462789,
@@ -9157,16 +9163,18 @@
         ]
       },
       "properties": {
+        "air_conditioning": "no",
         "amenity": "cafe",
         "building": "yes",
         "building:levels": "1",
         "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/snaefellsummit/",
         "name": "Summit Hotel",
         "note": "Although it is called a hotel it doesn't have any accommodation, just a cafe, bar and toilets. Open seasonally when railway is open.",
         "operator": "Summit Catering",
         "osm_id": 136226759,
-        "lon": -4.463052226978935,
-        "lat": 54.26218313732533,
+        "lon": -4.463052262080891,
+        "lat": 54.26218311392425,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/136226759"
       }
@@ -13513,52 +13521,6 @@
     },
     {
       "type": "Feature",
-      "id": 419113945,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479209,
-            54.151984
-          ],
-          [
-            -4.479486,
-            54.151977
-          ],
-          [
-            -4.479621,
-            54.151969
-          ],
-          [
-            -4.479617,
-            54.151919
-          ],
-          [
-            -4.479204,
-            54.151933
-          ],
-          [
-            -4.479209,
-            54.151984
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "cafe",
-        "building": "retail",
-        "cuisine": "taiwanese",
-        "name": "Tea Evolution",
-        "shop": "beverages",
-        "source": "Bing;photograph",
-        "osm_id": 419113945,
-        "lon": -4.479412535371458,
-        "lat": 54.15195191869981,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/419113945"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113947,
       "geometry": {
         "type": "LineString",
@@ -13576,10 +13538,6 @@
             54.152149
           ],
           [
-            -4.47948,
-            54.152084
-          ],
-          [
             -4.479466,
             54.152085
           ],
@@ -13590,6 +13548,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "77",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
         "amenity": "cafe",
         "building": "retail",
         "building:colour": "cream",
@@ -13601,8 +13564,8 @@
         "roof:levels": "1",
         "source": "Bing;photograph;survey",
         "osm_id": 419113947,
-        "lon": -4.479348112068366,
-        "lat": 54.15212088221027,
+        "lon": -4.47934430258407,
+        "lat": 54.152121759540954,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113947"
       }
@@ -14247,56 +14210,6 @@
         "lat": 54.147279928377756,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/531471591"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 531717921,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.464008,
-            54.16661
-          ],
-          [
-            -4.463906,
-            54.166647
-          ],
-          [
-            -4.46403,
-            54.166749
-          ],
-          [
-            -4.464129,
-            54.166712
-          ],
-          [
-            -4.464008,
-            54.16661
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM2 4PL",
-        "addr:street": "Summer Hill",
-        "amenity": "restaurant",
-        "building": "yes",
-        "cuisine": "french",
-        "email": "info@lex.co.im",
-        "name": "L\u2019exp\u00e9rience",
-        "opening_hours": "Mo,We-Sa 12:00-14:00,18:45-23:30",
-        "outdoor_seating": "no",
-        "phone": "+44 1624 623103",
-        "smoking": "no",
-        "website": "http://www.lex.co.im/",
-        "osm_id": 531717921,
-        "lon": -4.464017709147954,
-        "lat": 54.1666793106464,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/531717921"
       }
     },
     {

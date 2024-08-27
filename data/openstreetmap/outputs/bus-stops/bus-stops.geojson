@@ -685,6 +685,7 @@
         "name": "Ballasalla Main Stop Southbound",
         "public_transport": "platform",
         "ref": "405",
+        "shelter": "yes",
         "osm_id": 745987474,
         "lon": -4.629202,
         "lat": 54.09787,
@@ -968,14 +969,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Central Promenade / The Esplanade",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "119 / 60006",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes",
         "osm_id": 939426298,
         "lon": -4.475838,
@@ -1102,11 +1107,14 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Loch Promenade, Granville Street",
         "public_transport": "platform",
         "ref": "00117",
+        "shelter": "yes",
         "osm_id": 948933228,
         "lon": -4.478297,
         "lat": 54.152332,
@@ -1789,11 +1797,13 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballasalla Station / The Paddocks",
         "public_transport": "platform",
         "ref": "407",
+        "shelter": "yes",
         "osm_id": 1195573097,
         "lon": -4.629876,
         "lat": 54.096652,
@@ -1812,11 +1822,13 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballasalla Station / Silverburn Estate",
         "public_transport": "platform",
         "ref": "408",
+        "shelter": "yes",
         "osm_id": 1195573100,
         "lon": -4.629738,
         "lat": 54.095968,
@@ -4139,14 +4151,17 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Loch Promenade",
         "note": "Stand F?",
         "public_transport": "platform",
         "ref": "891085000108",
         "route_ref": "1;1H;2;2A;2C;3;11;13;26C",
         "shelter": "yes",
+        "tactile_paving": "no",
         "osm_id": 3732769889,
         "lon": -4.477344,
         "lat": 54.150044,
@@ -5031,6 +5046,7 @@
         "public_transport": "platform",
         "ref": "118",
         "shelter": "yes",
+        "tactile_paving": "no",
         "osm_id": 9179845961,
         "lon": -4.478186,
         "lat": 54.154909,
@@ -5075,14 +5091,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Central Promenade / Mona Drive",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "120 / 60006",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes",
         "osm_id": 9179866785,
         "lon": -4.474469,
@@ -5236,19 +5256,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.487814,
-          54.154955
+          -4.488081,
+          54.155193
         ]
       },
       "properties": {
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Mount Bradda",
+        "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "138",
+        "ref": "891085000138",
         "osm_id": 9179912265,
-        "lon": -4.487814,
-        "lat": 54.154955,
+        "lon": -4.488081,
+        "lat": 54.155193,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9179912265"
       }
@@ -6101,6 +6123,7 @@
         "name": "The Abbey Church",
         "public_transport": "platform",
         "ref": "411",
+        "shelter": "no",
         "osm_id": 9180348514,
         "lon": -4.632381,
         "lat": 54.098207,
@@ -6124,6 +6147,7 @@
         "name": "Abbey Church Entrance",
         "public_transport": "platform",
         "ref": "412",
+        "shelter": "no",
         "osm_id": 9180348515,
         "lon": -4.632277,
         "lat": 54.098358,
@@ -13740,19 +13764,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.479991,
-          54.154153
+          -4.480205,
+          54.153931
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Old St. Thomas's",
+        "name": "St Thomas' School",
         "public_transport": "platform",
-        "ref": "40136",
+        "ref": "891085040136",
         "osm_id": 9190241524,
-        "lon": -4.479991,
-        "lat": 54.154153,
+        "lon": -4.480205,
+        "lat": 54.153931,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190241524"
       }
@@ -20277,22 +20301,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.487852,
-          54.155142
+          -4.487853,
+          54.155164
         ]
       },
       "properties": {
         "bus": "yes",
         "departures_board": "no",
-        "fixme": "should this be named No.10 after the grey house behind?",
         "highway": "bus_stop",
-        "name": "Mount Bradda No.1",
+        "name": "Mount Bradda No 11",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "20141",
         "osm_id": 9195333343,
-        "lon": -4.487852,
-        "lat": 54.155142,
+        "lon": -4.487853,
+        "lat": 54.155164,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9195333343"
       }

@@ -544,7 +544,8 @@
         "highway": "bus_stop",
         "name": "Ballasalla Main Stop Southbound",
         "public_transport": "platform",
-        "ref": "405"
+        "ref": "405",
+        "shelter": "yes"
       }
     },
     {
@@ -768,14 +769,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Central Promenade / The Esplanade",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "119 / 60006",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -877,11 +882,14 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Loch Promenade, Granville Street",
         "public_transport": "platform",
-        "ref": "00117"
+        "ref": "00117",
+        "shelter": "yes"
       }
     },
     {
@@ -1419,11 +1427,13 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballasalla Station / The Paddocks",
         "public_transport": "platform",
-        "ref": "407"
+        "ref": "407",
+        "shelter": "yes"
       }
     },
     {
@@ -1437,11 +1447,13 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ballasalla Station / Silverburn Estate",
         "public_transport": "platform",
-        "ref": "408"
+        "ref": "408",
+        "shelter": "yes"
       }
     },
     {
@@ -3274,14 +3286,17 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Loch Promenade",
         "note": "Stand F?",
         "public_transport": "platform",
         "ref": "891085000108",
         "route_ref": "1;1H;2;2A;2C;3;11;13;26C",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3985,7 +4000,8 @@
         "name": "Harris Promenade / Gaiety Theatre",
         "public_transport": "platform",
         "ref": "118",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4020,14 +4036,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Central Promenade / Mona Drive",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "120 / 60006",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -4146,16 +4166,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.487814,
-          54.154955
+          -4.488081,
+          54.155193
         ]
       },
       "properties": {
         "bus": "yes",
+        "departures_board": "no",
         "highway": "bus_stop",
         "name": "Mount Bradda",
+        "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "138"
+        "ref": "891085000138"
       }
     },
     {
@@ -4830,7 +4852,8 @@
         "highway": "bus_stop",
         "name": "The Abbey Church",
         "public_transport": "platform",
-        "ref": "411"
+        "ref": "411",
+        "shelter": "no"
       }
     },
     {
@@ -4848,7 +4871,8 @@
         "highway": "bus_stop",
         "name": "Abbey Church Entrance",
         "public_transport": "platform",
-        "ref": "412"
+        "ref": "412",
+        "shelter": "no"
       }
     },
     {
@@ -10830,16 +10854,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.479991,
-          54.154153
+          -4.480205,
+          54.153931
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
-        "name": "Old St. Thomas's",
+        "name": "St Thomas' School",
         "public_transport": "platform",
-        "ref": "40136"
+        "ref": "891085040136"
       }
     },
     {
@@ -15967,16 +15991,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.487852,
-          54.155142
+          -4.487853,
+          54.155164
         ]
       },
       "properties": {
         "bus": "yes",
         "departures_board": "no",
-        "fixme": "should this be named No.10 after the grey house behind?",
         "highway": "bus_stop",
-        "name": "Mount Bradda No.1",
+        "name": "Mount Bradda No 11",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "20141"

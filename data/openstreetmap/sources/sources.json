@@ -86,7 +86,7 @@
       "title": "Manx names",
       "query": "nw['name:gv'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "highway", "railway", "place", "natural"],
+      "csv_columns": ["name", "name:en", "name:gv", "name:gv:signed", "highway", "railway", "place", "natural"],
       "sort_columns": ["name:gv", "osm_id"]
     },
     {

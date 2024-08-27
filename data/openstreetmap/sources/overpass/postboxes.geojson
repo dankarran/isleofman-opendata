@@ -3289,6 +3289,8 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "lamp",
+        "royal_cypher": "EIIR",
         "source": "streetside"
       }
     },
@@ -3954,6 +3956,23 @@
         "amenity": "post_box",
         "post_box:type": "lamp",
         "royal_cypher": "GR"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12124514865,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.405895,
+          54.233261
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "fixme": "check details",
+        "note": "Replica line-side postbox",
+        "source": "https://www.flickr.com/photos/jhluxton/28172367367/"
       }
     }
   ]
