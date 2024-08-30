@@ -4240,25 +4240,6 @@
     },
     {
       "type": "Feature",
-      "id": 10634772696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486161,
-          54.154426
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM1 3EY",
-        "addr:street": "Rosemount",
-        "name": "DW Cars",
-        "shop": "car",
-        "website": "http://www.dwcars.info"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10659969550,
       "geometry": {
         "type": "Point",
@@ -7986,6 +7967,7 @@
         "addr:housenumber": "1",
         "addr:postcode": "IM1 4AR",
         "addr:street": "Mount Bradda",
+        "building": "house",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -29692,6 +29674,59 @@
         "url:registered_building": "https://www.gov.im/media/632297/0500169regbldfreelibrary.pdf",
         "website": "http://www.douglas.gov.im",
         "wikidata": "Q118188669"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79143389,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481338,
+            54.149137
+          ],
+          [
+            -4.481325,
+            54.149152
+          ],
+          [
+            -4.481246,
+            54.149173
+          ],
+          [
+            -4.481195,
+            54.149116
+          ],
+          [
+            -4.481295,
+            54.149087
+          ],
+          [
+            -4.481305,
+            54.149098
+          ],
+          [
+            -4.481338,
+            54.149137
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM1 2AB",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "listed_status": "Registered",
+        "name": "Beau",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "ref:registered_building": "20",
+        "shop": "beauty",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "url:registered_building": "https://www.gov.im/media/632045/0500020regbld24churchstreet.pdf",
+        "wikidata": "Q118188634"
       }
     },
     {
@@ -61482,6 +61517,66 @@
         "note:registered_building": "includes other buildings on the estate",
         "ref:registered_building": "275",
         "url:registered_building": "https://www.gov.im/media/1374670/275-kentraugh-house-and-estate.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 105079470,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.640729,
+            54.083799
+          ],
+          [
+            -4.640322,
+            54.083813
+          ],
+          [
+            -4.640327,
+            54.083864
+          ],
+          [
+            -4.640231,
+            54.083867
+          ],
+          [
+            -4.640236,
+            54.083913
+          ],
+          [
+            -4.640543,
+            54.083902
+          ],
+          [
+            -4.640547,
+            54.083932
+          ],
+          [
+            -4.640656,
+            54.083928
+          ],
+          [
+            -4.640654,
+            54.083909
+          ],
+          [
+            -4.64074,
+            54.083906
+          ],
+          [
+            -4.640729,
+            54.083799
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:housename": "Netherby",
+        "addr:postcode": "IM9 1TN",
+        "addr:street": "Douglas Road",
+        "building": "house"
       }
     },
     {
@@ -135049,6 +135144,67 @@
     },
     {
       "type": "Feature",
+      "id": 1250231579,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.437553,
+            54.172133
+          ],
+          [
+            -4.437471,
+            54.172112
+          ],
+          [
+            -4.437482,
+            54.172097
+          ],
+          [
+            -4.437235,
+            54.172035
+          ],
+          [
+            -4.437174,
+            54.172119
+          ],
+          [
+            -4.437424,
+            54.172182
+          ],
+          [
+            -4.437401,
+            54.172213
+          ],
+          [
+            -4.437464,
+            54.172229
+          ],
+          [
+            -4.437481,
+            54.172206
+          ],
+          [
+            -4.437497,
+            54.17221
+          ],
+          [
+            -4.437553,
+            54.172133
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 2EW",
+        "addr:street": "Manor Park",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints;local knowledge"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250850042,
       "geometry": {
         "type": "LineString",
@@ -143479,6 +143635,77 @@
         "addr:street": "Glen Chass Road",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312096791,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486307,
+            54.154464
+          ],
+          [
+            -4.486131,
+            54.154492
+          ],
+          [
+            -4.486118,
+            54.154467
+          ],
+          [
+            -4.486084,
+            54.15439
+          ],
+          [
+            -4.486114,
+            54.154384
+          ],
+          [
+            -4.48618,
+            54.154373
+          ],
+          [
+            -4.486131,
+            54.154276
+          ],
+          [
+            -4.486224,
+            54.154261
+          ],
+          [
+            -4.486316,
+            54.154247
+          ],
+          [
+            -4.486357,
+            54.154343
+          ],
+          [
+            -4.486271,
+            54.154357
+          ],
+          [
+            -4.486259,
+            54.154359
+          ],
+          [
+            -4.486307,
+            54.154464
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM1 3EY",
+        "addr:street": "Rosemount",
+        "contact:email": "dwcars@manx.net",
+        "contact:phone": "+44 1624 672705",
+        "name": "DW Cars",
+        "shop": "car",
+        "website": "http://www.dwcars.info/"
       }
     }
   ]

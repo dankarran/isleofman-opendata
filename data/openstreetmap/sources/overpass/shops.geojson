@@ -735,8 +735,13 @@
         "brand": "Peacocks",
         "brand:wikidata": "Q7157762",
         "brand:wikipedia": "en:Peacocks (clothing)",
+        "check_date": "2024-08-20",
+        "check_date:opening_hours": "2024-08-20",
         "name": "Peacocks",
-        "shop": "clothes"
+        "opening_hours": "Mo-We 09:00-17:00; Th-Sa 09:00-17:30; Su 11:00-17:00",
+        "phone": "+44 1624 613573",
+        "shop": "clothes",
+        "website": "https://www.peacocks.co.uk/store-detail?storeID=6138&storeName=PEACOCKS-ISLE-OF-MAN"
       }
     },
     {
@@ -2095,25 +2100,6 @@
     },
     {
       "type": "Feature",
-      "id": 10634772696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486161,
-          54.154426
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM1 3EY",
-        "addr:street": "Rosemount",
-        "name": "DW Cars",
-        "shop": "car",
-        "website": "http://www.dwcars.info"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10647631570,
       "geometry": {
         "type": "Point",
@@ -3352,6 +3338,22 @@
         "gift": "christian",
         "name": "Churches Bookshop",
         "shop": "books;gift;stationery"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12141992334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625837,
+          54.092138
+        ]
+      },
+      "properties": {
+        "contact:facebook": "https://www.facebook.com/tilegallery",
+        "name": "The Tile Gallery",
+        "shop": "tiles"
       }
     },
     {
@@ -6529,6 +6531,108 @@
         "name": "Joe Jennings",
         "shop": "bookmaker",
         "source": "photo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79143389,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481338,
+            54.149137
+          ],
+          [
+            -4.481325,
+            54.149152
+          ],
+          [
+            -4.481246,
+            54.149173
+          ],
+          [
+            -4.481195,
+            54.149116
+          ],
+          [
+            -4.481295,
+            54.149087
+          ],
+          [
+            -4.481305,
+            54.149098
+          ],
+          [
+            -4.481338,
+            54.149137
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM1 2AB",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "listed_status": "Registered",
+        "name": "Beau",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "ref:registered_building": "20",
+        "shop": "beauty",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "url:registered_building": "https://www.gov.im/media/632045/0500020regbld24churchstreet.pdf",
+        "wikidata": "Q118188634"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79143390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481295,
+            54.149087
+          ],
+          [
+            -4.481287,
+            54.149077
+          ],
+          [
+            -4.481257,
+            54.149042
+          ],
+          [
+            -4.481159,
+            54.149072
+          ],
+          [
+            -4.481195,
+            54.149116
+          ],
+          [
+            -4.481295,
+            54.149087
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "contact:phone": "+44 1624 675678",
+        "listed_status": "Registered",
+        "name": "Hot Gossip",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "ref:registered_building": "19",
+        "shop": "hairdresser",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "url:registered_building": "https://www.gov.im/media/632039/0500019regbld22churchstreet.pdf",
+        "wikidata": "Q118188633"
       }
     },
     {
@@ -12615,6 +12719,46 @@
       "properties": {
         "name": "Michael Car Centre",
         "shop": "car"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112606392,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587558,
+            54.283035
+          ],
+          [
+            -4.587421,
+            54.283002
+          ],
+          [
+            -4.587466,
+            54.282939
+          ],
+          [
+            -4.587602,
+            54.282973
+          ],
+          [
+            -4.587558,
+            54.283035
+          ]
+        ]
+      },
+      "properties": {
+        "brand": "National Windscreens",
+        "brand:wikidata": "Q87142619",
+        "building": "house",
+        "check_date": "2024-08-20",
+        "name": "National Windscreens",
+        "phone": "+44 1624 878000",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair",
+        "website": "https://www.nationalwindscreens.co.uk/kirk-michael"
       }
     },
     {
@@ -24555,6 +24699,56 @@
     },
     {
       "type": "Feature",
+      "id": 1150296507,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481257,
+            54.149042
+          ],
+          [
+            -4.481228,
+            54.149007
+          ],
+          [
+            -4.48122,
+            54.148998
+          ],
+          [
+            -4.481124,
+            54.149035
+          ],
+          [
+            -4.481159,
+            54.149072
+          ],
+          [
+            -4.481257,
+            54.149042
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "contact:phone": "+44 7624 413003",
+        "listed_status": "Registered",
+        "name": "Eden Wood",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "pet": "dog",
+        "ref:registered_building": "18",
+        "shop": "pet_grooming",
+        "strapline": "Dog Grooming",
+        "url:registered_building": "https://www.gov.im/media/632033/rb18-20-church-street.pdf",
+        "wikidata": "Q118188632"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1152668733,
       "geometry": {
         "type": "LineString",
@@ -27870,6 +28064,77 @@
         "shop": "car_parts;wholesale",
         "source": "Isle of Man Government aerial imagery (2001)",
         "wholesale": "car_parts"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312096791,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486307,
+            54.154464
+          ],
+          [
+            -4.486131,
+            54.154492
+          ],
+          [
+            -4.486118,
+            54.154467
+          ],
+          [
+            -4.486084,
+            54.15439
+          ],
+          [
+            -4.486114,
+            54.154384
+          ],
+          [
+            -4.48618,
+            54.154373
+          ],
+          [
+            -4.486131,
+            54.154276
+          ],
+          [
+            -4.486224,
+            54.154261
+          ],
+          [
+            -4.486316,
+            54.154247
+          ],
+          [
+            -4.486357,
+            54.154343
+          ],
+          [
+            -4.486271,
+            54.154357
+          ],
+          [
+            -4.486259,
+            54.154359
+          ],
+          [
+            -4.486307,
+            54.154464
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM1 3EY",
+        "addr:street": "Rosemount",
+        "contact:email": "dwcars@manx.net",
+        "contact:phone": "+44 1624 672705",
+        "name": "DW Cars",
+        "shop": "car",
+        "website": "http://www.dwcars.info/"
       }
     }
   ]

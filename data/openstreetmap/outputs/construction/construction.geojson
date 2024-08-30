@@ -2482,6 +2482,46 @@
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1309077686"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1312239572,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.641377,
+            54.083286
+          ],
+          [
+            -4.640076,
+            54.082746
+          ],
+          [
+            -4.639287,
+            54.083444
+          ],
+          [
+            -4.64051,
+            54.084111
+          ],
+          [
+            -4.641377,
+            54.083286
+          ]
+        ]
+      },
+      "properties": {
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Netherby",
+        "url": "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber=21/01567/B",
+        "osm_id": 1312239572,
+        "lon": -4.640331680747658,
+        "lat": 54.08340414036453,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312239572"
+      }
     }
   ]
 }

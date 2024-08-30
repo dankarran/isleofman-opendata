@@ -571,6 +571,24 @@
       "properties": {
         "emergency": "defibrillator"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12141659309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481824,
+          54.150838
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "defibrillator:location": "On the wall around the right hand corner from the main entrance to government offices",
+        "emergency": "defibrillator",
+        "opening_hours": "24/7",
+        "phone": "999"
+      }
     }
   ]
 }

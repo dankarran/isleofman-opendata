@@ -6813,6 +6813,7 @@
       "properties": {
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Pulrose Road",
         "name:en": "Pulrose Road",
@@ -11829,6 +11830,7 @@
       "properties": {
         "abutters": "retail",
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Church Road",
         "name:en": "Church Road",
@@ -24175,6 +24177,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Devonshire Road",
         "name:en": "Devonshire Road",
@@ -29866,6 +29869,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Station Road",
         "name:en": "Station Road",
@@ -34187,6 +34191,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "The Promenade",
         "name:en": "The Promenade",
@@ -34924,8 +34929,20 @@
             54.154396
           ],
           [
-            -4.485724,
-            54.154604
+            -4.486818,
+            54.154423
+          ],
+          [
+            -4.485844,
+            54.154587
+          ],
+          [
+            -4.485739,
+            54.154602
+          ],
+          [
+            -4.485646,
+            54.154615
           ],
           [
             -4.484888,
@@ -38667,6 +38684,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Station Road",
         "name:en": "Station Road",
@@ -55936,6 +55954,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Station Road",
         "name:en": "Station Road",
@@ -60995,6 +61014,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "The Promenade",
         "name:en": "The Promenade",
@@ -61058,6 +61078,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "The Promenade",
         "name:en": "The Promenade",
@@ -64463,6 +64484,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "The Promenade",
         "name:en": "The Promenade",

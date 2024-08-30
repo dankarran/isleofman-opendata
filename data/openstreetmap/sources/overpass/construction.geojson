@@ -2317,6 +2317,41 @@
       "properties": {
         "landuse": "construction"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1312239572,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.641377,
+            54.083286
+          ],
+          [
+            -4.640076,
+            54.082746
+          ],
+          [
+            -4.639287,
+            54.083444
+          ],
+          [
+            -4.64051,
+            54.084111
+          ],
+          [
+            -4.641377,
+            54.083286
+          ]
+        ]
+      },
+      "properties": {
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Netherby",
+        "url": "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber=21/01567/B"
+      }
     }
   ]
 }

@@ -11876,6 +11876,49 @@
     },
     {
       "type": "Feature",
+      "id": 146907383,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696631,
+            54.222974
+          ],
+          [
+            -4.696544,
+            54.222959
+          ],
+          [
+            -4.696586,
+            54.222875
+          ],
+          [
+            -4.696672,
+            54.22289
+          ],
+          [
+            -4.696631,
+            54.222974
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Corner Cottage",
+        "addr:housenumber": "1",
+        "addr:street": "Church Lane",
+        "building": "yes",
+        "name": "Corner Cottage",
+        "tourism": "chalet",
+        "osm_id": 146907383,
+        "lon": -4.696608140894827,
+        "lat": 54.222924604858534,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146907383"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147183393,
       "geometry": {
         "type": "LineString",

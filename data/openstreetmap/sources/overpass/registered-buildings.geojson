@@ -4397,6 +4397,10 @@
             54.149087
           ],
           [
+            -4.481305,
+            54.149098
+          ],
+          [
             -4.481338,
             54.149137
           ]
@@ -4406,11 +4410,14 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "24",
+        "addr:postcode": "IM1 2AB",
         "addr:street": "Church Street",
         "building": "yes",
         "listed_status": "Registered",
-        "note": "for registered building details, see 7 John Street",
+        "name": "Beau",
+        "note:registered_building": "For registered building details, see 7 John Street",
         "ref:registered_building": "20",
+        "shop": "beauty",
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632045/0500020regbld24churchstreet.pdf",
         "wikidata": "Q118188634"
@@ -4425,6 +4432,10 @@
           [
             -4.481295,
             54.149087
+          ],
+          [
+            -4.481287,
+            54.149077
           ],
           [
             -4.481257,
@@ -4450,9 +4461,12 @@
         "addr:housenumber": "22",
         "addr:street": "Church Street",
         "building": "yes",
+        "contact:phone": "+44 1624 675678",
         "listed_status": "Registered",
-        "note": "for registered building details, see 7 John Street",
+        "name": "Hot Gossip",
+        "note:registered_building": "For registered building details, see 7 John Street",
         "ref:registered_building": "19",
+        "shop": "hairdresser",
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632039/0500019regbld22churchstreet.pdf",
         "wikidata": "Q118188633"
@@ -16926,6 +16940,10 @@
             54.149042
           ],
           [
+            -4.481228,
+            54.149007
+          ],
+          [
             -4.48122,
             54.148998
           ],
@@ -16949,9 +16967,14 @@
         "addr:housenumber": "20",
         "addr:street": "Church Street",
         "building": "yes",
+        "contact:phone": "+44 7624 413003",
         "listed_status": "Registered",
-        "note": "for registered building details, see 7 John Street",
+        "name": "Eden Wood",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "pet": "dog",
         "ref:registered_building": "18",
+        "shop": "pet_grooming",
+        "strapline": "Dog Grooming",
         "url:registered_building": "https://www.gov.im/media/632033/rb18-20-church-street.pdf",
         "wikidata": "Q118188632"
       }

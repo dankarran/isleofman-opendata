@@ -910,8 +910,13 @@
         "brand": "Peacocks",
         "brand:wikidata": "Q7157762",
         "brand:wikipedia": "en:Peacocks (clothing)",
+        "check_date": "2024-08-20",
+        "check_date:opening_hours": "2024-08-20",
         "name": "Peacocks",
+        "opening_hours": "Mo-We 09:00-17:00; Th-Sa 09:00-17:30; Su 11:00-17:00",
+        "phone": "+44 1624 613573",
         "shop": "clothes",
+        "website": "https://www.peacocks.co.uk/store-detail?storeID=6138&storeName=PEACOCKS-ISLE-OF-MAN",
         "osm_id": 823879656,
         "lon": -4.479523,
         "lat": 54.152485,
@@ -2620,30 +2625,6 @@
     },
     {
       "type": "Feature",
-      "id": 10634772696,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486161,
-          54.154426
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM1 3EY",
-        "addr:street": "Rosemount",
-        "name": "DW Cars",
-        "shop": "car",
-        "website": "http://www.dwcars.info",
-        "osm_id": 10634772696,
-        "lon": -4.486161,
-        "lat": 54.154426,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10634772696"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10647631570,
       "geometry": {
         "type": "Point",
@@ -4192,6 +4173,27 @@
         "lat": 54.154273,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12134462885"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12141992334,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625837,
+          54.092138
+        ]
+      },
+      "properties": {
+        "contact:facebook": "https://www.facebook.com/tilegallery",
+        "name": "The Tile Gallery",
+        "shop": "tiles",
+        "osm_id": 12141992334,
+        "lon": -4.625837,
+        "lat": 54.092138,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12141992334"
       }
     },
     {
@@ -7619,6 +7621,118 @@
         "lat": 54.14793617838077,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79143113"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79143389,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481338,
+            54.149137
+          ],
+          [
+            -4.481325,
+            54.149152
+          ],
+          [
+            -4.481246,
+            54.149173
+          ],
+          [
+            -4.481195,
+            54.149116
+          ],
+          [
+            -4.481295,
+            54.149087
+          ],
+          [
+            -4.481305,
+            54.149098
+          ],
+          [
+            -4.481338,
+            54.149137
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM1 2AB",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "listed_status": "Registered",
+        "name": "Beau",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "ref:registered_building": "20",
+        "shop": "beauty",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "url:registered_building": "https://www.gov.im/media/632045/0500020regbld24churchstreet.pdf",
+        "wikidata": "Q118188634",
+        "osm_id": 79143389,
+        "lon": -4.48126763253687,
+        "lat": 54.14912968408749,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79143389"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79143390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481295,
+            54.149087
+          ],
+          [
+            -4.481287,
+            54.149077
+          ],
+          [
+            -4.481257,
+            54.149042
+          ],
+          [
+            -4.481159,
+            54.149072
+          ],
+          [
+            -4.481195,
+            54.149116
+          ],
+          [
+            -4.481295,
+            54.149087
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "contact:phone": "+44 1624 675678",
+        "listed_status": "Registered",
+        "name": "Hot Gossip",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "ref:registered_building": "19",
+        "shop": "hairdresser",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "url:registered_building": "https://www.gov.im/media/632039/0500019regbld22churchstreet.pdf",
+        "wikidata": "Q118188633",
+        "osm_id": 79143390,
+        "lon": -4.4812269327904835,
+        "lat": 54.14907924884192,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79143390"
       }
     },
     {
@@ -14310,6 +14424,51 @@
         "lat": 54.28401861479439,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/112474381"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112606392,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587558,
+            54.283035
+          ],
+          [
+            -4.587421,
+            54.283002
+          ],
+          [
+            -4.587466,
+            54.282939
+          ],
+          [
+            -4.587602,
+            54.282973
+          ],
+          [
+            -4.587558,
+            54.283035
+          ]
+        ]
+      },
+      "properties": {
+        "brand": "National Windscreens",
+        "brand:wikidata": "Q87142619",
+        "building": "house",
+        "check_date": "2024-08-20",
+        "name": "National Windscreens",
+        "phone": "+44 1624 878000",
+        "service:vehicle:glass": "yes",
+        "shop": "car_repair",
+        "website": "https://www.nationalwindscreens.co.uk/kirk-michael",
+        "osm_id": 112606392,
+        "lon": -4.5875114934412915,
+        "lat": 54.282987248943634,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/112606392"
       }
     },
     {
@@ -27535,6 +27694,61 @@
     },
     {
       "type": "Feature",
+      "id": 1150296507,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481257,
+            54.149042
+          ],
+          [
+            -4.481228,
+            54.149007
+          ],
+          [
+            -4.48122,
+            54.148998
+          ],
+          [
+            -4.481124,
+            54.149035
+          ],
+          [
+            -4.481159,
+            54.149072
+          ],
+          [
+            -4.481257,
+            54.149042
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:street": "Church Street",
+        "building": "yes",
+        "contact:phone": "+44 7624 413003",
+        "listed_status": "Registered",
+        "name": "Eden Wood",
+        "note:registered_building": "For registered building details, see 7 John Street",
+        "pet": "dog",
+        "ref:registered_building": "18",
+        "shop": "pet_grooming",
+        "strapline": "Dog Grooming",
+        "url:registered_building": "https://www.gov.im/media/632033/rb18-20-church-street.pdf",
+        "wikidata": "Q118188632",
+        "osm_id": 1150296507,
+        "lon": -4.481191014798546,
+        "lat": 54.14903635447823,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1150296507"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1152668733,
       "geometry": {
         "type": "LineString",
@@ -31220,6 +31434,82 @@
         "lat": 54.146487711556446,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1308483341"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312096791,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486307,
+            54.154464
+          ],
+          [
+            -4.486131,
+            54.154492
+          ],
+          [
+            -4.486118,
+            54.154467
+          ],
+          [
+            -4.486084,
+            54.15439
+          ],
+          [
+            -4.486114,
+            54.154384
+          ],
+          [
+            -4.48618,
+            54.154373
+          ],
+          [
+            -4.486131,
+            54.154276
+          ],
+          [
+            -4.486224,
+            54.154261
+          ],
+          [
+            -4.486316,
+            54.154247
+          ],
+          [
+            -4.486357,
+            54.154343
+          ],
+          [
+            -4.486271,
+            54.154357
+          ],
+          [
+            -4.486259,
+            54.154359
+          ],
+          [
+            -4.486307,
+            54.154464
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM1 3EY",
+        "addr:street": "Rosemount",
+        "contact:email": "dwcars@manx.net",
+        "contact:phone": "+44 1624 672705",
+        "name": "DW Cars",
+        "shop": "car",
+        "website": "http://www.dwcars.info/",
+        "osm_id": 1312096791,
+        "lon": -4.486220339346251,
+        "lat": 54.154368123790135,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312096791"
       }
     }
   ]

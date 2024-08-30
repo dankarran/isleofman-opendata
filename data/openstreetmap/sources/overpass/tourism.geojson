@@ -10186,6 +10186,44 @@
     },
     {
       "type": "Feature",
+      "id": 146907383,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696631,
+            54.222974
+          ],
+          [
+            -4.696544,
+            54.222959
+          ],
+          [
+            -4.696586,
+            54.222875
+          ],
+          [
+            -4.696672,
+            54.22289
+          ],
+          [
+            -4.696631,
+            54.222974
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Corner Cottage",
+        "addr:housenumber": "1",
+        "addr:street": "Church Lane",
+        "building": "yes",
+        "name": "Corner Cottage",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147183393,
       "geometry": {
         "type": "LineString",
