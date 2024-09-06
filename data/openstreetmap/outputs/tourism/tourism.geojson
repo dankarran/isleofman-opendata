@@ -578,6 +578,8 @@
       },
       "properties": {
         "name": "Ballacraine",
+        "name:en": "Ballacraine",
+        "name:gv": "Balley Craine",
         "place": "hamlet",
         "tourism": "attraction",
         "wikidata": "Q4851317",
@@ -1974,6 +1976,7 @@
       "properties": {
         "access": "private",
         "name": "Mullin-y-Carty",
+        "name:gv": "Mullin-y-Carty",
         "scout": "yes",
         "tourism": "camp_site",
         "osm_id": 1219367462,
@@ -3572,7 +3575,8 @@
       },
       "properties": {
         "alt_name": "Drinkwater's Bend",
-        "fixme": "11th/13th milestone?",
+        "description": "11th mile on TT course; 13th mile from Ramsey",
+        "fixme": "Tag milestone both directions",
         "highway": "milestone",
         "name": "11th Milestone",
         "tourism": "attraction",
@@ -3910,6 +3914,31 @@
         "lat": 54.322589,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10651817852"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10669350341,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379429,
+          54.321386
+        ]
+      },
+      "properties": {
+        "description": "Celebrating the incorporation of Ramsey as a town in 1865. It is decked in the traditional blue and gold colours of Ramsey Town Commissioners. The lamppost incorporates a water fountain at its base, but this is no longer in use. This is number 14 on the R",
+        "disused:amenity": "drinking_water",
+        "highway": "street_lamp",
+        "historic": "street_lamp",
+        "name": "Heritage lamp post",
+        "support": "pole",
+        "tourism": "attraction",
+        "osm_id": 10669350341,
+        "lon": -4.379429,
+        "lat": 54.321386,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10669350341"
       }
     },
     {
@@ -5538,6 +5567,54 @@
     },
     {
       "type": "Feature",
+      "id": 11891204536,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379616,
+          54.321056
+        ]
+      },
+      "properties": {
+        "amenity": "bench",
+        "artist_name": "Nick Barlow",
+        "artwork_type": "sculpture",
+        "material": "wood",
+        "name": "Longboat Bench",
+        "tourism": "artwork",
+        "osm_id": 11891204536,
+        "lon": -4.379616,
+        "lat": 54.321056,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11891204536"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11891204537,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379569,
+          54.320989
+        ]
+      },
+      "properties": {
+        "amenity": "bench",
+        "artist_name": "Nick Barlow",
+        "artwork_type": "sculpture",
+        "material": "wood",
+        "name": "Longboat Bench",
+        "tourism": "artwork",
+        "osm_id": 11891204537,
+        "lon": -4.379569,
+        "lat": 54.320989,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11891204537"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 11891204538,
       "geometry": {
         "type": "Point",
@@ -5547,7 +5624,10 @@
         ]
       },
       "properties": {
+        "artist_name": "Nick Barlow",
         "artwork_type": "sculpture",
+        "material": "wood",
+        "name": "Viking",
         "tourism": "artwork",
         "osm_id": 11891204538,
         "lon": -4.379595,
@@ -5681,6 +5761,80 @@
         "lat": 54.072769,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12118902523"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12150059664,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48292,
+          54.151096
+        ]
+      },
+      "properties": {
+        "artwork_type": "statue",
+        "material": "bronze",
+        "name": "T. E. Brown",
+        "subject:wikidata": "Q7789264",
+        "tourism": "artwork",
+        "wikimedia_commons": "File:Statue of T.E Brown on Prospect Hill, Douglas Isle of Man, IM1 1SB.JPG",
+        "osm_id": 12150059664,
+        "lon": -4.48292,
+        "lat": 54.151096,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12150059664"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12153659500,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.380617,
+          54.32173
+        ]
+      },
+      "properties": {
+        "name": "Old post boxes",
+        "photo": "http://www.island-images.co.uk/2013/1304/1304181542.html",
+        "tourism": "attraction",
+        "osm_id": 12153659500,
+        "lon": -4.380617,
+        "lat": 54.32173,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12153659500"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12154106564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.388217,
+          54.327932
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Baie Mooar House",
+        "addr:postcode": "IM8 3EQ",
+        "addr:street": "Coburg Road",
+        "guest_house": "guest_house",
+        "name": "Baie Mooar House",
+        "name:en": "Baie Mooar House",
+        "name:gv": "Baie Mooar",
+        "tourism": "guest_house",
+        "website": "https://www.baiemooar.com",
+        "osm_id": 12154106564,
+        "lon": -4.388217,
+        "lat": 54.327932,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12154106564"
       }
     },
     {

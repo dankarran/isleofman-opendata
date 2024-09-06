@@ -1464,6 +1464,46 @@
     },
     {
       "type": "Feature",
+      "id": 12157425820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.381703,
+          54.324781
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "osm_id": 12157425820,
+        "lon": -4.381703,
+        "lat": 54.324781,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12157425820"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12157425825,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.381865,
+          54.324832
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "osm_id": 12157425825,
+        "lon": -4.381865,
+        "lat": 54.324832,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12157425825"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1167710497,
       "geometry": {
         "type": "LineString",

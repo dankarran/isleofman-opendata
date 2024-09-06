@@ -9470,70 +9470,6 @@
     },
     {
       "type": "Feature",
-      "id": 99861919,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.653785,
-            54.073983
-          ],
-          [
-            -4.653905,
-            54.073964
-          ],
-          [
-            -4.653921,
-            54.073992
-          ],
-          [
-            -4.653931,
-            54.07401
-          ],
-          [
-            -4.653806,
-            54.074024
-          ],
-          [
-            -4.653688,
-            54.07403
-          ],
-          [
-            -4.653634,
-            54.074035
-          ],
-          [
-            -4.653636,
-            54.074006
-          ],
-          [
-            -4.653785,
-            54.073983
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "14",
-        "addr:street": "Malew Street",
-        "building": "yes",
-        "building:colour": "white",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "contact:phone": "+44 1624 829309",
-        "name": "Castle Cutz",
-        "opening_hours": "\"By appointment\"",
-        "shop": "hairdresser",
-        "osm_id": 99861919,
-        "lon": -4.653781960077026,
-        "lat": 54.07400452086784,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/99861919"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 99861924,
       "geometry": {
         "type": "LineString",
@@ -9593,65 +9529,6 @@
     },
     {
       "type": "Feature",
-      "id": 100018169,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.653795,
-            54.073754
-          ],
-          [
-            -4.653828,
-            54.073807
-          ],
-          [
-            -4.653683,
-            54.07383
-          ],
-          [
-            -4.653475,
-            54.07384
-          ],
-          [
-            -4.653514,
-            54.073771
-          ],
-          [
-            -4.653657,
-            54.073772
-          ],
-          [
-            -4.653795,
-            54.073754
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housenumber": "6",
-        "addr:street": "Malew Street",
-        "alt_name": "Radcliffe (Butcher) Ltd",
-        "building": "yes",
-        "description": "Craft butcher, deli & fishmonger",
-        "name": "Radcliffes",
-        "note": "Name changed to match what it says on the shop sign \"Radcliffes\" (with no apostrophe), company name moved to alt_name tag",
-        "phone": "+44 1624 822271",
-        "postal_code": "IM9 1AB",
-        "shop": "butcher",
-        "source": "survey;photo;Bing",
-        "twitter": "Radclifebutcher",
-        "website": "http://www.radcliffebutchers.com/",
-        "osm_id": 100018169,
-        "lon": -4.653649762631565,
-        "lat": 54.073799997505304,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/100018169"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 100018170,
       "geometry": {
         "type": "LineString",
@@ -9695,10 +9572,11 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Castle Deli",
-        "opening_hours": "Mo-Fr 10:00-14:00",
+        "contact:phone": "+44 1624 829309",
+        "name": "Castle Cutz",
+        "opening_hours": "\"By appointment\"",
         "postal_code": "IM9 1AB",
-        "shop": "deli",
+        "shop": "hairdresser",
         "source": "survey;photo;Bing",
         "osm_id": 100018170,
         "lon": -4.653692903227693,
@@ -24577,12 +24455,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ],
           [
-            -4.480386,
-            54.149376
+            -4.480391,
+            54.149361
           ],
           [
             -4.48037,
@@ -24605,8 +24483,8 @@
             54.149352
           ],
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ]
         ]
       },
@@ -24627,8 +24505,8 @@
         "shop": "estate_agent",
         "website": "https://www.harmonyhomes.co.im",
         "osm_id": 419950952,
-        "lon": -4.480354354560877,
-        "lat": 54.1493407814011,
+        "lon": -4.480354329068152,
+        "lat": 54.14933953283778,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950952"
       }
@@ -24652,8 +24530,8 @@
             54.149427
           ],
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ],
           [
             -4.480298,
@@ -24685,8 +24563,8 @@
         "source": "Bing;photograph",
         "website": "https://www.cosmeticmedicaldental.com",
         "osm_id": 419950955,
-        "lon": -4.480261668910646,
-        "lat": 54.149358970928624,
+        "lon": -4.480257531295258,
+        "lat": 54.149356862176155,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950955"
       }
@@ -24795,6 +24673,10 @@
             54.149603
           ],
           [
+            -4.480533,
+            54.149594
+          ],
+          [
             -4.480563,
             54.149579
           ],
@@ -24815,8 +24697,8 @@
         "shop": "massage",
         "website": "https://www.menzone.im/",
         "osm_id": 420023854,
-        "lon": -4.480588434759976,
-        "lat": 54.149614900590414,
+        "lon": -4.480588451689661,
+        "lat": 54.14961493886637,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023854"
       }
@@ -24834,6 +24716,10 @@
           [
             -4.480563,
             54.149579
+          ],
+          [
+            -4.480533,
+            54.149594
           ],
           [
             -4.480513,
@@ -24859,8 +24745,8 @@
         "opening_hours": "Mo-Fr 08:30-14:30",
         "shop": "convenience",
         "osm_id": 420023855,
-        "lon": -4.480584497274771,
-        "lat": 54.149618864008,
+        "lon": -4.480584515376654,
+        "lat": 54.1496189045002,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023855"
       }
@@ -25872,6 +25758,50 @@
     },
     {
       "type": "Feature",
+      "id": 718204385,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480341,
+            54.149504
+          ],
+          [
+            -4.480272,
+            54.149539
+          ],
+          [
+            -4.480182,
+            54.149465
+          ],
+          [
+            -4.480247,
+            54.149432
+          ],
+          [
+            -4.480341,
+            54.149504
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Trafalgar House",
+        "addr:housenumber": "25",
+        "addr:street": "Nelson Street",
+        "building": "yes",
+        "name": "MostlyManx",
+        "shop": "gift",
+        "osm_id": 718204385,
+        "lon": -4.480261198434967,
+        "lat": 54.14948534035347,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/718204385"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 753425839,
       "geometry": {
         "type": "LineString",
@@ -26598,12 +26528,12 @@
             54.149559
           ],
           [
-            -4.480454,
-            54.149502
+            -4.480462,
+            54.149506
           ],
           [
-            -4.480527,
-            54.149465
+            -4.48053,
+            54.149469
           ],
           [
             -4.480595,
@@ -26630,10 +26560,10 @@
         "contact:facebook": "https://www.facebook.com/TheAdventurersTavern/",
         "name": "The Adventurer's Tavern",
         "shop": "games",
-        "website": "https://www.theadventurerstavern.co.uk",
+        "website": "https://www.theadventurerstavern.co.uk/",
         "osm_id": 972954836,
-        "lon": -4.480537220136921,
-        "lat": 54.14951201455925,
+        "lon": -4.480540956046196,
+        "lat": 54.1495140768329,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/972954836"
       }
@@ -31510,6 +31440,258 @@
         "lat": 54.154368123790135,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1312096791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312599144,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480423,
+            54.149529
+          ],
+          [
+            -4.480533,
+            54.149594
+          ],
+          [
+            -4.480513,
+            54.149603
+          ],
+          [
+            -4.480494,
+            54.149613
+          ],
+          [
+            -4.480388,
+            54.149548
+          ],
+          [
+            -4.480423,
+            54.149529
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18-20",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Nelson Street",
+        "contact:email": "contact@suki-beauty.co.uk",
+        "contact:phone": "+44 7624 321750",
+        "contact:website": "https://suki-beauty.co.uk/",
+        "name": "Suki Beauty",
+        "opening_hours": "Tu 10:00-14:00, We 09:30-18:00, Th 11:00-20:00, Fr 11:00-19:00, Sa 09:00-18:00",
+        "shop": "beauty",
+        "osm_id": 1312599144,
+        "lon": -4.480460246275184,
+        "lat": 54.14957121079804,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312599144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312599153,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480423,
+            54.149529
+          ],
+          [
+            -4.480533,
+            54.149594
+          ],
+          [
+            -4.480563,
+            54.149579
+          ],
+          [
+            -4.480577,
+            54.149572
+          ],
+          [
+            -4.480552,
+            54.149559
+          ],
+          [
+            -4.480462,
+            54.149506
+          ],
+          [
+            -4.480423,
+            54.149529
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Nelson Street",
+        "contact:phone": "+44 7624 214224",
+        "name": "VIP Hair Design",
+        "shop": "hairdresser;beauty",
+        "osm_id": 1312599153,
+        "lon": -4.480499548836568,
+        "lat": 54.149550648653744,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312599153"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312599154,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480447,
+            54.149636
+          ],
+          [
+            -4.48034,
+            54.149576
+          ],
+          [
+            -4.480388,
+            54.149548
+          ],
+          [
+            -4.480494,
+            54.149613
+          ],
+          [
+            -4.480447,
+            54.149636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Nelson Street",
+        "contact:phone": "+44 1624 619606",
+        "contact:website": "https://thenailclub.im/",
+        "description": "Nail, brow, and lash bar",
+        "name": "The Nail Club",
+        "shop": "beauty",
+        "osm_id": 1312599154,
+        "lon": -4.480416874911346,
+        "lat": 54.14959290445877,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312599154"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312619901,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480603,
+            54.149724
+          ],
+          [
+            -4.480485,
+            54.149658
+          ],
+          [
+            -4.4805,
+            54.14965
+          ],
+          [
+            -4.48055,
+            54.149623
+          ],
+          [
+            -4.48063,
+            54.149665
+          ],
+          [
+            -4.480606,
+            54.149716
+          ],
+          [
+            -4.480603,
+            54.149724
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 1EJ",
+        "addr:street": "Prospect Hill",
+        "contact:email": "drramaesthetics@gmail.com",
+        "contact:phone": "+44 7624 248926",
+        "level": "1",
+        "name": "Dr Ram Aesthetics",
+        "shop": "beauty",
+        "osm_id": 1312619901,
+        "lon": -4.480562910882699,
+        "lat": 54.14966971757472,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312619901"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312619902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480609,
+            54.14971
+          ],
+          [
+            -4.4805,
+            54.14965
+          ],
+          [
+            -4.48055,
+            54.149623
+          ],
+          [
+            -4.48063,
+            54.149665
+          ],
+          [
+            -4.480626,
+            54.149673
+          ],
+          [
+            -4.480609,
+            54.14971
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 1EJ",
+        "addr:street": "Prospect Hill",
+        "level": "0",
+        "mattress": "yes",
+        "name": "Mattress Man",
+        "shop": "bed",
+        "osm_id": 1312619902,
+        "lon": -4.480569297623964,
+        "lat": 54.149663332260566,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312619902"
       }
     }
   ]

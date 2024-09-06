@@ -5581,6 +5581,10 @@
             54.321096
           ],
           [
+            -4.381097,
+            54.320771
+          ],
+          [
             -4.381149,
             54.320722
           ]
@@ -9562,6 +9566,14 @@
           [
             -4.390089,
             54.32678
+          ],
+          [
+            -4.390024,
+            54.326817
+          ],
+          [
+            -4.389897,
+            54.3269
           ],
           [
             -4.388179,
@@ -22515,6 +22527,10 @@
             54.319885
           ],
           [
+            -4.388574,
+            54.319285
+          ],
+          [
             -4.388613,
             54.319216
           ],
@@ -28820,17 +28836,11 @@
         "addr:country": "IM",
         "addr:housenumber": "6",
         "addr:street": "Malew Street",
-        "alt_name": "Radcliffe (Butcher) Ltd",
         "building": "yes",
-        "description": "Craft butcher, deli & fishmonger",
-        "name": "Radcliffes",
-        "note": "Name changed to match what it says on the shop sign \"Radcliffes\" (with no apostrophe), company name moved to alt_name tag",
-        "phone": "+44 1624 822271",
+        "old_name": "Radcliffes",
         "postal_code": "IM9 1AB",
-        "shop": "butcher",
         "source": "survey;photo;Bing",
-        "twitter": "Radclifebutcher",
-        "website": "http://www.radcliffebutchers.com/"
+        "was:shop": "butcher"
       }
     },
     {
@@ -28878,10 +28888,11 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Castle Deli",
-        "opening_hours": "Mo-Fr 10:00-14:00",
+        "contact:phone": "+44 1624 829309",
+        "name": "Castle Cutz",
+        "opening_hours": "\"By appointment\"",
         "postal_code": "IM9 1AB",
-        "shop": "deli",
+        "shop": "hairdresser",
         "source": "survey;photo;Bing"
       }
     },
@@ -31338,20 +31349,24 @@
             54.132222
           ],
           [
-            -4.534525,
-            54.132138
+            -4.534311,
+            54.132184
           ],
           [
-            -4.534683,
-            54.132092
+            -4.534527,
+            54.132151
           ],
           [
-            -4.535236,
-            54.13193
+            -4.534715,
+            54.132113
           ],
           [
-            -4.535562,
-            54.131848
+            -4.535251,
+            54.131956
+          ],
+          [
+            -4.535582,
+            54.131862
           ]
         ]
       },
@@ -40513,6 +40528,33 @@
         "postal_code": "IM5 1UX",
         "source:maxweight": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1271547581,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383847,
+            54.32229
+          ],
+          [
+            -4.383809,
+            54.322538
+          ],
+          [
+            -4.383747,
+            54.322743
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "footway",
+        "name": "Collins Lane",
+        "name:en": "Collins Lane",
+        "postal_code": "IM8 1AL"
       }
     },
     {

@@ -6661,6 +6661,10 @@
             54.321096
           ],
           [
+            -4.381097,
+            54.320771
+          ],
+          [
             -4.381149,
             54.320722
           ]
@@ -6676,8 +6680,8 @@
         "source": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986366,
-        "lon": -4.3809505,
-        "lat": 54.320909,
+        "lon": -4.380950503143197,
+        "lat": 54.320909003336126,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986366"
       }
@@ -11069,6 +11073,14 @@
             54.32678
           ],
           [
+            -4.390024,
+            54.326817
+          ],
+          [
+            -4.389897,
+            54.3269
+          ],
+          [
             -4.388179,
             54.328183
           ],
@@ -11086,8 +11098,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987165,
-        "lon": -4.389119186612776,
-        "lat": 54.32749233924988,
+        "lon": -4.38911443412783,
+        "lat": 54.32748529455318,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987165"
       }
@@ -25355,6 +25367,10 @@
             54.319885
           ],
           [
+            -4.388574,
+            54.319285
+          ],
+          [
             -4.388613,
             54.319216
           ],
@@ -25507,8 +25523,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "website": "https://www.ramseygolfclub.im/",
         "osm_id": 39658883,
-        "lon": -4.396346878476736,
-        "lat": 54.31804231185431,
+        "lon": -4.3963468783825626,
+        "lat": 54.31804231180123,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/39658883"
       }
@@ -32095,17 +32111,11 @@
         "addr:country": "IM",
         "addr:housenumber": "6",
         "addr:street": "Malew Street",
-        "alt_name": "Radcliffe (Butcher) Ltd",
         "building": "yes",
-        "description": "Craft butcher, deli & fishmonger",
-        "name": "Radcliffes",
-        "note": "Name changed to match what it says on the shop sign \"Radcliffes\" (with no apostrophe), company name moved to alt_name tag",
-        "phone": "+44 1624 822271",
+        "old_name": "Radcliffes",
         "postal_code": "IM9 1AB",
-        "shop": "butcher",
         "source": "survey;photo;Bing",
-        "twitter": "Radclifebutcher",
-        "website": "http://www.radcliffebutchers.com/",
+        "was:shop": "butcher",
         "osm_id": 100018169,
         "lon": -4.653649762631565,
         "lat": 54.073799997505304,
@@ -32158,10 +32168,11 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Castle Deli",
-        "opening_hours": "Mo-Fr 10:00-14:00",
+        "contact:phone": "+44 1624 829309",
+        "name": "Castle Cutz",
+        "opening_hours": "\"By appointment\"",
         "postal_code": "IM9 1AB",
-        "shop": "deli",
+        "shop": "hairdresser",
         "source": "survey;photo;Bing",
         "osm_id": 100018170,
         "lon": -4.653692903227693,
@@ -34823,20 +34834,24 @@
             54.132222
           ],
           [
-            -4.534525,
-            54.132138
+            -4.534311,
+            54.132184
           ],
           [
-            -4.534683,
-            54.132092
+            -4.534527,
+            54.132151
           ],
           [
-            -4.535236,
-            54.13193
+            -4.534715,
+            54.132113
           ],
           [
-            -4.535562,
-            54.131848
+            -4.535251,
+            54.131956
+          ],
+          [
+            -4.535582,
+            54.131862
           ]
         ]
       },
@@ -34851,8 +34866,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 162747171,
-        "lon": -4.531287475790688,
-        "lat": 54.132119196871386,
+        "lon": -4.531297290277226,
+        "lat": 54.13212320930403,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/162747171"
       }
@@ -44753,6 +44768,38 @@
         "lat": 54.226303759172254,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1255796155"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1271547581,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383847,
+            54.32229
+          ],
+          [
+            -4.383809,
+            54.322538
+          ],
+          [
+            -4.383747,
+            54.322743
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "footway",
+        "name": "Collins Lane",
+        "name:en": "Collins Lane",
+        "postal_code": "IM8 1AL",
+        "osm_id": 1271547581,
+        "lon": -4.383804974128117,
+        "lat": 54.32251830719964,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1271547581"
       }
     },
     {

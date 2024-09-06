@@ -10561,8 +10561,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.392099,
-          54.320907
+          -4.392101,
+          54.320865
         ]
       },
       "properties": {
@@ -12880,17 +12880,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.607353,
-          54.24061
+          -4.607585,
+          54.240602
         ]
       },
       "properties": {
         "bus": "yes",
+        "fixme": "It's the shelter stop both directions?",
         "highway": "bus_stop",
         "name": "Cronk-Y-Voddy Crossroads",
         "public_transport": "platform",
-        "ref": "12505",
-        "shelter": "yes"
+        "ref": "891085012505"
       }
     },
     {
@@ -12899,18 +12899,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.607519,
-          54.240656
+          -4.607303,
+          54.240662
         ]
       },
       "properties": {
         "bus": "yes",
-        "fixme": "is this swapped with the one opposite which actually has a shelter?",
         "highway": "bus_stop",
         "name": "Cronk-Y-Voddy Shelter",
         "public_transport": "platform",
-        "ref": "12506",
-        "shelter": "separate"
+        "ref": "891085012506",
+        "shelter": "yes"
       }
     },
     {

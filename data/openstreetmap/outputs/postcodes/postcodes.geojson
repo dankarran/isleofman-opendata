@@ -6210,8 +6210,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.48057,
-          54.149885
+          -4.480568,
+          54.149899
         ]
       },
       "properties": {
@@ -6226,8 +6226,8 @@
         "office": "financial_advisor",
         "opening_hours": "Mo-Th 09:00-17:30, Fr 09:00-17:00, Sa 09:30-12:30",
         "osm_id": 10709045253,
-        "lon": -4.48057,
-        "lat": 54.149885,
+        "lon": -4.480568,
+        "lat": 54.149899,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10709045253"
       }
@@ -6238,8 +6238,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.48057,
-          54.149834
+          -4.480572,
+          54.149849
         ]
       },
       "properties": {
@@ -6252,8 +6252,8 @@
         "name": "Chase Wealth Solutions",
         "office": "financial_advisor",
         "osm_id": 10709045254,
-        "lon": -4.48057,
-        "lat": 54.149834,
+        "lon": -4.480572,
+        "lat": 54.149849,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10709045254"
       }
@@ -9894,6 +9894,35 @@
     },
     {
       "type": "Feature",
+      "id": 12154106564,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.388217,
+          54.327932
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Baie Mooar House",
+        "addr:postcode": "IM8 3EQ",
+        "addr:street": "Coburg Road",
+        "guest_house": "guest_house",
+        "name": "Baie Mooar House",
+        "name:en": "Baie Mooar House",
+        "name:gv": "Baie Mooar",
+        "tourism": "guest_house",
+        "website": "https://www.baiemooar.com",
+        "osm_id": 12154106564,
+        "lon": -4.388217,
+        "lat": 54.327932,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12154106564"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -11541,6 +11570,10 @@
             54.319885
           ],
           [
+            -4.388574,
+            54.319285
+          ],
+          [
             -4.388613,
             54.319216
           ],
@@ -11693,8 +11726,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "website": "https://www.ramseygolfclub.im/",
         "osm_id": 39658883,
-        "lon": -4.396346878476736,
-        "lat": 54.31804231185431,
+        "lon": -4.3963468783825626,
+        "lat": 54.31804231180123,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/39658883"
       }
@@ -32141,10 +32174,6 @@
             54.148934
           ],
           [
-            -4.482736,
-            54.148833
-          ],
-          [
             -4.482691,
             54.148801
           ],
@@ -32168,8 +32197,8 @@
         "office": "yes",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 79141608,
-        "lon": -4.4828660287857405,
-        "lat": 54.14882794377924,
+        "lon": -4.482865859961186,
+        "lat": 54.1488281738484,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79141608"
       }
@@ -60625,24 +60654,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.386896,
-            54.322169
+            -4.386882,
+            54.322189
           ],
           [
-            -4.387048,
-            54.32215
+            -4.387035,
+            54.32217
           ],
           [
-            -4.387088,
-            54.322254
+            -4.387074,
+            54.322274
           ],
           [
-            -4.386935,
-            54.322273
+            -4.386922,
+            54.322293
           ],
           [
-            -4.386896,
-            54.322169
+            -4.386882,
+            54.322189
           ]
         ]
       },
@@ -60662,8 +60691,8 @@
         "url:registered_building": "https://www.gov.im/media/632939/0500176regbldcentralhotel.pdf",
         "wikidata": "Q118188816",
         "osm_id": 102856141,
-        "lon": -4.386991838083361,
-        "lat": 54.32221159102074,
+        "lon": -4.386978161916639,
+        "lat": 54.32223140897927,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856141"
       }
@@ -60715,6 +60744,135 @@
         "lat": 54.322374617082524,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856147"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102856149,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38431,
+            54.321769
+          ],
+          [
+            -4.383967,
+            54.321753
+          ],
+          [
+            -4.383966,
+            54.321704
+          ],
+          [
+            -4.383802,
+            54.321706
+          ],
+          [
+            -4.383799,
+            54.321608
+          ],
+          [
+            -4.383506,
+            54.321606
+          ],
+          [
+            -4.383508,
+            54.321627
+          ],
+          [
+            -4.383465,
+            54.321627
+          ],
+          [
+            -4.38347,
+            54.321688
+          ],
+          [
+            -4.383569,
+            54.321687
+          ],
+          [
+            -4.383733,
+            54.321685
+          ],
+          [
+            -4.383738,
+            54.321835
+          ],
+          [
+            -4.383742,
+            54.321962
+          ],
+          [
+            -4.383795,
+            54.321965
+          ],
+          [
+            -4.383816,
+            54.321966
+          ],
+          [
+            -4.38381,
+            54.322012
+          ],
+          [
+            -4.383789,
+            54.322011
+          ],
+          [
+            -4.383781,
+            54.322122
+          ],
+          [
+            -4.383972,
+            54.322128
+          ],
+          [
+            -4.383987,
+            54.321961
+          ],
+          [
+            -4.383989,
+            54.321945
+          ],
+          [
+            -4.384028,
+            54.321946
+          ],
+          [
+            -4.384042,
+            54.321844
+          ],
+          [
+            -4.38443,
+            54.321862
+          ],
+          [
+            -4.384442,
+            54.321775
+          ],
+          [
+            -4.38431,
+            54.321769
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Victoria Mall",
+        "addr:postcode": "IM8 1AZ",
+        "addr:street": "Parliament Street",
+        "building": "retail",
+        "old_name": "The Victoria Mall of Ramsey",
+        "source": "Bing;survey",
+        "was:shop": "mall",
+        "osm_id": 102856149,
+        "lon": -4.383921778328423,
+        "lat": 54.32181610370799,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102856149"
       }
     },
     {
@@ -61850,6 +62008,10 @@
             54.322254
           ],
           [
+            -4.384638,
+            54.322259
+          ],
+          [
             -4.384663,
             54.32226
           ],
@@ -61869,18 +62031,21 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housename": "Kermode House",
         "addr:housenumber": "74",
         "addr:postcode": "IM8 1AG",
         "addr:street": "Parliament Street",
         "amenity": "cafe",
         "building": "yes",
+        "building:description": "Originally known as Skillicorn's House, this was the home of Philip Moore Callow Kermode (PMC Kermode), the father of Manx archaeology and first director of the Manx Museum. His sister, the noted Manx poet Cushag (Josephine Kermode) lived here with him",
         "name": "Brunch",
+        "old_name": "Skillicorn's House",
         "source": "Bing",
         "source:addr": "business",
         "osm_id": 102856211,
-        "lon": -4.384574821235328,
-        "lat": 54.322327372232735,
+        "lon": -4.3845748215551,
+        "lat": 54.3223273639527,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102856211"
       }
@@ -77159,6 +77324,7 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housename": "Ramsey Bakery",
         "addr:postcode": "IM8 2LF",
         "addr:street": "Station Road",
         "building": "industrial",
@@ -79903,7 +80069,7 @@
         "coordinates": [
           [
             -4.480324,
-            54.14703
+            54.147028
           ],
           [
             -4.480281,
@@ -79918,12 +80084,12 @@
             54.146957
           ],
           [
-            -4.480557,
-            54.146994
+            -4.480554,
+            54.146988
           ],
           [
             -4.480324,
-            54.14703
+            54.147028
           ]
         ]
       },
@@ -79942,8 +80108,8 @@
         "was:amenity": "pub",
         "wikidata": "Q118188702",
         "osm_id": 186129707,
-        "lon": -4.480410825485483,
-        "lat": 54.14697250138434,
+        "lon": -4.480408980235978,
+        "lat": 54.14697051870011,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/186129707"
       }
@@ -104057,7 +104223,7 @@
           ],
           [
             -4.480324,
-            54.14703
+            54.147028
           ],
           [
             -4.480195,
@@ -104076,8 +104242,8 @@
         "building:levels": "1",
         "demolished:building": "yes",
         "osm_id": 410386588,
-        "lon": -4.4802342995827935,
-        "lat": 54.14698603945345,
+        "lon": -4.480234068697951,
+        "lat": 54.146985631788084,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/410386588"
       }
@@ -108500,12 +108666,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ],
           [
-            -4.480386,
-            54.149376
+            -4.480391,
+            54.149361
           ],
           [
             -4.48037,
@@ -108528,8 +108694,8 @@
             54.149352
           ],
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ]
         ]
       },
@@ -108550,8 +108716,8 @@
         "shop": "estate_agent",
         "website": "https://www.harmonyhomes.co.im",
         "osm_id": 419950952,
-        "lon": -4.480354354560877,
-        "lat": 54.1493407814011,
+        "lon": -4.480354329068152,
+        "lat": 54.14933953283778,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950952"
       }
@@ -108686,8 +108852,8 @@
             54.149427
           ],
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ],
           [
             -4.480298,
@@ -108719,8 +108885,8 @@
         "source": "Bing;photograph",
         "website": "https://www.cosmeticmedicaldental.com",
         "osm_id": 419950955,
-        "lon": -4.480261668910646,
-        "lat": 54.149358970928624,
+        "lon": -4.480257531295258,
+        "lat": 54.149356862176155,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950955"
       }
@@ -108740,16 +108906,16 @@
             54.149356
           ],
           [
-            -4.480386,
-            54.149376
+            -4.480391,
+            54.149361
           ],
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ],
           [
-            -4.480427,
-            54.149453
+            -4.480424,
+            54.149456
           ],
           [
             -4.480559,
@@ -108787,8 +108953,8 @@
         "phone": "+44 1624 675584",
         "source": "Bing;photograph",
         "osm_id": 419950956,
-        "lon": -4.48044588310133,
-        "lat": 54.149382007928864,
+        "lon": -4.4804405345804454,
+        "lat": 54.149382257534086,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950956"
       }
@@ -108808,8 +108974,8 @@
             54.149508
           ],
           [
-            -4.480527,
-            54.149465
+            -4.48053,
+            54.149469
           ],
           [
             -4.4806,
@@ -108843,10 +109009,11 @@
         "building": "retail",
         "building:levels": "4",
         "name": "Roots in the city",
+        "opening_hours": "Mo-Fr 08:00-15:30",
         "source": "Bing;photograph",
         "osm_id": 419950958,
-        "lon": -4.480597893671641,
-        "lat": 54.14946694474692,
+        "lon": -4.480599268703319,
+        "lat": 54.14946769245048,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419950958"
       }
@@ -109173,8 +109340,20 @@
             54.149755
           ],
           [
+            -4.480422,
+            54.149766
+          ],
+          [
             -4.480595,
             54.149801
+          ],
+          [
+            -4.480595,
+            54.149808
+          ],
+          [
+            -4.480592,
+            54.149873
           ],
           [
             -4.480588,
@@ -109195,8 +109374,8 @@
         "roof:levels": "1",
         "roof:material": "slate",
         "osm_id": 420023860,
-        "lon": -4.480451105687672,
-        "lat": 54.14985774515146,
+        "lon": -4.480451177390072,
+        "lat": 54.14985769494509,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420023860"
       }
@@ -111152,6 +111331,8 @@
         "amenity": "prison",
         "capacity": "144",
         "name": "Isle of Man Prison",
+        "name:en": "Isle of Man Prison",
+        "name:gv": "Pryssoon Ellan Vannin",
         "operator": "Isle of Man Prison Service",
         "phone": "+44 1624 891000",
         "start_date": "2008",
@@ -113935,24 +114116,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.396754,
-            54.320872
+            -4.396791,
+            54.320883
           ],
           [
-            -4.396609,
-            54.320857
+            -4.396795,
+            54.320916
           ],
           [
-            -4.396615,
-            54.320907
+            -4.396721,
+            54.320912
           ],
           [
-            -4.395386,
-            54.320813
+            -4.395777,
+            54.320855
           ],
           [
-            -4.394651,
-            54.320807
+            -4.395759,
+            54.320917
+          ],
+          [
+            -4.395348,
+            54.320897
+          ],
+          [
+            -4.394641,
+            54.320833
           ],
           [
             -4.394163,
@@ -114015,20 +114204,20 @@
             54.32112
           ],
           [
-            -4.39857,
-            54.321073
+            -4.398578,
+            54.321018
           ],
           [
-            -4.398565,
-            54.320993
+            -4.398563,
+            54.321002
           ],
           [
-            -4.396951,
-            54.320885
+            -4.396894,
+            54.320891
           ],
           [
-            -4.396754,
-            54.320872
+            -4.396791,
+            54.320883
           ]
         ]
       },
@@ -114044,8 +114233,8 @@
         "website": "https://rhumsaa.sch.im",
         "wheelchair": "yes",
         "osm_id": 615892788,
-        "lon": -4.396306042631938,
-        "lat": 54.32140285903744,
+        "lon": -4.396304667099243,
+        "lat": 54.32141265509812,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/615892788"
       }
@@ -114181,6 +114370,10 @@
             54.319801
           ],
           [
+            -4.391481,
+            54.319727
+          ],
+          [
             -4.391682,
             54.319113
           ],
@@ -114205,8 +114398,8 @@
         "wikidata": "Q7290217",
         "wikipedia": "en:Ramsey Grammar School",
         "osm_id": 615894272,
-        "lon": -4.394433926646146,
-        "lat": 54.320036943050155,
+        "lon": -4.394433923508782,
+        "lat": 54.32003694203223,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/615894272"
       }
@@ -120504,6 +120697,712 @@
     },
     {
       "type": "Feature",
+      "id": 963223824,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390736,
+            54.327843
+          ],
+          [
+            -4.390551,
+            54.327971
+          ],
+          [
+            -4.39043,
+            54.327912
+          ],
+          [
+            -4.390614,
+            54.327783
+          ],
+          [
+            -4.390736,
+            54.327843
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "The Rectory",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223824,
+        "lon": -4.390582942365256,
+        "lat": 54.32787714094094,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223824"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223825,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390361,
+            54.327629
+          ],
+          [
+            -4.390483,
+            54.327602
+          ],
+          [
+            -4.39058,
+            54.327754
+          ],
+          [
+            -4.390403,
+            54.327792
+          ],
+          [
+            -4.390362,
+            54.327728
+          ],
+          [
+            -4.390417,
+            54.327717
+          ],
+          [
+            -4.390361,
+            54.327629
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Grianane",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223825,
+        "lon": -4.39045529014386,
+        "lat": 54.32770234700337,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223825"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223826,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390354,
+            54.327603
+          ],
+          [
+            -4.390044,
+            54.327493
+          ],
+          [
+            -4.390106,
+            54.327434
+          ],
+          [
+            -4.390302,
+            54.327504
+          ],
+          [
+            -4.390317,
+            54.32749
+          ],
+          [
+            -4.39043,
+            54.32753
+          ],
+          [
+            -4.390354,
+            54.327603
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Rose Garth",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223826,
+        "lon": -4.39023809527115,
+        "lat": 54.32751653371494,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223826"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223832,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388614,
+            54.328049
+          ],
+          [
+            -4.388689,
+            54.327993
+          ],
+          [
+            -4.388868,
+            54.328075
+          ],
+          [
+            -4.388793,
+            54.328131
+          ],
+          [
+            -4.388614,
+            54.328049
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Coburg Court",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "source:addr:housename": "nls",
+        "osm_id": 963223832,
+        "lon": -4.3887410000000004,
+        "lat": 54.32806200000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223832"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223833,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38882,
+            54.327879
+          ],
+          [
+            -4.388965,
+            54.327943
+          ],
+          [
+            -4.388847,
+            54.328034
+          ],
+          [
+            -4.388701,
+            54.32797
+          ],
+          [
+            -4.38882,
+            54.327879
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Belgrave House",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "detached",
+        "source:addr:housename": "nls",
+        "osm_id": 963223833,
+        "lon": -4.388833068502355,
+        "lat": 54.327956526379694,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223833"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223834,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389018,
+            54.327733
+          ],
+          [
+            -4.38911,
+            54.327658
+          ],
+          [
+            -4.389288,
+            54.327731
+          ],
+          [
+            -4.389196,
+            54.327806
+          ],
+          [
+            -4.389018,
+            54.327733
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "osm_id": 963223834,
+        "lon": -4.389152999999999,
+        "lat": 54.32773200000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223834"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223835,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389841,
+            54.327087
+          ],
+          [
+            -4.390025,
+            54.326959
+          ],
+          [
+            -4.390199,
+            54.327044
+          ],
+          [
+            -4.390016,
+            54.327172
+          ],
+          [
+            -4.389841,
+            54.327087
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Thie Bane",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223835,
+        "lon": -4.390020065662518,
+        "lat": 54.32706552713942,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223835"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223836,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390008,
+            54.327289
+          ],
+          [
+            -4.389945,
+            54.327342
+          ],
+          [
+            -4.389685,
+            54.327237
+          ],
+          [
+            -4.389748,
+            54.327184
+          ],
+          [
+            -4.390008,
+            54.327289
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Lynwood",
+        "addr:housenumber": "2A",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "terraced",
+        "osm_id": 963223836,
+        "lon": -4.3898465,
+        "lat": 54.327262999999995,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223836"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223837,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389661,
+            54.327419
+          ],
+          [
+            -4.389596,
+            54.327467
+          ],
+          [
+            -4.389459,
+            54.327404
+          ],
+          [
+            -4.389524,
+            54.327356
+          ],
+          [
+            -4.389661,
+            54.327419
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "osm_id": 963223837,
+        "lon": -4.38956,
+        "lat": 54.3274115,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223837"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223838,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389309,
+            54.327518
+          ],
+          [
+            -4.389398,
+            54.327455
+          ],
+          [
+            -4.389564,
+            54.327534
+          ],
+          [
+            -4.389475,
+            54.327597
+          ],
+          [
+            -4.389309,
+            54.327518
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Orrysville",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "osm_id": 963223838,
+        "lon": -4.3894365,
+        "lat": 54.327526,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223838"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223839,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389907,
+            54.32786
+          ],
+          [
+            -4.38975,
+            54.327836
+          ],
+          [
+            -4.389806,
+            54.327714
+          ],
+          [
+            -4.389963,
+            54.327739
+          ],
+          [
+            -4.389907,
+            54.32786
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Lismore House",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223839,
+        "lon": -4.389856385585801,
+        "lat": 54.327787214993386,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223839"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223840,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.3897,
+            54.32798
+          ],
+          [
+            -4.389697,
+            54.328037
+          ],
+          [
+            -4.389635,
+            54.328036
+          ],
+          [
+            -4.389634,
+            54.32807
+          ],
+          [
+            -4.389513,
+            54.328068
+          ],
+          [
+            -4.389518,
+            54.327976
+          ],
+          [
+            -4.3897,
+            54.32798
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Thie Bun-Ry-Skyn",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223840,
+        "lon": -4.3896027982880135,
+        "lat": 54.32801992238972,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223840"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223841,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389395,
+            54.328246
+          ],
+          [
+            -4.389165,
+            54.32824
+          ],
+          [
+            -4.389173,
+            54.328139
+          ],
+          [
+            -4.389402,
+            54.328145
+          ],
+          [
+            -4.389395,
+            54.328246
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223841,
+        "lon": -4.3892837314931645,
+        "lat": 54.32819257595499,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223841"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223842,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389887,
+            54.328377
+          ],
+          [
+            -4.389609,
+            54.328458
+          ],
+          [
+            -4.389544,
+            54.328383
+          ],
+          [
+            -4.389684,
+            54.328342
+          ],
+          [
+            -4.389699,
+            54.328359
+          ],
+          [
+            -4.389837,
+            54.328318
+          ],
+          [
+            -4.389887,
+            54.328377
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Little Alders",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223842,
+        "lon": -4.389714411269522,
+        "lat": 54.32838406909689,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223842"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223843,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390266,
+            54.328172
+          ],
+          [
+            -4.390263,
+            54.328281
+          ],
+          [
+            -4.390112,
+            54.32828
+          ],
+          [
+            -4.390112,
+            54.328252
+          ],
+          [
+            -4.390039,
+            54.328251
+          ],
+          [
+            -4.390038,
+            54.328267
+          ],
+          [
+            -4.389902,
+            54.328266
+          ],
+          [
+            -4.389905,
+            54.328168
+          ],
+          [
+            -4.390266,
+            54.328172
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Penryn Lodge",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 963223843,
+        "lon": -4.390086144353028,
+        "lat": 54.32822209465407,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963223843"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 963223853,
       "geometry": {
         "type": "LineString",
@@ -123323,12 +124222,12 @@
             54.149559
           ],
           [
-            -4.480454,
-            54.149502
+            -4.480462,
+            54.149506
           ],
           [
-            -4.480527,
-            54.149465
+            -4.48053,
+            54.149469
           ],
           [
             -4.480595,
@@ -123355,10 +124254,10 @@
         "contact:facebook": "https://www.facebook.com/TheAdventurersTavern/",
         "name": "The Adventurer's Tavern",
         "shop": "games",
-        "website": "https://www.theadventurerstavern.co.uk",
+        "website": "https://www.theadventurerstavern.co.uk/",
         "osm_id": 972954836,
-        "lon": -4.480537220136921,
-        "lat": 54.14951201455925,
+        "lon": -4.480540956046196,
+        "lat": 54.1495140768329,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/972954836"
       }
@@ -132425,6 +133324,50 @@
     },
     {
       "type": "Feature",
+      "id": 1127914644,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389087,
+            54.328646
+          ],
+          [
+            -4.38888,
+            54.328536
+          ],
+          [
+            -4.388995,
+            54.328462
+          ],
+          [
+            -4.389201,
+            54.328572
+          ],
+          [
+            -4.389087,
+            54.328646
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Thie Mooar",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM8 3HA",
+        "addr:street": "Saint Olave's Close",
+        "building": "house",
+        "house": "detached",
+        "osm_id": 1127914644,
+        "lon": -4.389040564686413,
+        "lat": 54.32855398172211,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1127914644"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1128011684,
       "geometry": {
         "type": "LineString",
@@ -133947,6 +134890,94 @@
         "lat": 54.327277932084534,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1137308518"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1137959136,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.383283,
+            54.320048
+          ],
+          [
+            -4.383164,
+            54.320119
+          ],
+          [
+            -4.383085,
+            54.320074
+          ],
+          [
+            -4.383075,
+            54.320081
+          ],
+          [
+            -4.383155,
+            54.320127
+          ],
+          [
+            -4.38309,
+            54.320166
+          ],
+          [
+            -4.38301,
+            54.320119
+          ],
+          [
+            -4.383,
+            54.320125
+          ],
+          [
+            -4.382692,
+            54.31995
+          ],
+          [
+            -4.382452,
+            54.320093
+          ],
+          [
+            -4.382356,
+            54.320038
+          ],
+          [
+            -4.38238,
+            54.320024
+          ],
+          [
+            -4.382268,
+            54.31996
+          ],
+          [
+            -4.382687,
+            54.319709
+          ],
+          [
+            -4.383283,
+            54.320048
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Mayfield",
+        "addr:postcode": "IM8 2HT",
+        "addr:street": "Queen's Pier Road",
+        "amenity": "social_facility",
+        "building": "residential",
+        "name": "Mayfield",
+        "social_facility": "assisted_living",
+        "social_facility:for": "senior",
+        "source": "bing",
+        "source:name": "press release",
+        "osm_id": 1137959136,
+        "lon": -4.382790506360131,
+        "lat": 54.319968664387225,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1137959136"
       }
     },
     {
@@ -159066,6 +160097,521 @@
         "lat": 54.154368123790135,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1312096791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312599144,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480423,
+            54.149529
+          ],
+          [
+            -4.480533,
+            54.149594
+          ],
+          [
+            -4.480513,
+            54.149603
+          ],
+          [
+            -4.480494,
+            54.149613
+          ],
+          [
+            -4.480388,
+            54.149548
+          ],
+          [
+            -4.480423,
+            54.149529
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18-20",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Nelson Street",
+        "contact:email": "contact@suki-beauty.co.uk",
+        "contact:phone": "+44 7624 321750",
+        "contact:website": "https://suki-beauty.co.uk/",
+        "name": "Suki Beauty",
+        "opening_hours": "Tu 10:00-14:00, We 09:30-18:00, Th 11:00-20:00, Fr 11:00-19:00, Sa 09:00-18:00",
+        "shop": "beauty",
+        "osm_id": 1312599144,
+        "lon": -4.480460246275184,
+        "lat": 54.14957121079804,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312599144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312599153,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480423,
+            54.149529
+          ],
+          [
+            -4.480533,
+            54.149594
+          ],
+          [
+            -4.480563,
+            54.149579
+          ],
+          [
+            -4.480577,
+            54.149572
+          ],
+          [
+            -4.480552,
+            54.149559
+          ],
+          [
+            -4.480462,
+            54.149506
+          ],
+          [
+            -4.480423,
+            54.149529
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Nelson Street",
+        "contact:phone": "+44 7624 214224",
+        "name": "VIP Hair Design",
+        "shop": "hairdresser;beauty",
+        "osm_id": 1312599153,
+        "lon": -4.480499548836568,
+        "lat": 54.149550648653744,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312599153"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312599154,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480447,
+            54.149636
+          ],
+          [
+            -4.48034,
+            54.149576
+          ],
+          [
+            -4.480388,
+            54.149548
+          ],
+          [
+            -4.480494,
+            54.149613
+          ],
+          [
+            -4.480447,
+            54.149636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 2AL",
+        "addr:street": "Nelson Street",
+        "contact:phone": "+44 1624 619606",
+        "contact:website": "https://thenailclub.im/",
+        "description": "Nail, brow, and lash bar",
+        "name": "The Nail Club",
+        "shop": "beauty",
+        "osm_id": 1312599154,
+        "lon": -4.480416874911346,
+        "lat": 54.14959290445877,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312599154"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312619901,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480603,
+            54.149724
+          ],
+          [
+            -4.480485,
+            54.149658
+          ],
+          [
+            -4.4805,
+            54.14965
+          ],
+          [
+            -4.48055,
+            54.149623
+          ],
+          [
+            -4.48063,
+            54.149665
+          ],
+          [
+            -4.480606,
+            54.149716
+          ],
+          [
+            -4.480603,
+            54.149724
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 1EJ",
+        "addr:street": "Prospect Hill",
+        "contact:email": "drramaesthetics@gmail.com",
+        "contact:phone": "+44 7624 248926",
+        "level": "1",
+        "name": "Dr Ram Aesthetics",
+        "shop": "beauty",
+        "osm_id": 1312619901,
+        "lon": -4.480562910882699,
+        "lat": 54.14966971757472,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312619901"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312619902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480609,
+            54.14971
+          ],
+          [
+            -4.4805,
+            54.14965
+          ],
+          [
+            -4.48055,
+            54.149623
+          ],
+          [
+            -4.48063,
+            54.149665
+          ],
+          [
+            -4.480626,
+            54.149673
+          ],
+          [
+            -4.480609,
+            54.14971
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 1EJ",
+        "addr:street": "Prospect Hill",
+        "level": "0",
+        "mattress": "yes",
+        "name": "Mattress Man",
+        "shop": "bed",
+        "osm_id": 1312619902,
+        "lon": -4.480569297623964,
+        "lat": 54.149663332260566,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312619902"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312849338,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389196,
+            54.327806
+          ],
+          [
+            -4.389104,
+            54.327882
+          ],
+          [
+            -4.388927,
+            54.327809
+          ],
+          [
+            -4.389018,
+            54.327733
+          ],
+          [
+            -4.389196,
+            54.327806
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Sunnyland",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "osm_id": 1312849338,
+        "lon": -4.389061427858451,
+        "lat": 54.327807488634825,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312849338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312849339,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388793,
+            54.328131
+          ],
+          [
+            -4.388717,
+            54.328187
+          ],
+          [
+            -4.388538,
+            54.328105
+          ],
+          [
+            -4.388614,
+            54.328049
+          ],
+          [
+            -4.388793,
+            54.328131
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "source:addr:housename": "nls",
+        "osm_id": 1312849339,
+        "lon": -4.3886655,
+        "lat": 54.328117999999996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312849339"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312849340,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389475,
+            54.327597
+          ],
+          [
+            -4.389387,
+            54.327661
+          ],
+          [
+            -4.389221,
+            54.327582
+          ],
+          [
+            -4.389309,
+            54.327518
+          ],
+          [
+            -4.389475,
+            54.327597
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "osm_id": 1312849340,
+        "lon": -4.389348,
+        "lat": 54.32758950000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312849340"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312849341,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389524,
+            54.327356
+          ],
+          [
+            -4.389588,
+            54.327309
+          ],
+          [
+            -4.389725,
+            54.327371
+          ],
+          [
+            -4.389661,
+            54.327419
+          ],
+          [
+            -4.389524,
+            54.327356
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Ravenswood",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "semi-detached",
+        "osm_id": 1312849341,
+        "lon": -4.389624559800248,
+        "lat": 54.32736381183955,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312849341"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312849342,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389748,
+            54.327184
+          ],
+          [
+            -4.389811,
+            54.327131
+          ],
+          [
+            -4.390071,
+            54.327236
+          ],
+          [
+            -4.390008,
+            54.327289
+          ],
+          [
+            -4.389748,
+            54.327184
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "San Remo",
+        "addr:housenumber": "1A",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "terraced",
+        "osm_id": 1312849342,
+        "lon": -4.3899095,
+        "lat": 54.32721,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312849342"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312849343,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389945,
+            54.327342
+          ],
+          [
+            -4.389882,
+            54.327396
+          ],
+          [
+            -4.389621,
+            54.327291
+          ],
+          [
+            -4.389685,
+            54.327237
+          ],
+          [
+            -4.389945,
+            54.327342
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Ballachrink",
+        "addr:housenumber": "3A",
+        "addr:postcode": "IM8 3EH",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "house": "terraced",
+        "osm_id": 1312849343,
+        "lon": -4.38978307336268,
+        "lat": 54.32731647947476,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312849343"
       }
     }
   ]

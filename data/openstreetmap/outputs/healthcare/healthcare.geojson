@@ -699,6 +699,29 @@
     },
     {
       "type": "Feature",
+      "id": 12154311468,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.653879,
+          54.073945
+        ]
+      },
+      "properties": {
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "Port Erin Dentist (temporary)",
+        "opening_hours": "Mo-Fr 08:45-13:15,14:15-17:30",
+        "phone": "+44 1624 833667",
+        "osm_id": 12154311468,
+        "lon": -4.653879,
+        "lat": 54.073945,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12154311468"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60048718,
       "geometry": {
         "type": "LineString",

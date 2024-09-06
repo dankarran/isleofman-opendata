@@ -779,7 +779,8 @@
       },
       "properties": {
         "amenity": "post_box",
-        "ref": "203"
+        "ref": "203",
+        "royal_cypher": "EVIIR"
       }
     },
     {
@@ -926,7 +927,9 @@
       },
       "properties": {
         "amenity": "post_box",
-        "ref": "211"
+        "post_box:type": "lamp",
+        "ref": "211",
+        "royal_cypher": "EIIR"
       }
     },
     {
@@ -1350,14 +1353,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.3819,
-          54.326444
+          -4.381879,
+          54.326459
         ]
       },
       "properties": {
         "amenity": "post_box",
         "post_box:type": "pillar",
-        "ref": "204"
+        "ref": "204",
+        "royal_cypher": "VR"
       }
     },
     {
@@ -3598,6 +3602,8 @@
       "properties": {
         "amenity": "post_box",
         "post_box:mounting": "stone_wall",
+        "post_box:type": "wall",
+        "royal_cypher": "VR",
         "source": "streetside"
       }
     },

@@ -13391,8 +13391,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.392099,
-          54.320907
+          -4.392101,
+          54.320865
         ]
       },
       "properties": {
@@ -13402,8 +13402,8 @@
         "public_transport": "platform",
         "ref": "40105",
         "osm_id": 9190239208,
-        "lon": -4.392099,
-        "lat": 54.320907,
+        "lon": -4.392101,
+        "lat": 54.320865,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190239208"
       }
@@ -16340,20 +16340,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.607353,
-          54.24061
+          -4.607585,
+          54.240602
         ]
       },
       "properties": {
         "bus": "yes",
+        "fixme": "It's the shelter stop both directions?",
         "highway": "bus_stop",
         "name": "Cronk-Y-Voddy Crossroads",
         "public_transport": "platform",
-        "ref": "12505",
-        "shelter": "yes",
+        "ref": "891085012505",
         "osm_id": 9192577867,
-        "lon": -4.607353,
-        "lat": 54.24061,
+        "lon": -4.607585,
+        "lat": 54.240602,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192577867"
       }
@@ -16364,21 +16364,20 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.607519,
-          54.240656
+          -4.607303,
+          54.240662
         ]
       },
       "properties": {
         "bus": "yes",
-        "fixme": "is this swapped with the one opposite which actually has a shelter?",
         "highway": "bus_stop",
         "name": "Cronk-Y-Voddy Shelter",
         "public_transport": "platform",
-        "ref": "12506",
-        "shelter": "separate",
+        "ref": "891085012506",
+        "shelter": "yes",
         "osm_id": 9192577868,
-        "lon": -4.607519,
-        "lat": 54.240656,
+        "lon": -4.607303,
+        "lat": 54.240662,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9192577868"
       }

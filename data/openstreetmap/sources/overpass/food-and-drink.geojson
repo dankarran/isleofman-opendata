@@ -7304,24 +7304,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.386896,
-            54.322169
+            -4.386882,
+            54.322189
           ],
           [
-            -4.387048,
-            54.32215
+            -4.387035,
+            54.32217
           ],
           [
-            -4.387088,
-            54.322254
+            -4.387074,
+            54.322274
           ],
           [
-            -4.386935,
-            54.322273
+            -4.386922,
+            54.322293
           ],
           [
-            -4.386896,
-            54.322169
+            -4.386882,
+            54.322189
           ]
         ]
       },
@@ -7718,6 +7718,10 @@
             54.322254
           ],
           [
+            -4.384638,
+            54.322259
+          ],
+          [
             -4.384663,
             54.32226
           ],
@@ -7737,13 +7741,16 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housename": "Kermode House",
         "addr:housenumber": "74",
         "addr:postcode": "IM8 1AG",
         "addr:street": "Parliament Street",
         "amenity": "cafe",
         "building": "yes",
+        "building:description": "Originally known as Skillicorn's House, this was the home of Philip Moore Callow Kermode (PMC Kermode), the father of Manx archaeology and first director of the Manx Museum. His sister, the noted Manx poet Cushag (Josephine Kermode) lived here with him",
         "name": "Brunch",
+        "old_name": "Skillicorn's House",
         "source": "Bing",
         "source:addr": "business"
       }
@@ -12291,16 +12298,16 @@
             54.149356
           ],
           [
-            -4.480386,
-            54.149376
+            -4.480391,
+            54.149361
           ],
           [
-            -4.480343,
-            54.149396
+            -4.480331,
+            54.149392
           ],
           [
-            -4.480427,
-            54.149453
+            -4.480424,
+            54.149456
           ],
           [
             -4.480559,
@@ -12354,8 +12361,8 @@
             54.149508
           ],
           [
-            -4.480527,
-            54.149465
+            -4.48053,
+            54.149469
           ],
           [
             -4.4806,
@@ -12389,6 +12396,7 @@
         "building": "retail",
         "building:levels": "4",
         "name": "Roots in the city",
+        "opening_hours": "Mo-Fr 08:00-15:30",
         "source": "Bing;photograph"
       }
     },
@@ -12775,6 +12783,49 @@
         "name": "Domino's",
         "takeaway": "yes",
         "website": "https://www.dominos.co.uk/pizza-near-me/douglas/groves-road"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 718204386,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480424,
+            54.149456
+          ],
+          [
+            -4.480341,
+            54.149504
+          ],
+          [
+            -4.480247,
+            54.149432
+          ],
+          [
+            -4.48026,
+            54.149427
+          ],
+          [
+            -4.480331,
+            54.149392
+          ],
+          [
+            -4.480424,
+            54.149456
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:street": "Nelson Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:phone": "+44 7624 342910",
+        "name": "Deli by Shar"
       }
     },
     {
