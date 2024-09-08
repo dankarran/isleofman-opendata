@@ -863,7 +863,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:postcode": "IM2 4BH",
+        "addr:postcode": "IM2 4BL",
         "addr:street": "Lower Duke's Road",
         "contact:phone": "+44 7624 290199",
         "name": "Barber Top Studio",
@@ -1100,11 +1100,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.698503,
-          54.220901
+          -4.698436,
+          54.220928
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1TA",
+        "addr:street": "Mill Road",
         "name": "Devereau's",
         "shop": "seafood",
         "website": "https://www.isleofmankippers.com/"

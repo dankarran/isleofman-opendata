@@ -546,6 +546,29 @@
     },
     {
       "type": "Feature",
+      "id": 475393856,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.590462,
+          54.193439
+        ]
+      },
+      "properties": {
+        "addr:city": "Greeba",
+        "addr:country": "IM",
+        "addr:housename": "Greeba Castle",
+        "addr:postcode": "IM4 2DS",
+        "addr:street": "Peel Road",
+        "building": "house",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "wikidata": "Q5601579",
+        "wikipedia": "en:Greeba Castle"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393868,
       "geometry": {
         "type": "Point",
@@ -2017,7 +2040,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:postcode": "IM2 4BH",
+        "addr:postcode": "IM2 4BL",
         "addr:street": "Lower Duke's Road",
         "contact:phone": "+44 7624 290199",
         "name": "Barber Top Studio",
@@ -2339,6 +2362,26 @@
         "name": "Sports Direct",
         "shop": "sports",
         "website": "https://www.sportsdirect.com/douglas-iom-store-1588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1601369771,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.698436,
+          54.220928
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1TA",
+        "addr:street": "Mill Road",
+        "name": "Devereau's",
+        "shop": "seafood",
+        "website": "https://www.isleofmankippers.com/"
       }
     },
     {
@@ -6734,6 +6777,47 @@
     },
     {
       "type": "Feature",
+      "id": 10858161604,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.602087,
+          54.196527
+        ]
+      },
+      "properties": {
+        "addr:city": "Greeba",
+        "addr:country": "IM",
+        "addr:housename": "Vale House",
+        "addr:postcode": "IM4 2DX",
+        "addr:street": "Peel Road",
+        "fixme": "check which property road sign actually refers to",
+        "source:addr:name": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10858218505,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.602875,
+          54.195284
+        ]
+      },
+      "properties": {
+        "addr:city": "Greeba",
+        "addr:country": "IM",
+        "addr:housename": "Ash Cottage",
+        "addr:postcode": "IM4 2DU",
+        "addr:street": "Peel Road",
+        "source:addr:name": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10868989796,
       "geometry": {
         "type": "Point",
@@ -8059,6 +8143,63 @@
         "name:gv": "Baie Mooar",
         "tourism": "guest_house",
         "website": "https://www.baiemooar.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12160793666,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478096,
+          54.163108
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4BA",
+        "addr:street": "Upper Dukes Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12160793669,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47921,
+          54.162759
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Hillcrest",
+        "addr:postcode": "IM2 4BN",
+        "addr:street": "Lower Dukes Road",
+        "source:addr:housename": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12160793670,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479999,
+          54.162529
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Langdale House",
+        "addr:postcode": "IM2 4BQ",
+        "addr:street": "Lower Dukes Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -14176,6 +14317,97 @@
         "name": "Friends Provident International",
         "office": "financial",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59700879,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698241,
+            54.221645
+          ],
+          [
+            -4.697814,
+            54.221996
+          ],
+          [
+            -4.697675,
+            54.221939
+          ],
+          [
+            -4.697592,
+            54.221904
+          ],
+          [
+            -4.697536,
+            54.22195
+          ],
+          [
+            -4.69749,
+            54.221988
+          ],
+          [
+            -4.697571,
+            54.222022
+          ],
+          [
+            -4.69745,
+            54.222121
+          ],
+          [
+            -4.697363,
+            54.222085
+          ],
+          [
+            -4.697393,
+            54.222061
+          ],
+          [
+            -4.697174,
+            54.22197
+          ],
+          [
+            -4.697795,
+            54.22146
+          ],
+          [
+            -4.697841,
+            54.221479
+          ],
+          [
+            -4.697993,
+            54.221542
+          ],
+          [
+            -4.698125,
+            54.221597
+          ],
+          [
+            -4.698241,
+            54.221645
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1TA",
+        "addr:street": "Mill Road",
+        "building": "yes",
+        "fee": "yes",
+        "name": "House of Manannan",
+        "name:en": "House of Manannan",
+        "name:gv": "Thie Vanannin",
+        "phone": "+44 1624 648090",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://manxnationalheritage.im/our-sites/house-of-manannan/",
+        "wheelchair": "yes",
+        "wikidata": "Q15069659"
       }
     },
     {
@@ -46469,6 +46701,73 @@
     },
     {
       "type": "Feature",
+      "id": 100542044,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.655971,
+            54.073477
+          ],
+          [
+            -4.655358,
+            54.073283
+          ],
+          [
+            -4.655252,
+            54.07325
+          ],
+          [
+            -4.65524,
+            54.073077
+          ],
+          [
+            -4.655329,
+            54.073038
+          ],
+          [
+            -4.655887,
+            54.072791
+          ],
+          [
+            -4.65602,
+            54.072894
+          ],
+          [
+            -4.655462,
+            54.073142
+          ],
+          [
+            -4.655462,
+            54.073155
+          ],
+          [
+            -4.655463,
+            54.073169
+          ],
+          [
+            -4.656076,
+            54.073363
+          ],
+          [
+            -4.655971,
+            54.073477
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:country": "IM",
+        "addr:housename": "Castle Court",
+        "addr:postcode": "IM9 1PE",
+        "addr:street": "Farrants Way",
+        "building": "residential",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Land Regsitry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 100547588,
       "geometry": {
         "type": "LineString",
@@ -59635,6 +59934,481 @@
     },
     {
       "type": "Feature",
+      "id": 104260662,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.763704,
+            54.091878
+          ],
+          [
+            -4.763558,
+            54.091865
+          ],
+          [
+            -4.763586,
+            54.091755
+          ],
+          [
+            -4.763693,
+            54.091765
+          ],
+          [
+            -4.763699,
+            54.091744
+          ],
+          [
+            -4.763832,
+            54.091756
+          ],
+          [
+            -4.763793,
+            54.091908
+          ],
+          [
+            -4.763698,
+            54.0919
+          ],
+          [
+            -4.763704,
+            54.091878
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "The Coppice",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM9 6PG",
+        "addr:street": "Bradda Glen Close",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104260686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.764558,
+            54.092004
+          ],
+          [
+            -4.764222,
+            54.091961
+          ],
+          [
+            -4.764262,
+            54.091854
+          ],
+          [
+            -4.7645,
+            54.091885
+          ],
+          [
+            -4.764495,
+            54.091899
+          ],
+          [
+            -4.764592,
+            54.091911
+          ],
+          [
+            -4.764558,
+            54.092004
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM9 6PG",
+        "addr:street": "Bradda Glen Close",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104260693,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.762833,
+            54.091969
+          ],
+          [
+            -4.762957,
+            54.091955
+          ],
+          [
+            -4.762964,
+            54.091975
+          ],
+          [
+            -4.763052,
+            54.091965
+          ],
+          [
+            -4.763046,
+            54.091948
+          ],
+          [
+            -4.763132,
+            54.091938
+          ],
+          [
+            -4.763105,
+            54.091858
+          ],
+          [
+            -4.762808,
+            54.091892
+          ],
+          [
+            -4.762833,
+            54.091969
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Highgarden",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM9 6PG",
+        "addr:street": "Bradda Glen Close",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104260699,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.763465,
+            54.091881
+          ],
+          [
+            -4.76326,
+            54.091885
+          ],
+          [
+            -4.763262,
+            54.091913
+          ],
+          [
+            -4.76316,
+            54.091915
+          ],
+          [
+            -4.763155,
+            54.09181
+          ],
+          [
+            -4.76313,
+            54.09181
+          ],
+          [
+            -4.763127,
+            54.091763
+          ],
+          [
+            -4.763206,
+            54.091762
+          ],
+          [
+            -4.763209,
+            54.091809
+          ],
+          [
+            -4.763461,
+            54.091805
+          ],
+          [
+            -4.763465,
+            54.091881
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Glenside",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM9 6PG",
+        "addr:street": "Bradda Glen Close",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104339291,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.766147,
+            54.092448
+          ],
+          [
+            -4.766212,
+            54.092522
+          ],
+          [
+            -4.766159,
+            54.092538
+          ],
+          [
+            -4.766173,
+            54.092554
+          ],
+          [
+            -4.766138,
+            54.092565
+          ],
+          [
+            -4.766059,
+            54.092474
+          ],
+          [
+            -4.766147,
+            54.092448
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Glengyle",
+        "addr:postcode": "IM9 6PL",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104339292,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.766612,
+            54.092759
+          ],
+          [
+            -4.766522,
+            54.092783
+          ],
+          [
+            -4.766502,
+            54.092757
+          ],
+          [
+            -4.766347,
+            54.092799
+          ],
+          [
+            -4.766324,
+            54.09277
+          ],
+          [
+            -4.766356,
+            54.092762
+          ],
+          [
+            -4.766332,
+            54.092731
+          ],
+          [
+            -4.766526,
+            54.092678
+          ],
+          [
+            -4.766555,
+            54.092715
+          ],
+          [
+            -4.766574,
+            54.09271
+          ],
+          [
+            -4.766612,
+            54.092759
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Whindyke",
+        "addr:place": "Spaldrick",
+        "addr:postcode": "IM9 6PN",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104339296,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.766928,
+            54.092721
+          ],
+          [
+            -4.766724,
+            54.092779
+          ],
+          [
+            -4.766682,
+            54.092729
+          ],
+          [
+            -4.76665,
+            54.092738
+          ],
+          [
+            -4.766609,
+            54.092688
+          ],
+          [
+            -4.766748,
+            54.092649
+          ],
+          [
+            -4.76676,
+            54.092664
+          ],
+          [
+            -4.766858,
+            54.092636
+          ],
+          [
+            -4.766928,
+            54.092721
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Dreeym House",
+        "addr:place": "Spaldrick",
+        "addr:postcode": "IM9 6PN",
+        "addr:street": "Bradda West Road",
+        "alt_name": "Dreeym",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104339299,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.767247,
+            54.092619
+          ],
+          [
+            -4.767022,
+            54.092679
+          ],
+          [
+            -4.766926,
+            54.092555
+          ],
+          [
+            -4.766994,
+            54.092537
+          ],
+          [
+            -4.767045,
+            54.092604
+          ],
+          [
+            -4.767085,
+            54.092593
+          ],
+          [
+            -4.767052,
+            54.092551
+          ],
+          [
+            -4.76717,
+            54.09252
+          ],
+          [
+            -4.767247,
+            54.092619
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Tresco",
+        "addr:place": "Spaldrick",
+        "addr:postcode": "IM9 6PN",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104339301,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.765637,
+            54.0926
+          ],
+          [
+            -4.765766,
+            54.092753
+          ],
+          [
+            -4.765678,
+            54.092778
+          ],
+          [
+            -4.765549,
+            54.092626
+          ],
+          [
+            -4.765637,
+            54.0926
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Muitfield",
+        "addr:postcode": "IM9 6PL",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "fixme": "check spelling, maybe Muirfield",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 104339303,
       "geometry": {
         "type": "LineString",
@@ -59768,6 +60542,142 @@
     },
     {
       "type": "Feature",
+      "id": 104339305,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.765174,
+            54.092738
+          ],
+          [
+            -4.765261,
+            54.092712
+          ],
+          [
+            -4.765362,
+            54.092826
+          ],
+          [
+            -4.76533,
+            54.092835
+          ],
+          [
+            -4.76535,
+            54.092857
+          ],
+          [
+            -4.765294,
+            54.092874
+          ],
+          [
+            -4.765174,
+            54.092738
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Mafeking",
+        "addr:postcode": "IM9 6PL",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104339307,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.764941,
+            54.092818
+          ],
+          [
+            -4.765075,
+            54.092965
+          ],
+          [
+            -4.764996,
+            54.09299
+          ],
+          [
+            -4.764954,
+            54.092944
+          ],
+          [
+            -4.765014,
+            54.092925
+          ],
+          [
+            -4.764987,
+            54.092895
+          ],
+          [
+            -4.764917,
+            54.092917
+          ],
+          [
+            -4.764852,
+            54.092846
+          ],
+          [
+            -4.764941,
+            54.092818
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Creg ny Shee",
+        "addr:postcode": "IM9 6PL",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104416934,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.763373,
+            54.09428
+          ],
+          [
+            -4.763319,
+            54.094234
+          ],
+          [
+            -4.763445,
+            54.094183
+          ],
+          [
+            -4.763499,
+            54.094228
+          ],
+          [
+            -4.763373,
+            54.09428
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "West View Cottage",
+        "addr:postcode": "IM9 6PR",
+        "addr:street": "Bradda Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 104422614,
       "geometry": {
         "type": "LineString",
@@ -59805,6 +60715,114 @@
         "addr:postcode": "IM9 6PS",
         "addr:street": "Bradda Road",
         "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104422679,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.760484,
+            54.095118
+          ],
+          [
+            -4.760578,
+            54.095095
+          ],
+          [
+            -4.760634,
+            54.095175
+          ],
+          [
+            -4.760607,
+            54.095182
+          ],
+          [
+            -4.760623,
+            54.095204
+          ],
+          [
+            -4.760555,
+            54.09522
+          ],
+          [
+            -4.760484,
+            54.095118
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Bradda",
+        "addr:country": "IM",
+        "addr:housename": "Felstead",
+        "addr:postcode": "IM9 6PS",
+        "addr:street": "Bradda Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104422686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758157,
+            54.095646
+          ],
+          [
+            -4.758195,
+            54.095642
+          ],
+          [
+            -4.75817,
+            54.095552
+          ],
+          [
+            -4.757927,
+            54.095576
+          ],
+          [
+            -4.757941,
+            54.095625
+          ],
+          [
+            -4.75799,
+            54.09562
+          ],
+          [
+            -4.758002,
+            54.095665
+          ],
+          [
+            -4.758043,
+            54.095661
+          ],
+          [
+            -4.758047,
+            54.095677
+          ],
+          [
+            -4.758163,
+            54.095666
+          ],
+          [
+            -4.758157,
+            54.095646
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:housename": "The Nook",
+        "addr:postcode": "IM9 6QA",
+        "addr:street": "Bradda Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -62482,7 +63500,7 @@
         ]
       },
       "properties": {
-        "addr:city": "Dably",
+        "addr:city": "Dalby",
         "addr:country": "IM",
         "addr:postcode": "IM5 3BR",
         "addr:street": "Dalby Road",
@@ -68788,6 +69806,100 @@
         "opening_hours": "Mo-Fr 08:30-17:30, Sa 09:00-17:30",
         "source": "survey",
         "website": "https://www.clearpharmacy.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159092845,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.764772,
+            54.092993
+          ],
+          [
+            -4.764682,
+            54.092895
+          ],
+          [
+            -4.764602,
+            54.092921
+          ],
+          [
+            -4.764674,
+            54.092999
+          ],
+          [
+            -4.764707,
+            54.092988
+          ],
+          [
+            -4.764725,
+            54.093008
+          ],
+          [
+            -4.764748,
+            54.093
+          ],
+          [
+            -4.764772,
+            54.092993
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Hillcrest",
+        "addr:postcode": "IM9 6PL",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 159092867,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.765408,
+            54.092667
+          ],
+          [
+            -4.765484,
+            54.092644
+          ],
+          [
+            -4.765567,
+            54.092739
+          ],
+          [
+            -4.765541,
+            54.092747
+          ],
+          [
+            -4.765593,
+            54.092805
+          ],
+          [
+            -4.765544,
+            54.09282
+          ],
+          [
+            -4.765408,
+            54.092667
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "The Hollies",
+        "addr:postcode": "IM9 6PL",
+        "addr:street": "Bradda West Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -102445,6 +103557,81 @@
     },
     {
       "type": "Feature",
+      "id": 527475183,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477044,
+            54.211287
+          ],
+          [
+            -4.476995,
+            54.211241
+          ],
+          [
+            -4.477033,
+            54.211228
+          ],
+          [
+            -4.477019,
+            54.211214
+          ],
+          [
+            -4.477055,
+            54.211201
+          ],
+          [
+            -4.477069,
+            54.211214
+          ],
+          [
+            -4.477137,
+            54.21119
+          ],
+          [
+            -4.477127,
+            54.21118
+          ],
+          [
+            -4.477158,
+            54.211169
+          ],
+          [
+            -4.477166,
+            54.211177
+          ],
+          [
+            -4.477204,
+            54.211163
+          ],
+          [
+            -4.477254,
+            54.211211
+          ],
+          [
+            -4.477044,
+            54.211287
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Kate's Cottage",
+        "addr:postcode": "IM4 5BP",
+        "addr:street": "Mountain Road",
+        "building": "yes",
+        "listed_status": "Registered",
+        "ref:registered_building": "117",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "url:registered_building": "https://www.gov.im/media/632699/0500117regbldkatescottage.pdf",
+        "wikidata": "Q6375316",
+        "wikipedia": "en:Kate's Cottage, Isle of Man"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 531471591,
       "geometry": {
         "type": "LineString",
@@ -106089,6 +107276,108 @@
         "contact:facebook": "https://www.facebook.com/people/The-Pavilion-at-Douglas-Golf-Club/100063791102339/",
         "golf": "clubhouse",
         "name": "The Pavilion at Douglas Golf Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 894372683,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.540936,
+            54.134401
+          ],
+          [
+            -4.541002,
+            54.134447
+          ],
+          [
+            -4.540797,
+            54.134548
+          ],
+          [
+            -4.540777,
+            54.134534
+          ],
+          [
+            -4.540686,
+            54.134579
+          ],
+          [
+            -4.540647,
+            54.134552
+          ],
+          [
+            -4.540435,
+            54.134657
+          ],
+          [
+            -4.540334,
+            54.134586
+          ],
+          [
+            -4.540394,
+            54.134557
+          ],
+          [
+            -4.540446,
+            54.134592
+          ],
+          [
+            -4.540586,
+            54.134523
+          ],
+          [
+            -4.540574,
+            54.134514
+          ],
+          [
+            -4.54087,
+            54.134369
+          ],
+          [
+            -4.540878,
+            54.134374
+          ],
+          [
+            -4.540971,
+            54.134328
+          ],
+          [
+            -4.540927,
+            54.134298
+          ],
+          [
+            -4.541031,
+            54.134247
+          ],
+          [
+            -4.541081,
+            54.134282
+          ],
+          [
+            -4.541067,
+            54.134289
+          ],
+          [
+            -4.541107,
+            54.134317
+          ],
+          [
+            -4.540936,
+            54.134401
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Soderick",
+        "addr:place": "Quines Hill",
+        "addr:postcode": "IM4 1AZ",
+        "addr:street": "Old Castletown Road",
+        "building": "yes",
+        "name": "Hampton Court",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -145102,6 +146391,44 @@
         "addr:street": "Coburg Road",
         "building": "house",
         "house": "terraced"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1313814088,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.63893,
+            54.210446
+          ],
+          [
+            -4.638611,
+            54.210387
+          ],
+          [
+            -4.638639,
+            54.210333
+          ],
+          [
+            -4.638959,
+            54.210392
+          ],
+          [
+            -4.63893,
+            54.210446
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "White House",
+        "addr:postcode": "IM4 3NQ",
+        "addr:street": "Poortown Road",
+        "alt_name": "The Whitehouse",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

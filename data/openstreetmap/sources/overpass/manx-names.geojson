@@ -3655,10 +3655,13 @@
         ]
       },
       "properties": {
+        "alt_name": "Creg Y Cowin",
         "name": "Creg-y-cowin",
         "name:gv": "Creg-y-cowin",
         "place": "locality",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM5 4ER",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -3691,7 +3694,9 @@
       "properties": {
         "name": "Eary Ween",
         "name:gv": "Eary Ween",
-        "place": "farm"
+        "place": "farm",
+        "postal_code": "IM4 5ER",
+        "source:postal_code": "Isle of Man Government Land Regsitry Land Transactions"
       }
     },
     {
@@ -9724,7 +9729,7 @@
         ]
       },
       "properties": {
-        "fixme": "signed Bradda East at eastern end",
+        "fixme": "signed Bradda East/Bradda Hiar at eastern end",
         "highway": "primary",
         "maxspeed": "30 mph",
         "maxweight": "4",
@@ -12766,7 +12771,9 @@
         "maxspeed": "30 mph",
         "name": "Sound Road",
         "name:en": "Sound Road",
-        "name:gv": "Bayr Y Cheyllys"
+        "name:gv": "Bayr Y Cheyllys",
+        "postal_code": "IM5 3BJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -47883,6 +47890,97 @@
         "name:gv": "Chellinsh Vannin",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "http://www.manx-telecom.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59700879,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698241,
+            54.221645
+          ],
+          [
+            -4.697814,
+            54.221996
+          ],
+          [
+            -4.697675,
+            54.221939
+          ],
+          [
+            -4.697592,
+            54.221904
+          ],
+          [
+            -4.697536,
+            54.22195
+          ],
+          [
+            -4.69749,
+            54.221988
+          ],
+          [
+            -4.697571,
+            54.222022
+          ],
+          [
+            -4.69745,
+            54.222121
+          ],
+          [
+            -4.697363,
+            54.222085
+          ],
+          [
+            -4.697393,
+            54.222061
+          ],
+          [
+            -4.697174,
+            54.22197
+          ],
+          [
+            -4.697795,
+            54.22146
+          ],
+          [
+            -4.697841,
+            54.221479
+          ],
+          [
+            -4.697993,
+            54.221542
+          ],
+          [
+            -4.698125,
+            54.221597
+          ],
+          [
+            -4.698241,
+            54.221645
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1TA",
+        "addr:street": "Mill Road",
+        "building": "yes",
+        "fee": "yes",
+        "name": "House of Manannan",
+        "name:en": "House of Manannan",
+        "name:gv": "Thie Vanannin",
+        "phone": "+44 1624 648090",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "toilets:wheelchair": "yes",
+        "tourism": "museum",
+        "website": "https://manxnationalheritage.im/our-sites/house-of-manannan/",
+        "wheelchair": "yes",
+        "wikidata": "Q15069659"
       }
     },
     {
@@ -94449,7 +94547,9 @@
         "name": "Ballamoar",
         "name:gv": "Ballamoar",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM5 3AW",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register"
       }
     },
     {

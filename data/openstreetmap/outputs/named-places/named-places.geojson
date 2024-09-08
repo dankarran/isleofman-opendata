@@ -1373,7 +1373,9 @@
       "properties": {
         "name": "Clypse Moar",
         "place": "farm",
+        "postal_code": "IM4 5BG",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475392788,
         "lon": -4.457147,
         "lat": 54.197323,
@@ -1958,7 +1960,9 @@
       "properties": {
         "name": "Ballatrollag Farm",
         "place": "farm",
+        "postal_code": "IM9 4HE",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475392850,
         "lon": -4.662331,
         "lat": 54.112062,
@@ -2528,7 +2532,9 @@
       "properties": {
         "name": "Ballalough Farm",
         "place": "farm",
+        "postal_code": "IM4 5HD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475392907,
         "lon": -4.536219,
         "lat": 54.19966,
@@ -3062,9 +3068,12 @@
         ]
       },
       "properties": {
+        "alt_name": "Cardle Voar",
         "name": "Cardle Vooar",
         "place": "farm",
+        "postal_code": "IM7 1ES",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475392964,
         "lon": -4.374197,
         "lat": 54.282343,
@@ -3486,7 +3495,7 @@
       },
       "properties": {
         "name": "Pooilvaaish",
-        "place": "farm",
+        "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 475393007,
         "lon": -4.681987,
@@ -3576,7 +3585,9 @@
       "properties": {
         "name": "Ballagarey",
         "place": "farm",
+        "postal_code": "IM4 5ER",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475393015,
         "lon": -4.500374,
         "lat": 54.218366,
@@ -3597,7 +3608,9 @@
       "properties": {
         "name": "Ballaglonney",
         "place": "farm",
+        "postal_code": "IM4 1ES",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393018,
         "lon": -4.559565,
         "lat": 54.148812,
@@ -4070,7 +4083,9 @@
       "properties": {
         "name": "Ballaglonney",
         "place": "farm",
+        "postal_code": "IM9 4HG",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393087,
         "lon": -4.667925,
         "lat": 54.1194,
@@ -7604,7 +7619,9 @@
       "properties": {
         "name": "Shenvalley",
         "place": "farm",
+        "postal_code": "IM9 3AL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393582,
         "lon": -4.605332,
         "lat": 54.147248,
@@ -7749,9 +7766,12 @@
         ]
       },
       "properties": {
+        "alt_name": "Ballamodha Moar",
         "name": "Ballamodha Mooar",
         "place": "farm",
+        "postal_code": "IM9 3EL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393607,
         "lon": -4.634364,
         "lat": 54.127698,
@@ -7945,7 +7965,9 @@
       "properties": {
         "name": "Kerroogarroo",
         "place": "farm",
+        "postal_code": "IM7 3HG",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393627,
         "lon": -4.458169,
         "lat": 54.349089,
@@ -8426,7 +8448,9 @@
       "properties": {
         "name": "Grest Farm",
         "place": "farm",
+        "postal_code": "IM7 4EA",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393679,
         "lon": -4.391861,
         "lat": 54.33916,
@@ -8850,7 +8874,9 @@
       "properties": {
         "name": "Ballavarvane Farm",
         "place": "farm",
+        "postal_code": "IM9 3AP",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393736,
         "lon": -4.603411,
         "lat": 54.140328,
@@ -10303,7 +10329,9 @@
       "properties": {
         "name": "Ballakillingan Farm",
         "place": "farm",
+        "postal_code": "IM7 2AL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393907,
         "lon": -4.424943,
         "lat": 54.321713,
@@ -10495,8 +10523,11 @@
       },
       "properties": {
         "name": "Kerrow Glass",
+        "note:postal_code": "other addresses on Mill Road use IM4 3LB, so one is likely a typo",
         "place": "farm",
+        "postal_code": "IM4 2LB",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475393936,
         "lon": -4.602412,
         "lat": 54.205561,
@@ -12578,7 +12609,9 @@
       "properties": {
         "name": "Ballachrink Farm",
         "place": "farm",
+        "postal_code": "IM5 2AP",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394180,
         "lon": -4.644312,
         "lat": 54.208549,
@@ -17025,7 +17058,9 @@
       "properties": {
         "name": "Ballashamrock",
         "place": "farm",
+        "postal_code": "IM4 1BE",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475394668,
         "lon": -4.535097,
         "lat": 54.12704,
@@ -19798,7 +19833,9 @@
       "properties": {
         "name": "Ballaquayle",
         "place": "farm",
+        "postal_code": "IM4 3BR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475395083,
         "lon": -4.67571,
         "lat": 54.203454,
@@ -19995,27 +20032,6 @@
         "lat": 54.106805,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475395101"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 475395103,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.634816,
-          54.173759
-        ]
-      },
-      "properties": {
-        "name": "Lhea-kerrow",
-        "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)",
-        "osm_id": 475395103,
-        "lon": -4.634816,
-        "lat": 54.173759,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/475395103"
       }
     },
     {
@@ -23584,10 +23600,13 @@
         ]
       },
       "properties": {
+        "alt_name": "Creg Y Cowin",
         "name": "Creg-y-cowin",
         "name:gv": "Creg-y-cowin",
         "place": "locality",
+        "postal_code": "IM5 4ER",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 8662320150,
         "lon": -4.491494,
         "lat": 54.230218,
@@ -23631,6 +23650,8 @@
         "name": "Eary Ween",
         "name:gv": "Eary Ween",
         "place": "farm",
+        "postal_code": "IM4 5ER",
+        "source:postal_code": "Isle of Man Government Land Regsitry Land Transactions",
         "osm_id": 8662320152,
         "lon": -4.495736,
         "lat": 54.22292,
@@ -40396,7 +40417,9 @@
         "landuse": "farmyard",
         "name": "Ballaclague",
         "place": "farm",
+        "postal_code": "IM9 4PD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 527756351,
         "lon": -4.685457346505032,
         "lat": 54.10222442130874,
@@ -41900,7 +41923,9 @@
         "landuse": "farmyard",
         "name": "Ballacallin Farm",
         "place": "farm",
+        "postal_code": "IM5 3AR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 832386637,
         "lon": -4.698411096164655,
         "lat": 54.1952650884636,
@@ -41921,6 +41946,22 @@
           [
             -4.692774,
             54.201845
+          ],
+          [
+            -4.692642,
+            54.201844
+          ],
+          [
+            -4.69249,
+            54.201837
+          ],
+          [
+            -4.692358,
+            54.201779
+          ],
+          [
+            -4.692328,
+            54.201419
           ],
           [
             -4.692784,
@@ -41960,10 +42001,12 @@
         "landuse": "farmyard",
         "name": "Shenvalla",
         "place": "farm",
+        "postal_code": "IM5 3AP",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 832386638,
-        "lon": -4.693162588406794,
-        "lat": 54.20156855182577,
+        "lon": -4.692982357984183,
+        "lat": 54.20157589900585,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/832386638"
       }
@@ -42459,7 +42502,9 @@
         "landuse": "farmyard",
         "name": "Ballacross",
         "place": "farm",
+        "postal_code": "IM9 4PD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 837428718,
         "lon": -4.684412168289285,
         "lat": 54.10416627871279,
@@ -43038,7 +43083,9 @@
         "name": "Ballamoar",
         "name:gv": "Ballamoar",
         "place": "farm",
+        "postal_code": "IM5 3AW",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
         "osm_id": 890790036,
         "lon": -4.683967834602745,
         "lat": 54.205144737537466,
@@ -44166,6 +44213,77 @@
         "lat": 54.151629071313856,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1290499338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1314149538,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.635956,
+            54.174307
+          ],
+          [
+            -4.6356,
+            54.174495
+          ],
+          [
+            -4.634924,
+            54.174093
+          ],
+          [
+            -4.634572,
+            54.174183
+          ],
+          [
+            -4.634049,
+            54.174344
+          ],
+          [
+            -4.633648,
+            54.174125
+          ],
+          [
+            -4.634184,
+            54.173877
+          ],
+          [
+            -4.634288,
+            54.173848
+          ],
+          [
+            -4.634708,
+            54.173621
+          ],
+          [
+            -4.634929,
+            54.173637
+          ],
+          [
+            -4.635479,
+            54.173977
+          ],
+          [
+            -4.635956,
+            54.174307
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Lhea-kerrow",
+        "landuse": "farmyard",
+        "name": "Lheakerrow",
+        "place": "farm",
+        "postal_code": "IM4 3JB",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Milk Production Holding Register",
+        "osm_id": 1314149538,
+        "lon": -4.634820448401637,
+        "lat": 54.17408271005872,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1314149538"
       }
     }
   ]
