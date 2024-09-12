@@ -6569,6 +6569,7 @@
         "amenity": "pub",
         "building": "house",
         "description": "Free house",
+        "loc_name": "The Commie",
         "name": "The Commercial",
         "old_name": "Mermaid Inn;Ellan Vannin",
         "source": "survey",
@@ -6660,54 +6661,6 @@
         "delivery": "yes",
         "name": "Pizzanista",
         "takeaway": "yes",
-        "wheelchair": "no"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102638493,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.379365,
-            54.321909
-          ],
-          [
-            -4.379268,
-            54.321932
-          ],
-          [
-            -4.37918,
-            54.3218
-          ],
-          [
-            -4.379413,
-            54.321745
-          ],
-          [
-            -4.379487,
-            54.321834
-          ],
-          [
-            -4.379338,
-            54.321868
-          ],
-          [
-            -4.379365,
-            54.321909
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:postcode": "IM8 1JY",
-        "addr:street": "Market Place",
-        "amenity": "pub",
-        "building": "yes",
-        "name": "The Royal George",
-        "source": "survey",
-        "website": "https://pubsandbars.im/venue/the-royal-george/",
         "wheelchair": "no"
       }
     },
@@ -14909,6 +14862,118 @@
     },
     {
       "type": "Feature",
+      "id": 1304426288,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482506,
+            54.158717
+          ],
+          [
+            -4.482458,
+            54.158639
+          ],
+          [
+            -4.482372,
+            54.158656
+          ],
+          [
+            -4.482419,
+            54.158735
+          ],
+          [
+            -4.482506,
+            54.158717
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "building": "house",
+        "cuisine": "sandwich",
+        "house": "terraced"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426289,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482419,
+            54.158735
+          ],
+          [
+            -4.482372,
+            54.158656
+          ],
+          [
+            -4.48229,
+            54.158673
+          ],
+          [
+            -4.482337,
+            54.158752
+          ],
+          [
+            -4.482419,
+            54.158735
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "building": "house",
+        "cuisine": "chinese",
+        "house": "terrace",
+        "name": "Kirin"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426341,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481274,
+            54.158008
+          ],
+          [
+            -4.481363,
+            54.158007
+          ],
+          [
+            -4.481304,
+            54.157913
+          ],
+          [
+            -4.481269,
+            54.157914
+          ],
+          [
+            -4.481274,
+            54.158008
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "19",
+        "addr:street": "Falcon Street",
+        "amenity": "restaurant",
+        "building": "house",
+        "contact:facebook": "https://www.facebook.com/tuktukthaiiom/",
+        "cuisine": "thai",
+        "name": "Tuk Tuk",
+        "source": "mapillary",
+        "takeaway": "only"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1306229008,
       "geometry": {
         "type": "LineString",
@@ -14945,6 +15010,49 @@
         "shop": "seafood",
         "toilets": "no",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1315121248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48217,
+            54.158786
+          ],
+          [
+            -4.482088,
+            54.158802
+          ],
+          [
+            -4.481999,
+            54.15882
+          ],
+          [
+            -4.481953,
+            54.158741
+          ],
+          [
+            -4.482041,
+            54.158723
+          ],
+          [
+            -4.482123,
+            54.158707
+          ],
+          [
+            -4.48217,
+            54.158786
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "fish_and_chips",
+        "name": "Shane's Chippy II"
       }
     }
   ]

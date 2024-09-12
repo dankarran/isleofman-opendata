@@ -51,7 +51,7 @@
         "addr:postcode": "IM1 3DX",
         "addr:street": "Demesne Road",
         "landuse": "construction",
-        "name": "Disused Ballacloan Infants School",
+        "old_name": "Ballacloan Infants School",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 61561689,
         "lon": -4.487627247389392,
@@ -2521,6 +2521,43 @@
         "lat": 54.08340414036453,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1312239572"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1315060300,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480343,
+            54.157268
+          ],
+          [
+            -4.479836,
+            54.157238
+          ],
+          [
+            -4.479884,
+            54.156996
+          ],
+          [
+            -4.480378,
+            54.157023
+          ],
+          [
+            -4.480343,
+            54.157268
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "construction",
+        "osm_id": 1315060300,
+        "lon": -4.480110196942484,
+        "lat": 54.15713232692263,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1315060300"
       }
     }
   ]

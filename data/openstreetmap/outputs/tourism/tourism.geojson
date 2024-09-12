@@ -3927,7 +3927,7 @@
         ]
       },
       "properties": {
-        "description": "Celebrating the incorporation of Ramsey as a town in 1865. It is decked in the traditional blue and gold colours of Ramsey Town Commissioners. The lamppost incorporates a water fountain at its base, but this is no longer in use. This is number 14 on the R",
+        "description": "Celebrating the incorporation of Ramsey as a town in 1865. It is decked in the traditional blue and gold colours of Ramsey Town Commissioners. The lamppost incorporates a water fountain at its base, but this is no longer in use.",
         "disused:amenity": "drinking_water",
         "highway": "street_lamp",
         "historic": "street_lamp",
@@ -5835,6 +5835,30 @@
         "lat": 54.327932,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12154106564"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12170333968,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.380193,
+          54.321267
+        ]
+      },
+      "properties": {
+        "artist_name": "Darren Jackson",
+        "artwork_type": "statue",
+        "description": "RNLI statue",
+        "material": "bronze",
+        "name": "When I Grow Up",
+        "tourism": "artwork",
+        "osm_id": 12170333968,
+        "lon": -4.380193,
+        "lat": 54.321267,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12170333968"
       }
     },
     {
@@ -10778,13 +10802,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
         "addr:country": "IM",
+        "addr:housename": "Aaron House",
+        "addr:postcode": "IM9 5DE",
         "addr:street": "The Promenade",
         "building": "house",
         "name": "Aaron House",
         "postal_code": "IM9 5DE",
         "tourism": "guest_house",
-        "website": "http://www.aaronhouse.co.uk/",
+        "website": "https://www.aaronhouse.im",
         "osm_id": 101799684,
         "lon": -4.73725854102784,
         "lat": 54.078882177095416,

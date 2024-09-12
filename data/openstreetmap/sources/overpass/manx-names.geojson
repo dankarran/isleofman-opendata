@@ -3659,7 +3659,7 @@
         "name": "Creg-y-cowin",
         "name:gv": "Creg-y-cowin",
         "place": "locality",
-        "postal_code": "IM5 4ER",
+        "postal_code": "IM4 5ER",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications"
       }
@@ -7365,7 +7365,9 @@
         "name": "Lewthaites Way",
         "name:en": "Lewthaites Way",
         "name:gv": "Bayr Lewthwaite",
+        "postal_code": "IM9 5AB",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -8135,8 +8137,8 @@
             54.157927
           ],
           [
-            -4.480106,
-            54.158076
+            -4.480103,
+            54.158087
           ],
           [
             -4.480083,
@@ -9218,8 +9220,8 @@
             54.151918
           ],
           [
-            -4.48702,
-            54.152273
+            -4.48704,
+            54.152261
           ],
           [
             -4.486293,
@@ -9230,12 +9232,12 @@
             54.152933
           ],
           [
-            -4.485726,
-            54.153035
+            -4.485763,
+            54.153019
           ],
           [
-            -4.485341,
-            54.153143
+            -4.485361,
+            54.153132
           ],
           [
             -4.484902,
@@ -9930,12 +9932,16 @@
             54.158924
           ],
           [
-            -4.481715,
-            54.158471
+            -4.48173,
+            54.158483
           ],
           [
-            -4.481457,
-            54.15805
+            -4.481608,
+            54.158297
+          ],
+          [
+            -4.481455,
+            54.158064
           ],
           [
             -4.481263,
@@ -13015,8 +13021,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.486519,
-            54.150873
+            -4.486684,
+            54.150689
           ],
           [
             -4.487155,
@@ -13030,6 +13036,9 @@
       },
       "properties": {
         "abutters": "residential",
+        "alt_name:left": "Hillside Terrace",
+        "alt_name:left:en": "Hillside Terrace",
+        "alt_name:left:gv": "Strane ny Lhargee",
         "highway": "unclassified",
         "maxspeed": "30 mph",
         "name": "Hillside Avenue",
@@ -13105,6 +13114,8 @@
         "name": "Gellings Avenue",
         "name:en": "Gellings Avenue",
         "name:gv": "Astyl Gelling",
+        "postal_code": "IM9 5BG",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -22010,6 +22021,60 @@
     },
     {
       "type": "Feature",
+      "id": 25987785,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.397246,
+            54.222317
+          ],
+          [
+            -4.396883,
+            54.222504
+          ],
+          [
+            -4.396817,
+            54.222533
+          ],
+          [
+            -4.396688,
+            54.222603
+          ],
+          [
+            -4.396595,
+            54.22266
+          ],
+          [
+            -4.39606,
+            54.223036
+          ],
+          [
+            -4.394945,
+            54.223757
+          ],
+          [
+            -4.394004,
+            54.224336
+          ],
+          [
+            -4.393888,
+            54.224411
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "20 mph",
+        "name": "Old Laxey Hill",
+        "name:en": "Old Laxey Hill",
+        "name:gv": "Cronk Shenn Laksaah",
+        "ref": "B1",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987793,
       "geometry": {
         "type": "LineString",
@@ -23046,7 +23111,9 @@
         "name": "Victoria Road",
         "name:en": "Victoria Road",
         "name:gv": "Raad Victoria",
+        "postal_code": "IM9 5AF",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -25219,6 +25286,8 @@
         "maxspeed": "20 mph",
         "name": "Eary Veg",
         "name:gv": "Eary Veg",
+        "postal_code": "IM2 5LZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -31047,7 +31116,7 @@
         "maxspeed": "30 mph",
         "name": "High Street",
         "name:en": "High Street",
-        "name:gv": "Y Traaid Vooar",
+        "name:gv": "Y Traid Vooar",
         "ref": "B18",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
@@ -37249,7 +37318,7 @@
         "maxspeed": "30 mph",
         "name": "High Street",
         "name:en": "High Street",
-        "name:gv": "Y Traaid Vooar",
+        "name:gv": "Y Traid Vooar",
         "oneway": "yes",
         "ref": "B18",
         "sidewalk:both": "separate",
@@ -38475,11 +38544,15 @@
       },
       "properties": {
         "abutters": "residential",
+        "alt_name": "The Lhargan",
         "highway": "unclassified",
         "maxspeed": "30 mph",
-        "name": "Lhargan",
+        "name": "The Lhargan",
+        "name:en": "The Lhargan",
         "name:gv": "Lhargan",
+        "postal_code": "IM9 5AR",
         "sidewalk:right": "separate",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -54604,13 +54677,15 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 3HR",
         "addr:street": "Murrays Road",
         "addr:substreet": "Glen Falcon Terrace",
         "building": "terrace",
         "name": "Glen Falcon Terrace",
         "name:en": "Glen Falcon Terrace",
         "name:gv": "Stane Glione Shirragh",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -54644,13 +54719,15 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 3HR",
         "addr:street": "Murrays Road",
         "addr:substreet": "Glen Falcon Terrace",
         "building": "terrace",
         "name": "Glen Falcon Terrace",
         "name:en": "Glen Falcon Terrace",
         "name:gv": "Stane Glione Shirragh",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -67299,15 +67376,14 @@
           [
             -4.487092,
             54.149807
-          ],
-          [
-            -4.487044,
-            54.14973
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
+        "alt_name:left": "Hillside Terrace",
+        "alt_name:left:en": "Hillside Terrace",
+        "alt_name:left:gv": "Strane ny Lhargee",
         "cycleway:both": "no",
         "highway": "unclassified",
         "maxspeed": "30 mph",
@@ -75969,6 +76045,147 @@
         "ref": "D33",
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235063250,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.391974,
+            54.226329
+          ],
+          [
+            -4.391975,
+            54.226413
+          ],
+          [
+            -4.391975,
+            54.226501
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "20 mph",
+        "name": "Old Laxey Hill",
+        "name:en": "Old Laxey Hill",
+        "name:gv": "Cronk Shenn Laksaah",
+        "ref": "B1",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235063251,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.393888,
+            54.224411
+          ],
+          [
+            -4.393819,
+            54.224467
+          ],
+          [
+            -4.393747,
+            54.224535
+          ],
+          [
+            -4.393554,
+            54.224752
+          ],
+          [
+            -4.393491,
+            54.224843
+          ],
+          [
+            -4.393448,
+            54.224921
+          ],
+          [
+            -4.393335,
+            54.225123
+          ],
+          [
+            -4.39307,
+            54.22555
+          ],
+          [
+            -4.393016,
+            54.22562
+          ],
+          [
+            -4.392977,
+            54.225662
+          ],
+          [
+            -4.392926,
+            54.225702
+          ],
+          [
+            -4.392867,
+            54.225731
+          ],
+          [
+            -4.392785,
+            54.225758
+          ],
+          [
+            -4.392636,
+            54.225794
+          ],
+          [
+            -4.392371,
+            54.22585
+          ],
+          [
+            -4.392203,
+            54.225898
+          ],
+          [
+            -4.392127,
+            54.225942
+          ],
+          [
+            -4.392054,
+            54.225999
+          ],
+          [
+            -4.392016,
+            54.226052
+          ],
+          [
+            -4.392,
+            54.226104
+          ],
+          [
+            -4.39199,
+            54.226171
+          ],
+          [
+            -4.391977,
+            54.226277
+          ],
+          [
+            -4.391974,
+            54.226329
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "incline": "-14%",
+        "maxspeed": "20 mph",
+        "name": "Old Laxey Hill",
+        "name:en": "Old Laxey Hill",
+        "name:gv": "Cronk Shenn Laksaah",
+        "ref": "B1",
+        "surface": "asphalt"
       }
     },
     {
@@ -100607,6 +100824,40 @@
     },
     {
       "type": "Feature",
+      "id": 1181781850,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.398233,
+            54.221847
+          ],
+          [
+            -4.398115,
+            54.221882
+          ],
+          [
+            -4.398022,
+            54.221922
+          ],
+          [
+            -4.397246,
+            54.222317
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "maxspeed": "30 mph",
+        "name": "Old Laxey Hill",
+        "name:en": "Old Laxey Hill",
+        "name:gv": "Cronk Shenn Laksaah",
+        "ref": "B1",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1181781851,
       "geometry": {
         "type": "LineString",
@@ -101207,6 +101458,55 @@
     },
     {
       "type": "Feature",
+      "id": 1191595006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738836,
+            54.074702
+          ],
+          [
+            -4.738867,
+            54.074595
+          ],
+          [
+            -4.738894,
+            54.074461
+          ],
+          [
+            -4.738936,
+            54.074321
+          ],
+          [
+            -4.738896,
+            54.074292
+          ],
+          [
+            -4.738658,
+            54.074264
+          ],
+          [
+            -4.738586,
+            54.074257
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "The Lhargan",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "The Lhargan",
+        "name:en": "The Lhargan",
+        "name:gv": "Lhargan",
+        "postal_code": "IM9 5AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1191595008,
       "geometry": {
         "type": "LineString",
@@ -101542,6 +101842,43 @@
         "name:gv": "Raad Gob Callow",
         "sidewalk:both": "separate",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1192913560,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738773,
+            54.075417
+          ],
+          [
+            -4.738807,
+            54.075247
+          ],
+          [
+            -4.738847,
+            54.075069
+          ],
+          [
+            -4.738856,
+            54.074909
+          ],
+          [
+            -4.738874,
+            54.074709
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "The Lhargan",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "The Lhargan",
+        "name:en": "The Lhargan",
+        "name:gv": "Lhargan"
       }
     },
     {
@@ -105906,6 +106243,59 @@
         "name:en": "Shore Road",
         "name:gv": "Bayr Y Traie",
         "ref": "B51",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1314840188,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486519,
+            54.150873
+          ],
+          [
+            -4.486684,
+            54.150689
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Hillside Avenue",
+        "name:en": "Hillside Avenue",
+        "name:gv": "Astyl ny Lhargagh"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1314840189,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487092,
+            54.149807
+          ],
+          [
+            -4.487044,
+            54.14973
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "cycleway:both": "no",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "motor_vehicle": "destination",
+        "name": "Hillside Avenue",
+        "name:en": "Hillside Avenue",
+        "name:gv": "Astyl ny Lhargagh",
         "surface": "asphalt"
       }
     }

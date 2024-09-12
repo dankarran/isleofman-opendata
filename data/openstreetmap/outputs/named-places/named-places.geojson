@@ -9348,7 +9348,9 @@
       "properties": {
         "name": "Ballafletcher Farm",
         "place": "farm",
+        "postal_code": "IM4 4QL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393784,
         "lon": -4.50031,
         "lat": 54.167991,
@@ -23604,7 +23606,7 @@
         "name": "Creg-y-cowin",
         "name:gv": "Creg-y-cowin",
         "place": "locality",
-        "postal_code": "IM5 4ER",
+        "postal_code": "IM4 5ER",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 8662320150,
@@ -28036,6 +28038,26 @@
         "lat": 54.092371,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12068347115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12170284384,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.751963,
+          54.071974
+        ]
+      },
+      "properties": {
+        "name": "Glen Chass",
+        "place": "locality",
+        "osm_id": 12170284384,
+        "lon": -4.751963,
+        "lat": 54.071974,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12170284384"
       }
     },
     {

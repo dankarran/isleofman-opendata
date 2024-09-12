@@ -1315,6 +1315,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393784,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.50031,
+          54.167991
+        ]
+      },
+      "properties": {
+        "name": "Ballafletcher Farm",
+        "place": "farm",
+        "postal_code": "IM4 4QL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393788,
       "geometry": {
         "type": "Point",
@@ -3401,7 +3419,7 @@
         "name": "Creg-y-cowin",
         "name:gv": "Creg-y-cowin",
         "place": "locality",
-        "postal_code": "IM5 4ER",
+        "postal_code": "IM4 5ER",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications"
       }
@@ -4271,8 +4289,8 @@
             54.173736
           ],
           [
-            -4.441541,
-            54.173804
+            -4.441532,
+            54.17381
           ]
         ]
       },
@@ -4647,6 +4665,47 @@
         "postal_code": "IM1 1AT",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986108,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.740296,
+            54.0775
+          ],
+          [
+            -4.740092,
+            54.077576
+          ],
+          [
+            -4.739714,
+            54.077727
+          ],
+          [
+            -4.739689,
+            54.077736
+          ],
+          [
+            -4.739635,
+            54.077746
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Lewthaites Way",
+        "name:en": "Lewthaites Way",
+        "name:gv": "Bayr Lewthwaite",
+        "postal_code": "IM9 5AB",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -8672,6 +8731,50 @@
     },
     {
       "type": "Feature",
+      "id": 25986959,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739704,
+            54.076465
+          ],
+          [
+            -4.739667,
+            54.076485
+          ],
+          [
+            -4.739535,
+            54.076548
+          ],
+          [
+            -4.739119,
+            54.076734
+          ],
+          [
+            -4.738754,
+            54.076913
+          ],
+          [
+            -4.738716,
+            54.076931
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Gellings Avenue",
+        "name:en": "Gellings Avenue",
+        "name:gv": "Astyl Gelling",
+        "postal_code": "IM9 5BG",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986960,
       "geometry": {
         "type": "LineString",
@@ -10654,12 +10757,12 @@
             54.157391
           ],
           [
-            -4.482346,
-            54.157647
+            -4.482352,
+            54.15766
           ],
           [
-            -4.482474,
-            54.157845
+            -4.482481,
+            54.157854
           ],
           [
             -4.482761,
@@ -13845,8 +13948,8 @@
             54.158336
           ],
           [
-            -4.481715,
-            54.158471
+            -4.48173,
+            54.158483
           ]
         ]
       },
@@ -14078,6 +14181,104 @@
         "name": "Poplar Road",
         "postal_code": "IM2 4AS",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987879,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.740219,
+            54.076768
+          ],
+          [
+            -4.740183,
+            54.076791
+          ],
+          [
+            -4.739556,
+            54.077059
+          ],
+          [
+            -4.739522,
+            54.077074
+          ],
+          [
+            -4.739172,
+            54.077231
+          ],
+          [
+            -4.739166,
+            54.077234
+          ],
+          [
+            -4.739127,
+            54.077251
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Victoria Road",
+        "name:en": "Victoria Road",
+        "name:gv": "Raad Victoria",
+        "postal_code": "IM9 5AF",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987895,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495509,
+            54.166227
+          ],
+          [
+            -4.495282,
+            54.166035
+          ],
+          [
+            -4.495256,
+            54.165747
+          ],
+          [
+            -4.495256,
+            54.165535
+          ],
+          [
+            -4.495157,
+            54.165193
+          ],
+          [
+            -4.495096,
+            54.164833
+          ],
+          [
+            -4.495044,
+            54.164705
+          ],
+          [
+            -4.494992,
+            54.164607
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "service",
+        "name": "The Falls",
+        "postal_code": "IM4 4PZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -15923,6 +16124,57 @@
     },
     {
       "type": "Feature",
+      "id": 25988261,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.493208,
+            54.168818
+          ],
+          [
+            -4.493104,
+            54.168269
+          ],
+          [
+            -4.493061,
+            54.168172
+          ],
+          [
+            -4.492981,
+            54.168118
+          ],
+          [
+            -4.492839,
+            54.168064
+          ],
+          [
+            -4.492661,
+            54.168031
+          ],
+          [
+            -4.492489,
+            54.168024
+          ],
+          [
+            -4.4925,
+            54.167966
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Eary Veg",
+        "name:gv": "Eary Veg",
+        "postal_code": "IM2 5LZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988268,
       "geometry": {
         "type": "LineString",
@@ -16807,40 +17059,6 @@
     },
     {
       "type": "Feature",
-      "id": 25988523,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.482474,
-            54.157845
-          ],
-          [
-            -4.482118,
-            54.157916
-          ],
-          [
-            -4.481457,
-            54.15805
-          ],
-          [
-            -4.480424,
-            54.158079
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Falcon Street",
-        "oneway": "yes",
-        "postal_code": "IM2 3EZ;IM2 3HA",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25988554,
       "geometry": {
         "type": "LineString",
@@ -17438,16 +17656,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.441625,
-            54.17439
+            -4.441598,
+            54.174412
           ],
           [
-            -4.441541,
-            54.173804
+            -4.441532,
+            54.17381
           ],
           [
-            -4.441461,
-            54.17356
+            -4.441497,
+            54.173602
+          ],
+          [
+            -4.441474,
+            54.173578
+          ],
+          [
+            -4.441405,
+            54.173548
+          ],
+          [
+            -4.441341,
+            54.173538
           ],
           [
             -4.440669,
@@ -22658,6 +22888,44 @@
     },
     {
       "type": "Feature",
+      "id": 26977139,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738731,
+            54.075418
+          ],
+          [
+            -4.738793,
+            54.075067
+          ],
+          [
+            -4.738817,
+            54.074809
+          ],
+          [
+            -4.738836,
+            54.074702
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "The Lhargan",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "The Lhargan",
+        "name:en": "The Lhargan",
+        "name:gv": "Lhargan",
+        "postal_code": "IM9 5AR",
+        "sidewalk:right": "separate",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 28616206,
       "geometry": {
         "type": "LineString",
@@ -27853,16 +28121,16 @@
             54.15377
           ],
           [
-            -4.485693,
-            54.153692
+            -4.485713,
+            54.153685
           ],
           [
-            -4.485622,
-            54.153561
+            -4.485645,
+            54.153572
           ],
           [
-            -4.485341,
-            54.153143
+            -4.485361,
+            54.153132
           ]
         ]
       },
@@ -29504,7 +29772,7 @@
         "coordinates": [
           [
             -4.384126,
-            54.321116
+            54.321117
           ],
           [
             -4.38455,
@@ -29527,8 +29795,12 @@
             54.321449
           ],
           [
+            -4.384087,
+            54.321389
+          ],
+          [
             -4.384126,
-            54.321116
+            54.321117
           ]
         ]
       },
@@ -30093,13 +30365,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
         "addr:country": "IM",
+        "addr:housename": "Aaron House",
+        "addr:postcode": "IM9 5DE",
         "addr:street": "The Promenade",
         "building": "house",
         "name": "Aaron House",
         "postal_code": "IM9 5DE",
         "tourism": "guest_house",
-        "website": "http://www.aaronhouse.co.uk/"
+        "website": "https://www.aaronhouse.im"
       }
     },
     {
@@ -39867,6 +40142,58 @@
     },
     {
       "type": "Feature",
+      "id": 1011282560,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496327,
+            54.165758
+          ],
+          [
+            -4.496239,
+            54.165628
+          ],
+          [
+            -4.496206,
+            54.16549
+          ],
+          [
+            -4.496151,
+            54.165374
+          ],
+          [
+            -4.49604,
+            54.165287
+          ],
+          [
+            -4.495846,
+            54.165211
+          ],
+          [
+            -4.495754,
+            54.165204
+          ],
+          [
+            -4.495455,
+            54.165212
+          ],
+          [
+            -4.495157,
+            54.165193
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "The Falls",
+        "postal_code": "IM4 4PZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1013324821,
       "geometry": {
         "type": "LineString",
@@ -41294,6 +41621,55 @@
         "name:en": "Ditchfield Lane",
         "postal_code": "IM9 6TW",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1191595006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738836,
+            54.074702
+          ],
+          [
+            -4.738867,
+            54.074595
+          ],
+          [
+            -4.738894,
+            54.074461
+          ],
+          [
+            -4.738936,
+            54.074321
+          ],
+          [
+            -4.738896,
+            54.074292
+          ],
+          [
+            -4.738658,
+            54.074264
+          ],
+          [
+            -4.738586,
+            54.074257
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "The Lhargan",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "The Lhargan",
+        "name:en": "The Lhargan",
+        "name:gv": "Lhargan",
+        "postal_code": "IM9 5AR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {

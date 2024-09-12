@@ -8100,6 +8100,79 @@
     },
     {
       "type": "Feature",
+      "id": 12104586950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7395,
+          54.073488
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM9 5HH",
+        "addr:street": "Park Road",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12104586953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.739514,
+          54.073442
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM9 5HH",
+        "addr:street": "Park Road",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12115214920,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.738942,
+          54.074858
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:housename": "Fern Lea",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM9 5AR",
+        "addr:street": "Lhargan",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12115214927,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.738936,
+          54.074901
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:housename": "Penny Acre",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM9 5AR",
+        "addr:street": "Lhargan",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 12134462885,
       "geometry": {
         "type": "Point",
@@ -8198,6 +8271,25 @@
         "addr:housename": "Langdale House",
         "addr:postcode": "IM2 4BQ",
         "addr:street": "Lower Dukes Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173004981,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482646,
+          54.159334
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "42",
+        "addr:postcode": "IM2 3HW",
+        "addr:street": "Murrays Road",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -8401,16 +8493,20 @@
             54.170604
           ],
           [
-            -4.433967,
-            54.170577
+            -4.433999,
+            54.1706
           ],
           [
-            -4.43372,
-            54.170888
+            -4.433757,
+            54.170919
           ],
           [
-            -4.434112,
-            54.171036
+            -4.434232,
+            54.171095
+          ],
+          [
+            -4.434661,
+            54.17127
           ],
           [
             -4.436206,
@@ -8433,16 +8529,16 @@
             54.173522
           ],
           [
-            -4.439527,
-            54.17388
+            -4.439581,
+            54.173879
           ],
           [
-            -4.439393,
-            54.174066
+            -4.439354,
+            54.174287
           ],
           [
-            -4.438926,
-            54.174593
+            -4.439146,
+            54.174521
           ],
           [
             -4.438599,
@@ -21945,7 +22041,7 @@
         "addr:postcode": "IM1 3DX",
         "addr:street": "Demesne Road",
         "landuse": "construction",
-        "name": "Disused Ballacloan Infants School",
+        "old_name": "Ballacloan Infants School",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -22680,6 +22776,111 @@
         "denomination": "jehovahs_witness",
         "name": "Kingdom Hall of Jehovah's Witness",
         "religion": "christian",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61597677,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.501452,
+            54.169468
+          ],
+          [
+            -4.500913,
+            54.16957
+          ],
+          [
+            -4.500862,
+            54.169477
+          ],
+          [
+            -4.500835,
+            54.169428
+          ],
+          [
+            -4.500616,
+            54.169469
+          ],
+          [
+            -4.500517,
+            54.16929
+          ],
+          [
+            -4.500652,
+            54.169264
+          ],
+          [
+            -4.500469,
+            54.168931
+          ],
+          [
+            -4.500298,
+            54.168964
+          ],
+          [
+            -4.500193,
+            54.168775
+          ],
+          [
+            -4.500517,
+            54.168714
+          ],
+          [
+            -4.500531,
+            54.16874
+          ],
+          [
+            -4.500952,
+            54.16866
+          ],
+          [
+            -4.50093,
+            54.168621
+          ],
+          [
+            -4.501251,
+            54.16856
+          ],
+          [
+            -4.501359,
+            54.168755
+          ],
+          [
+            -4.501241,
+            54.168777
+          ],
+          [
+            -4.501435,
+            54.169127
+          ],
+          [
+            -4.501517,
+            54.169112
+          ],
+          [
+            -4.501607,
+            54.169275
+          ],
+          [
+            -4.501371,
+            54.16932
+          ],
+          [
+            -4.501452,
+            54.169468
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:place": "Tromode",
+        "addr:postcode": "IM4 4RA",
+        "building": "yes",
+        "name": "Swagelok",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -30412,6 +30613,62 @@
     },
     {
       "type": "Feature",
+      "id": 79144629,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.495996,
+            54.169466
+          ],
+          [
+            -4.495939,
+            54.169342
+          ],
+          [
+            -4.496173,
+            54.169306
+          ],
+          [
+            -4.496286,
+            54.169551
+          ],
+          [
+            -4.496063,
+            54.169587
+          ],
+          [
+            -4.496044,
+            54.169545
+          ],
+          [
+            -4.495985,
+            54.169554
+          ],
+          [
+            -4.495948,
+            54.169474
+          ],
+          [
+            -4.495996,
+            54.169466
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Tromode",
+        "addr:housename": "Tromode Works",
+        "addr:place": "Cronkbourne Village",
+        "addr:postcode": "IM4 4QE",
+        "building": "yes",
+        "disused:shop": "electrical",
+        "old_name": "Pascoes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79144633,
       "geometry": {
         "type": "LineString",
@@ -33581,6 +33838,98 @@
         "social_facility": "nursing_home",
         "social_facility:for": "senior",
         "source": "Isle of Man Government aerial imagery (2001);streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82563984,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480619,
+            54.158448
+          ],
+          [
+            -4.480731,
+            54.15835
+          ],
+          [
+            -4.481058,
+            54.158479
+          ],
+          [
+            -4.481413,
+            54.158608
+          ],
+          [
+            -4.481327,
+            54.158699
+          ],
+          [
+            -4.480951,
+            54.158573
+          ],
+          [
+            -4.480619,
+            54.158448
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 3HR",
+        "addr:street": "Murrays Road",
+        "addr:substreet": "Glen Falcon Terrace",
+        "building": "terrace",
+        "name": "Glen Falcon Terrace",
+        "name:en": "Glen Falcon Terrace",
+        "name:gv": "Stane Glione Shirragh",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82563991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481486,
+            54.158627
+          ],
+          [
+            -4.481849,
+            54.158736
+          ],
+          [
+            -4.481765,
+            54.158831
+          ],
+          [
+            -4.481403,
+            54.158723
+          ],
+          [
+            -4.481486,
+            54.158627
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 3HR",
+        "addr:street": "Murrays Road",
+        "addr:substreet": "Glen Falcon Terrace",
+        "building": "terrace",
+        "name": "Glen Falcon Terrace",
+        "name:en": "Glen Falcon Terrace",
+        "name:gv": "Stane Glione Shirragh",
+        "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -48395,6 +48744,57 @@
     },
     {
       "type": "Feature",
+      "id": 101784691,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738573,
+            54.073155
+          ],
+          [
+            -4.738582,
+            54.073205
+          ],
+          [
+            -4.738741,
+            54.073196
+          ],
+          [
+            -4.738836,
+            54.073191
+          ],
+          [
+            -4.73883,
+            54.073154
+          ],
+          [
+            -4.738738,
+            54.073159
+          ],
+          [
+            -4.738736,
+            54.073147
+          ],
+          [
+            -4.738573,
+            54.073155
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Stronsay",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM9 5DP",
+        "addr:street": "High Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101784693,
       "geometry": {
         "type": "LineString",
@@ -48614,6 +49014,61 @@
     },
     {
       "type": "Feature",
+      "id": 101784737,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738597,
+            54.073297
+          ],
+          [
+            -4.738609,
+            54.073378
+          ],
+          [
+            -4.738778,
+            54.07337
+          ],
+          [
+            -4.738984,
+            54.07336
+          ],
+          [
+            -4.738983,
+            54.073341
+          ],
+          [
+            -4.738979,
+            54.073316
+          ],
+          [
+            -4.738763,
+            54.073327
+          ],
+          [
+            -4.738756,
+            54.073288
+          ],
+          [
+            -4.738597,
+            54.073297
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "The Old Bakery",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM9 5DP",
+        "addr:street": "High Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101784744,
       "geometry": {
         "type": "LineString",
@@ -48677,6 +49132,44 @@
         "opening_hours": "Mo-Fr 08:30-16:00",
         "shop": "printer",
         "website": "https://manxprint.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101784747,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738558,
+            54.073026
+          ],
+          [
+            -4.738565,
+            54.073074
+          ],
+          [
+            -4.73873,
+            54.073071
+          ],
+          [
+            -4.738729,
+            54.073023
+          ],
+          [
+            -4.738558,
+            54.073026
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM9 5DP",
+        "addr:street": "High Street",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -48746,6 +49239,95 @@
         "addr:postcode": "IM9 5EU",
         "addr:street": "Queens Road",
         "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101790082,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738518,
+            54.074001
+          ],
+          [
+            -4.738388,
+            54.074005
+          ],
+          [
+            -4.738382,
+            54.073934
+          ],
+          [
+            -4.738513,
+            54.073931
+          ],
+          [
+            -4.738518,
+            54.074001
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Boolavur",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM9 5DW",
+        "addr:street": "High Street",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101790084,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738447,
+            54.073221
+          ],
+          [
+            -4.738437,
+            54.073169
+          ],
+          [
+            -4.738348,
+            54.073175
+          ],
+          [
+            -4.738281,
+            54.073179
+          ],
+          [
+            -4.73829,
+            54.073232
+          ],
+          [
+            -4.738361,
+            54.073228
+          ],
+          [
+            -4.738373,
+            54.073227
+          ],
+          [
+            -4.738447,
+            54.073221
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM9 5DR",
+        "addr:street": "High Street",
+        "building": "yes",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -48854,6 +49436,105 @@
     },
     {
       "type": "Feature",
+      "id": 101790110,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739208,
+            54.072855
+          ],
+          [
+            -4.739222,
+            54.0728
+          ],
+          [
+            -4.739362,
+            54.072817
+          ],
+          [
+            -4.739346,
+            54.072872
+          ],
+          [
+            -4.739208,
+            54.072855
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "The Cabin",
+        "addr:postcode": "IM9 5HQ",
+        "addr:street": "Park Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101790113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738502,
+            54.073559
+          ],
+          [
+            -4.738499,
+            54.073503
+          ],
+          [
+            -4.738366,
+            54.073504
+          ],
+          [
+            -4.738367,
+            54.073516
+          ],
+          [
+            -4.738294,
+            54.073517
+          ],
+          [
+            -4.738247,
+            54.073535
+          ],
+          [
+            -4.738248,
+            54.073569
+          ],
+          [
+            -4.73828,
+            54.073583
+          ],
+          [
+            -4.738371,
+            54.073582
+          ],
+          [
+            -4.738369,
+            54.07356
+          ],
+          [
+            -4.738502,
+            54.073559
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM9 5DW",
+        "addr:street": "High Street",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101790121,
       "geometry": {
         "type": "LineString",
@@ -48889,6 +49570,43 @@
         "addr:street": "High Street",
         "building": "house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101790123,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739219,
+            54.07277
+          ],
+          [
+            -4.739228,
+            54.072707
+          ],
+          [
+            -4.73937,
+            54.072705
+          ],
+          [
+            -4.739354,
+            54.072782
+          ],
+          [
+            -4.739219,
+            54.07277
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Beauval",
+        "addr:postcode": "IM9 5HF",
+        "addr:street": "Fistard Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:street": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -49084,6 +49802,91 @@
     },
     {
       "type": "Feature",
+      "id": 101799684,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.737088,
+            54.078833
+          ],
+          [
+            -4.737091,
+            54.078819
+          ],
+          [
+            -4.737116,
+            54.078808
+          ],
+          [
+            -4.737144,
+            54.078809
+          ],
+          [
+            -4.737174,
+            54.078797
+          ],
+          [
+            -4.737176,
+            54.078782
+          ],
+          [
+            -4.737201,
+            54.078772
+          ],
+          [
+            -4.737229,
+            54.078773
+          ],
+          [
+            -4.737312,
+            54.07884
+          ],
+          [
+            -4.737328,
+            54.078854
+          ],
+          [
+            -4.737308,
+            54.078862
+          ],
+          [
+            -4.737426,
+            54.078959
+          ],
+          [
+            -4.737333,
+            54.078998
+          ],
+          [
+            -4.737215,
+            54.078902
+          ],
+          [
+            -4.737187,
+            54.078913
+          ],
+          [
+            -4.737088,
+            54.078833
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Aaron House",
+        "addr:postcode": "IM9 5DE",
+        "addr:street": "The Promenade",
+        "building": "house",
+        "name": "Aaron House",
+        "postal_code": "IM9 5DE",
+        "tourism": "guest_house",
+        "website": "https://www.aaronhouse.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101812236,
       "geometry": {
         "type": "LineString",
@@ -49227,6 +50030,8 @@
         "building": "yes",
         "name": "Co-op Food",
         "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
         "shop": "convenience",
         "website": "https://www.coop.co.uk/store-finder/IM9-5AH/bay-view-road"
       }
@@ -49535,6 +50340,53 @@
         "name": "Corner House Coffee",
         "outdoor_seating": "yes",
         "source:addr": "Isle of Man Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101812305,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739049,
+            54.07653
+          ],
+          [
+            -4.739327,
+            54.076397
+          ],
+          [
+            -4.739373,
+            54.076375
+          ],
+          [
+            -4.739518,
+            54.076479
+          ],
+          [
+            -4.739472,
+            54.076501
+          ],
+          [
+            -4.739194,
+            54.076634
+          ],
+          [
+            -4.739049,
+            54.07653
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:flats": "1-15",
+        "addr:housename": "Chapel Court",
+        "addr:postcode": "IM9 5BG",
+        "addr:street": "Gellings Avenue",
+        "building": "residential",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -51241,6 +52093,199 @@
     },
     {
       "type": "Feature",
+      "id": 101954576,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738892,
+            54.074699
+          ],
+          [
+            -4.738886,
+            54.074787
+          ],
+          [
+            -4.739016,
+            54.07479
+          ],
+          [
+            -4.739029,
+            54.07479
+          ],
+          [
+            -4.739034,
+            54.074702
+          ],
+          [
+            -4.738892,
+            54.074699
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "The Lobster Pot",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM9 5AR",
+        "addr:street": "Lhargan",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101954685,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.74272,
+            54.076944
+          ],
+          [
+            -4.742877,
+            54.077002
+          ],
+          [
+            -4.742762,
+            54.07711
+          ],
+          [
+            -4.742605,
+            54.077053
+          ],
+          [
+            -4.74272,
+            54.076944
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:country": "IM",
+        "addr:housename": "Plantation House",
+        "addr:postcode": "IM9 5AT",
+        "addr:street": "Cronk Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101954693,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739938,
+            54.071768
+          ],
+          [
+            -4.739795,
+            54.071731
+          ],
+          [
+            -4.739829,
+            54.071685
+          ],
+          [
+            -4.739973,
+            54.071721
+          ],
+          [
+            -4.739938,
+            54.071768
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Bryn Lodge",
+        "addr:postcode": "IM9 5HF",
+        "addr:street": "Fistard Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:street": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101954699,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739578,
+            54.071753
+          ],
+          [
+            -4.739662,
+            54.071695
+          ],
+          [
+            -4.739735,
+            54.071732
+          ],
+          [
+            -4.739651,
+            54.07179
+          ],
+          [
+            -4.739578,
+            54.071753
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Loen",
+        "addr:postcode": "IM9 5HF",
+        "addr:street": "Fistard Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:street": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101954748,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739034,
+            54.074702
+          ],
+          [
+            -4.738892,
+            54.074699
+          ],
+          [
+            -4.738896,
+            54.074624
+          ],
+          [
+            -4.739039,
+            54.074627
+          ],
+          [
+            -4.739034,
+            54.074702
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM9 5AR",
+        "addr:street": "Lhargan",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101954778,
       "geometry": {
         "type": "LineString",
@@ -51288,6 +52333,66 @@
         "addr:country": "IM",
         "addr:housename": "Fairway",
         "addr:postcode": "IM9 5EU",
+        "addr:street": "Queens Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 101954803,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739402,
+            54.071864
+          ],
+          [
+            -4.73921,
+            54.071817
+          ],
+          [
+            -4.739296,
+            54.071696
+          ],
+          [
+            -4.739335,
+            54.071706
+          ],
+          [
+            -4.739345,
+            54.071691
+          ],
+          [
+            -4.739324,
+            54.071685
+          ],
+          [
+            -4.739353,
+            54.071644
+          ],
+          [
+            -4.739429,
+            54.071662
+          ],
+          [
+            -4.7394,
+            54.071703
+          ],
+          [
+            -4.739499,
+            54.071727
+          ],
+          [
+            -4.739402,
+            54.071864
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "The Old Farmhouse",
+        "addr:postcode": "IM9 5EZ",
         "addr:street": "Queens Road",
         "building": "house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
@@ -51670,6 +52775,59 @@
         "addr:street": "Glen Chass Road",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102227007,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.749935,
+            54.069902
+          ],
+          [
+            -4.749788,
+            54.069868
+          ],
+          [
+            -4.749904,
+            54.069693
+          ],
+          [
+            -4.75006,
+            54.069729
+          ],
+          [
+            -4.750049,
+            54.069744
+          ],
+          [
+            -4.750155,
+            54.069768
+          ],
+          [
+            -4.750099,
+            54.069852
+          ],
+          [
+            -4.749985,
+            54.069826
+          ],
+          [
+            -4.749935,
+            54.069902
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Elysian",
+        "addr:place": "Glen Chass",
+        "addr:postcode": "IM9 5PH",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -52489,6 +53647,7 @@
         "amenity": "pub",
         "building": "house",
         "description": "Free house",
+        "loc_name": "The Commie",
         "name": "The Commercial",
         "old_name": "Mermaid Inn;Ellan Vannin",
         "source": "survey",
@@ -52793,12 +53952,10 @@
         "addr:city": "Ramsey",
         "addr:postcode": "IM8 1JY",
         "addr:street": "Market Place",
-        "amenity": "pub",
         "building": "yes",
-        "name": "The Royal George",
+        "old_name": "The Royal George",
         "source": "survey",
-        "website": "https://pubsandbars.im/venue/the-royal-george/",
-        "wheelchair": "no"
+        "was:amenity": "pub"
       }
     },
     {
@@ -55042,7 +56199,7 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.38431,
+            -4.384331,
             54.321769
           ],
           [
@@ -55142,7 +56299,7 @@
             54.321775
           ],
           [
-            -4.38431,
+            -4.384331,
             54.321769
           ]
         ]
@@ -85612,6 +86769,44 @@
         "source": "survey;Bing",
         "website": "http://www.palatinegrouppractice.im/",
         "wheelchair": "designated"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232550504,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49606,
+            54.168366
+          ],
+          [
+            -4.495815,
+            54.168227
+          ],
+          [
+            -4.496036,
+            54.168093
+          ],
+          [
+            -4.496281,
+            54.168232
+          ],
+          [
+            -4.49606,
+            54.168366
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Thie Awin",
+        "addr:place": "Cronkbourne Village",
+        "addr:postcode": "IM4 4QH",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -137374,48 +138569,56 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.437553,
-            54.172133
+            -4.43756,
+            54.172132
           ],
           [
-            -4.437471,
-            54.172112
+            -4.437476,
+            54.172111
           ],
           [
-            -4.437482,
-            54.172097
+            -4.437487,
+            54.172096
           ],
           [
             -4.437235,
-            54.172035
+            54.172034
           ],
           [
-            -4.437174,
+            -4.437173,
             54.172119
           ],
           [
-            -4.437424,
+            -4.437428,
             54.172182
           ],
           [
-            -4.437401,
-            54.172213
+            -4.437405,
+            54.172212
           ],
           [
-            -4.437464,
+            -4.437471,
             54.172229
           ],
           [
-            -4.437481,
-            54.172206
+            -4.437466,
+            54.172236
           ],
           [
-            -4.437497,
-            54.17221
+            -4.437533,
+            54.172253
           ],
           [
-            -4.437553,
-            54.172133
+            -4.437557,
+            54.172221
+          ],
+          [
+            -4.437505,
+            54.172208
+          ],
+          [
+            -4.43756,
+            54.172132
           ]
         ]
       },
@@ -144537,6 +145740,127 @@
     },
     {
       "type": "Feature",
+      "id": 1304426308,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482038,
+            54.157874
+          ],
+          [
+            -4.481988,
+            54.157796
+          ],
+          [
+            -4.481901,
+            54.157815
+          ],
+          [
+            -4.481951,
+            54.157893
+          ],
+          [
+            -4.482038,
+            54.157874
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM2 3EZ",
+        "addr:street": "Falcon Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426337,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481274,
+            54.158008
+          ],
+          [
+            -4.481211,
+            54.158009
+          ],
+          [
+            -4.481205,
+            54.157896
+          ],
+          [
+            -4.481267,
+            54.157894
+          ],
+          [
+            -4.481269,
+            54.157914
+          ],
+          [
+            -4.481274,
+            54.158008
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 3EZ",
+        "addr:street": "Falcon Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426340,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481018,
+            54.158012
+          ],
+          [
+            -4.480923,
+            54.158014
+          ],
+          [
+            -4.480917,
+            54.157901
+          ],
+          [
+            -4.481013,
+            54.1579
+          ],
+          [
+            -4.481018,
+            54.158012
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 3EZ",
+        "addr:street": "Falcon Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1304642224,
       "geometry": {
         "type": "LineString",
@@ -145329,6 +146653,88 @@
         "contact:website": "https://handhmotorcycles.im/",
         "name": "H&H Motorcycles",
         "shop": "motorcycle;motorcycle_repair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307694595,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.73866,
+            54.075307
+          ],
+          [
+            -4.738615,
+            54.075358
+          ],
+          [
+            -4.738471,
+            54.075314
+          ],
+          [
+            -4.738517,
+            54.075263
+          ],
+          [
+            -4.73862,
+            54.075294
+          ],
+          [
+            -4.73866,
+            54.075307
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Shore View",
+        "addr:postcode": "IM9 5AR",
+        "addr:street": "Lhargan",
+        "building": "semidetached_house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1307694596,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.73862,
+            54.075294
+          ],
+          [
+            -4.738667,
+            54.075243
+          ],
+          [
+            -4.738546,
+            54.075204
+          ],
+          [
+            -4.738498,
+            54.075257
+          ],
+          [
+            -4.738517,
+            54.075263
+          ],
+          [
+            -4.73862,
+            54.075294
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:housename": "Port Verk",
+        "addr:postcode": "IM9 5AR",
+        "addr:street": "Lhargan",
+        "building": "semidetached_house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -146429,6 +147835,45 @@
         "building": "yes",
         "source:addr:housename": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1315206357,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481072,
+            54.158211
+          ],
+          [
+            -4.480982,
+            54.158213
+          ],
+          [
+            -4.480975,
+            54.158126
+          ],
+          [
+            -4.481065,
+            54.158124
+          ],
+          [
+            -4.481072,
+            54.158211
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3HA",
+        "addr:street": "Falcon Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
       }
     }
   ]
