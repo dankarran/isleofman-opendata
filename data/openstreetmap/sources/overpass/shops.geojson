@@ -3362,6 +3362,86 @@
     },
     {
       "type": "Feature",
+      "id": 12173895190,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488001,
+          54.157269
+        ]
+      },
+      "properties": {
+        "shop": "vacant"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173929083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488272,
+          54.157126
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 3LH",
+        "addr:street": "Brunswick Road",
+        "beauty": "nails",
+        "name": "Harvey's Nails",
+        "shop": "beauty",
+        "source": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173929085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488124,
+          54.157418
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3LQ",
+        "addr:street": "Brunswick Road",
+        "name": "Champs",
+        "shop": "hairdresser",
+        "source": "mapillary",
+        "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175084935,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485295,
+          54.148156
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:street": "Peel Road",
+        "addr:substreet": "Railway Shops",
+        "contact:facebook": "https://www.facebook.com/farrellsbarbers",
+        "hairdresser": "barber",
+        "name": "Farrell's",
+        "shop": "hairdresser",
+        "source": "mapillary",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -3395,12 +3475,16 @@
             54.150651
           ],
           [
-            -4.479541,
-            54.150658
+            -4.479587,
+            54.150654
           ],
           [
-            -4.479539,
-            54.150637
+            -4.479532,
+            54.150655
+          ],
+          [
+            -4.479531,
+            54.150634
           ],
           [
             -4.479385,
@@ -5527,11 +5611,11 @@
           ],
           [
             -4.479459,
-            54.151081
+            54.151078
           ],
           [
-            -4.47962,
-            54.151074
+            -4.479619,
+            54.151069
           ],
           [
             -4.479637,
@@ -5597,7 +5681,7 @@
           ],
           [
             -4.479459,
-            54.151081
+            54.151078
           ],
           [
             -4.479468,
@@ -20257,7 +20341,7 @@
             54.150928
           ],
           [
-            -4.479622,
+            -4.47962,
             54.15086
           ],
           [
@@ -20295,6 +20379,10 @@
             54.150648
           ],
           [
+            -4.479229,
+            54.150641
+          ],
+          [
             -4.479385,
             54.150637
           ],
@@ -20325,6 +20413,60 @@
         "shop": "mobile_phone",
         "source": "Bing;photograph",
         "website": "https://www.manxtelecom.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419070466,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479047,
+            54.150954
+          ],
+          [
+            -4.479059,
+            54.151033
+          ],
+          [
+            -4.479612,
+            54.151009
+          ],
+          [
+            -4.479606,
+            54.150957
+          ],
+          [
+            -4.479536,
+            54.15096
+          ],
+          [
+            -4.479532,
+            54.150933
+          ],
+          [
+            -4.479047,
+            54.150954
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM1 2EF",
+        "addr:street": "Strand Street",
+        "brand": "Regatta",
+        "brand:wikidata": "Q9305279",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "Regatta",
+        "old_name": "Mountain Warehouse",
+        "shop": "outdoor",
+        "source": "Bing;photograph"
       }
     },
     {
@@ -20393,11 +20535,11 @@
           ],
           [
             -4.479459,
-            54.151081
+            54.151078
           ],
           [
-            -4.47962,
-            54.151074
+            -4.479619,
+            54.151069
           ],
           [
             -4.479612,
@@ -20412,7 +20554,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "27/31",
+        "addr:housenumber": "27-31",
         "addr:postcode": "IM1 2EF",
         "addr:street": "Strand Street",
         "brand": "Superdrug",
@@ -20421,7 +20563,6 @@
         "building": "retail",
         "building:levels": "3",
         "building:material": "timber_framing",
-        "fixme": "check if this is in the right unit... 33 missing between here and Sure?",
         "name": "Superdrug",
         "shop": "chemist",
         "source": "Bing;photograph",
@@ -20549,24 +20690,28 @@
             54.150885
           ],
           [
-            -4.479622,
+            -4.47962,
             54.15086
           ],
           [
-            -4.479667,
-            54.150856
+            -4.479615,
+            54.150827
+          ],
+          [
+            -4.479647,
+            54.150804
           ],
           [
             -4.479638,
-            54.150748
+            54.150752
           ],
           [
-            -4.479582,
-            54.150753
+            -4.479602,
+            54.150754
           ],
           [
-            -4.479557,
-            54.150755
+            -4.479549,
+            54.150758
           ],
           [
             -4.479015,

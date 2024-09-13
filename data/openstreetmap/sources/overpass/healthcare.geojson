@@ -592,6 +592,26 @@
     },
     {
       "type": "Feature",
+      "id": 12173926512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487002,
+          54.158121
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "65",
+        "addr:street": "Woodbourne Road",
+        "amenity": "dentist",
+        "healthcare": "dentist",
+        "name": "65 Woodbourne Dental Surgery",
+        "source:addr:housenumber": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60048718,
       "geometry": {
         "type": "LineString",

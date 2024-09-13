@@ -10216,6 +10216,205 @@
     },
     {
       "type": "Feature",
+      "id": 12173895192,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486863,
+          54.157303
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 3QB",
+        "addr:street": "Berkeley Street",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12173895192,
+        "lon": -4.486863,
+        "lat": 54.157303,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173895192"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173895193,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487162,
+          54.157478
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 3QA",
+        "addr:street": "Berkeley Street",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12173895193,
+        "lon": -4.487162,
+        "lat": 54.157478,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173895193"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173895194,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487746,
+          54.157332
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM2 3QA",
+        "addr:street": "Berkeley Street",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12173895194,
+        "lon": -4.487746,
+        "lat": 54.157332,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173895194"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173895195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487349,
+          54.157184
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM2 3QB",
+        "addr:street": "Berkeley Street",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12173895195,
+        "lon": -4.487349,
+        "lat": 54.157184,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173895195"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173926513,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487464,
+          54.158586
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Cleveland Lodge",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3AJ",
+        "addr:street": "Albany Road",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12173926513,
+        "lon": -4.487464,
+        "lat": 54.158586,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173926513"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173929083,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488272,
+          54.157126
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 3LH",
+        "addr:street": "Brunswick Road",
+        "beauty": "nails",
+        "name": "Harvey's Nails",
+        "shop": "beauty",
+        "source": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "osm_id": 12173929083,
+        "lon": -4.488272,
+        "lat": 54.157126,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173929083"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173929085,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.488124,
+          54.157418
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3LQ",
+        "addr:street": "Brunswick Road",
+        "name": "Champs",
+        "shop": "hairdresser",
+        "source": "mapillary",
+        "source:addr": "Isle of Man Government Planning Applications",
+        "osm_id": 12173929085,
+        "lon": -4.488124,
+        "lat": 54.157418,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173929085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12173929086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48856,
+          54.157911
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM2 3LQ",
+        "addr:street": "Brunswick Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12173929086,
+        "lon": -4.48856,
+        "lat": 54.157911,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12173929086"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -10532,12 +10731,16 @@
             54.150651
           ],
           [
-            -4.479541,
-            54.150658
+            -4.479587,
+            54.150654
           ],
           [
-            -4.479539,
-            54.150637
+            -4.479532,
+            54.150655
+          ],
+          [
+            -4.479531,
+            54.150634
           ],
           [
             -4.479385,
@@ -10649,8 +10852,8 @@
         "toilets:wheelchair": "yes",
         "wheelchair": "yes",
         "osm_id": 36993018,
-        "lon": -4.479419123242794,
-        "lat": 54.150110331206996,
+        "lon": -4.479419107113592,
+        "lat": 54.150110268755384,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/36993018"
       }
@@ -26488,11 +26691,11 @@
           ],
           [
             -4.479459,
-            54.151081
+            54.151078
           ],
           [
-            -4.47962,
-            54.151074
+            -4.479619,
+            54.151069
           ],
           [
             -4.479637,
@@ -26541,8 +26744,8 @@
         "source": "Bing;photograph",
         "website": "https://www.tkmaxx.com/uk/en/store/316",
         "osm_id": 62091772,
-        "lon": -4.479486458457821,
-        "lat": 54.15122176896701,
+        "lon": -4.479486362425459,
+        "lat": 54.15122130955731,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62091772"
       }
@@ -109824,6 +110027,10 @@
             54.150648
           ],
           [
+            -4.479229,
+            54.150641
+          ],
+          [
             -4.479385,
             54.150637
           ],
@@ -109855,10 +110062,69 @@
         "source": "Bing;photograph",
         "website": "https://www.manxtelecom.com/",
         "osm_id": 419070463,
-        "lon": -4.4791669305770005,
-        "lat": 54.15060037691097,
+        "lon": -4.4791669302753405,
+        "lat": 54.150600365273576,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419070463"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419070466,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479047,
+            54.150954
+          ],
+          [
+            -4.479059,
+            54.151033
+          ],
+          [
+            -4.479612,
+            54.151009
+          ],
+          [
+            -4.479606,
+            54.150957
+          ],
+          [
+            -4.479536,
+            54.15096
+          ],
+          [
+            -4.479532,
+            54.150933
+          ],
+          [
+            -4.479047,
+            54.150954
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM1 2EF",
+        "addr:street": "Strand Street",
+        "brand": "Regatta",
+        "brand:wikidata": "Q9305279",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "Regatta",
+        "old_name": "Mountain Warehouse",
+        "shop": "outdoor",
+        "source": "Bing;photograph",
+        "osm_id": 419070466,
+        "lon": -4.479328665680771,
+        "lat": 54.15098298779405,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419070466"
       }
     },
     {
@@ -109932,11 +110198,11 @@
           ],
           [
             -4.479459,
-            54.151081
+            54.151078
           ],
           [
-            -4.47962,
-            54.151074
+            -4.479619,
+            54.151069
           ],
           [
             -4.479612,
@@ -109951,7 +110217,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "27/31",
+        "addr:housenumber": "27-31",
         "addr:postcode": "IM1 2EF",
         "addr:street": "Strand Street",
         "brand": "Superdrug",
@@ -109960,14 +110226,13 @@
         "building": "retail",
         "building:levels": "3",
         "building:material": "timber_framing",
-        "fixme": "check if this is in the right unit... 33 missing between here and Sure?",
         "name": "Superdrug",
         "shop": "chemist",
         "source": "Bing;photograph",
         "website": "https://www.superdrug.com/store/douglas-iom",
         "osm_id": 419070471,
-        "lon": -4.479339270256651,
-        "lat": 54.15105386735877,
+        "lon": -4.479337884632199,
+        "lat": 54.15105278735026,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419070471"
       }
@@ -110055,24 +110320,28 @@
             54.150885
           ],
           [
-            -4.479622,
+            -4.47962,
             54.15086
           ],
           [
-            -4.479667,
-            54.150856
+            -4.479615,
+            54.150827
+          ],
+          [
+            -4.479647,
+            54.150804
           ],
           [
             -4.479638,
-            54.150748
+            54.150752
           ],
           [
-            -4.479582,
-            54.150753
+            -4.479602,
+            54.150754
           ],
           [
-            -4.479557,
-            54.150755
+            -4.479549,
+            54.150758
           ],
           [
             -4.479015,
@@ -110099,8 +110368,8 @@
         "source": "Bing;photograph",
         "website": "https://www.waterstones.com/bookshops/douglas",
         "osm_id": 419070482,
-        "lon": -4.479343006827012,
-        "lat": 54.15082067911495,
+        "lon": -4.479334261233736,
+        "lat": 54.15082035484025,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419070482"
       }
@@ -138095,6 +138364,292 @@
     },
     {
       "type": "Feature",
+      "id": 1139610355,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4877,
+            54.149068
+          ],
+          [
+            -4.487549,
+            54.149197
+          ],
+          [
+            -4.487453,
+            54.149178
+          ],
+          [
+            -4.487592,
+            54.149049
+          ],
+          [
+            -4.487613,
+            54.149032
+          ],
+          [
+            -4.4877,
+            54.149068
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM1 4LY",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610355,
+        "lon": -4.4875767283223045,
+        "lat": 54.14911854562272,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610355"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610356,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487592,
+            54.149049
+          ],
+          [
+            -4.487507,
+            54.149014
+          ],
+          [
+            -4.487425,
+            54.149092
+          ],
+          [
+            -4.487456,
+            54.149105
+          ],
+          [
+            -4.487388,
+            54.149165
+          ],
+          [
+            -4.487453,
+            54.149178
+          ],
+          [
+            -4.487592,
+            54.149049
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM1 4LY",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610356,
+        "lon": -4.487483984372516,
+        "lat": 54.149097962381255,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610356"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610357,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487507,
+            54.149014
+          ],
+          [
+            -4.487431,
+            54.148981
+          ],
+          [
+            -4.487253,
+            54.14914
+          ],
+          [
+            -4.487353,
+            54.149159
+          ],
+          [
+            -4.487425,
+            54.149092
+          ],
+          [
+            -4.487507,
+            54.149014
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM1 4LY",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610357,
+        "lon": -4.487381708726742,
+        "lat": 54.149075280673244,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610357"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610361,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487402,
+            54.148658
+          ],
+          [
+            -4.487311,
+            54.14873
+          ],
+          [
+            -4.487224,
+            54.148691
+          ],
+          [
+            -4.487316,
+            54.14862
+          ],
+          [
+            -4.487402,
+            54.148658
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "41",
+        "addr:postcode": "IM1 4LU",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610361,
+        "lon": -4.487313089073066,
+        "lat": 54.148674854082216,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610361"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610363,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487139,
+            54.148654
+          ],
+          [
+            -4.487066,
+            54.148626
+          ],
+          [
+            -4.487149,
+            54.148555
+          ],
+          [
+            -4.487175,
+            54.148565
+          ],
+          [
+            -4.487253,
+            54.1485
+          ],
+          [
+            -4.487298,
+            54.148519
+          ],
+          [
+            -4.487227,
+            54.148579
+          ],
+          [
+            -4.487139,
+            54.148654
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM1 4LU",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610363,
+        "lon": -4.48718287903443,
+        "lat": 54.148577131742265,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610363"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610368,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486735,
+            54.148498
+          ],
+          [
+            -4.486652,
+            54.14847
+          ],
+          [
+            -4.486728,
+            54.148393
+          ],
+          [
+            -4.486813,
+            54.148428
+          ],
+          [
+            -4.486735,
+            54.148498
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM1 4LU",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "visible on streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610368,
+        "lon": -4.486732062325422,
+        "lat": 54.14844670893137,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610368"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1139610371,
       "geometry": {
         "type": "LineString",
@@ -138135,6 +138690,221 @@
         "lat": 54.148605052620724,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1139610371"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610386,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48573,
+            54.148519
+          ],
+          [
+            -4.485621,
+            54.148494
+          ],
+          [
+            -4.48567,
+            54.148417
+          ],
+          [
+            -4.485783,
+            54.14844
+          ],
+          [
+            -4.48573,
+            54.148519
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610386,
+        "lon": -4.4857017333832845,
+        "lat": 54.1484672832644,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610386"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610387,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485621,
+            54.148494
+          ],
+          [
+            -4.485538,
+            54.148477
+          ],
+          [
+            -4.485589,
+            54.148398
+          ],
+          [
+            -4.48567,
+            54.148417
+          ],
+          [
+            -4.485621,
+            54.148494
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610387,
+        "lon": -4.485604071377316,
+        "lat": 54.14844659792307,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610387"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610388,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485538,
+            54.148477
+          ],
+          [
+            -4.48544,
+            54.148454
+          ],
+          [
+            -4.485494,
+            54.148376
+          ],
+          [
+            -4.485589,
+            54.148398
+          ],
+          [
+            -4.485538,
+            54.148477
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610388,
+        "lon": -4.485514932206227,
+        "lat": 54.14842654497175,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610388"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610389,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48544,
+            54.148454
+          ],
+          [
+            -4.485346,
+            54.148431
+          ],
+          [
+            -4.485399,
+            54.148354
+          ],
+          [
+            -4.485494,
+            54.148376
+          ],
+          [
+            -4.48544,
+            54.148454
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610389,
+        "lon": -4.485419973592832,
+        "lat": 54.14840371583938,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610389"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610391,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485269,
+            54.148412
+          ],
+          [
+            -4.485193,
+            54.148393
+          ],
+          [
+            -4.48525,
+            54.148316
+          ],
+          [
+            -4.485325,
+            54.148335
+          ],
+          [
+            -4.485269,
+            54.148412
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1139610391,
+        "lon": -4.485259106575703,
+        "lat": 54.148364091473674,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610391"
       }
     },
     {
@@ -161842,6 +162612,67 @@
     },
     {
       "type": "Feature",
+      "id": 1304714411,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49039,
+            54.159311
+          ],
+          [
+            -4.490322,
+            54.159228
+          ],
+          [
+            -4.490433,
+            54.159197
+          ],
+          [
+            -4.490416,
+            54.159176
+          ],
+          [
+            -4.490481,
+            54.159158
+          ],
+          [
+            -4.490542,
+            54.159231
+          ],
+          [
+            -4.490519,
+            54.159238
+          ],
+          [
+            -4.490541,
+            54.159265
+          ],
+          [
+            -4.49039,
+            54.159311
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Kenwood",
+        "addr:housenumber": "51",
+        "addr:postcode": "IM2 3NW",
+        "addr:street": "Brunswick Road",
+        "building": "semidetached_house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1304714411,
+        "lon": -4.4904401206229085,
+        "lat": 54.159235457842655,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304714411"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1307237887,
       "geometry": {
         "type": "LineString",
@@ -163689,6 +164520,95 @@
         "lat": 54.158168499999995,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1315206357"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1315219941,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486705,
+            54.157585
+          ],
+          [
+            -4.486572,
+            54.157618
+          ],
+          [
+            -4.48653,
+            54.157559
+          ],
+          [
+            -4.486663,
+            54.157526
+          ],
+          [
+            -4.486705,
+            54.157585
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Merlin House",
+        "addr:housenumber": "47",
+        "addr:postcode": "IM2 3AF",
+        "addr:street": "Woodbourne Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1315219941,
+        "lon": -4.4866174999999995,
+        "lat": 54.157571999999995,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1315219941"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1315219942,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486896,
+            54.157849
+          ],
+          [
+            -4.486756,
+            54.157881
+          ],
+          [
+            -4.486717,
+            54.157824
+          ],
+          [
+            -4.486859,
+            54.157792
+          ],
+          [
+            -4.486896,
+            54.157849
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "57",
+        "addr:postcode": "IM2 3AF",
+        "addr:street": "Woodbourne Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1315219942,
+        "lon": -4.486806729548241,
+        "lat": 54.15783641122024,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1315219942"
       }
     }
   ]
