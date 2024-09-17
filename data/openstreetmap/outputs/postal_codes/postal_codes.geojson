@@ -198,8 +198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475448,
-          54.148902
+          -4.475548,
+          54.14896
         ]
       },
       "properties": {
@@ -211,8 +211,8 @@
         "postal_code": "IM1 2BT",
         "website": "https://www.lapiazza.co.im/",
         "osm_id": 455952597,
-        "lon": -4.475448,
-        "lat": 54.148902,
+        "lon": -4.475548,
+        "lat": 54.14896,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/455952597"
       }
@@ -4832,32 +4832,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.494443,
-            54.158579
+            -4.494427,
+            54.15859
           ],
           [
             -4.494692,
             54.158456
           ],
           [
-            -4.494979,
-            54.158309
+            -4.494923,
+            54.158341
           ],
           [
-            -4.495006,
-            54.158261
+            -4.494945,
+            54.158326
           ],
           [
-            -4.495007,
-            54.158222
+            -4.494969,
+            54.15831
           ],
           [
-            -4.494952,
-            54.158168
+            -4.494995,
+            54.158254
+          ],
+          [
+            -4.494988,
+            54.158218
+          ],
+          [
+            -4.494937,
+            54.158167
+          ],
+          [
+            -4.494828,
+            54.158081
           ],
           [
             -4.494786,
-            54.158033
+            54.158048
+          ],
+          [
+            -4.494749,
+            54.158
           ],
           [
             -4.494732,
@@ -4866,6 +4882,10 @@
           [
             -4.494738,
             54.157898
+          ],
+          [
+            -4.494759,
+            54.157865
           ],
           [
             -4.494808,
@@ -4884,12 +4904,12 @@
             54.157618
           ],
           [
-            -4.494693,
-            54.157569
+            -4.494649,
+            54.157575
           ],
           [
-            -4.494512,
-            54.157511
+            -4.494527,
+            54.157526
           ],
           [
             -4.494661,
@@ -4912,10 +4932,48 @@
         "postal_code": "IM2 3QS",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25985964,
-        "lon": -4.494739069185601,
-        "lat": 54.15793938099069,
+        "lon": -4.494734330534266,
+        "lat": 54.157948663356024,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25985964"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25985983,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475433,
+            54.177583
+          ],
+          [
+            -4.475444,
+            54.177505
+          ],
+          [
+            -4.475421,
+            54.177453
+          ],
+          [
+            -4.47523,
+            54.177333
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Berry Woods Grove",
+        "postal_code": "IM2 7BX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25985983,
+        "lon": -4.475366987269787,
+        "lat": 54.17743946867316,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25985983"
       }
     },
     {
@@ -12066,6 +12124,67 @@
     },
     {
       "type": "Feature",
+      "id": 25987213,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455171,
+            54.167157
+          ],
+          [
+            -4.455216,
+            54.16721
+          ],
+          [
+            -4.455277,
+            54.167273
+          ],
+          [
+            -4.455402,
+            54.167374
+          ],
+          [
+            -4.455473,
+            54.167466
+          ],
+          [
+            -4.455461,
+            54.167561
+          ],
+          [
+            -4.455229,
+            54.168266
+          ],
+          [
+            -4.455067,
+            54.168724
+          ],
+          [
+            -4.455024,
+            54.16876
+          ],
+          [
+            -4.45465,
+            54.168813
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Bay View Road",
+        "postal_code": "IM3 1HL",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 25987213,
+        "lon": -4.455207201624874,
+        "lat": 54.16807710368572,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987213"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987226,
       "geometry": {
         "type": "LineString",
@@ -12762,16 +12881,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.494512,
-            54.157511
+            -4.494527,
+            54.157526
           ],
           [
-            -4.49433,
-            54.157524
+            -4.49443,
+            54.157525
           ],
           [
-            -4.494207,
-            54.157565
+            -4.494328,
+            54.157536
+          ],
+          [
+            -4.494214,
+            54.157585
           ],
           [
             -4.49367,
@@ -12790,8 +12913,8 @@
             54.157939
           ],
           [
-            -4.493673,
-            54.158028
+            -4.493655,
+            54.158032
           ]
         ]
       },
@@ -12802,8 +12925,8 @@
         "postal_code": "IM2 3QT",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987351,
-        "lon": -4.493942505014021,
-        "lat": 54.15771490035449,
+        "lon": -4.493952577256883,
+        "lat": 54.15771857301394,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987351"
       }
@@ -14194,6 +14317,44 @@
         "lat": 54.17207538585594,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987559"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987560,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476233,
+            54.17698
+          ],
+          [
+            -4.475958,
+            54.177208
+          ],
+          [
+            -4.475754,
+            54.1773
+          ],
+          [
+            -4.475421,
+            54.177453
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Berry Woods Grove",
+        "postal_code": "IM2 7BX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25987560,
+        "lon": -4.475842446931937,
+        "lat": 54.17724105651764,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987560"
       }
     },
     {
@@ -19342,6 +19503,45 @@
     },
     {
       "type": "Feature",
+      "id": 25988496,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474584,
+            54.176817
+          ],
+          [
+            -4.474498,
+            54.176816
+          ],
+          [
+            -4.473909,
+            54.17654
+          ],
+          [
+            -4.473128,
+            54.176271
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Lakeside View",
+        "postal_code": "IM2 7BS",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25988496,
+        "lon": -4.473859945049557,
+        "lat": 54.176541563664166,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988496"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988554,
       "geometry": {
         "type": "LineString",
@@ -19949,6 +20149,37 @@
         "lat": 54.10023676800963,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988621"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988628,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478173,
+            54.175411
+          ],
+          [
+            -4.478057,
+            54.175318
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk-Y-Berry Beg",
+        "postal_code": "IM2 6HA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25988628,
+        "lon": -4.478115,
+        "lat": 54.1753645,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988628"
       }
     },
     {
@@ -21302,6 +21533,41 @@
         "lat": 54.179341593545054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988907"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988925,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478473,
+            54.175116
+          ],
+          [
+            -4.478057,
+            54.175318
+          ],
+          [
+            -4.477873,
+            54.175207
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk-Y-Berry Beg",
+        "postal_code": "IM2 6HA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25988925,
+        "lon": -4.4781698237799565,
+        "lat": 54.17523143506005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988925"
       }
     },
     {
@@ -26059,6 +26325,45 @@
     },
     {
       "type": "Feature",
+      "id": 32792908,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479183,
+            54.174179
+          ],
+          [
+            -4.478619,
+            54.174282
+          ],
+          [
+            -4.478309,
+            54.173733
+          ],
+          [
+            -4.478136,
+            54.173707
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Glen Park Drive",
+        "postal_code": "IM2 6HN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 32792908,
+        "lon": -4.478615075970376,
+        "lat": 54.174063751102814,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/32792908"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38430285,
       "geometry": {
         "type": "LineString",
@@ -27542,237 +27847,6 @@
         "lat": 54.177254809585065,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/58474545"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 59276113,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.472414,
-            54.14822
-          ],
-          [
-            -4.472353,
-            54.148209
-          ],
-          [
-            -4.471385,
-            54.148029
-          ],
-          [
-            -4.471419,
-            54.14797
-          ],
-          [
-            -4.472384,
-            54.148148
-          ],
-          [
-            -4.472604,
-            54.148189
-          ],
-          [
-            -4.472656,
-            54.148192
-          ],
-          [
-            -4.472716,
-            54.14819
-          ],
-          [
-            -4.472875,
-            54.148187
-          ],
-          [
-            -4.473079,
-            54.148183
-          ],
-          [
-            -4.474144,
-            54.148161
-          ],
-          [
-            -4.474593,
-            54.148151
-          ],
-          [
-            -4.474593,
-            54.148169
-          ],
-          [
-            -4.474613,
-            54.148171
-          ],
-          [
-            -4.474618,
-            54.148198
-          ],
-          [
-            -4.47462,
-            54.148269
-          ],
-          [
-            -4.474527,
-            54.148273
-          ],
-          [
-            -4.474434,
-            54.148281
-          ],
-          [
-            -4.474303,
-            54.14831
-          ],
-          [
-            -4.474187,
-            54.148362
-          ],
-          [
-            -4.474109,
-            54.148409
-          ],
-          [
-            -4.474044,
-            54.148514
-          ],
-          [
-            -4.474042,
-            54.148524
-          ],
-          [
-            -4.474038,
-            54.148584
-          ],
-          [
-            -4.474067,
-            54.148678
-          ],
-          [
-            -4.474142,
-            54.148753
-          ],
-          [
-            -4.474181,
-            54.148773
-          ],
-          [
-            -4.474195,
-            54.14878
-          ],
-          [
-            -4.474314,
-            54.148839
-          ],
-          [
-            -4.474277,
-            54.148873
-          ],
-          [
-            -4.474239,
-            54.148907
-          ],
-          [
-            -4.474138,
-            54.148862
-          ],
-          [
-            -4.474095,
-            54.148839
-          ],
-          [
-            -4.474055,
-            54.148812
-          ],
-          [
-            -4.474006,
-            54.148772
-          ],
-          [
-            -4.473977,
-            54.148739
-          ],
-          [
-            -4.473923,
-            54.148679
-          ],
-          [
-            -4.473867,
-            54.148636
-          ],
-          [
-            -4.473825,
-            54.148612
-          ],
-          [
-            -4.47378,
-            54.148593
-          ],
-          [
-            -4.473714,
-            54.148574
-          ],
-          [
-            -4.473651,
-            54.148559
-          ],
-          [
-            -4.473541,
-            54.148552
-          ],
-          [
-            -4.473382,
-            54.148527
-          ],
-          [
-            -4.473278,
-            54.148496
-          ],
-          [
-            -4.473158,
-            54.148445
-          ],
-          [
-            -4.472758,
-            54.148276
-          ],
-          [
-            -4.472544,
-            54.148244
-          ],
-          [
-            -4.472414,
-            54.14822
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Sea Terminal",
-        "addr:housenumber": "8",
-        "addr:street": "Bath Place",
-        "amenity": "ferry_terminal",
-        "building": "yes",
-        "ferry": "yes",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Isle of Man Sea Terminal",
-        "operator": "Department of Infrastructure",
-        "postal_code": "IM1 2RF",
-        "public_transport": "station",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "toilets:wheelchair": "yes",
-        "website": "https://www.steam-packet.com/SteamPacket/Our-Ports/douglas.htm",
-        "wheelchair": "yes",
-        "wikidata": "Q15228877",
-        "osm_id": 59276113,
-        "lon": -4.4731547012901265,
-        "lat": 54.148293605844984,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/59276113"
       }
     },
     {
@@ -36629,6 +36703,37 @@
         "lat": 54.17111593989822,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165129855"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165129857,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478619,
+            54.174282
+          ],
+          [
+            -4.478505,
+            54.174305
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Glen Park Drive",
+        "postal_code": "IM2 6HN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 165129857,
+        "lon": -4.478562,
+        "lat": 54.1742935,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165129857"
       }
     },
     {

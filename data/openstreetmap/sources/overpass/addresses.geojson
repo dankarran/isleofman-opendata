@@ -7782,6 +7782,44 @@
     },
     {
       "type": "Feature",
+      "id": 11935533209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.451812,
+          54.168329
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 1HA",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "visible on streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11935533211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45196,
+          54.168616
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 1EZ",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 11945847081,
       "geometry": {
         "type": "Point",
@@ -8033,6 +8071,103 @@
         "social_facility": "group_home",
         "social_facility:for": "senior",
         "website": "https://www.pearlhealthcare.com/sunnydale"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013419816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.453445,
+          54.16753
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM3 1HB",
+        "addr:street": "Royal Avenue West",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013419817,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.453584,
+          54.16924
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Glenside Apartments",
+        "addr:housenumber": "65",
+        "addr:postcode": "IM3 1HF",
+        "addr:street": "Royal Avenue West",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013419820,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.453242,
+          54.169634
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "77",
+        "addr:postcode": "IM3 1LA",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013419823,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452927,
+          54.170265
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "72",
+        "addr:postcode": "IM3 1LB",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12013419824,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452958,
+          54.170318
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "74",
+        "addr:postcode": "IM3 1LB",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -8450,6 +8585,185 @@
         "addr:postcode": "IM2 3LQ",
         "addr:street": "Brunswick Road",
         "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175344123,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474698,
+          54.172516
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Devonshire House",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM2 6AP",
+        "addr:street": "Second Avenue",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175344124,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.475194,
+          54.171711
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM2 6AZ",
+        "addr:street": "First Avenue",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175344125,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473466,
+          54.16995
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Conister",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175344126,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473158,
+          54.170051
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Broadhurst",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175344127,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.472817,
+          54.170179
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Slaidburn",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "source:addr:housename": "mapillary",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175344128,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.473028,
+          54.170098
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175383756,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452212,
+          54.169146
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM3 1EZ",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175383757,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.453426,
+          54.170341
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "103",
+        "addr:postcode": "IM3 1LA",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12175383758,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452733,
+          54.169882
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "58",
+        "addr:postcode": "IM3 1LB",
+        "addr:street": "Royal Avenue",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -23709,8 +24023,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.47526,
-            54.1489
+            -4.475265,
+            54.148902
           ],
           [
             -4.474989,
@@ -23765,20 +24079,20 @@
             54.148719
           ],
           [
-            -4.475223,
-            54.148727
+            -4.475272,
+            54.148732
           ],
           [
-            -4.475204,
-            54.148776
+            -4.475253,
+            54.148781
           ],
           [
-            -4.475311,
-            54.1488
+            -4.475315,
+            54.148797
           ],
           [
-            -4.47526,
-            54.1489
+            -4.475265,
+            54.148902
           ]
         ]
       },
@@ -23797,54 +24111,71 @@
     },
     {
       "type": "Feature",
-      "id": 62118219,
+      "id": 62118206,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.47537,
-            54.148691
+            -4.475404,
+            54.148853
           ],
           [
-            -4.475449,
-            54.148709
+            -4.475447,
+            54.148755
           ],
           [
-            -4.475382,
-            54.148841
+            -4.475522,
+            54.148756
           ],
           [
-            -4.475415,
-            54.14885
+            -4.475474,
+            54.148872
           ],
           [
-            -4.475372,
-            54.148931
+            -4.475534,
+            54.148889
           ],
           [
-            -4.47526,
-            54.1489
+            -4.475505,
+            54.148969
           ],
           [
-            -4.475311,
-            54.1488
+            -4.475265,
+            54.148902
           ],
           [
-            -4.47537,
-            54.148691
+            -4.475315,
+            54.148797
+          ],
+          [
+            -4.475367,
+            54.148686
+          ],
+          [
+            -4.475423,
+            54.148694
+          ],
+          [
+            -4.475363,
+            54.14884
+          ],
+          [
+            -4.475404,
+            54.148853
           ]
         ]
       },
       "properties": {
         "addr:country": "IM",
         "addr:housename": "Peveril Building",
-        "addr:housenumber": "6/7",
+        "addr:housenumber": "6-7",
         "addr:postcode": "IM1 2BT",
         "addr:street": "Loch Promenade",
+        "amenity": "bar",
         "building": "yes",
+        "name": "Tigh Fitz Irish Bar",
         "old_name": "Bordello's",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "was:amenity": "bar"
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -120454,6 +120785,178 @@
     },
     {
       "type": "Feature",
+      "id": 1107455518,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453062,
+            54.16745
+          ],
+          [
+            -4.453045,
+            54.167463
+          ],
+          [
+            -4.453066,
+            54.167472
+          ],
+          [
+            -4.452952,
+            54.167554
+          ],
+          [
+            -4.452855,
+            54.167508
+          ],
+          [
+            -4.452933,
+            54.167452
+          ],
+          [
+            -4.452937,
+            54.167454
+          ],
+          [
+            -4.45298,
+            54.167423
+          ],
+          [
+            -4.453007,
+            54.167424
+          ],
+          [
+            -4.453062,
+            54.16745
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM3 1HB",
+        "addr:street": "Royal Avenue West",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107455520,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.454261,
+            54.167409
+          ],
+          [
+            -4.454038,
+            54.167446
+          ],
+          [
+            -4.453938,
+            54.16724
+          ],
+          [
+            -4.454654,
+            54.167121
+          ],
+          [
+            -4.454722,
+            54.167262
+          ],
+          [
+            -4.45423,
+            54.167344
+          ],
+          [
+            -4.454261,
+            54.167409
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Kensington Place",
+        "addr:postcode": "IM3 1HL",
+        "addr:street": "Imperial Terrace",
+        "building": "yes",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housename": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1107455522,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453708,
+            54.167532
+          ],
+          [
+            -4.453833,
+            54.167503
+          ],
+          [
+            -4.453711,
+            54.16732
+          ],
+          [
+            -4.453663,
+            54.167314
+          ],
+          [
+            -4.453667,
+            54.167298
+          ],
+          [
+            -4.453594,
+            54.167288
+          ],
+          [
+            -4.453576,
+            54.167338
+          ],
+          [
+            -4.453381,
+            54.167471
+          ],
+          [
+            -4.453514,
+            54.167501
+          ],
+          [
+            -4.453549,
+            54.167512
+          ],
+          [
+            -4.453606,
+            54.167502
+          ],
+          [
+            -4.453613,
+            54.167527
+          ],
+          [
+            -4.453708,
+            54.167532
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Belgravia Court",
+        "addr:postcode": "IM3 1HJ",
+        "addr:street": "Belgravia Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1107759168,
       "geometry": {
         "type": "LineString",
@@ -125189,6 +125692,154 @@
     },
     {
       "type": "Feature",
+      "id": 1139610383,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486208,
+            54.14863
+          ],
+          [
+            -4.486131,
+            54.148611
+          ],
+          [
+            -4.48614,
+            54.148601
+          ],
+          [
+            -4.486188,
+            54.148533
+          ],
+          [
+            -4.486266,
+            54.148552
+          ],
+          [
+            -4.486208,
+            54.14863
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610384,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48614,
+            54.148601
+          ],
+          [
+            -4.48604,
+            54.148577
+          ],
+          [
+            -4.486004,
+            54.148629
+          ],
+          [
+            -4.485959,
+            54.148619
+          ],
+          [
+            -4.485984,
+            54.148583
+          ],
+          [
+            -4.485935,
+            54.148571
+          ],
+          [
+            -4.485992,
+            54.148487
+          ],
+          [
+            -4.486188,
+            54.148533
+          ],
+          [
+            -4.48614,
+            54.148601
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610385,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485935,
+            54.148571
+          ],
+          [
+            -4.485887,
+            54.148559
+          ],
+          [
+            -4.48588,
+            54.148571
+          ],
+          [
+            -4.485776,
+            54.148547
+          ],
+          [
+            -4.485785,
+            54.148533
+          ],
+          [
+            -4.48573,
+            54.148519
+          ],
+          [
+            -4.485783,
+            54.14844
+          ],
+          [
+            -4.485992,
+            54.148487
+          ],
+          [
+            -4.485935,
+            54.148571
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:flats": "1-10",
+        "addr:housenumber": "11-12",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "apartments"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1139610386,
       "geometry": {
         "type": "LineString",
@@ -125337,6 +125988,43 @@
         "building": "yes",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139610390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485346,
+            54.148431
+          ],
+          [
+            -4.485269,
+            54.148412
+          ],
+          [
+            -4.485325,
+            54.148335
+          ],
+          [
+            -4.485399,
+            54.148354
+          ],
+          [
+            -4.485346,
+            54.148431
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 4LR",
+        "addr:street": "Peel Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation"
       }
     },
     {
@@ -127867,6 +128555,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Rechabite Hall",
         "addr:postcode": "IM1 3DW",
         "addr:street": "Allan Street",
         "building": "yes",
@@ -131766,6 +132455,238 @@
     },
     {
       "type": "Feature",
+      "id": 1154826351,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485211,
+            54.153079
+          ],
+          [
+            -4.485313,
+            54.153056
+          ],
+          [
+            -4.485265,
+            54.152984
+          ],
+          [
+            -4.485163,
+            54.153008
+          ],
+          [
+            -4.485211,
+            54.153079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM1 3EB",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154826352,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485211,
+            54.153079
+          ],
+          [
+            -4.485097,
+            54.153106
+          ],
+          [
+            -4.485048,
+            54.153033
+          ],
+          [
+            -4.485163,
+            54.153008
+          ],
+          [
+            -4.485211,
+            54.153079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM1 3EB",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154826353,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486028,
+            54.152787
+          ],
+          [
+            -4.486124,
+            54.152731
+          ],
+          [
+            -4.486029,
+            54.152675
+          ],
+          [
+            -4.485933,
+            54.152732
+          ],
+          [
+            -4.486028,
+            54.152787
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM1 3DZ",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154826355,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485785,
+            54.152916
+          ],
+          [
+            -4.485892,
+            54.152867
+          ],
+          [
+            -4.48581,
+            54.152805
+          ],
+          [
+            -4.485703,
+            54.152854
+          ],
+          [
+            -4.485785,
+            54.152916
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM1 3EB",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154826357,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485491,
+            54.153016
+          ],
+          [
+            -4.485621,
+            54.152979
+          ],
+          [
+            -4.485567,
+            54.15291
+          ],
+          [
+            -4.485434,
+            54.152947
+          ],
+          [
+            -4.485491,
+            54.153016
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Kelsor Court",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM1 3EB",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154826358,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485491,
+            54.153016
+          ],
+          [
+            -4.485364,
+            54.153052
+          ],
+          [
+            -4.485307,
+            54.152983
+          ],
+          [
+            -4.485434,
+            54.152947
+          ],
+          [
+            -4.485491,
+            54.153016
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Kelsor House",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM1 3EB",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1154826374,
       "geometry": {
         "type": "LineString",
@@ -133707,6 +134628,156 @@
         "contact:phone": "+44 1624 350523",
         "name": "Paws for Thought",
         "shop": "pet_grooming"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1166248200,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453763,
+            54.169899
+          ],
+          [
+            -4.453733,
+            54.169847
+          ],
+          [
+            -4.45391,
+            54.169813
+          ],
+          [
+            -4.453939,
+            54.169864
+          ],
+          [
+            -4.453763,
+            54.169899
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Fairhaven",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM3 1HQ",
+        "addr:street": "Marion Road",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1166248201,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453684,
+            54.169624
+          ],
+          [
+            -4.453697,
+            54.169647
+          ],
+          [
+            -4.453633,
+            54.16966
+          ],
+          [
+            -4.453648,
+            54.169686
+          ],
+          [
+            -4.453837,
+            54.16965
+          ],
+          [
+            -4.453808,
+            54.1696
+          ],
+          [
+            -4.453684,
+            54.169624
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM3 1HQ",
+        "addr:street": "Marion Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1166248213,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453522,
+            54.169528
+          ],
+          [
+            -4.453561,
+            54.169525
+          ],
+          [
+            -4.453568,
+            54.16955
+          ],
+          [
+            -4.453683,
+            54.16954
+          ],
+          [
+            -4.453666,
+            54.169476
+          ],
+          [
+            -4.453704,
+            54.169472
+          ],
+          [
+            -4.453693,
+            54.169432
+          ],
+          [
+            -4.45366,
+            54.169435
+          ],
+          [
+            -4.453648,
+            54.169387
+          ],
+          [
+            -4.453489,
+            54.169401
+          ],
+          [
+            -4.453522,
+            54.169528
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Glendyne",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM3 1HQ",
+        "addr:street": "Marion Road",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -141183,6 +142254,84 @@
     },
     {
       "type": "Feature",
+      "id": 1252637946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453241,
+            54.171162
+          ],
+          [
+            -4.453223,
+            54.171092
+          ],
+          [
+            -4.453074,
+            54.171105
+          ],
+          [
+            -4.453093,
+            54.171176
+          ],
+          [
+            -4.453241,
+            54.171162
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "84",
+        "addr:postcode": "IM3 1LE",
+        "addr:street": "Royal Avenue",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "visible on streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1252637962,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.45363,
+            54.171346
+          ],
+          [
+            -4.453707,
+            54.171428
+          ],
+          [
+            -4.453806,
+            54.171396
+          ],
+          [
+            -4.453729,
+            54.171314
+          ],
+          [
+            -4.45363,
+            54.171346
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "117",
+        "addr:postcode": "IM3 1LD",
+        "addr:street": "Royal Avenue",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "visible on streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1270919366,
       "geometry": {
         "type": "LineString",
@@ -143226,6 +144375,49 @@
         "opening_hours": "Mo-Fr 09:00-14:30, Sa 08:00-13:00",
         "source": "Isle of Man Government aerial imagery (2001)",
         "takeaway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1286886937,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451856,
+            54.168177
+          ],
+          [
+            -4.451624,
+            54.168211
+          ],
+          [
+            -4.451602,
+            54.168161
+          ],
+          [
+            -4.451685,
+            54.168149
+          ],
+          [
+            -4.451834,
+            54.168127
+          ],
+          [
+            -4.451856,
+            54.168177
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM3 1HA",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "visible on streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -146406,6 +147598,275 @@
         "house": "terraced",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426287,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482593,
+            54.158699
+          ],
+          [
+            -4.482546,
+            54.158621
+          ],
+          [
+            -4.482458,
+            54.158639
+          ],
+          [
+            -4.482506,
+            54.158717
+          ],
+          [
+            -4.482593,
+            54.158699
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "contact:facebook": "https://www.facebook.com/TheDollytub/",
+        "house": "terrace",
+        "name": "The Dolly Tub",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426288,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482506,
+            54.158717
+          ],
+          [
+            -4.482458,
+            54.158639
+          ],
+          [
+            -4.482372,
+            54.158656
+          ],
+          [
+            -4.482419,
+            54.158735
+          ],
+          [
+            -4.482506,
+            54.158717
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "amenity": "fast_food",
+        "building": "house",
+        "cuisine": "sandwich",
+        "house": "terraced"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426289,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482419,
+            54.158735
+          ],
+          [
+            -4.482372,
+            54.158656
+          ],
+          [
+            -4.48229,
+            54.158673
+          ],
+          [
+            -4.482337,
+            54.158752
+          ],
+          [
+            -4.482419,
+            54.158735
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "amenity": "fast_food",
+        "building": "house",
+        "cuisine": "chinese",
+        "house": "terrace",
+        "name": "Kirin"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426290,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482337,
+            54.158752
+          ],
+          [
+            -4.48229,
+            54.158673
+          ],
+          [
+            -4.48221,
+            54.158689
+          ],
+          [
+            -4.482256,
+            54.158768
+          ],
+          [
+            -4.482337,
+            54.158752
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "name": "Cherry Blosso Beauty Parlour",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426291,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482256,
+            54.158768
+          ],
+          [
+            -4.48221,
+            54.158689
+          ],
+          [
+            -4.482123,
+            54.158707
+          ],
+          [
+            -4.48217,
+            54.158786
+          ],
+          [
+            -4.482256,
+            54.158768
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "name": "Mace",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426292,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48217,
+            54.158786
+          ],
+          [
+            -4.482123,
+            54.158707
+          ],
+          [
+            -4.482041,
+            54.158723
+          ],
+          [
+            -4.482088,
+            54.158802
+          ],
+          [
+            -4.48217,
+            54.158786
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "house": "terraced"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426293,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482088,
+            54.158802
+          ],
+          [
+            -4.482041,
+            54.158723
+          ],
+          [
+            -4.481953,
+            54.158741
+          ],
+          [
+            -4.481999,
+            54.15882
+          ],
+          [
+            -4.482088,
+            54.158802
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "house": "terraced"
       }
     },
     {

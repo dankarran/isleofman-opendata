@@ -31281,7 +31281,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
         "building": "house",
+        "contact:facebook": "https://www.facebook.com/TheDollytub/",
         "house": "terrace",
         "name": "The Dolly Tub",
         "shop": "laundry",
@@ -31290,6 +31295,49 @@
         "lat": 54.15866890723084,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1304426287"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426290,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482337,
+            54.158752
+          ],
+          [
+            -4.48229,
+            54.158673
+          ],
+          [
+            -4.48221,
+            54.158689
+          ],
+          [
+            -4.482256,
+            54.158768
+          ],
+          [
+            -4.482337,
+            54.158752
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "name": "Cherry Blosso Beauty Parlour",
+        "shop": "beauty",
+        "osm_id": 1304426290,
+        "lon": -4.482273374380127,
+        "lat": 54.158720599813286,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1304426290"
       }
     },
     {
@@ -31321,7 +31369,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
         "building": "house",
+        "name": "Mace",
         "shop": "convenience",
         "osm_id": 1304426291,
         "lon": -4.482189625846458,

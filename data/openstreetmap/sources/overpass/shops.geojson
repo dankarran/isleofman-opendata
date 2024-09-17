@@ -27921,10 +27921,53 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
         "building": "house",
+        "contact:facebook": "https://www.facebook.com/TheDollytub/",
         "house": "terrace",
         "name": "The Dolly Tub",
         "shop": "laundry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426290,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482337,
+            54.158752
+          ],
+          [
+            -4.48229,
+            54.158673
+          ],
+          [
+            -4.48221,
+            54.158689
+          ],
+          [
+            -4.482256,
+            54.158768
+          ],
+          [
+            -4.482337,
+            54.158752
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "building": "house",
+        "name": "Cherry Blosso Beauty Parlour",
+        "shop": "beauty"
       }
     },
     {
@@ -27956,7 +27999,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
         "building": "house",
+        "name": "Mace",
         "shop": "convenience"
       }
     },

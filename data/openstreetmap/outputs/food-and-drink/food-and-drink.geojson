@@ -222,8 +222,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475556,
-          54.148921
+          -4.475615,
+          54.148973
         ]
       },
       "properties": {
@@ -234,11 +234,13 @@
         "contact:website": "https://www.pizzahut.co.uk/huts/uk-1/8116-douglas-isle-of-man/",
         "cuisine": "pizza",
         "delivery": "yes",
+        "indoor_seating": "no",
         "name": "Pizza Hut Delivery",
-        "takeaway": "only",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
         "osm_id": 455952596,
-        "lon": -4.475556,
-        "lat": 54.148921,
+        "lon": -4.475615,
+        "lat": 54.148973,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/455952596"
       }
@@ -249,8 +251,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.475448,
-          54.148902
+          -4.475548,
+          54.14896
         ]
       },
       "properties": {
@@ -262,8 +264,8 @@
         "postal_code": "IM1 2BT",
         "website": "https://www.lapiazza.co.im/",
         "osm_id": 455952597,
-        "lon": -4.475448,
-        "lat": 54.148902,
+        "lon": -4.475548,
+        "lat": 54.14896,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/455952597"
       }
@@ -4646,6 +4648,80 @@
         "lat": 54.14860430147901,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62118200"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62118206,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475404,
+            54.148853
+          ],
+          [
+            -4.475447,
+            54.148755
+          ],
+          [
+            -4.475522,
+            54.148756
+          ],
+          [
+            -4.475474,
+            54.148872
+          ],
+          [
+            -4.475534,
+            54.148889
+          ],
+          [
+            -4.475505,
+            54.148969
+          ],
+          [
+            -4.475265,
+            54.148902
+          ],
+          [
+            -4.475315,
+            54.148797
+          ],
+          [
+            -4.475367,
+            54.148686
+          ],
+          [
+            -4.475423,
+            54.148694
+          ],
+          [
+            -4.475363,
+            54.14884
+          ],
+          [
+            -4.475404,
+            54.148853
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housename": "Peveril Building",
+        "addr:housenumber": "6-7",
+        "addr:postcode": "IM1 2BT",
+        "addr:street": "Loch Promenade",
+        "amenity": "bar",
+        "building": "yes",
+        "name": "Tigh Fitz Irish Bar",
+        "old_name": "Bordello's",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 62118206,
+        "lon": -4.475410132799972,
+        "lat": 54.14883145611108,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/62118206"
       }
     },
     {
@@ -16649,6 +16725,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
         "amenity": "fast_food",
         "building": "house",
         "cuisine": "sandwich",
@@ -16689,6 +16769,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
         "amenity": "fast_food",
         "building": "house",
         "cuisine": "chinese",
@@ -16829,6 +16913,9 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1-",
+        "addr:street": "Bathurst Street",
         "amenity": "fast_food",
         "building": "yes",
         "cuisine": "fish_and_chips",
