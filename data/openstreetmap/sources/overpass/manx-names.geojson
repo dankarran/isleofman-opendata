@@ -42549,7 +42549,7 @@
         ]
       },
       "properties": {
-        "alt_name": "Saint Mary's Rock",
+        "alt_name": "Saint Mary's Rock;St Mary's Isle",
         "alt_name:gv": "Creg Voirrey",
         "name": "Conister Rock",
         "name:en": "Conister Rock",
@@ -46949,6 +46949,45 @@
     },
     {
       "type": "Feature",
+      "id": 41153134,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47905,
+            54.151207
+          ],
+          [
+            -4.479079,
+            54.151356
+          ],
+          [
+            -4.479169,
+            54.151921
+          ],
+          [
+            -4.479191,
+            54.152602
+          ],
+          [
+            -4.479172,
+            54.152654
+          ]
+        ]
+      },
+      "properties": {
+        "bicycle": "dismount",
+        "highway": "pedestrian",
+        "motor_vehicle:loading": "Mo-Sa 10:00-17:00",
+        "name": "Strand Street",
+        "name:en": "Strand Street",
+        "name:gv": "Straid Traie",
+        "oneway": "yes",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 43242516,
       "geometry": {
         "type": "LineString",
@@ -47318,6 +47357,46 @@
         "name:en": "Lake Road",
         "name:gv": "Raad y Logh",
         "ref": "B81",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58730914,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47905,
+            54.151207
+          ],
+          [
+            -4.478933,
+            54.150688
+          ],
+          [
+            -4.478843,
+            54.150357
+          ],
+          [
+            -4.478763,
+            54.15018
+          ],
+          [
+            -4.478648,
+            54.150136
+          ]
+        ]
+      },
+      "properties": {
+        "bicycle": "dismount",
+        "highway": "pedestrian",
+        "motor_vehicle:loading": "Mo-Sa 10:00-17:00",
+        "name": "Strand Street",
+        "name:en": "Strand Street",
+        "name:gv": "Straid Traie",
+        "oneway": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved"
       }
     },
@@ -56879,6 +56958,142 @@
         "name": "Traie Cronkan",
         "name:gv": "Traie Cronkan",
         "natural": "beach"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 103231484,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.682377,
+            54.228856
+          ],
+          [
+            -4.682257,
+            54.228693
+          ],
+          [
+            -4.682327,
+            54.228492
+          ],
+          [
+            -4.68267,
+            54.228207
+          ],
+          [
+            -4.683223,
+            54.227902
+          ],
+          [
+            -4.683834,
+            54.227611
+          ],
+          [
+            -4.684285,
+            54.227463
+          ],
+          [
+            -4.684009,
+            54.227252
+          ],
+          [
+            -4.683931,
+            54.22719
+          ],
+          [
+            -4.683912,
+            54.227136
+          ],
+          [
+            -4.683914,
+            54.227116
+          ],
+          [
+            -4.68383,
+            54.227092
+          ],
+          [
+            -4.683612,
+            54.227158
+          ],
+          [
+            -4.683696,
+            54.227212
+          ],
+          [
+            -4.683814,
+            54.227256
+          ],
+          [
+            -4.683912,
+            54.227325
+          ],
+          [
+            -4.683857,
+            54.227367
+          ],
+          [
+            -4.68349,
+            54.227509
+          ],
+          [
+            -4.683412,
+            54.227567
+          ],
+          [
+            -4.683235,
+            54.2277
+          ],
+          [
+            -4.682883,
+            54.227718
+          ],
+          [
+            -4.682609,
+            54.227837
+          ],
+          [
+            -4.682415,
+            54.227973
+          ],
+          [
+            -4.682125,
+            54.228059
+          ],
+          [
+            -4.681825,
+            54.228343
+          ],
+          [
+            -4.68174,
+            54.228514
+          ],
+          [
+            -4.681788,
+            54.228733
+          ],
+          [
+            -4.681833,
+            54.228814
+          ],
+          [
+            -4.68198,
+            54.228896
+          ],
+          [
+            -4.682377,
+            54.228856
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Traie Fogog beach",
+        "name:en": "Traie Fogog beach",
+        "name:gv": "Traie Fogog",
+        "natural": "beach",
+        "surface": "sand"
       }
     },
     {

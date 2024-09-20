@@ -4092,28 +4092,6 @@
     },
     {
       "type": "Feature",
-      "id": 10618502559,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486783,
-          54.148734
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Ragnall House",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM1 4LZ",
-        "addr:street": "Peel Road",
-        "name": "Evolution Recruitment",
-        "office": "employment_agency",
-        "source": "streetside",
-        "website": "https://evolution.co.im"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10618669240,
       "geometry": {
         "type": "Point",
@@ -8765,6 +8743,48 @@
         "addr:street": "Royal Avenue",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12182121445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48461,
+          54.148709
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Samuel Harris House",
+        "addr:housenumber": "5-11",
+        "addr:postcode": "IM1 1AJ",
+        "addr:street": "Saint Georges Street",
+        "name": "Knox Capital Solutions",
+        "office": "financial",
+        "website": "https://knoxcapitalsolutions.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12182121447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484563,
+          54.148675
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Samuel Harris House",
+        "addr:housenumber": "5-11",
+        "addr:postcode": "IM1 1AJ",
+        "addr:street": "Saint Georges Street",
+        "name": "Thomas Miller",
+        "office": "insurance",
+        "website": "https://www.thomasmiller.com/contact-us/offices/isle-of-man/"
       }
     },
     {
@@ -30159,6 +30179,66 @@
     },
     {
       "type": "Feature",
+      "id": 79141640,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484648,
+            54.148828
+          ],
+          [
+            -4.484628,
+            54.148811
+          ],
+          [
+            -4.484422,
+            54.148639
+          ],
+          [
+            -4.484714,
+            54.148516
+          ],
+          [
+            -4.484772,
+            54.148565
+          ],
+          [
+            -4.484839,
+            54.148536
+          ],
+          [
+            -4.484909,
+            54.148505
+          ],
+          [
+            -4.48495,
+            54.148485
+          ],
+          [
+            -4.485254,
+            54.148567
+          ],
+          [
+            -4.484648,
+            54.148828
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Samuel Harris House",
+        "addr:housenumber": "5-11",
+        "addr:postcode": "IM1 1AJ",
+        "addr:street": "Saint Georges Street",
+        "building": "office",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housename": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141642,
       "geometry": {
         "type": "LineString",
@@ -40350,10 +40430,15 @@
         "addr:country": "IM",
         "addr:postcode": "IM8 2LL",
         "addr:street": "Bowring Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
         "building": "retail",
+        "name": "Tesco",
         "old_name": "Shoprite",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
+        "shop": "supermarket",
         "source": "Bing;local_knowledge",
-        "was:shop": "supermarket",
+        "website": "https://www.tesco.com/store-locator/ramsey/bowring-road",
         "wheelchair": "yes"
       }
     },
@@ -97026,6 +97111,51 @@
     },
     {
       "type": "Feature",
+      "id": 412956697,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388782,
+            54.321609
+          ],
+          [
+            -4.388547,
+            54.321655
+          ],
+          [
+            -4.388504,
+            54.321576
+          ],
+          [
+            -4.388613,
+            54.321557
+          ],
+          [
+            -4.388586,
+            54.321508
+          ],
+          [
+            -4.388703,
+            54.321481
+          ],
+          [
+            -4.388782,
+            54.321609
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housename": "The Auburns",
+        "addr:postcode": "IM8 2LP",
+        "addr:street": "Lezayre Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 412956708,
       "geometry": {
         "type": "LineString",
@@ -107038,6 +107168,53 @@
         "name": "Ballawyllin Farm",
         "tourism": "guest_house",
         "website": "https://www.relaxatballawyllin.co.uk/properties/bed-and-breakfast"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 771983514,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485584,
+            54.149129
+          ],
+          [
+            -4.485669,
+            54.149197
+          ],
+          [
+            -4.485764,
+            54.149274
+          ],
+          [
+            -4.486203,
+            54.149162
+          ],
+          [
+            -4.48625,
+            54.14912
+          ],
+          [
+            -4.485909,
+            54.148985
+          ],
+          [
+            -4.485584,
+            54.149129
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "IOMA House",
+        "addr:postcode": "IM1 1AP",
+        "addr:street": "Hope Street",
+        "building": "office",
+        "name": "IOMA Group",
+        "office": "yes",
+        "website": "https://iomagroup.co.im"
       }
     },
     {
@@ -122705,9 +122882,9 @@
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "13",
         "addr:postcode": "IM1 5ED",
         "addr:street": "Peel Road",
+        "addr:unit": "13",
         "amenity": "cafe",
         "brand": "Starbucks",
         "brand:wikidata": "Q37158",
@@ -122818,9 +122995,9 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "10-14",
         "addr:place": "Peel Road Retail Park",
         "addr:postcode": "IM1 5ED",
+        "addr:unit": "10-14",
         "alt_name": "Kentucky Fried Chicken",
         "amenity": "fast_food",
         "brand": "KFC",
@@ -125397,6 +125574,67 @@
     },
     {
       "type": "Feature",
+      "id": 1139610354,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486864,
+            54.148753
+          ],
+          [
+            -4.486695,
+            54.148683
+          ],
+          [
+            -4.486667,
+            54.148708
+          ],
+          [
+            -4.486633,
+            54.148693
+          ],
+          [
+            -4.486505,
+            54.148751
+          ],
+          [
+            -4.48665,
+            54.148832
+          ],
+          [
+            -4.486542,
+            54.148924
+          ],
+          [
+            -4.486624,
+            54.148959
+          ],
+          [
+            -4.486648,
+            54.148939
+          ],
+          [
+            -4.486864,
+            54.148753
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Ragnall House",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 4LZ",
+        "addr:street": "Peel Road",
+        "building": "office",
+        "name": "Evolution Recruitment",
+        "office": "employment_agency",
+        "source": "streetside",
+        "website": "https://evolution.co.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1139610355,
       "geometry": {
         "type": "LineString",
@@ -125605,10 +125843,12 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:housename": "Norbert House",
         "addr:housenumber": "37",
         "addr:postcode": "IM1 4LU",
         "addr:street": "Peel Road",
         "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -126023,8 +126263,10 @@
         "addr:housenumber": "6",
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
+        "addr:substreet": "Athol Terrace",
         "building": "yes",
-        "source:addr:housenumber": "interpolation"
+        "source:addr:housenumber": "interpolation",
+        "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -150022,6 +150264,53 @@
         "building": "yes",
         "source:addr:housename": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1315121248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48217,
+            54.158786
+          ],
+          [
+            -4.482088,
+            54.158802
+          ],
+          [
+            -4.481999,
+            54.15882
+          ],
+          [
+            -4.481953,
+            54.158741
+          ],
+          [
+            -4.482041,
+            54.158723
+          ],
+          [
+            -4.482123,
+            54.158707
+          ],
+          [
+            -4.48217,
+            54.158786
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "IM2 3HH",
+        "addr:street": "Bathurst Street",
+        "amenity": "fast_food",
+        "building": "yes",
+        "cuisine": "fish_and_chips",
+        "name": "Shane's Chippy II"
       }
     },
     {

@@ -667,33 +667,6 @@
     },
     {
       "type": "Feature",
-      "id": 10618502559,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486783,
-          54.148734
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Ragnall House",
-        "addr:housenumber": "18",
-        "addr:postcode": "IM1 4LZ",
-        "addr:street": "Peel Road",
-        "name": "Evolution Recruitment",
-        "office": "employment_agency",
-        "source": "streetside",
-        "website": "https://evolution.co.im",
-        "osm_id": 10618502559,
-        "lon": -4.486783,
-        "lat": 54.148734,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10618502559"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10618669240,
       "geometry": {
         "type": "Point",
@@ -1529,6 +1502,58 @@
         "lat": 54.148354,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11951973541"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12182121445,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48461,
+          54.148709
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Samuel Harris House",
+        "addr:housenumber": "5-11",
+        "addr:postcode": "IM1 1AJ",
+        "addr:street": "Saint Georges Street",
+        "name": "Knox Capital Solutions",
+        "office": "financial",
+        "website": "https://knoxcapitalsolutions.com",
+        "osm_id": 12182121445,
+        "lon": -4.48461,
+        "lat": 54.148709,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12182121445"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12182121447,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.484563,
+          54.148675
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Samuel Harris House",
+        "addr:housenumber": "5-11",
+        "addr:postcode": "IM1 1AJ",
+        "addr:street": "Saint Georges Street",
+        "name": "Thomas Miller",
+        "office": "insurance",
+        "website": "https://www.thomasmiller.com/contact-us/offices/isle-of-man/",
+        "osm_id": 12182121447,
+        "lon": -4.484563,
+        "lat": 54.148675,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12182121447"
       }
     },
     {
@@ -7255,24 +7280,16 @@
             54.149274
           ],
           [
-            -4.486154,
-            54.149173
+            -4.486203,
+            54.149162
           ],
           [
-            -4.486228,
-            54.149154
+            -4.48625,
+            54.14912
           ],
           [
-            -4.486252,
-            54.14914
-          ],
-          [
-            -4.486247,
-            54.14911
-          ],
-          [
-            -4.485922,
-            54.148983
+            -4.485909,
+            54.148985
           ],
           [
             -4.485584,
@@ -7281,12 +7298,17 @@
         ]
       },
       "properties": {
-        "building": "yes",
-        "name": "IOMA House",
+        "addr:city": "Douglas",
+        "addr:housename": "IOMA House",
+        "addr:postcode": "IM1 1AP",
+        "addr:street": "Hope Street",
+        "building": "office",
+        "name": "IOMA Group",
         "office": "yes",
+        "website": "https://iomagroup.co.im",
         "osm_id": 771983514,
-        "lon": -4.485916235924335,
-        "lat": 54.149130443884076,
+        "lon": -4.485911886198002,
+        "lat": 54.149131826169416,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/771983514"
       }
@@ -8057,6 +8079,72 @@
     },
     {
       "type": "Feature",
+      "id": 1139610354,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486864,
+            54.148753
+          ],
+          [
+            -4.486695,
+            54.148683
+          ],
+          [
+            -4.486667,
+            54.148708
+          ],
+          [
+            -4.486633,
+            54.148693
+          ],
+          [
+            -4.486505,
+            54.148751
+          ],
+          [
+            -4.48665,
+            54.148832
+          ],
+          [
+            -4.486542,
+            54.148924
+          ],
+          [
+            -4.486624,
+            54.148959
+          ],
+          [
+            -4.486648,
+            54.148939
+          ],
+          [
+            -4.486864,
+            54.148753
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Ragnall House",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 4LZ",
+        "addr:street": "Peel Road",
+        "building": "office",
+        "name": "Evolution Recruitment",
+        "office": "employment_agency",
+        "source": "streetside",
+        "website": "https://evolution.co.im",
+        "osm_id": 1139610354,
+        "lon": -4.48666580745188,
+        "lat": 54.1488058081605,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1139610354"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1139610371,
       "geometry": {
         "type": "LineString",
@@ -8303,6 +8391,54 @@
         "lat": 54.169107773955204,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1148598277"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1151092077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480992,
+            54.151888
+          ],
+          [
+            -4.480983,
+            54.151949
+          ],
+          [
+            -4.480746,
+            54.151938
+          ],
+          [
+            -4.480754,
+            54.151877
+          ],
+          [
+            -4.480992,
+            54.151888
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:street": "Finch Road",
+        "building": "yes",
+        "listed_status": "Registered",
+        "name": "Media Isle of Man",
+        "office": "newspaper",
+        "ref:registered_building": "99",
+        "url:registered_building": "https://www.gov.im/media/632123/0500099regbld18finchroad.pdf",
+        "website": "https://www.iomtoday.co.im",
+        "wikidata": "Q118188644",
+        "osm_id": 1151092077,
+        "lon": -4.480868784464648,
+        "lat": 54.15191295037798,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1151092077"
       }
     },
     {
@@ -9817,6 +9953,67 @@
         "lat": 54.1462345,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1308483344"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1316161295,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480847,
+            54.148348
+          ],
+          [
+            -4.480683,
+            54.148352
+          ],
+          [
+            -4.480684,
+            54.148368
+          ],
+          [
+            -4.480571,
+            54.148371
+          ],
+          [
+            -4.480562,
+            54.148252
+          ],
+          [
+            -4.480739,
+            54.148247
+          ],
+          [
+            -4.480741,
+            54.148276
+          ],
+          [
+            -4.480866,
+            54.148272
+          ],
+          [
+            -4.480871,
+            54.148337
+          ],
+          [
+            -4.480847,
+            54.148348
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "fixme": "looks like they have moved to South Quay",
+        "name": "Savage + Chadwick",
+        "office": "architect",
+        "website": "https://www.savagechadwick.com",
+        "osm_id": 1316161295,
+        "lon": -4.480708136257827,
+        "lat": 54.148307776661305,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1316161295"
       }
     }
   ]

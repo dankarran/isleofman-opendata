@@ -13894,9 +13894,9 @@
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "13",
         "addr:postcode": "IM1 5ED",
         "addr:street": "Peel Road",
+        "addr:unit": "13",
         "amenity": "cafe",
         "brand": "Starbucks",
         "brand:wikidata": "Q37158",
@@ -14007,9 +14007,9 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "10-14",
         "addr:place": "Peel Road Retail Park",
         "addr:postcode": "IM1 5ED",
+        "addr:unit": "10-14",
         "alt_name": "Kentucky Fried Chicken",
         "amenity": "fast_food",
         "brand": "KFC",
@@ -15129,7 +15129,8 @@
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "1-",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "IM2 3HH",
         "addr:street": "Bathurst Street",
         "amenity": "fast_food",
         "building": "yes",

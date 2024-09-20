@@ -5535,7 +5535,7 @@
         "name": "Screwfix",
         "shop": "trade",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "trade": "elecrician;plumber;heating",
+        "trade": "electrical;plumbing;heating",
         "osm_id": 59522603,
         "lon": -4.525598358257482,
         "lat": 54.15145724669779,
@@ -9578,6 +9578,80 @@
         "lat": 54.32128474950497,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/99323317"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99350139,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.387585,
+            54.322384
+          ],
+          [
+            -4.387839,
+            54.322305
+          ],
+          [
+            -4.388504,
+            54.32226
+          ],
+          [
+            -4.388559,
+            54.322501
+          ],
+          [
+            -4.388013,
+            54.322548
+          ],
+          [
+            -4.38802,
+            54.322581
+          ],
+          [
+            -4.387891,
+            54.32259
+          ],
+          [
+            -4.387639,
+            54.322609
+          ],
+          [
+            -4.387634,
+            54.322587
+          ],
+          [
+            -4.387633,
+            54.32258
+          ],
+          [
+            -4.387585,
+            54.322384
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 2LL",
+        "addr:street": "Bowring Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "building": "retail",
+        "name": "Tesco",
+        "old_name": "Shoprite",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
+        "shop": "supermarket",
+        "source": "Bing;local_knowledge",
+        "website": "https://www.tesco.com/store-locator/ramsey/bowring-road",
+        "wheelchair": "yes",
+        "osm_id": 99350139,
+        "lon": -4.388072229226186,
+        "lat": 54.32243056684368,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/99350139"
       }
     },
     {
