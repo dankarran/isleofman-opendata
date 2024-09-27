@@ -1288,23 +1288,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.470225,
-          54.163278
+          -4.469476,
+          54.16358
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "15-16",
+        "addr:postcode": "IM2 4NE",
         "addr:street": "Queens Promenade",
-        "fixme": "approximate location",
+        "addr:substreet": "Palace Terrace",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Penta Hotel",
         "postal_code": "IM2 4NP",
         "tourism": "hotel",
-        "website": "http://www.regency.im/Penta",
+        "website": "https://www.penta.im",
         "osm_id": 476150244,
-        "lon": -4.470225,
-        "lat": 54.163278,
+        "lon": -4.469476,
+        "lat": 54.16358,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/476150244"
       }
@@ -1902,6 +1905,7 @@
         "addr:housenumber": "26",
         "addr:postcode": "IM2 4NF",
         "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
         "children": "no",
         "fixme": "check if still exists",
         "name": "Inglewood",
@@ -3166,7 +3170,7 @@
         ]
       },
       "properties": {
-        "description": "Millenium Way",
+        "description": "Millennium Way",
         "information": "guidepost",
         "marker": "post",
         "material": "wood",
@@ -5859,6 +5863,175 @@
         "lat": 54.321267,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12170333968"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621813,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46964,
+          54.163507
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "name": "Regal",
+        "tourism": "hotel",
+        "osm_id": 12188621813,
+        "lon": -4.46964,
+        "lat": 54.163507,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621813"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469347,
+          54.163653
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "name": "At Caledonia",
+        "tourism": "hotel",
+        "website": "https://www.caledonia.im",
+        "osm_id": 12188621814,
+        "lon": -4.469347,
+        "lat": 54.163653,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621814"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469184,
+          54.163754
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "18-19",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "name": "Trevelyan",
+        "tourism": "hotel",
+        "website": "http://www.trevelyanhotel.co.uk",
+        "osm_id": 12188621815,
+        "lon": -4.469184,
+        "lat": 54.163754,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621815"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.468978,
+          54.163898
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "19-23",
+        "addr:postcode": "IM2 4NF",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "name": "Rutland",
+        "tourism": "hotel",
+        "website": "https://www.sleepwellhotels.com/rutland/",
+        "osm_id": 12188621816,
+        "lon": -4.468978,
+        "lat": 54.163898,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621816"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12189766747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694298,
+          54.22238
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:postcode": "IM5 1BB",
+        "addr:street": "Douglas Street",
+        "name": "Old Post Office Flat",
+        "tourism": "apartment",
+        "website": "https://www.visitisleofman.com/stay/old-post-office-flat-p1290061",
+        "osm_id": 12189766747,
+        "lon": -4.694298,
+        "lat": 54.22238,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12189766747"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195309141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.463614,
+          54.167142
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4PQ",
+        "addr:street": "Summer Hill Place",
+        "name": "Little Haven",
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/accommodation/little-haven-p1372061",
+        "osm_id": 12195309141,
+        "lon": -4.463614,
+        "lat": 54.167142,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195309141"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195422827,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.412645,
+          54.320491
+        ]
+      },
+      "properties": {
+        "information": "guidepost",
+        "tourism": "information",
+        "osm_id": 12195422827,
+        "lon": -4.412645,
+        "lat": 54.320491,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195422827"
       }
     },
     {
@@ -9468,45 +9641,47 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.465399,
-            54.166381
+            -4.46537,
+            54.16638
           ],
           [
-            -4.465525,
-            54.166328
+            -4.465494,
+            54.166332
           ],
           [
-            -4.465342,
-            54.166193
+            -4.465378,
+            54.16623
           ],
           [
-            -4.465394,
-            54.166222
+            -4.465397,
+            54.166223
           ],
           [
-            -4.465281,
-            54.166131
+            -4.465284,
+            54.166122
           ],
           [
-            -4.465114,
-            54.166186
+            -4.465118,
+            54.166187
           ],
           [
-            -4.465197,
-            54.166258
+            -4.465198,
+            54.166257
           ],
           [
-            -4.465219,
-            54.166246
+            -4.46522,
+            54.166249
           ],
           [
-            -4.465399,
-            54.166381
+            -4.46537,
+            54.16638
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 4NN",
         "addr:street": "Queens Promenade",
         "building": "yes",
         "fixme": "approximate location",
@@ -9518,8 +9693,8 @@
         "tourism": "hotel",
         "website": "https://www.regency.im",
         "osm_id": 80822489,
-        "lon": -4.465325181704099,
-        "lat": 54.16624877871366,
+        "lon": -4.465310967922684,
+        "lat": 54.16624956048364,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80822489"
       }
@@ -9581,57 +9756,6 @@
     },
     {
       "type": "Feature",
-      "id": 80830548,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.47365,
-            54.161127
-          ],
-          [
-            -4.473564,
-            54.161195
-          ],
-          [
-            -4.473873,
-            54.16133
-          ],
-          [
-            -4.473917,
-            54.161295
-          ],
-          [
-            -4.473768,
-            54.161229
-          ],
-          [
-            -4.47381,
-            54.161196
-          ],
-          [
-            -4.47365,
-            54.161127
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:street": "Central Promenade",
-        "building": "yes",
-        "name": "Saint Helier's",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "hotel",
-        "osm_id": 80830548,
-        "lon": -4.473744992434045,
-        "lat": 54.16123042182954,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/80830548"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 80830551,
       "geometry": {
         "type": "LineString",
@@ -9666,12 +9790,15 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "6",
+        "addr:postcode": "IM2 4LU",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castlemona Terrace",
         "building": "yes",
         "name": "Savoy",
         "postal_code": "IM2 4LU",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:substreet": "Isle of Man Government Planning Applications",
         "tourism": "hotel",
         "twitter": "savoyiom",
         "website": "https://www.savoyiom.com/",
@@ -12101,10 +12228,12 @@
         "addr:city": "Peel",
         "addr:housename": "Corner Cottage",
         "addr:housenumber": "1",
+        "addr:postcode": "IM5 1AW",
         "addr:street": "Church Lane",
         "building": "yes",
         "name": "Corner Cottage",
         "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/stay/corner-cottage-p1404561",
         "osm_id": 146907383,
         "lon": -4.696608140894827,
         "lat": 54.222924604858534,
@@ -12783,11 +12912,14 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:housenumber": "4",
+        "addr:postcode": "IM2 4LR",
         "addr:street": "Central Promenade",
         "addr:substreet": "The Esplanade",
         "building": "yes",
+        "guest_house": "guest_house",
         "name": "The Blossoms",
         "tourism": "guest_house",
+        "website": "https://www.visitisleofman.com/stay/the-blossoms-on-the-bay-p1287731",
         "osm_id": 158903140,
         "lon": -4.476520280773728,
         "lat": 54.15856680231296,
@@ -21756,6 +21888,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:housenumber": "5",
         "addr:postcode": "IM2 4NR",
         "addr:street": "Strathallan Crescent",
         "building": "yes",

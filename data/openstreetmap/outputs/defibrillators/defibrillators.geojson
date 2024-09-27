@@ -764,6 +764,29 @@
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12141659309"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12189569131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.678154,
+          54.220104
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "defibrillator:location": "Left hand side of main south-west entrance",
+        "emergency": "defibrillator",
+        "opening_hours": "24/7",
+        "wheelchair": "limited",
+        "osm_id": 12189569131,
+        "lon": -4.678154,
+        "lat": 54.220104,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12189569131"
+      }
     }
   ]
 }

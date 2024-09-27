@@ -589,6 +589,24 @@
         "opening_hours": "24/7",
         "phone": "999"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12189569131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.678154,
+          54.220104
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "defibrillator:location": "Left hand side of main south-west entrance",
+        "emergency": "defibrillator",
+        "opening_hours": "24/7",
+        "wheelchair": "limited"
+      }
     }
   ]
 }

@@ -2983,10 +2983,12 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 4LZ",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
+        "addr:unit": "J",
         "amenity": "restaurant",
         "contact:phone": "+44 1624 614001",
         "contact:website": "https://neospizza.co.uk/",
@@ -3013,11 +3015,13 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
+        "addr:unit": "I",
         "amenity": "fast_food",
+        "contact:facebook": "https://www.facebook.com/Mojosfishandchipshop/",
         "cuisine": "fish_and_chips",
         "entrance": "main",
         "name": "Mojo's Fish and Chip Shop",
@@ -4126,6 +4130,56 @@
         "lat": 54.08521629786938,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60048757"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60048766,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.755017,
+            54.08443
+          ],
+          [
+            -4.754856,
+            54.08437
+          ],
+          [
+            -4.754963,
+            54.084272
+          ],
+          [
+            -4.755124,
+            54.084332
+          ],
+          [
+            -4.755017,
+            54.08443
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Fromer Commissioners' Depot",
+        "addr:postcode": "IM9 6EE",
+        "addr:street": "Droghadfayle Road",
+        "amenity": "pub",
+        "building": "industrial",
+        "contact:email": "hello@kerroobrewing.com",
+        "contact:website": "https://kerroobrewing.com/",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Kerroo Brewing Company",
+        "opening_hours": "Fr 17:00-22:00, Sa 14:00-22:00",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 60048766,
+        "lon": -4.754989999999999,
+        "lat": 54.084351000000005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60048766"
       }
     },
     {
@@ -9936,53 +9990,6 @@
     },
     {
       "type": "Feature",
-      "id": 147191845,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.692561,
-            54.222805
-          ],
-          [
-            -4.692477,
-            54.222787
-          ],
-          [
-            -4.692517,
-            54.222734
-          ],
-          [
-            -4.692573,
-            54.222745
-          ],
-          [
-            -4.692561,
-            54.222805
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HE",
-        "addr:street": "Atholl Place",
-        "amenity": "restaurant",
-        "building": "yes",
-        "cuisine": "chinese",
-        "name": "Hong Kong Delight",
-        "source:addr": "Isle of Man Government Companies Registry",
-        "wheelchair": "no",
-        "osm_id": 147191845,
-        "lon": -4.692529940238222,
-        "lat": 54.222770621214835,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/147191845"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 147191861,
       "geometry": {
         "type": "LineString",
@@ -10029,7 +10036,12 @@
         "cuisine": "indian",
         "fixme": "restaurant probably only takes up half of this building",
         "name": "Royal India",
+        "opening_hours": "Tu-Su 17:00-23:00; PH closed",
+        "reservation": "recommended",
         "source:addr": "Isle of Man Government Companies Registry",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
         "wheelchair": "yes",
         "osm_id": 147191861,
         "lon": -4.692394585497812,
@@ -10186,9 +10198,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:street": "Tynwald Road",
         "amenity": "pub",
         "brewery": "yes",
         "building": "yes",
+        "contact:facebook": "https://www.facebook.com/p/The-Whitehouse-100046139238334/",
         "name": "White House",
         "smoking": "outside",
         "toilets:wheelchair": "no",

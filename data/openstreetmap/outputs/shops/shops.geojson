@@ -96,30 +96,6 @@
     },
     {
       "type": "Feature",
-      "id": 476150196,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.611178,
-          54.166749
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Tosaby Road",
-        "name": "Bettridge Motors",
-        "postal_code": "IM4 3HW",
-        "shop": "car",
-        "website": "https://www.isleofman.com/Business/b/bettridge/",
-        "osm_id": 476150196,
-        "lon": -4.611178,
-        "lat": 54.166749,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/476150196"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 480447824,
       "geometry": {
         "type": "Point",
@@ -286,7 +262,7 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
@@ -364,8 +340,9 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 4LZ",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
         "contact:phone": "+44 1624 616516",
@@ -378,32 +355,6 @@
         "lat": 54.161768,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/502471259"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 549539673,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.692098,
-          54.222902
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "9",
-        "addr:postcode": "IM5 1HE",
-        "addr:street": "Atholl Place",
-        "name": "Black Grace Cowley",
-        "shop": "estate_agent",
-        "website": "https://www.blackgracecowley.com/",
-        "osm_id": 549539673,
-        "lon": -4.692098,
-        "lat": 54.222902,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/549539673"
       }
     },
     {
@@ -1537,16 +1488,19 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 4LZ",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
+        "addr:unit": "C",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:SPAR (retailer)",
         "entrance": "main",
         "name": "Spar",
         "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal18829-spar-central-promenade",
         "osm_id": 3414866984,
         "lon": -4.472912,
         "lat": 54.161594,
@@ -2211,33 +2165,6 @@
         "lat": 54.320194,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10048314648"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10048316211,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.457354,
-          54.173704
-        ]
-      },
-      "properties": {
-        "currency:XBT": "yes",
-        "name": "Karsons Pharmacy",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+441624615150",
-        "shop": "chemist",
-        "survey:date": "2022-09-23",
-        "website": "https://karsonspharmacy.co.uk/",
-        "osm_id": 10048316211,
-        "lon": -4.457354,
-        "lat": 54.173704,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10048316211"
       }
     },
     {
@@ -3750,7 +3677,7 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
@@ -3775,7 +3702,7 @@
         ]
       },
       "properties": {
-        "addr:city": "Castletown",
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
@@ -4298,6 +4225,101 @@
         "lat": 54.148156,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12175084935"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456889,
+          54.173265
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Aurora Brides",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM3 1LZ",
+        "addr:street": "Summer Hill",
+        "name": "Aurora Brides",
+        "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
+        "phone": "+44 1624 664088",
+        "shop": "yes",
+        "osm_id": 12195333904,
+        "lon": -4.456889,
+        "lat": 54.173265,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333904"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456848,
+          54.17333
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM3 1LZ",
+        "addr:street": "Summer Hill",
+        "name": "Hearing Solutions",
+        "shop": "hearing_aids",
+        "website": "https://www.iomhearingsolutions.im",
+        "osm_id": 12195333905,
+        "lon": -4.456848,
+        "lat": 54.17333,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333905"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333906,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.45694,
+          54.173211
+        ]
+      },
+      "properties": {
+        "shop": "butcher",
+        "osm_id": 12195333906,
+        "lon": -4.45694,
+        "lat": 54.173211,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333906"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456989,
+          54.173157
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "14",
+        "addr:street": "Summer Hill",
+        "name": "Hintons",
+        "shop": "electronics",
+        "source:addr:housenumber": "Isle of Man Government Companies Registry",
+        "osm_id": 12195333907,
+        "lon": -4.456989,
+        "lat": 54.173157,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333907"
       }
     },
     {
@@ -5587,6 +5609,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:place": "Spring Valley Industrial Estate",
+        "addr:postcode": "IM2 2QT",
         "addr:unit": "35",
         "brand": "B&Q",
         "brand:wikidata": "Q707602",
@@ -5597,7 +5620,7 @@
         "postal_code": "IM2 2QT",
         "shop": "doityourself",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.diy.com/",
+        "website": "https://www.diy.com/store/1095",
         "osm_id": 59522622,
         "lon": -4.528299076145216,
         "lat": 54.150654294791146,
@@ -5852,6 +5875,60 @@
         "lat": 54.0869019474333,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60007307"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60177062,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.634647,
+            54.169119
+          ],
+          [
+            -4.634377,
+            54.169221
+          ],
+          [
+            -4.634324,
+            54.169173
+          ],
+          [
+            -4.634274,
+            54.169192
+          ],
+          [
+            -4.634173,
+            54.169101
+          ],
+          [
+            -4.634493,
+            54.16898
+          ],
+          [
+            -4.634647,
+            54.169119
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Foxdale",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 3EX",
+        "addr:street": "Mines Road",
+        "building": "yes",
+        "name": "Bettridge Motors",
+        "postal_code": "IM4 3HW",
+        "shop": "car",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.bettridges.com",
+        "osm_id": 60177062,
+        "lon": -4.6344106763767,
+        "lat": 54.1691064068699,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60177062"
       }
     },
     {
@@ -9558,6 +9635,7 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:housenumber": "3",
+        "addr:postcode": "IM8 1DG",
         "addr:street": "Christian Street",
         "brand": "Co-op Food",
         "brand:wikidata": "Q3277439",
@@ -9568,7 +9646,6 @@
         "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
-        "postal_code": "IM8 1DG",
         "shop": "supermarket",
         "source": "Bing;survey",
         "website": "https://www.coop.co.uk/store-finder/IM8-1DG/3-christian-street",
@@ -11976,6 +12053,7 @@
         "addr:housenumber": "2",
         "addr:postcode": "IM8 1LA",
         "addr:street": "Parliament Street",
+        "alt_name": "Saddle Buildings",
         "building": "yes",
         "listed_status": "Registered",
         "name": "Feltons",
@@ -15249,6 +15327,65 @@
     },
     {
       "type": "Feature",
+      "id": 146972155,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69517,
+            54.222781
+          ],
+          [
+            -4.695107,
+            54.222822
+          ],
+          [
+            -4.695274,
+            54.222904
+          ],
+          [
+            -4.695282,
+            54.222908
+          ],
+          [
+            -4.695312,
+            54.22289
+          ],
+          [
+            -4.695297,
+            54.222881
+          ],
+          [
+            -4.695331,
+            54.222861
+          ],
+          [
+            -4.69517,
+            54.222781
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM5 1BA",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "building:use": "commercial",
+        "name": "JAC Stores",
+        "shop": "hardware",
+        "website": "https://shop.jacstores.co.uk/",
+        "wheelchair": "yes",
+        "osm_id": 146972155,
+        "lon": -4.695224184906381,
+        "lat": 54.22284487679578,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146972155"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146980699,
       "geometry": {
         "type": "LineString",
@@ -15615,7 +15752,10 @@
         "addr:street": "Michael Street",
         "building": "yes",
         "name": "Celtic Gold",
+        "opening_hours": "Mo-Sa 09:00-17:00",
         "shop": "jewelry",
+        "website": "https://www.celtic-gold.co.uk/",
+        "wheelchair": "yes",
         "osm_id": 146980739,
         "lon": -4.694790654812024,
         "lat": 54.22279292555899,
@@ -15652,6 +15792,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Atholl Street",
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
@@ -15659,6 +15804,7 @@
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal18989-spar-peel",
         "wheelchair": "yes",
         "osm_id": 147183381,
         "lon": -4.692516168097688,
@@ -15712,8 +15858,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Atholl Street",
         "building": "yes",
+        "name": "Storemann Ltd",
+        "opening_hours": "24/7",
         "shop": "storage_rental",
+        "website": "https://www.storemann.com/",
+        "wheelchair": "yes",
         "osm_id": 147183411,
         "lon": -4.691982380918713,
         "lat": 54.22246367046286,
@@ -16746,10 +16901,21 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 1BA",
+        "addr:street": "Onchan Main Road",
         "building": "yes",
+        "currency:XBT": "yes",
         "name": "Karsons Pharmacy",
-        "phone": "+44 1624 615150",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+44 1624 615150;+441624615150",
         "shop": "chemist",
+        "survey:date": "2022-09-23",
+        "website": "https://karsonspharmacy.co.uk/",
         "osm_id": 170515383,
         "lon": -4.457316968542094,
         "lat": 54.17372336498435,
@@ -17420,11 +17586,13 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:place": "Spring Valley Industrial Estate",
+        "addr:postcode": "IM2 2QR",
         "addr:unit": "1",
         "building": "commercial",
         "name": "Agrimark",
         "shop": "wholesale",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.agrimark.im",
         "osm_id": 204133177,
         "lon": -4.526821569001943,
         "lat": 54.14976655533806,
@@ -25187,6 +25355,7 @@
       "properties": {
         "addr:country": "IM",
         "addr:housenumber": "57-61",
+        "addr:postcode": "IM1 2RP",
         "addr:street": "Victoria Street",
         "building": "retail",
         "building:colour": "white",
@@ -25194,9 +25363,8 @@
         "building:material": "plaster",
         "description": "\"Sound & vision, home appliances, computing\"",
         "name": "Colebourn",
-        "postal_code": "IM1 2RP",
         "shop": "electronics",
-        "website": "http://www.colebourn.com",
+        "website": "https://www.colebourn.com",
         "osm_id": 420028936,
         "lon": -4.480327762171956,
         "lat": 54.14909952377035,
@@ -26315,56 +26483,6 @@
         "lat": 54.35168934971355,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/761469852"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 813624413,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.456871,
-            54.173382
-          ],
-          [
-            -4.457115,
-            54.173133
-          ],
-          [
-            -4.456951,
-            54.173077
-          ],
-          [
-            -4.456786,
-            54.173248
-          ],
-          [
-            -4.456805,
-            54.173357
-          ],
-          [
-            -4.456871,
-            54.173382
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Aurora Brides",
-        "addr:housenumber": "6",
-        "addr:postcode": "IM3 1LZ",
-        "addr:street": "Summer Hill",
-        "building": "yes",
-        "name": "Aurora Brides",
-        "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
-        "phone": "+44 162 466 4088",
-        "shop": "yes",
-        "osm_id": 813624413,
-        "lon": -4.456934065033875,
-        "lat": 54.17321910696019,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/813624413"
       }
     },
     {
@@ -28180,9 +28298,8 @@
         "contact:facebook": "https://www.facebook.com/PremierKitchensLtd/",
         "contact:mobile": "+44 7624 479272;+44 7624 221083;+44 7624 397529",
         "contact:phone": "+44 1624 612159",
-        "fixme": "Resurvey opening hours once refurbishment complete",
         "name": "Premier Kitchens",
-        "opening_hours": "\"Only by appointment while under refurbishment\"",
+        "opening_hours": "Mo-Fr 09:30-16:30, Sa 09:30-13:00, \"Out of hours, by appointment\"",
         "shop": "kitchen",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154142805,
@@ -29057,6 +29174,50 @@
         "lat": 54.16941128793092,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1182768517"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1194879903,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694845,
+            54.222626
+          ],
+          [
+            -4.694804,
+            54.222628
+          ],
+          [
+            -4.694812,
+            54.222694
+          ],
+          [
+            -4.694878,
+            54.22269
+          ],
+          [
+            -4.694845,
+            54.222626
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "craft": "dressmaker",
+        "name": "Anabela's",
+        "shop": "craft",
+        "osm_id": 1194879903,
+        "lon": -4.6948363976232805,
+        "lat": 54.22266278326128,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1194879903"
       }
     },
     {

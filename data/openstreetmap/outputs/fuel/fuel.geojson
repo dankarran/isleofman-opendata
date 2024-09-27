@@ -54,8 +54,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 1BA",
+        "addr:street": "Onchan Main Road",
         "amenity": "fuel",
         "brand": "Corkills",
+        "contact:facebook": "https://www.facebook.com/@corkillsgarageiom/",
         "mapillary": "422312739462222",
         "survey:date": "2021-09-24",
         "osm_id": 283505240,
@@ -544,6 +550,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Atholl Street",
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
@@ -551,6 +562,7 @@
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal18989-spar-peel",
         "wheelchair": "yes",
         "osm_id": 147183381,
         "lon": -4.692516168097688,

@@ -2673,25 +2673,6 @@
     },
     {
       "type": "Feature",
-      "id": 476150196,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.611178,
-          54.166749
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Tosaby Road",
-        "name": "Bettridge Motors",
-        "postal_code": "IM4 3HW",
-        "shop": "car",
-        "website": "https://www.isleofman.com/Business/b/bettridge/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 476150218,
       "geometry": {
         "type": "Point",
@@ -2739,20 +2720,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.470225,
-          54.163278
+          -4.469476,
+          54.16358
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "15-16",
+        "addr:postcode": "IM2 4NE",
         "addr:street": "Queens Promenade",
-        "fixme": "approximate location",
+        "addr:substreet": "Palace Terrace",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Penta Hotel",
         "postal_code": "IM2 4NP",
         "tourism": "hotel",
-        "website": "http://www.regency.im/Penta"
+        "website": "https://www.penta.im"
       }
     },
     {
@@ -10474,22 +10458,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.455171,
-            54.167157
-          ],
-          [
-            -4.455216,
-            54.16721
-          ],
-          [
-            -4.455277,
-            54.167273
-          ],
-          [
-            -4.455402,
-            54.167374
-          ],
-          [
             -4.455473,
             54.167466
           ],
@@ -10518,6 +10486,8 @@
       "properties": {
         "highway": "unclassified",
         "name": "Bay View Road",
+        "name:en": "Bay View Road",
+        "name:gv": "Raad Reayrt ny Baie",
         "postal_code": "IM3 1HL",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
@@ -10561,20 +10531,33 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.46442,
-            54.16683
+            -4.464413,
+            54.166846
           ],
           [
-            -4.463771,
-            54.166957
+            -4.464061,
+            54.166921
           ],
           [
-            -4.463449,
-            54.167118
+            -4.463884,
+            54.166955
+          ],
+          [
+            -4.463787,
+            54.166979
+          ],
+          [
+            -4.463636,
+            54.167049
+          ],
+          [
+            -4.463456,
+            54.167127
           ]
         ]
       },
       "properties": {
+        "alt_name": "Summerhill Grove",
         "highway": "unclassified",
         "name": "Summer Hill Grove",
         "postal_code": "IM2 4PH",
@@ -15517,6 +15500,10 @@
             54.09036
           ],
           [
+            -4.755769,
+            54.090244
+          ],
+          [
             -4.755712,
             54.090209
           ],
@@ -16326,6 +16313,41 @@
         "name:en": "Eleanora Drive",
         "name:gv": "Bayr Eleanora",
         "postal_code": "IM2 3NN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988274,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.463687,
+            54.167274
+          ],
+          [
+            -4.463583,
+            54.167207
+          ],
+          [
+            -4.463456,
+            54.167127
+          ],
+          [
+            -4.463277,
+            54.167022
+          ],
+          [
+            -4.463232,
+            54.166996
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Summer Hill Place",
+        "postal_code": "IM2 4PQ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -20596,6 +20618,46 @@
     },
     {
       "type": "Feature",
+      "id": 25989232,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477354,
+            54.157863
+          ],
+          [
+            -4.477156,
+            54.158113
+          ],
+          [
+            -4.476894,
+            54.158429
+          ],
+          [
+            -4.47685,
+            54.158481
+          ],
+          [
+            -4.476406,
+            54.159008
+          ],
+          [
+            -4.476229,
+            54.159213
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "maxspeed": "30 mph",
+        "name": "Esplanade Lane",
+        "postal_code": "IM2 4LP",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989239,
       "geometry": {
         "type": "LineString",
@@ -23755,28 +23817,44 @@
             54.319067
           ],
           [
+            -4.391581,
+            54.31898
+          ],
+          [
             -4.391537,
             54.318645
           ],
           [
-            -4.391607,
-            54.318438
+            -4.391521,
+            54.31857
           ],
           [
-            -4.3916,
-            54.318317
+            -4.391597,
+            54.318526
           ],
           [
-            -4.391285,
-            54.318343
+            -4.391563,
+            54.318465
           ],
           [
-            -4.391024,
-            54.318365
+            -4.391568,
+            54.318451
           ],
           [
-            -4.390492,
-            54.318484
+            -4.391415,
+            54.318437
+          ],
+          [
+            -4.39105,
+            54.318447
+          ],
+          [
+            -4.390685,
+            54.318453
+          ],
+          [
+            -4.390472,
+            54.318491
           ],
           [
             -4.390079,
@@ -23796,7 +23874,7 @@
           ],
           [
             -4.388613,
-            54.319216
+            54.319217
           ],
           [
             -4.388685,
@@ -23807,12 +23885,12 @@
             54.318894
           ],
           [
-            -4.388735,
-            54.318519
+            -4.388746,
+            54.318582
           ],
           [
-            -4.388901,
-            54.318165
+            -4.388869,
+            54.318237
           ],
           [
             -4.389423,
@@ -25431,6 +25509,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:place": "Spring Valley Industrial Estate",
+        "addr:postcode": "IM2 2QT",
         "addr:unit": "35",
         "brand": "B&Q",
         "brand:wikidata": "Q707602",
@@ -25441,7 +25520,7 @@
         "postal_code": "IM2 2QT",
         "shop": "doityourself",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.diy.com/"
+        "website": "https://www.diy.com/store/1095"
       }
     },
     {
@@ -26153,6 +26232,55 @@
         "healthcare": "dentist",
         "postal_code": "IM9 6DJ",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60177062,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.634647,
+            54.169119
+          ],
+          [
+            -4.634377,
+            54.169221
+          ],
+          [
+            -4.634324,
+            54.169173
+          ],
+          [
+            -4.634274,
+            54.169192
+          ],
+          [
+            -4.634173,
+            54.169101
+          ],
+          [
+            -4.634493,
+            54.16898
+          ],
+          [
+            -4.634647,
+            54.169119
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Foxdale",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 3EX",
+        "addr:street": "Mines Road",
+        "building": "yes",
+        "name": "Bettridge Motors",
+        "postal_code": "IM4 3HW",
+        "shop": "car",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.bettridges.com"
       }
     },
     {
@@ -29439,45 +29567,47 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.465399,
-            54.166381
+            -4.46537,
+            54.16638
           ],
           [
-            -4.465525,
-            54.166328
+            -4.465494,
+            54.166332
           ],
           [
-            -4.465342,
-            54.166193
+            -4.465378,
+            54.16623
           ],
           [
-            -4.465394,
-            54.166222
+            -4.465397,
+            54.166223
           ],
           [
-            -4.465281,
-            54.166131
+            -4.465284,
+            54.166122
           ],
           [
-            -4.465114,
-            54.166186
+            -4.465118,
+            54.166187
           ],
           [
-            -4.465197,
-            54.166258
+            -4.465198,
+            54.166257
           ],
           [
-            -4.465219,
-            54.166246
+            -4.46522,
+            54.166249
           ],
           [
-            -4.465399,
-            54.166381
+            -4.46537,
+            54.16638
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:postcode": "IM2 4NN",
         "addr:street": "Queens Promenade",
         "building": "yes",
         "fixme": "approximate location",
@@ -29488,6 +29618,94 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.regency.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80824187,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470836,
+            54.163091
+          ],
+          [
+            -4.470284,
+            54.163356
+          ],
+          [
+            -4.470219,
+            54.16331
+          ],
+          [
+            -4.470194,
+            54.163322
+          ],
+          [
+            -4.470087,
+            54.16324
+          ],
+          [
+            -4.470658,
+            54.162965
+          ],
+          [
+            -4.470836,
+            54.163091
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Queens Apartments",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "building": "apartments",
+        "postal_code": "IM2 4NX;IM2 4NY;IM2 4NZ",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80830547,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47365,
+            54.161127
+          ],
+          [
+            -4.473862,
+            54.16096
+          ],
+          [
+            -4.474158,
+            54.161089
+          ],
+          [
+            -4.473946,
+            54.161256
+          ],
+          [
+            -4.47381,
+            54.161196
+          ],
+          [
+            -4.47365,
+            54.161127
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "demolished:building": "yes",
+        "name": "Imperial Hotel",
+        "postal_code": "IM2 4LU",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -29526,12 +29744,15 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "6",
+        "addr:postcode": "IM2 4LU",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castlemona Terrace",
         "building": "yes",
         "name": "Savoy",
         "postal_code": "IM2 4LU",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:substreet": "Isle of Man Government Planning Applications",
         "tourism": "hotel",
         "twitter": "savoyiom",
         "website": "https://www.savoyiom.com/"
@@ -29774,67 +29995,6 @@
         "postal_code": "IM2 4WD",
         "shop": "car",
         "source": "Bing"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 99323317,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.384126,
-            54.321117
-          ],
-          [
-            -4.38455,
-            54.321137
-          ],
-          [
-            -4.384533,
-            54.32125
-          ],
-          [
-            -4.384478,
-            54.321248
-          ],
-          [
-            -4.384446,
-            54.321467
-          ],
-          [
-            -4.384078,
-            54.321449
-          ],
-          [
-            -4.384087,
-            54.321389
-          ],
-          [
-            -4.384126,
-            54.321117
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Christian Street",
-        "brand": "Co-op Food",
-        "brand:wikidata": "Q3277439",
-        "building": "yes",
-        "check_date": "2024-07-15",
-        "check_date:opening_hours": "2024-07-15",
-        "name": "Co-op Food",
-        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
-        "operator": "The Co-operative Group",
-        "operator:wikidata": "Q117202",
-        "postal_code": "IM8 1DG",
-        "shop": "supermarket",
-        "source": "Bing;survey",
-        "website": "https://www.coop.co.uk/store-finder/IM8-1DG/3-christian-street",
-        "wheelchair": "yes"
       }
     },
     {
@@ -36658,57 +36818,6 @@
     },
     {
       "type": "Feature",
-      "id": 420028936,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.48046,
-            54.149152
-          ],
-          [
-            -4.480443,
-            54.14917
-          ],
-          [
-            -4.480201,
-            54.149164
-          ],
-          [
-            -4.480223,
-            54.14902
-          ],
-          [
-            -4.480321,
-            54.149019
-          ],
-          [
-            -4.480444,
-            54.149042
-          ],
-          [
-            -4.48046,
-            54.149152
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "57-61",
-        "addr:street": "Victoria Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "4",
-        "building:material": "plaster",
-        "description": "\"Sound & vision, home appliances, computing\"",
-        "name": "Colebourn",
-        "postal_code": "IM1 2RP",
-        "shop": "electronics",
-        "website": "http://www.colebourn.com"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 420028939,
       "geometry": {
         "type": "LineString",
@@ -38710,6 +38819,8 @@
       },
       "properties": {
         "highway": "residential",
+        "lane_markings": "no",
+        "lanes": "2",
         "lit": "yes",
         "name": "School Close",
         "name:en": "School Close",
@@ -42053,6 +42164,67 @@
     },
     {
       "type": "Feature",
+      "id": 1194879902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692163,
+            54.222829
+          ],
+          [
+            -4.69209,
+            54.222829
+          ],
+          [
+            -4.692067,
+            54.222835
+          ],
+          [
+            -4.692052,
+            54.222844
+          ],
+          [
+            -4.692049,
+            54.222856
+          ],
+          [
+            -4.692132,
+            54.222963
+          ],
+          [
+            -4.692222,
+            54.222937
+          ],
+          [
+            -4.6922,
+            54.222904
+          ],
+          [
+            -4.692151,
+            54.222878
+          ],
+          [
+            -4.692163,
+            54.222829
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "name": "Black Grace Cowley",
+        "office": "estate_agent",
+        "postal_code": "IM5 1HE",
+        "website": "https://www.blackgracecowley.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1197166903,
       "geometry": {
         "type": "LineString",
@@ -43011,6 +43183,43 @@
         "postal_code": "IM9 6PR",
         "source:name": "Milk Production Holding Register",
         "source:postal_code": "Milk Production Holding Register"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1317699924,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.455171,
+            54.167157
+          ],
+          [
+            -4.455216,
+            54.16721
+          ],
+          [
+            -4.455277,
+            54.167273
+          ],
+          [
+            -4.455402,
+            54.167374
+          ],
+          [
+            -4.455473,
+            54.167466
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "name": "Strathallan Road",
+        "name:en": "Strathallan Road",
+        "postal_code": "IM3 1HL",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

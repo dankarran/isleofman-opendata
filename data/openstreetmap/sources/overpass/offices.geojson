@@ -4282,6 +4282,82 @@
     },
     {
       "type": "Feature",
+      "id": 146972146,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694418,
+            54.222389
+          ],
+          [
+            -4.694328,
+            54.222311
+          ],
+          [
+            -4.694179,
+            54.222372
+          ],
+          [
+            -4.69421,
+            54.222398
+          ],
+          [
+            -4.694195,
+            54.222405
+          ],
+          [
+            -4.694218,
+            54.222423
+          ],
+          [
+            -4.694198,
+            54.222429
+          ],
+          [
+            -4.694193,
+            54.222458
+          ],
+          [
+            -4.694154,
+            54.222457
+          ],
+          [
+            -4.69415,
+            54.222505
+          ],
+          [
+            -4.694288,
+            54.222509
+          ],
+          [
+            -4.694298,
+            54.222439
+          ],
+          [
+            -4.694418,
+            54.222389
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Old Post Office",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "name": "Ormco Accounts",
+        "office": "accountant",
+        "phone": "+44 1624 610547",
+        "was:amenity": "post_office",
+        "website": "https://ormcoaccounts.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 152690553,
       "geometry": {
         "type": "LineString",
@@ -8158,6 +8234,67 @@
         "name": "Land-tec Landscaping Services Ltd",
         "office": "landscape_gardener",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1194879902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692163,
+            54.222829
+          ],
+          [
+            -4.69209,
+            54.222829
+          ],
+          [
+            -4.692067,
+            54.222835
+          ],
+          [
+            -4.692052,
+            54.222844
+          ],
+          [
+            -4.692049,
+            54.222856
+          ],
+          [
+            -4.692132,
+            54.222963
+          ],
+          [
+            -4.692222,
+            54.222937
+          ],
+          [
+            -4.6922,
+            54.222904
+          ],
+          [
+            -4.692151,
+            54.222878
+          ],
+          [
+            -4.692163,
+            54.222829
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "name": "Black Grace Cowley",
+        "office": "estate_agent",
+        "postal_code": "IM5 1HE",
+        "website": "https://www.blackgracecowley.com/",
+        "wheelchair": "yes"
       }
     },
     {

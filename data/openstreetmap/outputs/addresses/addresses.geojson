@@ -28,6 +28,34 @@
     },
     {
       "type": "Feature",
+      "id": 283505240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.457233,
+          54.173653
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 1BA",
+        "addr:street": "Onchan Main Road",
+        "amenity": "fuel",
+        "brand": "Corkills",
+        "contact:facebook": "https://www.facebook.com/@corkillsgarageiom/",
+        "mapillary": "422312739462222",
+        "survey:date": "2021-09-24",
+        "osm_id": 283505240,
+        "lon": -4.457233,
+        "lat": 54.173653,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/283505240"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 449276695,
       "geometry": {
         "type": "Point",
@@ -1335,6 +1363,36 @@
     },
     {
       "type": "Feature",
+      "id": 476150244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469476,
+          54.16358
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15-16",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Penta Hotel",
+        "postal_code": "IM2 4NP",
+        "tourism": "hotel",
+        "website": "https://www.penta.im",
+        "osm_id": 476150244,
+        "lon": -4.469476,
+        "lat": 54.16358,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/476150244"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 480468839,
       "geometry": {
         "type": "Point",
@@ -1442,6 +1500,34 @@
         "lat": 54.152699,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/502471206"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 502471259,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.472667,
+          54.161768
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4LZ",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Castle Mona Colonnade",
+        "contact:phone": "+44 1624 616516",
+        "name": "Utopia Hair Care",
+        "opening_hours": "Mo-Sa 09:00-17:30",
+        "shop": "hairdresser",
+        "website": "https://www.utopiahaircare.com/",
+        "osm_id": 502471259,
+        "lon": -4.472667,
+        "lat": 54.161768,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/502471259"
       }
     },
     {
@@ -1580,32 +1666,6 @@
         "lat": 54.224187,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/549539655"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 549539673,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.692098,
-          54.222902
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "9",
-        "addr:postcode": "IM5 1HE",
-        "addr:street": "Atholl Place",
-        "name": "Black Grace Cowley",
-        "shop": "estate_agent",
-        "website": "https://www.blackgracecowley.com/",
-        "osm_id": 549539673,
-        "lon": -4.692098,
-        "lat": 54.222902,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/549539673"
       }
     },
     {
@@ -2336,6 +2396,7 @@
         "addr:housenumber": "26",
         "addr:postcode": "IM2 4NF",
         "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
         "children": "no",
         "fixme": "check if still exists",
         "name": "Inglewood",
@@ -3160,6 +3221,37 @@
         "lat": 54.150004,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/3095361477"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3414866984,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.472912,
+          54.161594
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4LZ",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Castle Mona Colonnade",
+        "addr:unit": "C",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:SPAR (retailer)",
+        "entrance": "main",
+        "name": "Spar",
+        "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal18829-spar-central-promenade",
+        "osm_id": 3414866984,
+        "lon": -4.472912,
+        "lat": 54.161594,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/3414866984"
       }
     },
     {
@@ -9089,6 +9181,38 @@
     },
     {
       "type": "Feature",
+      "id": 11698003301,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.472473,
+          54.161906
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4LZ",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Castle Mona Colonnade",
+        "addr:unit": "J",
+        "amenity": "restaurant",
+        "contact:phone": "+44 1624 614001",
+        "contact:website": "https://neospizza.co.uk/",
+        "cuisine": "pizza",
+        "entrance": "main",
+        "name": "Neos",
+        "opening_hours": "Su-Th 18:00-21:00, Fr-Sa 17:00-23:00",
+        "strapline": "Sourdough pizza",
+        "osm_id": 11698003301,
+        "lon": -4.472473,
+        "lat": 54.161906,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/11698003301"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 11737422225,
       "geometry": {
         "type": "Point",
@@ -9881,6 +10005,57 @@
         "lat": 54.195354,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12003494521"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12007363590,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.463228,
+          54.167141
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 4PG",
+        "addr:street": "Summer Hill",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12007363590,
+        "lon": -4.463228,
+        "lat": 54.167141,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12007363590"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12007363596,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.461858,
+          54.167795
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4PE",
+        "addr:street": "Summer Hill",
+        "addr:substreet": "Mount William",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12007363596,
+        "lon": -4.461858,
+        "lat": 54.167795,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12007363596"
       }
     },
     {
@@ -10830,6 +11005,186 @@
         "lat": 54.148675,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12182121447"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621814,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469347,
+          54.163653
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "name": "At Caledonia",
+        "tourism": "hotel",
+        "website": "https://www.caledonia.im",
+        "osm_id": 12188621814,
+        "lon": -4.469347,
+        "lat": 54.163653,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621814"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621815,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469184,
+          54.163754
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "18-19",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "name": "Trevelyan",
+        "tourism": "hotel",
+        "website": "http://www.trevelyanhotel.co.uk",
+        "osm_id": 12188621815,
+        "lon": -4.469184,
+        "lat": 54.163754,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621815"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12188621816,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.468978,
+          54.163898
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "19-23",
+        "addr:postcode": "IM2 4NF",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "name": "Rutland",
+        "tourism": "hotel",
+        "website": "https://www.sleepwellhotels.com/rutland/",
+        "osm_id": 12188621816,
+        "lon": -4.468978,
+        "lat": 54.163898,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12188621816"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12189766747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694298,
+          54.22238
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:postcode": "IM5 1BB",
+        "addr:street": "Douglas Street",
+        "name": "Old Post Office Flat",
+        "tourism": "apartment",
+        "website": "https://www.visitisleofman.com/stay/old-post-office-flat-p1290061",
+        "osm_id": 12189766747,
+        "lon": -4.694298,
+        "lat": 54.22238,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12189766747"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195309141,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.463614,
+          54.167142
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4PQ",
+        "addr:street": "Summer Hill Place",
+        "name": "Little Haven",
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/accommodation/little-haven-p1372061",
+        "osm_id": 12195309141,
+        "lon": -4.463614,
+        "lat": 54.167142,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195309141"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333904,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456889,
+          54.173265
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Aurora Brides",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM3 1LZ",
+        "addr:street": "Summer Hill",
+        "name": "Aurora Brides",
+        "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
+        "phone": "+44 1624 664088",
+        "shop": "yes",
+        "osm_id": 12195333904,
+        "lon": -4.456889,
+        "lat": 54.173265,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333904"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333905,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456848,
+          54.17333
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM3 1LZ",
+        "addr:street": "Summer Hill",
+        "name": "Hearing Solutions",
+        "shop": "hearing_aids",
+        "website": "https://www.iomhearingsolutions.im",
+        "osm_id": 12195333905,
+        "lon": -4.456848,
+        "lat": 54.17333,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333905"
       }
     },
     {
@@ -12453,28 +12808,44 @@
             54.319067
           ],
           [
+            -4.391581,
+            54.31898
+          ],
+          [
             -4.391537,
             54.318645
           ],
           [
-            -4.391607,
-            54.318438
+            -4.391521,
+            54.31857
           ],
           [
-            -4.3916,
-            54.318317
+            -4.391597,
+            54.318526
           ],
           [
-            -4.391285,
-            54.318343
+            -4.391563,
+            54.318465
           ],
           [
-            -4.391024,
-            54.318365
+            -4.391568,
+            54.318451
           ],
           [
-            -4.390492,
-            54.318484
+            -4.391415,
+            54.318437
+          ],
+          [
+            -4.39105,
+            54.318447
+          ],
+          [
+            -4.390685,
+            54.318453
+          ],
+          [
+            -4.390472,
+            54.318491
           ],
           [
             -4.390079,
@@ -12494,7 +12865,7 @@
           ],
           [
             -4.388613,
-            54.319216
+            54.319217
           ],
           [
             -4.388685,
@@ -12505,12 +12876,12 @@
             54.318894
           ],
           [
-            -4.388735,
-            54.318519
+            -4.388746,
+            54.318582
           ],
           [
-            -4.388901,
-            54.318165
+            -4.388869,
+            54.318237
           ],
           [
             -4.389423,
@@ -12645,8 +13016,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "website": "https://www.ramseygolfclub.im/",
         "osm_id": 39658883,
-        "lon": -4.3963468783825626,
-        "lat": 54.31804231180123,
+        "lon": -4.396372290713221,
+        "lat": 54.3180436270623,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/39658883"
       }
@@ -16082,6 +16453,69 @@
     },
     {
       "type": "Feature",
+      "id": 59522622,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.529135,
+            54.15082
+          ],
+          [
+            -4.528792,
+            54.151084
+          ],
+          [
+            -4.527461,
+            54.150481
+          ],
+          [
+            -4.527659,
+            54.150336
+          ],
+          [
+            -4.527805,
+            54.150229
+          ],
+          [
+            -4.527915,
+            54.150278
+          ],
+          [
+            -4.528623,
+            54.150593
+          ],
+          [
+            -4.529135,
+            54.15082
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Spring Valley Industrial Estate",
+        "addr:postcode": "IM2 2QT",
+        "addr:unit": "35",
+        "brand": "B&Q",
+        "brand:wikidata": "Q707602",
+        "brand:wikipedia": "en:B&Q",
+        "building": "yes",
+        "landuse": "retail",
+        "name": "B&Q",
+        "postal_code": "IM2 2QT",
+        "shop": "doityourself",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.diy.com/store/1095",
+        "osm_id": 59522622,
+        "lon": -4.528299076145216,
+        "lat": 54.150654294791146,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/59522622"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59523528,
       "geometry": {
         "type": "LineString",
@@ -19380,6 +19814,56 @@
     },
     {
       "type": "Feature",
+      "id": 60048766,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.755017,
+            54.08443
+          ],
+          [
+            -4.754856,
+            54.08437
+          ],
+          [
+            -4.754963,
+            54.084272
+          ],
+          [
+            -4.755124,
+            54.084332
+          ],
+          [
+            -4.755017,
+            54.08443
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housename": "Fromer Commissioners' Depot",
+        "addr:postcode": "IM9 6EE",
+        "addr:street": "Droghadfayle Road",
+        "amenity": "pub",
+        "building": "industrial",
+        "contact:email": "hello@kerroobrewing.com",
+        "contact:website": "https://kerroobrewing.com/",
+        "craft": "brewery",
+        "microbrewery": "yes",
+        "name": "Kerroo Brewing Company",
+        "opening_hours": "Fr 17:00-22:00, Sa 14:00-22:00",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 60048766,
+        "lon": -4.754989999999999,
+        "lat": 54.084351000000005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60048766"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60177026,
       "geometry": {
         "type": "LineString",
@@ -19450,6 +19934,60 @@
         "lat": 54.19963877801155,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60177026"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60177062,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.634647,
+            54.169119
+          ],
+          [
+            -4.634377,
+            54.169221
+          ],
+          [
+            -4.634324,
+            54.169173
+          ],
+          [
+            -4.634274,
+            54.169192
+          ],
+          [
+            -4.634173,
+            54.169101
+          ],
+          [
+            -4.634493,
+            54.16898
+          ],
+          [
+            -4.634647,
+            54.169119
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Foxdale",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 3EX",
+        "addr:street": "Mines Road",
+        "building": "yes",
+        "name": "Bettridge Motors",
+        "postal_code": "IM4 3HW",
+        "shop": "car",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.bettridges.com",
+        "osm_id": 60177062,
+        "lon": -4.6344106763767,
+        "lat": 54.1691064068699,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60177062"
       }
     },
     {
@@ -30698,7 +31236,10 @@
         "addr:postcode": "IM5 1HP",
         "addr:street": "Derby Road",
         "building": "retail",
+        "building:use": "retail",
+        "name": "Tesco",
         "old_name": "Shoprite",
+        "operator": "Tesco",
         "toilets:wheelchair": "yes",
         "was:shop": "supermarket",
         "wheelchair": "yes",
@@ -31157,6 +31698,54 @@
     },
     {
       "type": "Feature",
+      "id": 77818776,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470836,
+            54.163091
+          ],
+          [
+            -4.470658,
+            54.162965
+          ],
+          [
+            -4.470831,
+            54.162878
+          ],
+          [
+            -4.471071,
+            54.163047
+          ],
+          [
+            -4.470899,
+            54.163131
+          ],
+          [
+            -4.470836,
+            54.163091
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Queens Mansions",
+        "addr:postcode": "IM2 4ND",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "building": "apartments",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 77818776,
+        "lon": -4.4708643126334575,
+        "lat": 54.16300537143004,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/77818776"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 77818790,
       "geometry": {
         "type": "LineString",
@@ -31216,6 +31805,148 @@
         "lat": 54.16548936688148,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/77818790"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77818798,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.466911,
+            54.165597
+          ],
+          [
+            -4.466399,
+            54.165856
+          ],
+          [
+            -4.466229,
+            54.165741
+          ],
+          [
+            -4.466742,
+            54.165482
+          ],
+          [
+            -4.466911,
+            54.165597
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Century Court",
+        "addr:postcode": "IM2 4NT",
+        "addr:street": "Queens Promenade",
+        "building": "apartments",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 77818798,
+        "lon": -4.466570065359921,
+        "lat": 54.16566903584093,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/77818798"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77818808,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467359,
+            54.165235
+          ],
+          [
+            -4.467216,
+            54.165162
+          ],
+          [
+            -4.467651,
+            54.164871
+          ],
+          [
+            -4.467862,
+            54.164735
+          ],
+          [
+            -4.467867,
+            54.164738
+          ],
+          [
+            -4.467925,
+            54.164765
+          ],
+          [
+            -4.468004,
+            54.164802
+          ],
+          [
+            -4.467359,
+            54.165235
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Piccadilly Court",
+        "addr:postcode": "IM2 4NS",
+        "addr:street": "Queens Promenade",
+        "building": "apartments",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 77818808,
+        "lon": -4.467609398451758,
+        "lat": 54.16498346752634,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/77818808"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77818818,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4662,
+            54.165749
+          ],
+          [
+            -4.466366,
+            54.165881
+          ],
+          [
+            -4.465458,
+            54.166273
+          ],
+          [
+            -4.465397,
+            54.166223
+          ],
+          [
+            -4.465284,
+            54.166122
+          ],
+          [
+            -4.4662,
+            54.165749
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Millennium Court",
+        "addr:postcode": "IM2 4NN",
+        "addr:street": "Queens Promenade",
+        "building": "apartments",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 77818818,
+        "lon": -4.465823473997794,
+        "lat": 54.16600777897423,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/77818818"
       }
     },
     {
@@ -37460,6 +38191,115 @@
     },
     {
       "type": "Feature",
+      "id": 80822489,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.46537,
+            54.16638
+          ],
+          [
+            -4.465494,
+            54.166332
+          ],
+          [
+            -4.465378,
+            54.16623
+          ],
+          [
+            -4.465397,
+            54.166223
+          ],
+          [
+            -4.465284,
+            54.166122
+          ],
+          [
+            -4.465118,
+            54.166187
+          ],
+          [
+            -4.465198,
+            54.166257
+          ],
+          [
+            -4.46522,
+            54.166249
+          ],
+          [
+            -4.46537,
+            54.16638
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4NN",
+        "addr:street": "Queens Promenade",
+        "building": "yes",
+        "fixme": "approximate location",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Regency Hotel",
+        "postal_code": "IM2 4NN",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "hotel",
+        "website": "https://www.regency.im",
+        "osm_id": 80822489,
+        "lon": -4.465310967922684,
+        "lat": 54.16624956048364,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/80822489"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80830543,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474702,
+            54.16064
+          ],
+          [
+            -4.474413,
+            54.160518
+          ],
+          [
+            -4.473999,
+            54.160855
+          ],
+          [
+            -4.474289,
+            54.160977
+          ],
+          [
+            -4.474702,
+            54.16064
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Empress Apartments",
+        "addr:postcode": "IM2 4EE",
+        "addr:street": "Central Promenade",
+        "building": "apartments",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 80830543,
+        "lon": -4.474350571417969,
+        "lat": 54.16074756370425,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/80830543"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 80830546,
       "geometry": {
         "type": "LineString",
@@ -37511,6 +38351,117 @@
         "lat": 54.15941045247254,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80830546"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80830548,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47365,
+            54.161127
+          ],
+          [
+            -4.473564,
+            54.161195
+          ],
+          [
+            -4.473873,
+            54.16133
+          ],
+          [
+            -4.473917,
+            54.161295
+          ],
+          [
+            -4.473768,
+            54.161229
+          ],
+          [
+            -4.47381,
+            54.161196
+          ],
+          [
+            -4.47365,
+            54.161127
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4LU",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Castlemona Terrace",
+        "building": "yes",
+        "name": "Saint Helier's",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:substreet": "Isle of Man Government Planning Applications",
+        "was:tourism": "hotel",
+        "website": "https://www.stheliers.im",
+        "osm_id": 80830548,
+        "lon": -4.473744992434045,
+        "lat": 54.16123042182954,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/80830548"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80830551,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473494,
+            54.16125
+          ],
+          [
+            -4.473435,
+            54.161296
+          ],
+          [
+            -4.47376,
+            54.161438
+          ],
+          [
+            -4.473818,
+            54.161392
+          ],
+          [
+            -4.47366,
+            54.161322
+          ],
+          [
+            -4.473494,
+            54.16125
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 4LU",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Castlemona Terrace",
+        "building": "yes",
+        "name": "Savoy",
+        "postal_code": "IM2 4LU",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:substreet": "Isle of Man Government Planning Applications",
+        "tourism": "hotel",
+        "twitter": "savoyiom",
+        "website": "https://www.savoyiom.com/",
+        "osm_id": 80830551,
+        "lon": -4.473626627194427,
+        "lat": 54.161343829062034,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/80830551"
       }
     },
     {
@@ -45007,6 +45958,72 @@
         "lat": 54.174432848667784,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/97313615"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 99323317,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384126,
+            54.321117
+          ],
+          [
+            -4.38455,
+            54.321137
+          ],
+          [
+            -4.384533,
+            54.32125
+          ],
+          [
+            -4.384478,
+            54.321248
+          ],
+          [
+            -4.384446,
+            54.321467
+          ],
+          [
+            -4.384078,
+            54.321449
+          ],
+          [
+            -4.384087,
+            54.321389
+          ],
+          [
+            -4.384126,
+            54.321117
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM8 1DG",
+        "addr:street": "Christian Street",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
+        "building": "yes",
+        "check_date": "2024-07-15",
+        "check_date:opening_hours": "2024-07-15",
+        "name": "Co-op Food",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
+        "operator": "The Co-operative Group",
+        "operator:wikidata": "Q117202",
+        "shop": "supermarket",
+        "source": "Bing;survey",
+        "website": "https://www.coop.co.uk/store-finder/IM8-1DG/3-christian-street",
+        "wheelchair": "yes",
+        "osm_id": 99323317,
+        "lon": -4.384306928408637,
+        "lat": 54.32128474950497,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/99323317"
       }
     },
     {
@@ -60225,6 +61242,7 @@
         "addr:housenumber": "2",
         "addr:postcode": "IM8 1LA",
         "addr:street": "Parliament Street",
+        "alt_name": "Saddle Buildings",
         "building": "yes",
         "listed_status": "Registered",
         "name": "Feltons",
@@ -73773,6 +74791,51 @@
     },
     {
       "type": "Feature",
+      "id": 146907383,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.696631,
+            54.222974
+          ],
+          [
+            -4.696544,
+            54.222959
+          ],
+          [
+            -4.696586,
+            54.222875
+          ],
+          [
+            -4.696672,
+            54.22289
+          ],
+          [
+            -4.696631,
+            54.222974
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Corner Cottage",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM5 1AW",
+        "addr:street": "Church Lane",
+        "building": "yes",
+        "name": "Corner Cottage",
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/stay/corner-cottage-p1404561",
+        "osm_id": 146907383,
+        "lon": -4.696608140894827,
+        "lat": 54.222924604858534,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146907383"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146910948,
       "geometry": {
         "type": "LineString",
@@ -74694,6 +75757,146 @@
     },
     {
       "type": "Feature",
+      "id": 146972146,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694418,
+            54.222389
+          ],
+          [
+            -4.694328,
+            54.222311
+          ],
+          [
+            -4.694179,
+            54.222372
+          ],
+          [
+            -4.69421,
+            54.222398
+          ],
+          [
+            -4.694195,
+            54.222405
+          ],
+          [
+            -4.694218,
+            54.222423
+          ],
+          [
+            -4.694198,
+            54.222429
+          ],
+          [
+            -4.694193,
+            54.222458
+          ],
+          [
+            -4.694154,
+            54.222457
+          ],
+          [
+            -4.69415,
+            54.222505
+          ],
+          [
+            -4.694288,
+            54.222509
+          ],
+          [
+            -4.694298,
+            54.222439
+          ],
+          [
+            -4.694418,
+            54.222389
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Old Post Office",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "name": "Ormco Accounts",
+        "office": "accountant",
+        "phone": "+44 1624 610547",
+        "was:amenity": "post_office",
+        "website": "https://ormcoaccounts.com/",
+        "wheelchair": "yes",
+        "osm_id": 146972146,
+        "lon": -4.694266052350547,
+        "lat": 54.22241690748052,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146972146"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146972155,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.69517,
+            54.222781
+          ],
+          [
+            -4.695107,
+            54.222822
+          ],
+          [
+            -4.695274,
+            54.222904
+          ],
+          [
+            -4.695282,
+            54.222908
+          ],
+          [
+            -4.695312,
+            54.22289
+          ],
+          [
+            -4.695297,
+            54.222881
+          ],
+          [
+            -4.695331,
+            54.222861
+          ],
+          [
+            -4.69517,
+            54.222781
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM5 1BA",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "building:use": "commercial",
+        "name": "JAC Stores",
+        "shop": "hardware",
+        "website": "https://shop.jacstores.co.uk/",
+        "wheelchair": "yes",
+        "osm_id": 146972155,
+        "lon": -4.695224184906381,
+        "lat": 54.22284487679578,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146972155"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146980703,
       "geometry": {
         "type": "LineString",
@@ -74975,6 +76178,56 @@
     },
     {
       "type": "Feature",
+      "id": 147183381,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692558,
+            54.221916
+          ],
+          [
+            -4.692377,
+            54.22186
+          ],
+          [
+            -4.692475,
+            54.221753
+          ],
+          [
+            -4.692655,
+            54.221808
+          ],
+          [
+            -4.692558,
+            54.221916
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Atholl Street",
+        "amenity": "fuel",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:SPAR (retailer)",
+        "building": "yes",
+        "name": "Spar",
+        "shop": "convenience",
+        "website": "https://www.spar.co.uk/store-locator/hal18989-spar-peel",
+        "wheelchair": "yes",
+        "osm_id": 147183381,
+        "lon": -4.692516168097688,
+        "lat": 54.22183435343001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147183381"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147183390,
       "geometry": {
         "type": "LineString",
@@ -75077,6 +76330,69 @@
         "lat": 54.22388771355631,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/147183393"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147183411,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692216,
+            54.222457
+          ],
+          [
+            -4.692157,
+            54.222441
+          ],
+          [
+            -4.692016,
+            54.222403
+          ],
+          [
+            -4.69184,
+            54.222355
+          ],
+          [
+            -4.691749,
+            54.222471
+          ],
+          [
+            -4.691809,
+            54.222487
+          ],
+          [
+            -4.691918,
+            54.222516
+          ],
+          [
+            -4.692125,
+            54.222572
+          ],
+          [
+            -4.692216,
+            54.222457
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM5 1HQ",
+        "addr:street": "Atholl Street",
+        "building": "yes",
+        "name": "Storemann Ltd",
+        "opening_hours": "24/7",
+        "shop": "storage_rental",
+        "website": "https://www.storemann.com/",
+        "wheelchair": "yes",
+        "osm_id": 147183411,
+        "lon": -4.691982380918713,
+        "lat": 54.22246367046286,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/147183411"
       }
     },
     {
@@ -75467,12 +76783,8 @@
         "addr:housenumber": "2",
         "addr:postcode": "IM5 1HE",
         "addr:street": "Atholl Place",
-        "amenity": "restaurant",
         "building": "yes",
-        "cuisine": "chinese",
-        "name": "Hong Kong Delight",
         "source:addr": "Isle of Man Government Companies Registry",
-        "wheelchair": "no",
         "osm_id": 147191845,
         "lon": -4.692529940238222,
         "lat": 54.222770621214835,
@@ -75528,7 +76840,12 @@
         "cuisine": "indian",
         "fixme": "restaurant probably only takes up half of this building",
         "name": "Royal India",
+        "opening_hours": "Tu-Su 17:00-23:00; PH closed",
+        "reservation": "recommended",
         "source:addr": "Isle of Man Government Companies Registry",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
         "wheelchair": "yes",
         "osm_id": 147191861,
         "lon": -4.692394585497812,
@@ -79082,6 +80399,273 @@
     },
     {
       "type": "Feature",
+      "id": 158903135,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476473,
+            54.158398
+          ],
+          [
+            -4.476516,
+            54.158339
+          ],
+          [
+            -4.476668,
+            54.158385
+          ],
+          [
+            -4.476656,
+            54.158398
+          ],
+          [
+            -4.476833,
+            54.158451
+          ],
+          [
+            -4.476802,
+            54.158496
+          ],
+          [
+            -4.476473,
+            54.158398
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LR",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "The Esplanade",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 158903135,
+        "lon": -4.476652368400191,
+        "lat": 54.158419457686385,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158903135"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158903137,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476381,
+            54.158495
+          ],
+          [
+            -4.476426,
+            54.158452
+          ],
+          [
+            -4.476578,
+            54.158497
+          ],
+          [
+            -4.476562,
+            54.158506
+          ],
+          [
+            -4.476683,
+            54.158542
+          ],
+          [
+            -4.476654,
+            54.158576
+          ],
+          [
+            -4.476381,
+            54.158495
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 4LR",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "The Esplanade",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 158903137,
+        "lon": -4.476533928039761,
+        "lat": 54.158514552573834,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158903137"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158903138,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476293,
+            54.158596
+          ],
+          [
+            -4.476333,
+            54.15855
+          ],
+          [
+            -4.476485,
+            54.158595
+          ],
+          [
+            -4.47647,
+            54.158612
+          ],
+          [
+            -4.476633,
+            54.15866
+          ],
+          [
+            -4.476608,
+            54.15869
+          ],
+          [
+            -4.476552,
+            54.158673
+          ],
+          [
+            -4.476293,
+            54.158596
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 4LR",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "The Esplanade",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 158903138,
+        "lon": -4.476462637471906,
+        "lat": 54.158622070627125,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158903138"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158903140,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476333,
+            54.15855
+          ],
+          [
+            -4.476381,
+            54.158495
+          ],
+          [
+            -4.476654,
+            54.158576
+          ],
+          [
+            -4.47671,
+            54.158593
+          ],
+          [
+            -4.476676,
+            54.158633
+          ],
+          [
+            -4.476498,
+            54.15858
+          ],
+          [
+            -4.476485,
+            54.158595
+          ],
+          [
+            -4.476333,
+            54.15855
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4LR",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "The Esplanade",
+        "building": "yes",
+        "guest_house": "guest_house",
+        "name": "The Blossoms",
+        "tourism": "guest_house",
+        "website": "https://www.visitisleofman.com/stay/the-blossoms-on-the-bay-p1287731",
+        "osm_id": 158903140,
+        "lon": -4.476520280773728,
+        "lat": 54.15856680231296,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158903140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158903141,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476426,
+            54.158452
+          ],
+          [
+            -4.476473,
+            54.158398
+          ],
+          [
+            -4.476802,
+            54.158496
+          ],
+          [
+            -4.476767,
+            54.158536
+          ],
+          [
+            -4.47659,
+            54.158483
+          ],
+          [
+            -4.476578,
+            54.158497
+          ],
+          [
+            -4.476426,
+            54.158452
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4LR",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "The Esplanade",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 158903141,
+        "lon": -4.47661274994926,
+        "lat": 54.1584696483147,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/158903141"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 158973759,
       "geometry": {
         "type": "LineString",
@@ -80415,6 +81999,67 @@
         "lat": 54.196678393895745,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/160411573"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 160722265,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469906,
+            54.163324
+          ],
+          [
+            -4.470087,
+            54.16324
+          ],
+          [
+            -4.470194,
+            54.163322
+          ],
+          [
+            -4.47017,
+            54.163332
+          ],
+          [
+            -4.470273,
+            54.163413
+          ],
+          [
+            -4.470141,
+            54.163471
+          ],
+          [
+            -4.470048,
+            54.163397
+          ],
+          [
+            -4.470016,
+            54.163411
+          ],
+          [
+            -4.469906,
+            54.163324
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Avondale House",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "building": "yes",
+        "source": "Bing",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 160722265,
+        "lon": -4.4700954431949755,
+        "lat": 54.163357603428466,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/160722265"
       }
     },
     {
@@ -81837,6 +83482,8 @@
         "building": "yes",
         "name": "Gelatory",
         "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "toilets": "no",
+        "wheelchair": "no",
         "osm_id": 168817261,
         "lon": -4.69739844134101,
         "lat": 54.223893046294315,
@@ -82121,6 +83768,61 @@
         "lat": 54.254563091120644,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/170244853"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 170515383,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.457277,
+            54.17379
+          ],
+          [
+            -4.457197,
+            54.173731
+          ],
+          [
+            -4.457213,
+            54.173724
+          ],
+          [
+            -4.457357,
+            54.173657
+          ],
+          [
+            -4.457437,
+            54.173715
+          ],
+          [
+            -4.457277,
+            54.17379
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 1BA",
+        "addr:street": "Onchan Main Road",
+        "building": "yes",
+        "currency:XBT": "yes",
+        "name": "Karsons Pharmacy",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+44 1624 615150;+441624615150",
+        "shop": "chemist",
+        "survey:date": "2022-09-23",
+        "website": "https://karsonspharmacy.co.uk/",
+        "osm_id": 170515383,
+        "lon": -4.457316968542094,
+        "lat": 54.17372336498435,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/170515383"
       }
     },
     {
@@ -84639,6 +86341,52 @@
         "lat": 54.148988291102945,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/204133176"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204133177,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.526923,
+            54.149386
+          ],
+          [
+            -4.526222,
+            54.149925
+          ],
+          [
+            -4.526721,
+            54.150147
+          ],
+          [
+            -4.527421,
+            54.149608
+          ],
+          [
+            -4.526923,
+            54.149386
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:place": "Spring Valley Industrial Estate",
+        "addr:postcode": "IM2 2QR",
+        "addr:unit": "1",
+        "building": "commercial",
+        "name": "Agrimark",
+        "shop": "wholesale",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.agrimark.im",
+        "osm_id": 204133177,
+        "lon": -4.526821569001943,
+        "lat": 54.14976655533806,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/204133177"
       }
     },
     {
@@ -112822,6 +114570,62 @@
     },
     {
       "type": "Feature",
+      "id": 420028936,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48046,
+            54.149152
+          ],
+          [
+            -4.480443,
+            54.14917
+          ],
+          [
+            -4.480201,
+            54.149164
+          ],
+          [
+            -4.480223,
+            54.14902
+          ],
+          [
+            -4.480321,
+            54.149019
+          ],
+          [
+            -4.480444,
+            54.149042
+          ],
+          [
+            -4.48046,
+            54.149152
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "57-61",
+        "addr:postcode": "IM1 2RP",
+        "addr:street": "Victoria Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "description": "\"Sound & vision, home appliances, computing\"",
+        "name": "Colebourn",
+        "shop": "electronics",
+        "website": "https://www.colebourn.com",
+        "osm_id": 420028936,
+        "lon": -4.480327762171956,
+        "lat": 54.14909952377035,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/420028936"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 420028937,
       "geometry": {
         "type": "LineString",
@@ -119303,10 +121107,6 @@
         "addr:postcode": "IM3 1LZ",
         "addr:street": "Summer Hill",
         "building": "yes",
-        "name": "Aurora Brides",
-        "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
-        "phone": "+44 162 466 4088",
-        "shop": "yes",
         "osm_id": 813624413,
         "lon": -4.456934065033875,
         "lat": 54.17321910696019,
@@ -127222,6 +129022,92 @@
         "lat": 54.318300453445055,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963255501"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963255578,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.389761,
+            54.321439
+          ],
+          [
+            -4.389245,
+            54.321562
+          ],
+          [
+            -4.389184,
+            54.321475
+          ],
+          [
+            -4.389701,
+            54.321353
+          ],
+          [
+            -4.389761,
+            54.321439
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "IM8 2LR",
+        "addr:street": "Lezayre Road",
+        "addr:substreet": "Altdale Terrace",
+        "building": "terrace",
+        "source:addr": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 963255578,
+        "lon": -4.3894724497964415,
+        "lat": 54.321457291794495,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963255578"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963255582,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.390587,
+            54.321238
+          ],
+          [
+            -4.390079,
+            54.321371
+          ],
+          [
+            -4.390008,
+            54.321279
+          ],
+          [
+            -4.390516,
+            54.321146
+          ],
+          [
+            -4.390587,
+            54.321238
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "IM8 2LX",
+        "addr:street": "Lezayre Road",
+        "addr:substreet": "Hespera Terrace",
+        "building": "terrace",
+        "source:addr": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 963255582,
+        "lon": -4.3902975,
+        "lat": 54.3212585,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/963255582"
       }
     },
     {
@@ -145553,6 +147439,278 @@
     },
     {
       "type": "Feature",
+      "id": 1154135515,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475914,
+            54.158999
+          ],
+          [
+            -4.475969,
+            54.158932
+          ],
+          [
+            -4.476196,
+            54.158998
+          ],
+          [
+            -4.476138,
+            54.159065
+          ],
+          [
+            -4.475914,
+            54.158999
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Grosvenor Court",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LN",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Derby Terrace",
+        "alt_name": "Grosvenor",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Planning Applications",
+        "source:addr:housenumber": "Isle of Man Government Planning Applications",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:substreet": "Isle of Man Government Planning Applications",
+        "source:alt_name": "streetside",
+        "osm_id": 1154135515,
+        "lon": -4.47605471398967,
+        "lat": 54.15899844941687,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1154135515"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154135517,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475914,
+            54.158999
+          ],
+          [
+            -4.475868,
+            54.159054
+          ],
+          [
+            -4.476044,
+            54.159105
+          ],
+          [
+            -4.476061,
+            54.159086
+          ],
+          [
+            -4.476242,
+            54.159139
+          ],
+          [
+            -4.476272,
+            54.159104
+          ],
+          [
+            -4.476191,
+            54.159081
+          ],
+          [
+            -4.476138,
+            54.159065
+          ],
+          [
+            -4.475914,
+            54.158999
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Palm Court",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4LN",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Derby Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Planning Applications",
+        "source:addr:housenumber": "interpolation",
+        "osm_id": 1154135517,
+        "lon": -4.476068172373668,
+        "lat": 54.15907320675666,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1154135517"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154135518,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475868,
+            54.159054
+          ],
+          [
+            -4.475771,
+            54.159164
+          ],
+          [
+            -4.475947,
+            54.159218
+          ],
+          [
+            -4.475964,
+            54.159199
+          ],
+          [
+            -4.476007,
+            54.159211
+          ],
+          [
+            -4.476045,
+            54.159166
+          ],
+          [
+            -4.476004,
+            54.159154
+          ],
+          [
+            -4.476044,
+            54.159105
+          ],
+          [
+            -4.475868,
+            54.159054
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Angel Court",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4LN",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Derby Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Planning Applications",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "source:addr:substreet": "Isle of Man Government Planning Applications",
+        "osm_id": 1154135518,
+        "lon": -4.475922326298293,
+        "lat": 54.15914193792617,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1154135518"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154135519,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475771,
+            54.159164
+          ],
+          [
+            -4.475725,
+            54.159219
+          ],
+          [
+            -4.476134,
+            54.159348
+          ],
+          [
+            -4.476192,
+            54.159293
+          ],
+          [
+            -4.475947,
+            54.159218
+          ],
+          [
+            -4.475771,
+            54.159164
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 4LN",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Derby Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "osm_id": 1154135519,
+        "lon": -4.475957460553552,
+        "lat": 54.159256225390045,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1154135519"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154135524,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474805,
+            54.160206
+          ],
+          [
+            -4.474926,
+            54.160108
+          ],
+          [
+            -4.475216,
+            54.16023
+          ],
+          [
+            -4.475098,
+            54.160327
+          ],
+          [
+            -4.474805,
+            54.160206
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Castlemere",
+        "addr:housenumber": "2-3",
+        "addr:postcode": "IM2 4LJ",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Castle Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "streetside",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1154135524,
+        "lon": -4.475010640057795,
+        "lat": 54.1602176825821,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1154135524"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1154135527,
       "geometry": {
         "type": "LineString",
@@ -145968,9 +148126,8 @@
         "contact:facebook": "https://www.facebook.com/PremierKitchensLtd/",
         "contact:mobile": "+44 7624 479272;+44 7624 221083;+44 7624 397529",
         "contact:phone": "+44 1624 612159",
-        "fixme": "Resurvey opening hours once refurbishment complete",
         "name": "Premier Kitchens",
-        "opening_hours": "\"Only by appointment while under refurbishment\"",
+        "opening_hours": "Mo-Fr 09:30-16:30, Sa 09:30-13:00, \"Out of hours, by appointment\"",
         "shop": "kitchen",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154142805,
@@ -150086,6 +152243,326 @@
     },
     {
       "type": "Feature",
+      "id": 1172466770,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461515,
+            54.167239
+          ],
+          [
+            -4.461659,
+            54.167201
+          ],
+          [
+            -4.461769,
+            54.167344
+          ],
+          [
+            -4.461695,
+            54.167364
+          ],
+          [
+            -4.461678,
+            54.167342
+          ],
+          [
+            -4.461609,
+            54.167361
+          ],
+          [
+            -4.461515,
+            54.167239
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466770,
+        "lon": -4.461643093660975,
+        "lat": 54.16728850887078,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466770"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466773,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461364,
+            54.16727
+          ],
+          [
+            -4.461492,
+            54.167244
+          ],
+          [
+            -4.461564,
+            54.167365
+          ],
+          [
+            -4.461517,
+            54.167374
+          ],
+          [
+            -4.461544,
+            54.167419
+          ],
+          [
+            -4.461463,
+            54.167436
+          ],
+          [
+            -4.461364,
+            54.16727
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466773,
+        "lon": -4.461471669774712,
+        "lat": 54.16733736316102,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466773"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466774,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461463,
+            54.167436
+          ],
+          [
+            -4.461404,
+            54.167448
+          ],
+          [
+            -4.461388,
+            54.167422
+          ],
+          [
+            -4.461358,
+            54.167428
+          ],
+          [
+            -4.461336,
+            54.167392
+          ],
+          [
+            -4.461275,
+            54.167289
+          ],
+          [
+            -4.461364,
+            54.16727
+          ],
+          [
+            -4.461463,
+            54.167436
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466774,
+        "lon": -4.461369698832467,
+        "lat": 54.16736054909553,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466774"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466775,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461275,
+            54.167289
+          ],
+          [
+            -4.461163,
+            54.167313
+          ],
+          [
+            -4.461259,
+            54.167477
+          ],
+          [
+            -4.461348,
+            54.16746
+          ],
+          [
+            -4.461311,
+            54.167397
+          ],
+          [
+            -4.461336,
+            54.167392
+          ],
+          [
+            -4.461275,
+            54.167289
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466775,
+        "lon": -4.46126338600118,
+        "lat": 54.16738163862969,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466775"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466776,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461163,
+            54.167313
+          ],
+          [
+            -4.46114,
+            54.167318
+          ],
+          [
+            -4.461048,
+            54.167336
+          ],
+          [
+            -4.461119,
+            54.167457
+          ],
+          [
+            -4.461162,
+            54.167449
+          ],
+          [
+            -4.461187,
+            54.167491
+          ],
+          [
+            -4.461259,
+            54.167477
+          ],
+          [
+            -4.461163,
+            54.167313
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466776,
+        "lon": -4.461155190155372,
+        "lat": 54.16740265232399,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466776"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466777,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462055,
+            54.1671
+          ],
+          [
+            -4.462196,
+            54.167245
+          ],
+          [
+            -4.462238,
+            54.167231
+          ],
+          [
+            -4.462248,
+            54.167241
+          ],
+          [
+            -4.462275,
+            54.167231
+          ],
+          [
+            -4.46231,
+            54.167267
+          ],
+          [
+            -4.462404,
+            54.167236
+          ],
+          [
+            -4.462276,
+            54.167103
+          ],
+          [
+            -4.462219,
+            54.167046
+          ],
+          [
+            -4.462055,
+            54.1671
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466777,
+        "lon": -4.462230851508403,
+        "lat": 54.16716297721722,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466777"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1172466778,
       "geometry": {
         "type": "LineString",
@@ -150134,6 +152611,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:housenumber": "5",
         "addr:postcode": "IM2 4NR",
         "addr:street": "Strathallan Crescent",
         "building": "yes",
@@ -150145,6 +152623,250 @@
         "lat": 54.16707178508214,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1172466778"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466779,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462384,
+            54.166991
+          ],
+          [
+            -4.462522,
+            54.166944
+          ],
+          [
+            -4.462657,
+            54.167078
+          ],
+          [
+            -4.462599,
+            54.167098
+          ],
+          [
+            -4.462556,
+            54.167056
+          ],
+          [
+            -4.462476,
+            54.167084
+          ],
+          [
+            -4.462444,
+            54.167052
+          ],
+          [
+            -4.462384,
+            54.166991
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466779,
+        "lon": -4.462522095687661,
+        "lat": 54.16702708878533,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466779"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466780,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462522,
+            54.166944
+          ],
+          [
+            -4.462663,
+            54.166895
+          ],
+          [
+            -4.462763,
+            54.166992
+          ],
+          [
+            -4.462679,
+            54.167021
+          ],
+          [
+            -4.462716,
+            54.167058
+          ],
+          [
+            -4.462657,
+            54.167078
+          ],
+          [
+            -4.462522,
+            54.166944
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466780,
+        "lon": -4.4626496404474345,
+        "lat": 54.166984002911626,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466780"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466781,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462691,
+            54.166897
+          ],
+          [
+            -4.462707,
+            54.166892
+          ],
+          [
+            -4.462864,
+            54.166839
+          ],
+          [
+            -4.462952,
+            54.166933
+          ],
+          [
+            -4.462919,
+            54.166944
+          ],
+          [
+            -4.462953,
+            54.166978
+          ],
+          [
+            -4.462847,
+            54.167014
+          ],
+          [
+            -4.462771,
+            54.166937
+          ],
+          [
+            -4.462741,
+            54.166947
+          ],
+          [
+            -4.462691,
+            54.166897
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466781,
+        "lon": -4.462836145314935,
+        "lat": 54.16692576106954,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466781"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1172466782,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.462864,
+            54.166839
+          ],
+          [
+            -4.462979,
+            54.166801
+          ],
+          [
+            -4.462988,
+            54.16681
+          ],
+          [
+            -4.463007,
+            54.166804
+          ],
+          [
+            -4.463043,
+            54.166812
+          ],
+          [
+            -4.463059,
+            54.166829
+          ],
+          [
+            -4.463055,
+            54.166845
+          ],
+          [
+            -4.463038,
+            54.16685
+          ],
+          [
+            -4.463062,
+            54.166876
+          ],
+          [
+            -4.46316,
+            54.166844
+          ],
+          [
+            -4.463197,
+            54.166883
+          ],
+          [
+            -4.462973,
+            54.166955
+          ],
+          [
+            -4.462952,
+            54.166933
+          ],
+          [
+            -4.462864,
+            54.166839
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4NR",
+        "addr:street": "Strathallan Crescent",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1172466782,
+        "lon": -4.4630286622617295,
+        "lat": 54.16687203002749,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1172466782"
       }
     },
     {
@@ -151010,6 +153732,72 @@
         "lat": 54.279737359223304,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1191887724"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1194879902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.692163,
+            54.222829
+          ],
+          [
+            -4.69209,
+            54.222829
+          ],
+          [
+            -4.692067,
+            54.222835
+          ],
+          [
+            -4.692052,
+            54.222844
+          ],
+          [
+            -4.692049,
+            54.222856
+          ],
+          [
+            -4.692132,
+            54.222963
+          ],
+          [
+            -4.692222,
+            54.222937
+          ],
+          [
+            -4.6922,
+            54.222904
+          ],
+          [
+            -4.692151,
+            54.222878
+          ],
+          [
+            -4.692163,
+            54.222829
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM5 1HE",
+        "addr:street": "Atholl Place",
+        "name": "Black Grace Cowley",
+        "office": "estate_agent",
+        "postal_code": "IM5 1HE",
+        "website": "https://www.blackgracecowley.com/",
+        "wheelchair": "yes",
+        "osm_id": 1194879902,
+        "lon": -4.692134899724008,
+        "lat": 54.22289094839991,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1194879902"
       }
     },
     {
@@ -166599,6 +169387,61 @@
         "lat": 54.15783641122024,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1315219942"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1317251970,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469906,
+            54.163324
+          ],
+          [
+            -4.469749,
+            54.163393
+          ],
+          [
+            -4.469974,
+            54.163565
+          ],
+          [
+            -4.470111,
+            54.163504
+          ],
+          [
+            -4.47,
+            54.163418
+          ],
+          [
+            -4.470016,
+            54.163411
+          ],
+          [
+            -4.469906,
+            54.163324
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Beresford House",
+        "addr:housenumber": "11-12",
+        "addr:postcode": "IM2 4NE",
+        "addr:street": "Queens Promenade",
+        "addr:substreet": "Palace Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1317251970,
+        "lon": -4.469933572621227,
+        "lat": 54.1634439609814,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1317251970"
       }
     }
   ]
