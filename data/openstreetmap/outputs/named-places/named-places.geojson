@@ -1461,7 +1461,9 @@
       "properties": {
         "name": "West Nappin",
         "place": "farm",
+        "postal_code": "IM7 3AY",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475392797,
         "lon": -4.537489,
         "lat": 54.352539,
@@ -1697,7 +1699,9 @@
       "properties": {
         "name": "Archdeacons Close",
         "place": "farm",
+        "postal_code": "IM7 3BX",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475392817,
         "lon": -4.481474,
         "lat": 54.338461,
@@ -2296,29 +2300,6 @@
         "lat": 54.339652,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475392884"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 475392887,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.536658,
-          54.337097
-        ]
-      },
-      "properties": {
-        "name": "White Gables",
-        "place": "farm",
-        "postal_code": "IM7 5BG",
-        "source": "Isle of Man Government 1:25000 map (2007)",
-        "tourism": "chalet",
-        "osm_id": 475392887,
-        "lon": -4.536658,
-        "lat": 54.337097,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/475392887"
       }
     },
     {
@@ -3851,7 +3832,9 @@
       "properties": {
         "name": "The Glades",
         "place": "farm",
+        "postal_code": "IM7 3AE",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393044,
         "lon": -4.498602,
         "lat": 54.339338,
@@ -4386,7 +4369,9 @@
       "properties": {
         "name": "Farrants Fort",
         "place": "farm",
+        "postal_code": "IM7 2EN",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475393119,
         "lon": -4.451694,
         "lat": 54.339418,
@@ -6101,7 +6086,9 @@
       "properties": {
         "name": "Ballafletcher",
         "place": "farm",
+        "postal_code": "IM7 3HD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393384,
         "lon": -4.476387,
         "lat": 54.361837,
@@ -6527,7 +6514,9 @@
       "properties": {
         "name": "Ballaghennie",
         "place": "farm",
+        "postal_code": "IM7 4BF",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393444,
         "lon": -4.405608,
         "lat": 54.394055,
@@ -7439,7 +7428,9 @@
       "properties": {
         "name": "West Craig",
         "place": "farm",
+        "postal_code": "IM7 3BY",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393562,
         "lon": -4.474583,
         "lat": 54.341941,
@@ -7508,7 +7499,9 @@
       "properties": {
         "name": "Ballachurry",
         "place": "farm",
+        "postal_code": "IM7 2EN",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475393569,
         "lon": -4.455374,
         "lat": 54.340248,
@@ -7571,7 +7564,9 @@
       "properties": {
         "name": "Kerrowkneale",
         "place": "farm",
+        "postal_code": "IM7 3BR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393578,
         "lon": -4.493539,
         "lat": 54.356184,
@@ -7705,7 +7700,9 @@
       "properties": {
         "name": "Ballaterson Beg Farm",
         "place": "farm",
+        "postal_code": "IM7 5BN",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393596,
         "lon": -4.529688,
         "lat": 54.320937,
@@ -8706,7 +8703,9 @@
       "properties": {
         "name": "Kerrowmoar Farm",
         "place": "farm",
+        "postal_code": "IM7 3HE",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393720,
         "lon": -4.467662,
         "lat": 54.361885,
@@ -8768,8 +8767,11 @@
       },
       "properties": {
         "name": "Cronk Ruagh",
-        "place": "farm",
+        "name:gv": "Cronk Ruagh",
+        "place": "locality",
+        "postal_code": "IM7 2ED",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393726,
         "lon": -4.415628,
         "lat": 54.330158,
@@ -9327,7 +9329,9 @@
       "properties": {
         "name": "Ballamona Beg Farm",
         "place": "farm",
+        "postal_code": "IM7 5AU",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393779,
         "lon": -4.542021,
         "lat": 54.331083,
@@ -10741,7 +10745,9 @@
       "properties": {
         "name": "Ballacottier",
         "place": "farm",
+        "postal_code": "IM7 4BL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393978,
         "lon": -4.377981,
         "lat": 54.378703,
@@ -10812,7 +10818,9 @@
       "properties": {
         "name": "Ballaghaue Mansion",
         "place": "farm",
+        "postal_code": "IM7 4EW",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393984,
         "lon": -4.434192,
         "lat": 54.365316,
@@ -11727,7 +11735,9 @@
       "properties": {
         "name": "Woodlands",
         "place": "farm",
+        "postal_code": "IM7 3BR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394090,
         "lon": -4.492136,
         "lat": 54.353287,
@@ -11748,7 +11758,9 @@
       "properties": {
         "name": "Ballasalla Farm",
         "place": "farm",
+        "postal_code": "IM7 3AS",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394097,
         "lon": -4.548855,
         "lat": 54.347941,
@@ -11790,7 +11802,9 @@
       "properties": {
         "name": "Ballaseyr",
         "place": "farm",
+        "postal_code": "IM7 4EW",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394101,
         "lon": -4.431124,
         "lat": 54.362077,
@@ -12220,7 +12234,9 @@
       "properties": {
         "name": "Close Vark",
         "place": "farm",
+        "postal_code": "IM7 3HG",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394141,
         "lon": -4.451695,
         "lat": 54.347773,
@@ -12718,7 +12734,9 @@
       "properties": {
         "name": "Ellan Farm",
         "place": "farm",
+        "postal_code": "IM7 3HA",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394195,
         "lon": -4.49334,
         "lat": 54.360437,
@@ -12975,7 +12993,9 @@
       "properties": {
         "name": "Willow Grove",
         "place": "farm",
+        "postal_code": "IM7 3BU",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394226,
         "lon": -4.489927,
         "lat": 54.346686,
@@ -13676,7 +13696,9 @@
       "properties": {
         "name": "Westhill Farm",
         "place": "farm",
+        "postal_code": "IM7 2EA",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394303,
         "lon": -4.410182,
         "lat": 54.330976,
@@ -13994,7 +14016,9 @@
       "properties": {
         "name": "Shellag",
         "place": "farm",
+        "postal_code": "IM7 4AR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394338,
         "lon": -4.378679,
         "lat": 54.372766,
@@ -14809,7 +14833,9 @@
       "properties": {
         "name": "Robins Croft",
         "place": "farm",
+        "postal_code": "IM7 3BX",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394425,
         "lon": -4.476797,
         "lat": 54.339803,
@@ -16947,7 +16973,9 @@
       "properties": {
         "name": "Ballaholly",
         "place": "farm",
+        "postal_code": "IM7 3AS",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394650,
         "lon": -4.548587,
         "lat": 54.345924,
@@ -17104,7 +17132,9 @@
       "properties": {
         "name": "Ballacoraige",
         "place": "farm",
+        "postal_code": "IM7 5AT",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394672,
         "lon": -4.551138,
         "lat": 54.327094,
@@ -17253,7 +17283,9 @@
       "properties": {
         "name": "Ballacleator Farm",
         "place": "farm",
+        "postal_code": "IM7 2EP",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394689,
         "lon": -4.466197,
         "lat": 54.345711,
@@ -17979,7 +18011,9 @@
       "properties": {
         "name": "Sunnycroft",
         "place": "farm",
+        "postal_code": "IM7 3HB",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394757,
         "lon": -4.490665,
         "lat": 54.359647,
@@ -18496,7 +18530,9 @@
       "properties": {
         "name": "Close Lake",
         "place": "farm",
+        "postal_code": "IM7 2EJ",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
         "osm_id": 475394919,
         "lon": -4.43964,
         "lat": 54.333132,
@@ -19621,7 +19657,9 @@
       "properties": {
         "name": "Rowan Gate",
         "place": "farm",
+        "postal_code": "IM7 3BR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475395063,
         "lon": -4.489621,
         "lat": 54.350645,

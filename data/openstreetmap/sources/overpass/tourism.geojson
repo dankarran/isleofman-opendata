@@ -626,16 +626,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.536658,
-          54.337097
+          -4.536645,
+          54.337255
         ]
       },
       "properties": {
-        "name": "White Gables",
-        "place": "farm",
-        "postal_code": "IM7 5BG",
+        "addr:city": "Ballaugh",
+        "addr:housename": "White Gables",
+        "addr:postcode": "IM7 5BG",
+        "addr:street": "Old Windmill Road",
+        "name": "White Gables Cottage",
         "source": "Isle of Man Government 1:25000 map (2007)",
-        "tourism": "chalet"
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/accommodation/white-gables-cottage-p1290711"
       }
     },
     {
@@ -4510,30 +4513,6 @@
         "name": "Old post boxes",
         "photo": "http://www.island-images.co.uk/2013/1304/1304181542.html",
         "tourism": "attraction"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12154106564,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.388217,
-          54.327932
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housename": "Baie Mooar House",
-        "addr:postcode": "IM8 3EQ",
-        "addr:street": "Coburg Road",
-        "guest_house": "guest_house",
-        "name": "Baie Mooar House",
-        "name:en": "Baie Mooar House",
-        "name:gv": "Baie Mooar",
-        "tourism": "guest_house",
-        "website": "https://www.baiemooar.com"
       }
     },
     {
@@ -13201,6 +13180,7 @@
         "addr:housenumber": "45",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "name": "Monaville Hotel",
         "source": "Bing",
         "source:addr:housenumber": "interpolation",
         "tourism": "hotel"
@@ -17874,6 +17854,79 @@
         "source:addr:housename": "streetside",
         "tourism": "chalet",
         "website": "http://gardenwalk.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223830,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388214,
+            54.327836
+          ],
+          [
+            -4.388354,
+            54.327734
+          ],
+          [
+            -4.388398,
+            54.327755
+          ],
+          [
+            -4.38835,
+            54.327789
+          ],
+          [
+            -4.388388,
+            54.327806
+          ],
+          [
+            -4.388264,
+            54.327896
+          ],
+          [
+            -4.38832,
+            54.327922
+          ],
+          [
+            -4.388209,
+            54.328003
+          ],
+          [
+            -4.3881,
+            54.327952
+          ],
+          [
+            -4.388125,
+            54.327934
+          ],
+          [
+            -4.388098,
+            54.327921
+          ],
+          [
+            -4.388214,
+            54.327836
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Baie Mooar House",
+        "addr:postcode": "IM8 3EQ",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "contact:email": "bookings@baiemooar.com",
+        "contact:phone": "+44 7624 304403",
+        "guest_house": "guest_house",
+        "name": "Baie Mooar House",
+        "name:en": "Baie Mooar House",
+        "name:gv": "Baie Mooar",
+        "tourism": "guest_house",
+        "website": "https://www.baiemooar.com/"
       }
     },
     {

@@ -1496,7 +1496,7 @@
         "level": "1",
         "name": "Silva Consulting",
         "office": "yes",
-        "website": "https://www.silvaqs.im",
+        "website": "https://www.silvaqs.im/",
         "osm_id": 11951973541,
         "lon": -4.480245,
         "lat": 54.148354,
@@ -10100,67 +10100,6 @@
         "lat": 54.1462345,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1308483344"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1316161295,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.480847,
-            54.148348
-          ],
-          [
-            -4.480683,
-            54.148352
-          ],
-          [
-            -4.480684,
-            54.148368
-          ],
-          [
-            -4.480571,
-            54.148371
-          ],
-          [
-            -4.480562,
-            54.148252
-          ],
-          [
-            -4.480739,
-            54.148247
-          ],
-          [
-            -4.480741,
-            54.148276
-          ],
-          [
-            -4.480866,
-            54.148272
-          ],
-          [
-            -4.480871,
-            54.148337
-          ],
-          [
-            -4.480847,
-            54.148348
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "fixme": "looks like they have moved to South Quay",
-        "name": "Savage + Chadwick",
-        "office": "architect",
-        "website": "https://www.savagechadwick.com",
-        "osm_id": 1316161295,
-        "lon": -4.480708136257827,
-        "lat": 54.148307776661305,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/1316161295"
       }
     }
   ]

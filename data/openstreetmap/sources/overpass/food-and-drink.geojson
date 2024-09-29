@@ -4800,39 +4800,39 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480741,
-            54.147776
+            -4.480725,
+            54.147773
           ],
           [
-            -4.480736,
-            54.147713
+            -4.48072,
+            54.147715
           ],
           [
-            -4.480583,
-            54.147718
+            -4.480567,
+            54.14772
           ],
           [
-            -4.480553,
-            54.14774
+            -4.480537,
+            54.147743
           ],
           [
-            -4.480556,
-            54.147781
+            -4.480539,
+            54.147778
           ],
           [
-            -4.480714,
-            54.147776
+            -4.480697,
+            54.147774
           ],
           [
-            -4.480741,
-            54.147776
+            -4.480725,
+            54.147773
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "31",
+        "addr:housenumber": "31,31a",
         "addr:street": "North Quay",
         "amenity": "cafe",
         "building": "yes",
@@ -10508,24 +10508,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480572,
-            54.147986
+            -4.480556,
+            54.147988
           ],
           [
-            -4.480575,
-            54.148031
+            -4.480559,
+            54.148033
           ],
           [
-            -4.480811,
-            54.148026
+            -4.480795,
+            54.148029
           ],
           [
-            -4.480806,
-            54.14798
+            -4.48079,
+            54.147982
           ],
           [
-            -4.480572,
-            54.147986
+            -4.480556,
+            54.147988
           ]
         ]
       },
@@ -10535,14 +10535,60 @@
         "addr:housenumber": "9",
         "addr:postcode": "IM1 1EW",
         "addr:street": "Ridgeway Street",
+        "amenity": "cafe",
+        "building": "yes",
+        "building:levels": "3",
+        "building:material": "brick",
+        "contact:email": "hello@vibecafe.im",
+        "contact:phone": "+44 1624 612355",
+        "contact:website": "https://www.vibeplantbasedcafe.com/",
+        "cuisine": "vegan",
+        "name": "Vibe",
+        "opening_hours": "We-Sa 11:00-14:00, 17:30-20:00, Su 11:00-15:00",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 410363363,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480548,
+            54.147893
+          ],
+          [
+            -4.480755,
+            54.147889
+          ],
+          [
+            -4.480753,
+            54.147846
+          ],
+          [
+            -4.480545,
+            54.14785
+          ],
+          [
+            -4.480548,
+            54.147893
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM1 1EW",
+        "addr:street": "Ridgeway Street",
         "amenity": "restaurant",
         "building": "yes",
         "building:levels": "3",
         "building:material": "brick",
-        "cuisine": "fish",
-        "name": "Tanroagan",
-        "source": "Isle of Man Government aerial imagery (2001);Bing;photo",
-        "website": "http://www.tanroagan.co.uk"
+        "cuisine": "crepe",
+        "name": "Bonjour Creperie",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
       }
     },
     {
@@ -10588,6 +10634,7 @@
         "building:levels": "4",
         "building:material": "plaster",
         "name": "Spill The Beans",
+        "opening_hours": "Mo-Fr 07:30-17:00, Sa 10:00-17:00",
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
       }
     },
@@ -13343,6 +13390,10 @@
             54.324162
           ],
           [
+            -4.380963,
+            54.324206
+          ],
+          [
             -4.380933,
             54.324212
           ],
@@ -13369,6 +13420,7 @@
         "addr:housename": "Mooragh Promenade",
         "addr:postcode": "IM8 3AB",
         "addr:street": "Mooragh Promenade",
+        "alt_name": "Ramsey Pool Cafe",
         "amenity": "cafe",
         "building": "commercial",
         "building:levels": "1",

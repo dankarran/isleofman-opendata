@@ -7757,59 +7757,6 @@
     },
     {
       "type": "Feature",
-      "id": 79143113,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.480572,
-            54.147986
-          ],
-          [
-            -4.480806,
-            54.14798
-          ],
-          [
-            -4.480795,
-            54.147887
-          ],
-          [
-            -4.480722,
-            54.147888
-          ],
-          [
-            -4.480564,
-            54.147891
-          ],
-          [
-            -4.480572,
-            54.147986
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "5-7",
-        "addr:postcode": "IM1 1EW",
-        "addr:street": "Ridgeway Street",
-        "brand": "Joe Jennings",
-        "brand:wikidata": "Q113499916",
-        "building": "yes",
-        "building:levels": "3",
-        "building:material": "brick",
-        "name": "Joe Jennings",
-        "shop": "bookmaker",
-        "source": "photo",
-        "osm_id": 79143113,
-        "lon": -4.480683971329827,
-        "lat": 54.14793617838077,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/79143113"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 79143389,
       "geometry": {
         "type": "LineString",
@@ -19600,6 +19547,54 @@
     },
     {
       "type": "Feature",
+      "id": 410363362,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48072,
+            54.147715
+          ],
+          [
+            -4.480725,
+            54.147773
+          ],
+          [
+            -4.480802,
+            54.147772
+          ],
+          [
+            -4.480812,
+            54.147713
+          ],
+          [
+            -4.48072,
+            54.147715
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "30",
+        "addr:street": "North Quay",
+        "building": "yes",
+        "building:levels": "3",
+        "contact:phone": "+44 7624 493592",
+        "description": "Tug and barge owners",
+        "name": "Laxey Towing Company Ltd",
+        "roof:levels": "1",
+        "shop": "marine",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;photo",
+        "osm_id": 410363362,
+        "lon": -4.480765054724843,
+        "lat": 54.14774171590411,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/410363362"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 410363365,
       "geometry": {
         "type": "LineString",
@@ -21374,6 +21369,7 @@
         "building:colour": "red",
         "building:levels": "4",
         "building:material": "plaster",
+        "check_date": "2024-09-29",
         "old_name": "Holloways",
         "roof:levels": "1",
         "shop": "vacant",
@@ -24019,6 +24015,7 @@
         "addr:country": "IM",
         "addr:housename": "Strand Shopping Centre",
         "addr:street": "Strand Street",
+        "check_date": "2024-09-29",
         "old_name": "Jessops",
         "postal_code": "IM1 2EF",
         "shop": "vacant",
@@ -24068,7 +24065,7 @@
         "addr:street": "Strand Street",
         "name": "Ali's Gadget",
         "postal_code": "IM1 2EJ",
-        "shop": "yes",
+        "shop": "gift",
         "osm_id": 419113941,
         "lon": -4.479324804244805,
         "lat": 54.15142178395851,
@@ -30826,59 +30823,6 @@
         "lat": 54.14973513089307,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1243246102"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1243330738,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.405882,
-            54.231853
-          ],
-          [
-            -4.405991,
-            54.231881
-          ],
-          [
-            -4.405966,
-            54.231915
-          ],
-          [
-            -4.40596,
-            54.231923
-          ],
-          [
-            -4.405943,
-            54.231946
-          ],
-          [
-            -4.405834,
-            54.231918
-          ],
-          [
-            -4.405858,
-            54.231886
-          ],
-          [
-            -4.405882,
-            54.231853
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Laxey",
-        "addr:country": "IM",
-        "addr:housenumber": "3",
-        "addr:street": "Tramway Close",
-        "shop": "vacant",
-        "osm_id": 1243330738,
-        "lon": -4.405912529907819,
-        "lat": 54.23189952221264,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/1243330738"
       }
     },
     {

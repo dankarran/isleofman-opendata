@@ -952,6 +952,25 @@
     },
     {
       "type": "Feature",
+      "id": 475393726,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.415628,
+          54.330158
+        ]
+      },
+      "properties": {
+        "name": "Cronk Ruagh",
+        "name:gv": "Cronk Ruagh",
+        "place": "locality",
+        "postal_code": "IM7 2ED",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393804,
       "geometry": {
         "type": "Point",
@@ -5642,30 +5661,6 @@
         "name:gv": "Illiam y Radlagh",
         "subject:wikidata": "Q97585479",
         "subject:wikipedia": "en:Bill Radcliffe"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12154106564,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.388217,
-          54.327932
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housename": "Baie Mooar House",
-        "addr:postcode": "IM8 3EQ",
-        "addr:street": "Coburg Road",
-        "guest_house": "guest_house",
-        "name": "Baie Mooar House",
-        "name:en": "Baie Mooar House",
-        "name:gv": "Baie Mooar",
-        "tourism": "guest_house",
-        "website": "https://www.baiemooar.com"
       }
     },
     {
@@ -14332,7 +14327,9 @@
         "maxweight": "7 t",
         "maxweight:conditional": "none @ (destination)",
         "name": "Bayr Rheynn Doo",
-        "name:gv": "Bayr Rheynn Doo"
+        "name:en": "Rhendoo Road",
+        "name:gv": "Bayr Rheynn Doo",
+        "source:name": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -20259,8 +20256,8 @@
             54.148208
           ],
           [
-            -4.478767,
-            54.148206
+            -4.478769,
+            54.148207
           ],
           [
             -4.478467,
@@ -25087,6 +25084,14 @@
         "type": "LineString",
         "coordinates": [
           [
+            -4.688375,
+            54.218787
+          ],
+          [
+            -4.688433,
+            54.218824
+          ],
+          [
             -4.688765,
             54.219013
           ],
@@ -28265,7 +28270,7 @@
         "alt_name": "Queens Drive",
         "highway": "unclassified",
         "name": "Queen's Drive West",
-        "name:en": "Queens Drive West",
+        "name:en": "Queen's Drive West",
         "name:gv": "Bayr Balleystowell"
       }
     },
@@ -38667,6 +38672,44 @@
     },
     {
       "type": "Feature",
+      "id": 26987233,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480088,
+            54.148489
+          ],
+          [
+            -4.480085,
+            54.148443
+          ],
+          [
+            -4.480073,
+            54.148275
+          ],
+          [
+            -4.480062,
+            54.148116
+          ],
+          [
+            -4.48004,
+            54.147953
+          ]
+        ]
+      },
+      "properties": {
+        "access": "destination",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Post Office Lane",
+        "name:en": "Post Office Lane",
+        "name:gv": "Lhoan Oik Postagh",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 26987236,
       "geometry": {
         "type": "LineString",
@@ -39936,8 +39979,8 @@
             54.148527
           ],
           [
-            -4.4801,
-            54.148488
+            -4.480088,
+            54.148489
           ]
         ]
       },
@@ -40085,6 +40128,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxlength": "14",
         "maxlength:conditional": "none @ destination",
         "maxspeed": "30 mph",
@@ -44591,6 +44635,234 @@
     },
     {
       "type": "Feature",
+      "id": 38528405,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481715,
+            54.149117
+          ],
+          [
+            -4.481675,
+            54.149086
+          ],
+          [
+            -4.481666,
+            54.149078
+          ],
+          [
+            -4.481642,
+            54.149059
+          ],
+          [
+            -4.481618,
+            54.149041
+          ],
+          [
+            -4.481594,
+            54.149021
+          ],
+          [
+            -4.481555,
+            54.149039
+          ],
+          [
+            -4.48151,
+            54.149059
+          ],
+          [
+            -4.481352,
+            54.14893
+          ],
+          [
+            -4.481401,
+            54.148911
+          ],
+          [
+            -4.481497,
+            54.148873
+          ],
+          [
+            -4.481573,
+            54.148843
+          ],
+          [
+            -4.481585,
+            54.148853
+          ],
+          [
+            -4.481732,
+            54.148796
+          ],
+          [
+            -4.481687,
+            54.148761
+          ],
+          [
+            -4.48191,
+            54.148665
+          ],
+          [
+            -4.481948,
+            54.148648
+          ],
+          [
+            -4.48202,
+            54.148617
+          ],
+          [
+            -4.481968,
+            54.148574
+          ],
+          [
+            -4.482051,
+            54.148539
+          ],
+          [
+            -4.482068,
+            54.148532
+          ],
+          [
+            -4.482085,
+            54.148524
+          ],
+          [
+            -4.482078,
+            54.148519
+          ],
+          [
+            -4.482138,
+            54.148492
+          ],
+          [
+            -4.482189,
+            54.148531
+          ],
+          [
+            -4.482206,
+            54.148547
+          ],
+          [
+            -4.482713,
+            54.148333
+          ],
+          [
+            -4.482761,
+            54.148325
+          ],
+          [
+            -4.482773,
+            54.148337
+          ],
+          [
+            -4.483406,
+            54.148269
+          ],
+          [
+            -4.483813,
+            54.148224
+          ],
+          [
+            -4.483836,
+            54.148246
+          ],
+          [
+            -4.483707,
+            54.148302
+          ],
+          [
+            -4.483659,
+            54.148263
+          ],
+          [
+            -4.48348,
+            54.148339
+          ],
+          [
+            -4.483531,
+            54.148379
+          ],
+          [
+            -4.483492,
+            54.148398
+          ],
+          [
+            -4.483456,
+            54.148412
+          ],
+          [
+            -4.48342,
+            54.148381
+          ],
+          [
+            -4.483384,
+            54.148379
+          ],
+          [
+            -4.483222,
+            54.14842
+          ],
+          [
+            -4.483263,
+            54.148452
+          ],
+          [
+            -4.483145,
+            54.148501
+          ],
+          [
+            -4.483179,
+            54.14853
+          ],
+          [
+            -4.483102,
+            54.148561
+          ],
+          [
+            -4.483075,
+            54.148538
+          ],
+          [
+            -4.483024,
+            54.148559
+          ],
+          [
+            -4.481988,
+            54.149003
+          ],
+          [
+            -4.482014,
+            54.149024
+          ],
+          [
+            -4.481938,
+            54.149057
+          ],
+          [
+            -4.481914,
+            54.149038
+          ],
+          [
+            -4.481715,
+            54.149117
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "parking",
+        "building": "parking",
+        "fee": "yes",
+        "name": "Shaw's Brow Car Park",
+        "name:en": "Shaw's Brow Car Park",
+        "name:gv": "Pairk Ghleashtan Broogh Shaw",
+        "operator": "City of Douglas",
+        "parking": "multi-storey",
+        "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38542223,
       "geometry": {
         "type": "LineString",
@@ -47463,6 +47735,55 @@
         "name:gv": "Raad y Logh",
         "ref": "B81",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58706854,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480853,
+            54.14758
+          ],
+          [
+            -4.480856,
+            54.147627
+          ],
+          [
+            -4.480864,
+            54.147755
+          ],
+          [
+            -4.480838,
+            54.147812
+          ],
+          [
+            -4.480843,
+            54.147895
+          ],
+          [
+            -4.480896,
+            54.148302
+          ],
+          [
+            -4.480905,
+            54.14834
+          ],
+          [
+            -4.480919,
+            54.148389
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "maxspeed": "20 mph",
+        "name": "Heywood Place",
+        "name:en": "Heywood Place",
+        "name:gv": "Kerrin Heywood",
+        "surface": "asphalt"
       }
     },
     {
@@ -61426,6 +61747,7 @@
         "addr:postcode": "IM5 1PJ",
         "addr:street": "Peveril Road",
         "building": "yes",
+        "name": "Yn Fea",
         "name:gv": "Yn Fea",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:housename": "streetside",
@@ -77961,8 +78283,8 @@
             54.148457
           ],
           [
-            -4.4801,
-            54.148488
+            -4.480088,
+            54.148489
           ],
           [
             -4.479775,
@@ -77973,8 +78295,8 @@
             54.148506
           ],
           [
-            -4.479207,
-            54.148505
+            -4.479218,
+            54.148506
           ],
           [
             -4.478827,
@@ -85247,6 +85569,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Market Street",
         "name:en": "Market Street",
@@ -97340,6 +97663,79 @@
     },
     {
       "type": "Feature",
+      "id": 963223830,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388214,
+            54.327836
+          ],
+          [
+            -4.388354,
+            54.327734
+          ],
+          [
+            -4.388398,
+            54.327755
+          ],
+          [
+            -4.38835,
+            54.327789
+          ],
+          [
+            -4.388388,
+            54.327806
+          ],
+          [
+            -4.388264,
+            54.327896
+          ],
+          [
+            -4.38832,
+            54.327922
+          ],
+          [
+            -4.388209,
+            54.328003
+          ],
+          [
+            -4.3881,
+            54.327952
+          ],
+          [
+            -4.388125,
+            54.327934
+          ],
+          [
+            -4.388098,
+            54.327921
+          ],
+          [
+            -4.388214,
+            54.327836
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Baie Mooar House",
+        "addr:postcode": "IM8 3EQ",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "contact:email": "bookings@baiemooar.com",
+        "contact:phone": "+44 7624 304403",
+        "guest_house": "guest_house",
+        "name": "Baie Mooar House",
+        "name:en": "Baie Mooar House",
+        "name:gv": "Baie Mooar",
+        "tourism": "guest_house",
+        "website": "https://www.baiemooar.com/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 999939839,
       "geometry": {
         "type": "LineString",
@@ -98772,60 +99168,6 @@
         "name:en": "River Meadows",
         "name:gv": "Lheeantyn ny Hawin",
         "surface": "paving_stones"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1105655962,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.68488,
-            54.216701
-          ],
-          [
-            -4.685772,
-            54.217242
-          ],
-          [
-            -4.685974,
-            54.217359
-          ],
-          [
-            -4.687018,
-            54.217976
-          ],
-          [
-            -4.687398,
-            54.218205
-          ],
-          [
-            -4.688375,
-            54.218787
-          ],
-          [
-            -4.688433,
-            54.218824
-          ],
-          [
-            -4.688765,
-            54.219013
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "30 mph",
-        "name": "Douglas Road",
-        "name:en": "Douglas Road",
-        "name:gv": "Bayr Tinvaal",
-        "ref": "A1",
-        "sidewalk:right": "separate",
-        "surface": "asphalt"
       }
     },
     {
@@ -106242,36 +106584,6 @@
     },
     {
       "type": "Feature",
-      "id": 1305915878,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.682724,
-            54.215417
-          ],
-          [
-            -4.68488,
-            54.216701
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "no",
-        "maxspeed": "30 mph",
-        "name": "Douglas Road",
-        "name:en": "Douglas Road",
-        "name:gv": "Bayr Tinvaal",
-        "ref": "A1",
-        "sidewalk:right": "separate",
-        "surface": "asphalt"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1307611690,
       "geometry": {
         "type": "LineString",
@@ -107187,6 +107499,45 @@
         "name:en": "Mary's Close",
         "name:gv": "Close Woirrey",
         "place": "city_block"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1318890771,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.46738,
+            54.339814
+          ],
+          [
+            -4.467357,
+            54.339903
+          ],
+          [
+            -4.467014,
+            54.339873
+          ],
+          [
+            -4.467037,
+            54.339784
+          ],
+          [
+            -4.46738,
+            54.339814
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Lezayre",
+        "addr:housename": "Close-y-Kee",
+        "addr:postcode": "IM7 2EW",
+        "addr:street": "Jurby Road",
+        "building": "yes",
+        "name:gv": "Close-y-Kee",
+        "source:addr:housename": "bus stop",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

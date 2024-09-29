@@ -246,27 +246,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.478859,
-          54.148134
+          -4.478934,
+          54.148161
         ]
       },
       "properties": {
         "amenity": "post_box",
         "check_date": "2024-06-21",
-        "collection_times": "Mo-Fr 10:00",
+        "collection_times": "Mo-Fr 10:00+",
         "colour": "red",
         "manufacturer": "McDowall, Steven & Co Ltd London & Glasgow",
-        "name": "Market Hill",
-        "operator": "IOM Post",
+        "operator": "Isle of Man Post Office",
         "post_box:apertures": "1",
         "post_box:type": "pillar",
         "ref": "15",
+        "ref_name": "Market Hill",
         "royal_cypher": "GR",
         "royal_cypher:wikidata": "Q33102273",
         "source": "survey",
         "osm_id": 283487810,
-        "lon": -4.478859,
-        "lat": 54.148134,
+        "lon": -4.478934,
+        "lat": 54.148161,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283487810"
       }
@@ -2044,25 +2044,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.405334,
-          54.232111
+          -4.405292,
+          54.232112
         ]
       },
       "properties": {
         "amenity": "post_box",
-        "check_date": "2024-06-22",
+        "check_date": "2024-08-19",
         "collection_times": "Mo-Fr 10:30",
         "colour": "red",
-        "drive_through": "no",
         "manufacturer": "McDowall, Steven & Co Ltd London & Glasgow",
-        "name": "Laxey Station",
+        "operator": "Isle of Man Post Office",
         "post_box:apertures": "1",
         "post_box:type": "pillar",
         "ref": "102",
+        "ref_name": "Laxey Station",
         "royal_cypher": "EVIIR",
         "osm_id": 453442524,
-        "lon": -4.405334,
-        "lat": 54.232111,
+        "lon": -4.405292,
+        "lat": 54.232112,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/453442524"
       }

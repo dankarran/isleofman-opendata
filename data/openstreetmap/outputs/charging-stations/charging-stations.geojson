@@ -1192,18 +1192,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.616707,
-          54.225574
+          -4.616762,
+          54.22556
         ]
       },
       "properties": {
         "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
         "capacity": "2",
+        "contact:website": "https://www.pod-point.com/",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
+        "ref": "PG-87318",
+        "ref_name": "Abel-Izzy",
+        "socket:type2": "2",
+        "socket:type2:output": "22 kW",
         "osm_id": 12108669696,
-        "lon": -4.616707,
-        "lat": 54.225574,
+        "lon": -4.616762,
+        "lat": 54.22556,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12108669696"
       }

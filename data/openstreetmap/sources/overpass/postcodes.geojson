@@ -224,6 +224,27 @@
     },
     {
       "type": "Feature",
+      "id": 475392887,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.536645,
+          54.337255
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballaugh",
+        "addr:housename": "White Gables",
+        "addr:postcode": "IM7 5BG",
+        "addr:street": "Old Windmill Road",
+        "name": "White Gables Cottage",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "tourism": "chalet",
+        "website": "https://www.visitisleofman.com/accommodation/white-gables-cottage-p1290711"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392894,
       "geometry": {
         "type": "Point",
@@ -265,6 +286,24 @@
         "source": "Isle of Man Government 1:25000 map (2007);ACSI",
         "tourism": "guest_house",
         "website": "https://www.peel-holidays.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475392978,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.552368,
+          54.338385
+        ]
+      },
+      "properties": {
+        "addr:housename": "Crawyn Farm",
+        "addr:postcode": "IM7 5BB",
+        "addr:street": "Coast Road",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -1196,6 +1235,25 @@
         "shop": "florist",
         "source": "http://www.flickr.com/photos/stephen_downes/299532637",
         "website": "https://www.elainesflowers.co.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 501841531,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481602,
+          54.157563
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM2 3ET",
+        "addr:street": "Derby Road",
+        "name": "Ashville Apartments",
+        "was:tourism": "chalet"
       }
     },
     {
@@ -8082,10 +8140,11 @@
         "addr:postcode": "IM1 1EN",
         "addr:street": "Ridgeway Street",
         "amenity": "dentist",
+        "contact:phone": "+44 1624 618618",
+        "contact:website": "https://regentdental.im/regent-dental-ridgeway-street/",
         "healthcare": "dentist",
         "name": "Regent Dental",
-        "operator": "Regent Dental",
-        "website": "https://regentdental.im/regent-dental-ridgeway-street/"
+        "operator": "Regent Health Services Limited"
       }
     },
     {
@@ -8108,7 +8167,7 @@
         "level": "1",
         "name": "Silva Consulting",
         "office": "yes",
-        "website": "https://www.silvaqs.im"
+        "website": "https://www.silvaqs.im/"
       }
     },
     {
@@ -8338,6 +8397,25 @@
     },
     {
       "type": "Feature",
+      "id": 12074043512,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481624,
+          54.157314
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "25",
+        "addr:postcode": "IM2 3ES",
+        "addr:street": "Derby Road",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 12097395612,
       "geometry": {
         "type": "Point",
@@ -8454,30 +8532,6 @@
     },
     {
       "type": "Feature",
-      "id": 12154106564,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.388217,
-          54.327932
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:country": "IM",
-        "addr:housename": "Baie Mooar House",
-        "addr:postcode": "IM8 3EQ",
-        "addr:street": "Coburg Road",
-        "guest_house": "guest_house",
-        "name": "Baie Mooar House",
-        "name:en": "Baie Mooar House",
-        "name:gv": "Baie Mooar",
-        "tourism": "guest_house",
-        "website": "https://www.baiemooar.com"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12160793666,
       "geometry": {
         "type": "Point",
@@ -8529,6 +8583,44 @@
         "addr:housename": "Langdale House",
         "addr:postcode": "IM2 4BQ",
         "addr:street": "Lower Dukes Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12172106686,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481851,
+          54.15698
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "64",
+        "addr:postcode": "IM2 3LR",
+        "addr:street": "Derby Square",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12172106687,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481701,
+          54.155993
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM2 3LW",
+        "addr:street": "Derby Square",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -9075,6 +9167,63 @@
         "name": "Hearing Solutions",
         "shop": "hearing_aids",
         "website": "https://www.iomhearingsolutions.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12207138896,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486615,
+          54.154587
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM1 3EU",
+        "addr:street": "Rosemount",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12207138897,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486704,
+          54.154581
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM1 3EU",
+        "addr:street": "Rosemount",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12207138898,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.485866,
+          54.154705
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM1 3EZ",
+        "addr:street": "Rosemount",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -11989,6 +12138,7 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "opening_hours": "Mo,We,Th 09:00-17:00, Tu 09:00-19:00, Fr 09:00-14:00",
         "roof:material": "slate",
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
       }
@@ -31223,28 +31373,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480572,
-            54.147986
+            -4.480556,
+            54.147988
           ],
           [
-            -4.480806,
-            54.14798
+            -4.48079,
+            54.147982
           ],
           [
-            -4.480795,
-            54.147887
+            -4.480779,
+            54.147889
           ],
           [
-            -4.480722,
-            54.147888
+            -4.480755,
+            54.147889
           ],
           [
-            -4.480564,
-            54.147891
+            -4.480548,
+            54.147893
           ],
           [
-            -4.480572,
-            54.147986
+            -4.480556,
+            54.147988
           ]
         ]
       },
@@ -31254,13 +31404,9 @@
         "addr:housenumber": "5-7",
         "addr:postcode": "IM1 1EW",
         "addr:street": "Ridgeway Street",
-        "brand": "Joe Jennings",
-        "brand:wikidata": "Q113499916",
         "building": "yes",
         "building:levels": "3",
         "building:material": "brick",
-        "name": "Joe Jennings",
-        "shop": "bookmaker",
         "source": "photo"
       }
     },
@@ -66054,6 +66200,52 @@
     },
     {
       "type": "Feature",
+      "id": 118190691,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.552446,
+            54.339395
+          ],
+          [
+            -4.552607,
+            54.339394
+          ],
+          [
+            -4.552604,
+            54.339219
+          ],
+          [
+            -4.552411,
+            54.33922
+          ],
+          [
+            -4.552412,
+            54.33928
+          ],
+          [
+            -4.552444,
+            54.33928
+          ],
+          [
+            -4.552446,
+            54.339395
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballaugh",
+        "addr:country": "IM",
+        "addr:housename": "The Gables",
+        "addr:postcode": "IM7 5AZ",
+        "addr:street": "Coast Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 120531492,
       "geometry": {
         "type": "LineString",
@@ -69592,6 +69784,7 @@
         "addr:postcode": "IM5 1PJ",
         "addr:street": "Peveril Road",
         "building": "yes",
+        "name": "Yn Fea",
         "name:gv": "Yn Fea",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:housename": "streetside",
@@ -70617,6 +70810,63 @@
     },
     {
       "type": "Feature",
+      "id": 151062125,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.688159,
+            54.219007
+          ],
+          [
+            -4.688055,
+            54.219093
+          ],
+          [
+            -4.688005,
+            54.219073
+          ],
+          [
+            -4.687884,
+            54.219023
+          ],
+          [
+            -4.687917,
+            54.218995
+          ],
+          [
+            -4.687973,
+            54.219019
+          ],
+          [
+            -4.688123,
+            54.218894
+          ],
+          [
+            -4.688279,
+            54.218958
+          ],
+          [
+            -4.6882,
+            54.219024
+          ],
+          [
+            -4.688159,
+            54.219007
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housename": "Glen View",
+        "addr:postcode": "IM5 1JL",
+        "addr:street": "Tynwald Road",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 151084483,
       "geometry": {
         "type": "LineString",
@@ -70786,6 +71036,44 @@
         "addr:street": "Ballaquane Park",
         "building": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 151084502,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.678426,
+            54.226002
+          ],
+          [
+            -4.678564,
+            54.225956
+          ],
+          [
+            -4.678458,
+            54.225848
+          ],
+          [
+            -4.678321,
+            54.225893
+          ],
+          [
+            -4.678426,
+            54.226002
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "41",
+        "addr:postcode": "IM5 1UE",
+        "addr:street": "Belle Vue Park",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -98159,24 +98447,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480572,
-            54.147986
+            -4.480556,
+            54.147988
           ],
           [
-            -4.480575,
-            54.148031
+            -4.480559,
+            54.148033
           ],
           [
-            -4.480811,
-            54.148026
+            -4.480795,
+            54.148029
           ],
           [
-            -4.480806,
-            54.14798
+            -4.48079,
+            54.147982
           ],
           [
-            -4.480572,
-            54.147986
+            -4.480556,
+            54.147988
           ]
         ]
       },
@@ -98186,14 +98474,17 @@
         "addr:housenumber": "9",
         "addr:postcode": "IM1 1EW",
         "addr:street": "Ridgeway Street",
-        "amenity": "restaurant",
+        "amenity": "cafe",
         "building": "yes",
         "building:levels": "3",
         "building:material": "brick",
-        "cuisine": "fish",
-        "name": "Tanroagan",
-        "source": "Isle of Man Government aerial imagery (2001);Bing;photo",
-        "website": "http://www.tanroagan.co.uk"
+        "contact:email": "hello@vibecafe.im",
+        "contact:phone": "+44 1624 612355",
+        "contact:website": "https://www.vibeplantbasedcafe.com/",
+        "cuisine": "vegan",
+        "name": "Vibe",
+        "opening_hours": "We-Sa 11:00-14:00, 17:30-20:00, Su 11:00-15:00",
+        "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
       }
     },
     {
@@ -98203,24 +98494,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480564,
-            54.147891
+            -4.480548,
+            54.147893
           ],
           [
-            -4.480722,
-            54.147888
+            -4.480755,
+            54.147889
           ],
           [
-            -4.480719,
-            54.147844
+            -4.480753,
+            54.147846
           ],
           [
-            -4.480561,
-            54.147847
+            -4.480545,
+            54.14785
           ],
           [
-            -4.480564,
-            54.147891
+            -4.480548,
+            54.147893
           ]
         ]
       },
@@ -98230,9 +98521,12 @@
         "addr:housenumber": "3",
         "addr:postcode": "IM1 1EW",
         "addr:street": "Ridgeway Street",
+        "amenity": "restaurant",
         "building": "yes",
         "building:levels": "3",
         "building:material": "brick",
+        "cuisine": "crepe",
+        "name": "Bonjour Creperie",
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
       }
     },
@@ -98243,43 +98537,43 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480561,
-            54.147847
+            -4.480545,
+            54.14785
           ],
           [
-            -4.480719,
-            54.147844
+            -4.480753,
+            54.147846
           ],
           [
-            -4.480804,
-            54.147843
+            -4.480788,
+            54.147846
           ],
           [
-            -4.480805,
-            54.14781
+            -4.480789,
+            54.147812
           ],
           [
-            -4.480717,
-            54.147811
+            -4.480701,
+            54.147813
           ],
           [
-            -4.480714,
-            54.147776
+            -4.480697,
+            54.147774
           ],
           [
-            -4.480556,
-            54.147781
+            -4.480539,
+            54.147778
           ],
           [
-            -4.480561,
-            54.147847
+            -4.480545,
+            54.14785
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "1",
+        "addr:housenumber": "2,2a,2b,2c",
         "addr:postcode": "IM1 1EW",
         "addr:street": "Ridgeway Street",
         "building": "yes",
@@ -110541,6 +110835,77 @@
     },
     {
       "type": "Feature",
+      "id": 892002122,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44397,
+            54.336174
+          ],
+          [
+            -4.443873,
+            54.336226
+          ],
+          [
+            -4.443812,
+            54.336188
+          ],
+          [
+            -4.443712,
+            54.336241
+          ],
+          [
+            -4.443623,
+            54.336184
+          ],
+          [
+            -4.443718,
+            54.336133
+          ],
+          [
+            -4.443669,
+            54.336102
+          ],
+          [
+            -4.443774,
+            54.336045
+          ],
+          [
+            -4.443828,
+            54.33608
+          ],
+          [
+            -4.443869,
+            54.336057
+          ],
+          [
+            -4.443921,
+            54.33609
+          ],
+          [
+            -4.443876,
+            54.336114
+          ],
+          [
+            -4.44397,
+            54.336174
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Lezayre",
+        "addr:country": "IM",
+        "addr:housename": "Lezayre View",
+        "addr:postcode": "IM7 2EJ",
+        "addr:street": "Jurby Road",
+        "building": "house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 892462767,
       "geometry": {
         "type": "LineString",
@@ -113161,6 +113526,10 @@
             54.324162
           ],
           [
+            -4.380963,
+            54.324206
+          ],
+          [
             -4.380933,
             54.324212
           ],
@@ -113187,6 +113556,7 @@
         "addr:housename": "Mooragh Promenade",
         "addr:postcode": "IM8 3AB",
         "addr:street": "Mooragh Promenade",
+        "alt_name": "Ramsey Pool Cafe",
         "amenity": "cafe",
         "building": "commercial",
         "building:levels": "1",
@@ -114002,6 +114372,79 @@
         "addr:street": "Saint Olave's Close",
         "building": "house",
         "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 963223830,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388214,
+            54.327836
+          ],
+          [
+            -4.388354,
+            54.327734
+          ],
+          [
+            -4.388398,
+            54.327755
+          ],
+          [
+            -4.38835,
+            54.327789
+          ],
+          [
+            -4.388388,
+            54.327806
+          ],
+          [
+            -4.388264,
+            54.327896
+          ],
+          [
+            -4.38832,
+            54.327922
+          ],
+          [
+            -4.388209,
+            54.328003
+          ],
+          [
+            -4.3881,
+            54.327952
+          ],
+          [
+            -4.388125,
+            54.327934
+          ],
+          [
+            -4.388098,
+            54.327921
+          ],
+          [
+            -4.388214,
+            54.327836
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Baie Mooar House",
+        "addr:postcode": "IM8 3EQ",
+        "addr:street": "Coburg Road",
+        "building": "house",
+        "contact:email": "bookings@baiemooar.com",
+        "contact:phone": "+44 7624 304403",
+        "guest_house": "guest_house",
+        "name": "Baie Mooar House",
+        "name:en": "Baie Mooar House",
+        "name:gv": "Baie Mooar",
+        "tourism": "guest_house",
+        "website": "https://www.baiemooar.com/"
       }
     },
     {
@@ -133764,6 +134207,135 @@
     },
     {
       "type": "Feature",
+      "id": 1154142855,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484418,
+            54.15696
+          ],
+          [
+            -4.484322,
+            54.156983
+          ],
+          [
+            -4.484271,
+            54.156903
+          ],
+          [
+            -4.484369,
+            54.156884
+          ],
+          [
+            -4.484418,
+            54.15696
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "65",
+        "addr:postcode": "IM2 3EW",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154142857,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48366,
+            54.157135
+          ],
+          [
+            -4.483757,
+            54.157106
+          ],
+          [
+            -4.483706,
+            54.157026
+          ],
+          [
+            -4.483684,
+            54.157035
+          ],
+          [
+            -4.48365,
+            54.156954
+          ],
+          [
+            -4.483586,
+            54.156966
+          ],
+          [
+            -4.483614,
+            54.157035
+          ],
+          [
+            -4.48366,
+            54.157135
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "51",
+        "addr:postcode": "IM2 3EW",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154142859,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485625,
+            54.154777
+          ],
+          [
+            -4.485595,
+            54.154687
+          ],
+          [
+            -4.485698,
+            54.154674
+          ],
+          [
+            -4.485728,
+            54.154765
+          ],
+          [
+            -4.485625,
+            54.154777
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 3HQ",
+        "addr:street": "Rosemount",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1154149499,
       "geometry": {
         "type": "LineString",
@@ -134953,6 +135525,44 @@
         "addr:postcode": "IM1 3EG",
         "addr:street": "Kensington Road",
         "building": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828225,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487172,
+            54.154259
+          ],
+          [
+            -4.487089,
+            54.15428
+          ],
+          [
+            -4.487036,
+            54.154195
+          ],
+          [
+            -4.487124,
+            54.154181
+          ],
+          [
+            -4.487172,
+            54.154259
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 4AP",
+        "addr:street": "Brighton Terrace",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -150347,6 +150957,191 @@
     },
     {
       "type": "Feature",
+      "id": 1303757570,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485078,
+            54.156975
+          ],
+          [
+            -4.485137,
+            54.15705
+          ],
+          [
+            -4.485163,
+            54.157043
+          ],
+          [
+            -4.485178,
+            54.157062
+          ],
+          [
+            -4.485239,
+            54.157046
+          ],
+          [
+            -4.485165,
+            54.156952
+          ],
+          [
+            -4.485078,
+            54.156975
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "80",
+        "addr:postcode": "IM2 3EB",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1303757577,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484601,
+            54.157192
+          ],
+          [
+            -4.484609,
+            54.157202
+          ],
+          [
+            -4.484573,
+            54.157211
+          ],
+          [
+            -4.484613,
+            54.157268
+          ],
+          [
+            -4.48454,
+            54.157286
+          ],
+          [
+            -4.484434,
+            54.157136
+          ],
+          [
+            -4.484545,
+            54.15711
+          ],
+          [
+            -4.484601,
+            54.157192
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "66",
+        "addr:postcode": "IM2 3EB",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1303757578,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483877,
+            54.157264
+          ],
+          [
+            -4.483973,
+            54.15742
+          ],
+          [
+            -4.484118,
+            54.157389
+          ],
+          [
+            -4.484091,
+            54.157345
+          ],
+          [
+            -4.484109,
+            54.157342
+          ],
+          [
+            -4.48404,
+            54.15723
+          ],
+          [
+            -4.483877,
+            54.157264
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Millennium Court",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM2 3EN",
+        "addr:street": "Derby Road",
+        "building": "residential",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1303757582,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480495,
+            54.157734
+          ],
+          [
+            -4.480372,
+            54.157744
+          ],
+          [
+            -4.480351,
+            54.157652
+          ],
+          [
+            -4.480473,
+            54.157642
+          ],
+          [
+            -4.480495,
+            54.157734
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 3ET",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1304426287,
       "geometry": {
         "type": "LineString",
@@ -152982,6 +153777,123 @@
         "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1318890770,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464618,
+            54.340091
+          ],
+          [
+            -4.464595,
+            54.340159
+          ],
+          [
+            -4.464279,
+            54.340123
+          ],
+          [
+            -4.464302,
+            54.340054
+          ],
+          [
+            -4.464618,
+            54.340091
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Lezayre",
+        "addr:country": "IM",
+        "addr:housename": "Heath Bank",
+        "addr:postcode": "IM7 2EW",
+        "addr:street": "Jurby Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1318890771,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.46738,
+            54.339814
+          ],
+          [
+            -4.467357,
+            54.339903
+          ],
+          [
+            -4.467014,
+            54.339873
+          ],
+          [
+            -4.467037,
+            54.339784
+          ],
+          [
+            -4.46738,
+            54.339814
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Lezayre",
+        "addr:housename": "Close-y-Kee",
+        "addr:postcode": "IM7 2EW",
+        "addr:street": "Jurby Road",
+        "building": "yes",
+        "name:gv": "Close-y-Kee",
+        "source:addr:housename": "bus stop",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1319022589,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485219,
+            54.154729
+          ],
+          [
+            -4.485308,
+            54.154719
+          ],
+          [
+            -4.485337,
+            54.154809
+          ],
+          [
+            -4.485249,
+            54.154819
+          ],
+          [
+            -4.485219,
+            54.154729
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM1 3HQ",
+        "addr:street": "Rosemount",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

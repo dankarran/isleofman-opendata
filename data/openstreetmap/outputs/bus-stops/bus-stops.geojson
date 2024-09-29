@@ -1000,6 +1000,7 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Central Promenade / Esplanade Lane",
@@ -1081,6 +1082,7 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Queens Promenade / Little Switzerland",
@@ -1088,6 +1090,7 @@
         "railway": "tram_stop",
         "ref": "20114",
         "request_stop": "yes",
+        "shelter": "yes",
         "tram": "yes",
         "osm_id": 942463419,
         "lon": -4.468144,
@@ -14664,8 +14667,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.381962,
-          54.324416
+          -4.381621,
+          54.324205
         ]
       },
       "properties": {
@@ -14675,8 +14678,8 @@
         "public_transport": "platform",
         "ref": "3861",
         "osm_id": 9190416796,
-        "lon": -4.381962,
-        "lat": 54.324416,
+        "lon": -4.381621,
+        "lat": 54.324205,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9190416796"
       }
@@ -20101,6 +20104,8 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -20110,6 +20115,7 @@
         "railway": "tram_stop",
         "ref": "20116",
         "request_stop": "yes",
+        "shelter": "yes",
         "tram": "yes",
         "osm_id": 9195333335,
         "lon": -4.473689,

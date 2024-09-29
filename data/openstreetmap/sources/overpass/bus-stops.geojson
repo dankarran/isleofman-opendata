@@ -795,6 +795,7 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Central Promenade / Esplanade Lane",
@@ -861,6 +862,7 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Queens Promenade / Little Switzerland",
@@ -868,6 +870,7 @@
         "railway": "tram_stop",
         "ref": "20114",
         "request_stop": "yes",
+        "shelter": "yes",
         "tram": "yes"
       }
     },
@@ -11559,8 +11562,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.381962,
-          54.324416
+          -4.381621,
+          54.324205
         ]
       },
       "properties": {
@@ -15831,6 +15834,8 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
@@ -15840,6 +15845,7 @@
         "railway": "tram_stop",
         "ref": "20116",
         "request_stop": "yes",
+        "shelter": "yes",
         "tram": "yes"
       }
     },
