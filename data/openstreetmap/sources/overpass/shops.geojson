@@ -203,25 +203,6 @@
     },
     {
       "type": "Feature",
-      "id": 499717735,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.473135,
-          54.161435
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:street": "Central Promenade",
-        "addr:substreet": "Castle Mona Colonnade",
-        "entrance": "main",
-        "shop": "yes"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 502471206,
       "geometry": {
         "type": "Point",
@@ -1565,27 +1546,6 @@
       },
       "properties": {
         "shop": "gift"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9023586432,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478956,
-          54.148635
-        ]
-      },
-      "properties": {
-        "contact:mobile": "+44 1624 401008",
-        "contact:phone": "+44 1624 622292",
-        "contact:website": "http://www.heavenlybeauty.im/",
-        "description": "Beauty salon and training academy",
-        "email": "heavenlybeauty@manx.net",
-        "name": "Heavenly Beauty",
-        "shop": "beauty",
-        "source": "survey"
       }
     },
     {
@@ -3455,6 +3415,24 @@
         "name": "Hintons",
         "shop": "electronics",
         "source:addr:housenumber": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12211396064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478936,
+          54.148774
+        ]
+      },
+      "properties": {
+        "contact:email": "douglas@copenhagenluxe.co.uk",
+        "contact:website": "https://copenhagenluxe.co.uk/",
+        "name": "Copenhagen Luxe",
+        "opening_hours": "Tu-Sa 10:00-17:30",
+        "shop": "clothes"
       }
     },
     {
@@ -15603,10 +15581,12 @@
       },
       "properties": {
         "addr:city": "Ballasalla",
+        "addr:postcode": "IM9 2AF",
         "addr:street": "Balthane Road",
         "building": "yes",
         "name": "Athol Garage",
-        "shop": "car"
+        "shop": "car",
+        "website": "https://www.athol.im"
       }
     },
     {
@@ -22806,7 +22786,7 @@
         "contact:phone": "+441624647010",
         "name": "The Parlour",
         "opening_hours": "Mo-Sa 08:00-24:00",
-        "shop": "hairdresser;beauty;",
+        "shop": "hairdresser;beauty",
         "source": "survey"
       }
     },

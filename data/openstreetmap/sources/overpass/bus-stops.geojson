@@ -48,13 +48,18 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Promenade / Regency Hotel",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "123 / 20113",
         "request_stop": "yes",
+        "shelter": "no",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -730,12 +735,15 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Queen's Prom, Regency Hotel",
         "public_transport": "platform",
         "railway": "tram_stop",
         "request_stop": "yes",
+        "shelter": "yes",
         "tram": "yes"
       }
     },
@@ -750,12 +758,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Harris Promenade / Villa Marina",
         "public_transport": "platform",
         "ref": "60007 / 20118",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -796,14 +808,17 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Central Promenade / Esplanade Lane",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "60026 / 20117",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -818,14 +833,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Promenade / Palace Terrace",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "121",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -863,14 +882,17 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Promenade / Little Switzerland",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "20114",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -3234,11 +3256,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Douglas Ridgeway Street",
         "public_transport": "platform",
-        "ref": "128"
+        "ref": "128",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3591,11 +3618,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Harris Promenade / Gaiety Theatre / The Rendezvous",
         "public_transport": "platform",
-        "ref": "60008 / 20119"
+        "ref": "60008 / 20119",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3699,8 +3731,11 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Derby Castle MER Station",
         "network": "Bus Vannin",
         "operator": "Isle Of Man Transport",
@@ -3708,6 +3743,8 @@
         "railway": "tram_stop",
         "ref": "124",
         "request_stop": "yes",
+        "shelter": "no",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -15839,6 +15876,7 @@
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Promenade / Empress Drive",
         "operator": "Bus Vannin",
         "public_transport": "platform",
@@ -15846,6 +15884,7 @@
         "ref": "20116",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -17155,14 +17194,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Central Promenade / Palace Terrace",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "60004",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },

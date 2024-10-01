@@ -7160,6 +7160,28 @@
     },
     {
       "type": "Feature",
+      "id": 12211947339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.695674,
+          54.217939
+        ]
+      },
+      "properties": {
+        "name": "Glenfaba Park",
+        "name:en": "Glenfaba Park",
+        "name:gv": "Pairk Ghlion Fabey",
+        "place": "locality",
+        "osm_id": 12211947339,
+        "lon": -4.695674,
+        "lat": 54.217939,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12211947339"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985930,
       "geometry": {
         "type": "LineString",
@@ -15670,6 +15692,14 @@
             54.218596
           ],
           [
+            -4.696727,
+            54.218584
+          ],
+          [
+            -4.696688,
+            54.218571
+          ],
+          [
             -4.696582,
             54.218538
           ]
@@ -15684,8 +15714,8 @@
         "name:gv": "Pairk Ghlion Fabey",
         "surface": "paved",
         "osm_id": 25987028,
-        "lon": -4.696674,
-        "lat": 54.21856699999999,
+        "lon": -4.69667403000596,
+        "lat": 54.21856690891694,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987028"
       }
@@ -26934,8 +26964,12 @@
             54.218021
           ],
           [
-            -4.696337,
-            54.218453
+            -4.696343,
+            54.218406
+          ],
+          [
+            -4.696322,
+            54.218452
           ]
         ]
       },
@@ -26949,8 +26983,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988088,
-        "lon": -4.696297326918525,
-        "lat": 54.2180494957936,
+        "lon": -4.6962949110613526,
+        "lat": 54.21805012057994,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988088"
       }
@@ -42351,6 +42385,7 @@
       "properties": {
         "access": "destination",
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "20 mph",
         "name": "Post Office Lane",
         "name:en": "Post Office Lane",
@@ -43673,8 +43708,8 @@
             54.148887
           ],
           [
-            -4.478782,
-            54.14882
+            -4.478795,
+            54.148826
           ]
         ]
       },
@@ -43685,8 +43720,8 @@
         "name:en": "King Street",
         "name:gv": "Straid Y Ree",
         "osm_id": 28616202,
-        "lon": -4.479658869676464,
-        "lat": 54.148938953810124,
+        "lon": -4.479665629895835,
+        "lat": 54.14894028230928,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/28616202"
       }
@@ -49491,6 +49526,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
         "name:gv": "Raad y Ree Edard",
@@ -58767,6 +58803,7 @@
         "name": "Chapel Lane",
         "name:en": "Chapel Lane",
         "name:gv": "Lhoan Ny Cabbal",
+        "surface": "asphalt",
         "osm_id": 80249728,
         "lon": -4.478250415354189,
         "lat": 54.148328102263214,
@@ -75617,52 +75654,6 @@
         "lat": 54.20446539031262,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165795664"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165801850,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.696582,
-            54.218538
-          ],
-          [
-            -4.696337,
-            54.218453
-          ],
-          [
-            -4.695397,
-            54.21814
-          ],
-          [
-            -4.695273,
-            54.218084
-          ],
-          [
-            -4.695088,
-            54.217819
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "alt_name": "Creggans Avenue",
-        "highway": "residential",
-        "maxspeed": "20 mph",
-        "name": "Creggan\u2019s Avenue",
-        "name:en": "Creggan\u2019s Avenue",
-        "name:gv": "Pairk Ghlion Fabey",
-        "postal_code": "IM5 1DD;IM5 1DE",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
-        "osm_id": 165801850,
-        "lon": -4.695784744386433,
-        "lat": 54.2182467744487,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/165801850"
       }
     },
     {
@@ -100252,6 +100243,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Victoria Street",
         "name:en": "Victoria Street",
@@ -108012,6 +108004,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -111180,6 +111173,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Victoria Street",
         "name:en": "Victoria Street",

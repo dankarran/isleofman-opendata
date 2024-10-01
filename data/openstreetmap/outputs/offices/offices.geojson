@@ -1558,6 +1558,56 @@
     },
     {
       "type": "Feature",
+      "id": 12214678283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625029,
+          54.095338
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:place": "Balthane Park",
+        "addr:postcode": "IM9 2AX",
+        "addr:unit": "42",
+        "name": "DPS",
+        "office": "yes",
+        "website": "https://dps.co.im",
+        "osm_id": 12214678283,
+        "lon": -4.625029,
+        "lat": 54.095338,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214678283"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12214678284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.627211,
+          54.09449
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AX",
+        "addr:unit": "1",
+        "name": "Salamander Services",
+        "office": "yes",
+        "website": "https://salamanderservices.co.uk",
+        "osm_id": 12214678284,
+        "lon": -4.627211,
+        "lat": 54.09449,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214678284"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59286000,
       "geometry": {
         "type": "LineString",

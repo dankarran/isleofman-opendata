@@ -1512,6 +1512,76 @@
     },
     {
       "type": "Feature",
+      "id": 12214379078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482018,
+          54.145928
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "1",
+        "contact:phone": "+44 207 247 4114",
+        "fee": "yes",
+        "level": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-99717",
+        "ref_name": "Zena-Jean",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12214379078,
+        "lon": -4.482018,
+        "lat": 54.145928,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214379078"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12214379079,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.482022,
+          54.145928
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "capacity": "1",
+        "contact:phone": "+44 207 247 4114",
+        "fee": "yes",
+        "level": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "ref": "PG-99723",
+        "ref_name": "Milo-Aida",
+        "socket:type2": "1",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12214379079,
+        "lon": -4.482022,
+        "lat": 54.145928,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214379079"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1167710497,
       "geometry": {
         "type": "LineString",

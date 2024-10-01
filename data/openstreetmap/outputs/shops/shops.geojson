@@ -253,30 +253,6 @@
     },
     {
       "type": "Feature",
-      "id": 499717735,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.473135,
-          54.161435
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:street": "Central Promenade",
-        "addr:substreet": "Castle Mona Colonnade",
-        "entrance": "main",
-        "shop": "yes",
-        "osm_id": 499717735,
-        "lon": -4.473135,
-        "lat": 54.161435,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/499717735"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 502471206,
       "geometry": {
         "type": "Point",
@@ -1965,32 +1941,6 @@
         "lat": 54.14156,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/8980761354"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 9023586432,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478956,
-          54.148635
-        ]
-      },
-      "properties": {
-        "contact:mobile": "+44 1624 401008",
-        "contact:phone": "+44 1624 622292",
-        "contact:website": "http://www.heavenlybeauty.im/",
-        "description": "Beauty salon and training academy",
-        "email": "heavenlybeauty@manx.net",
-        "name": "Heavenly Beauty",
-        "shop": "beauty",
-        "source": "survey",
-        "osm_id": 9023586432,
-        "lon": -4.478956,
-        "lat": 54.148635,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/9023586432"
       }
     },
     {
@@ -4320,6 +4270,29 @@
         "lat": 54.173157,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195333907"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12211396064,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478936,
+          54.148774
+        ]
+      },
+      "properties": {
+        "contact:email": "douglas@copenhagenluxe.co.uk",
+        "contact:website": "https://copenhagenluxe.co.uk/",
+        "name": "Copenhagen Luxe",
+        "opening_hours": "Tu-Sa 10:00-17:30",
+        "shop": "clothes",
+        "osm_id": 12211396064,
+        "lon": -4.478936,
+        "lat": 54.148774,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12211396064"
       }
     },
     {
@@ -17618,10 +17591,12 @@
       },
       "properties": {
         "addr:city": "Ballasalla",
+        "addr:postcode": "IM9 2AF",
         "addr:street": "Balthane Road",
         "building": "yes",
         "name": "Athol Garage",
         "shop": "car",
+        "website": "https://www.athol.im",
         "osm_id": 221230012,
         "lon": -4.627963,
         "lat": 54.0947895,
@@ -25601,7 +25576,7 @@
         "contact:phone": "+441624647010",
         "name": "The Parlour",
         "opening_hours": "Mo-Sa 08:00-24:00",
-        "shop": "hairdresser;beauty;",
+        "shop": "hairdresser;beauty",
         "source": "survey",
         "osm_id": 420028943,
         "lon": -4.478851129059983,

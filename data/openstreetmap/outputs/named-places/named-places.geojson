@@ -28099,6 +28099,49 @@
     },
     {
       "type": "Feature",
+      "id": 12211947339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.695674,
+          54.217939
+        ]
+      },
+      "properties": {
+        "name": "Glenfaba Park",
+        "name:en": "Glenfaba Park",
+        "name:gv": "Pairk Ghlion Fabey",
+        "place": "locality",
+        "osm_id": 12211947339,
+        "lon": -4.695674,
+        "lat": 54.217939,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12211947339"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12214678282,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625633,
+          54.095428
+        ]
+      },
+      "properties": {
+        "name": "Balthane Park",
+        "place": "locality",
+        "postal_code": "IM9 2AX",
+        "osm_id": 12214678282,
+        "lon": -4.625633,
+        "lat": 54.095428,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214678282"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987471,
       "geometry": {
         "type": "LineString",

@@ -14192,6 +14192,67 @@
     },
     {
       "type": "Feature",
+      "id": 420051250,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478938,
+            54.148663
+          ],
+          [
+            -4.478931,
+            54.148567
+          ],
+          [
+            -4.478963,
+            54.14855
+          ],
+          [
+            -4.479212,
+            54.148557
+          ],
+          [
+            -4.479203,
+            54.148626
+          ],
+          [
+            -4.479172,
+            54.148625
+          ],
+          [
+            -4.479165,
+            54.14867
+          ],
+          [
+            -4.478938,
+            54.148663
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9-11",
+        "addr:street": "Duke Street",
+        "amenity": "restaurant",
+        "building": "retail",
+        "building:colour": "lightblue",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "cuisine": "burger",
+        "name": "Smash 'n' Fry",
+        "roof:levels": "1",
+        "source": "survey",
+        "osm_id": 420051250,
+        "lon": -4.479070472036776,
+        "lat": 54.14860771331728,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/420051250"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 420051253,
       "geometry": {
         "type": "LineString",
@@ -14245,8 +14306,10 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "The Front Porch",
         "opening_hours": "Mo-Su 12:00-24:00",
+        "outdoor_seating": "yes",
         "source": "survey",
         "website": "https://www.thefrontporch.co.im",
         "osm_id": 420051253,

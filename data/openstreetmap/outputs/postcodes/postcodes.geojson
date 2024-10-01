@@ -11378,6 +11378,56 @@
     },
     {
       "type": "Feature",
+      "id": 12214678283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625029,
+          54.095338
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:place": "Balthane Park",
+        "addr:postcode": "IM9 2AX",
+        "addr:unit": "42",
+        "name": "DPS",
+        "office": "yes",
+        "website": "https://dps.co.im",
+        "osm_id": 12214678283,
+        "lon": -4.625029,
+        "lat": 54.095338,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214678283"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12214678284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.627211,
+          54.09449
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AX",
+        "addr:unit": "1",
+        "name": "Salamander Services",
+        "office": "yes",
+        "website": "https://salamanderservices.co.uk",
+        "osm_id": 12214678284,
+        "lon": -4.627211,
+        "lat": 54.09449,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12214678284"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -98112,6 +98162,49 @@
     },
     {
       "type": "Feature",
+      "id": 221230012,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.628225,
+            54.094767
+          ],
+          [
+            -4.627817,
+            54.094919
+          ],
+          [
+            -4.627701,
+            54.094812
+          ],
+          [
+            -4.628109,
+            54.09466
+          ],
+          [
+            -4.628225,
+            54.094767
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:postcode": "IM9 2AF",
+        "addr:street": "Balthane Road",
+        "building": "yes",
+        "name": "Athol Garage",
+        "shop": "car",
+        "website": "https://www.athol.im",
+        "osm_id": 221230012,
+        "lon": -4.627963,
+        "lat": 54.0947895,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/221230012"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 227140563,
       "geometry": {
         "type": "LineString",
@@ -115415,8 +115508,10 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "The Front Porch",
         "opening_hours": "Mo-Su 12:00-24:00",
+        "outdoor_seating": "yes",
         "source": "survey",
         "website": "https://www.thefrontporch.co.im",
         "osm_id": 420051253,
@@ -125955,6 +126050,49 @@
         "lat": 54.33469694754356,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/945979241"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 956967049,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.623302,
+            54.100291
+          ],
+          [
+            -4.623581,
+            54.100246
+          ],
+          [
+            -4.623546,
+            54.10017
+          ],
+          [
+            -4.623251,
+            54.100213
+          ],
+          [
+            -4.623302,
+            54.100291
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:housename": "Grianane",
+        "addr:postcode": "IM9 2ER",
+        "addr:street": "Douglas Road",
+        "building": "residential",
+        "name": "Grianane",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 956967049,
+        "lon": -4.623417756278134,
+        "lat": 54.10022948820485,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/956967049"
       }
     },
     {

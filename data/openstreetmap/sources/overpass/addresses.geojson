@@ -9228,6 +9228,46 @@
     },
     {
       "type": "Feature",
+      "id": 12214678283,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.625029,
+          54.095338
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:place": "Balthane Park",
+        "addr:postcode": "IM9 2AX",
+        "addr:unit": "42",
+        "name": "DPS",
+        "office": "yes",
+        "website": "https://dps.co.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12214678284,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.627211,
+          54.09449
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AX",
+        "addr:unit": "1",
+        "name": "Salamander Services",
+        "office": "yes",
+        "website": "https://salamanderservices.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -88402,6 +88442,44 @@
     },
     {
       "type": "Feature",
+      "id": 221230012,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.628225,
+            54.094767
+          ],
+          [
+            -4.627817,
+            54.094919
+          ],
+          [
+            -4.627701,
+            54.094812
+          ],
+          [
+            -4.628109,
+            54.09466
+          ],
+          [
+            -4.628225,
+            54.094767
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:postcode": "IM9 2AF",
+        "addr:street": "Balthane Road",
+        "building": "yes",
+        "name": "Athol Garage",
+        "shop": "car",
+        "website": "https://www.athol.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 227140563,
       "geometry": {
         "type": "LineString",
@@ -104040,8 +104118,10 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "The Front Porch",
         "opening_hours": "Mo-Su 12:00-24:00",
+        "outdoor_seating": "yes",
         "source": "survey",
         "website": "https://www.thefrontporch.co.im"
       }
@@ -113695,6 +113775,44 @@
         "source": "Maxar Premium Imagery (Beta)",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housename": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 956967049,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.623302,
+            54.100291
+          ],
+          [
+            -4.623581,
+            54.100246
+          ],
+          [
+            -4.623546,
+            54.10017
+          ],
+          [
+            -4.623251,
+            54.100213
+          ],
+          [
+            -4.623302,
+            54.100291
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:housename": "Grianane",
+        "addr:postcode": "IM9 2ER",
+        "addr:street": "Douglas Road",
+        "building": "residential",
+        "name": "Grianane",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

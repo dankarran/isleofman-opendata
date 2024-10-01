@@ -5665,6 +5665,23 @@
     },
     {
       "type": "Feature",
+      "id": 12211947339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.695674,
+          54.217939
+        ]
+      },
+      "properties": {
+        "name": "Glenfaba Park",
+        "name:en": "Glenfaba Park",
+        "name:gv": "Pairk Ghlion Fabey",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985930,
       "geometry": {
         "type": "LineString",
@@ -13563,6 +13580,14 @@
           [
             -4.696766,
             54.218596
+          ],
+          [
+            -4.696727,
+            54.218584
+          ],
+          [
+            -4.696688,
+            54.218571
           ],
           [
             -4.696582,
@@ -24269,8 +24294,12 @@
             54.218021
           ],
           [
-            -4.696337,
-            54.218453
+            -4.696343,
+            54.218406
+          ],
+          [
+            -4.696322,
+            54.218452
           ]
         ]
       },
@@ -38701,6 +38730,7 @@
       "properties": {
         "access": "destination",
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "20 mph",
         "name": "Post Office Lane",
         "name:en": "Post Office Lane",
@@ -39943,8 +39973,8 @@
             54.148887
           ],
           [
-            -4.478782,
-            54.14882
+            -4.478795,
+            54.148826
           ]
         ]
       },
@@ -45546,6 +45576,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
         "name:gv": "Raad y Ree Edard",
@@ -54346,7 +54377,8 @@
         "highway": "footway",
         "name": "Chapel Lane",
         "name:en": "Chapel Lane",
-        "name:gv": "Lhoan Ny Cabbal"
+        "name:gv": "Lhoan Ny Cabbal",
+        "surface": "asphalt"
       }
     },
     {
@@ -70181,47 +70213,6 @@
         "ref": "A30",
         "sidewalk:right": "yes",
         "source:name": "Isle of Man Government 1:25000 map",
-        "surface": "paved"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165801850,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.696582,
-            54.218538
-          ],
-          [
-            -4.696337,
-            54.218453
-          ],
-          [
-            -4.695397,
-            54.21814
-          ],
-          [
-            -4.695273,
-            54.218084
-          ],
-          [
-            -4.695088,
-            54.217819
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "alt_name": "Creggans Avenue",
-        "highway": "residential",
-        "maxspeed": "20 mph",
-        "name": "Creggan\u2019s Avenue",
-        "name:en": "Creggan\u2019s Avenue",
-        "name:gv": "Pairk Ghlion Fabey",
-        "postal_code": "IM5 1DD;IM5 1DE",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -93532,6 +93523,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Victoria Street",
         "name:en": "Victoria Street",
@@ -100637,6 +100629,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -103465,6 +103458,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Victoria Street",
         "name:en": "Victoria Street",
