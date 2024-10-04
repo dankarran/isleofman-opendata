@@ -454,7 +454,8 @@
         "name": "Prospect Hill",
         "public_transport": "platform",
         "ref": "129",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -476,7 +477,8 @@
         "name": "Prospect Hill / Finch Road",
         "public_transport": "platform",
         "ref": "10107",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -526,12 +528,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballasalla Main Road Stop",
         "public_transport": "platform",
         "ref": "406",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -545,12 +551,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballasalla Main Stop Southbound",
         "public_transport": "platform",
         "ref": "405",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -564,11 +574,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "King William's College Shelter",
         "public_transport": "platform",
-        "ref": "604"
+        "ref": "604",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -623,11 +638,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "King William's College",
         "public_transport": "platform",
-        "ref": "603"
+        "ref": "603",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -641,12 +661,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Janet's Corner Entrance",
         "public_transport": "platform",
         "ref": "605",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -697,12 +721,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "The Sycamores",
         "public_transport": "platform",
         "ref": "409",
-        "source": "survey;Bing"
+        "shelter": "yes",
+        "source": "survey;Bing",
+        "tactile_paving": "no"
       }
     },
     {
@@ -928,11 +957,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Loch Promenade",
         "public_transport": "platform",
-        "ref": "20120"
+        "ref": "20120",
+        "shelter": "no"
       }
     },
     {
@@ -1096,11 +1128,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Victoria Road / New Estate",
         "public_transport": "platform",
-        "ref": "608"
+        "ref": "608",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1114,11 +1151,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Victoria Road / Bowling Green Road",
         "public_transport": "platform",
-        "ref": "607"
+        "ref": "607",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1492,11 +1534,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Opposite Whitestone Garage",
         "public_transport": "platform",
-        "ref": "403"
+        "ref": "403",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1551,12 +1598,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Janet's Corner Garage",
         "public_transport": "platform",
         "ref": "606",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1570,12 +1621,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Four Roads shelter, Anagh Coar",
         "public_transport": "platform",
         "ref": "10305",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1589,13 +1644,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Newtown Chapel",
         "public_transport": "platform",
         "ref": "309",
         "shelter": "yes",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1648,12 +1707,17 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Brown Cow Hill Layby",
         "public_transport": "platform",
         "ref": "310",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "shelter": "no",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1671,11 +1735,13 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Brown Cow Hill / Mann Cat Sanctuary",
         "public_transport": "platform",
         "ref": "311",
         "shelter": "no",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1746,12 +1812,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "National Sports Centre layby",
         "public_transport": "platform",
         "ref": "206",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1823,12 +1893,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Anagh Coar entrance, shelter / Castletown Road",
         "public_transport": "platform",
         "ref": "10302",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1842,12 +1916,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Anagh Coar entrance / Castletown Road",
         "public_transport": "platform",
         "ref": "10301",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1917,11 +1995,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Santon Railway Station Towards Douglas",
         "public_transport": "platform",
-        "ref": "314"
+        "ref": "314",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1935,11 +2018,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Santon Railway Station Towards Castletown",
         "public_transport": "platform",
-        "ref": "315"
+        "ref": "315",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1969,11 +2057,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Rosehill Farm",
         "public_transport": "platform",
-        "ref": "303"
+        "ref": "303",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1987,11 +2079,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Horses Home Northbound",
         "public_transport": "platform",
-        "ref": "302"
+        "ref": "302",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2005,11 +2102,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Horses Home Southbound",
         "public_transport": "platform",
-        "ref": "301"
+        "ref": "301",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2023,11 +2125,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Opposite Hampton Farm Estate",
         "public_transport": "platform",
-        "ref": "10304"
+        "ref": "10304",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2041,11 +2148,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Hampton Farm Estate, layby",
         "public_transport": "platform",
-        "ref": "10303"
+        "ref": "10303",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2366,13 +2478,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glashen Close",
         "public_transport": "platform",
         "ref": "401",
         "shelter": "yes",
-        "source": "Bing;survey;"
+        "source": "Bing;survey;",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2386,12 +2502,17 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glashen Garey",
         "public_transport": "platform",
         "ref": "10408",
-        "source": "Bing;survey;"
+        "shelter": "no",
+        "source": "Bing;survey;",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2405,12 +2526,17 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballalonna Farm Entrance",
         "public_transport": "platform",
         "ref": "10402",
-        "source": "GPS;survey;"
+        "shelter": "no",
+        "source": "GPS;survey;",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3033,11 +3159,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Groves Road / Springfield Avenue",
         "public_transport": "platform",
-        "ref": "207"
+        "ref": "207",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3051,13 +3182,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Pulrose Bridge Shelter",
         "network": "Bus Vannin",
         "public_transport": "platform",
         "ref": "20168",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3200,11 +3335,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "No.17 Circular Road",
         "public_transport": "platform",
-        "ref": "148"
+        "ref": "148",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3388,11 +3528,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Capital House / Circular Road",
         "public_transport": "platform",
-        "ref": "20106"
+        "ref": "20106",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3410,10 +3555,12 @@
         "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Circular Road / Hillside Avenue",
         "public_transport": "platform",
         "ref": "20162",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3712,12 +3859,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "National Sports Centre, Groves Road",
         "public_transport": "platform",
         "ref": "205",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3908,6 +4059,8 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Ronaldsway Airport",
@@ -3915,7 +4068,8 @@
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "503/504",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3929,13 +4083,18 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Hills Meadow / Peel Road",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "112 / 20104"
+        "ref": "112 / 20104",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4584,13 +4743,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Power Station Shelter",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "204"
+        "ref": "204",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4604,13 +4768,18 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Groves Road / Power Station",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "203"
+        "ref": "203",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4624,11 +4793,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Groves Road / Saddle Mews",
         "public_transport": "platform",
-        "ref": "208"
+        "ref": "208",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4660,11 +4834,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Harcroft Meadow / New Castletown Road",
         "public_transport": "platform",
-        "ref": "210"
+        "ref": "210",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4714,11 +4893,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Forge Entrance",
         "public_transport": "platform",
-        "ref": "305"
+        "ref": "305",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4732,11 +4916,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Forge Shelter",
         "public_transport": "platform",
-        "ref": "304"
+        "ref": "304",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4870,11 +5059,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Whitestone Garage Entrance",
         "public_transport": "platform",
-        "ref": "404"
+        "ref": "404",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -5144,11 +5338,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Port Erin Railway Station",
         "public_transport": "platform",
-        "ref": "805"
+        "ref": "805",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12165,12 +12364,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Four Roads, Anagh Coar",
         "public_transport": "platform",
         "ref": "10306",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12298,12 +12501,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Fairy Bridge Southbound",
         "public_transport": "platform",
         "ref": "10401",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12317,6 +12524,7 @@
         ]
       },
       "properties": {
+        "bench": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Orrisdale Road Junction",
@@ -12355,12 +12563,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Orrisdale Road / Ballacreggan",
         "public_transport": "platform",
         "ref": "10407",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15851,13 +16063,18 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Peel Road / Pulrose Bridge",
         "operator": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20103"
+        "ref": "20103",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -16960,12 +17177,17 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Loch Promenade / Bottleneck Car Park",
         "network": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20164"
+        "ref": "20164",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -17125,9 +17347,13 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {

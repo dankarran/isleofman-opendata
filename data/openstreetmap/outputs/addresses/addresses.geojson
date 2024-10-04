@@ -11428,6 +11428,31 @@
     },
     {
       "type": "Feature",
+      "id": 12221966078,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.403843,
+          54.355467
+        ]
+      },
+      "properties": {
+        "addr:city": "Bride",
+        "addr:housename": "Ramscraigs",
+        "addr:postcode": "IM7 4AN",
+        "addr:street": "Grenaby Road",
+        "postal_code": "IM7 4AN",
+        "source:name": "mapillary",
+        "source:postal_code": "Isle of Man Land Registry Land Transactions",
+        "osm_id": 12221966078,
+        "lon": -4.403843,
+        "lat": 54.355467,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12221966078"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986360,
       "geometry": {
         "type": "LineString",
@@ -61284,6 +61309,71 @@
     },
     {
       "type": "Feature",
+      "id": 102638452,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.380026,
+            54.321583
+          ],
+          [
+            -4.380168,
+            54.321565
+          ],
+          [
+            -4.380291,
+            54.321557
+          ],
+          [
+            -4.380285,
+            54.321543
+          ],
+          [
+            -4.380234,
+            54.32141
+          ],
+          [
+            -4.380101,
+            54.321429
+          ],
+          [
+            -4.380034,
+            54.321438
+          ],
+          [
+            -4.379967,
+            54.321447
+          ],
+          [
+            -4.380026,
+            54.321583
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Saddle Hotel",
+        "addr:postcode": "IM8 1JU",
+        "addr:street": "Market Place",
+        "building": "yes",
+        "listed_status": "Registered",
+        "old_name": "Nightlife",
+        "ref:registered_building": "144",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "url:registered_building": "https://www.gov.im/media/632909/0500144regbldnightlifemarketplace.pdf",
+        "was:amenity": "pub",
+        "wikidata": "Q118188812",
+        "osm_id": 102638452,
+        "lon": -4.380130785759906,
+        "lat": 54.321498278815405,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102638452"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102638456,
       "geometry": {
         "type": "LineString",
@@ -62232,6 +62322,64 @@
         "lat": 54.32823208629096,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102734588"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102734591,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.381876,
+            54.325214
+          ],
+          [
+            -4.381933,
+            54.32531
+          ],
+          [
+            -4.381967,
+            54.325303
+          ],
+          [
+            -4.381981,
+            54.325326
+          ],
+          [
+            -4.382129,
+            54.325296
+          ],
+          [
+            -4.382118,
+            54.325279
+          ],
+          [
+            -4.382157,
+            54.325271
+          ],
+          [
+            -4.382096,
+            54.325169
+          ],
+          [
+            -4.381876,
+            54.325214
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:housename": "Hartshill",
+        "addr:postcode": "IM8 3AD",
+        "addr:street": "Hope Street",
+        "building": "residential",
+        "source": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 102734591,
+        "lon": -4.382020711470214,
+        "lat": 54.32524904097286,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102734591"
       }
     },
     {
@@ -66041,6 +66189,68 @@
         "lat": 54.318304173384504,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102869171"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102872502,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384733,
+            54.330579
+          ],
+          [
+            -4.3845,
+            54.330646
+          ],
+          [
+            -4.38441,
+            54.33054
+          ],
+          [
+            -4.384464,
+            54.330525
+          ],
+          [
+            -4.384447,
+            54.330504
+          ],
+          [
+            -4.384575,
+            54.330467
+          ],
+          [
+            -4.384588,
+            54.330483
+          ],
+          [
+            -4.384639,
+            54.330468
+          ],
+          [
+            -4.384733,
+            54.330579
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 3AP",
+        "addr:street": "Mooragh Promenade",
+        "amenity": "community_centre",
+        "building": "yes",
+        "name": "Ramsey Rugby Club community sports pavilion",
+        "operator": "Ramsey Rugby Club",
+        "sport": "rugby_union",
+        "website": "https://ramsey.rfu.club/",
+        "osm_id": 102872502,
+        "lon": -4.384565466333835,
+        "lat": 54.33055151383547,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102872502"
       }
     },
     {
@@ -73232,6 +73442,61 @@
         "lat": 54.290452,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/112582297"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 112608042,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.545125,
+            54.312575
+          ],
+          [
+            -4.544862,
+            54.312328
+          ],
+          [
+            -4.546165,
+            54.311902
+          ],
+          [
+            -4.54631,
+            54.31206
+          ],
+          [
+            -4.545852,
+            54.312293
+          ],
+          [
+            -4.545418,
+            54.312491
+          ],
+          [
+            -4.545237,
+            54.312554
+          ],
+          [
+            -4.545125,
+            54.312575
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballaugh",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 5AH",
+        "addr:street": "Station Road",
+        "amenity": "school",
+        "name": "Ballaugh School",
+        "website": "https://ballaugh.sch.im",
+        "osm_id": 112608042,
+        "lon": -4.5455886505829595,
+        "lat": 54.31223395722997,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/112608042"
       }
     },
     {
@@ -118716,6 +118981,52 @@
     },
     {
       "type": "Feature",
+      "id": 499996620,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384871,
+            54.325615
+          ],
+          [
+            -4.384757,
+            54.325459
+          ],
+          [
+            -4.384972,
+            54.325405
+          ],
+          [
+            -4.385086,
+            54.325562
+          ],
+          [
+            -4.384871,
+            54.325615
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 3DY",
+        "addr:street": "North Shore Road",
+        "building": "yes",
+        "name": "Paul Dedman Performance",
+        "phone": "+441624 812390",
+        "shop": "motorcycle",
+        "source": "Survey",
+        "website": "https://www.pauldedman.com/",
+        "osm_id": 499996620,
+        "lon": -4.384921588067503,
+        "lat": 54.32551020120508,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/499996620"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 507608264,
       "geometry": {
         "type": "LineString",
@@ -123365,6 +123676,58 @@
         "lat": 54.1344686535696,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/894372683"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 895078378,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448862,
+            54.365603
+          ],
+          [
+            -4.448521,
+            54.365562
+          ],
+          [
+            -4.448435,
+            54.365805
+          ],
+          [
+            -4.448718,
+            54.36584
+          ],
+          [
+            -4.44876,
+            54.365721
+          ],
+          [
+            -4.448818,
+            54.365729
+          ],
+          [
+            -4.448862,
+            54.365603
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Andreas",
+        "addr:postcode": "IM7 4HE",
+        "addr:street": "Andreas Main Road",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/grosvenorandreasnorthisleofman/",
+        "contact:instagram": "https://www.instagram.com/grosvenorpubandreas/",
+        "name": "The Grosvenor",
+        "osm_id": 895078378,
+        "lon": -4.448644757917817,
+        "lat": 54.36569784741648,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/895078378"
       }
     },
     {
@@ -161651,6 +162014,90 @@
         "lat": 54.16994474810418,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1270919366"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1270952326,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.429231,
+            54.367268
+          ],
+          [
+            -4.429386,
+            54.367275
+          ],
+          [
+            -4.429337,
+            54.367663
+          ],
+          [
+            -4.429189,
+            54.367656
+          ],
+          [
+            -4.429201,
+            54.367557
+          ],
+          [
+            -4.429174,
+            54.367556
+          ],
+          [
+            -4.429172,
+            54.36757
+          ],
+          [
+            -4.429134,
+            54.367568
+          ],
+          [
+            -4.429136,
+            54.367551
+          ],
+          [
+            -4.429097,
+            54.36755
+          ],
+          [
+            -4.429105,
+            54.367484
+          ],
+          [
+            -4.429183,
+            54.367487
+          ],
+          [
+            -4.429189,
+            54.367443
+          ],
+          [
+            -4.429209,
+            54.367444
+          ],
+          [
+            -4.429231,
+            54.367268
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Andreas",
+        "addr:housename": "Technical Site",
+        "addr:postcode": "IM7 4ES",
+        "addr:street": "Andreas Airfield",
+        "building": "yes",
+        "name": "Andreas Meat Co",
+        "shop": "butcher",
+        "website": "https://andreasmeats.com/",
+        "osm_id": 1270952326,
+        "lon": -4.42925616632515,
+        "lat": 54.36747452466946,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1270952326"
       }
     },
     {

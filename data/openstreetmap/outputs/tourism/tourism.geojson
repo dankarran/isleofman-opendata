@@ -2980,6 +2980,7 @@
         ]
       },
       "properties": {
+        "board_type": "nature",
         "description": "Points of interest in the view",
         "information": "board",
         "tourism": "information",
@@ -6008,6 +6009,30 @@
         "lat": 54.320491,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195422827"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12218335383,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.652911,
+          54.075022
+        ]
+      },
+      "properties": {
+        "artist_name": "Darren Jackson;Stephanie Quayle-Jackson",
+        "artwork_type": "sculpture",
+        "fixme": "check official name",
+        "material": "steel",
+        "name": "Heron",
+        "tourism": "artwork",
+        "osm_id": 12218335383,
+        "lon": -4.652911,
+        "lat": 54.075022,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12218335383"
       }
     },
     {

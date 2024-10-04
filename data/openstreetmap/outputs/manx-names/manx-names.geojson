@@ -8521,6 +8521,7 @@
       "properties": {
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lanes": "2",
         "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Pulrose Road",
@@ -11969,6 +11970,39 @@
     },
     {
       "type": "Feature",
+      "id": 25986527,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.40016,
+            54.330149
+          ],
+          [
+            -4.399627,
+            54.330063
+          ],
+          [
+            -4.399455,
+            54.330033
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cooyrt Balleigh",
+        "name:gv": "Cooyrt Balleigh",
+        "surface": "paved",
+        "osm_id": 25986527,
+        "lon": -4.399807361197503,
+        "lat": 54.330091826806964,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986527"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986528,
       "geometry": {
         "type": "LineString",
@@ -14781,6 +14815,8 @@
         "name": "Rowan Avenue",
         "name:en": "Rowan Avenue",
         "name:gv": "Keyll Keirn",
+        "postal_code": "IM7 5EN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986805,
         "lon": -4.542468901852189,
         "lat": 54.31017806765008,
@@ -25909,6 +25945,55 @@
     },
     {
       "type": "Feature",
+      "id": 25987907,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399455,
+            54.330033
+          ],
+          [
+            -4.39935,
+            54.330012
+          ],
+          [
+            -4.39927,
+            54.329996
+          ],
+          [
+            -4.399039,
+            54.32997
+          ],
+          [
+            -4.398928,
+            54.329993
+          ],
+          [
+            -4.398822,
+            54.329959
+          ],
+          [
+            -4.398764,
+            54.329904
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cooyrt Balleigh",
+        "name:gv": "Cooyrt Balleigh",
+        "surface": "paved",
+        "osm_id": 25987907,
+        "lon": -4.399099175026626,
+        "lat": 54.32998420868122,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987907"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987916,
       "geometry": {
         "type": "LineString",
@@ -27597,6 +27682,8 @@
         "name": "Richmond Grove",
         "name:en": "Richmond Grove",
         "name:gv": "Cheu Y Chroink",
+        "postal_code": "IM8 3PD",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988149,
         "lon": -4.394323136000071,
@@ -28031,6 +28118,43 @@
         "lat": 54.181681484906605,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988213"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988241,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399312,
+            54.330602
+          ],
+          [
+            -4.399276,
+            54.330559
+          ],
+          [
+            -4.399265,
+            54.330491
+          ],
+          [
+            -4.399455,
+            54.330033
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cooyrt Balleigh",
+        "name:gv": "Cooyrt Balleigh",
+        "surface": "paved",
+        "osm_id": 25988241,
+        "lon": -4.399344107217719,
+        "lat": 54.33031995331654,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988241"
       }
     },
     {
@@ -32819,6 +32943,44 @@
     },
     {
       "type": "Feature",
+      "id": 25988694,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.542734,
+            54.310934
+          ],
+          [
+            -4.543576,
+            54.310675
+          ],
+          [
+            -4.544011,
+            54.310538
+          ],
+          [
+            -4.544292,
+            54.310392
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Faaie Craine",
+        "name:gv": "Faaie Craine",
+        "postal_code": "IM7 5AD",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 25988694,
+        "lon": -4.543521914928821,
+        "lat": 54.31068488162284,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988694"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988709,
       "geometry": {
         "type": "LineString",
@@ -32900,6 +33062,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "50 mph",
         "name": "Mount Murray Back Road",
         "name:en": "Mount Murray Back Road",
@@ -33110,12 +33273,16 @@
         ]
       },
       "properties": {
-        "alt_name": "Grenaby Road",
+        "alt_name": "Road of the Greenfarm",
+        "alt_name:en": "Road of the Greenfarm",
         "highway": "tertiary",
-        "name": "Road of the Greenfarm",
-        "name:en": "Road of the Greenfarm",
+        "name": "Grenaby Road",
+        "name:en": "Grenaby Road",
         "name:gv": "Bayr ny Grenaby",
+        "postal_code": "IM7 4AN",
+        "source:name": "Isle of Man Land Registry Land Transactions",
         "source:name:gv": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 25988718,
         "lon": -4.399521986368712,
@@ -36911,6 +37078,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lane_markings": "no",
         "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Station Road",
@@ -40482,6 +40650,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "name": "Saint Georges Crescent",
         "name:en": "Saint Georges Crescent",
         "name:gv": "Corran Noo Shorys",
@@ -42221,6 +42390,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lane_markings": "no",
         "lit": "yes",
         "maxspeed": "30 mph",
         "name": "The Promenade",
@@ -49582,6 +49752,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Shore Road",
         "name:en": "Shore Road",
         "name:gv": "Bayr Ny Traie",
@@ -49627,6 +49798,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Shore Road",
         "name:en": "Shore Road",
         "name:gv": "Bayr Ny Traie",
@@ -49657,6 +49829,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lane_markings": "no",
         "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Station Road",
@@ -49892,6 +50065,8 @@
         "name": "Dale Street",
         "name:en": "Dale Street",
         "name:gv": "Straid Y Dayl",
+        "postal_code": "IM8 1BJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 38782089,
         "lon": -4.378621211684115,
@@ -50297,6 +50472,7 @@
         "abutters": "residential",
         "cycleway:left": "no",
         "highway": "secondary",
+        "lane_markings": "no",
         "maxheight": "12'8\"",
         "name": "Church Hill",
         "name:en": "Church Hill",
@@ -62166,6 +62342,7 @@
       "properties": {
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "maxweight": "17.5",
         "name": "Pulrose Road",
@@ -62202,6 +62379,7 @@
         "bridge:name": "Pulrose Bridge",
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lanes": "2",
         "layer": "1",
         "maxspeed": "30 mph",
         "maxweight": "17.5",
@@ -68445,6 +68623,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "name": "Ballafurt Road",
         "name:en": "Ballafurt Road",
         "name:gv": "Raad Balley Phurt",
@@ -69522,6 +69701,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "primary",
+        "lane_markings": "no",
         "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Station Road",
@@ -69767,6 +69947,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "20 mph",
         "name": "Mount Murray Back Road",
         "name:en": "Mount Murray Back Road",
@@ -71570,6 +71751,7 @@
       "properties": {
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "maxweight": "17.5",
         "name": "Pulrose Road",
@@ -72018,6 +72200,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Shore Road",
         "name:en": "Shore Road",
         "name:gv": "Bayr Ny Traie",
@@ -104377,6 +104560,7 @@
       "properties": {
         "bus": "no",
         "highway": "tertiary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Mines Road",
         "name:gv": "Bayr ny Meainyn",
@@ -105391,6 +105575,7 @@
       "properties": {
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "maxweight": "17.5",
         "name": "Pulrose Road",
@@ -105426,6 +105611,7 @@
         "bridge": "yes",
         "cycleway:right": "separate",
         "highway": "unclassified",
+        "lanes": "2",
         "layer": "1",
         "maxspeed": "30 mph",
         "maxweight": "17.5",
@@ -105501,6 +105687,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Bath Place",
         "name:en": "Bath Place",
@@ -113585,6 +113772,7 @@
         "name": "Station Court",
         "name:en": "Station Court",
         "name:gv": "Cooyrt Stashoon",
+        "surface": "asphalt",
         "osm_id": 1254387973,
         "lon": -4.6446265,
         "lat": 54.0786985,
@@ -114621,6 +114809,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Lord Street",
         "name:en": "Lord Street",

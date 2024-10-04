@@ -26081,8 +26081,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:postcode": "IM8 3DY",
+        "addr:street": "North Shore Road",
         "building": "yes",
-        "name": "Paul Dedman Performance Ltd,",
+        "name": "Paul Dedman Performance",
         "phone": "+441624 812390",
         "shop": "motorcycle",
         "source": "Survey",
@@ -30798,6 +30802,90 @@
         "lat": 54.14973513089307,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1243246102"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1270952326,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.429231,
+            54.367268
+          ],
+          [
+            -4.429386,
+            54.367275
+          ],
+          [
+            -4.429337,
+            54.367663
+          ],
+          [
+            -4.429189,
+            54.367656
+          ],
+          [
+            -4.429201,
+            54.367557
+          ],
+          [
+            -4.429174,
+            54.367556
+          ],
+          [
+            -4.429172,
+            54.36757
+          ],
+          [
+            -4.429134,
+            54.367568
+          ],
+          [
+            -4.429136,
+            54.367551
+          ],
+          [
+            -4.429097,
+            54.36755
+          ],
+          [
+            -4.429105,
+            54.367484
+          ],
+          [
+            -4.429183,
+            54.367487
+          ],
+          [
+            -4.429189,
+            54.367443
+          ],
+          [
+            -4.429209,
+            54.367444
+          ],
+          [
+            -4.429231,
+            54.367268
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Andreas",
+        "addr:housename": "Technical Site",
+        "addr:postcode": "IM7 4ES",
+        "addr:street": "Andreas Airfield",
+        "building": "yes",
+        "name": "Andreas Meat Co",
+        "shop": "butcher",
+        "website": "https://andreasmeats.com/",
+        "osm_id": 1270952326,
+        "lon": -4.42925616632515,
+        "lat": 54.36747452466946,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1270952326"
       }
     },
     {

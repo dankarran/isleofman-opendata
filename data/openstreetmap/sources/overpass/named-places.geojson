@@ -234,6 +234,27 @@
     },
     {
       "type": "Feature",
+      "id": 283493706,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.423913,
+          54.37142
+        ]
+      },
+      "properties": {
+        "aeroway": "aerodrome",
+        "description": "Former RAF military aerodrome now used by gliding club and private light aircraft only.",
+        "name": "Andreas Airfield",
+        "old_name": "RAF Andreas",
+        "place": "airfield",
+        "type": "club",
+        "wikidata": "Q4755356",
+        "wikipedia": "en:RAF Andreas"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 283494317,
       "geometry": {
         "type": "Point",
@@ -2645,7 +2666,9 @@
       "properties": {
         "name": "Ballasleig",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 2EL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Land Registry Land Transactions"
       }
     },
     {
@@ -11824,7 +11847,9 @@
       "properties": {
         "name": "Ballakaneen",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 4EN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -12628,7 +12653,9 @@
       "properties": {
         "name": "Glascoe Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 4AN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Land Registry Land Transactions"
       }
     },
     {
@@ -14042,9 +14069,12 @@
         ]
       },
       "properties": {
+        "fixme": "check location, Land Transactions suggests this is on Grenaby Road",
         "name": "Ballavarteen",
         "place": "locality",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 4AN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Land Registry Land Transactions"
       }
     },
     {
