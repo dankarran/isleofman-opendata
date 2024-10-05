@@ -7902,6 +7902,8 @@
         "maxspeed": "20 mph",
         "name": "Broogh Wyllin",
         "name:gv": "Broogh Wyllin",
+        "postal_code": "IM6 1HU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986017,
         "lon": -4.592716119055388,
         "lat": 54.284195713566035,
@@ -32709,6 +32711,8 @@
         "name": "Broogh Wyllin",
         "name:gv": "Broogh Wyllin",
         "oneway": "no",
+        "postal_code": "IM6 1HU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25988633,
         "lon": -4.5933208533289385,
         "lat": 54.28397562723846,
@@ -34836,6 +34840,8 @@
         "maxspeed": "20 mph",
         "name": "Cleiy Rhennee",
         "name:gv": "Cleiy Rhennee",
+        "postal_code": "IM6 1HT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25988958,
         "lon": -4.5917149975688245,
         "lat": 54.28327441812203,
@@ -38499,8 +38505,9 @@
       "properties": {
         "highway": "residential",
         "maxspeed": "20 mph",
-        "name": "Kerroocruin",
-        "name:gv": "Kerroocruin",
+        "name": "Kerrocruin",
+        "name:gv": "Kerrocruin",
+        "source:name": "Isle of Man Government Land Registry Land Transactions",
         "surface": "concrete",
         "osm_id": 25989390,
         "lon": -4.5876702454968195,
@@ -53500,11 +53507,13 @@
         "name": "Port Erin Railway Station",
         "name:en": "Port Erin Railway Station",
         "name:gv": "Stashoon traenagh Purt \u00c7hiarn",
+        "nohousenumber": "yes",
         "public_transport": "station",
         "railway": "station",
         "ref:registered_building": "282",
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/1362025/port-erin-railway.pdf",
+        "wheelchair": "limited",
         "wikidata": "Q7230613",
         "wikimedia_commons": "Category:Port Erin railway station",
         "osm_id": 60007294,
@@ -63522,12 +63531,36 @@
             54.285336
           ],
           [
-            -4.590722,
-            54.285927
+            -4.591023,
+            54.28582
           ],
           [
-            -4.590424,
-            54.286179
+            -4.591475,
+            54.286062
+          ],
+          [
+            -4.591106,
+            54.286288
+          ],
+          [
+            -4.591021,
+            54.286292
+          ],
+          [
+            -4.590871,
+            54.286172
+          ],
+          [
+            -4.590871,
+            54.286093
+          ],
+          [
+            -4.590732,
+            54.286026
+          ],
+          [
+            -4.590497,
+            54.286195
           ],
           [
             -4.589426,
@@ -63798,8 +63831,8 @@
         "name:gv": "Balley Keeill Vaayl",
         "place": "village",
         "osm_id": 114185354,
-        "lon": -4.586676564838477,
-        "lat": 54.28412904252623,
+        "lon": -4.5867580408187,
+        "lat": 54.28416611596143,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/114185354"
       }
@@ -63953,6 +63986,8 @@
         "maxspeed": "20 mph",
         "name": "Cleiy Rhennee",
         "name:gv": "Cleiy Rhennee",
+        "postal_code": "IM6 1HT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 118598594,
         "lon": -4.591662779221062,
         "lat": 54.28298926868857,

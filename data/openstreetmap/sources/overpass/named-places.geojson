@@ -1602,9 +1602,11 @@
         ]
       },
       "properties": {
-        "name": "Trollah Farm",
+        "name": "Treljah Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM5 3AY",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -2391,7 +2393,9 @@
       "properties": {
         "name": "Ballamooar",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 4BP",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -2599,6 +2603,7 @@
         ]
       },
       "properties": {
+        "fixme": "is this actually Aavioghey (per Land Transactions)?",
         "name": "Arvioghen",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
@@ -2666,7 +2671,7 @@
       "properties": {
         "name": "Ballasleig",
         "place": "farm",
-        "postal_code": "IM7 2EL",
+        "postal_code": "IM7 4EL",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Land Registry Land Transactions"
       }
@@ -5714,7 +5719,9 @@
       "properties": {
         "name": "Ballellin Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 1HJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -7115,7 +7122,7 @@
       },
       "properties": {
         "name": "The Dhoon",
-        "place": "farm",
+        "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
     },
@@ -7689,7 +7696,9 @@
       "properties": {
         "name": "Ballayonaigue",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 4BL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -7853,7 +7862,9 @@
       "properties": {
         "name": "Ballamoar Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM4 7PP",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -8913,7 +8924,9 @@
       "properties": {
         "name": "Ballasholague Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 1HG",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -9763,7 +9776,9 @@
       "properties": {
         "name": "Ballavelt Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 1EN",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -10716,7 +10731,9 @@
       "properties": {
         "name": "Lower Ballachrink",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM4 7PH",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -11619,7 +11636,9 @@
       "properties": {
         "name": "Ballachrink Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM4 7PJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -12837,7 +12856,9 @@
       "properties": {
         "name": "Ballig",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 1HG",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -13389,9 +13410,12 @@
         ]
       },
       "properties": {
-        "name": "The Clarum",
+        "alt_name": "The Clarum",
+        "name": "Clarum Farm",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM4 7PL",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -13715,7 +13739,9 @@
       "properties": {
         "name": "Ballacondra",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 4BP",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -14178,7 +14204,9 @@
       "properties": {
         "name": "Ballasloe Beg",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM7 1EQ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -15556,7 +15584,9 @@
       "properties": {
         "name": "Ballachrink",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM4 7PJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -21693,6 +21723,23 @@
         "name": "Balthane Park",
         "place": "locality",
         "postal_code": "IM9 2AX"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12227683134,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.36934,
+          54.25741
+        ]
+      },
+      "properties": {
+        "name": "Thalloo Mitchell",
+        "place": "farm",
+        "postal_code": "IM4 7HP",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -31655,12 +31702,36 @@
             54.285336
           ],
           [
-            -4.590722,
-            54.285927
+            -4.591023,
+            54.28582
           ],
           [
-            -4.590424,
-            54.286179
+            -4.591475,
+            54.286062
+          ],
+          [
+            -4.591106,
+            54.286288
+          ],
+          [
+            -4.591021,
+            54.286292
+          ],
+          [
+            -4.590871,
+            54.286172
+          ],
+          [
+            -4.590871,
+            54.286093
+          ],
+          [
+            -4.590732,
+            54.286026
+          ],
+          [
+            -4.590497,
+            54.286195
           ],
           [
             -4.589426,

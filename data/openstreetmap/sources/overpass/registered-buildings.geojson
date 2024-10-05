@@ -2404,11 +2404,13 @@
         "name": "Port Erin Railway Station",
         "name:en": "Port Erin Railway Station",
         "name:gv": "Stashoon traenagh Purt \u00c7hiarn",
+        "nohousenumber": "yes",
         "public_transport": "station",
         "railway": "station",
         "ref:registered_building": "282",
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/1362025/port-erin-railway.pdf",
+        "wheelchair": "limited",
         "wikidata": "Q7230613",
         "wikimedia_commons": "Category:Port Erin railway station"
       }
@@ -15996,11 +15998,13 @@
         "addr:city": "Cranstal",
         "addr:country": "IM",
         "addr:housename": "Cranstal Cottage",
+        "addr:postcode": "IM7 4BP",
         "addr:street": "Cranstal Road",
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "3",
         "roof:material": "thatch",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
         "url:registered_building": "https://www.gov.im/media/631613/0500003regbldcranstalcottage.pdf",
         "wikidata": "Q118188571"
       }

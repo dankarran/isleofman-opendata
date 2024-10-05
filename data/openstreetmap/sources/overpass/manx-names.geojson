@@ -6351,7 +6351,9 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Broogh Wyllin",
-        "name:gv": "Broogh Wyllin"
+        "name:gv": "Broogh Wyllin",
+        "postal_code": "IM6 1HU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -29713,7 +29715,9 @@
         "maxspeed": "20 mph",
         "name": "Broogh Wyllin",
         "name:gv": "Broogh Wyllin",
-        "oneway": "no"
+        "oneway": "no",
+        "postal_code": "IM6 1HU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -31675,7 +31679,9 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Cleiy Rhennee",
-        "name:gv": "Cleiy Rhennee"
+        "name:gv": "Cleiy Rhennee",
+        "postal_code": "IM6 1HT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -35079,8 +35085,9 @@
       "properties": {
         "highway": "residential",
         "maxspeed": "20 mph",
-        "name": "Kerroocruin",
-        "name:gv": "Kerroocruin",
+        "name": "Kerrocruin",
+        "name:gv": "Kerrocruin",
+        "source:name": "Isle of Man Government Land Registry Land Transactions",
         "surface": "concrete"
       }
     },
@@ -49295,11 +49302,13 @@
         "name": "Port Erin Railway Station",
         "name:en": "Port Erin Railway Station",
         "name:gv": "Stashoon traenagh Purt \u00c7hiarn",
+        "nohousenumber": "yes",
         "public_transport": "station",
         "railway": "station",
         "ref:registered_building": "282",
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/1362025/port-erin-railway.pdf",
+        "wheelchair": "limited",
         "wikidata": "Q7230613",
         "wikimedia_commons": "Category:Port Erin railway station"
       }
@@ -58852,12 +58861,36 @@
             54.285336
           ],
           [
-            -4.590722,
-            54.285927
+            -4.591023,
+            54.28582
           ],
           [
-            -4.590424,
-            54.286179
+            -4.591475,
+            54.286062
+          ],
+          [
+            -4.591106,
+            54.286288
+          ],
+          [
+            -4.591021,
+            54.286292
+          ],
+          [
+            -4.590871,
+            54.286172
+          ],
+          [
+            -4.590871,
+            54.286093
+          ],
+          [
+            -4.590732,
+            54.286026
+          ],
+          [
+            -4.590497,
+            54.286195
           ],
           [
             -4.589426,
@@ -59267,7 +59300,9 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Cleiy Rhennee",
-        "name:gv": "Cleiy Rhennee"
+        "name:gv": "Cleiy Rhennee",
+        "postal_code": "IM6 1HT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

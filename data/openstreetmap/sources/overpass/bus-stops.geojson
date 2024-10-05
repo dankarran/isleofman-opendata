@@ -702,12 +702,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Meadow Court",
         "public_transport": "platform",
         "ref": "410",
-        "source": "survey;Bing"
+        "shelter": "yes",
+        "source": "survey;Bing",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1495,12 +1500,15 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballasalla Station / The Paddocks",
         "public_transport": "platform",
         "ref": "407",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1515,12 +1523,15 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballasalla Station / Silverburn Estate",
         "public_transport": "platform",
         "ref": "408",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1668,12 +1679,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Forge",
         "public_transport": "platform",
         "ref": "305",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "shelter": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1687,13 +1703,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Forge Shelter",
         "public_transport": "platform",
         "ref": "304",
         "shelter": "yes",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2041,9 +2061,13 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2061,6 +2085,7 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Rosehill Farm",
         "public_transport": "platform",
         "ref": "303",
@@ -2171,11 +2196,15 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "New Casteletown Road",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2550,10 +2579,14 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "source": "GPS;survey;"
+        "shelter": "no",
+        "source": "GPS;survey;",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2813,9 +2846,13 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3141,11 +3178,15 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Hills Meadow",
         "public_transport": "platform",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4939,13 +4980,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Mount Murry / Knock Froy Lane",
         "public_transport": "platform",
         "ref": "306",
         "shelter": "yes",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4959,13 +5004,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Mount Murray / Ballacutchell Road",
         "public_transport": "platform",
         "ref": "307",
         "shelter": "yes",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tactile_paving": "no"
       }
     },
     {
@@ -5082,12 +5131,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Abbey Church",
         "public_transport": "platform",
         "ref": "411",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -5101,12 +5154,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Abbey Church Entrance",
         "public_transport": "platform",
         "ref": "412",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -12544,12 +12601,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballastrang Farm",
         "public_transport": "platform",
         "ref": "10406",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -14004,7 +14065,8 @@
         "name": "Lord Street / Salvation Army",
         "public_transport": "platform",
         "ref": "20163",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -17139,12 +17201,17 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Peel Road / Hope Street Junction",
         "network": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20160"
+        "ref": "20160",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
