@@ -748,6 +748,35 @@
     },
     {
       "type": "Feature",
+      "id": 12236204794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634224,
+          54.208171
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "The Courtyard, Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:email": "mbscentre@pm.me",
+        "contact:phone": "+44 7624 247466",
+        "contact:website": "https://www.mbs-dentre.com/",
+        "healthcare": "alternative",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "The Mind Body Soul Centre",
+        "opening_hours": "Mo-Fr 10:00-17:00, Sa-Su \"By appointment\"",
+        "osm_id": 12236204794,
+        "lon": -4.634224,
+        "lat": 54.208171,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236204794"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 60048718,
       "geometry": {
         "type": "LineString",

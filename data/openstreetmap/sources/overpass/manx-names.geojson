@@ -426,6 +426,7 @@
         ]
       },
       "properties": {
+        "crossing:barrier": "no",
         "light_rail": "yes",
         "name": "Preston's Crossing",
         "name:en": "Preston's Crossing",
@@ -1586,6 +1587,7 @@
         ]
       },
       "properties": {
+        "crossing:barrier": "no",
         "light_rail": "yes",
         "name": "Preston's Crossing",
         "name:en": "Preston's Crossing",
@@ -2225,6 +2227,7 @@
         ]
       },
       "properties": {
+        "crossing:barrier": "no",
         "name": "Lamb's Crossing",
         "name:en": "Lamb's Crossing",
         "name:gv": "Crossag Eayn",
@@ -2243,6 +2246,7 @@
         ]
       },
       "properties": {
+        "crossing:barrier": "no",
         "name": "Lamb's Crossing",
         "name:en": "Lamb's Crossing",
         "name:gv": "Crossag Eayn",
@@ -6263,6 +6267,30 @@
     },
     {
       "type": "Feature",
+      "id": 25985991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523534,
+            54.362258
+          ],
+          [
+            -4.52369,
+            54.362696
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Yn Aittin Vooar",
+        "name:gv": "Yn Aittin Vooar",
+        "postal_code": "IM7 3EU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985993,
       "geometry": {
         "type": "LineString",
@@ -8167,6 +8195,7 @@
       },
       "properties": {
         "highway": "secondary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Glen Falcon Road",
         "name:en": "Glen Falcon Road",
@@ -8694,6 +8723,50 @@
     },
     {
       "type": "Feature",
+      "id": 25986205,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51858,
+            54.169385
+          ],
+          [
+            -4.518686,
+            54.169395
+          ],
+          [
+            -4.518834,
+            54.169434
+          ],
+          [
+            -4.519353,
+            54.169602
+          ],
+          [
+            -4.519753,
+            54.169731
+          ],
+          [
+            -4.51999,
+            54.169808
+          ],
+          [
+            -4.520092,
+            54.169841
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Close-y-Locker",
+        "name:gv": "Close-y-Locker",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986220,
       "geometry": {
         "type": "LineString",
@@ -8908,6 +8981,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "20 mph",
         "name": "Old School Hill",
         "name:en": "Old School Hill",
@@ -12717,6 +12791,7 @@
         "alt_ref": "B52",
         "fixme": "Check name:gv spelling",
         "highway": "primary",
+        "lane_markings": "no",
         "name": "Marine Drive",
         "name:en": "Marine Drive",
         "name:gv": "Imman ny Marree",
@@ -14643,6 +14718,7 @@
       "properties": {
         "alt_name": "Dreemskerry Road",
         "highway": "secondary",
+        "lanes": "2",
         "maxweight": "7.5",
         "name": "Road of the Scarffe's Ridge",
         "name:en": "Road of the Scarffe's Ridge",
@@ -15947,6 +16023,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -20294,6 +20371,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "tertiary",
+        "lanes": "2",
         "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Albany Road",
@@ -22229,6 +22307,7 @@
       },
       "properties": {
         "highway": "secondary",
+        "lane_markings": "no",
         "maxspeed": "20 mph",
         "name": "Old Laxey Hill",
         "name:en": "Old Laxey Hill",
@@ -22406,6 +22485,66 @@
         "name": "Cronk Ny Greiney",
         "name:gv": "Cronk Ny Greiney",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987811,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.519406,
+            54.168153
+          ],
+          [
+            -4.519375,
+            54.168196
+          ],
+          [
+            -4.519359,
+            54.168217
+          ],
+          [
+            -4.519264,
+            54.168329
+          ],
+          [
+            -4.51919,
+            54.168424
+          ],
+          [
+            -4.519109,
+            54.168513
+          ],
+          [
+            -4.518956,
+            54.168652
+          ],
+          [
+            -4.51879,
+            54.1688
+          ],
+          [
+            -4.518696,
+            54.168891
+          ],
+          [
+            -4.5186,
+            54.168992
+          ],
+          [
+            -4.518509,
+            54.169106
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk Genall",
+        "name:gv": "Cronk Genall",
+        "surface": "asphalt"
       }
     },
     {
@@ -23684,6 +23823,46 @@
         "name:en": "Victoria Park",
         "name:gv": "Pairk Victoria",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987952,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.518852,
+            54.169783
+          ],
+          [
+            -4.518944,
+            54.169814
+          ],
+          [
+            -4.519019,
+            54.169813
+          ],
+          [
+            -4.519124,
+            54.169779
+          ],
+          [
+            -4.519214,
+            54.169747
+          ],
+          [
+            -4.519353,
+            54.169602
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Close-y-Locker",
+        "name:gv": "Close-y-Locker",
+        "surface": "paved"
       }
     },
     {
@@ -25365,6 +25544,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Road of the Middle Farm",
         "name:en": "Road of the Middle Farm",
         "name:gv": "Bayr Balley Meanagh",
@@ -26615,6 +26795,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Victoria Street",
         "name:en": "Victoria Street",
@@ -30602,6 +30783,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Stanley Mount",
         "name:en": "Stanley Mount",
@@ -31004,6 +31186,66 @@
         "maxspeed": "30 mph",
         "name": "Creggan Mooar",
         "name:gv": "Creggan Mooar",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988800,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.518509,
+            54.169106
+          ],
+          [
+            -4.518472,
+            54.16917
+          ],
+          [
+            -4.518487,
+            54.169218
+          ],
+          [
+            -4.51858,
+            54.169385
+          ],
+          [
+            -4.518594,
+            54.169425
+          ],
+          [
+            -4.518598,
+            54.169459
+          ],
+          [
+            -4.518566,
+            54.16954
+          ],
+          [
+            -4.518473,
+            54.169603
+          ],
+          [
+            -4.518355,
+            54.169643
+          ],
+          [
+            -4.518276,
+            54.169671
+          ],
+          [
+            -4.518185,
+            54.169717
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Close Corran",
+        "name:gv": "Close Corran",
         "surface": "paved"
       }
     },
@@ -31492,6 +31734,7 @@
       "properties": {
         "alt_name": "Ballamenaugh Road;Ballamenagh Road",
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Road of the Middle Farm",
         "name:en": "Road of the Middle Farm",
         "name:gv": "Bayr Balley Meanagh",
@@ -32235,6 +32478,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -32993,6 +33237,38 @@
     },
     {
       "type": "Feature",
+      "id": 25989083,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.520451,
+            54.169648
+          ],
+          [
+            -4.520571,
+            54.169644
+          ],
+          [
+            -4.520904,
+            54.169672
+          ],
+          [
+            -4.521428,
+            54.169628
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Close-y-Lhergy",
+        "name:gv": "Close-y-Lhergy",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989085,
       "geometry": {
         "type": "LineString",
@@ -33736,6 +34012,7 @@
       },
       "properties": {
         "highway": "secondary",
+        "lane_markings": "no",
         "name": "Port Soderick Glen Road",
         "name:en": "Port Soderick Glen Road",
         "name:gv": "Bayr Glion Purt Soderick",
@@ -34487,6 +34764,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Baldhoon Road",
         "name:en": "Baldhoon Road",
@@ -36349,6 +36627,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lane_markings": "no",
         "maxspeed": "50 mph",
         "name": "Old Castletown Road",
         "name:en": "Old Castletown Road",
@@ -36750,6 +37029,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "secondary",
+        "lane_markings": "no",
         "name": "Church Hill",
         "name:en": "Church Hill",
         "name:gv": "Cronk Ny Killey",
@@ -38380,6 +38660,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -41141,6 +41422,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "40 mph",
         "name": "Braddan Road",
         "name:en": "Braddan Road",
@@ -45596,6 +45878,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lane_markings": "no",
         "name": "Marine Drive",
         "name:en": "Marine Drive",
         "name:gv": "Imman ny Marrey",
@@ -46426,6 +46709,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "40 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -46487,6 +46771,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "secondary",
+        "lane_markings": "no",
         "maxspeed": "20 mph",
         "name": "Church Hill",
         "name:en": "Church Hill",
@@ -72804,6 +73089,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lane_markings": "no",
         "name": "Marine Drive",
         "name:en": "Marine Drive",
         "name:gv": "Imman ny Marrey",
@@ -72914,6 +73200,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lane_markings": "no",
         "maxspeed": "50 mph",
         "name": "Old Castletown Road",
         "name:en": "Old Castletown Road",
@@ -74449,6 +74736,7 @@
       "properties": {
         "bicycle": "yes",
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Trollaby Lane",
         "name:en": "Trollaby Lane",
         "name:gv": "Lhoan Trollaby",
@@ -76607,6 +76895,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -76653,6 +76942,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -76759,6 +77049,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
         "name:gv": "Raad y Ree Edard",
@@ -76878,6 +77169,7 @@
       "properties": {
         "alt_name": "Ballamenaugh Road;Ballamanagh Road",
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Road of the Middle Farm",
         "name:en": "Road of the Middle Farm",
         "name:gv": "Bayr Balley Meanagh",
@@ -78308,6 +78600,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
         "name:gv": "Raad y Ree Edard",
@@ -78418,6 +78711,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -79091,6 +79385,7 @@
       },
       "properties": {
         "highway": "secondary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Glen Falcon Road",
         "name:en": "Glen Falcon Road",
@@ -80557,6 +80852,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "secondary",
+        "lane_markings": "no",
         "name": "Church Hill",
         "name:en": "Church Hill",
         "name:gv": "Cronk Ny Killey",
@@ -88406,6 +88702,34 @@
             54.324788
           ],
           [
+            -4.397996,
+            54.324798
+          ],
+          [
+            -4.397954,
+            54.324883
+          ],
+          [
+            -4.398017,
+            54.324892
+          ],
+          [
+            -4.39801,
+            54.324914
+          ],
+          [
+            -4.398076,
+            54.324921
+          ],
+          [
+            -4.398083,
+            54.3249
+          ],
+          [
+            -4.398134,
+            54.324822
+          ],
+          [
             -4.398478,
             54.324883
           ],
@@ -89387,6 +89711,7 @@
       "properties": {
         "alt_name": "Ballamenaugh Road;Ballamenagh Road",
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Road of the Middle Farm",
         "name:en": "Road of the Middle Farm",
         "name:gv": "Bayr Balley Meanagh",
@@ -98223,6 +98548,86 @@
     },
     {
       "type": "Feature",
+      "id": 1026565709,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384814,
+            54.32575
+          ],
+          [
+            -4.384783,
+            54.325709
+          ],
+          [
+            -4.384661,
+            54.325545
+          ],
+          [
+            -4.384644,
+            54.325497
+          ],
+          [
+            -4.384641,
+            54.325446
+          ],
+          [
+            -4.384663,
+            54.325241
+          ],
+          [
+            -4.384681,
+            54.32519
+          ],
+          [
+            -4.384679,
+            54.325163
+          ],
+          [
+            -4.384634,
+            54.325085
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1026565710,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384882,
+            54.325136
+          ],
+          [
+            -4.385685,
+            54.325016
+          ],
+          [
+            -4.385605,
+            54.324835
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1026691907,
       "geometry": {
         "type": "LineString",
@@ -99790,6 +100195,7 @@
       "properties": {
         "alt_name": "Dreemskerry Road",
         "highway": "secondary",
+        "lane_markings": "no",
         "maxweight": "7.5",
         "name": "Road of the Scarffe's Ridge",
         "name:en": "Road of the Scarffe's Ridge",
@@ -99924,6 +100330,40 @@
     },
     {
       "type": "Feature",
+      "id": 1148598267,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51999,
+            54.169808
+          ],
+          [
+            -4.519928,
+            54.169867
+          ],
+          [
+            -4.519843,
+            54.169898
+          ],
+          [
+            -4.519769,
+            54.1699
+          ],
+          [
+            -4.519675,
+            54.169868
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Close-y-Locker",
+        "name:gv": "Close-y-Locker"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1148598277,
       "geometry": {
         "type": "LineString",
@@ -99982,6 +100422,70 @@
         "name:gv": "Barrante Skylley Vraddan",
         "office": "government",
         "website": "https://www.braddan.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148598278,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.518696,
+            54.168891
+          ],
+          [
+            -4.518329,
+            54.168784
+          ],
+          [
+            -4.518251,
+            54.168752
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Mullen Doway",
+        "name:gv": "Mullen Doway"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148598280,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.518251,
+            54.168752
+          ],
+          [
+            -4.51819,
+            54.168703
+          ],
+          [
+            -4.518173,
+            54.168668
+          ],
+          [
+            -4.51819,
+            54.168613
+          ],
+          [
+            -4.518281,
+            54.168542
+          ],
+          [
+            -4.518355,
+            54.168463
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Mullen Doway",
+        "name:gv": "Mullen Doway"
       }
     },
     {
@@ -101722,6 +102226,7 @@
       },
       "properties": {
         "highway": "secondary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Old Laxey Hill",
         "name:en": "Old Laxey Hill",
@@ -101756,6 +102261,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Captain's Hill",
         "name:en": "Captain's Hill",
         "name:gv": "Cronk y Chaptan",
@@ -103758,6 +104264,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "King Edward Road",
         "name:en": "King Edward Road",
@@ -105754,6 +106261,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "sidewalk": "none",
@@ -105791,6 +106299,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -107736,6 +108245,86 @@
         "name:gv": "Close-y-Kee",
         "source:addr:housename": "bus stop",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321437198,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.385685,
+            54.325016
+          ],
+          [
+            -4.385697,
+            54.325049
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321510483,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384679,
+            54.325163
+          ],
+          [
+            -4.384882,
+            54.325136
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321510484,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384634,
+            54.325085
+          ],
+          [
+            -4.384573,
+            54.324963
+          ],
+          [
+            -4.384508,
+            54.32491
+          ],
+          [
+            -4.384432,
+            54.324743
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

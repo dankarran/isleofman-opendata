@@ -395,34 +395,6 @@
     },
     {
       "type": "Feature",
-      "id": 5252054773,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.448577,
-          54.177594
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:country": "IM",
-        "addr:housenumber": "44",
-        "addr:postcode": "IM3 4HR",
-        "addr:street": "Whitebridge Road",
-        "building": "house",
-        "building:levels": "2",
-        "name": "Blue Goose Systems",
-        "office": "it",
-        "source:addr:postcode": "Isle of Man Land Registry Land Transactions",
-        "osm_id": 5252054773,
-        "lon": -4.448577,
-        "lat": 54.177594,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/5252054773"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 5331323721,
       "geometry": {
         "type": "Point",
@@ -593,12 +565,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480872,
-          54.152274
+          -4.480885,
+          54.152277
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "26",
         "addr:street": "Finch Road",
         "name": "Ambitions",
@@ -606,8 +579,8 @@
         "source:addr:housenumber": "mapillary",
         "website": "https://ambitions.co.im",
         "osm_id": 10289485871,
-        "lon": -4.480872,
-        "lat": 54.152274,
+        "lon": -4.480885,
+        "lat": 54.152277,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10289485871"
       }
@@ -1327,8 +1300,7 @@
         "lunar:product": "data_storage",
         "name": "Eayst Noa",
         "office": "company",
-        "operator": "Lonestar Data Holdings",
-        "website": "https://www.eaystnoa.com",
+        "website": "https://www.eaystnoa.com/",
         "osm_id": 11362408576,
         "lon": -4.481502,
         "lat": 54.152384,
@@ -2514,7 +2486,7 @@
         "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:street": "Finch Road",
-        "building": "yes",
+        "building": "office",
         "listed_status": "Registered",
         "name": "Corlett Bolton & Co",
         "office": "lawyer",
@@ -4968,32 +4940,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481756,
-            54.152742
+            -4.481742,
+            54.152745
           ],
           [
-            -4.481845,
-            54.152799
+            -4.48183,
+            54.152796
           ],
           [
-            -4.481963,
-            54.152804
+            -4.481946,
+            54.152796
           ],
           [
-            -4.481962,
+            -4.481945,
+            54.152704
+          ],
+          [
+            -4.481944,
             54.152694
           ],
           [
-            -4.481899,
-            54.152656
+            -4.481948,
+            54.152621
           ],
           [
-            -4.481874,
-            54.152673
+            -4.481909,
+            54.152627
           ],
           [
-            -4.481756,
-            54.152742
+            -4.481906,
+            54.152647
+          ],
+          [
+            -4.481859,
+            54.152676
+          ],
+          [
+            -4.481742,
+            54.152745
           ]
         ]
       },
@@ -5009,8 +4993,8 @@
         "source": "mapillary",
         "website": "https://www.mcgarrigle-architects.com",
         "osm_id": 152690553,
-        "lon": -4.481877448366802,
-        "lat": 54.15273994727208,
+        "lon": -4.481871728681478,
+        "lat": 54.15272302100485,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690553"
       }
@@ -5144,28 +5128,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48173,
-            54.152426
+            -4.481715,
+            54.152429
           ],
           [
-            -4.481583,
-            54.152423
+            -4.481568,
+            54.152425
           ],
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ],
           [
-            -4.481439,
-            54.152354
+            -4.481425,
+            54.152357
           ],
           [
-            -4.481735,
-            54.152362
+            -4.48172,
+            54.152364
           ],
           [
-            -4.48173,
-            54.152426
+            -4.481715,
+            54.152429
           ]
         ]
       },
@@ -5182,8 +5166,8 @@
         "source:addr:housename": "mapillary",
         "website": "https://accla.im",
         "osm_id": 152690587,
-        "lon": -4.481584293282614,
-        "lat": 54.15239034143059,
+        "lon": -4.481570002480683,
+        "lat": 54.15239289532815,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690587"
       }
@@ -5195,40 +5179,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ],
           [
-            -4.481756,
-            54.152742
+            -4.481742,
+            54.152745
           ],
           [
-            -4.481874,
-            54.152673
+            -4.481859,
+            54.152676
           ],
           [
-            -4.481818,
-            54.15264
+            -4.481804,
+            54.152643
           ],
           [
-            -4.481839,
-            54.152628
+            -4.481824,
+            54.152631
           ],
           [
-            -4.481765,
-            54.152586
+            -4.481751,
+            54.152589
           ],
           [
-            -4.481732,
-            54.152605
+            -4.481718,
+            54.152608
           ],
           [
-            -4.481712,
-            54.152594
+            -4.481697,
+            54.152597
           ],
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ]
         ]
       },
@@ -5245,8 +5229,8 @@
         "source": "mapillary",
         "website": "https://iomlaw.com",
         "osm_id": 152690589,
-        "lon": -4.48174691128237,
-        "lat": 54.15265943196317,
+        "lon": -4.481732255379989,
+        "lat": 54.15266244087339,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690589"
       }
@@ -5258,24 +5242,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ],
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ],
           [
-            -4.481578,
-            54.152491
+            -4.481563,
+            54.152494
           ],
           [
-            -4.481583,
-            54.152423
+            -4.481568,
+            54.152425
           ],
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ]
         ]
       },
@@ -5291,8 +5275,8 @@
         "source": "mapillary",
         "website": "https://iomlawsociety.co.im",
         "osm_id": 152690593,
-        "lon": -4.481505829500789,
-        "lat": 54.152455244144754,
+        "lon": -4.4814916701343055,
+        "lat": 54.15245775589479,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690593"
       }
@@ -7692,6 +7676,54 @@
     },
     {
       "type": "Feature",
+      "id": 1005856346,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474328,
+            54.164153
+          ],
+          [
+            -4.474198,
+            54.164076
+          ],
+          [
+            -4.474265,
+            54.164037
+          ],
+          [
+            -4.474294,
+            54.164054
+          ],
+          [
+            -4.474397,
+            54.164115
+          ],
+          [
+            -4.474328,
+            54.164153
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Gordon House",
+        "addr:postcode": "IM2 4AF",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "name": "ICR Retail Systems",
+        "office": "yes",
+        "website": "https://icr.co.im/",
+        "osm_id": 1005856346,
+        "lon": -4.474297351922013,
+        "lat": 54.164095244898014,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1005856346"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1011328816,
       "geometry": {
         "type": "LineString",
@@ -8557,7 +8589,7 @@
         "addr:country": "IM",
         "addr:housenumber": "18",
         "addr:street": "Finch Road",
-        "building": "yes",
+        "building": "office",
         "listed_status": "Registered",
         "name": "Media Isle of Man",
         "office": "newspaper",

@@ -27,17 +27,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481136,
-          54.152517
+          -4.481121,
+          54.152518
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "5",
+        "name": "Barbers Unit 5",
         "shop": "hairdresser",
         "osm_id": 455458409,
-        "lon": -4.481136,
-        "lat": 54.152517,
+        "lon": -4.481121,
+        "lat": 54.152518,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/455458409"
       }
@@ -1486,26 +1492,6 @@
     },
     {
       "type": "Feature",
-      "id": 3659088390,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.450314,
-          54.178536
-        ]
-      },
-      "properties": {
-        "name": "Ballacrink Stores",
-        "shop": "supermarket",
-        "osm_id": 3659088390,
-        "lon": -4.450314,
-        "lat": 54.178536,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/3659088390"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 3760543094,
       "geometry": {
         "type": "Point",
@@ -2215,6 +2201,7 @@
         ]
       },
       "properties": {
+        "check_date:currency:XBT": "2024-10-08",
         "currency:XBT": "yes",
         "name": "The Boredroom",
         "payment:lightning": "yes",
@@ -2260,54 +2247,31 @@
     },
     {
       "type": "Feature",
-      "id": 10151684348,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479196,
-          54.151609
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "55",
-        "addr:postcode": "IM1 2EJ",
-        "addr:street": "Strand Street",
-        "contact:twitter": "@ChoccyPiccy",
-        "currency:XBT": "yes",
-        "name": "Hot Choccy Bar",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624242018",
-        "shop": "confectionery",
-        "survey:date": "2022-11-02",
-        "website": "https://www.choccypiccy.im/",
-        "osm_id": 10151684348,
-        "lon": -4.479196,
-        "lat": 54.151609,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10151684348"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10289485878,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481148,
-          54.152381
+          -4.481143,
+          54.152391
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "3",
+        "contact:email": "ruthsretreat@icloud.com",
+        "contact:phone": "+44 7624 290859",
+        "contact:website": "https://www.ruthsretreat.com/",
         "name": "Ruth's Retreat",
+        "opening_hours": "Mo-Sa 08:00-18:00",
         "shop": "beauty",
         "osm_id": 10289485878,
-        "lon": -4.481148,
-        "lat": 54.152381,
+        "lon": -4.481143,
+        "lat": 54.152391,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10289485878"
       }
@@ -2318,18 +2282,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481151,
-          54.15233
+          -4.481148,
+          54.152345
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
-        "name": "Diva",
-        "shop": "beauty",
+        "addr:unit": "2",
+        "contact:email": "Diva.isleofman@gmail.com",
+        "contact:phone": "+44 1624 612066",
+        "name": "Diva Hair and Beauty",
+        "shop": "hairdresser;beauty",
         "osm_id": 10289485879,
-        "lon": -4.481151,
-        "lat": 54.15233,
+        "lon": -4.481148,
+        "lat": 54.152345,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10289485879"
       }
@@ -4297,6 +4268,154 @@
     },
     {
       "type": "Feature",
+      "id": 12236063398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.635329,
+          54.208125
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:phone": "+44 7624 342966",
+        "contact:website": "https://envyfurnishings.com/",
+        "entrance": "main",
+        "name:en": "Envy Furnishings",
+        "opening_hours": "Tu-Fr 10:30-16:00, Sa 10:00-16:00",
+        "shop": "interior_decoration",
+        "osm_id": 12236063398,
+        "lon": -4.635329,
+        "lat": 54.208125,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236063398"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634099,
+          54.208132
+        ]
+      },
+      "properties": {
+        "contact:phone": "+44 7624 461343",
+        "name": "Jan Carling Aesthetics",
+        "shop": "beauty",
+        "osm_id": 12236204791,
+        "lon": -4.634099,
+        "lat": 54.208132,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236204791"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.63412,
+          54.208135
+        ]
+      },
+      "properties": {
+        "contact:email": "heavenlybeautyatmil@hotmail.com",
+        "name": "Heavenly Beauty",
+        "shop": "beauty",
+        "osm_id": 12236204792,
+        "lon": -4.63412,
+        "lat": 54.208135,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236204792"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634141,
+          54.208139
+        ]
+      },
+      "properties": {
+        "name": "The Ivy Aesthetics",
+        "shop": "beauty",
+        "osm_id": 12236204793,
+        "lon": -4.634141,
+        "lat": 54.208139,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236204793"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481132,
+          54.152462
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "4",
+        "contact:phone": "+44 7624 218337",
+        "name": "Queen Bee Ink Tattoo Studio",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "shop": "tattoo",
+        "osm_id": 12238913174,
+        "lon": -4.481132,
+        "lat": 54.152462,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12238913174"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481153,
+          54.152299
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "1",
+        "contact:email": "isleofman@perfectgetaways.co.uk",
+        "contact:phone": "+44 333 888 0223",
+        "name": "Perfect Getaways",
+        "shop": "travel_agency",
+        "osm_id": 12238913175,
+        "lon": -4.481153,
+        "lat": 54.152299,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12238913175"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -6084,6 +6203,10 @@
             54.208119
           ],
           [
+            -4.635329,
+            54.208125
+          ],
+          [
             -4.635433,
             54.208145
           ]
@@ -6099,8 +6222,8 @@
         "website": "https://tynwaldmills.com/",
         "wheelchair": "limited",
         "osm_id": 60691999,
-        "lon": -4.635037843777426,
-        "lat": 54.20801600442092,
+        "lon": -4.635037846725575,
+        "lat": 54.20801599224146,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60691999"
       }
@@ -6612,11 +6735,11 @@
             54.151336
           ],
           [
-            -4.479313,
+            -4.479312,
             54.151348
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -6729,13 +6852,12 @@
         "building": "retail",
         "building:levels": "2",
         "name": "TK Maxx",
-        "postal_code": "IM1 2EF",
         "shop": "department_store",
         "source": "Bing;photograph",
         "website": "https://www.tkmaxx.com/uk/en/store/316",
         "osm_id": 62091772,
-        "lon": -4.479486362425459,
-        "lat": 54.15122130955731,
+        "lon": -4.479486275723456,
+        "lat": 54.15122138041695,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62091772"
       }
@@ -7924,9 +8046,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 3DL",
+        "addr:street": "Birch Hill Crescent",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
         "building": "yes",
         "name": "Birch Hill Stores",
+        "operator": "Costcutter",
         "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-100ff1fde58d",
         "osm_id": 79212574,
         "lon": -4.464273782673165,
         "lat": 54.18138356156969,
@@ -8872,6 +9001,7 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-09",
         "cuisine": "breakfast;sandwich",
         "currency:XBT": "yes",
         "name": "Newsbeat",
@@ -19406,61 +19536,6 @@
     },
     {
       "type": "Feature",
-      "id": 361410121,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.491967,
-            54.319314
-          ],
-          [
-            -4.49196,
-            54.319228
-          ],
-          [
-            -4.492093,
-            54.319224
-          ],
-          [
-            -4.492096,
-            54.319265
-          ],
-          [
-            -4.492065,
-            54.319265
-          ],
-          [
-            -4.492068,
-            54.319311
-          ],
-          [
-            -4.492025,
-            54.319312
-          ],
-          [
-            -4.491967,
-            54.319314
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "Caley's General Store",
-        "name:en": "Caley's General Store",
-        "opening_hours": "Mo-Fr 08:00-17:30, Su 09:00-13:00",
-        "shop": "general;post_office",
-        "source": "survey",
-        "source:geometry": "Bing",
-        "osm_id": 361410121,
-        "lon": -4.492026426186192,
-        "lat": 54.31926575594755,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/361410121"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 390438747,
       "geometry": {
         "type": "LineString",
@@ -21888,6 +21963,64 @@
     },
     {
       "type": "Feature",
+      "id": 417401596,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479065,
+            54.15158
+          ],
+          [
+            -4.479075,
+            54.151638
+          ],
+          [
+            -4.478875,
+            54.151647
+          ],
+          [
+            -4.478658,
+            54.151657
+          ],
+          [
+            -4.478639,
+            54.151658
+          ],
+          [
+            -4.478631,
+            54.151607
+          ],
+          [
+            -4.47871,
+            54.151603
+          ],
+          [
+            -4.479065,
+            54.15158
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "56",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "420 Pharma",
+        "shop": "cannabis",
+        "source": "Bing;photograph",
+        "osm_id": 417401596,
+        "lon": -4.478854118728005,
+        "lat": 54.15162085768504,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/417401596"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 417401597,
       "geometry": {
         "type": "LineString",
@@ -22304,8 +22437,8 @@
         "building:colour": "white",
         "building:levels": "2",
         "building:material": "plaster",
-        "name": "Newsons",
-        "shop": "outdoor",
+        "name": "Grape Tree",
+        "shop": "health_food",
         "source": "Bing;photograph",
         "osm_id": 417401619,
         "lon": -4.478883295721909,
@@ -23466,6 +23599,62 @@
     },
     {
       "type": "Feature",
+      "id": 419070479,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479229,
+            54.150641
+          ],
+          [
+            -4.478962,
+            54.150648
+          ],
+          [
+            -4.478979,
+            54.150709
+          ],
+          [
+            -4.479001,
+            54.150708
+          ],
+          [
+            -4.479069,
+            54.150707
+          ],
+          [
+            -4.479068,
+            54.150682
+          ],
+          [
+            -4.479232,
+            54.150677
+          ],
+          [
+            -4.479229,
+            54.150641
+          ]
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:colour": "cream",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "description": "vacant",
+        "name": "Magazzino",
+        "shop": "interior_decoration",
+        "source": "Bing;photograph",
+        "osm_id": 419070479,
+        "lon": -4.4790936260437,
+        "lat": 54.150668296197956,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419070479"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419070482,
       "geometry": {
         "type": "LineString",
@@ -23570,11 +23759,9 @@
         "addr:housenumber": "67",
         "addr:street": "Strand Street",
         "building": "retail",
-        "contact:website": "thegreenhousedispensary.im",
-        "name": "The Greenhouse, Dispensary",
+        "name": "The Boredroom",
         "postal_code": "IM1 2EN",
-        "shop": "yes",
-        "source": "Bing;photograph",
+        "shop": "clothes",
         "osm_id": 419113931,
         "lon": -4.479405656074855,
         "lat": 54.15189041769034,
@@ -23715,7 +23902,7 @@
           ],
           [
             -4.479557,
-            54.151696
+            54.151699
           ],
           [
             -4.479549,
@@ -23741,8 +23928,8 @@
         "source": "Bing;photograph",
         "website": "https://www.crossroadsiom.org/",
         "osm_id": 419113935,
-        "lon": -4.479360823194088,
-        "lat": 54.151685538732586,
+        "lon": -4.479361486796615,
+        "lat": 54.15168626205269,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113935"
       }
@@ -23778,7 +23965,7 @@
             54.151364
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -23797,8 +23984,8 @@
         "shop": "optician",
         "website": "https://www.holmesanddavidsonopticians.co.uk",
         "osm_id": 419113936,
-        "lon": -4.479285198454476,
-        "lat": 54.151381625523065,
+        "lon": -4.479285234983978,
+        "lat": 54.151381607776464,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113936"
       }
@@ -23841,9 +24028,8 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Trey Barbers",
-        "shop": "hairdresser",
-        "source": "Bing;photograph",
+        "name": "Island Inspirations",
+        "shop": "gift",
         "osm_id": 419113937,
         "lon": -4.479349152566787,
         "lat": 54.1522053949045,
@@ -23860,10 +24046,6 @@
           [
             -4.479145,
             54.15155
-          ],
-          [
-            -4.47935,
-            54.151538
           ],
           [
             -4.479541,
@@ -23896,8 +24078,8 @@
         "shop": "travel_agency",
         "source": "Bing;photograph",
         "osm_id": 419113938,
-        "lon": -4.4793467372260105,
-        "lat": 54.15155797175247,
+        "lon": -4.47934673845416,
+        "lat": 54.15155799290182,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113938"
       }
@@ -23925,10 +24107,6 @@
             54.151527
           ],
           [
-            -4.47935,
-            54.151538
-          ],
-          [
             -4.479145,
             54.15155
           ],
@@ -23942,15 +24120,13 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "51",
+        "addr:postcode": "IM1 2EJ",
         "addr:street": "Strand Street",
-        "contact:website": "topbanana.im",
-        "name": "Top Banana",
-        "old_name": "Keigs",
-        "postal_code": "IM1 2EJ",
-        "shop": "general",
+        "name": "Bon Fabrics",
+        "shop": "fabric",
         "osm_id": 419113939,
-        "lon": -4.479340284127305,
-        "lat": 54.15151472678967,
+        "lon": -4.479340285335292,
+        "lat": 54.15151474759518,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113939"
       }
@@ -24159,7 +24335,7 @@
           ],
           [
             -4.479621,
-            54.151969
+            54.151973
           ],
           [
             -4.479617,
@@ -24186,8 +24362,8 @@
         "shop": "confectionery",
         "source": "Bing;photograph",
         "osm_id": 419113945,
-        "lon": -4.479412535371458,
-        "lat": 54.15195191869981,
+        "lon": -4.479413393137749,
+        "lat": 54.15195228730497,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113945"
       }
@@ -24250,53 +24426,6 @@
     },
     {
       "type": "Feature",
-      "id": 419113948,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479548,
-            54.151567
-          ],
-          [
-            -4.479555,
-            54.151607
-          ],
-          [
-            -4.479158,
-            54.15163
-          ],
-          [
-            -4.479151,
-            54.151588
-          ],
-          [
-            -4.479548,
-            54.151567
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "55",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "fixme": "is this now Hot Choccy Bar?",
-        "name": "Sweets 'n' Treats",
-        "shop": "confectionery",
-        "source": "Bing;photograph",
-        "osm_id": 419113948,
-        "lon": -4.479352554937032,
-        "lat": 54.151598027270445,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/419113948"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -24329,13 +24458,8 @@
         "addr:housenumber": "49",
         "addr:postcode": "IM1 3LB",
         "addr:street": "Strand Street",
-        "clothes": "dancewear",
-        "contact:email": "dancewearofdouglas@gmail.com",
-        "contact:facebook": "https://www.facebook.com/dancewearofdouglas",
-        "name": "Dancewear of Douglas",
-        "opening_hours": "Tu-Fr 10:00-17:00, Sa 09:30-17:30",
-        "phone": "+44 1624 626041",
-        "shop": "clothes",
+        "name": "Artificial Spaces",
+        "shop": "builders_merchant",
         "source": "photo",
         "osm_id": 419113949,
         "lon": -4.479332070483551,
@@ -24399,54 +24523,6 @@
         "lat": 54.15205862448022,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113950"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419113951,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479223,
-            54.152159
-          ],
-          [
-            -4.479226,
-            54.152189
-          ],
-          [
-            -4.47947,
-            54.152185
-          ],
-          [
-            -4.479471,
-            54.152149
-          ],
-          [
-            -4.479223,
-            54.152159
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "79",
-        "addr:postcode": "IM1 2EN",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "name": "Everest",
-        "shop": "yes",
-        "source": "Bing;photograph",
-        "osm_id": 419113951,
-        "lon": -4.479348788005594,
-        "lat": 54.152170340061666,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/419113951"
       }
     },
     {
@@ -32254,6 +32330,58 @@
         "lat": 54.149663332260566,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1312619902"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323167006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450197,
+            54.178616
+          ],
+          [
+            -4.450161,
+            54.178564
+          ],
+          [
+            -4.450247,
+            54.178519
+          ],
+          [
+            -4.450323,
+            54.178577
+          ],
+          [
+            -4.450312,
+            54.178591
+          ],
+          [
+            -4.450197,
+            54.178616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Ballachrink Stores",
+        "addr:postcode": "IM3 4NU",
+        "addr:street": "Ballachrink Drive",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Ballachrinkstores/",
+        "name": "Ballachrink Stores",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-f5e2e1f3f1ac",
+        "osm_id": 1323167006,
+        "lon": -4.450240092593951,
+        "lat": 54.17857150004574,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1323167006"
       }
     }
   ]

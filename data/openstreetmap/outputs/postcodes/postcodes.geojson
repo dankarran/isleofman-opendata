@@ -81,6 +81,33 @@
     },
     {
       "type": "Feature",
+      "id": 455458409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481121,
+          54.152518
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "5",
+        "name": "Barbers Unit 5",
+        "shop": "hairdresser",
+        "osm_id": 455458409,
+        "lon": -4.481121,
+        "lat": 54.152518,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/455458409"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 455458441,
       "geometry": {
         "type": "Point",
@@ -4103,9 +4130,9 @@
         "addr:street": "Whitebridge Road",
         "building": "house",
         "building:levels": "2",
-        "name": "Blue Goose Systems",
-        "office": "it",
+        "old_name": "Blue Goose Systems",
         "source:addr:postcode": "Isle of Man Land Registry Land Transactions",
+        "was:office": "it",
         "osm_id": 5252054773,
         "lon": -4.448577,
         "lat": 54.177594,
@@ -4816,6 +4843,7 @@
         "addr:postcode": "IM2 1AL",
         "addr:unit": "5",
         "amenity": "cafe",
+        "check_date:currency:XBT": "2024-10-08",
         "contact:facebook": "https://www.facebook.com/foodtotruck/",
         "cuisine": "greek;coffee",
         "currency:XBT": "yes",
@@ -5036,34 +5064,62 @@
     },
     {
       "type": "Feature",
-      "id": 10151684348,
+      "id": 10289485878,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.479196,
-          54.151609
+          -4.481143,
+          54.152391
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "55",
-        "addr:postcode": "IM1 2EJ",
-        "addr:street": "Strand Street",
-        "contact:twitter": "@ChoccyPiccy",
-        "currency:XBT": "yes",
-        "name": "Hot Choccy Bar",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624242018",
-        "shop": "confectionery",
-        "survey:date": "2022-11-02",
-        "website": "https://www.choccypiccy.im/",
-        "osm_id": 10151684348,
-        "lon": -4.479196,
-        "lat": 54.151609,
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "3",
+        "contact:email": "ruthsretreat@icloud.com",
+        "contact:phone": "+44 7624 290859",
+        "contact:website": "https://www.ruthsretreat.com/",
+        "name": "Ruth's Retreat",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "beauty",
+        "osm_id": 10289485878,
+        "lon": -4.481143,
+        "lat": 54.152391,
         "osm_type": "node",
-        "osm_url": "https://osm.org/node/10151684348"
+        "osm_url": "https://osm.org/node/10289485878"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10289485879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481148,
+          54.152345
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "2",
+        "contact:email": "Diva.isleofman@gmail.com",
+        "contact:phone": "+44 1624 612066",
+        "name": "Diva Hair and Beauty",
+        "shop": "hairdresser;beauty",
+        "osm_id": 10289485879,
+        "lon": -4.481148,
+        "lat": 54.152345,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10289485879"
       }
     },
     {
@@ -5072,23 +5128,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481133,
-          54.152571
+          -4.481128,
+          54.152579
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Rosemary House",
         "addr:housenumber": "37",
         "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "6",
         "amenity": "cafe",
+        "contact:email": "offeecorner@manx.net",
+        "contact:phone": "+44 1624 619209",
         "cuisine": "coffee_shop",
         "name": "Coffee Corner",
+        "opening_hours": "Mo-Fr 08:00-15:00",
         "takeaway": "yes",
         "osm_id": 10289485880,
-        "lon": -4.481133,
-        "lat": 54.152571,
+        "lon": -4.481128,
+        "lat": 54.152579,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10289485880"
       }
@@ -6081,6 +6142,31 @@
         "lat": 54.310092,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10678898626"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10678898631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.322999,
+          54.29957
+        ]
+      },
+      "properties": {
+        "addr:city": "Maughold",
+        "addr:country": "IM",
+        "addr:housename": "Glebe Cottage",
+        "addr:postcode": "IM7 1AS",
+        "addr:street": "Maughold Church Road",
+        "description": "Former Glebe Mine office. Glebe Mine is a disused haematite iron ore mine.",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 10678898631,
+        "lon": -4.322999,
+        "lat": 54.29957,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10678898631"
       }
     },
     {
@@ -8676,6 +8762,29 @@
     },
     {
       "type": "Feature",
+      "id": 10853173504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.535935,
+          54.170679
+        ]
+      },
+      "properties": {
+        "addr:city": "Braddan",
+        "addr:housename": "Ballahutchin House",
+        "addr:postcode": "IM4 4AT",
+        "addr:street": "Peel Road",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 10853173504,
+        "lon": -4.535935,
+        "lat": 54.170679,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10853173504"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10858161604,
       "geometry": {
         "type": "Point",
@@ -9383,8 +9492,7 @@
         "lunar:product": "data_storage",
         "name": "Eayst Noa",
         "office": "company",
-        "operator": "Lonestar Data Holdings",
-        "website": "https://www.eaystnoa.com",
+        "website": "https://www.eaystnoa.com/",
         "osm_id": 11362408576,
         "lon": -4.481502,
         "lat": 54.152384,
@@ -11645,6 +11753,171 @@
         "lat": 54.355467,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12221966078"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12228117115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492187,
+          54.324517
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:housename": "Elmcroft",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12228117115,
+        "lon": -4.492187,
+        "lat": 54.324517,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12228117115"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12228117116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492532,
+          54.325571
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:housename": "Meadow View",
+        "addr:postcode": "IM7 3AD",
+        "addr:street": "Clenagh Road",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 12228117116,
+        "lon": -4.492532,
+        "lat": 54.325571,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12228117116"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236063398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.635329,
+          54.208125
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:phone": "+44 7624 342966",
+        "contact:website": "https://envyfurnishings.com/",
+        "entrance": "main",
+        "name:en": "Envy Furnishings",
+        "opening_hours": "Tu-Fr 10:30-16:00, Sa 10:00-16:00",
+        "shop": "interior_decoration",
+        "osm_id": 12236063398,
+        "lon": -4.635329,
+        "lat": 54.208125,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236063398"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634224,
+          54.208171
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "The Courtyard, Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:email": "mbscentre@pm.me",
+        "contact:phone": "+44 7624 247466",
+        "contact:website": "https://www.mbs-dentre.com/",
+        "healthcare": "alternative",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "The Mind Body Soul Centre",
+        "opening_hours": "Mo-Fr 10:00-17:00, Sa-Su \"By appointment\"",
+        "osm_id": 12236204794,
+        "lon": -4.634224,
+        "lat": 54.208171,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12236204794"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481132,
+          54.152462
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "4",
+        "contact:phone": "+44 7624 218337",
+        "name": "Queen Bee Ink Tattoo Studio",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "shop": "tattoo",
+        "osm_id": 12238913174,
+        "lon": -4.481132,
+        "lat": 54.152462,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12238913174"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481153,
+          54.152299
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "1",
+        "contact:email": "isleofman@perfectgetaways.co.uk",
+        "contact:phone": "+44 333 888 0223",
+        "name": "Perfect Getaways",
+        "shop": "travel_agency",
+        "osm_id": 12238913175,
+        "lon": -4.481153,
+        "lat": 54.152299,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12238913175"
       }
     },
     {
@@ -16429,12 +16702,12 @@
         "addr:postcode": "IM1 2PT",
         "addr:street": "Finch Road",
         "amenity": "place_of_worship",
-        "building": "yes",
+        "building": "office",
         "charity": "yes",
         "contact:website": "http://www.iomia.com/",
         "denomination": "sunni",
         "listed_status": "Registered",
-        "name": "Isle of Man Mosque",
+        "name": "Isle of Man Islamic Centre and Masjid",
         "opening_hours": "09:00-18:00",
         "operator": "Isle of Man Islamic Association",
         "operator:type": "charitable",
@@ -28095,11 +28368,11 @@
             54.151336
           ],
           [
-            -4.479313,
+            -4.479312,
             54.151348
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -28212,13 +28485,12 @@
         "building": "retail",
         "building:levels": "2",
         "name": "TK Maxx",
-        "postal_code": "IM1 2EF",
         "shop": "department_store",
         "source": "Bing;photograph",
         "website": "https://www.tkmaxx.com/uk/en/store/316",
         "osm_id": 62091772,
-        "lon": -4.479486362425459,
-        "lat": 54.15122130955731,
+        "lon": -4.479486275723456,
+        "lat": 54.15122138041695,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62091772"
       }
@@ -36728,6 +37000,52 @@
     },
     {
       "type": "Feature",
+      "id": 79212574,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464171,
+            54.181424
+          ],
+          [
+            -4.464162,
+            54.181352
+          ],
+          [
+            -4.464376,
+            54.181343
+          ],
+          [
+            -4.464386,
+            54.181415
+          ],
+          [
+            -4.464171,
+            54.181424
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 3DL",
+        "addr:street": "Birch Hill Crescent",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "building": "yes",
+        "name": "Birch Hill Stores",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-100ff1fde58d",
+        "osm_id": 79212574,
+        "lon": -4.464273782673165,
+        "lat": 54.18138356156969,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/79212574"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79212621,
       "geometry": {
         "type": "LineString",
@@ -40082,6 +40400,52 @@
     },
     {
       "type": "Feature",
+      "id": 82563999,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478773,
+            54.158368
+          ],
+          [
+            -4.478654,
+            54.158436
+          ],
+          [
+            -4.478787,
+            54.158516
+          ],
+          [
+            -4.478907,
+            54.158448
+          ],
+          [
+            -4.478773,
+            54.158368
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Elysee Court",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 4ER",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 82563999,
+        "lon": -4.478780436380691,
+        "lat": 54.15844200955396,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/82563999"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 82564017,
       "geometry": {
         "type": "LineString",
@@ -40563,36 +40927,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482076,
-            54.152372
+            -4.482074,
+            54.152389
+          ],
+          [
+            -4.482071,
+            54.152477
+          ],
+          [
+            -4.482068,
+            54.152577
+          ],
+          [
+            -4.482003,
+            54.152576
+          ],
+          [
+            -4.482006,
+            54.152474
+          ],
+          [
+            -4.481973,
+            54.152474
+          ],
+          [
+            -4.481975,
+            54.152387
           ],
           [
             -4.482074,
-            54.15246
-          ],
-          [
-            -4.482072,
-            54.152559
-          ],
-          [
-            -4.482008,
-            54.152558
-          ],
-          [
-            -4.482011,
-            54.152457
-          ],
-          [
-            -4.481976,
-            54.152457
-          ],
-          [
-            -4.481978,
-            54.15237
-          ],
-          [
-            -4.482076,
-            54.152372
+            54.152389
           ]
         ]
       },
@@ -40607,8 +40971,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 82614380,
-        "lon": -4.482031055297831,
-        "lat": 54.152458702238434,
+        "lon": -4.482027727183544,
+        "lat": 54.152476191934625,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82614380"
       }
@@ -40620,24 +40984,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482165,
-            54.152375
+            -4.48216,
+            54.152391
           ],
           [
-            -4.482161,
-            54.152461
+            -4.482157,
+            54.152479
+          ],
+          [
+            -4.482071,
+            54.152477
           ],
           [
             -4.482074,
-            54.15246
+            54.152389
           ],
           [
-            -4.482076,
-            54.152372
-          ],
-          [
-            -4.482165,
-            54.152375
+            -4.48216,
+            54.152391
           ]
         ]
       },
@@ -40652,8 +41016,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 82614384,
-        "lon": -4.482118766280972,
-        "lat": 54.152416740474465,
+        "lon": -4.4821155,
+        "lat": 54.152434,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82614384"
       }
@@ -40665,24 +41029,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ],
           [
-            -4.482161,
-            54.152461
+            -4.482157,
+            54.152479
           ],
           [
-            -4.482165,
-            54.152375
+            -4.48216,
+            54.152391
           ],
           [
-            -4.482271,
-            54.152376
+            -4.482267,
+            54.152393
           ],
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ]
         ]
       },
@@ -40697,8 +41061,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 82614387,
-        "lon": -4.482216377608231,
-        "lat": 54.15241886542483,
+        "lon": -4.482211622982833,
+        "lat": 54.15243563386236,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82614387"
       }
@@ -40798,6 +41162,7 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-09",
         "cuisine": "breakfast;sandwich",
         "currency:XBT": "yes",
         "name": "Newsbeat",
@@ -40880,24 +41245,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481876,
-            54.152457
+            -4.481873,
+            54.152474
           ],
           [
-            -4.481781,
-            54.152456
+            -4.481777,
+            54.152473
           ],
           [
-            -4.481783,
-            54.152368
+            -4.481779,
+            54.152385
           ],
           [
-            -4.481878,
-            54.152369
+            -4.481875,
+            54.152386
           ],
           [
-            -4.481876,
-            54.152457
+            -4.481873,
+            54.152474
           ]
         ]
       },
@@ -40911,8 +41276,8 @@
         "source:addr:housenumber": "IOM FHS post",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 82614408,
-        "lon": -4.4818295,
-        "lat": 54.15241249999999,
+        "lon": -4.481826,
+        "lat": 54.1524295,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82614408"
       }
@@ -40924,24 +41289,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481976,
-            54.152457
+            -4.481973,
+            54.152474
           ],
           [
-            -4.481876,
-            54.152457
+            -4.481873,
+            54.152474
           ],
           [
-            -4.481878,
-            54.152369
+            -4.481875,
+            54.152386
           ],
           [
-            -4.481978,
-            54.15237
+            -4.481975,
+            54.152387
           ],
           [
-            -4.481976,
-            54.152457
+            -4.481973,
+            54.152474
           ]
         ]
       },
@@ -40956,8 +41321,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 82614409,
-        "lon": -4.481926866732839,
-        "lat": 54.15241324875036,
+        "lon": -4.481923866732839,
+        "lat": 54.152430248750356,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/82614409"
       }
@@ -62546,6 +62911,69 @@
     },
     {
       "type": "Feature",
+      "id": 102734583,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.381852,
+            54.326187
+          ],
+          [
+            -4.381817,
+            54.32612
+          ],
+          [
+            -4.381781,
+            54.326053
+          ],
+          [
+            -4.381965,
+            54.326021
+          ],
+          [
+            -4.381975,
+            54.32604
+          ],
+          [
+            -4.3822,
+            54.326
+          ],
+          [
+            -4.382244,
+            54.326085
+          ],
+          [
+            -4.382019,
+            54.326125
+          ],
+          [
+            -4.382035,
+            54.326155
+          ],
+          [
+            -4.381852,
+            54.326187
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:flats": "1-21",
+        "addr:housename": "Isle of Alanis",
+        "addr:postcode": "IM8 3AJ",
+        "addr:street": "Mooragh Promenade",
+        "building": "apartments",
+        "osm_id": 102734583,
+        "lon": -4.382008438889641,
+        "lat": 54.32608381014606,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102734583"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102734588,
       "geometry": {
         "type": "LineString",
@@ -62660,6 +63088,115 @@
         "lat": 54.32524904097286,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102734591"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102734615,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.381861,
+            54.326231
+          ],
+          [
+            -4.381907,
+            54.326321
+          ],
+          [
+            -4.381953,
+            54.326411
+          ],
+          [
+            -4.38215,
+            54.326377
+          ],
+          [
+            -4.382058,
+            54.326197
+          ],
+          [
+            -4.381861,
+            54.326231
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:flats": "1-12",
+        "addr:housename": "The Waterfront",
+        "addr:postcode": "IM8 3AW",
+        "addr:street": "Mooragh Promenade",
+        "building": "apartments",
+        "osm_id": 102734615,
+        "lon": -4.3820055,
+        "lat": 54.32630400000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102734615"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102734622,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38116,
+            54.324907
+          ],
+          [
+            -4.381223,
+            54.325007
+          ],
+          [
+            -4.381392,
+            54.324971
+          ],
+          [
+            -4.381377,
+            54.324948
+          ],
+          [
+            -4.381509,
+            54.324919
+          ],
+          [
+            -4.381474,
+            54.324864
+          ],
+          [
+            -4.381349,
+            54.32489
+          ],
+          [
+            -4.381336,
+            54.324869
+          ],
+          [
+            -4.38116,
+            54.324907
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Bleak House",
+        "addr:postcode": "IM8 3AB",
+        "addr:street": "Mooragh Promenade",
+        "building": "yes",
+        "disused:amenity": "hotel",
+        "image": "https://www.geograph.org.uk/photo/7167645",
+        "old_name": "The Peveril",
+        "source:addr:housename": "geograph",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 102734622,
+        "lon": -4.3813335117921595,
+        "lat": 54.3249259852957,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/102734622"
       }
     },
     {
@@ -80162,28 +80699,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ],
           [
-            -4.481437,
-            54.152559
+            -4.481423,
+            54.152562
           ],
           [
-            -4.481522,
-            54.152606
+            -4.481508,
+            54.152608
           ],
           [
-            -4.481628,
-            54.152543
+            -4.481614,
+            54.152546
           ],
           [
-            -4.481578,
-            54.152491
+            -4.481563,
+            54.152494
           ],
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ]
         ]
       },
@@ -80196,8 +80733,8 @@
         "building": "yes",
         "source:addr:housenumber": "interpolation",
         "osm_id": 152690552,
-        "lon": -4.481520313193727,
-        "lat": 54.152536136848916,
+        "lon": -4.481506056970975,
+        "lat": 54.15253866476691,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690552"
       }
@@ -80209,32 +80746,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481756,
-            54.152742
+            -4.481742,
+            54.152745
           ],
           [
-            -4.481845,
-            54.152799
+            -4.48183,
+            54.152796
           ],
           [
-            -4.481963,
-            54.152804
+            -4.481946,
+            54.152796
           ],
           [
-            -4.481962,
+            -4.481945,
+            54.152704
+          ],
+          [
+            -4.481944,
             54.152694
           ],
           [
-            -4.481899,
-            54.152656
+            -4.481948,
+            54.152621
           ],
           [
-            -4.481874,
-            54.152673
+            -4.481909,
+            54.152627
           ],
           [
-            -4.481756,
-            54.152742
+            -4.481906,
+            54.152647
+          ],
+          [
+            -4.481859,
+            54.152676
+          ],
+          [
+            -4.481742,
+            54.152745
           ]
         ]
       },
@@ -80250,8 +80799,8 @@
         "source": "mapillary",
         "website": "https://www.mcgarrigle-architects.com",
         "osm_id": 152690553,
-        "lon": -4.481877448366802,
-        "lat": 54.15273994727208,
+        "lon": -4.481871728681478,
+        "lat": 54.15272302100485,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690553"
       }
@@ -80765,28 +81314,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48173,
-            54.152426
+            -4.481715,
+            54.152429
           ],
           [
-            -4.481583,
-            54.152423
+            -4.481568,
+            54.152425
           ],
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ],
           [
-            -4.481439,
-            54.152354
+            -4.481425,
+            54.152357
           ],
           [
-            -4.481735,
-            54.152362
+            -4.48172,
+            54.152364
           ],
           [
-            -4.48173,
-            54.152426
+            -4.481715,
+            54.152429
           ]
         ]
       },
@@ -80803,8 +81352,8 @@
         "source:addr:housename": "mapillary",
         "website": "https://accla.im",
         "osm_id": 152690587,
-        "lon": -4.481584293282614,
-        "lat": 54.15239034143059,
+        "lon": -4.481570002480683,
+        "lat": 54.15239289532815,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690587"
       }
@@ -80816,40 +81365,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ],
           [
-            -4.481756,
-            54.152742
+            -4.481742,
+            54.152745
           ],
           [
-            -4.481874,
-            54.152673
+            -4.481859,
+            54.152676
           ],
           [
-            -4.481818,
-            54.15264
+            -4.481804,
+            54.152643
           ],
           [
-            -4.481839,
-            54.152628
+            -4.481824,
+            54.152631
           ],
           [
-            -4.481765,
-            54.152586
+            -4.481751,
+            54.152589
           ],
           [
-            -4.481732,
-            54.152605
+            -4.481718,
+            54.152608
           ],
           [
-            -4.481712,
-            54.152594
+            -4.481697,
+            54.152597
           ],
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ]
         ]
       },
@@ -80866,8 +81415,8 @@
         "source": "mapillary",
         "website": "https://iomlaw.com",
         "osm_id": 152690589,
-        "lon": -4.48174691128237,
-        "lat": 54.15265943196317,
+        "lon": -4.481732255379989,
+        "lat": 54.15266244087339,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690589"
       }
@@ -80879,36 +81428,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481522,
-            54.152606
+            -4.481508,
+            54.152608
           ],
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ],
           [
-            -4.481712,
-            54.152594
+            -4.481697,
+            54.152597
           ],
           [
-            -4.481805,
-            54.152539
+            -4.481791,
+            54.152541
           ],
           [
-            -4.481741,
-            54.152501
+            -4.481726,
+            54.152504
           ],
           [
-            -4.481649,
-            54.152555
+            -4.481634,
+            54.152558
           ],
           [
-            -4.481628,
-            54.152543
+            -4.481614,
+            54.152546
           ],
           [
-            -4.481522,
-            54.152606
+            -4.481508,
+            54.152608
           ]
         ]
       },
@@ -80921,8 +81470,8 @@
         "building": "yes",
         "source:addr:housenumber": "interpolation",
         "osm_id": 152690590,
-        "lon": -4.481663589339651,
-        "lat": 54.152576127291944,
+        "lon": -4.481649466262791,
+        "lat": 54.152578782130135,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690590"
       }
@@ -80934,24 +81483,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ],
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ],
           [
-            -4.481578,
-            54.152491
+            -4.481563,
+            54.152494
           ],
           [
-            -4.481583,
-            54.152423
+            -4.481568,
+            54.152425
           ],
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ]
         ]
       },
@@ -80967,8 +81516,8 @@
         "source": "mapillary",
         "website": "https://iomlawsociety.co.im",
         "osm_id": 152690593,
-        "lon": -4.481505829500789,
-        "lat": 54.152455244144754,
+        "lon": -4.4814916701343055,
+        "lat": 54.15245775589479,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690593"
       }
@@ -105272,7 +105821,7 @@
       "properties": {
         "addr:city": "Sulby",
         "addr:country": "IM",
-        "addr:postcode": "IM7 2BB",
+        "addr:postcode": "IM7 2HP",
         "addr:street": "Sulby Glen Road",
         "amenity": "place_of_worship",
         "building": "church",
@@ -105379,6 +105928,165 @@
         "lat": 54.31993058225429,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/349336143"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 349336145,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491843,
+            54.320353
+          ],
+          [
+            -4.492167,
+            54.320352
+          ],
+          [
+            -4.492166,
+            54.320281
+          ],
+          [
+            -4.491923,
+            54.320282
+          ],
+          [
+            -4.491923,
+            54.320261
+          ],
+          [
+            -4.491786,
+            54.320262
+          ],
+          [
+            -4.491786,
+            54.320281
+          ],
+          [
+            -4.491753,
+            54.320281
+          ],
+          [
+            -4.491755,
+            54.320355
+          ],
+          [
+            -4.491803,
+            54.320355
+          ],
+          [
+            -4.491803,
+            54.32038
+          ],
+          [
+            -4.491721,
+            54.320381
+          ],
+          [
+            -4.491723,
+            54.320452
+          ],
+          [
+            -4.491723,
+            54.320462
+          ],
+          [
+            -4.491861,
+            54.320461
+          ],
+          [
+            -4.491859,
+            54.320378
+          ],
+          [
+            -4.491843,
+            54.320376
+          ],
+          [
+            -4.491843,
+            54.320353
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "alt_name": "Sulby Community Hall",
+        "amenity": "community_centre",
+        "building": "community_centre",
+        "community_centre": "parish_hall",
+        "name": "Lezayre Parish Community Hall",
+        "source": "bing",
+        "source:name": "streetside",
+        "tourism": "hostel",
+        "website": "http://www.lezayreparish.org/community_hall.htm",
+        "osm_id": 349336145,
+        "lon": -4.491907570655363,
+        "lat": 54.3203449045129,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/349336145"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 361410121,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491967,
+            54.319314
+          ],
+          [
+            -4.49196,
+            54.319228
+          ],
+          [
+            -4.492093,
+            54.319224
+          ],
+          [
+            -4.492096,
+            54.319265
+          ],
+          [
+            -4.492065,
+            54.319265
+          ],
+          [
+            -4.492068,
+            54.319311
+          ],
+          [
+            -4.492025,
+            54.319312
+          ],
+          [
+            -4.491967,
+            54.319314
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "building": "yes",
+        "old_name": "Caley's General Store",
+        "source": "survey",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "source:geometry": "Bing",
+        "was:shop": "general;post_office",
+        "osm_id": 361410121,
+        "lon": -4.492026426186192,
+        "lat": 54.31926575594755,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/361410121"
       }
     },
     {
@@ -114283,7 +114991,7 @@
           ],
           [
             -4.479557,
-            54.151696
+            54.151699
           ],
           [
             -4.479549,
@@ -114309,8 +115017,8 @@
         "source": "Bing;photograph",
         "website": "https://www.crossroadsiom.org/",
         "osm_id": 419113935,
-        "lon": -4.479360823194088,
-        "lat": 54.151685538732586,
+        "lon": -4.479361486796615,
+        "lat": 54.15168626205269,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113935"
       }
@@ -114346,7 +115054,7 @@
             54.151364
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -114365,8 +115073,8 @@
         "shop": "optician",
         "website": "https://www.holmesanddavidsonopticians.co.uk",
         "osm_id": 419113936,
-        "lon": -4.479285198454476,
-        "lat": 54.151381625523065,
+        "lon": -4.479285234983978,
+        "lat": 54.151381607776464,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113936"
       }
@@ -114409,14 +115117,60 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Trey Barbers",
-        "shop": "hairdresser",
-        "source": "Bing;photograph",
+        "name": "Island Inspirations",
+        "shop": "gift",
         "osm_id": 419113937,
         "lon": -4.479349152566787,
         "lat": 54.1522053949045,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113937"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113939,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479139,
+            54.151504
+          ],
+          [
+            -4.479533,
+            54.151478
+          ],
+          [
+            -4.47954,
+            54.151513
+          ],
+          [
+            -4.479541,
+            54.151527
+          ],
+          [
+            -4.479145,
+            54.15155
+          ],
+          [
+            -4.479139,
+            54.151504
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "51",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
+        "name": "Bon Fabrics",
+        "shop": "fabric",
+        "osm_id": 419113939,
+        "lon": -4.479340285335292,
+        "lat": 54.15151474759518,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419113939"
       }
     },
     {
@@ -114435,7 +115189,7 @@
           ],
           [
             -4.479621,
-            54.151969
+            54.151973
           ],
           [
             -4.479617,
@@ -114462,8 +115216,8 @@
         "shop": "confectionery",
         "source": "Bing;photograph",
         "osm_id": 419113945,
-        "lon": -4.479412535371458,
-        "lat": 54.15195191869981,
+        "lon": -4.479413393137749,
+        "lat": 54.15195228730497,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113945"
       }
@@ -114577,6 +115331,52 @@
     },
     {
       "type": "Feature",
+      "id": 419113948,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479548,
+            54.151567
+          ],
+          [
+            -4.479555,
+            54.151607
+          ],
+          [
+            -4.479158,
+            54.15163
+          ],
+          [
+            -4.479151,
+            54.151588
+          ],
+          [
+            -4.479548,
+            54.151567
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "55",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "source": "Bing;photograph",
+        "osm_id": 419113948,
+        "lon": -4.479352554937032,
+        "lat": 54.151598027270445,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419113948"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -114609,13 +115409,8 @@
         "addr:housenumber": "49",
         "addr:postcode": "IM1 3LB",
         "addr:street": "Strand Street",
-        "clothes": "dancewear",
-        "contact:email": "dancewearofdouglas@gmail.com",
-        "contact:facebook": "https://www.facebook.com/dancewearofdouglas",
-        "name": "Dancewear of Douglas",
-        "opening_hours": "Tu-Fr 10:00-17:00, Sa 09:30-17:30",
-        "phone": "+44 1624 626041",
-        "shop": "clothes",
+        "name": "Artificial Spaces",
+        "shop": "builders_merchant",
         "source": "photo",
         "osm_id": 419113949,
         "lon": -4.479332070483551,
@@ -114715,12 +115510,13 @@
         "addr:housenumber": "79",
         "addr:postcode": "IM1 2EN",
         "addr:street": "Strand Street",
+        "amenity": "fast_food",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Everest",
-        "shop": "yes",
+        "cuisine": "potato",
+        "name": "Terry's Tatos",
         "source": "Bing;photograph",
         "osm_id": 419113951,
         "lon": -4.479348788005594,
@@ -132079,6 +132875,314 @@
     },
     {
       "type": "Feature",
+      "id": 981865533,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448178,
+            54.179096
+          ],
+          [
+            -4.448307,
+            54.179032
+          ],
+          [
+            -4.4484,
+            54.179096
+          ],
+          [
+            -4.448271,
+            54.179161
+          ],
+          [
+            -4.448178,
+            54.179096
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865533,
+        "lon": -4.448288968992716,
+        "lat": 54.17909631371591,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865533"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865536,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448107,
+            54.179263
+          ],
+          [
+            -4.447994,
+            54.179228
+          ],
+          [
+            -4.448069,
+            54.179145
+          ],
+          [
+            -4.448182,
+            54.17918
+          ],
+          [
+            -4.448107,
+            54.179263
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865536,
+        "lon": -4.4480879999999985,
+        "lat": 54.179204,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865536"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865537,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447909,
+            54.179396
+          ],
+          [
+            -4.447938,
+            54.179294
+          ],
+          [
+            -4.44808,
+            54.179308
+          ],
+          [
+            -4.448051,
+            54.17941
+          ],
+          [
+            -4.447909,
+            54.179396
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865537,
+        "lon": -4.4479945,
+        "lat": 54.179351999999994,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865537"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865542,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449747,
+            54.180099
+          ],
+          [
+            -4.449924,
+            54.180106
+          ],
+          [
+            -4.449916,
+            54.180177
+          ],
+          [
+            -4.449739,
+            54.18017
+          ],
+          [
+            -4.449747,
+            54.180099
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865542,
+        "lon": -4.4498315,
+        "lat": 54.18013799999999,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865542"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865545,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449038,
+            54.179923
+          ],
+          [
+            -4.449168,
+            54.179984
+          ],
+          [
+            -4.449093,
+            54.180038
+          ],
+          [
+            -4.448963,
+            54.179977
+          ],
+          [
+            -4.449038,
+            54.179923
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865545,
+        "lon": -4.4490655000000014,
+        "lat": 54.1799805,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865545"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865547,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448774,
+            54.179659
+          ],
+          [
+            -4.448875,
+            54.179769
+          ],
+          [
+            -4.448776,
+            54.1798
+          ],
+          [
+            -4.448674,
+            54.17969
+          ],
+          [
+            -4.448774,
+            54.179659
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865547,
+        "lon": -4.44877458813921,
+        "lat": 54.17972941728903,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865547"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865551,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448945,
+            54.179216
+          ],
+          [
+            -4.448782,
+            54.179277
+          ],
+          [
+            -4.448708,
+            54.17921
+          ],
+          [
+            -4.448872,
+            54.179149
+          ],
+          [
+            -4.448945,
+            54.179216
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865551,
+        "lon": -4.448826576898838,
+        "lat": 54.179212983854775,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865551"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865552,
       "geometry": {
         "type": "LineString",
@@ -132471,6 +133575,182 @@
         "lat": 54.18010343367189,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/981865560"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865566,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448554,
+            54.180031
+          ],
+          [
+            -4.44843,
+            54.180073
+          ],
+          [
+            -4.448312,
+            54.179954
+          ],
+          [
+            -4.448436,
+            54.179912
+          ],
+          [
+            -4.448554,
+            54.180031
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865566,
+        "lon": -4.448433,
+        "lat": 54.1799925,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448788,
+            54.180152
+          ],
+          [
+            -4.44867,
+            54.180205
+          ],
+          [
+            -4.448528,
+            54.180097
+          ],
+          [
+            -4.448646,
+            54.180044
+          ],
+          [
+            -4.448788,
+            54.180152
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865567,
+        "lon": -4.448658,
+        "lat": 54.180124500000005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865567"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865571,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449895,
+            54.180372
+          ],
+          [
+            -4.449879,
+            54.180453
+          ],
+          [
+            -4.449692,
+            54.180441
+          ],
+          [
+            -4.449708,
+            54.180359
+          ],
+          [
+            -4.449895,
+            54.180372
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865571,
+        "lon": -4.4497933313791265,
+        "lat": 54.18040623363837,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865571"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865572,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450195,
+            54.180457
+          ],
+          [
+            -4.449962,
+            54.180453
+          ],
+          [
+            -4.449966,
+            54.180374
+          ],
+          [
+            -4.450199,
+            54.180378
+          ],
+          [
+            -4.450195,
+            54.180457
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "30",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 981865572,
+        "lon": -4.4500804999999986,
+        "lat": 54.180415499999995,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/981865572"
       }
     },
     {
@@ -133931,6 +135211,113 @@
         "lat": 54.1457775,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/999054890"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1005856336,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474503,
+            54.16431
+          ],
+          [
+            -4.474394,
+            54.164245
+          ],
+          [
+            -4.474421,
+            54.16423
+          ],
+          [
+            -4.474435,
+            54.164238
+          ],
+          [
+            -4.474518,
+            54.164191
+          ],
+          [
+            -4.474582,
+            54.164229
+          ],
+          [
+            -4.474594,
+            54.164221
+          ],
+          [
+            -4.474625,
+            54.16424
+          ],
+          [
+            -4.474503,
+            54.16431
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Barnelles",
+        "addr:postcode": "IM2 4AF",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1005856336,
+        "lon": -4.474509676633683,
+        "lat": 54.16424799952356,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1005856336"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1005856346,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474328,
+            54.164153
+          ],
+          [
+            -4.474198,
+            54.164076
+          ],
+          [
+            -4.474265,
+            54.164037
+          ],
+          [
+            -4.474294,
+            54.164054
+          ],
+          [
+            -4.474397,
+            54.164115
+          ],
+          [
+            -4.474328,
+            54.164153
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Gordon House",
+        "addr:postcode": "IM2 4AF",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "name": "ICR Retail Systems",
+        "office": "yes",
+        "website": "https://icr.co.im/",
+        "osm_id": 1005856346,
+        "lon": -4.474297351922013,
+        "lat": 54.164095244898014,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1005856346"
       }
     },
     {
@@ -144733,6 +146120,59 @@
     },
     {
       "type": "Feature",
+      "id": 1147081567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477639,
+            54.159782
+          ],
+          [
+            -4.477597,
+            54.159855
+          ],
+          [
+            -4.477422,
+            54.159814
+          ],
+          [
+            -4.477455,
+            54.159765
+          ],
+          [
+            -4.477432,
+            54.15976
+          ],
+          [
+            -4.477448,
+            54.159737
+          ],
+          [
+            -4.477639,
+            54.159782
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Greenland House",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM2 4HE",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1147081567,
+        "lon": -4.477523715631813,
+        "lat": 54.15979450946522,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1147081567"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1147081568,
       "geometry": {
         "type": "LineString",
@@ -145797,6 +147237,49 @@
         "lat": 54.18263131032385,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1148363253"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148598266,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.521545,
+            54.169339
+          ],
+          [
+            -4.521436,
+            54.169462
+          ],
+          [
+            -4.521119,
+            54.169367
+          ],
+          [
+            -4.521227,
+            54.169243
+          ],
+          [
+            -4.521545,
+            54.169339
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4ND",
+        "addr:street": "Snugborough Avenue",
+        "building": "apartments",
+        "name": "Slieau Ree Apartments",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1148598266,
+        "lon": -4.521331803525928,
+        "lat": 54.169352668059105,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1148598266"
       }
     },
     {
@@ -148815,24 +150298,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ],
           [
-            -4.482361,
-            54.152464
+            -4.482357,
+            54.152481
           ],
           [
-            -4.482365,
-            54.152377
+            -4.48236,
+            54.152394
           ],
           [
-            -4.482271,
-            54.152376
+            -4.482267,
+            54.152393
           ],
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ]
         ]
       },
@@ -148846,8 +150329,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057862,
-        "lon": -4.482316260048603,
-        "lat": 54.152419879615415,
+        "lon": -4.482311739951397,
+        "lat": 54.15243712038459,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057862"
       }
@@ -148859,24 +150342,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482361,
-            54.152464
+            -4.482357,
+            54.152481
           ],
           [
-            -4.482456,
-            54.152465
+            -4.482452,
+            54.152482
           ],
           [
-            -4.482459,
-            54.152378
+            -4.482455,
+            54.152395
           ],
           [
-            -4.482365,
-            54.152377
+            -4.48236,
+            54.152394
           ],
           [
-            -4.482361,
-            54.152464
+            -4.482357,
+            54.152481
           ]
         ]
       },
@@ -148890,8 +150373,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057863,
-        "lon": -4.4824102399513865,
-        "lat": 54.15242111972178,
+        "lon": -4.482406,
+        "lat": 54.152438,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057863"
       }
@@ -148903,24 +150386,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482456,
-            54.152465
+            -4.482452,
+            54.152482
+          ],
+          [
+            -4.48254,
+            54.152483
           ],
           [
             -4.482543,
-            54.152466
+            54.152396
           ],
           [
-            -4.482548,
-            54.152381
+            -4.482455,
+            54.152395
           ],
           [
-            -4.482459,
-            54.152378
-          ],
-          [
-            -4.482456,
-            54.152465
+            -4.482452,
+            54.152482
           ]
         ]
       },
@@ -148934,8 +150417,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057864,
-        "lon": -4.482501271085557,
-        "lat": 54.15242224205333,
+        "lon": -4.4824975,
+        "lat": 54.15243900000001,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057864"
       }
@@ -148947,24 +150430,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482543,
-            54.152466
+            -4.48254,
+            54.152483
           ],
           [
-            -4.482643,
-            54.152467
+            -4.482638,
+            54.152484
           ],
           [
-            -4.482647,
-            54.152382
-          ],
-          [
-            -4.482548,
-            54.152381
+            -4.482641,
+            54.152398
           ],
           [
             -4.482543,
-            54.152466
+            54.152396
+          ],
+          [
+            -4.48254,
+            54.152483
           ]
         ]
       },
@@ -148978,8 +150461,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057865,
-        "lon": -4.48259523678411,
-        "lat": 54.152424115020445,
+        "lon": -4.482590367397226,
+        "lat": 54.15244024617626,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057865"
       }
@@ -148991,24 +150474,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482643,
-            54.152467
+            -4.482638,
+            54.152484
           ],
           [
-            -4.48274,
-            54.152468
+            -4.482733,
+            54.152485
           ],
           [
-            -4.482742,
-            54.152383
+            -4.482736,
+            54.152399
           ],
           [
-            -4.482647,
-            54.152382
+            -4.482641,
+            54.152398
           ],
           [
-            -4.482643,
-            54.152467
+            -4.482638,
+            54.152484
           ]
         ]
       },
@@ -149022,8 +150505,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057866,
-        "lon": -4.482692982366096,
-        "lat": 54.152425234613496,
+        "lon": -4.4826869999999985,
+        "lat": 54.15244149999999,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057866"
       }
@@ -149035,24 +150518,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48274,
-            54.152468
+            -4.482733,
+            54.152485
           ],
           [
-            -4.48284,
-            54.15247
+            -4.482833,
+            54.152486
           ],
           [
-            -4.48284,
-            54.152383
+            -4.482835,
+            54.1524
           ],
           [
-            -4.482742,
-            54.152383
+            -4.482736,
+            54.152399
           ],
           [
-            -4.48274,
-            54.152468
+            -4.482733,
+            54.152485
           ]
         ]
       },
@@ -149066,8 +150549,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057867,
-        "lon": -4.482790761659643,
-        "lat": 54.1524262373995,
+        "lon": -4.482784242736117,
+        "lat": 54.15244261583121,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057867"
       }
@@ -149079,24 +150562,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48284,
-            54.15247
+            -4.482833,
+            54.152486
           ],
           [
-            -4.482926,
-            54.15247
+            -4.482921,
+            54.152487
           ],
           [
-            -4.482928,
-            54.152383
+            -4.482923,
+            54.1524
           ],
           [
-            -4.48284,
-            54.152383
+            -4.482835,
+            54.1524
           ],
           [
-            -4.48284,
-            54.15247
+            -4.482833,
+            54.152486
           ]
         ]
       },
@@ -149110,8 +150593,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057868,
-        "lon": -4.482883505746368,
-        "lat": 54.15242625001652,
+        "lon": -4.482878126005787,
+        "lat": 54.152443251420046,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057868"
       }
@@ -149123,24 +150606,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482926,
-            54.15247
+            -4.482921,
+            54.152487
           ],
           [
-            -4.483021,
-            54.152471
+            -4.483017,
+            54.152488
           ],
           [
-            -4.483023,
-            54.152383
+            -4.483018,
+            54.1524
           ],
           [
-            -4.482928,
-            54.152383
+            -4.482923,
+            54.1524
           ],
           [
-            -4.482926,
-            54.15247
+            -4.482921,
+            54.152487
           ]
         ]
       },
@@ -149154,8 +150637,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057869,
-        "lon": -4.4829746300704185,
-        "lat": 54.15242675131541,
+        "lon": -4.482969876135418,
+        "lat": 54.15244387081814,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057869"
       }
@@ -149167,24 +150650,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483021,
-            54.152471
+            -4.483017,
+            54.152488
           ],
           [
-            -4.48312,
-            54.152472
+            -4.483115,
+            54.152488
           ],
           [
-            -4.483122,
-            54.152384
+            -4.483117,
+            54.152401
           ],
           [
-            -4.483023,
-            54.152383
+            -4.483018,
+            54.1524
           ],
           [
-            -4.483021,
-            54.152471
+            -4.483017,
+            54.152488
           ]
         ]
       },
@@ -149198,8 +150681,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057870,
-        "lon": -4.483071500000001,
-        "lat": 54.152427499999995,
+        "lon": -4.483066621936344,
+        "lat": 54.15244413114887,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057870"
       }
@@ -149211,28 +150694,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483122,
-            54.152384
+            -4.483117,
+            54.152401
           ],
           [
-            -4.48322,
-            54.152385
+            -4.483216,
+            54.152401
           ],
           [
-            -4.483221,
-            54.152433
+            -4.483215,
+            54.15245
           ],
           [
-            -4.48322,
-            54.152473
+            -4.483215,
+            54.152489
           ],
           [
-            -4.48312,
-            54.152472
+            -4.483115,
+            54.152488
           ],
           [
-            -4.483122,
-            54.152384
+            -4.483117,
+            54.152401
           ]
         ]
       },
@@ -149246,8 +150729,8 @@
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1154057871,
-        "lon": -4.483170615011937,
-        "lat": 54.1524287354923,
+        "lon": -4.483165827158762,
+        "lat": 54.1524448676794,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154057871"
       }
@@ -172051,6 +173534,534 @@
         "lat": 54.154768882579496,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1319022589"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321452690,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.502823,
+            54.345579
+          ],
+          [
+            -4.502712,
+            54.345616
+          ],
+          [
+            -4.502631,
+            54.345535
+          ],
+          [
+            -4.502742,
+            54.345497
+          ],
+          [
+            -4.502823,
+            54.345579
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Jurby",
+        "addr:housename": "Gollane Cottage",
+        "addr:postcode": "IM7 3AF",
+        "addr:street": "Clenagh Road",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "streetside",
+        "osm_id": 1321452690,
+        "lon": -4.50272705688416,
+        "lat": 54.345556693246714,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1321452690"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321468666,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.503623,
+            54.317124
+          ],
+          [
+            -4.502678,
+            54.317428
+          ],
+          [
+            -4.502519,
+            54.317301
+          ],
+          [
+            -4.502267,
+            54.317211
+          ],
+          [
+            -4.502639,
+            54.317002
+          ],
+          [
+            -4.503127,
+            54.316847
+          ],
+          [
+            -4.503615,
+            54.316908
+          ],
+          [
+            -4.503623,
+            54.317124
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:housename": "Gob-y-Volley Depot",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "depot": "marine",
+        "industrial": "depot",
+        "landuse": "industrial",
+        "name": "Clever Marine Services",
+        "source": "streetside;bing",
+        "website": "https://www.clevermarine.com",
+        "osm_id": 1321468666,
+        "lon": -4.502976921790706,
+        "lat": 54.31711787982339,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1321468666"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321468672,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49517,
+            54.318528
+          ],
+          [
+            -4.49472,
+            54.318576
+          ],
+          [
+            -4.494599,
+            54.318613
+          ],
+          [
+            -4.49456,
+            54.31857
+          ],
+          [
+            -4.494594,
+            54.318559
+          ],
+          [
+            -4.494572,
+            54.318536
+          ],
+          [
+            -4.494677,
+            54.318503
+          ],
+          [
+            -4.49474,
+            54.318497
+          ],
+          [
+            -4.494734,
+            54.318476
+          ],
+          [
+            -4.494993,
+            54.318448
+          ],
+          [
+            -4.494983,
+            54.318415
+          ],
+          [
+            -4.49513,
+            54.3184
+          ],
+          [
+            -4.49517,
+            54.318528
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:place": "Cooilbane",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "building": "house",
+        "guest_house": "bed_and_breakfast",
+        "name": "Ballacowell",
+        "source": "streetside",
+        "tourism": "guest_house",
+        "website": "http://www.ballacowell.co.uk",
+        "osm_id": 1321468672,
+        "lon": -4.494868763863468,
+        "lat": 54.31851063996522,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1321468672"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321472248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492209,
+            54.320495
+          ],
+          [
+            -4.492061,
+            54.32051
+          ],
+          [
+            -4.492054,
+            54.320487
+          ],
+          [
+            -4.492027,
+            54.32049
+          ],
+          [
+            -4.492018,
+            54.320461
+          ],
+          [
+            -4.49204,
+            54.320459
+          ],
+          [
+            -4.492193,
+            54.320443
+          ],
+          [
+            -4.492209,
+            54.320495
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:housename": "The Elms",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "building": "semidetached_house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1321472248,
+        "lon": -4.492114500793561,
+        "lat": 54.320476493361596,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1321472248"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908882,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478895,
+            54.158716
+          ],
+          [
+            -4.478855,
+            54.158683
+          ],
+          [
+            -4.478968,
+            54.158636
+          ],
+          [
+            -4.479038,
+            54.158692
+          ],
+          [
+            -4.47899,
+            54.158713
+          ],
+          [
+            -4.478977,
+            54.158702
+          ],
+          [
+            -4.478947,
+            54.158715
+          ],
+          [
+            -4.478929,
+            54.158701
+          ],
+          [
+            -4.478895,
+            54.158716
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4ER",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1322908882,
+        "lon": -4.478947136675058,
+        "lat": 54.1586831565288,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1322908882"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908886,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479925,
+            54.159385
+          ],
+          [
+            -4.479999,
+            54.159449
+          ],
+          [
+            -4.480019,
+            54.159466
+          ],
+          [
+            -4.480125,
+            54.159425
+          ],
+          [
+            -4.480032,
+            54.159343
+          ],
+          [
+            -4.479925,
+            54.159385
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Tudor Lodge",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "streetside",
+        "osm_id": 1322908886,
+        "lon": -4.480025097095396,
+        "lat": 54.15940466107043,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1322908886"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479263,
+            54.158659
+          ],
+          [
+            -4.479206,
+            54.158611
+          ],
+          [
+            -4.479085,
+            54.158661
+          ],
+          [
+            -4.479116,
+            54.158687
+          ],
+          [
+            -4.479085,
+            54.1587
+          ],
+          [
+            -4.479111,
+            54.158722
+          ],
+          [
+            -4.479263,
+            54.158659
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "osm_id": 1322908888,
+        "lon": -4.47916329764267,
+        "lat": 54.15866720089771,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1322908888"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908889,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479155,
+            54.158568
+          ],
+          [
+            -4.479033,
+            54.158618
+          ],
+          [
+            -4.479085,
+            54.158661
+          ],
+          [
+            -4.479206,
+            54.158611
+          ],
+          [
+            -4.479155,
+            54.158568
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "osm_id": 1322908889,
+        "lon": -4.479119572539035,
+        "lat": 54.158614498256185,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1322908889"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908890,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479876,
+            54.159342
+          ],
+          [
+            -4.479925,
+            54.159385
+          ],
+          [
+            -4.480032,
+            54.159343
+          ],
+          [
+            -4.479983,
+            54.1593
+          ],
+          [
+            -4.479876,
+            54.159342
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "osm_id": 1322908890,
+        "lon": -4.479953999999998,
+        "lat": 54.1593425,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1322908890"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323167006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450197,
+            54.178616
+          ],
+          [
+            -4.450161,
+            54.178564
+          ],
+          [
+            -4.450247,
+            54.178519
+          ],
+          [
+            -4.450323,
+            54.178577
+          ],
+          [
+            -4.450312,
+            54.178591
+          ],
+          [
+            -4.450197,
+            54.178616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Ballachrink Stores",
+        "addr:postcode": "IM3 4NU",
+        "addr:street": "Ballachrink Drive",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Ballachrinkstores/",
+        "name": "Ballachrink Stores",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-f5e2e1f3f1ac",
+        "osm_id": 1323167006,
+        "lon": -4.450240092593951,
+        "lat": 54.17857150004574,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1323167006"
       }
     }
   ]

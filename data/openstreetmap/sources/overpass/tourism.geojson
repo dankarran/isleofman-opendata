@@ -3171,6 +3171,7 @@
         ]
       },
       "properties": {
+        "board_type": "notice",
         "information": "board",
         "tourism": "information"
       }
@@ -3984,6 +3985,7 @@
         ]
       },
       "properties": {
+        "board_type": "history",
         "information": "board",
         "tourism": "information"
       }
@@ -4708,6 +4710,7 @@
       },
       "properties": {
         "highway": "trunk",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Peel Road",
         "ref": "A1",
@@ -12856,6 +12859,102 @@
     },
     {
       "type": "Feature",
+      "id": 349336145,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491843,
+            54.320353
+          ],
+          [
+            -4.492167,
+            54.320352
+          ],
+          [
+            -4.492166,
+            54.320281
+          ],
+          [
+            -4.491923,
+            54.320282
+          ],
+          [
+            -4.491923,
+            54.320261
+          ],
+          [
+            -4.491786,
+            54.320262
+          ],
+          [
+            -4.491786,
+            54.320281
+          ],
+          [
+            -4.491753,
+            54.320281
+          ],
+          [
+            -4.491755,
+            54.320355
+          ],
+          [
+            -4.491803,
+            54.320355
+          ],
+          [
+            -4.491803,
+            54.32038
+          ],
+          [
+            -4.491721,
+            54.320381
+          ],
+          [
+            -4.491723,
+            54.320452
+          ],
+          [
+            -4.491723,
+            54.320462
+          ],
+          [
+            -4.491861,
+            54.320461
+          ],
+          [
+            -4.491859,
+            54.320378
+          ],
+          [
+            -4.491843,
+            54.320376
+          ],
+          [
+            -4.491843,
+            54.320353
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "alt_name": "Sulby Community Hall",
+        "amenity": "community_centre",
+        "building": "community_centre",
+        "community_centre": "parish_hall",
+        "name": "Lezayre Parish Community Hall",
+        "source": "bing",
+        "source:name": "streetside",
+        "tourism": "hostel",
+        "website": "http://www.lezayreparish.org/community_hall.htm"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 412956695,
       "geometry": {
         "type": "LineString",
@@ -20329,6 +20428,79 @@
         "building": "house",
         "name": "The Victorian House",
         "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321468672,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49517,
+            54.318528
+          ],
+          [
+            -4.49472,
+            54.318576
+          ],
+          [
+            -4.494599,
+            54.318613
+          ],
+          [
+            -4.49456,
+            54.31857
+          ],
+          [
+            -4.494594,
+            54.318559
+          ],
+          [
+            -4.494572,
+            54.318536
+          ],
+          [
+            -4.494677,
+            54.318503
+          ],
+          [
+            -4.49474,
+            54.318497
+          ],
+          [
+            -4.494734,
+            54.318476
+          ],
+          [
+            -4.494993,
+            54.318448
+          ],
+          [
+            -4.494983,
+            54.318415
+          ],
+          [
+            -4.49513,
+            54.3184
+          ],
+          [
+            -4.49517,
+            54.318528
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:place": "Cooilbane",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "building": "house",
+        "guest_house": "bed_and_breakfast",
+        "name": "Ballacowell",
+        "source": "streetside",
+        "tourism": "guest_house",
+        "website": "http://www.ballacowell.co.uk"
       }
     }
   ]

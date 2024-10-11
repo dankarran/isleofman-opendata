@@ -94,8 +94,8 @@
       "title": "Named highways",
       "query": "way['highway']['name'](54,-5,54.5,-4);",
       "output_formats": ["geojson", "csv"],
-      "csv_columns": ["name", "name:en", "name:gv", "ref", "highway"],
-      "sort_columns": ["name", "ref", "osm_id"]
+      "csv_columns": ["name", "name:en", "name:gv", "alt_name", "ref", "highway"],
+      "sort_columns": ["name", "alt_name", "ref", "osm_id"]
     },
     {
       "label": "named-natural",

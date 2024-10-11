@@ -148,8 +148,10 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Derby Castle MER Station",
         "network": "Bus Vannin",
         "operator": "Isle Of Man Transport",
@@ -158,6 +160,7 @@
         "ref": "124 / 20112",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -172,11 +175,15 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Captain's Hill Junction",
         "public_transport": "platform",
-        "ref": "3416"
+        "ref": "3416",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -190,11 +197,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Laxey Glen",
         "public_transport": "platform",
-        "ref": "3411"
+        "ref": "3411",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -208,11 +220,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Queens Hotel",
         "public_transport": "platform",
-        "ref": "3410"
+        "ref": "3410",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -226,12 +243,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballagawne Road",
         "public_transport": "platform",
         "ref": "3315",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -245,11 +266,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Baldrine Layby",
         "public_transport": "platform",
-        "ref": "3312"
+        "ref": "3312",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -263,11 +289,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballamenagh Road",
         "public_transport": "platform",
-        "ref": "3309"
+        "ref": "3309",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -334,14 +365,17 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "covered": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Mines Tavern / Mines Road Junctions",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "3413",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -355,11 +389,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Minorca Shelter",
         "public_transport": "platform",
-        "ref": "3502"
+        "ref": "3502",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -373,11 +412,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Minorca",
         "public_transport": "platform",
-        "ref": "3501"
+        "ref": "3501",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -773,11 +817,13 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queen's Prom, Regency Hotel",
         "public_transport": "platform",
         "railway": "tram_stop",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -893,14 +939,18 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Promenade / Piccadilly Court",
         "public_transport": "platform",
         "railway": "tram_stop",
         "ref": "122",
         "request_stop": "yes",
         "shelter": "yes",
+        "tactile_paving": "no",
         "tram": "yes"
       }
     },
@@ -945,10 +995,12 @@
         "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Loch Promenade, Granville Street",
         "public_transport": "platform",
         "ref": "00117",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -966,10 +1018,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Loch Promenade",
         "public_transport": "platform",
         "ref": "20120",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1041,11 +1095,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballure / Merriweathers",
         "public_transport": "platform",
-        "ref": "3809"
+        "ref": "3809",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1059,13 +1118,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Dhoon Glen Cafe",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "3602",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1422,11 +1485,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballaquayle Road Rose Garden",
         "public_transport": "platform",
-        "ref": "125"
+        "ref": "125",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1813,12 +1881,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "St John's / The Hope",
         "public_transport": "platform",
         "ref": "2303",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -1863,7 +1935,8 @@
         "name": "Peel Town Hall",
         "public_transport": "platform",
         "ref": "2414",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2242,11 +2315,13 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Braddan Bridge / Douglas Road Layby",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "1702",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2260,11 +2335,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Trollaby Junction",
         "public_transport": "platform",
-        "ref": "1904"
+        "ref": "1904",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2282,10 +2362,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Trollaby Lane",
         "public_transport": "platform",
         "ref": "1903",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2299,11 +2381,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glen Lough",
         "public_transport": "platform",
-        "ref": "2002"
+        "ref": "2002",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2322,7 +2409,8 @@
         "bus": "yes",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2336,11 +2424,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Crosby Hotel",
         "public_transport": "platform",
-        "ref": "2106"
+        "ref": "2106",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2372,12 +2465,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Highlander",
         "public_transport": "platform",
         "ref": "2201",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2391,11 +2488,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Kerrowgarrow Road Junction",
         "public_transport": "platform",
-        "ref": "2209"
+        "ref": "2209",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2409,11 +2511,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballacraine / Curragh Road",
         "public_transport": "platform",
-        "ref": "2301"
+        "ref": "2301",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -2604,10 +2711,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Albany Road\u2013Tynwald Road Junction",
         "public_transport": "platform",
         "ref": "2427",
         "shelter": "no",
+        "tactile_paving": "no",
         "wheelchair": "yes"
       }
     },
@@ -3421,9 +3530,13 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
-        "public_transport": "platform"
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3708,13 +3821,16 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Dhoon Glen Car Park Shelter",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "3601",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3829,11 +3945,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballabeg Farm",
         "public_transport": "platform",
-        "ref": "3317"
+        "ref": "3317",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -3951,11 +4072,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Port Jack Towards Onchan",
         "public_transport": "platform",
-        "ref": "3226"
+        "ref": "3226",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4218,7 +4344,8 @@
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "114 / 120101",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4255,14 +4382,19 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "departures_board": "no",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Pulrose Road / Peel Road",
         "operator": "Bus Vannin",
         "public_transport": "platform",
         "ref": "113",
-        "surface": "asphalt"
+        "shelter": "yes",
+        "surface": "asphalt",
+        "tactile_paving": "no"
       }
     },
     {
@@ -4655,11 +4787,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Second Avenue",
         "public_transport": "platform",
-        "ref": "163"
+        "ref": "163",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6251,11 +6388,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Parkinsons",
         "public_transport": "platform",
-        "ref": "1705"
+        "ref": "1705",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6327,10 +6469,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballanawin",
         "public_transport": "platform",
         "ref": "1802",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6434,9 +6578,13 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "highway": "bus_stop",
         "public_transport": "platform",
-        "ref": "1812"
+        "ref": "1812",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6523,11 +6671,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Strang Road / Camlork Place",
         "public_transport": "platform",
-        "ref": "1906"
+        "ref": "1906",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6559,12 +6712,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Snugborough Shelter",
         "public_transport": "platform",
         "ref": "1908",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6578,11 +6735,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballahutchin House",
         "public_transport": "platform",
-        "ref": "1909"
+        "ref": "1909",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6596,11 +6758,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballahutchin /Ballafreer Lane",
         "public_transport": "platform",
-        "ref": "1910"
+        "ref": "1910",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6614,11 +6781,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glen Lough Entrance",
         "public_transport": "platform",
-        "ref": "2001"
+        "ref": "2001",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6654,10 +6826,12 @@
         "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballagarey Entrance",
         "public_transport": "platform",
         "ref": "2004",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6671,11 +6845,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glen Darragh Road Junction",
         "public_transport": "platform",
-        "ref": "2005"
+        "ref": "2005",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6726,12 +6905,15 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Marown T.V. Shelter",
         "public_transport": "platform",
         "ref": "2008",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6782,12 +6964,15 @@
       },
       "properties": {
         "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Cedar Lodge",
         "public_transport": "platform",
         "ref": "2101",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6805,10 +6990,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Woodlea Villas",
         "public_transport": "platform",
         "ref": "2102",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6840,12 +7027,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballavitchell Road",
         "public_transport": "platform",
         "ref": "2108",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6859,11 +7050,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The Highlander Shelter",
         "public_transport": "platform",
-        "ref": "2202"
+        "ref": "2202",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6877,12 +7073,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Appledene",
         "public_transport": "platform",
         "ref": "2203",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6896,11 +7096,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Greeba Castle",
         "public_transport": "platform",
-        "ref": "2204"
+        "ref": "2204",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6914,11 +7119,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Greeba Castle / Douglas Road",
         "public_transport": "platform",
-        "ref": "2205"
+        "ref": "2205",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6932,11 +7142,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glen Dhoo",
         "public_transport": "platform",
-        "ref": "2206"
+        "ref": "2206",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6950,12 +7165,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Greeba Bridge Shelter",
         "public_transport": "platform",
         "ref": "2207",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6991,10 +7210,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Kerrowgarrow Road",
         "public_transport": "platform",
         "ref": "2210",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -7008,11 +7229,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballacraine Farm",
         "public_transport": "platform",
-        "ref": "2302"
+        "ref": "2302",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -7062,12 +7288,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Hope shelter / Curragh Road",
         "public_transport": "platform",
         "ref": "2306",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -7099,11 +7329,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Forestry Board shelter",
         "public_transport": "platform",
-        "ref": "2308"
+        "ref": "2308",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -7228,12 +7463,15 @@
       },
       "properties": {
         "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Tynwald Inn Car Park",
         "public_transport": "platform",
         "ref": "2317",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -7251,10 +7489,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Tynwald Inn Shelter",
         "public_transport": "platform",
         "ref": "2316",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8027,13 +8267,17 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Liverpool Arms Shelter",
         "network": "Bus Vannin",
         "public_transport": "platform",
         "ref": "3308",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "yes"
       }
     },
     {
@@ -8047,11 +8291,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballamenagh Road Junction",
         "public_transport": "platform",
-        "ref": "3310"
+        "ref": "3310",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8065,11 +8314,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Baldrine Methodist Hall",
         "public_transport": "platform",
-        "ref": "3311"
+        "ref": "3311",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8083,11 +8337,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Baldrine / The Crescent",
         "public_transport": "platform",
-        "ref": "3313"
+        "ref": "3313",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8101,11 +8360,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Baldrine / Garwick Stores",
         "public_transport": "platform",
-        "ref": "3314"
+        "ref": "3314",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8119,11 +8383,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballawyllin Entrance",
         "public_transport": "platform",
-        "ref": "2401"
+        "ref": "2401",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8137,11 +8406,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballawyllin",
         "public_transport": "platform",
-        "ref": "2402"
+        "ref": "2402",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8155,12 +8429,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Peel Football Club Entrance",
         "public_transport": "platform",
         "ref": "2403",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8183,7 +8461,8 @@
         "name": "Q.E.II High School",
         "public_transport": "platform",
         "ref": "2404",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8205,7 +8484,8 @@
         "name": "Tynwald Close Shelter",
         "public_transport": "platform",
         "ref": "2406",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8227,7 +8507,8 @@
         "name": "Tynwald Close",
         "public_transport": "platform",
         "ref": "2405",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8268,7 +8549,8 @@
         "name": "Tynwald Road Shelter",
         "public_transport": "platform",
         "ref": "2408",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -8305,10 +8587,12 @@
         "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Albany Road Garage",
         "public_transport": "platform",
         "ref": "2410",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9193,11 +9477,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Governors Road / Blackberry Lane",
         "public_transport": "platform",
-        "ref": "3201"
+        "ref": "3201",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9211,11 +9500,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Governors Road / Blackberry Lane Junction",
         "public_transport": "platform",
-        "ref": "3202"
+        "ref": "3202",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9229,11 +9523,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Wybourne Drive Junction",
         "public_transport": "platform",
-        "ref": "3203"
+        "ref": "3203",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9247,11 +9546,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Opposite Wybourne Drive",
         "public_transport": "platform",
-        "ref": "3204"
+        "ref": "3204",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9265,11 +9569,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Road",
         "public_transport": "platform",
-        "ref": "3205"
+        "ref": "3205",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9283,11 +9592,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Road Layby",
         "public_transport": "platform",
-        "ref": "3206"
+        "ref": "3206",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9301,11 +9615,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Manx Arms Hotel",
         "public_transport": "platform",
-        "ref": "3207"
+        "ref": "3207",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9319,11 +9638,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Onchan / Bonds",
         "public_transport": "platform",
-        "ref": "3208"
+        "ref": "3208",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9373,11 +9697,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Port Jack Towards Groudle",
         "public_transport": "platform",
-        "ref": "3212"
+        "ref": "3212",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9481,11 +9810,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Royal Avenue No.143",
         "public_transport": "platform",
-        "ref": "3219"
+        "ref": "3219",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9499,12 +9833,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Royal Court Shelter",
         "public_transport": "platform",
         "ref": "3220",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9518,11 +9856,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Royal Avenue / Auburn Road",
         "public_transport": "platform",
-        "ref": "3221"
+        "ref": "3221",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9608,11 +9951,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballakilmartin Farm",
         "public_transport": "platform",
-        "ref": "3301"
+        "ref": "3301",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9626,11 +9974,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Whitebridge Hill Picnic Area",
         "public_transport": "platform",
-        "ref": "3302"
+        "ref": "3302",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9644,11 +9997,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Whitebridge / Begoade Road",
         "public_transport": "platform",
-        "ref": "3303"
+        "ref": "3303",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9662,11 +10020,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Whitebridge / Bibaloe Beg",
         "public_transport": "platform",
-        "ref": "3304"
+        "ref": "3304",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9680,11 +10043,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Whitebridge Straight",
         "public_transport": "platform",
-        "ref": "3305"
+        "ref": "3305",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9698,11 +10066,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Whitebridge / The Fun Farm",
         "public_transport": "platform",
-        "ref": "3306"
+        "ref": "3306",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9716,11 +10089,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballagawne Old Smithy",
         "public_transport": "platform",
-        "ref": "3316"
+        "ref": "3316",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9734,12 +10112,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballabeg M.E.R. Station",
         "public_transport": "platform",
         "ref": "3318",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9753,12 +10135,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballacannell / Church Road",
         "public_transport": "platform",
         "ref": "3319",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9772,12 +10158,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballacannell",
         "public_transport": "platform",
         "ref": "3320",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9791,11 +10181,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Fairy Cottage / Pinfold Hill Thornton",
         "public_transport": "platform",
-        "ref": "3401"
+        "ref": "3401",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9809,11 +10204,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Fairy Cottage / Pinfold Hill",
         "public_transport": "platform",
-        "ref": "3402"
+        "ref": "3402",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9827,12 +10227,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Fairy Cottage Shelter",
         "public_transport": "platform",
         "ref": "3403",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9846,11 +10250,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Fairy Cottage",
         "public_transport": "platform",
-        "ref": "3404"
+        "ref": "3404",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9864,11 +10273,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "South Cape / Trevellian",
         "public_transport": "platform",
-        "ref": "3405"
+        "ref": "3405",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9882,12 +10296,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "South Cape / Whitebeam",
         "public_transport": "platform",
         "ref": "3406",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9901,12 +10319,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "South Cape / Ravenscliffe",
         "public_transport": "platform",
         "ref": "3407",
-        "shelter": "no"
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9920,12 +10342,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "South Cape / Ravenscliffe Shelter",
         "public_transport": "platform",
         "ref": "3408",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9939,11 +10365,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "The New Inn",
         "public_transport": "platform",
-        "ref": "3409"
+        "ref": "3409",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9957,12 +10388,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Laxey Commissioners Offices",
         "public_transport": "platform",
         "ref": "3412",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9976,11 +10411,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Laxey M.E.R. Station",
         "public_transport": "platform",
-        "ref": "3414"
+        "ref": "3414",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -9994,11 +10434,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ramsey Road / Art Reyart Junction",
         "public_transport": "platform",
-        "ref": "3415"
+        "ref": "3415",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10012,11 +10457,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Art Reyart",
         "public_transport": "platform",
-        "ref": "3418"
+        "ref": "3418",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10030,11 +10480,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Dhoon Quarry",
         "public_transport": "platform",
-        "ref": "3603"
+        "ref": "3603",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10048,11 +10503,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Brown's Crossing",
         "public_transport": "platform",
-        "ref": "3604"
+        "ref": "3604",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10102,6 +10562,7 @@
         ]
       },
       "properties": {
+        "bench": "yes",
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Bulgham Shelter",
@@ -10193,11 +10654,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Dhoon School layby",
         "public_transport": "platform",
-        "ref": "3705"
+        "ref": "3705",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10211,11 +10677,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Dhoon School",
         "public_transport": "platform",
-        "ref": "3706"
+        "ref": "3706",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10229,12 +10700,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Corony Bridge Shelter",
         "public_transport": "platform",
         "ref": "3707",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10248,11 +10723,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Corony Bridge",
         "public_transport": "platform",
-        "ref": "3708"
+        "ref": "3708",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10303,11 +10783,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballasholague Farm",
         "public_transport": "platform",
-        "ref": "3711"
+        "ref": "3711",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10321,11 +10806,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Opposite Ballasholague Farm",
         "public_transport": "platform",
-        "ref": "3712"
+        "ref": "3712",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10339,11 +10829,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Cardle Voar Entrance",
         "public_transport": "platform",
-        "ref": "3713"
+        "ref": "3713",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10357,11 +10852,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Cardle Voar",
         "public_transport": "platform",
-        "ref": "3714"
+        "ref": "3714",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10375,11 +10875,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Hibernia Opposite Margher-E-Kew",
         "public_transport": "platform",
-        "ref": "3715"
+        "ref": "3715",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -10393,11 +10898,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Hibernia Margher-E-Kew",
         "public_transport": "platform",
-        "ref": "3716"
+        "ref": "3716",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11245,11 +11755,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballure",
         "public_transport": "platform",
-        "ref": "3810"
+        "ref": "3810",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11263,11 +11778,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballure Road / Ballure Grove",
         "public_transport": "platform",
-        "ref": "3811"
+        "ref": "3811",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11281,11 +11801,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballure Road /Beach Apartments",
         "public_transport": "platform",
-        "ref": "3812"
+        "ref": "3812",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11299,11 +11824,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Stanley Mount West",
         "public_transport": "platform",
-        "ref": "3813"
+        "ref": "3813",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11317,12 +11847,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Waterloo Road / Cummal Moor",
         "public_transport": "platform",
         "ref": "3814",
-        "shelter": "yes"
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11336,11 +11870,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Waterloo Road No.56",
         "public_transport": "platform",
-        "ref": "3815"
+        "ref": "3815",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11354,11 +11893,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Waterloo Road/ The Britannia",
         "public_transport": "platform",
-        "ref": "3816"
+        "ref": "3816",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -11824,11 +12368,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Queens Drive West / Walpole Road",
         "public_transport": "platform",
-        "ref": "3844"
+        "ref": "3844",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -13871,8 +14420,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.450186,
-          54.178514
+          -4.450161,
+          54.1785
         ]
       },
       "properties": {
@@ -14244,11 +14793,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Minorca Abbey Cottage Entrance",
         "public_transport": "platform",
-        "ref": "3503"
+        "ref": "3503",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -14262,11 +14816,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Minorca Abbey Cottage",
         "public_transport": "platform",
-        "ref": "3504"
+        "ref": "3504",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -14316,11 +14875,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Dreemskerry Road Junction",
         "public_transport": "platform",
-        "ref": "3912"
+        "ref": "3912",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15076,11 +15640,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Rest & Be Thankful",
         "public_transport": "platform",
-        "ref": "3901"
+        "ref": "3901",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15094,11 +15663,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Rest & Be Thankful / Primrose Lodge",
         "public_transport": "platform",
-        "ref": "3902"
+        "ref": "3902",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15113,11 +15687,16 @@
       },
       "properties": {
         "alt_name": "Ballacarmel Cottages",
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Ballacartmel Cottages",
         "public_transport": "platform",
-        "ref": "3903"
+        "ref": "3903",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15149,11 +15728,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Folieu / Lewaigue Junction",
         "public_transport": "platform",
-        "ref": "3906"
+        "ref": "3906",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15420,11 +16004,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Groudle M.E.R. Shelter",
         "public_transport": "platform",
-        "ref": "13205"
+        "ref": "13205",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15546,11 +16135,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "King Edward Road / Onchan Head",
         "public_transport": "platform",
-        "ref": "13301"
+        "ref": "13301",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15564,11 +16158,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "King Edward Road / Howe Road",
         "public_transport": "platform",
-        "ref": "13303"
+        "ref": "13303",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15582,11 +16181,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "King Edward Road / Harbour Road",
         "public_transport": "platform",
-        "ref": "13304"
+        "ref": "13304",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15600,11 +16204,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Majestic Apartments",
         "public_transport": "platform",
-        "ref": "13305"
+        "ref": "13305",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15618,11 +16227,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Opposite Majestic Apartments",
         "public_transport": "platform",
-        "ref": "13306"
+        "ref": "13306",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15636,11 +16250,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Lag Birragh",
         "public_transport": "platform",
-        "ref": "13307"
+        "ref": "13307",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15654,11 +16273,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Majestic Drive",
         "public_transport": "platform",
-        "ref": "13308"
+        "ref": "13308",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15781,11 +16405,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Howstrake Shelter",
         "public_transport": "platform",
-        "ref": "13202"
+        "ref": "13202",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15799,11 +16428,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Howstrake / King Edward Road",
         "public_transport": "platform",
-        "ref": "13201"
+        "ref": "13201",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15817,11 +16451,16 @@
         ]
       },
       "properties": {
+        "bench": "yes",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Groudle Village Shelter",
         "public_transport": "platform",
-        "ref": "13203"
+        "ref": "13203",
+        "shelter": "yes",
+        "tactile_paving": "no"
       }
     },
     {
@@ -15835,11 +16474,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Groudle Village Entrance",
         "public_transport": "platform",
-        "ref": "13206"
+        "ref": "13206",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -17144,12 +17788,17 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "yes",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "no",
         "name": "Glencrutchery Road / Glenside",
         "network": "Bus Vannin",
         "public_transport": "platform",
-        "ref": "20157"
+        "ref": "20157",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {

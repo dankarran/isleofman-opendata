@@ -174,25 +174,6 @@
     },
     {
       "type": "Feature",
-      "id": 456469140,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.473477,
-          54.164837
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Victoria Road",
-        "amenity": "kindergarten",
-        "name": "Victoria House Nursery",
-        "postal_code": "IM2 4AJ",
-        "website": "https://victoriahousenursery.com/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 458533095,
       "geometry": {
         "type": "Point",
@@ -394,6 +375,24 @@
         "postal_code": "IM4 6EN",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475392812,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.537751,
+          54.176743
+        ]
+      },
+      "properties": {
+        "name": "Ballafreer Farm",
+        "place": "farm",
+        "postal_code": "IM4 4AS",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -1150,6 +1149,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393490,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.533905,
+          54.178885
+        ]
+      },
+      "properties": {
+        "name": "Trollaby Farm",
+        "place": "farm",
+        "postal_code": "IM4 4AW",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393500,
       "geometry": {
         "type": "Point",
@@ -1400,6 +1417,24 @@
         "postal_code": "IM7 3HG",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Milk Production Holding Register"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393635,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.505561,
+          54.33729
+        ]
+      },
+      "properties": {
+        "name": "Ballamoar Beg Farm",
+        "place": "farm",
+        "postal_code": "IM7 3AE",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -1912,6 +1947,42 @@
     },
     {
       "type": "Feature",
+      "id": 475394013,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452719,
+          54.186946
+        ]
+      },
+      "properties": {
+        "name": "Ballig Farm",
+        "place": "farm",
+        "postal_code": "IM4 5BD",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475394028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.469008,
+          54.196763
+        ]
+      },
+      "properties": {
+        "name": "Slegaby",
+        "place": "farm",
+        "postal_code": "IM4 5BW",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475394055,
       "geometry": {
         "type": "Point",
@@ -2273,6 +2344,24 @@
     },
     {
       "type": "Feature",
+      "id": 475394280,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.502644,
+          54.33688
+        ]
+      },
+      "properties": {
+        "name": "Kissacks Croft",
+        "place": "farm",
+        "postal_code": "IM7 3AE",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475394286,
       "geometry": {
         "type": "Point",
@@ -2604,6 +2693,24 @@
     },
     {
       "type": "Feature",
+      "id": 475394565,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.46231,
+          54.191971
+        ]
+      },
+      "properties": {
+        "name": "Lower Ballacottier",
+        "place": "farm",
+        "postal_code": "IM4 5BQ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475394586,
       "geometry": {
         "type": "Point",
@@ -2744,6 +2851,24 @@
         "name": "Ballakesh Farm",
         "place": "farm",
         "postal_code": "IM7 4BF",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475394638,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.504202,
+          54.346527
+        ]
+      },
+      "properties": {
+        "name": "Tinkers Cottage",
+        "place": "farm",
+        "postal_code": "IM7 3AQ",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -2955,6 +3080,42 @@
     },
     {
       "type": "Feature",
+      "id": 475394713,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.511291,
+          54.363156
+        ]
+      },
+      "properties": {
+        "name": "Ballagaraghyn",
+        "place": "farm",
+        "postal_code": "IM7 3ES",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475394723,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.32934,
+          54.290793
+        ]
+      },
+      "properties": {
+        "name": "Booilushag",
+        "place": "locality",
+        "postal_code": "IM7 1BB;IM7 1BD",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475394725,
       "geometry": {
         "type": "Point",
@@ -3135,6 +3296,24 @@
         "postal_code": "IM7 4AN",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475394830,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.504267,
+          54.326151
+        ]
+      },
+      "properties": {
+        "name": "The Rule",
+        "place": "farm",
+        "postal_code": "IM7 2HR",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -3430,6 +3609,24 @@
     },
     {
       "type": "Feature",
+      "id": 475395122,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.458621,
+          54.192961
+        ]
+      },
+      "properties": {
+        "name": "Clypse Cottages",
+        "place": "farm",
+        "postal_code": "IM4 5BG",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475395126,
       "geometry": {
         "type": "Point",
@@ -3516,6 +3713,24 @@
         "name": "Ballacregga",
         "place": "farm",
         "postal_code": "IM7 4BF",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475395211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.494719,
+          54.313767
+        ]
+      },
+      "properties": {
+        "name": "Ballacaley",
+        "place": "farm",
+        "postal_code": "IM7 2HS",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -4416,7 +4631,7 @@
       "properties": {
         "name": "Thalloo Mitchell",
         "place": "farm",
-        "postal_code": "IM4 7HP",
+        "postal_code": "IM7 1HP",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -5159,6 +5374,30 @@
         "postal_code": "IM2 7BX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25985991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523534,
+            54.362258
+          ],
+          [
+            -4.52369,
+            54.362696
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Yn Aittin Vooar",
+        "name:gv": "Yn Aittin Vooar",
+        "postal_code": "IM7 3EU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -11692,6 +11931,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "Highfield Drive",
         "postal_code": "IM4 6ED;IM4 6EE",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
@@ -12150,6 +12390,7 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lane_markings": "no",
         "name": "The Crescent",
         "postal_code": "IM4 6DY;IM4 6DZ",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -13861,6 +14102,10 @@
             54.099227
           ],
           [
+            -4.624268,
+            54.0991
+          ],
+          [
             -4.624369,
             54.099076
           ]
@@ -13943,6 +14188,7 @@
       "properties": {
         "alt_name": "Glen Mona Loop Road",
         "highway": "tertiary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Glen Loop Road",
         "postal_code": "IM7 1HJ",
@@ -14393,6 +14639,47 @@
         "highway": "residential",
         "name": "Balleigh Mews",
         "postal_code": "IM8 3NW",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987522,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.397983,
+            54.322666
+          ],
+          [
+            -4.39784,
+            54.3229
+          ],
+          [
+            -4.397776,
+            54.32301
+          ],
+          [
+            -4.397734,
+            54.323107
+          ],
+          [
+            -4.397772,
+            54.323272
+          ],
+          [
+            -4.397889,
+            54.323318
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Greenlands View",
+        "postal_code": "IM8 2PB",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -16293,6 +16580,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Circular Road",
         "postal_code": "IM5 1ND",
@@ -18100,6 +18388,47 @@
     },
     {
       "type": "Feature",
+      "id": 25988106,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399749,
+            54.32176
+          ],
+          [
+            -4.399504,
+            54.321706
+          ],
+          [
+            -4.39924,
+            54.321695
+          ],
+          [
+            -4.399036,
+            54.321718
+          ],
+          [
+            -4.39893,
+            54.321799
+          ],
+          [
+            -4.398787,
+            54.322101
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Greenlands Park",
+        "postal_code": "IM8 2PG",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988107,
       "geometry": {
         "type": "LineString",
@@ -18215,6 +18544,32 @@
         "sidewalk:both": "yes",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "wikidata": "Q4648939"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988112,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.679846,
+            54.226107
+          ],
+          [
+            -4.679761,
+            54.226098
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Patrick's View",
+        "postal_code": "IM5 1UR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -18547,6 +18902,148 @@
         "maxspeed": "20 mph",
         "name": "Hedgerow Close",
         "postal_code": "IM2 1NH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988193,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491625,
+            54.319789
+          ],
+          [
+            -4.491559,
+            54.319791
+          ],
+          [
+            -4.491488,
+            54.319799
+          ],
+          [
+            -4.491372,
+            54.31982
+          ],
+          [
+            -4.491288,
+            54.319841
+          ],
+          [
+            -4.491206,
+            54.319862
+          ],
+          [
+            -4.491053,
+            54.319898
+          ],
+          [
+            -4.490924,
+            54.319928
+          ],
+          [
+            -4.490712,
+            54.319972
+          ],
+          [
+            -4.490454,
+            54.320024
+          ],
+          [
+            -4.490358,
+            54.320042
+          ],
+          [
+            -4.490235,
+            54.320067
+          ],
+          [
+            -4.490165,
+            54.320088
+          ],
+          [
+            -4.490088,
+            54.320116
+          ],
+          [
+            -4.490038,
+            54.320138
+          ],
+          [
+            -4.489934,
+            54.320205
+          ],
+          [
+            -4.489893,
+            54.320249
+          ],
+          [
+            -4.489807,
+            54.320372
+          ],
+          [
+            -4.48979,
+            54.320425
+          ],
+          [
+            -4.489788,
+            54.320468
+          ],
+          [
+            -4.489792,
+            54.320513
+          ],
+          [
+            -4.489804,
+            54.320559
+          ],
+          [
+            -4.489833,
+            54.320614
+          ],
+          [
+            -4.489875,
+            54.320652
+          ],
+          [
+            -4.489942,
+            54.320673
+          ],
+          [
+            -4.490008,
+            54.320683
+          ],
+          [
+            -4.490091,
+            54.320683
+          ],
+          [
+            -4.490245,
+            54.320671
+          ],
+          [
+            -4.490327,
+            54.320664
+          ],
+          [
+            -4.490453,
+            54.320652
+          ],
+          [
+            -4.490581,
+            54.320634
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Saint Stephen's Meadow",
+        "postal_code": "IM7 3DA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -19339,6 +19836,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "unclassified",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Glenlough Circle",
         "postal_code": "IM4 4AX",
@@ -19750,6 +20248,31 @@
         "postal_code": "IM5 1BJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988478,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.397312,
+            54.332246
+          ],
+          [
+            -4.397192,
+            54.33222
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Gibbs Grove",
+        "name:en": "Gibbs Grove",
+        "postal_code": "IM8 3LE",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -21422,6 +21945,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Stanley Mount",
         "name:en": "Stanley Mount",
@@ -22636,6 +23160,83 @@
     },
     {
       "type": "Feature",
+      "id": 25988944,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498848,
+            54.318107
+          ],
+          [
+            -4.498561,
+            54.317372
+          ],
+          [
+            -4.498636,
+            54.317078
+          ],
+          [
+            -4.498826,
+            54.316819
+          ],
+          [
+            -4.499223,
+            54.31652
+          ],
+          [
+            -4.499765,
+            54.316204
+          ],
+          [
+            -4.499724,
+            54.316115
+          ],
+          [
+            -4.499078,
+            54.315664
+          ],
+          [
+            -4.497558,
+            54.315126
+          ],
+          [
+            -4.496786,
+            54.314971
+          ],
+          [
+            -4.493937,
+            54.314963
+          ],
+          [
+            -4.48965,
+            54.315343
+          ],
+          [
+            -4.489134,
+            54.315413
+          ],
+          [
+            -4.4889,
+            54.315454
+          ],
+          [
+            -4.488868,
+            54.315459
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "none",
+        "name": "Ballacaley Road",
+        "postal_code": "IM7 2HS",
+        "source:name": "Isle of Man Government Land Registry Land Transactions",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988957,
       "geometry": {
         "type": "LineString",
@@ -23419,6 +24020,35 @@
         "maxspeed": "20 mph",
         "name": "Erin Crescent",
         "postal_code": "IM9 6FD",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989107,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490615,
+            54.320676
+          ],
+          [
+            -4.490581,
+            54.320634
+          ],
+          [
+            -4.490568,
+            54.320577
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Saint Stephen's Meadow",
+        "postal_code": "IM7 3DA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -24598,84 +25228,6 @@
         "name:gv": "Imman Croan Craaee",
         "postal_code": "IM5 1WS;IM5 1WT",
         "source:maxweight": "survey",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25989337,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.449071,
-            54.178921
-          ],
-          [
-            -4.448319,
-            54.179243
-          ],
-          [
-            -4.448239,
-            54.179322
-          ],
-          [
-            -4.448255,
-            54.179406
-          ],
-          [
-            -4.448379,
-            54.179588
-          ],
-          [
-            -4.448539,
-            54.179763
-          ],
-          [
-            -4.448819,
-            54.180012
-          ],
-          [
-            -4.449019,
-            54.180108
-          ],
-          [
-            -4.449275,
-            54.180186
-          ],
-          [
-            -4.449634,
-            54.180237
-          ],
-          [
-            -4.450022,
-            54.180254
-          ],
-          [
-            -4.450477,
-            54.180255
-          ],
-          [
-            -4.450616,
-            54.180227
-          ],
-          [
-            -4.4507,
-            54.180174
-          ],
-          [
-            -4.450811,
-            54.180044
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "highway": "residential",
-        "maxspeed": "20 mph",
-        "name": "Snaefell Crescent",
-        "postal_code": "IM3 4NH;IM3 4NJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -26586,6 +27138,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "The Grove",
         "postal_code": "IM5 1JZ;IM5 1LB",
@@ -31312,6 +31865,10 @@
             54.208119
           ],
           [
+            -4.635329,
+            54.208125
+          ],
+          [
             -4.635433,
             54.208145
           ]
@@ -31653,7 +32210,7 @@
         "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:street": "Finch Road",
-        "building": "yes",
+        "building": "office",
         "listed_status": "Registered",
         "name": "Corlett Bolton & Co",
         "office": "lawyer",
@@ -31726,7 +32283,7 @@
         "addr:country": "IM",
         "addr:housenumber": "10",
         "addr:street": "Finch Road",
-        "building": "yes",
+        "building": "office",
         "postal_code": "IM1 2PT",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
@@ -31770,140 +32327,6 @@
         "postal_code": "IM1 3HA",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 62091772,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479311,
-            54.151336
-          ],
-          [
-            -4.479313,
-            54.151348
-          ],
-          [
-            -4.479313,
-            54.15136
-          ],
-          [
-            -4.479117,
-            54.151372
-          ],
-          [
-            -4.479114,
-            54.151356
-          ],
-          [
-            -4.479102,
-            54.151294
-          ],
-          [
-            -4.479102,
-            54.151292
-          ],
-          [
-            -4.479097,
-            54.151289
-          ],
-          [
-            -4.479096,
-            54.151284
-          ],
-          [
-            -4.4791,
-            54.151281
-          ],
-          [
-            -4.479097,
-            54.151265
-          ],
-          [
-            -4.479095,
-            54.151249
-          ],
-          [
-            -4.479089,
-            54.151246
-          ],
-          [
-            -4.479088,
-            54.151241
-          ],
-          [
-            -4.479093,
-            54.151238
-          ],
-          [
-            -4.479092,
-            54.151235
-          ],
-          [
-            -4.47908,
-            54.151167
-          ],
-          [
-            -4.479468,
-            54.151148
-          ],
-          [
-            -4.479459,
-            54.151078
-          ],
-          [
-            -4.479619,
-            54.151069
-          ],
-          [
-            -4.479637,
-            54.151068
-          ],
-          [
-            -4.479868,
-            54.15106
-          ],
-          [
-            -4.479884,
-            54.151188
-          ],
-          [
-            -4.479837,
-            54.151328
-          ],
-          [
-            -4.479605,
-            54.151345
-          ],
-          [
-            -4.4796,
-            54.151317
-          ],
-          [
-            -4.479311,
-            54.151336
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "33-43",
-        "addr:postcode": "IM1 2EF",
-        "addr:street": "Strand Street",
-        "brand": "TK Maxx",
-        "brand:wikidata": "Q23823668",
-        "brand:wikipedia": "en:TK Maxx",
-        "building": "retail",
-        "building:levels": "2",
-        "name": "TK Maxx",
-        "postal_code": "IM1 2EF",
-        "shop": "department_store",
-        "source": "Bing;photograph",
-        "website": "https://www.tkmaxx.com/uk/en/store/316"
       }
     },
     {
@@ -34375,6 +34798,7 @@
         "addr:street": "Bucks Road",
         "amenity": "cafe",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-07",
         "contact:facebook": "https://www.facebook.com/FrothIOM/",
         "cuisine": "coffee_shop;bubble_tea;breakfast;chinese",
         "currency:XBT": "yes",
@@ -38214,6 +38638,31 @@
     },
     {
       "type": "Feature",
+      "id": 167026430,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.397772,
+            54.323272
+          ],
+          [
+            -4.397706,
+            54.32331
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Greenlands View",
+        "postal_code": "IM8 2PB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 168797474,
       "geometry": {
         "type": "LineString",
@@ -38287,6 +38736,7 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "The Grove",
         "postal_code": "IM5 1JZ;IM5 1LB",
@@ -39829,6 +40279,7 @@
       },
       "properties": {
         "highway": "tertiary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Glen Mona Loop Road",
         "postal_code": "IM7 1HG",
@@ -40616,24 +41067,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.480015,
-            54.159516
+            -4.479876,
+            54.159342
           ],
           [
-            -4.480164,
-            54.159458
+            -4.479983,
+            54.1593
           ],
           [
-            -4.479155,
-            54.158567
+            -4.479263,
+            54.158659
           ],
           [
-            -4.478995,
-            54.15863
-          ],
-          [
-            -4.479102,
-            54.158724
+            -4.479111,
+            54.158722
           ],
           [
             -4.479013,
@@ -40712,16 +41159,8 @@
             54.159256
           ],
           [
-            -4.480006,
-            54.159459
-          ],
-          [
-            -4.479967,
-            54.159474
-          ],
-          [
-            -4.480015,
-            54.159516
+            -4.479876,
+            54.159342
           ]
         ]
       },
@@ -41575,59 +42014,9 @@
         "addr:housenumber": "67",
         "addr:street": "Strand Street",
         "building": "retail",
-        "contact:website": "thegreenhousedispensary.im",
-        "name": "The Greenhouse, Dispensary",
+        "name": "The Boredroom",
         "postal_code": "IM1 2EN",
-        "shop": "yes",
-        "source": "Bing;photograph"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419113939,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479139,
-            54.151504
-          ],
-          [
-            -4.479533,
-            54.151478
-          ],
-          [
-            -4.47954,
-            54.151513
-          ],
-          [
-            -4.479541,
-            54.151527
-          ],
-          [
-            -4.47935,
-            54.151538
-          ],
-          [
-            -4.479145,
-            54.15155
-          ],
-          [
-            -4.479139,
-            54.151504
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "51",
-        "addr:street": "Strand Street",
-        "contact:website": "topbanana.im",
-        "name": "Top Banana",
-        "old_name": "Keigs",
-        "postal_code": "IM1 2EJ",
-        "shop": "general"
+        "shop": "clothes"
       }
     },
     {
@@ -41947,7 +42336,7 @@
       "properties": {
         "highway": "service",
         "name": "Thalloo Mitchell Road",
-        "postal_code": "IM4 7HP",
+        "postal_code": "IM7 1HP",
         "service": "driveway",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
@@ -42420,6 +42809,52 @@
     },
     {
       "type": "Feature",
+      "id": 527254416,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.534158,
+            54.171284
+          ],
+          [
+            -4.534181,
+            54.17132
+          ],
+          [
+            -4.534557,
+            54.171907
+          ],
+          [
+            -4.535428,
+            54.173025
+          ],
+          [
+            -4.536599,
+            54.174305
+          ],
+          [
+            -4.538357,
+            54.175349
+          ],
+          [
+            -4.538263,
+            54.176386
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "track",
+        "name": "Ballafreer Lane",
+        "postal_code": "IM4 4AS",
+        "source:name": "Isle of Man Government Land Registry Land Transactions;bus stop",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "tracktype": "grade5"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 527749506,
       "geometry": {
         "type": "LineString",
@@ -42581,10 +43016,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.399944,
-            54.332006
-          ],
-          [
             -4.399536,
             54.331897
           ],
@@ -42623,7 +43054,7 @@
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Gibbs Park",
         "postal_code": "IM8 3LD",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
@@ -42640,13 +43071,17 @@
             54.331411
           ],
           [
-            -4.39785,
-            54.33169
+            -4.398085,
+            54.331507
+          ],
+          [
+            -4.397826,
+            54.331705
           ]
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Gibbs Park",
         "postal_code": "IM8 3LD",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
@@ -42681,7 +43116,7 @@
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Gibbs Park",
         "postal_code": "IM8 3LD",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
@@ -44022,6 +44457,55 @@
         "postal_code": "IM5 3AP",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 835050623,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.514556,
+            54.363417
+          ],
+          [
+            -4.51452,
+            54.363464
+          ],
+          [
+            -4.513222,
+            54.363434
+          ],
+          [
+            -4.511772,
+            54.363506
+          ],
+          [
+            -4.512135,
+            54.362827
+          ],
+          [
+            -4.512416,
+            54.362303
+          ],
+          [
+            -4.514459,
+            54.363385
+          ],
+          [
+            -4.514556,
+            54.363417
+          ]
+        ]
+      },
+      "properties": {
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Ballagarraghyn",
+        "operator": "Hartford Homes",
+        "postal_code": "IM7 3BA",
+        "website": "https://hartford.im/development/ballagarraghyn"
       }
     },
     {
@@ -46039,6 +46523,86 @@
     },
     {
       "type": "Feature",
+      "id": 1026565709,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384814,
+            54.32575
+          ],
+          [
+            -4.384783,
+            54.325709
+          ],
+          [
+            -4.384661,
+            54.325545
+          ],
+          [
+            -4.384644,
+            54.325497
+          ],
+          [
+            -4.384641,
+            54.325446
+          ],
+          [
+            -4.384663,
+            54.325241
+          ],
+          [
+            -4.384681,
+            54.32519
+          ],
+          [
+            -4.384679,
+            54.325163
+          ],
+          [
+            -4.384634,
+            54.325085
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1026565710,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384882,
+            54.325136
+          ],
+          [
+            -4.385685,
+            54.325016
+          ],
+          [
+            -4.385605,
+            54.324835
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1026694402,
       "geometry": {
         "type": "LineString",
@@ -46214,6 +46778,182 @@
         "postal_code": "IM4 4BA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092705858,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.676956,
+            54.221607
+          ],
+          [
+            -4.676975,
+            54.221616
+          ],
+          [
+            -4.677297,
+            54.221794
+          ],
+          [
+            -4.677777,
+            54.222088
+          ],
+          [
+            -4.677851,
+            54.222151
+          ],
+          [
+            -4.678026,
+            54.222251
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Oak Park",
+        "oneway": "no",
+        "postal_code": "IM5 1XH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092705859,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.677777,
+            54.222088
+          ],
+          [
+            -4.678212,
+            54.221658
+          ],
+          [
+            -4.678352,
+            54.221524
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Oak Park",
+        "oneway": "no",
+        "postal_code": "IM5 1XH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092705860,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.677483,
+            54.221304
+          ],
+          [
+            -4.677797,
+            54.221458
+          ],
+          [
+            -4.678212,
+            54.221658
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Oak Park",
+        "oneway": "no",
+        "postal_code": "IM5 1XH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092705861,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.677797,
+            54.221458
+          ],
+          [
+            -4.677734,
+            54.2215
+          ],
+          [
+            -4.677545,
+            54.221646
+          ],
+          [
+            -4.677374,
+            54.22174
+          ],
+          [
+            -4.677297,
+            54.221794
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Oak Park",
+        "oneway": "no",
+        "postal_code": "IM5 1XH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1092711201,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.676726,
+            54.221791
+          ],
+          [
+            -4.677035,
+            54.222025
+          ],
+          [
+            -4.677454,
+            54.222271
+          ],
+          [
+            -4.677805,
+            54.222564
+          ],
+          [
+            -4.678807,
+            54.221612
+          ],
+          [
+            -4.67771,
+            54.221084
+          ],
+          [
+            -4.676726,
+            54.221791
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "residential",
+        "name": "Oak Park",
+        "postal_code": "IM5 1XH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -46496,6 +47236,194 @@
         "name": "Shore Hotel",
         "postal_code": "IM4 7DA",
         "website": "http://www.shorehotel.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127914633,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.398143,
+            54.332765
+          ],
+          [
+            -4.398057,
+            54.332722
+          ],
+          [
+            -4.397697,
+            54.332532
+          ],
+          [
+            -4.3974,
+            54.332304
+          ],
+          [
+            -4.397312,
+            54.332246
+          ],
+          [
+            -4.397419,
+            54.332179
+          ],
+          [
+            -4.397501,
+            54.332058
+          ],
+          [
+            -4.397699,
+            54.331902
+          ],
+          [
+            -4.397752,
+            54.33186
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Gibbs Grove",
+        "name:en": "Gibbs Grove",
+        "postal_code": "IM8 3LE",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127914634,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.398057,
+            54.332722
+          ],
+          [
+            -4.39817,
+            54.332637
+          ],
+          [
+            -4.398268,
+            54.332567
+          ],
+          [
+            -4.398323,
+            54.332448
+          ],
+          [
+            -4.398443,
+            54.332277
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Gibbs Grove",
+        "name:en": "Gibbs Grove",
+        "postal_code": "IM8 3LE",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1127914635,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.398672,
+            54.33221
+          ],
+          [
+            -4.398648,
+            54.332241
+          ],
+          [
+            -4.398609,
+            54.332265
+          ],
+          [
+            -4.398557,
+            54.332281
+          ],
+          [
+            -4.3985,
+            54.332285
+          ],
+          [
+            -4.398443,
+            54.332277
+          ],
+          [
+            -4.398398,
+            54.332261
+          ],
+          [
+            -4.398364,
+            54.332238
+          ],
+          [
+            -4.398344,
+            54.332209
+          ],
+          [
+            -4.39834,
+            54.332178
+          ],
+          [
+            -4.398353,
+            54.332149
+          ],
+          [
+            -4.398381,
+            54.332122
+          ],
+          [
+            -4.398421,
+            54.332102
+          ],
+          [
+            -4.39847,
+            54.332091
+          ],
+          [
+            -4.398523,
+            54.332089
+          ],
+          [
+            -4.398579,
+            54.332098
+          ],
+          [
+            -4.398626,
+            54.332117
+          ],
+          [
+            -4.39866,
+            54.332144
+          ],
+          [
+            -4.398676,
+            54.332176
+          ],
+          [
+            -4.398672,
+            54.33221
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Gibbs Grove",
+        "name:en": "Gibbs Grove",
+        "oneway": "yes",
+        "postal_code": "IM8 3LE",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -47492,6 +48420,44 @@
         "name:en": "Little Meddow",
         "postal_code": "IM7 4HY",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1177939059,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492137,
+            54.319758
+          ],
+          [
+            -4.491917,
+            54.319786
+          ],
+          [
+            -4.491821,
+            54.319793
+          ],
+          [
+            -4.491682,
+            54.31979
+          ],
+          [
+            -4.491625,
+            54.319789
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Saint Stephen's Meadow",
+        "postal_code": "IM7 3DA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -48620,6 +49586,68 @@
     },
     {
       "type": "Feature",
+      "id": 1294975258,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473465,
+            54.164951
+          ],
+          [
+            -4.473586,
+            54.164867
+          ],
+          [
+            -4.473647,
+            54.164898
+          ],
+          [
+            -4.473676,
+            54.164878
+          ],
+          [
+            -4.473718,
+            54.164898
+          ],
+          [
+            -4.473693,
+            54.164916
+          ],
+          [
+            -4.47378,
+            54.164959
+          ],
+          [
+            -4.473691,
+            54.165021
+          ],
+          [
+            -4.473616,
+            54.164983
+          ],
+          [
+            -4.47358,
+            54.165008
+          ],
+          [
+            -4.473465,
+            54.164951
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:street": "Victoria Road",
+        "amenity": "kindergarten",
+        "building": "yes",
+        "name": "Victoria House Nursery",
+        "postal_code": "IM2 4AJ",
+        "website": "https://victoriahousenursery.com/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1299145633,
       "geometry": {
         "type": "LineString",
@@ -49323,6 +50351,193 @@
         "ref": "C15",
         "source:postal_code": "Isle of Man Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321437198,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.385685,
+            54.325016
+          ],
+          [
+            -4.385697,
+            54.325049
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321440310,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399944,
+            54.332006
+          ],
+          [
+            -4.399536,
+            54.331897
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Gibbs Park",
+        "postal_code": "IM8 3LD",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321440313,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.398143,
+            54.332765
+          ],
+          [
+            -4.398412,
+            54.332825
+          ],
+          [
+            -4.398703,
+            54.332904
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Gibbs Grove",
+        "name:en": "Gibbs Grove",
+        "postal_code": "IM8 3LE",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321510483,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384679,
+            54.325163
+          ],
+          [
+            -4.384882,
+            54.325136
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321510484,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.384634,
+            54.325085
+          ],
+          [
+            -4.384573,
+            54.324963
+          ],
+          [
+            -4.384508,
+            54.32491
+          ],
+          [
+            -4.384432,
+            54.324743
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "name": "Traie Twoaie",
+        "name:gv": "Traie Twoaie",
+        "postal_code": "IM8 3DB",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321587948,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.676807,
+            54.22155
+          ],
+          [
+            -4.676905,
+            54.221577
+          ],
+          [
+            -4.676956,
+            54.221607
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Oak Park",
+        "oneway": "no",
+        "postal_code": "IM5 1XH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322348122,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.624268,
+            54.0991
+          ],
+          [
+            -4.624301,
+            54.099154
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Ballabridson Park",
+        "postal_code": "IM9 2ES",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

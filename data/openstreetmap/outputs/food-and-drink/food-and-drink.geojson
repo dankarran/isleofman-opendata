@@ -2058,6 +2058,7 @@
         "addr:postcode": "IM2 1AL",
         "addr:unit": "5",
         "amenity": "cafe",
+        "check_date:currency:XBT": "2024-10-08",
         "contact:facebook": "https://www.facebook.com/foodtotruck/",
         "cuisine": "greek;coffee",
         "currency:XBT": "yes",
@@ -2337,23 +2338,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481133,
-          54.152571
+          -4.481128,
+          54.152579
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Rosemary House",
         "addr:housenumber": "37",
         "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "6",
         "amenity": "cafe",
+        "contact:email": "offeecorner@manx.net",
+        "contact:phone": "+44 1624 619209",
         "cuisine": "coffee_shop",
         "name": "Coffee Corner",
+        "opening_hours": "Mo-Fr 08:00-15:00",
         "takeaway": "yes",
         "osm_id": 10289485880,
-        "lon": -4.481133,
-        "lat": 54.152571,
+        "lon": -4.481128,
+        "lat": 54.152579,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10289485880"
       }
@@ -6470,6 +6476,7 @@
         "addr:street": "Bucks Road",
         "amenity": "cafe",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-07",
         "contact:facebook": "https://www.facebook.com/FrothIOM/",
         "cuisine": "coffee_shop;bubble_tea;breakfast;chinese",
         "currency:XBT": "yes",
@@ -13137,6 +13144,7 @@
       "properties": {
         "amenity": "restaurant",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-08",
         "cuisine": "noodle",
         "currency:XBT": "yes",
         "name": "Time Out",
@@ -13598,7 +13606,7 @@
           ],
           [
             -4.479557,
-            54.151696
+            54.151699
           ],
           [
             -4.47917,
@@ -13617,8 +13625,8 @@
         "name": "Oasis Sandwich Bar",
         "source": "Bing;photograph",
         "osm_id": 419113944,
-        "lon": -4.479402854991535,
-        "lat": 54.15172352369612,
+        "lon": -4.4794028712257035,
+        "lat": 54.15172421844892,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113944"
       }
@@ -13672,6 +13680,55 @@
         "lat": 54.152121759540954,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113947"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113951,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479223,
+            54.152159
+          ],
+          [
+            -4.479226,
+            54.152189
+          ],
+          [
+            -4.47947,
+            54.152185
+          ],
+          [
+            -4.479471,
+            54.152149
+          ],
+          [
+            -4.479223,
+            54.152159
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "amenity": "fast_food",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "cuisine": "potato",
+        "name": "Terry's Tatos",
+        "source": "Bing;photograph",
+        "osm_id": 419113951,
+        "lon": -4.479348788005594,
+        "lat": 54.152170340061666,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419113951"
       }
     },
     {

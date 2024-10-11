@@ -22,13 +22,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481136,
-          54.152517
+          -4.481121,
+          54.152518
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "5",
+        "name": "Barbers Unit 5",
         "shop": "hairdresser"
       }
     },
@@ -1191,21 +1197,6 @@
     },
     {
       "type": "Feature",
-      "id": 3659088390,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.450314,
-          54.178536
-        ]
-      },
-      "properties": {
-        "name": "Ballacrink Stores",
-        "shop": "supermarket"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 3760543094,
       "geometry": {
         "type": "Point",
@@ -1775,6 +1766,7 @@
         ]
       },
       "properties": {
+        "check_date:currency:XBT": "2024-10-08",
         "currency:XBT": "yes",
         "name": "The Boredroom",
         "payment:lightning": "yes",
@@ -1810,45 +1802,27 @@
     },
     {
       "type": "Feature",
-      "id": 10151684348,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479196,
-          54.151609
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "55",
-        "addr:postcode": "IM1 2EJ",
-        "addr:street": "Strand Street",
-        "contact:twitter": "@ChoccyPiccy",
-        "currency:XBT": "yes",
-        "name": "Hot Choccy Bar",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624242018",
-        "shop": "confectionery",
-        "survey:date": "2022-11-02",
-        "website": "https://www.choccypiccy.im/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10289485878,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481148,
-          54.152381
+          -4.481143,
+          54.152391
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "3",
+        "contact:email": "ruthsretreat@icloud.com",
+        "contact:phone": "+44 7624 290859",
+        "contact:website": "https://www.ruthsretreat.com/",
         "name": "Ruth's Retreat",
+        "opening_hours": "Mo-Sa 08:00-18:00",
         "shop": "beauty"
       }
     },
@@ -1858,15 +1832,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481151,
-          54.15233
+          -4.481148,
+          54.152345
         ]
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
-        "name": "Diva",
-        "shop": "beauty"
+        "addr:unit": "2",
+        "contact:email": "Diva.isleofman@gmail.com",
+        "contact:phone": "+44 1624 612066",
+        "name": "Diva Hair and Beauty",
+        "shop": "hairdresser;beauty"
       }
     },
     {
@@ -3433,6 +3414,124 @@
         "name": "Copenhagen Luxe",
         "opening_hours": "Tu-Sa 10:00-17:30",
         "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236063398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.635329,
+          54.208125
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:phone": "+44 7624 342966",
+        "contact:website": "https://envyfurnishings.com/",
+        "entrance": "main",
+        "name:en": "Envy Furnishings",
+        "opening_hours": "Tu-Fr 10:30-16:00, Sa 10:00-16:00",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204791,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634099,
+          54.208132
+        ]
+      },
+      "properties": {
+        "contact:phone": "+44 7624 461343",
+        "name": "Jan Carling Aesthetics",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204792,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.63412,
+          54.208135
+        ]
+      },
+      "properties": {
+        "contact:email": "heavenlybeautyatmil@hotmail.com",
+        "name": "Heavenly Beauty",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204793,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634141,
+          54.208139
+        ]
+      },
+      "properties": {
+        "name": "The Ivy Aesthetics",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481132,
+          54.152462
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "4",
+        "contact:phone": "+44 7624 218337",
+        "name": "Queen Bee Ink Tattoo Studio",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481153,
+          54.152299
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "1",
+        "contact:email": "isleofman@perfectgetaways.co.uk",
+        "contact:phone": "+44 333 888 0223",
+        "name": "Perfect Getaways",
+        "shop": "travel_agency"
       }
     },
     {
@@ -5109,6 +5208,10 @@
             54.208119
           ],
           [
+            -4.635329,
+            54.208125
+          ],
+          [
             -4.635433,
             54.208145
           ]
@@ -5587,11 +5690,11 @@
             54.151336
           ],
           [
-            -4.479313,
+            -4.479312,
             54.151348
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -5704,7 +5807,6 @@
         "building": "retail",
         "building:levels": "2",
         "name": "TK Maxx",
-        "postal_code": "IM1 2EF",
         "shop": "department_store",
         "source": "Bing;photograph",
         "website": "https://www.tkmaxx.com/uk/en/store/316"
@@ -6799,9 +6901,16 @@
         ]
       },
       "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 3DL",
+        "addr:street": "Birch Hill Crescent",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
         "building": "yes",
         "name": "Birch Hill Stores",
-        "shop": "convenience"
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-100ff1fde58d"
       }
     },
     {
@@ -7667,6 +7776,7 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-09",
         "cuisine": "breakfast;sandwich",
         "currency:XBT": "yes",
         "name": "Newsbeat",
@@ -17211,56 +17321,6 @@
     },
     {
       "type": "Feature",
-      "id": 361410121,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.491967,
-            54.319314
-          ],
-          [
-            -4.49196,
-            54.319228
-          ],
-          [
-            -4.492093,
-            54.319224
-          ],
-          [
-            -4.492096,
-            54.319265
-          ],
-          [
-            -4.492065,
-            54.319265
-          ],
-          [
-            -4.492068,
-            54.319311
-          ],
-          [
-            -4.492025,
-            54.319312
-          ],
-          [
-            -4.491967,
-            54.319314
-          ]
-        ]
-      },
-      "properties": {
-        "building": "yes",
-        "name": "Caley's General Store",
-        "name:en": "Caley's General Store",
-        "opening_hours": "Mo-Fr 08:00-17:30, Su 09:00-13:00",
-        "shop": "general;post_office",
-        "source": "survey",
-        "source:geometry": "Bing"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 390438747,
       "geometry": {
         "type": "LineString",
@@ -19448,6 +19508,59 @@
     },
     {
       "type": "Feature",
+      "id": 417401596,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479065,
+            54.15158
+          ],
+          [
+            -4.479075,
+            54.151638
+          ],
+          [
+            -4.478875,
+            54.151647
+          ],
+          [
+            -4.478658,
+            54.151657
+          ],
+          [
+            -4.478639,
+            54.151658
+          ],
+          [
+            -4.478631,
+            54.151607
+          ],
+          [
+            -4.47871,
+            54.151603
+          ],
+          [
+            -4.479065,
+            54.15158
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "56",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "name": "420 Pharma",
+        "shop": "cannabis",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 417401597,
       "geometry": {
         "type": "LineString",
@@ -19829,8 +19942,8 @@
         "building:colour": "white",
         "building:levels": "2",
         "building:material": "plaster",
-        "name": "Newsons",
-        "shop": "outdoor",
+        "name": "Grape Tree",
+        "shop": "health_food",
         "source": "Bing;photograph"
       }
     },
@@ -20876,6 +20989,57 @@
     },
     {
       "type": "Feature",
+      "id": 419070479,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479229,
+            54.150641
+          ],
+          [
+            -4.478962,
+            54.150648
+          ],
+          [
+            -4.478979,
+            54.150709
+          ],
+          [
+            -4.479001,
+            54.150708
+          ],
+          [
+            -4.479069,
+            54.150707
+          ],
+          [
+            -4.479068,
+            54.150682
+          ],
+          [
+            -4.479232,
+            54.150677
+          ],
+          [
+            -4.479229,
+            54.150641
+          ]
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "building:colour": "cream",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "description": "vacant",
+        "name": "Magazzino",
+        "shop": "interior_decoration",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419070482,
       "geometry": {
         "type": "LineString",
@@ -20975,11 +21139,9 @@
         "addr:housenumber": "67",
         "addr:street": "Strand Street",
         "building": "retail",
-        "contact:website": "thegreenhousedispensary.im",
-        "name": "The Greenhouse, Dispensary",
+        "name": "The Boredroom",
         "postal_code": "IM1 2EN",
-        "shop": "yes",
-        "source": "Bing;photograph"
+        "shop": "clothes"
       }
     },
     {
@@ -21105,7 +21267,7 @@
           ],
           [
             -4.479557,
-            54.151696
+            54.151699
           ],
           [
             -4.479549,
@@ -21163,7 +21325,7 @@
             54.151364
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -21221,9 +21383,8 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Trey Barbers",
-        "shop": "hairdresser",
-        "source": "Bing;photograph"
+        "name": "Island Inspirations",
+        "shop": "gift"
       }
     },
     {
@@ -21235,10 +21396,6 @@
           [
             -4.479145,
             54.15155
-          ],
-          [
-            -4.47935,
-            54.151538
           ],
           [
             -4.479541,
@@ -21295,10 +21452,6 @@
             54.151527
           ],
           [
-            -4.47935,
-            54.151538
-          ],
-          [
             -4.479145,
             54.15155
           ],
@@ -21312,12 +21465,10 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "51",
+        "addr:postcode": "IM1 2EJ",
         "addr:street": "Strand Street",
-        "contact:website": "topbanana.im",
-        "name": "Top Banana",
-        "old_name": "Keigs",
-        "postal_code": "IM1 2EJ",
-        "shop": "general"
+        "name": "Bon Fabrics",
+        "shop": "fabric"
       }
     },
     {
@@ -21504,7 +21655,7 @@
           ],
           [
             -4.479621,
-            54.151969
+            54.151973
           ],
           [
             -4.479617,
@@ -21585,48 +21736,6 @@
     },
     {
       "type": "Feature",
-      "id": 419113948,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479548,
-            54.151567
-          ],
-          [
-            -4.479555,
-            54.151607
-          ],
-          [
-            -4.479158,
-            54.15163
-          ],
-          [
-            -4.479151,
-            54.151588
-          ],
-          [
-            -4.479548,
-            54.151567
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "55",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "fixme": "is this now Hot Choccy Bar?",
-        "name": "Sweets 'n' Treats",
-        "shop": "confectionery",
-        "source": "Bing;photograph"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -21659,13 +21768,8 @@
         "addr:housenumber": "49",
         "addr:postcode": "IM1 3LB",
         "addr:street": "Strand Street",
-        "clothes": "dancewear",
-        "contact:email": "dancewearofdouglas@gmail.com",
-        "contact:facebook": "https://www.facebook.com/dancewearofdouglas",
-        "name": "Dancewear of Douglas",
-        "opening_hours": "Tu-Fr 10:00-17:00, Sa 09:30-17:30",
-        "phone": "+44 1624 626041",
-        "shop": "clothes",
+        "name": "Artificial Spaces",
+        "shop": "builders_merchant",
         "source": "photo"
       }
     },
@@ -21718,49 +21822,6 @@
         "opening_hours": "Mo-Sa 10:30-16:00",
         "operator": "Sight Matters",
         "shop": "charity",
-        "source": "Bing;photograph"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419113951,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479223,
-            54.152159
-          ],
-          [
-            -4.479226,
-            54.152189
-          ],
-          [
-            -4.47947,
-            54.152185
-          ],
-          [
-            -4.479471,
-            54.152149
-          ],
-          [
-            -4.479223,
-            54.152159
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "79",
-        "addr:postcode": "IM1 2EN",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "3",
-        "building:material": "plaster",
-        "name": "Everest",
-        "shop": "yes",
         "source": "Bing;photograph"
       }
     },
@@ -28804,6 +28865,53 @@
         "mattress": "yes",
         "name": "Mattress Man",
         "shop": "bed"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323167006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450197,
+            54.178616
+          ],
+          [
+            -4.450161,
+            54.178564
+          ],
+          [
+            -4.450247,
+            54.178519
+          ],
+          [
+            -4.450323,
+            54.178577
+          ],
+          [
+            -4.450312,
+            54.178591
+          ],
+          [
+            -4.450197,
+            54.178616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Ballachrink Stores",
+        "addr:postcode": "IM3 4NU",
+        "addr:street": "Ballachrink Drive",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Ballachrinkstores/",
+        "name": "Ballachrink Stores",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-f5e2e1f3f1ac"
       }
     }
   ]

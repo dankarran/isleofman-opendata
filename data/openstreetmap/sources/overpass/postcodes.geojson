@@ -66,6 +66,28 @@
     },
     {
       "type": "Feature",
+      "id": 455458409,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481121,
+          54.152518
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "5",
+        "name": "Barbers Unit 5",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 455458441,
       "geometry": {
         "type": "Point",
@@ -3348,9 +3370,9 @@
         "addr:street": "Whitebridge Road",
         "building": "house",
         "building:levels": "2",
-        "name": "Blue Goose Systems",
-        "office": "it",
-        "source:addr:postcode": "Isle of Man Land Registry Land Transactions"
+        "old_name": "Blue Goose Systems",
+        "source:addr:postcode": "Isle of Man Land Registry Land Transactions",
+        "was:office": "it"
       }
     },
     {
@@ -3931,6 +3953,7 @@
         "addr:postcode": "IM2 1AL",
         "addr:unit": "5",
         "amenity": "cafe",
+        "check_date:currency:XBT": "2024-10-08",
         "contact:facebook": "https://www.facebook.com/foodtotruck/",
         "cuisine": "greek;coffee",
         "currency:XBT": "yes",
@@ -4116,29 +4139,52 @@
     },
     {
       "type": "Feature",
-      "id": 10151684348,
+      "id": 10289485878,
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.479196,
-          54.151609
+          -4.481143,
+          54.152391
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housenumber": "55",
-        "addr:postcode": "IM1 2EJ",
-        "addr:street": "Strand Street",
-        "contact:twitter": "@ChoccyPiccy",
-        "currency:XBT": "yes",
-        "name": "Hot Choccy Bar",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624242018",
-        "shop": "confectionery",
-        "survey:date": "2022-11-02",
-        "website": "https://www.choccypiccy.im/"
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "3",
+        "contact:email": "ruthsretreat@icloud.com",
+        "contact:phone": "+44 7624 290859",
+        "contact:website": "https://www.ruthsretreat.com/",
+        "name": "Ruth's Retreat",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10289485879,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481148,
+          54.152345
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "2",
+        "contact:email": "Diva.isleofman@gmail.com",
+        "contact:phone": "+44 1624 612066",
+        "name": "Diva Hair and Beauty",
+        "shop": "hairdresser;beauty"
       }
     },
     {
@@ -4147,19 +4193,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.481133,
-          54.152571
+          -4.481128,
+          54.152579
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Rosemary House",
         "addr:housenumber": "37",
         "addr:postcode": "IM1 2PR",
         "addr:street": "Finch Road",
+        "addr:unit": "6",
         "amenity": "cafe",
+        "contact:email": "offeecorner@manx.net",
+        "contact:phone": "+44 1624 619209",
         "cuisine": "coffee_shop",
         "name": "Coffee Corner",
+        "opening_hours": "Mo-Fr 08:00-15:00",
         "takeaway": "yes"
       }
     },
@@ -4961,6 +5012,26 @@
         "building": "house",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housename": "bus stop"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10678898631,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.322999,
+          54.29957
+        ]
+      },
+      "properties": {
+        "addr:city": "Maughold",
+        "addr:country": "IM",
+        "addr:housename": "Glebe Cottage",
+        "addr:postcode": "IM7 1AS",
+        "addr:street": "Maughold Church Road",
+        "description": "Former Glebe Mine office. Glebe Mine is a disused haematite iron ore mine.",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -7046,6 +7117,24 @@
     },
     {
       "type": "Feature",
+      "id": 10853173504,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.535935,
+          54.170679
+        ]
+      },
+      "properties": {
+        "addr:city": "Braddan",
+        "addr:housename": "Ballahutchin House",
+        "addr:postcode": "IM4 4AT",
+        "addr:street": "Peel Road",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10858161604,
       "geometry": {
         "type": "Point",
@@ -7623,8 +7712,7 @@
         "lunar:product": "data_storage",
         "name": "Eayst Noa",
         "office": "company",
-        "operator": "Lonestar Data Holdings",
-        "website": "https://www.eaystnoa.com"
+        "website": "https://www.eaystnoa.com/"
       }
     },
     {
@@ -9440,6 +9528,141 @@
         "postal_code": "IM7 4AN",
         "source:name": "mapillary",
         "source:postal_code": "Isle of Man Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12228117115,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492187,
+          54.324517
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:housename": "Elmcroft",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12228117116,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.492532,
+          54.325571
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:housename": "Meadow View",
+        "addr:postcode": "IM7 3AD",
+        "addr:street": "Clenagh Road",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236063398,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.635329,
+          54.208125
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:phone": "+44 7624 342966",
+        "contact:website": "https://envyfurnishings.com/",
+        "entrance": "main",
+        "name:en": "Envy Furnishings",
+        "opening_hours": "Tu-Fr 10:30-16:00, Sa 10:00-16:00",
+        "shop": "interior_decoration"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12236204794,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634224,
+          54.208171
+        ]
+      },
+      "properties": {
+        "addr:city": "St John's",
+        "addr:country": "IM",
+        "addr:place": "The Courtyard, Tynwald Mills",
+        "addr:postcode": "IM4 3AD",
+        "contact:email": "mbscentre@pm.me",
+        "contact:phone": "+44 7624 247466",
+        "contact:website": "https://www.mbs-dentre.com/",
+        "healthcare": "alternative",
+        "healthcare:speciality": "traditional_chinese_medicine",
+        "name": "The Mind Body Soul Centre",
+        "opening_hours": "Mo-Fr 10:00-17:00, Sa-Su \"By appointment\""
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913174,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481132,
+          54.152462
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "4",
+        "contact:phone": "+44 7624 218337",
+        "name": "Queen Bee Ink Tattoo Studio",
+        "opening_hours": "Tu-Sa 10:00-17:00",
+        "shop": "tattoo"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12238913175,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.481153,
+          54.152299
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rosemary House",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM1 2PR",
+        "addr:street": "Finch Road",
+        "addr:unit": "1",
+        "contact:email": "isleofman@perfectgetaways.co.uk",
+        "contact:phone": "+44 333 888 0223",
+        "name": "Perfect Getaways",
+        "shop": "travel_agency"
       }
     },
     {
@@ -13999,12 +14222,12 @@
         "addr:postcode": "IM1 2PT",
         "addr:street": "Finch Road",
         "amenity": "place_of_worship",
-        "building": "yes",
+        "building": "office",
         "charity": "yes",
         "contact:website": "http://www.iomia.com/",
         "denomination": "sunni",
         "listed_status": "Registered",
-        "name": "Isle of Man Mosque",
+        "name": "Isle of Man Islamic Centre and Masjid",
         "opening_hours": "09:00-18:00",
         "operator": "Isle of Man Islamic Association",
         "operator:type": "charitable",
@@ -24745,11 +24968,11 @@
             54.151336
           ],
           [
-            -4.479313,
+            -4.479312,
             54.151348
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -24862,7 +25085,6 @@
         "building": "retail",
         "building:levels": "2",
         "name": "TK Maxx",
-        "postal_code": "IM1 2EF",
         "shop": "department_store",
         "source": "Bing;photograph",
         "website": "https://www.tkmaxx.com/uk/en/store/316"
@@ -32683,6 +32905,47 @@
     },
     {
       "type": "Feature",
+      "id": 79212574,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464171,
+            54.181424
+          ],
+          [
+            -4.464162,
+            54.181352
+          ],
+          [
+            -4.464376,
+            54.181343
+          ],
+          [
+            -4.464386,
+            54.181415
+          ],
+          [
+            -4.464171,
+            54.181424
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM3 3DL",
+        "addr:street": "Birch Hill Crescent",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "building": "yes",
+        "name": "Birch Hill Stores",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-100ff1fde58d"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79212621,
       "geometry": {
         "type": "LineString",
@@ -35752,6 +36015,47 @@
     },
     {
       "type": "Feature",
+      "id": 82563999,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478773,
+            54.158368
+          ],
+          [
+            -4.478654,
+            54.158436
+          ],
+          [
+            -4.478787,
+            54.158516
+          ],
+          [
+            -4.478907,
+            54.158448
+          ],
+          [
+            -4.478773,
+            54.158368
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Elysee Court",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 4ER",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 82564017,
       "geometry": {
         "type": "LineString",
@@ -36188,36 +36492,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482076,
-            54.152372
+            -4.482074,
+            54.152389
+          ],
+          [
+            -4.482071,
+            54.152477
+          ],
+          [
+            -4.482068,
+            54.152577
+          ],
+          [
+            -4.482003,
+            54.152576
+          ],
+          [
+            -4.482006,
+            54.152474
+          ],
+          [
+            -4.481973,
+            54.152474
+          ],
+          [
+            -4.481975,
+            54.152387
           ],
           [
             -4.482074,
-            54.15246
-          ],
-          [
-            -4.482072,
-            54.152559
-          ],
-          [
-            -4.482008,
-            54.152558
-          ],
-          [
-            -4.482011,
-            54.152457
-          ],
-          [
-            -4.481976,
-            54.152457
-          ],
-          [
-            -4.481978,
-            54.15237
-          ],
-          [
-            -4.482076,
-            54.152372
+            54.152389
           ]
         ]
       },
@@ -36240,24 +36544,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482165,
-            54.152375
+            -4.48216,
+            54.152391
           ],
           [
-            -4.482161,
-            54.152461
+            -4.482157,
+            54.152479
+          ],
+          [
+            -4.482071,
+            54.152477
           ],
           [
             -4.482074,
-            54.15246
+            54.152389
           ],
           [
-            -4.482076,
-            54.152372
-          ],
-          [
-            -4.482165,
-            54.152375
+            -4.48216,
+            54.152391
           ]
         ]
       },
@@ -36280,24 +36584,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ],
           [
-            -4.482161,
-            54.152461
+            -4.482157,
+            54.152479
           ],
           [
-            -4.482165,
-            54.152375
+            -4.48216,
+            54.152391
           ],
           [
-            -4.482271,
-            54.152376
+            -4.482267,
+            54.152393
           ],
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ]
         ]
       },
@@ -36403,6 +36707,7 @@
         "addr:postcode": "IM1 3AD",
         "addr:street": "Bucks Road",
         "building": "yes",
+        "check_date:currency:XBT": "2024-10-09",
         "cuisine": "breakfast;sandwich",
         "currency:XBT": "yes",
         "name": "Newsbeat",
@@ -36475,24 +36780,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481876,
-            54.152457
+            -4.481873,
+            54.152474
           ],
           [
-            -4.481781,
-            54.152456
+            -4.481777,
+            54.152473
           ],
           [
-            -4.481783,
-            54.152368
+            -4.481779,
+            54.152385
           ],
           [
-            -4.481878,
-            54.152369
+            -4.481875,
+            54.152386
           ],
           [
-            -4.481876,
-            54.152457
+            -4.481873,
+            54.152474
           ]
         ]
       },
@@ -36514,24 +36819,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481976,
-            54.152457
+            -4.481973,
+            54.152474
           ],
           [
-            -4.481876,
-            54.152457
+            -4.481873,
+            54.152474
           ],
           [
-            -4.481878,
-            54.152369
+            -4.481875,
+            54.152386
           ],
           [
-            -4.481978,
-            54.15237
+            -4.481975,
+            54.152387
           ],
           [
-            -4.481976,
-            54.152457
+            -4.481973,
+            54.152474
           ]
         ]
       },
@@ -56196,6 +56501,64 @@
     },
     {
       "type": "Feature",
+      "id": 102734583,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.381852,
+            54.326187
+          ],
+          [
+            -4.381817,
+            54.32612
+          ],
+          [
+            -4.381781,
+            54.326053
+          ],
+          [
+            -4.381965,
+            54.326021
+          ],
+          [
+            -4.381975,
+            54.32604
+          ],
+          [
+            -4.3822,
+            54.326
+          ],
+          [
+            -4.382244,
+            54.326085
+          ],
+          [
+            -4.382019,
+            54.326125
+          ],
+          [
+            -4.382035,
+            54.326155
+          ],
+          [
+            -4.381852,
+            54.326187
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:flats": "1-21",
+        "addr:housename": "Isle of Alanis",
+        "addr:postcode": "IM8 3AJ",
+        "addr:street": "Mooragh Promenade",
+        "building": "apartments"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 102734588,
       "geometry": {
         "type": "LineString",
@@ -56300,6 +56663,105 @@
         "addr:street": "Hope Street",
         "building": "residential",
         "source": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102734615,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.381861,
+            54.326231
+          ],
+          [
+            -4.381907,
+            54.326321
+          ],
+          [
+            -4.381953,
+            54.326411
+          ],
+          [
+            -4.38215,
+            54.326377
+          ],
+          [
+            -4.382058,
+            54.326197
+          ],
+          [
+            -4.381861,
+            54.326231
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:flats": "1-12",
+        "addr:housename": "The Waterfront",
+        "addr:postcode": "IM8 3AW",
+        "addr:street": "Mooragh Promenade",
+        "building": "apartments"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102734622,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.38116,
+            54.324907
+          ],
+          [
+            -4.381223,
+            54.325007
+          ],
+          [
+            -4.381392,
+            54.324971
+          ],
+          [
+            -4.381377,
+            54.324948
+          ],
+          [
+            -4.381509,
+            54.324919
+          ],
+          [
+            -4.381474,
+            54.324864
+          ],
+          [
+            -4.381349,
+            54.32489
+          ],
+          [
+            -4.381336,
+            54.324869
+          ],
+          [
+            -4.38116,
+            54.324907
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:country": "IM",
+        "addr:housename": "Bleak House",
+        "addr:postcode": "IM8 3AB",
+        "addr:street": "Mooragh Promenade",
+        "building": "yes",
+        "disused:amenity": "hotel",
+        "image": "https://www.geograph.org.uk/photo/7167645",
+        "old_name": "The Peveril",
+        "source:addr:housename": "geograph",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -72317,28 +72779,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ],
           [
-            -4.481437,
-            54.152559
+            -4.481423,
+            54.152562
           ],
           [
-            -4.481522,
-            54.152606
+            -4.481508,
+            54.152608
           ],
           [
-            -4.481628,
-            54.152543
+            -4.481614,
+            54.152546
           ],
           [
-            -4.481578,
-            54.152491
+            -4.481563,
+            54.152494
           ],
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ]
         ]
       },
@@ -72359,32 +72821,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481756,
-            54.152742
+            -4.481742,
+            54.152745
           ],
           [
-            -4.481845,
-            54.152799
+            -4.48183,
+            54.152796
           ],
           [
-            -4.481963,
-            54.152804
+            -4.481946,
+            54.152796
           ],
           [
-            -4.481962,
+            -4.481945,
+            54.152704
+          ],
+          [
+            -4.481944,
             54.152694
           ],
           [
-            -4.481899,
-            54.152656
+            -4.481948,
+            54.152621
           ],
           [
-            -4.481874,
-            54.152673
+            -4.481909,
+            54.152627
           ],
           [
-            -4.481756,
-            54.152742
+            -4.481906,
+            54.152647
+          ],
+          [
+            -4.481859,
+            54.152676
+          ],
+          [
+            -4.481742,
+            54.152745
           ]
         ]
       },
@@ -72865,28 +73339,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48173,
-            54.152426
+            -4.481715,
+            54.152429
           ],
           [
-            -4.481583,
-            54.152423
+            -4.481568,
+            54.152425
           ],
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ],
           [
-            -4.481439,
-            54.152354
+            -4.481425,
+            54.152357
           ],
           [
-            -4.481735,
-            54.152362
+            -4.48172,
+            54.152364
           ],
           [
-            -4.48173,
-            54.152426
+            -4.481715,
+            54.152429
           ]
         ]
       },
@@ -72911,40 +73385,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ],
           [
-            -4.481756,
-            54.152742
+            -4.481742,
+            54.152745
           ],
           [
-            -4.481874,
-            54.152673
+            -4.481859,
+            54.152676
           ],
           [
-            -4.481818,
-            54.15264
+            -4.481804,
+            54.152643
           ],
           [
-            -4.481839,
-            54.152628
+            -4.481824,
+            54.152631
           ],
           [
-            -4.481765,
-            54.152586
+            -4.481751,
+            54.152589
           ],
           [
-            -4.481732,
-            54.152605
+            -4.481718,
+            54.152608
           ],
           [
-            -4.481712,
-            54.152594
+            -4.481697,
+            54.152597
           ],
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ]
         ]
       },
@@ -72969,36 +73443,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481522,
-            54.152606
+            -4.481508,
+            54.152608
           ],
           [
-            -4.481607,
-            54.152655
+            -4.481593,
+            54.152658
           ],
           [
-            -4.481712,
-            54.152594
+            -4.481697,
+            54.152597
           ],
           [
-            -4.481805,
-            54.152539
+            -4.481791,
+            54.152541
           ],
           [
-            -4.481741,
-            54.152501
+            -4.481726,
+            54.152504
           ],
           [
-            -4.481649,
-            54.152555
+            -4.481634,
+            54.152558
           ],
           [
-            -4.481628,
-            54.152543
+            -4.481614,
+            54.152546
           ],
           [
-            -4.481522,
-            54.152606
+            -4.481508,
+            54.152608
           ]
         ]
       },
@@ -73019,24 +73493,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ],
           [
-            -4.481429,
-            54.152488
+            -4.481415,
+            54.15249
           ],
           [
-            -4.481578,
-            54.152491
+            -4.481563,
+            54.152494
           ],
           [
-            -4.481583,
-            54.152423
+            -4.481568,
+            54.152425
           ],
           [
-            -4.481434,
-            54.152419
+            -4.48142,
+            54.152422
           ]
         ]
       },
@@ -94847,7 +95321,7 @@
       "properties": {
         "addr:city": "Sulby",
         "addr:country": "IM",
-        "addr:postcode": "IM7 2BB",
+        "addr:postcode": "IM7 2HP",
         "addr:street": "Sulby Glen Road",
         "amenity": "place_of_worship",
         "building": "church",
@@ -94944,6 +95418,155 @@
         "source": "bing",
         "start_date": "1838",
         "url:registered_building": "https://www.gov.im/media/1348569/rb-171-a4.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 349336145,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491843,
+            54.320353
+          ],
+          [
+            -4.492167,
+            54.320352
+          ],
+          [
+            -4.492166,
+            54.320281
+          ],
+          [
+            -4.491923,
+            54.320282
+          ],
+          [
+            -4.491923,
+            54.320261
+          ],
+          [
+            -4.491786,
+            54.320262
+          ],
+          [
+            -4.491786,
+            54.320281
+          ],
+          [
+            -4.491753,
+            54.320281
+          ],
+          [
+            -4.491755,
+            54.320355
+          ],
+          [
+            -4.491803,
+            54.320355
+          ],
+          [
+            -4.491803,
+            54.32038
+          ],
+          [
+            -4.491721,
+            54.320381
+          ],
+          [
+            -4.491723,
+            54.320452
+          ],
+          [
+            -4.491723,
+            54.320462
+          ],
+          [
+            -4.491861,
+            54.320461
+          ],
+          [
+            -4.491859,
+            54.320378
+          ],
+          [
+            -4.491843,
+            54.320376
+          ],
+          [
+            -4.491843,
+            54.320353
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "alt_name": "Sulby Community Hall",
+        "amenity": "community_centre",
+        "building": "community_centre",
+        "community_centre": "parish_hall",
+        "name": "Lezayre Parish Community Hall",
+        "source": "bing",
+        "source:name": "streetside",
+        "tourism": "hostel",
+        "website": "http://www.lezayreparish.org/community_hall.htm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 361410121,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491967,
+            54.319314
+          ],
+          [
+            -4.49196,
+            54.319228
+          ],
+          [
+            -4.492093,
+            54.319224
+          ],
+          [
+            -4.492096,
+            54.319265
+          ],
+          [
+            -4.492065,
+            54.319265
+          ],
+          [
+            -4.492068,
+            54.319311
+          ],
+          [
+            -4.492025,
+            54.319312
+          ],
+          [
+            -4.491967,
+            54.319314
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "building": "yes",
+        "old_name": "Caley's General Store",
+        "source": "survey",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "source:geometry": "Bing",
+        "was:shop": "general;post_office"
       }
     },
     {
@@ -102968,7 +103591,7 @@
           ],
           [
             -4.479557,
-            54.151696
+            54.151699
           ],
           [
             -4.479549,
@@ -103026,7 +103649,7 @@
             54.151364
           ],
           [
-            -4.479313,
+            -4.479314,
             54.15136
           ],
           [
@@ -103084,9 +103707,50 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Trey Barbers",
-        "shop": "hairdresser",
-        "source": "Bing;photograph"
+        "name": "Island Inspirations",
+        "shop": "gift"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113939,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479139,
+            54.151504
+          ],
+          [
+            -4.479533,
+            54.151478
+          ],
+          [
+            -4.47954,
+            54.151513
+          ],
+          [
+            -4.479541,
+            54.151527
+          ],
+          [
+            -4.479145,
+            54.15155
+          ],
+          [
+            -4.479139,
+            54.151504
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "51",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
+        "name": "Bon Fabrics",
+        "shop": "fabric"
       }
     },
     {
@@ -103105,7 +103769,7 @@
           ],
           [
             -4.479621,
-            54.151969
+            54.151973
           ],
           [
             -4.479617,
@@ -103232,6 +103896,47 @@
     },
     {
       "type": "Feature",
+      "id": 419113948,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479548,
+            54.151567
+          ],
+          [
+            -4.479555,
+            54.151607
+          ],
+          [
+            -4.479158,
+            54.15163
+          ],
+          [
+            -4.479151,
+            54.151588
+          ],
+          [
+            -4.479548,
+            54.151567
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "55",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -103264,13 +103969,8 @@
         "addr:housenumber": "49",
         "addr:postcode": "IM1 3LB",
         "addr:street": "Strand Street",
-        "clothes": "dancewear",
-        "contact:email": "dancewearofdouglas@gmail.com",
-        "contact:facebook": "https://www.facebook.com/dancewearofdouglas",
-        "name": "Dancewear of Douglas",
-        "opening_hours": "Tu-Fr 10:00-17:00, Sa 09:30-17:30",
-        "phone": "+44 1624 626041",
-        "shop": "clothes",
+        "name": "Artificial Spaces",
+        "shop": "builders_merchant",
         "source": "photo"
       }
     },
@@ -103360,12 +104060,13 @@
         "addr:housenumber": "79",
         "addr:postcode": "IM1 2EN",
         "addr:street": "Strand Street",
+        "amenity": "fast_food",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Everest",
-        "shop": "yes",
+        "cuisine": "potato",
+        "name": "Terry's Tatos",
         "source": "Bing;photograph"
       }
     },
@@ -119174,6 +119875,279 @@
     },
     {
       "type": "Feature",
+      "id": 981865533,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448178,
+            54.179096
+          ],
+          [
+            -4.448307,
+            54.179032
+          ],
+          [
+            -4.4484,
+            54.179096
+          ],
+          [
+            -4.448271,
+            54.179161
+          ],
+          [
+            -4.448178,
+            54.179096
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865536,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448107,
+            54.179263
+          ],
+          [
+            -4.447994,
+            54.179228
+          ],
+          [
+            -4.448069,
+            54.179145
+          ],
+          [
+            -4.448182,
+            54.17918
+          ],
+          [
+            -4.448107,
+            54.179263
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865537,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447909,
+            54.179396
+          ],
+          [
+            -4.447938,
+            54.179294
+          ],
+          [
+            -4.44808,
+            54.179308
+          ],
+          [
+            -4.448051,
+            54.17941
+          ],
+          [
+            -4.447909,
+            54.179396
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865542,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449747,
+            54.180099
+          ],
+          [
+            -4.449924,
+            54.180106
+          ],
+          [
+            -4.449916,
+            54.180177
+          ],
+          [
+            -4.449739,
+            54.18017
+          ],
+          [
+            -4.449747,
+            54.180099
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865545,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449038,
+            54.179923
+          ],
+          [
+            -4.449168,
+            54.179984
+          ],
+          [
+            -4.449093,
+            54.180038
+          ],
+          [
+            -4.448963,
+            54.179977
+          ],
+          [
+            -4.449038,
+            54.179923
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865547,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448774,
+            54.179659
+          ],
+          [
+            -4.448875,
+            54.179769
+          ],
+          [
+            -4.448776,
+            54.1798
+          ],
+          [
+            -4.448674,
+            54.17969
+          ],
+          [
+            -4.448774,
+            54.179659
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865551,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448945,
+            54.179216
+          ],
+          [
+            -4.448782,
+            54.179277
+          ],
+          [
+            -4.448708,
+            54.17921
+          ],
+          [
+            -4.448872,
+            54.179149
+          ],
+          [
+            -4.448945,
+            54.179216
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865552,
       "geometry": {
         "type": "LineString",
@@ -119519,6 +120493,162 @@
         "addr:postcode": "IM3 4NQ",
         "addr:street": "Ballachrink Drive",
         "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865566,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448554,
+            54.180031
+          ],
+          [
+            -4.44843,
+            54.180073
+          ],
+          [
+            -4.448312,
+            54.179954
+          ],
+          [
+            -4.448436,
+            54.179912
+          ],
+          [
+            -4.448554,
+            54.180031
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448788,
+            54.180152
+          ],
+          [
+            -4.44867,
+            54.180205
+          ],
+          [
+            -4.448528,
+            54.180097
+          ],
+          [
+            -4.448646,
+            54.180044
+          ],
+          [
+            -4.448788,
+            54.180152
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865571,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449895,
+            54.180372
+          ],
+          [
+            -4.449879,
+            54.180453
+          ],
+          [
+            -4.449692,
+            54.180441
+          ],
+          [
+            -4.449708,
+            54.180359
+          ],
+          [
+            -4.449895,
+            54.180372
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 4NJ",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865572,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450195,
+            54.180457
+          ],
+          [
+            -4.449962,
+            54.180453
+          ],
+          [
+            -4.449966,
+            54.180374
+          ],
+          [
+            -4.450199,
+            54.180378
+          ],
+          [
+            -4.450195,
+            54.180457
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "30",
+        "addr:postcode": "IM3 4NH",
+        "addr:street": "Snaefell Crescent",
+        "building": "house",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -120826,6 +121956,103 @@
         "building": "industrial",
         "name": "Quayside Tyre and Service Centre",
         "shop": "tyres;car_repair"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1005856336,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474503,
+            54.16431
+          ],
+          [
+            -4.474394,
+            54.164245
+          ],
+          [
+            -4.474421,
+            54.16423
+          ],
+          [
+            -4.474435,
+            54.164238
+          ],
+          [
+            -4.474518,
+            54.164191
+          ],
+          [
+            -4.474582,
+            54.164229
+          ],
+          [
+            -4.474594,
+            54.164221
+          ],
+          [
+            -4.474625,
+            54.16424
+          ],
+          [
+            -4.474503,
+            54.16431
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Barnelles",
+        "addr:postcode": "IM2 4AF",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1005856346,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474328,
+            54.164153
+          ],
+          [
+            -4.474198,
+            54.164076
+          ],
+          [
+            -4.474265,
+            54.164037
+          ],
+          [
+            -4.474294,
+            54.164054
+          ],
+          [
+            -4.474397,
+            54.164115
+          ],
+          [
+            -4.474328,
+            54.164153
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Gordon House",
+        "addr:postcode": "IM2 4AF",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "name": "ICR Retail Systems",
+        "office": "yes",
+        "website": "https://icr.co.im/"
       }
     },
     {
@@ -130548,6 +131775,54 @@
     },
     {
       "type": "Feature",
+      "id": 1147081567,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477639,
+            54.159782
+          ],
+          [
+            -4.477597,
+            54.159855
+          ],
+          [
+            -4.477422,
+            54.159814
+          ],
+          [
+            -4.477455,
+            54.159765
+          ],
+          [
+            -4.477432,
+            54.15976
+          ],
+          [
+            -4.477448,
+            54.159737
+          ],
+          [
+            -4.477639,
+            54.159782
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Greenland House",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM2 4HE",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source:addr:housename": "streetside",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1147081568,
       "geometry": {
         "type": "LineString",
@@ -131527,6 +132802,44 @@
         "addr:substreet": "Woodlea Villas",
         "building": "house",
         "source:addr": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148598266,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.521545,
+            54.169339
+          ],
+          [
+            -4.521436,
+            54.169462
+          ],
+          [
+            -4.521119,
+            54.169367
+          ],
+          [
+            -4.521227,
+            54.169243
+          ],
+          [
+            -4.521545,
+            54.169339
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:country": "IM",
+        "addr:postcode": "IM4 4ND",
+        "addr:street": "Snugborough Avenue",
+        "building": "apartments",
+        "name": "Slieau Ree Apartments",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -134295,24 +135608,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ],
           [
-            -4.482361,
-            54.152464
+            -4.482357,
+            54.152481
           ],
           [
-            -4.482365,
-            54.152377
+            -4.48236,
+            54.152394
           ],
           [
-            -4.482271,
-            54.152376
+            -4.482267,
+            54.152393
           ],
           [
-            -4.482268,
-            54.152463
+            -4.482263,
+            54.15248
           ]
         ]
       },
@@ -134334,24 +135647,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482361,
-            54.152464
+            -4.482357,
+            54.152481
           ],
           [
-            -4.482456,
-            54.152465
+            -4.482452,
+            54.152482
           ],
           [
-            -4.482459,
-            54.152378
+            -4.482455,
+            54.152395
           ],
           [
-            -4.482365,
-            54.152377
+            -4.48236,
+            54.152394
           ],
           [
-            -4.482361,
-            54.152464
+            -4.482357,
+            54.152481
           ]
         ]
       },
@@ -134373,24 +135686,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482456,
-            54.152465
+            -4.482452,
+            54.152482
+          ],
+          [
+            -4.48254,
+            54.152483
           ],
           [
             -4.482543,
-            54.152466
+            54.152396
           ],
           [
-            -4.482548,
-            54.152381
+            -4.482455,
+            54.152395
           ],
           [
-            -4.482459,
-            54.152378
-          ],
-          [
-            -4.482456,
-            54.152465
+            -4.482452,
+            54.152482
           ]
         ]
       },
@@ -134412,24 +135725,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482543,
-            54.152466
+            -4.48254,
+            54.152483
           ],
           [
-            -4.482643,
-            54.152467
+            -4.482638,
+            54.152484
           ],
           [
-            -4.482647,
-            54.152382
-          ],
-          [
-            -4.482548,
-            54.152381
+            -4.482641,
+            54.152398
           ],
           [
             -4.482543,
-            54.152466
+            54.152396
+          ],
+          [
+            -4.48254,
+            54.152483
           ]
         ]
       },
@@ -134451,24 +135764,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482643,
-            54.152467
+            -4.482638,
+            54.152484
           ],
           [
-            -4.48274,
-            54.152468
+            -4.482733,
+            54.152485
           ],
           [
-            -4.482742,
-            54.152383
+            -4.482736,
+            54.152399
           ],
           [
-            -4.482647,
-            54.152382
+            -4.482641,
+            54.152398
           ],
           [
-            -4.482643,
-            54.152467
+            -4.482638,
+            54.152484
           ]
         ]
       },
@@ -134490,24 +135803,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48274,
-            54.152468
+            -4.482733,
+            54.152485
           ],
           [
-            -4.48284,
-            54.15247
+            -4.482833,
+            54.152486
           ],
           [
-            -4.48284,
-            54.152383
+            -4.482835,
+            54.1524
           ],
           [
-            -4.482742,
-            54.152383
+            -4.482736,
+            54.152399
           ],
           [
-            -4.48274,
-            54.152468
+            -4.482733,
+            54.152485
           ]
         ]
       },
@@ -134529,24 +135842,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48284,
-            54.15247
+            -4.482833,
+            54.152486
           ],
           [
-            -4.482926,
-            54.15247
+            -4.482921,
+            54.152487
           ],
           [
-            -4.482928,
-            54.152383
+            -4.482923,
+            54.1524
           ],
           [
-            -4.48284,
-            54.152383
+            -4.482835,
+            54.1524
           ],
           [
-            -4.48284,
-            54.15247
+            -4.482833,
+            54.152486
           ]
         ]
       },
@@ -134568,24 +135881,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.482926,
-            54.15247
+            -4.482921,
+            54.152487
           ],
           [
-            -4.483021,
-            54.152471
+            -4.483017,
+            54.152488
           ],
           [
-            -4.483023,
-            54.152383
+            -4.483018,
+            54.1524
           ],
           [
-            -4.482928,
-            54.152383
+            -4.482923,
+            54.1524
           ],
           [
-            -4.482926,
-            54.15247
+            -4.482921,
+            54.152487
           ]
         ]
       },
@@ -134607,24 +135920,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483021,
-            54.152471
+            -4.483017,
+            54.152488
           ],
           [
-            -4.48312,
-            54.152472
+            -4.483115,
+            54.152488
           ],
           [
-            -4.483122,
-            54.152384
+            -4.483117,
+            54.152401
           ],
           [
-            -4.483023,
-            54.152383
+            -4.483018,
+            54.1524
           ],
           [
-            -4.483021,
-            54.152471
+            -4.483017,
+            54.152488
           ]
         ]
       },
@@ -134646,28 +135959,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483122,
-            54.152384
+            -4.483117,
+            54.152401
           ],
           [
-            -4.48322,
-            54.152385
+            -4.483216,
+            54.152401
           ],
           [
-            -4.483221,
-            54.152433
+            -4.483215,
+            54.15245
           ],
           [
-            -4.48322,
-            54.152473
+            -4.483215,
+            54.152489
           ],
           [
-            -4.48312,
-            54.152472
+            -4.483115,
+            54.152488
           ],
           [
-            -4.483122,
-            54.152384
+            -4.483117,
+            54.152401
           ]
         ]
       },
@@ -155296,6 +156609,484 @@
         "house": "terraced",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321452690,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.502823,
+            54.345579
+          ],
+          [
+            -4.502712,
+            54.345616
+          ],
+          [
+            -4.502631,
+            54.345535
+          ],
+          [
+            -4.502742,
+            54.345497
+          ],
+          [
+            -4.502823,
+            54.345579
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Jurby",
+        "addr:housename": "Gollane Cottage",
+        "addr:postcode": "IM7 3AF",
+        "addr:street": "Clenagh Road",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321468666,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.503623,
+            54.317124
+          ],
+          [
+            -4.502678,
+            54.317428
+          ],
+          [
+            -4.502519,
+            54.317301
+          ],
+          [
+            -4.502267,
+            54.317211
+          ],
+          [
+            -4.502639,
+            54.317002
+          ],
+          [
+            -4.503127,
+            54.316847
+          ],
+          [
+            -4.503615,
+            54.316908
+          ],
+          [
+            -4.503623,
+            54.317124
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:housename": "Gob-y-Volley Depot",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "depot": "marine",
+        "industrial": "depot",
+        "landuse": "industrial",
+        "name": "Clever Marine Services",
+        "source": "streetside;bing",
+        "website": "https://www.clevermarine.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321468672,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49517,
+            54.318528
+          ],
+          [
+            -4.49472,
+            54.318576
+          ],
+          [
+            -4.494599,
+            54.318613
+          ],
+          [
+            -4.49456,
+            54.31857
+          ],
+          [
+            -4.494594,
+            54.318559
+          ],
+          [
+            -4.494572,
+            54.318536
+          ],
+          [
+            -4.494677,
+            54.318503
+          ],
+          [
+            -4.49474,
+            54.318497
+          ],
+          [
+            -4.494734,
+            54.318476
+          ],
+          [
+            -4.494993,
+            54.318448
+          ],
+          [
+            -4.494983,
+            54.318415
+          ],
+          [
+            -4.49513,
+            54.3184
+          ],
+          [
+            -4.49517,
+            54.318528
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:place": "Cooilbane",
+        "addr:postcode": "IM7 2HR",
+        "addr:street": "Sulby Main Road",
+        "building": "house",
+        "guest_house": "bed_and_breakfast",
+        "name": "Ballacowell",
+        "source": "streetside",
+        "tourism": "guest_house",
+        "website": "http://www.ballacowell.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1321472248,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492209,
+            54.320495
+          ],
+          [
+            -4.492061,
+            54.32051
+          ],
+          [
+            -4.492054,
+            54.320487
+          ],
+          [
+            -4.492027,
+            54.32049
+          ],
+          [
+            -4.492018,
+            54.320461
+          ],
+          [
+            -4.49204,
+            54.320459
+          ],
+          [
+            -4.492193,
+            54.320443
+          ],
+          [
+            -4.492209,
+            54.320495
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Sulby",
+        "addr:country": "IM",
+        "addr:housename": "The Elms",
+        "addr:postcode": "IM7 3AB",
+        "addr:street": "Clenagh Road",
+        "building": "semidetached_house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908882,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478895,
+            54.158716
+          ],
+          [
+            -4.478855,
+            54.158683
+          ],
+          [
+            -4.478968,
+            54.158636
+          ],
+          [
+            -4.479038,
+            54.158692
+          ],
+          [
+            -4.47899,
+            54.158713
+          ],
+          [
+            -4.478977,
+            54.158702
+          ],
+          [
+            -4.478947,
+            54.158715
+          ],
+          [
+            -4.478929,
+            54.158701
+          ],
+          [
+            -4.478895,
+            54.158716
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4ER",
+        "addr:street": "Victoria Road",
+        "building": "yes",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908886,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479925,
+            54.159385
+          ],
+          [
+            -4.479999,
+            54.159449
+          ],
+          [
+            -4.480019,
+            54.159466
+          ],
+          [
+            -4.480125,
+            54.159425
+          ],
+          [
+            -4.480032,
+            54.159343
+          ],
+          [
+            -4.479925,
+            54.159385
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Tudor Lodge",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908888,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479263,
+            54.158659
+          ],
+          [
+            -4.479206,
+            54.158611
+          ],
+          [
+            -4.479085,
+            54.158661
+          ],
+          [
+            -4.479116,
+            54.158687
+          ],
+          [
+            -4.479085,
+            54.1587
+          ],
+          [
+            -4.479111,
+            54.158722
+          ],
+          [
+            -4.479263,
+            54.158659
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908889,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479155,
+            54.158568
+          ],
+          [
+            -4.479033,
+            54.158618
+          ],
+          [
+            -4.479085,
+            54.158661
+          ],
+          [
+            -4.479206,
+            54.158611
+          ],
+          [
+            -4.479155,
+            54.158568
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1322908890,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479876,
+            54.159342
+          ],
+          [
+            -4.479925,
+            54.159385
+          ],
+          [
+            -4.480032,
+            54.159343
+          ],
+          [
+            -4.479983,
+            54.1593
+          ],
+          [
+            -4.479876,
+            54.159342
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323167006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450197,
+            54.178616
+          ],
+          [
+            -4.450161,
+            54.178564
+          ],
+          [
+            -4.450247,
+            54.178519
+          ],
+          [
+            -4.450323,
+            54.178577
+          ],
+          [
+            -4.450312,
+            54.178591
+          ],
+          [
+            -4.450197,
+            54.178616
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Ballachrink Stores",
+        "addr:postcode": "IM3 4NU",
+        "addr:street": "Ballachrink Drive",
+        "brand": "Costcutter",
+        "brand:wikidata": "Q5175072",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/Ballachrinkstores/",
+        "name": "Ballachrink Stores",
+        "operator": "Costcutter",
+        "shop": "convenience",
+        "website": "https://store-locator.costcutter.co.uk/costcutter-f5e2e1f3f1ac"
       }
     }
   ]

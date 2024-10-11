@@ -369,6 +369,7 @@
       "properties": {
         "defibrillator:location": "Outside of building to the right hand side of the main entrance",
         "emergency": "defibrillator",
+        "indoor": "no",
         "opening_hours": "24/7",
         "wheelchair": "yes"
       }
@@ -587,6 +588,7 @@
         "access": "yes",
         "defibrillator:location": "On the wall around the right hand corner from the main entrance to government offices",
         "emergency": "defibrillator",
+        "indoor": "no",
         "opening_hours": "24/7",
         "phone": "999"
       }
