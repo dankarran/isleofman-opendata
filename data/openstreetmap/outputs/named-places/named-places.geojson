@@ -5299,7 +5299,9 @@
       "properties": {
         "name": "Ballawill",
         "place": "farm",
+        "postal_code": "IM4 7NS",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393252,
         "lon": -4.411319,
         "lat": 54.248767,
@@ -10661,8 +10663,10 @@
       },
       "properties": {
         "name": "Ballacowle",
-        "place": "locality",
+        "place": "farm",
+        "postal_code": "IM4 7NP",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393953,
         "lon": -4.408669,
         "lat": 54.242302,
@@ -33980,6 +33984,10 @@
             54.145863
           ],
           [
+            -4.482298,
+            54.145861
+          ],
+          [
             -4.482179,
             54.145782
           ],
@@ -34044,8 +34052,8 @@
         "place": "estate",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 39895260,
-        "lon": -4.480711606297575,
-        "lat": 54.146269846194144,
+        "lon": -4.480711606330323,
+        "lat": 54.14626984614632,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/39895260"
       }

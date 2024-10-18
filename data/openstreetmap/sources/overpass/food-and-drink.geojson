@@ -6064,9 +6064,11 @@
         "listed_status": "registered",
         "name": "The Garrison",
         "old_name": "The Tap Room",
+        "opening_hours": "Mo-We,Su 09:00-11:00,12:00-20:00; Th-Sa 09:00-11:00,12:15-20:30",
         "real_ale": "yes",
         "ref:registered_building": "67",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "survey_date:opening_hours": "2024-10-13",
         "url:registered_building": "https://www.gov.im/media/631931/0500067regbldthegarisson.pdf",
         "wikidata": "Q118188617"
       }
@@ -10499,8 +10501,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "35",
+        "addr:postcode": "IM1 4LB",
         "addr:street": "North Quay",
         "amenity": "restaurant",
         "building": "yes",
@@ -10509,6 +10513,7 @@
         "building:material": "plaster",
         "name": "The Grand House",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
         "website": "https://grandhouse.im"
       }
     },
@@ -11071,7 +11076,7 @@
         "building:material": "plaster",
         "cuisine": "noodle",
         "name": "Time Out Noodle Bar",
-        "opening_hours": "Tu-Fr 12:00-15:00,17:00-21:00; Sa 17:00-22:00"
+        "opening_hours": "Tu-Fr 12:00-14:00,17:00-21:00; Sa 17:00-22:00"
       }
     },
     {
@@ -12041,8 +12046,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479182,
-            54.151792
+            -4.479183,
+            54.151798
           ],
           [
             -4.479193,
@@ -12053,12 +12058,12 @@
             54.151849
           ],
           [
-            -4.479576,
+            -4.479581,
             54.151783
           ],
           [
-            -4.479182,
-            54.151792
+            -4.479183,
+            54.151798
           ]
         ]
       },
@@ -12218,6 +12223,7 @@
         "building:material": "plaster",
         "cuisine": "potato",
         "name": "Terry's Tatos",
+        "opening_hours": "Mo-Sa 09:00-15:00",
         "source": "Bing;photograph"
       }
     },

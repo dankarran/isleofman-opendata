@@ -1141,7 +1141,6 @@
         "authentication:url": "https://charge.pod-point.com/",
         "authentication:website": "yes",
         "brand": "Pod Point",
-        "capacity": "2",
         "fee": "yes",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
@@ -1172,7 +1171,6 @@
         "authentication:url": "https://charge.pod-point.com/",
         "authentication:website": "yes",
         "brand": "Pod Point",
-        "capacity": "2",
         "fee": "yes",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
@@ -1578,6 +1576,70 @@
         "lat": 54.145928,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12214379079"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12248808098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479913,
+          54.153783
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "fee": "yes",
+        "layer": "2",
+        "level": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12248808098,
+        "lon": -4.479913,
+        "lat": 54.153783,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12248808098"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12248808099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479894,
+          54.153815
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "fee": "yes",
+        "layer": "2",
+        "level": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW",
+        "osm_id": 12248808099,
+        "lon": -4.479894,
+        "lat": 54.153815,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12248808099"
       }
     },
     {

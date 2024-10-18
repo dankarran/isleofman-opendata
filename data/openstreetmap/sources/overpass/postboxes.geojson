@@ -3253,6 +3253,26 @@
     },
     {
       "type": "Feature",
+      "id": 10313011211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.498908,
+          54.187477
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 10:45",
+        "operator": "Isle of Man Post Office",
+        "post_box:type": "lamp",
+        "ref": "91",
+        "ref_name": "Abbeylands",
+        "royal_cypher": "GVIR"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10313011212,
       "geometry": {
         "type": "Point",

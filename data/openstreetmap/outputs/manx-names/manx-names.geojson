@@ -128,8 +128,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.44846,
-          54.168333
+          -4.44847,
+          54.168325
         ]
       },
       "properties": {
@@ -143,8 +143,8 @@
         "wikidata": "Q7091954",
         "wikipedia": "en:Onchan Head railway station",
         "osm_id": 283492817,
-        "lon": -4.44846,
-        "lat": 54.168333,
+        "lon": -4.44847,
+        "lat": 54.168325,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283492817"
       }
@@ -2063,8 +2063,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.448499,
-          54.168349
+          -4.448508,
+          54.168343
         ]
       },
       "properties": {
@@ -2078,8 +2078,8 @@
         "wikidata": "Q7091954",
         "wikipedia": "en:Onchan Head railway station",
         "osm_id": 1494805132,
-        "lon": -4.448499,
-        "lat": 54.168349,
+        "lon": -4.448508,
+        "lat": 54.168343,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1494805132"
       }
@@ -10423,6 +10423,99 @@
     },
     {
       "type": "Feature",
+      "id": 25986199,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395112,
+            54.229037
+          ],
+          [
+            -4.395091,
+            54.228963
+          ],
+          [
+            -4.395066,
+            54.22889
+          ],
+          [
+            -4.395025,
+            54.2288
+          ],
+          [
+            -4.394903,
+            54.228609
+          ],
+          [
+            -4.394606,
+            54.228274
+          ],
+          [
+            -4.394096,
+            54.227963
+          ],
+          [
+            -4.393876,
+            54.227849
+          ],
+          [
+            -4.393181,
+            54.227496
+          ],
+          [
+            -4.392934,
+            54.227382
+          ],
+          [
+            -4.392735,
+            54.22728
+          ],
+          [
+            -4.392541,
+            54.227144
+          ],
+          [
+            -4.392321,
+            54.226966
+          ],
+          [
+            -4.392151,
+            54.226802
+          ],
+          [
+            -4.392093,
+            54.22674
+          ],
+          [
+            -4.392075,
+            54.226721
+          ],
+          [
+            -4.39203,
+            54.22667
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "ref": "B1",
+        "surface": "asphalt",
+        "osm_id": 25986199,
+        "lon": -4.393654473344037,
+        "lat": 54.227782885769095,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986199"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986205,
       "geometry": {
         "type": "LineString",
@@ -18028,6 +18121,110 @@
         "lat": 54.158856682820605,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987216"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987218,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.393159,
+            54.231754
+          ],
+          [
+            -4.393507,
+            54.231708
+          ],
+          [
+            -4.393895,
+            54.231657
+          ],
+          [
+            -4.394105,
+            54.231652
+          ],
+          [
+            -4.394448,
+            54.231645
+          ],
+          [
+            -4.394773,
+            54.231651
+          ],
+          [
+            -4.395054,
+            54.231689
+          ],
+          [
+            -4.395369,
+            54.231803
+          ],
+          [
+            -4.395596,
+            54.23191
+          ],
+          [
+            -4.395734,
+            54.231951
+          ],
+          [
+            -4.395941,
+            54.231949
+          ],
+          [
+            -4.396055,
+            54.231919
+          ],
+          [
+            -4.396163,
+            54.231851
+          ],
+          [
+            -4.396337,
+            54.231685
+          ],
+          [
+            -4.396564,
+            54.23142
+          ],
+          [
+            -4.396591,
+            54.231319
+          ],
+          [
+            -4.396597,
+            54.231296
+          ],
+          [
+            -4.396606,
+            54.231049
+          ],
+          [
+            -4.396591,
+            54.230734
+          ],
+          [
+            -4.39659,
+            54.230702
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Ballaragh Road",
+        "name:en": "Ballaragh Road",
+        "name:gv": "Bayr Vallaragh",
+        "ref": "B11",
+        "surface": "asphalt",
+        "osm_id": 25987218,
+        "lon": -4.395222264696826,
+        "lat": 54.231619621516764,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987218"
       }
     },
     {
@@ -31548,7 +31745,7 @@
         ]
       },
       "properties": {
-        "alt_name": "Queens Drive",
+        "alt_name": "Queen's Drive",
         "highway": "unclassified",
         "name": "Queen's Drive West",
         "name:en": "Queen's Drive West",
@@ -33247,6 +33444,105 @@
         "lat": 54.17807085958109,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988709"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988710,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.376952,
+            54.249536
+          ],
+          [
+            -4.377033,
+            54.249496
+          ],
+          [
+            -4.377058,
+            54.24948
+          ],
+          [
+            -4.377078,
+            54.249458
+          ],
+          [
+            -4.377105,
+            54.249409
+          ],
+          [
+            -4.377109,
+            54.249382
+          ],
+          [
+            -4.377103,
+            54.249365
+          ],
+          [
+            -4.377089,
+            54.249345
+          ],
+          [
+            -4.377065,
+            54.24933
+          ],
+          [
+            -4.377036,
+            54.249318
+          ],
+          [
+            -4.376997,
+            54.249309
+          ],
+          [
+            -4.376809,
+            54.249273
+          ],
+          [
+            -4.376668,
+            54.24924
+          ],
+          [
+            -4.376548,
+            54.249207
+          ],
+          [
+            -4.375799,
+            54.248907
+          ],
+          [
+            -4.37425,
+            54.248309
+          ],
+          [
+            -4.373055,
+            54.247841
+          ],
+          [
+            -4.372383,
+            54.247591
+          ],
+          [
+            -4.372274,
+            54.24752
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "name": "Ballaragh Road",
+        "name:en": "Ballaragh Road",
+        "name:gv": "Bayr Vallaragh",
+        "ref": "B11",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 25988710,
+        "lon": -4.374790380721848,
+        "lat": 54.248517419442365,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988710"
       }
     },
     {
@@ -44295,25 +44591,113 @@
     },
     {
       "type": "Feature",
+      "id": 28639956,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480019,
+            54.148985
+          ],
+          [
+            -4.479985,
+            54.149178
+          ],
+          [
+            -4.479974,
+            54.149231
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "maxspeed": "30 mph",
+        "name": "Thomas Street",
+        "name:en": "Thomas Street",
+        "name:gv": "Straid Thomaase",
+        "oneway": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 28639956,
+        "lon": -4.479997130322662,
+        "lat": 54.149108120902774,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/28639956"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28640395,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480137,
+            54.149663
+          ],
+          [
+            -4.480113,
+            54.149603
+          ],
+          [
+            -4.480059,
+            54.149524
+          ],
+          [
+            -4.479987,
+            54.149454
+          ],
+          [
+            -4.479934,
+            54.149379
+          ],
+          [
+            -4.479917,
+            54.149345
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "commercial",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxlength": "14",
+        "maxlength:conditional": "none @ destination",
+        "maxspeed": "30 mph",
+        "maxweight": "32520 kg",
+        "maxweight:conditional": "none @ destination",
+        "name": "Thomas Street",
+        "name:en": "Thomas Street",
+        "name:gv": "Straid Thomaase",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt",
+        "osm_id": 28640395,
+        "lon": -4.4800311262255805,
+        "lat": 54.14950167026884,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/28640395"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 28640396,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.479467,
-            54.153537
+            -4.479438,
+            54.153623
           ],
           [
             -4.479527,
             54.153331
           ],
           [
-            -4.479632,
-            54.153071
+            -4.479593,
+            54.153164
           ],
           [
-            -4.479736,
-            54.152955
+            -4.479716,
+            54.152939
           ],
           [
             -4.479797,
@@ -44352,8 +44736,8 @@
             54.151734
           ],
           [
-            -4.479885,
-            54.151355
+            -4.479889,
+            54.151342
           ],
           [
             -4.479977,
@@ -44409,8 +44793,8 @@
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "asphalt",
         "osm_id": 28640396,
-        "lon": -4.479823748338543,
-        "lat": 54.15174798021764,
+        "lon": -4.479814636931429,
+        "lat": 54.1517879849383,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/28640396"
       }
@@ -50903,8 +51287,6 @@
         ]
       },
       "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "4",
         "highway": "primary",
         "maxspeed": "30 mph",
         "name": "Ballaquayle Road",
@@ -51278,12 +51660,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479736,
-            54.152955
+            -4.479716,
+            54.152939
           ],
           [
-            -4.479572,
-            54.1529
+            -4.479459,
+            54.152896
           ],
           [
             -4.479204,
@@ -51302,8 +51684,8 @@
         "name:gv": "Lhoan Raad Y Chibbyr",
         "surface": "paving_stones",
         "osm_id": 39990372,
-        "lon": -4.479423219921941,
-        "lat": 54.15290348291306,
+        "lon": -4.479410973913738,
+        "lat": 54.15290321329473,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/39990372"
       }
@@ -51924,11 +52306,11 @@
             54.151207
           ],
           [
-            -4.479079,
-            54.151356
+            -4.479074,
+            54.151362
           ],
           [
-            -4.479169,
+            -4.479155,
             54.151921
           ],
           [
@@ -51951,8 +52333,8 @@
         "oneway": "yes",
         "surface": "paving_stones",
         "osm_id": 41153134,
-        "lon": -4.479146118693024,
-        "lat": 54.151929519853525,
+        "lon": -4.479138741931417,
+        "lat": 54.15193034897384,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/41153134"
       }
@@ -66074,8 +66456,8 @@
             54.167353
           ],
           [
-            -4.448499,
-            54.168349
+            -4.448508,
+            54.168343
           ],
           [
             -4.447833,
@@ -66814,8 +67196,8 @@
         "railway": "light_rail",
         "voltage": "550",
         "osm_id": 145322134,
-        "lon": -4.4387071372899305,
-        "lat": 54.171070850182474,
+        "lon": -4.4387071582301,
+        "lat": 54.17107087366771,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/145322134"
       }
@@ -78068,8 +78450,8 @@
             54.168634
           ],
           [
-            -4.44846,
-            54.168333
+            -4.44847,
+            54.168325
           ],
           [
             -4.44962,
@@ -78344,8 +78726,8 @@
         "railway": "light_rail",
         "voltage": "550",
         "osm_id": 167540470,
-        "lon": -4.438934304113764,
-        "lat": 54.17100421266087,
+        "lon": -4.438934309961847,
+        "lat": 54.171004218945,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167540470"
       }
@@ -82940,6 +83322,88 @@
     },
     {
       "type": "Feature",
+      "id": 233925323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.385424,
+            54.231507
+          ],
+          [
+            -4.385531,
+            54.231473
+          ],
+          [
+            -4.385639,
+            54.231463
+          ],
+          [
+            -4.385787,
+            54.231464
+          ],
+          [
+            -4.386126,
+            54.231558
+          ],
+          [
+            -4.386562,
+            54.231635
+          ],
+          [
+            -4.38732,
+            54.231743
+          ],
+          [
+            -4.387377,
+            54.231751
+          ],
+          [
+            -4.388342,
+            54.231873
+          ],
+          [
+            -4.38922,
+            54.231904
+          ],
+          [
+            -4.389867,
+            54.231909
+          ],
+          [
+            -4.390891,
+            54.231904
+          ],
+          [
+            -4.391791,
+            54.231863
+          ],
+          [
+            -4.392447,
+            54.231804
+          ],
+          [
+            -4.393159,
+            54.231754
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "name": "Ballaragh Road",
+        "name:en": "Ballaragh Road",
+        "name:gv": "Bayr Vallaragh",
+        "ref": "B11",
+        "surface": "asphalt",
+        "osm_id": 233925323,
+        "lon": -4.389278757881662,
+        "lat": 54.23179348123528,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/233925323"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 233926121,
       "geometry": {
         "type": "LineString",
@@ -83071,6 +83535,293 @@
         "lat": 54.196758695116216,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/234951310"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235063247,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.372274,
+            54.24752
+          ],
+          [
+            -4.372193,
+            54.24743
+          ],
+          [
+            -4.372163,
+            54.247343
+          ],
+          [
+            -4.372174,
+            54.247262
+          ],
+          [
+            -4.372221,
+            54.247156
+          ],
+          [
+            -4.372314,
+            54.246979
+          ],
+          [
+            -4.372524,
+            54.2467
+          ],
+          [
+            -4.372711,
+            54.246508
+          ],
+          [
+            -4.372997,
+            54.246285
+          ],
+          [
+            -4.373543,
+            54.246033
+          ],
+          [
+            -4.374159,
+            54.245776
+          ],
+          [
+            -4.374466,
+            54.245636
+          ],
+          [
+            -4.374658,
+            54.245561
+          ],
+          [
+            -4.374893,
+            54.245437
+          ],
+          [
+            -4.375082,
+            54.245323
+          ],
+          [
+            -4.37521,
+            54.245207
+          ],
+          [
+            -4.375362,
+            54.245022
+          ],
+          [
+            -4.375648,
+            54.244699
+          ],
+          [
+            -4.375969,
+            54.244426
+          ],
+          [
+            -4.37622,
+            54.244218
+          ],
+          [
+            -4.37647,
+            54.243999
+          ],
+          [
+            -4.376657,
+            54.243766
+          ],
+          [
+            -4.376848,
+            54.243502
+          ],
+          [
+            -4.37712,
+            54.243035
+          ],
+          [
+            -4.377243,
+            54.24288
+          ],
+          [
+            -4.377262,
+            54.242855
+          ],
+          [
+            -4.3774,
+            54.242682
+          ],
+          [
+            -4.377531,
+            54.242533
+          ],
+          [
+            -4.377881,
+            54.242255
+          ],
+          [
+            -4.378701,
+            54.241541
+          ],
+          [
+            -4.37907,
+            54.241136
+          ],
+          [
+            -4.379459,
+            54.240707
+          ],
+          [
+            -4.379754,
+            54.240176
+          ],
+          [
+            -4.380267,
+            54.2396
+          ],
+          [
+            -4.380295,
+            54.239558
+          ],
+          [
+            -4.380611,
+            54.23917
+          ],
+          [
+            -4.380854,
+            54.238445
+          ],
+          [
+            -4.381,
+            54.238127
+          ],
+          [
+            -4.381099,
+            54.237877
+          ],
+          [
+            -4.381161,
+            54.237379
+          ],
+          [
+            -4.381187,
+            54.237199
+          ],
+          [
+            -4.381197,
+            54.237009
+          ],
+          [
+            -4.381226,
+            54.236817
+          ],
+          [
+            -4.381266,
+            54.236666
+          ],
+          [
+            -4.381475,
+            54.236339
+          ],
+          [
+            -4.381608,
+            54.236146
+          ],
+          [
+            -4.381731,
+            54.236034
+          ],
+          [
+            -4.381963,
+            54.235871
+          ],
+          [
+            -4.382163,
+            54.235741
+          ],
+          [
+            -4.38234,
+            54.235587
+          ],
+          [
+            -4.38242,
+            54.23535
+          ],
+          [
+            -4.38244,
+            54.235201
+          ],
+          [
+            -4.382427,
+            54.235033
+          ],
+          [
+            -4.382469,
+            54.234815
+          ],
+          [
+            -4.382555,
+            54.234642
+          ],
+          [
+            -4.382632,
+            54.2345
+          ],
+          [
+            -4.382764,
+            54.234307
+          ],
+          [
+            -4.383001,
+            54.234026
+          ],
+          [
+            -4.383504,
+            54.233393
+          ],
+          [
+            -4.38368,
+            54.233203
+          ],
+          [
+            -4.383922,
+            54.232986
+          ],
+          [
+            -4.384268,
+            54.232604
+          ],
+          [
+            -4.384629,
+            54.232227
+          ],
+          [
+            -4.385045,
+            54.23177
+          ],
+          [
+            -4.38528,
+            54.231589
+          ],
+          [
+            -4.385424,
+            54.231507
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "secondary",
+        "name": "Ballaragh Road",
+        "name:en": "Ballaragh Road",
+        "name:gv": "Bayr Vallaragh",
+        "ref": "B11",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 235063247,
+        "lon": -4.379134729260216,
+        "lat": 54.239871873252866,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/235063247"
       }
     },
     {
@@ -84678,6 +85429,10 @@
             54.168104
           ],
           [
+            -4.448405,
+            54.1683
+          ],
+          [
             -4.448064,
             54.16859
           ],
@@ -84729,8 +85484,8 @@
         "ref": "A11",
         "surface": "asphalt",
         "osm_id": 262071530,
-        "lon": -4.448570573943166,
-        "lat": 54.16818563971464,
+        "lon": -4.4485706158089,
+        "lat": 54.16818568887179,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/262071530"
       }
@@ -87175,10 +87930,12 @@
         "name": "Derby Castle Terminus",
         "name:gv": "Kione-Stashoon Chashtal Derby",
         "network": "Manx Electric Railway",
+        "nohousenumber": "yes",
         "operator": "Isle of Man Transport",
         "public_transport": "station",
         "railway": "station",
         "shop": "ticket",
+        "wheelchair": "no",
         "wikidata": "Q5261425",
         "wikipedia": "en:Derby Castle terminus",
         "osm_id": 433774879,
@@ -92401,8 +93158,8 @@
             54.153712
           ],
           [
-            -4.479467,
-            54.153537
+            -4.479438,
+            54.153623
           ]
         ]
       },
@@ -92418,8 +93175,8 @@
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "paving_stones",
         "osm_id": 463711623,
-        "lon": -4.479302086582091,
-        "lat": 54.15401550379339,
+        "lon": -4.4792869587623505,
+        "lat": 54.1540580251168,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/463711623"
       }
@@ -108706,6 +109463,110 @@
     },
     {
       "type": "Feature",
+      "id": 1166234816,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479917,
+            54.149345
+          ],
+          [
+            -4.47988,
+            54.149291
+          ],
+          [
+            -4.479862,
+            54.149273
+          ],
+          [
+            -4.479812,
+            54.149248
+          ],
+          [
+            -4.479708,
+            54.149221
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "commercial",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxlength": "14",
+        "maxlength:conditional": "none @ destination",
+        "maxspeed": "30 mph",
+        "maxweight": "32520 kg",
+        "maxweight:conditional": "none @ destination",
+        "name": "Thomas Street",
+        "name:en": "Thomas Street",
+        "name:gv": "Straid Thomaase",
+        "oneway": "yes",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt",
+        "osm_id": 1166234816,
+        "lon": -4.47982369818832,
+        "lat": 54.14926646859833,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1166234816"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1166234817,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480165,
+            54.149235
+          ],
+          [
+            -4.480029,
+            54.14925
+          ],
+          [
+            -4.479991,
+            54.149256
+          ],
+          [
+            -4.47996,
+            54.149268
+          ],
+          [
+            -4.479941,
+            54.14929
+          ],
+          [
+            -4.479917,
+            54.149345
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "commercial",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxlength": "14",
+        "maxlength:conditional": "none @ destination",
+        "maxspeed": "30 mph",
+        "maxweight": "32520 kg",
+        "maxweight:conditional": "none @ destination",
+        "name": "Thomas Street",
+        "name:en": "Thomas Street",
+        "name:gv": "Straid Thomaase",
+        "oneway": "yes",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt",
+        "osm_id": 1166234817,
+        "lon": -4.480024000146066,
+        "lat": 54.14926472270187,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1166234817"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1167746883,
       "geometry": {
         "type": "LineString",
@@ -109871,6 +110732,52 @@
         "lat": 54.23328392450719,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1181781852"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1181781854,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.39659,
+            54.230702
+          ],
+          [
+            -4.39659,
+            54.230658
+          ],
+          [
+            -4.396588,
+            54.230643
+          ],
+          [
+            -4.396575,
+            54.230593
+          ],
+          [
+            -4.396542,
+            54.230514
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "30 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "ref": "B1",
+        "sidewalk:left": "separate",
+        "surface": "asphalt",
+        "osm_id": 1181781854,
+        "lon": -4.396573956315645,
+        "lat": 54.23060627771461,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1181781854"
       }
     },
     {
@@ -112830,6 +113737,247 @@
     },
     {
       "type": "Feature",
+      "id": 1199233992,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.396542,
+            54.230514
+          ],
+          [
+            -4.39652,
+            54.230477
+          ],
+          [
+            -4.396507,
+            54.230455
+          ],
+          [
+            -4.396438,
+            54.230363
+          ],
+          [
+            -4.396407,
+            54.230327
+          ],
+          [
+            -4.396348,
+            54.230259
+          ],
+          [
+            -4.396276,
+            54.230194
+          ],
+          [
+            -4.396203,
+            54.23012
+          ],
+          [
+            -4.396129,
+            54.230061
+          ],
+          [
+            -4.39605,
+            54.230013
+          ],
+          [
+            -4.395995,
+            54.229983
+          ],
+          [
+            -4.395948,
+            54.22997
+          ],
+          [
+            -4.395919,
+            54.229962
+          ],
+          [
+            -4.395842,
+            54.229954
+          ],
+          [
+            -4.395722,
+            54.229954
+          ],
+          [
+            -4.395527,
+            54.229958
+          ],
+          [
+            -4.395365,
+            54.229948
+          ],
+          [
+            -4.395186,
+            54.229927
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "ref": "B1",
+        "sidewalk:left": "yes",
+        "surface": "asphalt",
+        "osm_id": 1199233992,
+        "lon": -4.395932137982769,
+        "lat": 54.23008499744869,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1199233992"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1199233999,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395186,
+            54.229927
+          ],
+          [
+            -4.395076,
+            54.229912
+          ],
+          [
+            -4.394999,
+            54.229895
+          ],
+          [
+            -4.394936,
+            54.22987
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "ref": "B1",
+        "sidewalk:both": "yes",
+        "surface": "asphalt",
+        "osm_id": 1199233999,
+        "lon": -4.395059373165092,
+        "lat": 54.22990486978958,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1199233999"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1199234000,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.394868,
+            54.229816
+          ],
+          [
+            -4.394856,
+            54.229804
+          ],
+          [
+            -4.39484,
+            54.229768
+          ],
+          [
+            -4.394835,
+            54.229727
+          ],
+          [
+            -4.394849,
+            54.229687
+          ],
+          [
+            -4.394874,
+            54.22966
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "priority": "backward",
+        "ref": "B1",
+        "surface": "asphalt",
+        "osm_id": 1199234000,
+        "lon": -4.394848262256881,
+        "lat": 54.229736971424146,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1199234000"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1199234002,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.394874,
+            54.22966
+          ],
+          [
+            -4.394919,
+            54.229624
+          ],
+          [
+            -4.394967,
+            54.229582
+          ],
+          [
+            -4.395034,
+            54.229508
+          ],
+          [
+            -4.395116,
+            54.229366
+          ],
+          [
+            -4.395131,
+            54.229319
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "priority": "backward",
+        "ref": "B1",
+        "sidewalk:right": "yes",
+        "surface": "asphalt",
+        "osm_id": 1199234002,
+        "lon": -4.395020345435028,
+        "lat": 54.22950263246125,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1199234002"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1203489059,
       "geometry": {
         "type": "LineString",
@@ -114251,6 +115399,89 @@
         "lat": 54.085009,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1214423608"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249659057,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395131,
+            54.229319
+          ],
+          [
+            -4.395135,
+            54.22927
+          ],
+          [
+            -4.395132,
+            54.229203
+          ],
+          [
+            -4.395122,
+            54.22911
+          ],
+          [
+            -4.395112,
+            54.229037
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "ref": "B1",
+        "sidewalk:right": "yes",
+        "surface": "asphalt",
+        "osm_id": 1249659057,
+        "lon": -4.395126979173718,
+        "lat": 54.22917778884085,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1249659057"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249659058,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.394936,
+            54.22987
+          ],
+          [
+            -4.394888,
+            54.22984
+          ],
+          [
+            -4.394868,
+            54.229816
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "secondary",
+        "lanes": "2",
+        "maxspeed": "20 mph",
+        "name": "Minorca Hill",
+        "name:en": "Minorca Hill",
+        "name:gv": "Cronk Minorca",
+        "ref": "B1",
+        "surface": "asphalt",
+        "osm_id": 1249659058,
+        "lon": -4.3948999083005225,
+        "lat": 54.22984539776806,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1249659058"
       }
     },
     {

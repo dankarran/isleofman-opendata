@@ -1951,8 +1951,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479165,
+            -4.479147,
             54.151676
+          ],
+          [
+            -4.479153,
+            54.151713
           ],
           [
             -4.47917,
@@ -1967,7 +1971,7 @@
             54.151657
           ],
           [
-            -4.479165,
+            -4.479147,
             54.151676
           ]
         ]
@@ -1981,13 +1985,14 @@
         "building:levels": "2",
         "charity": "yes",
         "name": "Crossroads Care",
+        "opening_hours": "Mo-Sa 10:00-17:00",
         "ref:charity": "383",
         "shop": "charity",
         "source": "Bing;photograph",
         "website": "https://www.crossroadsiom.org/",
         "osm_id": 419113935,
-        "lon": -4.479361486796615,
-        "lat": 54.15168626205269,
+        "lon": -4.479352707220095,
+        "lat": 54.15168637531228,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113935"
       }

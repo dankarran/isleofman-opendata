@@ -165,37 +165,20 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Atholl House",
         "addr:housenumber": "29-31",
+        "addr:postcode": "IM1 1AR",
         "addr:street": "Hope Street",
         "name": "Callow Matthewman & Co.",
         "office": "accountant",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 1069189745,
         "lon": -4.48573,
         "lat": 54.148864,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1069189745"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1069189753,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.485537,
-          54.148948
-        ]
-      },
-      "properties": {
-        "name": "OSM Copiers",
-        "office": "printer",
-        "osm_id": 1069189753,
-        "lon": -4.485537,
-        "lat": 54.148948,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1069189753"
       }
     },
     {
@@ -6836,29 +6819,95 @@
     },
     {
       "type": "Feature",
+      "id": 420028933,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479629,
+            54.149161
+          ],
+          [
+            -4.479476,
+            54.149159
+          ],
+          [
+            -4.479455,
+            54.149143
+          ],
+          [
+            -4.479458,
+            54.149082
+          ],
+          [
+            -4.479486,
+            54.14901
+          ],
+          [
+            -4.479514,
+            54.149001
+          ],
+          [
+            -4.479655,
+            54.14902
+          ],
+          [
+            -4.479638,
+            54.149064
+          ],
+          [
+            -4.479629,
+            54.149161
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "45",
+        "addr:street": "Victoria Street",
+        "building": "office",
+        "building:colour": "yellow",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "IMGold",
+        "office": "company",
+        "osm_id": 420028933,
+        "lon": -4.479554005697591,
+        "lat": 54.14908436616695,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/420028933"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 420028934,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.479987,
-            54.14904
+            -4.479989,
+            54.149037
           ],
           [
             -4.479961,
             54.14916
           ],
           [
-            -4.479845,
+            -4.479824,
             54.14916
           ],
           [
-            -4.479868,
-            54.149035
+            -4.479854,
+            54.149018
           ],
           [
-            -4.479987,
-            54.14904
+            -4.479963,
+            54.14902
+          ],
+          [
+            -4.479989,
+            54.149037
           ]
         ]
       },
@@ -6871,58 +6920,15 @@
         "building:colour": "slategrey",
         "building:levels": "4",
         "building:material": "plaster",
+        "contact:website": "https://www.blackgracecowley.com/",
         "name": "Black Grace Cowley",
         "office": "estate_agent",
         "shop": "estate_agent",
-        "website": "https://www.blackgracecowley.com/",
         "osm_id": 420028934,
-        "lon": -4.479914805838945,
-        "lat": 54.14909834674545,
+        "lon": -4.47990522984762,
+        "lat": 54.14909157987519,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420028934"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 420028935,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.480201,
-            54.149164
-          ],
-          [
-            -4.480117,
-            54.149163
-          ],
-          [
-            -4.480139,
-            54.14902
-          ],
-          [
-            -4.480223,
-            54.14902
-          ],
-          [
-            -4.480201,
-            54.149164
-          ]
-        ]
-      },
-      "properties": {
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "4",
-        "building:material": "plaster",
-        "name": "Carter Moon",
-        "office": "estate_agent",
-        "shop": "estate_agent",
-        "osm_id": 420028935,
-        "lon": -4.4801700904301,
-        "lat": 54.149091751470856,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/420028935"
       }
     },
     {
@@ -7030,13 +7036,17 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Queen Victoria House",
+        "addr:housenumber": "41-43",
         "addr:postcode": "IM1 2LF",
         "addr:street": "Victoria Street",
         "building": "office",
         "building:levels": "5",
         "building:material": "plaster",
-        "name": "Eagle Labs",
-        "office": "coworking",
+        "contact:email": "info@cth.insure",
+        "contact:phone": "+44 1624 808080",
+        "contact:website": "https://cth.insure/",
+        "name": "cth.insure",
+        "office": "insurance",
         "source": "survey",
         "osm_id": 420028941,
         "lon": -4.4792470157146065,
@@ -7052,48 +7062,115 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479845,
+            -4.479824,
             54.14916
           ],
           [
-            -4.479741,
-            54.14916
+            -4.479724,
+            54.149161
           ],
           [
-            -4.479754,
-            54.149071
+            -4.47973,
+            54.149076
           ],
           [
-            -4.479762,
-            54.149013
+            -4.479747,
+            54.149031
           ],
           [
-            -4.479875,
-            54.149014
+            -4.479753,
+            54.149016
           ],
           [
-            -4.479868,
-            54.149035
+            -4.479854,
+            54.149018
           ],
           [
-            -4.479845,
+            -4.479824,
             54.14916
           ]
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "49",
+        "addr:postcode": "IM1 2LD",
+        "addr:street": "Victoria Street",
         "building": "office",
         "building:colour": "yellow",
         "building:levels": "4",
         "building:material": "plaster",
+        "contact:email": "enquiries@mannbenham.com",
+        "contact:phone": "+44 1624 639350",
+        "contact:website": "https://mannbenham.com/",
         "description": "\"Advocates, solicitors, notaries\"",
         "name": "Mann Benham",
         "office": "lawyer",
         "osm_id": 420028944,
-        "lon": -4.479805721838293,
-        "lat": 54.14908537957896,
+        "lon": -4.479786738235449,
+        "lat": 54.14908824296872,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420028944"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 420028947,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479724,
+            54.149161
+          ],
+          [
+            -4.479629,
+            54.149161
+          ],
+          [
+            -4.479638,
+            54.149064
+          ],
+          [
+            -4.479655,
+            54.14902
+          ],
+          [
+            -4.479747,
+            54.149031
+          ],
+          [
+            -4.47973,
+            54.149076
+          ],
+          [
+            -4.479724,
+            54.149161
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Victoria Chambers",
+        "addr:housenumber": "47",
+        "addr:postcode": "IM1 2LD",
+        "addr:street": "Victoria Street",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "contact:email": "info@lklaw.co.im",
+        "contact:fax": "+44 1624 611893",
+        "contact:phone": "+44 1624 611933",
+        "contact:website": "https://www.laurencekeenan.com/",
+        "name": "Laurence Keenan Advocates & Solicitors",
+        "office": "lawyer",
+        "osm_id": 420028947,
+        "lon": -4.479684988049774,
+        "lat": 54.14909294095509,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/420028947"
       }
     },
     {
@@ -7322,6 +7399,7 @@
         "level": "1",
         "name": "Deanwood",
         "office": "estate_agent",
+        "opening_hours": "Mo-Th 09:00-17:30, Fr 09:00-17:15",
         "website": "https://www.deanwood.im/",
         "osm_id": 540218373,
         "lon": -4.652503584408531,

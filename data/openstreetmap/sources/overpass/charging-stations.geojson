@@ -961,7 +961,6 @@
         "authentication:url": "https://charge.pod-point.com/",
         "authentication:website": "yes",
         "brand": "Pod Point",
-        "capacity": "2",
         "fee": "yes",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
@@ -987,7 +986,6 @@
         "authentication:url": "https://charge.pod-point.com/",
         "authentication:website": "yes",
         "brand": "Pod Point",
-        "capacity": "2",
         "fee": "yes",
         "operator": "Pod Point",
         "operator:wikidata": "Q42888154",
@@ -1322,6 +1320,60 @@
         "ref": "PG-99723",
         "ref_name": "Milo-Aida",
         "socket:type2": "1",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12248808098,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479913,
+          54.153783
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "fee": "yes",
+        "layer": "2",
+        "level": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
+        "socket:type2:output": "7 kW"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12248808099,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.479894,
+          54.153815
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "authentication:app": "yes",
+        "authentication:none": "no",
+        "authentication:url": "https://charge.pod-point.com/",
+        "authentication:website": "yes",
+        "brand": "Pod Point",
+        "fee": "yes",
+        "layer": "2",
+        "level": "2",
+        "operator": "Pod Point",
+        "operator:wikidata": "Q42888154",
+        "operator:wikipedia": "en:Pod Point",
+        "socket:type2": "2",
         "socket:type2:output": "7 kW"
       }
     },

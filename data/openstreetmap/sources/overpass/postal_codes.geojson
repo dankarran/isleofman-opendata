@@ -943,6 +943,24 @@
     },
     {
       "type": "Feature",
+      "id": 475393252,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.411319,
+          54.248767
+        ]
+      },
+      "properties": {
+        "name": "Ballawill",
+        "place": "farm",
+        "postal_code": "IM4 7NS",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393256,
       "geometry": {
         "type": "Point",
@@ -1834,6 +1852,24 @@
         "postal_code": "IM4 2LB",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393953,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.408669,
+          54.242302
+        ]
+      },
+      "properties": {
+        "name": "Ballacowle",
+        "place": "farm",
+        "postal_code": "IM4 7NP",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -5504,6 +5540,37 @@
         "maxspeed": "30 mph",
         "name": "Mount Morrison",
         "postal_code": "IM5 1PN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986015,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.394435,
+            54.230518
+          ],
+          [
+            -4.394844,
+            54.22994
+          ],
+          [
+            -4.394936,
+            54.22987
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Minorca Vale",
+        "name:en": "Minorca Vale",
+        "postal_code": "IM4 7DZ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -9748,6 +9815,40 @@
     },
     {
       "type": "Feature",
+      "id": 25986697,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475733,
+            54.174964
+          ],
+          [
+            -4.475604,
+            54.174859
+          ],
+          [
+            -4.475447,
+            54.174855
+          ],
+          [
+            -4.475147,
+            54.174947
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Hillberry Meadows",
+        "postal_code": "IM2 7BJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986698,
       "geometry": {
         "type": "LineString",
@@ -9822,6 +9923,31 @@
         "maxspeed": "20 mph",
         "name": "Mourne View Road",
         "postal_code": "IM5 1UW",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986720,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474525,
+            54.174478
+          ],
+          [
+            -4.474468,
+            54.174407
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Hillberry Meadows",
+        "postal_code": "IM2 7BJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -10400,6 +10526,84 @@
         "name": "Falcon Cliff Terrace",
         "postal_code": "IM2 4AU;IM2 4AY",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986891,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.391499,
+            54.229781
+          ],
+          [
+            -4.391592,
+            54.229855
+          ],
+          [
+            -4.392024,
+            54.229885
+          ],
+          [
+            -4.392095,
+            54.229885
+          ],
+          [
+            -4.392284,
+            54.229884
+          ],
+          [
+            -4.392534,
+            54.229867
+          ],
+          [
+            -4.392726,
+            54.229874
+          ],
+          [
+            -4.392848,
+            54.229902
+          ],
+          [
+            -4.392902,
+            54.229923
+          ],
+          [
+            -4.392931,
+            54.229958
+          ],
+          [
+            -4.392954,
+            54.230016
+          ],
+          [
+            -4.39293,
+            54.230211
+          ],
+          [
+            -4.392935,
+            54.230301
+          ],
+          [
+            -4.392952,
+            54.230402
+          ],
+          [
+            -4.392937,
+            54.230478
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Upper Cronk Orry",
+        "name:en": "Upper Cronk Orry",
+        "postal_code": "IM4 7QR",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -13353,6 +13557,40 @@
         "maxspeed": "20 mph",
         "name": "Gorsecroft",
         "postal_code": "IM2 7DZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987319,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477261,
+            54.175716
+          ],
+          [
+            -4.476849,
+            54.175765
+          ],
+          [
+            -4.476584,
+            54.175778
+          ],
+          [
+            -4.47646,
+            54.175764
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk-Y-Berry Mews",
+        "postal_code": "IM2 6HQ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -17367,6 +17605,32 @@
     },
     {
       "type": "Feature",
+      "id": 25987929,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476954,
+            54.175196
+          ],
+          [
+            -4.47599,
+            54.175226
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk-Y-Berry View",
+        "postal_code": "IM2 6HH",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987931,
       "geometry": {
         "type": "LineString",
@@ -20385,6 +20649,64 @@
     },
     {
       "type": "Feature",
+      "id": 25988532,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475075,
+            54.175085
+          ],
+          [
+            -4.475147,
+            54.174947
+          ],
+          [
+            -4.475039,
+            54.174855
+          ],
+          [
+            -4.474825,
+            54.174776
+          ],
+          [
+            -4.474575,
+            54.174717
+          ],
+          [
+            -4.474282,
+            54.174692
+          ],
+          [
+            -4.474225,
+            54.174596
+          ],
+          [
+            -4.47426,
+            54.174487
+          ],
+          [
+            -4.474468,
+            54.174407
+          ],
+          [
+            -4.474553,
+            54.174374
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Hillberry Meadows",
+        "postal_code": "IM2 7BJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988538,
       "geometry": {
         "type": "LineString",
@@ -22062,6 +22384,69 @@
     },
     {
       "type": "Feature",
+      "id": 25988754,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.398334,
+            54.229034
+          ],
+          [
+            -4.398143,
+            54.229023
+          ],
+          [
+            -4.397333,
+            54.228978
+          ],
+          [
+            -4.39681,
+            54.228944
+          ],
+          [
+            -4.396183,
+            54.228891
+          ],
+          [
+            -4.396053,
+            54.228894
+          ],
+          [
+            -4.395626,
+            54.228924
+          ],
+          [
+            -4.39547,
+            54.22895
+          ],
+          [
+            -4.395162,
+            54.229025
+          ],
+          [
+            -4.395142,
+            54.22903
+          ],
+          [
+            -4.395112,
+            54.229037
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "lanes": "1",
+        "maxspeed": "20 mph",
+        "name": "Quarry Road",
+        "postal_code": "IM4 7DU",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988770,
       "geometry": {
         "type": "LineString",
@@ -22208,6 +22593,36 @@
         "highway": "residential",
         "name": "Templar Terrace",
         "postal_code": "IM8 3DP",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988786,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47411,
+            54.174909
+          ],
+          [
+            -4.474025,
+            54.174792
+          ],
+          [
+            -4.473932,
+            54.174704
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Hillberry Meadows",
+        "postal_code": "IM2 7BJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -25462,6 +25877,10 @@
             54.158592
           ],
           [
+            -4.728724,
+            54.1585
+          ],
+          [
             -4.728791,
             54.158443
           ]
@@ -25803,6 +26222,40 @@
         "name": "Groudle View",
         "postal_code": "IM3 2EX;IM3 2EY",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989414,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4076,
+            54.238532
+          ],
+          [
+            -4.407811,
+            54.23851
+          ],
+          [
+            -4.407971,
+            54.238483
+          ],
+          [
+            -4.408536,
+            54.238297
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxspeed": "30 mph",
+        "name": "Wheel Hill",
+        "postal_code": "IM4 7NL",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -27109,6 +27562,32 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989634,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474282,
+            54.174692
+          ],
+          [
+            -4.474025,
+            54.174792
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Hillberry Meadows",
+        "postal_code": "IM2 7BJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -41915,70 +42394,6 @@
     },
     {
       "type": "Feature",
-      "id": 419070482,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479015,
-            54.150791
-          ],
-          [
-            -4.479039,
-            54.150885
-          ],
-          [
-            -4.47962,
-            54.15086
-          ],
-          [
-            -4.479615,
-            54.150827
-          ],
-          [
-            -4.479647,
-            54.150804
-          ],
-          [
-            -4.479638,
-            54.150752
-          ],
-          [
-            -4.479602,
-            54.150754
-          ],
-          [
-            -4.479549,
-            54.150758
-          ],
-          [
-            -4.479015,
-            54.150791
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "21-25",
-        "addr:postcode": "IM1 2EF",
-        "addr:street": "Strand Street",
-        "brand": "Waterstones",
-        "brand:wikidata": "Q151779",
-        "brand:wikipedia": "en:Waterstones",
-        "building": "retail",
-        "building:levels": "3",
-        "building:material": "brick",
-        "name": "Waterstones",
-        "postal_code": "IM1 2EF",
-        "roof:levels": "1",
-        "shop": "books",
-        "source": "Bing;photograph",
-        "website": "https://www.waterstones.com/bookshops/douglas"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113931,
       "geometry": {
         "type": "LineString",
@@ -42014,51 +42429,16 @@
         "addr:housenumber": "67",
         "addr:street": "Strand Street",
         "building": "retail",
+        "check_date:currency:XBT": "2024-10-08",
+        "currency:XBT": "yes",
         "name": "The Boredroom",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+447624248667",
         "postal_code": "IM1 2EN",
-        "shop": "clothes"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419113940,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479352,
-            54.152405
-          ],
-          [
-            -4.479473,
-            54.152404
-          ],
-          [
-            -4.479469,
-            54.152332
-          ],
-          [
-            -4.479239,
-            54.152335
-          ],
-          [
-            -4.479239,
-            54.152406
-          ],
-          [
-            -4.479352,
-            54.152405
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housename": "Strand Shopping Centre",
-        "addr:street": "Strand Street",
-        "check_date": "2024-09-29",
-        "old_name": "Jessops",
-        "postal_code": "IM1 2EF",
-        "shop": "vacant"
+        "shop": "clothes",
+        "website": "https://theboredroom.store/"
       }
     },
     {
@@ -42101,49 +42481,6 @@
         "name": "Ali's Gadget",
         "postal_code": "IM1 2EJ",
         "shop": "gift"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 419113942,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479176,
-            54.151752
-          ],
-          [
-            -4.479182,
-            54.151792
-          ],
-          [
-            -4.479576,
-            54.151783
-          ],
-          [
-            -4.479578,
-            54.151738
-          ],
-          [
-            -4.479176,
-            54.151752
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "63",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "2",
-        "building:material": "plaster",
-        "name": "Lexicon",
-        "postal_code": "IM1 2RL",
-        "shop": "books",
-        "source": "Bing;photograph",
-        "website": "https://www.lexiconbookshop.co.im/"
       }
     },
     {
@@ -47798,9 +48135,14 @@
         ]
       },
       "properties": {
-        "area": "yes",
-        "fixme": "Needs verification. Nearby properties use IM8 3UN, and fields don't normally get postcodes. Land transactions suggest IM8 3UP relates to Vollan Crescent.",
-        "postal_code": "IM8 3UP"
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Vollan Fields",
+        "note": "original area created with postal_code IM8 3UP",
+        "operator": "Hartford Homes",
+        "postal_code": "IM7 4EA",
+        "ref:planning": "23/00744/B",
+        "source:postal_code": "Isle of Man Government Planning Applications"
       }
     },
     {

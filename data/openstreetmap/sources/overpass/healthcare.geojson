@@ -2318,6 +2318,62 @@
     },
     {
       "type": "Feature",
+      "id": 419950955,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480193,
+            54.149302
+          ],
+          [
+            -4.480194,
+            54.149364
+          ],
+          [
+            -4.48026,
+            54.149427
+          ],
+          [
+            -4.480331,
+            54.149392
+          ],
+          [
+            -4.480298,
+            54.149352
+          ],
+          [
+            -4.480301,
+            54.149306
+          ],
+          [
+            -4.480193,
+            54.149302
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM1 3PZ",
+        "addr:street": "Victoria Street",
+        "building": "yes",
+        "building:colour": "darkblue",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "contact:email": "info@elite.im",
+        "contact:phone": "+44 1624 620474",
+        "contact:website": "https://www.elite.im/",
+        "healthcare": "dentist",
+        "name": "Elite Medical",
+        "roof:levels": "1",
+        "shop": "beauty",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 765929809,
       "geometry": {
         "type": "LineString",
@@ -3153,6 +3209,49 @@
         "healthcare:speciality": "general;dermatology",
         "name": "Athol Health",
         "opening_hours": "09:30-17:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1324194638,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48011,
+            54.149162
+          ],
+          [
+            -4.480026,
+            54.149161
+          ],
+          [
+            -4.480044,
+            54.149028
+          ],
+          [
+            -4.480133,
+            54.14902
+          ],
+          [
+            -4.48011,
+            54.149162
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "53",
+        "addr:street": "Victoria Street",
+        "amenity": "clinic",
+        "contact:email": "secretary@entr.im",
+        "contact:phone": "+44 7624 306026",
+        "contact:website": "https://www.entr.im/",
+        "fixme": "floor no.",
+        "healthcare": "clinic",
+        "healthcare:speciality": "otolaryngology",
+        "name": "ENTr"
       }
     }
   ]

@@ -6989,9 +6989,11 @@
         "listed_status": "registered",
         "name": "The Garrison",
         "old_name": "The Tap Room",
+        "opening_hours": "Mo-We,Su 09:00-11:00,12:00-20:00; Th-Sa 09:00-11:00,12:15-20:30",
         "real_ale": "yes",
         "ref:registered_building": "67",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "survey_date:opening_hours": "2024-10-13",
         "url:registered_building": "https://www.gov.im/media/631931/0500067regbldthegarisson.pdf",
         "wikidata": "Q118188617",
         "osm_id": 100443843,
@@ -11844,8 +11846,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "35",
+        "addr:postcode": "IM1 4LB",
         "addr:street": "North Quay",
         "amenity": "restaurant",
         "building": "yes",
@@ -11854,6 +11858,7 @@
         "building:material": "plaster",
         "name": "The Grand House",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
         "website": "https://grandhouse.im",
         "osm_id": 410363359,
         "lon": -4.4795331132556475,
@@ -12466,7 +12471,7 @@
         "building:material": "plaster",
         "cuisine": "noodle",
         "name": "Time Out Noodle Bar",
-        "opening_hours": "Tu-Fr 12:00-15:00,17:00-21:00; Sa 17:00-22:00",
+        "opening_hours": "Tu-Fr 12:00-14:00,17:00-21:00; Sa 17:00-22:00",
         "osm_id": 414616168,
         "lon": -4.654261214043488,
         "lat": 54.07370943544522,
@@ -13531,8 +13536,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479182,
-            54.151792
+            -4.479183,
+            54.151798
           ],
           [
             -4.479193,
@@ -13543,12 +13548,12 @@
             54.151849
           ],
           [
-            -4.479576,
+            -4.479581,
             54.151783
           ],
           [
-            -4.479182,
-            54.151792
+            -4.479183,
+            54.151798
           ]
         ]
       },
@@ -13572,8 +13577,8 @@
         "source": "Bing;photograph",
         "takeaway": "yes",
         "osm_id": 419113934,
-        "lon": -4.4793830861446855,
-        "lat": 54.151821455831566,
+        "lon": -4.479385765158922,
+        "lat": 54.15182277578427,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113934"
       }
@@ -13723,6 +13728,7 @@
         "building:material": "plaster",
         "cuisine": "potato",
         "name": "Terry's Tatos",
+        "opening_hours": "Mo-Sa 09:00-15:00",
         "source": "Bing;photograph",
         "osm_id": 419113951,
         "lon": -4.479348788005594,

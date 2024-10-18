@@ -650,34 +650,6 @@
     },
     {
       "type": "Feature",
-      "id": 727751263,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478999,
-          54.15253
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "88",
-        "addr:postcode": "IM1 2EN",
-        "addr:street": "Strand Street",
-        "brand": "Monsoon",
-        "brand:wikidata": "Q65007501",
-        "name": "Monsoon",
-        "shop": "clothes",
-        "source": "photo",
-        "website": "https://www.monsoon.co.uk/",
-        "osm_id": 727751263,
-        "lon": -4.478999,
-        "lat": 54.15253,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/727751263"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 727751264,
       "geometry": {
         "type": "Point",
@@ -1558,34 +1530,6 @@
     },
     {
       "type": "Feature",
-      "id": 4179606352,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479004,
-          54.152499
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "88",
-        "addr:postcode": "IM1 2EN",
-        "addr:street": "Strand Street",
-        "brand": "Accessorize",
-        "brand:wikidata": "Q65007482",
-        "name": "Accessorize",
-        "shop": "fashion_accessories",
-        "website": "https://www.accessorize.com/uk",
-        "osm_id": 4179606352,
-        "lon": -4.479004,
-        "lat": 54.152499,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/4179606352"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 4192384337,
       "geometry": {
         "type": "Point",
@@ -2192,34 +2136,6 @@
     },
     {
       "type": "Feature",
-      "id": 10049659863,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478733,
-          54.149114
-        ]
-      },
-      "properties": {
-        "check_date:currency:XBT": "2024-10-08",
-        "currency:XBT": "yes",
-        "name": "The Boredroom",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624248667",
-        "shop": "clothes",
-        "survey:date": "2022-09-24",
-        "website": "https://theboredroom.store/",
-        "osm_id": 10049659863,
-        "lon": -4.478733,
-        "lat": 54.149114,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10049659863"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10074774594,
       "geometry": {
         "type": "Point",
@@ -2746,27 +2662,6 @@
         "lat": 54.175103,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10716557905"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10739762017,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479041,
-          54.149718
-        ]
-      },
-      "properties": {
-        "name": "Magazzino",
-        "opening_hours": "Mo-Fr 09:00-17:30",
-        "shop": "interior_decoration",
-        "osm_id": 10739762017,
-        "lon": -4.479041,
-        "lat": 54.149718,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10739762017"
       }
     },
     {
@@ -3709,6 +3604,7 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housename": "Victoria Buildings",
         "addr:housenumber": "22",
         "addr:postcode": "IM8 1AP",
         "addr:street": "Parliament Street",
@@ -3799,35 +3695,6 @@
         "lat": 54.346981,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11889014217"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 11889062920,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479306,
-          54.152368
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "Strand Shopping Centre",
-        "addr:postcode": "IM1 2ER",
-        "addr:street": "Strand Street",
-        "addr:unit": "1A",
-        "brand": "Leonidas",
-        "brand:wikidata": "Q80335",
-        "fixme": "check which unit it's in",
-        "name": "Leonidas",
-        "shop": "chocolate",
-        "source": "Isle of Man Government Companies Registry;social media",
-        "osm_id": 11889062920,
-        "lon": -4.479306,
-        "lat": 54.152368,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/11889062920"
       }
     },
     {
@@ -5894,11 +5761,16 @@
       },
       "properties": {
         "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AH",
         "addr:street": "Harcourt Drive",
+        "addr:unit": "F3",
         "building": "yes",
         "name": "Jason Griffiths",
         "shop": "motorcycle",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.jasongriffiths.im",
         "osm_id": 59995963,
         "lon": -4.629161556199084,
         "lat": 54.092988720162516,
@@ -6747,8 +6619,8 @@
             54.151372
           ],
           [
-            -4.479114,
-            54.151356
+            -4.479115,
+            54.15136
           ],
           [
             -4.479102,
@@ -6856,8 +6728,8 @@
         "source": "Bing;photograph",
         "website": "https://www.tkmaxx.com/uk/en/store/316",
         "osm_id": 62091772,
-        "lon": -4.479486275723456,
-        "lat": 54.15122138041695,
+        "lon": -4.479486279127343,
+        "lat": 54.15122137989524,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62091772"
       }
@@ -19971,11 +19843,14 @@
       "properties": {
         "addr:country": "IM",
         "addr:housenumber": "21",
+        "addr:postcode": "IM1 4LE",
         "addr:street": "North Quay",
+        "contact:facebook": "https://www.facebook.com/AppointmentAt21/",
         "name": "appointment at 21",
         "phone": "+44 1624 611187",
         "shop": "beauty",
         "source": "photo",
+        "source:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 410386597,
         "lon": -4.482159024779581,
         "lat": 54.14788276171425,
@@ -20629,16 +20504,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478844,
-            54.152541
+            -4.478809,
+            54.152543
           ],
           [
             -4.479147,
             54.152552
           ],
           [
-            -4.479149,
-            54.152599
+            -4.479145,
+            54.152598
           ],
           [
             -4.479103,
@@ -20649,20 +20524,16 @@
             54.152598
           ],
           [
-            -4.478849,
-            54.152569
-          ],
-          [
-            -4.478813,
-            54.15257
+            -4.478848,
+            54.152572
           ],
           [
             -4.478809,
-            54.152542
+            54.152571
           ],
           [
-            -4.478844,
-            54.152541
+            -4.478809,
+            54.152543
           ]
         ]
       },
@@ -20679,8 +20550,8 @@
         "source": "Bing;photograph",
         "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 415157488,
-        "lon": -4.478978523531271,
-        "lat": 54.152571500965024,
+        "lon": -4.47897711292697,
+        "lat": 54.152572096705505,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/415157488"
       }
@@ -21762,7 +21633,11 @@
             54.151647
           ],
           [
-            -4.479075,
+            -4.47907,
+            54.151638
+          ],
+          [
+            -4.47908,
             54.151638
           ],
           [
@@ -21777,10 +21652,11 @@
         "building:material": "plaster",
         "building:part": "yes",
         "name": "Eclipse",
+        "opening_hours": "Mo-Fr 10:00-16:00, Sa 10:00-17:00, Su 12:00-16:00",
         "shop": "clothes",
         "osm_id": 417401587,
-        "lon": -4.478979548457287,
-        "lat": 54.15167190413737,
+        "lon": -4.478980639645401,
+        "lat": 54.15167154406222,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/417401587"
       }
@@ -21972,7 +21848,7 @@
             54.15158
           ],
           [
-            -4.479075,
+            -4.47907,
             54.151638
           ],
           [
@@ -22013,8 +21889,8 @@
         "shop": "cannabis",
         "source": "Bing;photograph",
         "osm_id": 417401596,
-        "lon": -4.478854118728005,
-        "lat": 54.15162085768504,
+        "lon": -4.478852709477056,
+        "lat": 54.15162075472642,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/417401596"
       }
@@ -22184,7 +22060,7 @@
         "coordinates": [
           [
             -4.478784,
-            54.152476
+            54.152475
           ],
           [
             -4.478771,
@@ -22199,12 +22075,12 @@
             54.152482
           ],
           [
-            -4.478833,
+            -4.478811,
             54.152475
           ],
           [
             -4.478784,
-            54.152476
+            54.152475
           ]
         ]
       },
@@ -22226,8 +22102,8 @@
         "source": "Bing;photograph",
         "website": "https://www.riverisland.com/how-can-we-help/find-a-store/isle-of-man",
         "osm_id": 417401605,
-        "lon": -4.478961906962195,
-        "lat": 54.15243553621611,
+        "lon": -4.4789621085161,
+        "lat": 54.1524355487653,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/417401605"
       }
@@ -23164,6 +23040,78 @@
     },
     {
       "type": "Feature",
+      "id": 419070448,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479232,
+            54.150677
+          ],
+          [
+            -4.479068,
+            54.150682
+          ],
+          [
+            -4.479069,
+            54.150707
+          ],
+          [
+            -4.479001,
+            54.150708
+          ],
+          [
+            -4.479015,
+            54.150791
+          ],
+          [
+            -4.479549,
+            54.150758
+          ],
+          [
+            -4.479532,
+            54.150655
+          ],
+          [
+            -4.479531,
+            54.150634
+          ],
+          [
+            -4.479385,
+            54.150637
+          ],
+          [
+            -4.479229,
+            54.150641
+          ],
+          [
+            -4.479232,
+            54.150677
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "21",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "name": "Asia's Best Choice",
+        "opening_hours": "Mo-Th 09:00-21:00, Fr-Sa 09:00-20:00, Su 11:00-19:00",
+        "shop": "supermarket",
+        "source": "Bing;photograph",
+        "osm_id": 419070448,
+        "lon": -4.479276859793725,
+        "lat": 54.15071502092232,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419070448"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419070457,
       "geometry": {
         "type": "LineString",
@@ -23638,12 +23586,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM1 2ED",
+        "addr:street": "Strand Street",
         "building": "retail",
         "building:colour": "cream",
         "building:levels": "2",
         "building:material": "plaster",
         "description": "vacant",
         "name": "Magazzino",
+        "opening_hours": "Mo-Sa 09:30-17:00, Su 12:00-16:00",
         "shop": "interior_decoration",
         "source": "Bing;photograph",
         "osm_id": 419070479,
@@ -23700,7 +23654,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "21-25",
+        "addr:housenumber": "23-25",
         "addr:postcode": "IM1 2EF",
         "addr:street": "Strand Street",
         "brand": "Waterstones",
@@ -23710,7 +23664,6 @@
         "building:levels": "3",
         "building:material": "brick",
         "name": "Waterstones",
-        "postal_code": "IM1 2EF",
         "roof:levels": "1",
         "shop": "books",
         "source": "Bing;photograph",
@@ -23759,9 +23712,16 @@
         "addr:housenumber": "67",
         "addr:street": "Strand Street",
         "building": "retail",
+        "check_date:currency:XBT": "2024-10-08",
+        "currency:XBT": "yes",
         "name": "The Boredroom",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+447624248667",
         "postal_code": "IM1 2EN",
         "shop": "clothes",
+        "website": "https://theboredroom.store/",
         "osm_id": 419113931,
         "lon": -4.479405656074855,
         "lat": 54.15189041769034,
@@ -23829,7 +23789,11 @@
             54.15163
           ],
           [
-            -4.479165,
+            -4.47914,
+            54.151632
+          ],
+          [
+            -4.479147,
             54.151676
           ],
           [
@@ -23880,8 +23844,8 @@
         "source": "Bing;photograph",
         "website": "https://www.clarks.com/en-gb/store-locator/UnitedKingdom/DOUGLAS/2563",
         "osm_id": 419113933,
-        "lon": -4.479424780090967,
-        "lat": 54.15163995088824,
+        "lon": -4.479416251122527,
+        "lat": 54.1516402324506,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113933"
       }
@@ -23893,8 +23857,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479165,
+            -4.479147,
             54.151676
+          ],
+          [
+            -4.479153,
+            54.151713
           ],
           [
             -4.47917,
@@ -23909,7 +23877,7 @@
             54.151657
           ],
           [
-            -4.479165,
+            -4.479147,
             54.151676
           ]
         ]
@@ -23923,13 +23891,14 @@
         "building:levels": "2",
         "charity": "yes",
         "name": "Crossroads Care",
+        "opening_hours": "Mo-Sa 10:00-17:00",
         "ref:charity": "383",
         "shop": "charity",
         "source": "Bing;photograph",
         "website": "https://www.crossroadsiom.org/",
         "osm_id": 419113935,
-        "lon": -4.479361486796615,
-        "lat": 54.15168626205269,
+        "lon": -4.479352707220095,
+        "lat": 54.15168637531228,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/419113935"
       }
@@ -24122,7 +24091,10 @@
         "addr:housenumber": "51",
         "addr:postcode": "IM1 2EJ",
         "addr:street": "Strand Street",
+        "contact:phone": "+44 1624 611856",
+        "contact:website": "https://www.bonfabrics.im/",
         "name": "Bon Fabrics",
+        "opening_hours": "Mo-Fr 09:00-17:00, Sa 10:00-17:00, Su,PH off",
         "shop": "fabric",
         "osm_id": 419113939,
         "lon": -4.479340285335292,
@@ -24164,13 +24136,18 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
         "addr:street": "Strand Street",
+        "addr:unit": "1A",
+        "brand": "Leonidas",
+        "brand:wikidata": "Q80335",
         "check_date": "2024-09-29",
-        "old_name": "Jessops",
-        "postal_code": "IM1 2EF",
-        "shop": "vacant",
+        "name": "Leonidas",
+        "shop": "chocolate",
+        "source": "Isle of Man Government Companies Registry;social media",
         "osm_id": 419113940,
         "lon": -4.479355218786295,
         "lat": 54.15236947600724,
@@ -24227,54 +24204,6 @@
     },
     {
       "type": "Feature",
-      "id": 419113942,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479176,
-            54.151752
-          ],
-          [
-            -4.479182,
-            54.151792
-          ],
-          [
-            -4.479576,
-            54.151783
-          ],
-          [
-            -4.479578,
-            54.151738
-          ],
-          [
-            -4.479176,
-            54.151752
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "63",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "building:colour": "white",
-        "building:levels": "2",
-        "building:material": "plaster",
-        "name": "Lexicon",
-        "postal_code": "IM1 2RL",
-        "shop": "books",
-        "source": "Bing;photograph",
-        "website": "https://www.lexiconbookshop.co.im/",
-        "osm_id": 419113942,
-        "lon": -4.479379028133134,
-        "lat": 54.15176602385079,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/419113942"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113943,
       "geometry": {
         "type": "LineString",
@@ -24309,7 +24238,7 @@
         "building": "retail",
         "cuisine": "pie",
         "name": "Morgan's Bakery",
-        "opening_hours": "07:30+",
+        "opening_hours": "08:30+",
         "shop": "bakery",
         "source": "Bing;photograph",
         "osm_id": 419113943,
@@ -24458,6 +24387,9 @@
         "addr:housenumber": "49",
         "addr:postcode": "IM1 3LB",
         "addr:street": "Strand Street",
+        "contact:phone": "+44 7624 233381",
+        "contact:website": "https://www.artificialspaces.im/",
+        "description": "Specialist building & landscaping products",
         "name": "Artificial Spaces",
         "shop": "builders_merchant",
         "source": "photo",
@@ -25022,17 +24954,20 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "34",
-        "addr:postcode": "IM1 2LB",
+        "addr:postcode": "IM1 3PZ",
         "addr:street": "Victoria Street",
         "building": "yes",
         "building:colour": "darkblue",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "The Cosmetic Medical Centre",
+        "contact:email": "info@elite.im",
+        "contact:phone": "+44 1624 620474",
+        "contact:website": "https://www.elite.im/",
+        "healthcare": "dentist",
+        "name": "Elite Medical",
         "roof:levels": "1",
         "shop": "beauty",
         "source": "Bing;photograph",
-        "website": "https://www.cosmeticmedicaldental.com",
         "osm_id": 419950955,
         "lon": -4.480257531295258,
         "lat": 54.149356862176155,
@@ -25281,24 +25216,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479987,
-            54.14904
+            -4.479989,
+            54.149037
           ],
           [
             -4.479961,
             54.14916
           ],
           [
-            -4.479845,
+            -4.479824,
             54.14916
           ],
           [
-            -4.479868,
-            54.149035
+            -4.479854,
+            54.149018
           ],
           [
-            -4.479987,
-            54.14904
+            -4.479963,
+            54.14902
+          ],
+          [
+            -4.479989,
+            54.149037
           ]
         ]
       },
@@ -25311,13 +25250,13 @@
         "building:colour": "slategrey",
         "building:levels": "4",
         "building:material": "plaster",
+        "contact:website": "https://www.blackgracecowley.com/",
         "name": "Black Grace Cowley",
         "office": "estate_agent",
         "shop": "estate_agent",
-        "website": "https://www.blackgracecowley.com/",
         "osm_id": 420028934,
-        "lon": -4.479914805838945,
-        "lat": 54.14909834674545,
+        "lon": -4.47990522984762,
+        "lat": 54.14909157987519,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420028934"
       }
@@ -25333,16 +25272,16 @@
             54.149164
           ],
           [
-            -4.480117,
-            54.149163
+            -4.48011,
+            54.149162
           ],
           [
-            -4.480139,
+            -4.480133,
             54.14902
           ],
           [
-            -4.480223,
-            54.14902
+            -4.480225,
+            54.149017
           ],
           [
             -4.480201,
@@ -25351,16 +25290,24 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "55",
+        "addr:postcode": "IM1 2LA",
+        "addr:street": "Victoria Street",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "Carter Moon",
-        "office": "estate_agent",
-        "shop": "estate_agent",
+        "contact:email": "hello@amazingvacations.co.im",
+        "contact:phone": "+44 1624 626299",
+        "contact:website": "https://amazingvacations.co.im/",
+        "name": "Amazing Vacations",
+        "opening_hours": "Mo-Fr 09:00-15:00, Sa-Su \"By appointment\"",
+        "shop": "travel_agency",
         "osm_id": 420028935,
-        "lon": -4.4801700904301,
-        "lat": 54.149091751470856,
+        "lon": -4.48016776525618,
+        "lat": 54.14909059140715,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420028935"
       }
@@ -25384,12 +25331,12 @@
             54.149164
           ],
           [
-            -4.480223,
-            54.14902
+            -4.480225,
+            54.149017
           ],
           [
-            -4.480321,
-            54.149019
+            -4.480311,
+            54.149016
           ],
           [
             -4.480444,
@@ -25415,8 +25362,8 @@
         "shop": "electronics",
         "website": "https://www.colebourn.com",
         "osm_id": 420028936,
-        "lon": -4.480327762171956,
-        "lat": 54.14909952377035,
+        "lon": -4.480327743139602,
+        "lat": 54.14909890118358,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420028936"
       }
@@ -25503,8 +25450,14 @@
         ]
       },
       "properties": {
-        "name": "The Boredroom",
-        "shop": "clothes",
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Varley House",
+        "addr:housenumber": "31",
+        "addr:street": "Duke Street",
+        "contact:website": "https://www.offshorevapes.im/",
+        "name": "Offshore Vapes",
+        "shop": "e-cigarette",
         "source": "survey",
         "osm_id": 420028938,
         "lon": -4.478817745419386,
@@ -25650,16 +25603,75 @@
         ]
       },
       "properties": {
-        "contact:phone": "+441624647010",
-        "name": "The Parlour",
-        "opening_hours": "Mo-Sa 08:00-24:00",
-        "shop": "hairdresser;beauty",
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Varley House",
+        "addr:housenumber": "29",
+        "addr:street": "Duke Street",
+        "contact:phone": "+44 1624 622414",
+        "name": "Lotus Nails & Beauty",
+        "opening_hours": "Mo-We,Fr-Sa 09:00-18:00, Th 09:00-21:00",
+        "shop": "beauty",
         "source": "survey",
         "osm_id": 420028943,
         "lon": -4.478851129059983,
         "lat": 54.149047781569585,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/420028943"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 420028946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478761,
+            54.149006
+          ],
+          [
+            -4.478789,
+            54.148949
+          ],
+          [
+            -4.478902,
+            54.148966
+          ],
+          [
+            -4.478994,
+            54.14898
+          ],
+          [
+            -4.47897,
+            54.149041
+          ],
+          [
+            -4.478761,
+            54.149006
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:street": "Duke Street",
+        "building": "retail",
+        "building:colour": "grey",
+        "building:levels": "3",
+        "building:material": "pebble_dash",
+        "contact:phone": "+441624647010",
+        "name": "The Parlour",
+        "opening_hours": "Mo-Sa 08:00+",
+        "shop": "hairdresser;beauty",
+        "source": "photo",
+        "strapline": "Hair & Nail Booutique",
+        "osm_id": 420028946,
+        "lon": -4.478878780013479,
+        "lat": 54.148994291725806,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/420028946"
       }
     },
     {
@@ -25990,10 +26002,12 @@
         "name": "Derby Castle Terminus",
         "name:gv": "Kione-Stashoon Chashtal Derby",
         "network": "Manx Electric Railway",
+        "nohousenumber": "yes",
         "operator": "Isle of Man Transport",
         "public_transport": "station",
         "railway": "station",
         "shop": "ticket",
+        "wheelchair": "no",
         "wikidata": "Q5261425",
         "wikipedia": "en:Derby Castle terminus",
         "osm_id": 433774879,
@@ -27152,7 +27166,9 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housenumber": "25",
         "addr:street": "Duke Street",
         "name": "Executive Barber Shop",
         "shop": "hairdresser",
@@ -30951,9 +30967,10 @@
       },
       "properties": {
         "addr:city": "Andreas",
+        "addr:country": "IM",
         "addr:housename": "Technical Site",
+        "addr:place": "Andreas Airfield",
         "addr:postcode": "IM7 4ES",
-        "addr:street": "Andreas Airfield",
         "building": "yes",
         "name": "Andreas Meat Co",
         "shop": "butcher",
@@ -32382,6 +32399,100 @@
         "lat": 54.17857150004574,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1323167006"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323704963,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478918,
+            54.148932
+          ],
+          [
+            -4.478807,
+            54.148911
+          ],
+          [
+            -4.478789,
+            54.148949
+          ],
+          [
+            -4.478902,
+            54.148966
+          ],
+          [
+            -4.478912,
+            54.148945
+          ],
+          [
+            -4.478918,
+            54.148932
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "25a",
+        "addr:postcode": "IM1 2AZ",
+        "addr:street": "Duke Street",
+        "name": "Painted Nail Co.",
+        "shop": "beauty",
+        "osm_id": 1323704963,
+        "lon": -4.478853154021797,
+        "lat": 54.14893944077884,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1323704963"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1324194639,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480133,
+            54.14902
+          ],
+          [
+            -4.480044,
+            54.149028
+          ],
+          [
+            -4.480026,
+            54.149161
+          ],
+          [
+            -4.48011,
+            54.149162
+          ],
+          [
+            -4.480133,
+            54.14902
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:floor": "1st",
+        "addr:housenumber": "53",
+        "addr:street": "Victoria Street",
+        "contact:instagram": "https://www.instagram.com/tailored____fades/",
+        "level": "1",
+        "male": "yes",
+        "name": "Tailored Fades",
+        "opening_hours": "Tu-Fr 10:30-18:00, Sa 10:00-17:00",
+        "shop": "hairdresser",
+        "osm_id": 1324194639,
+        "lon": -4.4800792949392525,
+        "lat": 54.149091897423496,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1324194639"
       }
     }
   ]

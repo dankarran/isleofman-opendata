@@ -1822,29 +1822,6 @@
     },
     {
       "type": "Feature",
-      "id": 727751263,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478999,
-          54.15253
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "88",
-        "addr:postcode": "IM1 2EN",
-        "addr:street": "Strand Street",
-        "brand": "Monsoon",
-        "brand:wikidata": "Q65007501",
-        "name": "Monsoon",
-        "shop": "clothes",
-        "source": "photo",
-        "website": "https://www.monsoon.co.uk/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 727751272,
       "geometry": {
         "type": "Point",
@@ -2156,6 +2133,28 @@
         "addr:street": "Corlea Road",
         "name": "Croit Vane",
         "place": "farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1069189745,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48573,
+          54.148864
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Atholl House",
+        "addr:housenumber": "29-31",
+        "addr:postcode": "IM1 1AR",
+        "addr:street": "Hope Street",
+        "name": "Callow Matthewman & Co.",
+        "office": "accountant",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -2954,6 +2953,24 @@
     },
     {
       "type": "Feature",
+      "id": 4122187401,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48232,
+          54.1479
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18-20",
+        "addr:postcode": "IM1 4LE",
+        "addr:street": "North Quay"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 4143616747,
       "geometry": {
         "type": "Point",
@@ -2970,29 +2987,6 @@
         "contact:facebook": "https://www.facebook.com/Hooded-Ram-260775614387969",
         "craft": "brewery",
         "name": "Hooded Ram Brewery Co."
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 4179606352,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479004,
-          54.152499
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "88",
-        "addr:postcode": "IM1 2EN",
-        "addr:street": "Strand Street",
-        "brand": "Accessorize",
-        "brand:wikidata": "Q65007482",
-        "name": "Accessorize",
-        "shop": "fashion_accessories",
-        "website": "https://www.accessorize.com/uk"
       }
     },
     {
@@ -7974,6 +7968,7 @@
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
+        "addr:housename": "Victoria Buildings",
         "addr:housenumber": "22",
         "addr:postcode": "IM8 1AP",
         "addr:street": "Parliament Street",
@@ -8138,30 +8133,6 @@
         "cuisine": "chinese",
         "name": "Athol Park Chinese Restaurant",
         "source": "Isle of Man Government Company Registry"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 11889062920,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479306,
-          54.152368
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "Strand Shopping Centre",
-        "addr:postcode": "IM1 2ER",
-        "addr:street": "Strand Street",
-        "addr:unit": "1A",
-        "brand": "Leonidas",
-        "brand:wikidata": "Q80335",
-        "fixme": "check which unit it's in",
-        "name": "Leonidas",
-        "shop": "chocolate",
-        "source": "Isle of Man Government Companies Registry;social media"
       }
     },
     {
@@ -8724,11 +8695,12 @@
         ]
       },
       "properties": {
-        "addr:city": "Port St Mary",
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Fern Lea",
         "addr:housenumber": "5",
         "addr:postcode": "IM9 5AR",
-        "addr:street": "Lhargan",
+        "addr:street": "The Lhargan",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -8743,11 +8715,12 @@
         ]
       },
       "properties": {
-        "addr:city": "Port St Mary",
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Penny Acre",
         "addr:housenumber": "6",
         "addr:postcode": "IM9 5AR",
-        "addr:street": "Lhargan",
+        "addr:street": "The Lhargan",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -8786,9 +8759,10 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "2",
         "addr:postcode": "IM2 4BA",
-        "addr:street": "Upper Dukes Road",
+        "addr:street": "Upper Duke's Road",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -8807,7 +8781,7 @@
         "addr:city": "Douglas",
         "addr:housename": "Hillcrest",
         "addr:postcode": "IM2 4BN",
-        "addr:street": "Lower Dukes Road",
+        "addr:street": "Lower Duke's Road",
         "source:addr:housename": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -8826,7 +8800,7 @@
         "addr:city": "Douglas",
         "addr:housename": "Langdale House",
         "addr:postcode": "IM2 4BQ",
-        "addr:street": "Lower Dukes Road",
+        "addr:street": "Lower Duke's Road",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -9663,6 +9637,46 @@
         "contact:phone": "+44 333 888 0223",
         "name": "Perfect Getaways",
         "shop": "travel_agency"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12244924461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.399318,
+          54.221159
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:country": "IM",
+        "addr:housename": "Seaview",
+        "addr:locality": "Fairy Cottage",
+        "addr:postcode": "IM4 7HR",
+        "addr:street": "Pinfold Hill",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12251397694,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.487455,
+          54.158891
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 3AN",
+        "addr:street": "Albany Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -15521,11 +15535,12 @@
         "addr:housename": "The Dataport",
         "addr:place": "Freeport",
         "addr:postcode": "IM9 2AP",
-        "building": "industrial",
+        "building": "data_center",
         "business": "Web Hosting and Datacentre",
         "name": "Netcetera",
         "phone": "+44 1624 829000",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "telecom": "data_center",
         "website": "https://netcetera.uk/"
       }
     },
@@ -15563,8 +15578,9 @@
         "addr:housename": "The Isle of Man Datacentre",
         "addr:place": "Ronaldsway Industrial Estate",
         "addr:postcode": "IM9 2RS",
-        "building": "yes",
+        "building": "data_center",
         "name": "Domicilium",
+        "operator": "Domicilium",
         "source": "Isle of Man Government aerial imagery (2001)",
         "telecom": "data_center",
         "website": "https://www.domicilium.com/"
@@ -16824,6 +16840,56 @@
         "industrial": "machine_shop",
         "name": "Moynihan Precision Engineering",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59995963,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.629425,
+            54.092926
+          ],
+          [
+            -4.629124,
+            54.093146
+          ],
+          [
+            -4.628897,
+            54.093039
+          ],
+          [
+            -4.629147,
+            54.092856
+          ],
+          [
+            -4.629257,
+            54.092908
+          ],
+          [
+            -4.629308,
+            54.092871
+          ],
+          [
+            -4.629425,
+            54.092926
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AH",
+        "addr:street": "Harcourt Drive",
+        "addr:unit": "F3",
+        "building": "yes",
+        "name": "Jason Griffiths",
+        "shop": "motorcycle",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.jasongriffiths.im"
       }
     },
     {
@@ -24980,8 +25046,8 @@
             54.151372
           ],
           [
-            -4.479114,
-            54.151356
+            -4.479115,
+            54.15136
           ],
           [
             -4.479102,
@@ -54336,10 +54402,12 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "The Lobster Pot",
         "addr:housenumber": "3",
         "addr:postcode": "IM9 5AR",
-        "addr:street": "Lhargan",
+        "addr:street": "The Lhargan",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -54489,9 +54557,11 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housenumber": "2",
         "addr:postcode": "IM9 5AR",
-        "addr:street": "Lhargan",
+        "addr:street": "The Lhargan",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -54752,6 +54822,44 @@
         "addr:street": "Glen Chass Road",
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102226978,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.751582,
+            54.072014
+          ],
+          [
+            -4.751452,
+            54.071994
+          ],
+          [
+            -4.751492,
+            54.071902
+          ],
+          [
+            -4.751623,
+            54.071921
+          ],
+          [
+            -4.751582,
+            54.072014
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housename": "Bridge House",
+        "addr:place": "Glen Chass",
+        "addr:postcode": "IM9 5PL",
+        "addr:street": "Glen Chass Road",
+        "building": "yes"
       }
     },
     {
@@ -56993,7 +57101,7 @@
         "addr:housename": "Carlton Grove",
         "addr:postcode": "IM8 2JA",
         "addr:street": "Queen's Drive",
-        "addr:substreet": "Queens Drive West",
+        "addr:substreet": "Queen's Drive West",
         "building": "apartments",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -90151,10 +90259,12 @@
         ]
       },
       "properties": {
+        "addr:country": "IM",
         "addr:housename": "Ballaveare Villa",
         "addr:postcode": "IM4 1BB",
-        "building": "terrace",
-        "name": "Ballaveare Villa",
+        "addr:street": "Old Castletown Road",
+        "building": "house",
+        "house": "terraced",
         "source": "Bing"
       }
     },
@@ -100053,6 +100163,59 @@
     },
     {
       "type": "Feature",
+      "id": 410363359,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479574,
+            54.147808
+          ],
+          [
+            -4.479598,
+            54.147932
+          ],
+          [
+            -4.479602,
+            54.147944
+          ],
+          [
+            -4.479494,
+            54.147951
+          ],
+          [
+            -4.479483,
+            54.147908
+          ],
+          [
+            -4.479464,
+            54.147816
+          ],
+          [
+            -4.479574,
+            54.147808
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM1 4LB",
+        "addr:street": "North Quay",
+        "amenity": "restaurant",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "name": "The Grand House",
+        "source": "Isle of Man Government aerial imagery (2001);mapillary",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "website": "https://grandhouse.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 410363361,
       "geometry": {
         "type": "LineString",
@@ -100491,6 +100654,59 @@
         "name": "Vino",
         "shop": "alcohol",
         "website": "https://www.vino.co.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 410386597,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482274,
+            54.147812
+          ],
+          [
+            -4.482266,
+            54.147844
+          ],
+          [
+            -4.48223,
+            54.147967
+          ],
+          [
+            -4.482188,
+            54.147964
+          ],
+          [
+            -4.482041,
+            54.147952
+          ],
+          [
+            -4.482083,
+            54.147827
+          ],
+          [
+            -4.482094,
+            54.147796
+          ],
+          [
+            -4.482274,
+            54.147812
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM1 4LE",
+        "addr:street": "North Quay",
+        "contact:facebook": "https://www.facebook.com/AppointmentAt21/",
+        "name": "appointment at 21",
+        "phone": "+44 1624 611187",
+        "shop": "beauty",
+        "source": "photo",
+        "source:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -101101,16 +101317,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478844,
-            54.152541
+            -4.478809,
+            54.152543
           ],
           [
             -4.479147,
             54.152552
           ],
           [
-            -4.479149,
-            54.152599
+            -4.479145,
+            54.152598
           ],
           [
             -4.479103,
@@ -101121,20 +101337,16 @@
             54.152598
           ],
           [
-            -4.478849,
-            54.152569
-          ],
-          [
-            -4.478813,
-            54.15257
+            -4.478848,
+            54.152572
           ],
           [
             -4.478809,
-            54.152542
+            54.152571
           ],
           [
-            -4.478844,
-            54.152541
+            -4.478809,
+            54.152543
           ]
         ]
       },
@@ -101898,7 +102110,7 @@
         "coordinates": [
           [
             -4.478784,
-            54.152476
+            54.152475
           ],
           [
             -4.478771,
@@ -101913,12 +102125,12 @@
             54.152482
           ],
           [
-            -4.478833,
+            -4.478811,
             54.152475
           ],
           [
             -4.478784,
-            54.152476
+            54.152475
           ]
         ]
       },
@@ -102110,7 +102322,7 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478833,
+            -4.478811,
             54.152475
           ],
           [
@@ -102118,15 +102330,27 @@
             54.152482
           ],
           [
+            -4.479146,
+            54.152493
+          ],
+          [
+            -4.479147,
+            54.152504
+          ],
+          [
+            -4.479147,
+            54.152529
+          ],
+          [
             -4.479147,
             54.152552
           ],
           [
-            -4.478844,
-            54.152541
+            -4.478809,
+            54.152543
           ],
           [
-            -4.478833,
+            -4.478811,
             54.152475
           ]
         ]
@@ -102134,13 +102358,17 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "88",
+        "addr:housenumber": "88-90",
         "addr:postcode": "IM1 2EN",
         "addr:street": "Strand Street",
+        "amenity": "bank",
+        "brand": "HSBC",
         "building": "retail",
         "building:colour": "white",
         "building:material": "plaster",
-        "note": "A Monsoon and Accessorize shop in one shop unit",
+        "name": "HSBC Douglas Branch",
+        "opening_hours": "Mo-Fr 09:30-17:00",
+        "operator": "HSBC Bank plc",
         "source": "Bing;photograph"
       }
     },
@@ -103406,6 +103634,63 @@
     },
     {
       "type": "Feature",
+      "id": 419070479,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479229,
+            54.150641
+          ],
+          [
+            -4.478962,
+            54.150648
+          ],
+          [
+            -4.478979,
+            54.150709
+          ],
+          [
+            -4.479001,
+            54.150708
+          ],
+          [
+            -4.479069,
+            54.150707
+          ],
+          [
+            -4.479068,
+            54.150682
+          ],
+          [
+            -4.479232,
+            54.150677
+          ],
+          [
+            -4.479229,
+            54.150641
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM1 2ED",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "cream",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "description": "vacant",
+        "name": "Magazzino",
+        "opening_hours": "Mo-Sa 09:30-17:00, Su 12:00-16:00",
+        "shop": "interior_decoration",
+        "source": "Bing;photograph"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419070482,
       "geometry": {
         "type": "LineString",
@@ -103451,7 +103736,7 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "21-25",
+        "addr:housenumber": "23-25",
         "addr:postcode": "IM1 2EF",
         "addr:street": "Strand Street",
         "brand": "Waterstones",
@@ -103461,7 +103746,6 @@
         "building:levels": "3",
         "building:material": "brick",
         "name": "Waterstones",
-        "postal_code": "IM1 2EF",
         "roof:levels": "1",
         "shop": "books",
         "source": "Bing;photograph",
@@ -103523,7 +103807,11 @@
             54.15163
           ],
           [
-            -4.479165,
+            -4.47914,
+            54.151632
+          ],
+          [
+            -4.479147,
             54.151676
           ],
           [
@@ -103582,8 +103870,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479165,
+            -4.479147,
             54.151676
+          ],
+          [
+            -4.479153,
+            54.151713
           ],
           [
             -4.47917,
@@ -103598,7 +103890,7 @@
             54.151657
           ],
           [
-            -4.479165,
+            -4.479147,
             54.151676
           ]
         ]
@@ -103612,6 +103904,7 @@
         "building:levels": "2",
         "charity": "yes",
         "name": "Crossroads Care",
+        "opening_hours": "Mo-Sa 10:00-17:00",
         "ref:charity": "383",
         "shop": "charity",
         "source": "Bing;photograph",
@@ -103749,8 +104042,100 @@
         "addr:housenumber": "51",
         "addr:postcode": "IM1 2EJ",
         "addr:street": "Strand Street",
+        "contact:phone": "+44 1624 611856",
+        "contact:website": "https://www.bonfabrics.im/",
         "name": "Bon Fabrics",
+        "opening_hours": "Mo-Fr 09:00-17:00, Sa 10:00-17:00, Su,PH off",
         "shop": "fabric"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113940,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479352,
+            54.152405
+          ],
+          [
+            -4.479473,
+            54.152404
+          ],
+          [
+            -4.479469,
+            54.152332
+          ],
+          [
+            -4.479239,
+            54.152335
+          ],
+          [
+            -4.479239,
+            54.152406
+          ],
+          [
+            -4.479352,
+            54.152405
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Strand Shopping Centre",
+        "addr:postcode": "IM1 2ER",
+        "addr:street": "Strand Street",
+        "addr:unit": "1A",
+        "brand": "Leonidas",
+        "brand:wikidata": "Q80335",
+        "check_date": "2024-09-29",
+        "name": "Leonidas",
+        "shop": "chocolate",
+        "source": "Isle of Man Government Companies Registry;social media"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 419113942,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479176,
+            54.151752
+          ],
+          [
+            -4.479183,
+            54.151798
+          ],
+          [
+            -4.479581,
+            54.151783
+          ],
+          [
+            -4.479578,
+            54.151738
+          ],
+          [
+            -4.479176,
+            54.151752
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "63",
+        "addr:postcode": "IM1 2RL",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "2",
+        "building:material": "plaster",
+        "description": "Vacant",
+        "old_name": "Lexicon",
+        "source": "Bing;photograph"
       }
     },
     {
@@ -103932,6 +104317,7 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "description": "Vacant",
         "source": "Bing;photograph"
       }
     },
@@ -103969,6 +104355,9 @@
         "addr:housenumber": "49",
         "addr:postcode": "IM1 3LB",
         "addr:street": "Strand Street",
+        "contact:phone": "+44 7624 233381",
+        "contact:website": "https://www.artificialspaces.im/",
+        "description": "Specialist building & landscaping products",
         "name": "Artificial Spaces",
         "shop": "builders_merchant",
         "source": "photo"
@@ -104067,6 +104456,7 @@
         "building:material": "plaster",
         "cuisine": "potato",
         "name": "Terry's Tatos",
+        "opening_hours": "Mo-Sa 09:00-15:00",
         "source": "Bing;photograph"
       }
     },
@@ -104761,17 +105151,20 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "34",
-        "addr:postcode": "IM1 2LB",
+        "addr:postcode": "IM1 3PZ",
         "addr:street": "Victoria Street",
         "building": "yes",
         "building:colour": "darkblue",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "The Cosmetic Medical Centre",
+        "contact:email": "info@elite.im",
+        "contact:phone": "+44 1624 620474",
+        "contact:website": "https://www.elite.im/",
+        "healthcare": "dentist",
+        "name": "Elite Medical",
         "roof:levels": "1",
         "shop": "beauty",
-        "source": "Bing;photograph",
-        "website": "https://www.cosmeticmedicaldental.com"
+        "source": "Bing;photograph"
       }
     },
     {
@@ -105230,24 +105623,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479987,
-            54.14904
+            -4.479989,
+            54.149037
           ],
           [
             -4.479961,
             54.14916
           ],
           [
-            -4.479845,
+            -4.479824,
             54.14916
           ],
           [
-            -4.479868,
-            54.149035
+            -4.479854,
+            54.149018
           ],
           [
-            -4.479987,
-            54.14904
+            -4.479963,
+            54.14902
+          ],
+          [
+            -4.479989,
+            54.149037
           ]
         ]
       },
@@ -105260,10 +105657,56 @@
         "building:colour": "slategrey",
         "building:levels": "4",
         "building:material": "plaster",
+        "contact:website": "https://www.blackgracecowley.com/",
         "name": "Black Grace Cowley",
         "office": "estate_agent",
-        "shop": "estate_agent",
-        "website": "https://www.blackgracecowley.com/"
+        "shop": "estate_agent"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 420028935,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480201,
+            54.149164
+          ],
+          [
+            -4.48011,
+            54.149162
+          ],
+          [
+            -4.480133,
+            54.14902
+          ],
+          [
+            -4.480225,
+            54.149017
+          ],
+          [
+            -4.480201,
+            54.149164
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "55",
+        "addr:postcode": "IM1 2LA",
+        "addr:street": "Victoria Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "contact:email": "hello@amazingvacations.co.im",
+        "contact:phone": "+44 1624 626299",
+        "contact:website": "https://amazingvacations.co.im/",
+        "name": "Amazing Vacations",
+        "opening_hours": "Mo-Fr 09:00-15:00, Sa-Su \"By appointment\"",
+        "shop": "travel_agency"
       }
     },
     {
@@ -105285,12 +105728,12 @@
             54.149164
           ],
           [
-            -4.480223,
-            54.14902
+            -4.480225,
+            54.149017
           ],
           [
-            -4.480321,
-            54.149019
+            -4.480311,
+            54.149016
           ],
           [
             -4.480444,
@@ -105417,14 +105860,72 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Queen Victoria House",
+        "addr:housenumber": "41-43",
         "addr:postcode": "IM1 2LF",
         "addr:street": "Victoria Street",
         "building": "office",
         "building:levels": "5",
         "building:material": "plaster",
-        "name": "Eagle Labs",
-        "office": "coworking",
+        "contact:email": "info@cth.insure",
+        "contact:phone": "+44 1624 808080",
+        "contact:website": "https://cth.insure/",
+        "name": "cth.insure",
+        "office": "insurance",
         "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 420028944,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479824,
+            54.14916
+          ],
+          [
+            -4.479724,
+            54.149161
+          ],
+          [
+            -4.47973,
+            54.149076
+          ],
+          [
+            -4.479747,
+            54.149031
+          ],
+          [
+            -4.479753,
+            54.149016
+          ],
+          [
+            -4.479854,
+            54.149018
+          ],
+          [
+            -4.479824,
+            54.14916
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "49",
+        "addr:postcode": "IM1 2LD",
+        "addr:street": "Victoria Street",
+        "building": "office",
+        "building:colour": "yellow",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "contact:email": "enquiries@mannbenham.com",
+        "contact:phone": "+44 1624 639350",
+        "contact:website": "https://mannbenham.com/",
+        "description": "\"Advocates, solicitors, notaries\"",
+        "name": "Mann Benham",
+        "office": "lawyer"
       }
     },
     {
@@ -105434,42 +105935,38 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.479741,
-            54.14916
+            -4.479724,
+            54.149161
           ],
           [
-            -4.47965,
-            54.14916
+            -4.479629,
+            54.149161
           ],
           [
-            -4.479654,
-            54.149077
+            -4.479638,
+            54.149064
           ],
           [
-            -4.479678,
-            54.149021
+            -4.479655,
+            54.14902
           ],
           [
-            -4.479729,
-            54.149029
+            -4.479747,
+            54.149031
           ],
           [
-            -4.479704,
-            54.149071
+            -4.47973,
+            54.149076
           ],
           [
-            -4.479754,
-            54.149071
-          ],
-          [
-            -4.479741,
-            54.14916
+            -4.479724,
+            54.149161
           ]
         ]
       },
       "properties": {
         "addr:city": "Douglas",
-        "addr:housename": "Laurence Keenan",
+        "addr:housename": "Victoria Chambers",
         "addr:housenumber": "47",
         "addr:postcode": "IM1 2LD",
         "addr:street": "Victoria Street",
@@ -105477,7 +105974,12 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "name": "LK Law"
+        "contact:email": "info@lklaw.co.im",
+        "contact:fax": "+44 1624 611893",
+        "contact:phone": "+44 1624 611933",
+        "contact:website": "https://www.laurencekeenan.com/",
+        "name": "Laurence Keenan Advocates & Solicitors",
+        "office": "lawyer"
       }
     },
     {
@@ -109328,6 +109830,7 @@
         "level": "1",
         "name": "Deanwood",
         "office": "estate_agent",
+        "opening_hours": "Mo-Th 09:00-17:30, Fr 09:00-17:15",
         "website": "https://www.deanwood.im/"
       }
     },
@@ -110648,12 +111151,12 @@
       },
       "properties": {
         "addr:city": "Bride",
+        "addr:country": "IM",
         "addr:housename": "Keeill Ny Magher",
         "addr:postcode": "IM7 4AN",
         "addr:street": "Road of the Greenfarm",
         "building": "house",
-        "building:levels": "2",
-        "name": "Keeill Ny Magher"
+        "building:levels": "2"
       }
     },
     {
@@ -125604,6 +126107,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housename": "Kensington Place",
         "addr:postcode": "IM3 1HL",
         "addr:street": "Imperial Terrace",
@@ -128458,6 +128962,171 @@
         "building": "pub",
         "name": "The Rosemount",
         "website": "https://pubsandbars.im/venue/the-rosemount/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128332867,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449512,
+            54.167946
+          ],
+          [
+            -4.449624,
+            54.167859
+          ],
+          [
+            -4.449655,
+            54.167873
+          ],
+          [
+            -4.44984,
+            54.167727
+          ],
+          [
+            -4.449826,
+            54.167709
+          ],
+          [
+            -4.449914,
+            54.16764
+          ],
+          [
+            -4.449785,
+            54.167583
+          ],
+          [
+            -4.449826,
+            54.167552
+          ],
+          [
+            -4.449688,
+            54.167491
+          ],
+          [
+            -4.449562,
+            54.16759
+          ],
+          [
+            -4.449713,
+            54.167657
+          ],
+          [
+            -4.449614,
+            54.167735
+          ],
+          [
+            -4.449652,
+            54.167752
+          ],
+          [
+            -4.449615,
+            54.167781
+          ],
+          [
+            -4.449568,
+            54.16776
+          ],
+          [
+            -4.449466,
+            54.16784
+          ],
+          [
+            -4.449342,
+            54.167785
+          ],
+          [
+            -4.449166,
+            54.167923
+          ],
+          [
+            -4.44922,
+            54.167946
+          ],
+          [
+            -4.449107,
+            54.168035
+          ],
+          [
+            -4.449255,
+            54.1681
+          ],
+          [
+            -4.449343,
+            54.168032
+          ],
+          [
+            -4.449285,
+            54.168006
+          ],
+          [
+            -4.449417,
+            54.167904
+          ],
+          [
+            -4.449512,
+            54.167946
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Douglas Bay Apartments",
+        "addr:postcode": "IM3 2AF",
+        "addr:street": "King Edward Close",
+        "building": "residential",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128332881,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447583,
+            54.169584
+          ],
+          [
+            -4.447466,
+            54.169555
+          ],
+          [
+            -4.447496,
+            54.169514
+          ],
+          [
+            -4.447388,
+            54.169487
+          ],
+          [
+            -4.44731,
+            54.169593
+          ],
+          [
+            -4.447535,
+            54.16965
+          ],
+          [
+            -4.447583,
+            54.169584
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 2AB",
+        "addr:street": "King Edward Park",
+        "building": "house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -132902,6 +133571,77 @@
         "name:gv": "Barrante Skylley Vraddan",
         "office": "government",
         "website": "https://www.braddan.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1148799136,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485391,
+            54.149062
+          ],
+          [
+            -4.48513,
+            54.149173
+          ],
+          [
+            -4.485105,
+            54.149178
+          ],
+          [
+            -4.48508,
+            54.149171
+          ],
+          [
+            -4.484951,
+            54.149065
+          ],
+          [
+            -4.485056,
+            54.14902
+          ],
+          [
+            -4.485046,
+            54.149013
+          ],
+          [
+            -4.485059,
+            54.149007
+          ],
+          [
+            -4.485182,
+            54.148958
+          ],
+          [
+            -4.485195,
+            54.148968
+          ],
+          [
+            -4.485247,
+            54.148947
+          ],
+          [
+            -4.485305,
+            54.148995
+          ],
+          [
+            -4.485391,
+            54.149062
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "St Georges Tower",
+        "addr:postcode": "IM1 1AR",
+        "addr:street": "Hope Street",
+        "building": "office",
+        "source:addr:housename": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -142162,6 +142902,44 @@
     },
     {
       "type": "Feature",
+      "id": 1198211237,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395218,
+            54.229331
+          ],
+          [
+            -4.395224,
+            54.229263
+          ],
+          [
+            -4.395409,
+            54.229269
+          ],
+          [
+            -4.395403,
+            54.229337
+          ],
+          [
+            -4.395218,
+            54.229331
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:country": "IM",
+        "addr:housename": "Sandhurst Cottage",
+        "addr:postcode": "IM4 7DX",
+        "addr:street": "Minorca Hill",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1199301994,
       "geometry": {
         "type": "LineString",
@@ -148511,9 +149289,10 @@
       },
       "properties": {
         "addr:city": "Andreas",
+        "addr:country": "IM",
         "addr:housename": "Technical Site",
+        "addr:place": "Andreas Airfield",
         "addr:postcode": "IM7 4ES",
-        "addr:street": "Andreas Airfield",
         "building": "yes",
         "name": "Andreas Meat Co",
         "shop": "butcher",
@@ -155131,9 +155910,10 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Shore View",
         "addr:postcode": "IM9 5AR",
-        "addr:street": "Lhargan",
+        "addr:street": "The Lhargan",
         "building": "semidetached_house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -155172,9 +155952,10 @@
       },
       "properties": {
         "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
         "addr:housename": "Port Verk",
         "addr:postcode": "IM9 5AR",
-        "addr:street": "Lhargan",
+        "addr:street": "The Lhargan",
         "building": "semidetached_house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -157087,6 +157868,325 @@
         "operator": "Costcutter",
         "shop": "convenience",
         "website": "https://store-locator.costcutter.co.uk/costcutter-f5e2e1f3f1ac"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323269853,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395042,
+            54.230009
+          ],
+          [
+            -4.394997,
+            54.230082
+          ],
+          [
+            -4.394841,
+            54.230049
+          ],
+          [
+            -4.394897,
+            54.229959
+          ],
+          [
+            -4.395,
+            54.229981
+          ],
+          [
+            -4.39499,
+            54.229997
+          ],
+          [
+            -4.395042,
+            54.230009
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:housename": "Hollydene",
+        "addr:postcode": "IM4 7DZ",
+        "addr:street": "Minorca Hill",
+        "building": "house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323269854,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.395886,
+            54.230044
+          ],
+          [
+            -4.395749,
+            54.230117
+          ],
+          [
+            -4.395731,
+            54.23011
+          ],
+          [
+            -4.395674,
+            54.23014
+          ],
+          [
+            -4.39561,
+            54.230099
+          ],
+          [
+            -4.39567,
+            54.230067
+          ],
+          [
+            -4.395696,
+            54.230084
+          ],
+          [
+            -4.395834,
+            54.230011
+          ],
+          [
+            -4.395886,
+            54.230044
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Laxey",
+        "addr:housename": "Kittiwake Cottage",
+        "addr:postcode": "IM4 7EA",
+        "addr:street": "Minorca Hill",
+        "building": "house",
+        "source:addr:housename": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323291191,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478726,
+            54.176757
+          ],
+          [
+            -4.478628,
+            54.1768
+          ],
+          [
+            -4.478573,
+            54.176757
+          ],
+          [
+            -4.478673,
+            54.176711
+          ],
+          [
+            -4.478726,
+            54.176757
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM2 7DB",
+        "addr:street": "Berry Woods Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323291192,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478573,
+            54.176757
+          ],
+          [
+            -4.478515,
+            54.17671
+          ],
+          [
+            -4.478616,
+            54.176665
+          ],
+          [
+            -4.478673,
+            54.176711
+          ],
+          [
+            -4.478573,
+            54.176757
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM2 7DB",
+        "addr:street": "Berry Woods Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323594064,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487404,
+            54.156057
+          ],
+          [
+            -4.487383,
+            54.155997
+          ],
+          [
+            -4.48724,
+            54.156014
+          ],
+          [
+            -4.487246,
+            54.156029
+          ],
+          [
+            -4.487119,
+            54.156044
+          ],
+          [
+            -4.487134,
+            54.156089
+          ],
+          [
+            -4.487259,
+            54.156074
+          ],
+          [
+            -4.487404,
+            54.156057
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM1 4DA",
+        "addr:street": "Queens Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323704963,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478918,
+            54.148932
+          ],
+          [
+            -4.478807,
+            54.148911
+          ],
+          [
+            -4.478789,
+            54.148949
+          ],
+          [
+            -4.478902,
+            54.148966
+          ],
+          [
+            -4.478912,
+            54.148945
+          ],
+          [
+            -4.478918,
+            54.148932
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "25a",
+        "addr:postcode": "IM1 2AZ",
+        "addr:street": "Duke Street",
+        "name": "Painted Nail Co.",
+        "shop": "beauty"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1323963222,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49082,
+            54.157709
+          ],
+          [
+            -4.490737,
+            54.157743
+          ],
+          [
+            -4.490644,
+            54.157667
+          ],
+          [
+            -4.490664,
+            54.157658
+          ],
+          [
+            -4.490617,
+            54.15762
+          ],
+          [
+            -4.49068,
+            54.157594
+          ],
+          [
+            -4.49075,
+            54.157651
+          ],
+          [
+            -4.49082,
+            54.157709
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM2 3NF",
+        "addr:street": "Albany Road",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]
