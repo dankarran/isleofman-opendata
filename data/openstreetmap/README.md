@@ -40,6 +40,12 @@ A variety of Isle of Man datasets extracted from OpenStreetMap.
 
   * *Incomplete data* - OpenStreetMap is a community created map, which doesn't include details about everything (yet). If you see anything missing, or incorrect details, you can go to the map and either edit it yourself or leave a note for an editor to investigate further - remember to include as much detail as possible.
 
+## Manual queries
+
+The current Overpass library doesn't handle relations, so some manual queries are needed currently:
+
+  * [Admin boundaries](https://overpass-turbo.eu/s/1R0R) -> export GeoJSON -> `sources/manual/admin_boundaries.geojson`
+
 ## Other resources
 
   * [Overpass Turbo OpenStreetMap query tool](https://www.overpass-turbo.eu)
