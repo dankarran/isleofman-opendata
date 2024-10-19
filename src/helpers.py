@@ -1,6 +1,20 @@
 from hashlib import md5
 import pandas as pd
 from typing import Optional, Iterable
+import requests
+
+
+"""
+Request helpers
+"""
+
+
+def get_url(url):
+    headers = {'User-Agent': 'Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0'}
+
+    r = requests.get(url, headers=headers, allow_redirects=True)
+
+    return r
 
 
 """

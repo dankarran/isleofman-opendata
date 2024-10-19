@@ -1,9 +1,8 @@
 import os
-import requests
 import pandas as pd
 import csv
 import json
-from src.hashing import add_md5_hash_column
+from src.helpers import add_md5_hash_column, get_url
 
 
 """
@@ -53,7 +52,8 @@ def load_data(sources):
             update = False
 
     if update:
-        r = requests.get(sources["url"], allow_redirects=True)
+        r = get_url(sources["url"])
+
         open(source_file_path, 'wb').write(r.content)
         print("    ", "Land Transactions retrieved and saved to source directory")
 

@@ -1,10 +1,10 @@
 import os
-import requests
 import io
 import time
 import pandas as pd
 import csv
 import json
+from src.helpers import get_url
 
 """
 Planning Applications data processing
@@ -94,7 +94,7 @@ def update_weekly_files(sources, record_type):
 
             print("    ", "Downloading", record_type, "for", pub_date, "from", page_url, "page", page)
 
-            r = requests.get(page_url, allow_redirects=True)
+            r = get_url(page_url)
 
             html = str(r.content)
 
@@ -143,7 +143,8 @@ def update_annual_files(sources, record_type):
             os.mkdir(year_dir)
 
         print("    ", "Downloading", record_type, "for", year)
-        r = requests.get(year_source["url"], allow_redirects=True)
+
+        r = get_url(year_source["url"])
         open(filepath, 'wb').write(r.content)
 
         # drop columns where appropriate (e.g. personal data)

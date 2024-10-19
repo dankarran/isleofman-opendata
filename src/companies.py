@@ -1,5 +1,4 @@
 import os
-import requests
 import time
 from datetime import datetime
 import random
@@ -8,6 +7,7 @@ import pandas as pd
 import bs4
 import csv
 import json
+from src.helpers import get_url
 
 
 """
@@ -220,7 +220,7 @@ def get_search_page(term, search_by=0, sort_by="IncorporationDate", sort_directi
 
     # TODO: handle exceptions, pause and retry a few times before giving up?
 
-    with requests.get(url) as f:
+    with get_url(url) as f:
         soup = bs4.BeautifulSoup(f.content, "lxml")
 
         table = soup.find_all("table")[0]
