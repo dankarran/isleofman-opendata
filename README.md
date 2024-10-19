@@ -8,6 +8,7 @@ This project aims to take open data for the Isle of Man and create new data prod
   * :file_folder: [Land transactions](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/land-transactions/)
   * :file_folder: [Planning applications](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/planning-applications/)
   * :file_folder: [OpenStreetMap](https://github.com/dankarran/isleofman-opendata/tree/main/data/openstreetmap/)
+  * :file_folder: [Global ML Building Footprints](https://github.com/dankarran/isleofman-opendata/tree/main/data/global-ml-building-footprints/)
 
 See individual README files in relevant part of `data` directory for further details.
 
@@ -15,6 +16,7 @@ See individual README files in relevant part of `data` directory for further det
 
   * [Isle of Man Government](https://www.gov.im/about-the-government/government/open-data/)
   * [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792)
+  * [Microsoft](https://github.com/microsoft/GlobalMLBuildingFootprints)
 
 ## TODO
 
@@ -37,3 +39,4 @@ source.
 
   * Contains public sector information licensed under the [Isle of Man Open Government Licence](https://www.gov.im/about-this-site/open-government-licence/).
   * Contains data from [OpenStreetMap](https://www.openstreetmap.org/#map=10/54.2283/-4.5792) licensed under the [Open Database License](https://www.openstreetmap.org/copyright).
+  * Contains data from Microsoft licensed under the Open Data Commons [Open Database License](https://opendatacommons.org/licenses/odbl/) (ODbL).
