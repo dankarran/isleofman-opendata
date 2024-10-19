@@ -1,4 +1,4 @@
-# Global ML Building Footprints
+# Microsoft Global ML Building Footprints
 
 "Bing Maps is releasing open building footprints around the world. We have detected 1.4B buildings from Bing Maps imagery between 2014 and 2024 including Maxar, Airbus, and IGN France imagery. The data is freely available for download and use under ODbL."
 
