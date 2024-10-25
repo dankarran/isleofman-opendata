@@ -126,7 +126,7 @@
         "addr:postcode": "IM3 1EB",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar",
         "opening_hours": "Mo-Su 08:00-21:00",
         "shop": "convenience",
@@ -2882,7 +2882,7 @@
         "addr:unit": "C",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "entrance": "main",
         "name": "Spar",
         "shop": "convenience",
@@ -7680,6 +7680,7 @@
         "addr:street": "Clybane Rise",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar",
         "shop": "convenience",
         "website": "https://www.spar.co.uk/store-locator/hal31382-spar-farmhill/"
@@ -8137,44 +8138,6 @@
     },
     {
       "type": "Feature",
-      "id": 11935533209,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.451812,
-          54.168329
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "10",
-        "addr:postcode": "IM3 1HA",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "visible on streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 11935533211,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.45196,
-          54.168616
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "20",
-        "addr:postcode": "IM3 1EZ",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 11945847081,
       "geometry": {
         "type": "Point",
@@ -8507,63 +8470,6 @@
         "addr:street": "Royal Avenue West",
         "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12013419820,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.453242,
-          54.169634
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "77",
-        "addr:postcode": "IM3 1LA",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12013419823,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.452927,
-          54.170265
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "72",
-        "addr:postcode": "IM3 1LB",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12013419824,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.452958,
-          54.170318
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "74",
-        "addr:postcode": "IM3 1LB",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -9145,63 +9051,6 @@
     },
     {
       "type": "Feature",
-      "id": 12175383756,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.452212,
-          54.169146
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "40",
-        "addr:postcode": "IM3 1EZ",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175383757,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.453426,
-          54.170341
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "103",
-        "addr:postcode": "IM3 1LA",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175383758,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.452733,
-          54.169882
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "58",
-        "addr:postcode": "IM3 1LB",
-        "addr:street": "Royal Avenue",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12182121445,
       "geometry": {
         "type": "Point",
@@ -9562,7 +9411,7 @@
         "contact:phone": "+44 7624 342966",
         "contact:website": "https://envyfurnishings.com/",
         "entrance": "main",
-        "name:en": "Envy Furnishings",
+        "name": "Envy Furnishings",
         "opening_hours": "Tu-Fr 10:30-16:00, Sa 10:00-16:00",
         "shop": "interior_decoration"
       }
@@ -9675,6 +9524,25 @@
         "addr:housenumber": "4",
         "addr:postcode": "IM2 3AN",
         "addr:street": "Albany Road",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12285748601,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.450739,
+          54.168854
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 1EF",
+        "addr:street": "Falkland Drive",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -16664,6 +16532,7 @@
         "addr:street": "Douglas Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -58166,6 +58035,7 @@
         "addr:street": "Parliament Street",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience"
@@ -70294,7 +70164,7 @@
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -76616,7 +76486,7 @@
         "addr:suburb": "Willaston",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "supermarket",
@@ -89972,6 +89842,62 @@
     },
     {
       "type": "Feature",
+      "id": 221234709,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.627972,
+            54.099273
+          ],
+          [
+            -4.627909,
+            54.099293
+          ],
+          [
+            -4.627888,
+            54.099271
+          ],
+          [
+            -4.627847,
+            54.099285
+          ],
+          [
+            -4.627802,
+            54.099237
+          ],
+          [
+            -4.627821,
+            54.099231
+          ],
+          [
+            -4.627906,
+            54.099204
+          ],
+          [
+            -4.627972,
+            54.099273
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:postcode": "IM9 2HD",
+        "addr:street": "Clagh Vane",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
+        "building": "retail",
+        "contact:phone": "+44 1624 824801",
+        "name": "Spar, Clagh Vane",
+        "opening_hours": "Mo-Sa 07:30-20:00, Su 08:00-19:00",
+        "shop": "convenience"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 227140563,
       "geometry": {
         "type": "LineString",
@@ -94613,7 +94539,7 @@
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "phone": "+44 1624 834454",
@@ -96149,7 +96075,7 @@
         "addr:street": "Colby Main Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "supermarket",
@@ -102772,7 +102698,7 @@
         "addr:street": "Strand Street",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "4",
@@ -132198,6 +132124,7 @@
         "atm": "yes",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/p/Spar-Ballaugh-100054561079407/",
         "name": "Spar",
@@ -140808,48 +140735,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.453522,
-            54.169528
+            -4.45353,
+            54.169547
           ],
           [
-            -4.453561,
-            54.169525
+            -4.453569,
+            54.169543
           ],
           [
-            -4.453568,
-            54.16955
+            -4.453576,
+            54.169569
           ],
           [
-            -4.453683,
-            54.16954
+            -4.45369,
+            54.169559
           ],
           [
-            -4.453666,
-            54.169476
+            -4.453673,
+            54.169495
           ],
           [
-            -4.453704,
-            54.169472
+            -4.453711,
+            54.169491
           ],
           [
-            -4.453693,
-            54.169432
+            -4.453701,
+            54.169451
           ],
           [
-            -4.45366,
-            54.169435
+            -4.453668,
+            54.169454
           ],
           [
-            -4.453648,
-            54.169387
+            -4.453655,
+            54.169405
           ],
           [
-            -4.453489,
-            54.169401
+            -4.453495,
+            54.169421
           ],
           [
-            -4.453522,
-            54.169528
+            -4.453519,
+            54.169507
+          ],
+          [
+            -4.45353,
+            54.169547
           ]
         ]
       },
@@ -142893,7 +142824,7 @@
         "addr:street": "Union Mills Main Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -144019,6 +143950,7 @@
         "addr:street": "Bucks Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "terrace",
         "name": "Spar",
         "opening_hours": "Mo-Sa 07:00-22:00, Su 09:00-22:00",
@@ -151639,6 +151571,8 @@
         "addr:postcode": "IM1 4AQ",
         "addr:street": "Westmoreland Road",
         "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar, Westmoreland Road",
         "shop": "convenience"
       }
@@ -157348,6 +157282,7 @@
         "addr:postcode": "IM7 2EW",
         "addr:street": "Jurby Road",
         "building": "yes",
+        "name": "Close-y-Kee",
         "name:gv": "Close-y-Kee",
         "source:addr:housename": "bus stop",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
@@ -158186,6 +158121,465 @@
         "addr:street": "Albany Road",
         "building": "semidetached_house",
         "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1326098797,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.456825,
+            54.171499
+          ],
+          [
+            -4.456644,
+            54.171555
+          ],
+          [
+            -4.456759,
+            54.171682
+          ],
+          [
+            -4.456939,
+            54.171627
+          ],
+          [
+            -4.456825,
+            54.171499
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "23",
+        "addr:postcode": "IM3 1HP",
+        "addr:street": "The Park",
+        "building": "house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1326098799,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.454631,
+            54.170632
+          ],
+          [
+            -4.454605,
+            54.170638
+          ],
+          [
+            -4.454631,
+            54.17068
+          ],
+          [
+            -4.454817,
+            54.170641
+          ],
+          [
+            -4.454754,
+            54.170538
+          ],
+          [
+            -4.454594,
+            54.170572
+          ],
+          [
+            -4.454631,
+            54.170632
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM3 1HP",
+        "addr:street": "The Park",
+        "building": "house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1326290930,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453346,
+            54.170368
+          ],
+          [
+            -4.453335,
+            54.170317
+          ],
+          [
+            -4.453502,
+            54.170303
+          ],
+          [
+            -4.453513,
+            54.170356
+          ],
+          [
+            -4.453346,
+            54.170368
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "103",
+        "addr:postcode": "IM3 1LA",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1326290943,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453162,
+            54.169667
+          ],
+          [
+            -4.453149,
+            54.169616
+          ],
+          [
+            -4.45338,
+            54.169595
+          ],
+          [
+            -4.453394,
+            54.169646
+          ],
+          [
+            -4.453162,
+            54.169667
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "77",
+        "addr:postcode": "IM3 1LA",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327384569,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453017,
+            54.170337
+          ],
+          [
+            -4.452764,
+            54.170364
+          ],
+          [
+            -4.452734,
+            54.170333
+          ],
+          [
+            -4.452857,
+            54.170318
+          ],
+          [
+            -4.452854,
+            54.170303
+          ],
+          [
+            -4.452989,
+            54.170287
+          ],
+          [
+            -4.453017,
+            54.170337
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "74",
+        "addr:postcode": "IM3 1LB",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327384570,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452989,
+            54.170287
+          ],
+          [
+            -4.45296,
+            54.170235
+          ],
+          [
+            -4.45281,
+            54.170257
+          ],
+          [
+            -4.452816,
+            54.170271
+          ],
+          [
+            -4.45276,
+            54.170277
+          ],
+          [
+            -4.452783,
+            54.170311
+          ],
+          [
+            -4.452854,
+            54.170303
+          ],
+          [
+            -4.452989,
+            54.170287
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "72",
+        "addr:postcode": "IM3 1LB",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327384577,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452783,
+            54.169909
+          ],
+          [
+            -4.452752,
+            54.169854
+          ],
+          [
+            -4.452613,
+            54.169873
+          ],
+          [
+            -4.452621,
+            54.16989
+          ],
+          [
+            -4.452501,
+            54.169903
+          ],
+          [
+            -4.452515,
+            54.16994
+          ],
+          [
+            -4.452633,
+            54.169926
+          ],
+          [
+            -4.452783,
+            54.169909
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "58",
+        "addr:postcode": "IM3 1LB",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327891137,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.452263,
+            54.169161
+          ],
+          [
+            -4.452235,
+            54.169108
+          ],
+          [
+            -4.45212,
+            54.169124
+          ],
+          [
+            -4.452016,
+            54.169142
+          ],
+          [
+            -4.452031,
+            54.169178
+          ],
+          [
+            -4.452097,
+            54.169169
+          ],
+          [
+            -4.452104,
+            54.169184
+          ],
+          [
+            -4.452263,
+            54.169161
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM3 1EZ",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327891138,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451749,
+            54.16862
+          ],
+          [
+            -4.452008,
+            54.16858
+          ],
+          [
+            -4.452037,
+            54.168635
+          ],
+          [
+            -4.451922,
+            54.168651
+          ],
+          [
+            -4.451774,
+            54.168677
+          ],
+          [
+            -4.451749,
+            54.16862
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 1EZ",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1327891145,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.45178,
+            54.168346
+          ],
+          [
+            -4.451787,
+            54.168362
+          ],
+          [
+            -4.451908,
+            54.168344
+          ],
+          [
+            -4.451885,
+            54.168291
+          ],
+          [
+            -4.451682,
+            54.168321
+          ],
+          [
+            -4.45164,
+            54.168327
+          ],
+          [
+            -4.451657,
+            54.168365
+          ],
+          [
+            -4.45178,
+            54.168346
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 1HA",
+        "addr:street": "Royal Avenue",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "visible on streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }

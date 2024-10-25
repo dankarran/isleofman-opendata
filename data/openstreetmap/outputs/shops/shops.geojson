@@ -66,7 +66,7 @@
         "addr:postcode": "IM3 1EB",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar",
         "opening_hours": "Mo-Su 08:00-21:00",
         "shop": "convenience",
@@ -1450,7 +1450,7 @@
         "addr:unit": "C",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "entrance": "main",
         "name": "Spar",
         "shop": "convenience",
@@ -3365,6 +3365,7 @@
         "addr:street": "Clybane Rise",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar",
         "shop": "convenience",
         "website": "https://www.spar.co.uk/store-locator/hal31382-spar-farmhill/",
@@ -4151,7 +4152,7 @@
         "contact:phone": "+44 7624 342966",
         "contact:website": "https://envyfurnishings.com/",
         "entrance": "main",
-        "name:en": "Envy Furnishings",
+        "name": "Envy Furnishings",
         "opening_hours": "Tu-Fr 10:30-16:00, Sa 10:00-16:00",
         "shop": "interior_decoration",
         "osm_id": 12236063398,
@@ -5711,6 +5712,7 @@
         "addr:street": "Douglas Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -12714,6 +12716,7 @@
         "addr:street": "Parliament Street",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -13904,6 +13907,9 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:street": "Parliament Square",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar Ramsey",
         "note": "website lists address as 84 Parliament Street, which seems a stretch",
@@ -15723,7 +15729,7 @@
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -16590,7 +16596,7 @@
         "addr:suburb": "Willaston",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "supermarket",
@@ -17614,40 +17620,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.627718,
-            54.099263
+            -4.627972,
+            54.099273
           ],
           [
-            -4.628019,
-            54.099162
+            -4.627909,
+            54.099293
           ],
           [
-            -4.628071,
-            54.099216
+            -4.627888,
+            54.099271
           ],
           [
-            -4.628006,
-            54.099238
+            -4.627847,
+            54.099285
           ],
           [
-            -4.628023,
-            54.099255
+            -4.627802,
+            54.099237
           ],
           [
-            -4.627904,
-            54.099295
+            -4.627821,
+            54.099231
           ],
           [
-            -4.627882,
-            54.099272
+            -4.627906,
+            54.099204
           ],
           [
-            -4.627765,
-            54.099311
-          ],
-          [
-            -4.627718,
-            54.099263
+            -4.627972,
+            54.099273
           ]
         ]
       },
@@ -17655,13 +17657,19 @@
         "addr:city": "Ballasalla",
         "addr:country": "IM",
         "addr:housenumber": "39",
+        "addr:postcode": "IM9 2HD",
         "addr:street": "Clagh Vane",
-        "building": "yes",
-        "name": "Andy's",
+        "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
+        "building": "retail",
+        "contact:phone": "+44 1624 824801",
+        "name": "Spar, Clagh Vane",
+        "opening_hours": "Mo-Sa 07:30-20:00, Su 08:00-19:00",
         "shop": "convenience",
         "osm_id": 221234709,
-        "lon": -4.627900951656074,
-        "lat": 54.099242397545964,
+        "lon": -4.627887716531316,
+        "lat": 54.09925189151684,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/221234709"
       }
@@ -17840,6 +17848,7 @@
       "properties": {
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "retail",
         "name": "Spar",
         "shop": "convenience",
@@ -18771,7 +18780,7 @@
         "amenity": "fuel",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "phone": "+44 1624 834454",
@@ -19456,7 +19465,7 @@
         "addr:street": "Colby Main Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "supermarket",
@@ -22624,7 +22633,7 @@
         "addr:street": "Strand Street",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "4",
@@ -28048,6 +28057,7 @@
         "atm": "yes",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/p/Spar-Ballaugh-100054561079407/",
         "name": "Spar",
@@ -29331,7 +29341,7 @@
         "addr:street": "Union Mills Main Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
-        "brand:wikipedia": "en:SPAR (retailer)",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
@@ -30566,6 +30576,7 @@
         "addr:street": "Bucks Road",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "terrace",
         "name": "Spar",
         "opening_hours": "Mo-Sa 07:00-22:00, Su 09:00-22:00",
@@ -30843,6 +30854,7 @@
       "properties": {
         "brand": "Spar",
         "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "building": "retail",
         "name": "Spar, Pulrose",
         "opening_hours": "Mo-Sa 07:00-22:00, Su 08:00-22:00",
@@ -31531,6 +31543,8 @@
         "addr:postcode": "IM1 4AQ",
         "addr:street": "Westmoreland Road",
         "brand": "Spar",
+        "brand:wikidata": "Q610492",
+        "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar, Westmoreland Road",
         "shop": "convenience",
         "osm_id": 1291532800,

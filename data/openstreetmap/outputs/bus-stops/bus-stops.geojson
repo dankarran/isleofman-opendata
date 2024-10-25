@@ -12146,8 +12146,9 @@
       },
       "properties": {
         "bus": "yes",
+        "fixme": "check housenumber, this side is evens",
         "highway": "bus_stop",
-        "name": "Faulkland Drive No.9",
+        "name": "Falkland Drive No.9",
         "public_transport": "platform",
         "ref": "3213",
         "osm_id": 9189973796,
@@ -12169,8 +12170,9 @@
       },
       "properties": {
         "bus": "yes",
+        "fixme": "check housenumber, evens are opposite",
         "highway": "bus_stop",
-        "name": "Faulkland Drive No.24",
+        "name": "Falkland Drive No.24",
         "public_transport": "platform",
         "ref": "3214",
         "osm_id": 9189973797,
@@ -20484,9 +20486,9 @@
       },
       "properties": {
         "bus": "yes",
+        "description": "For a no longer extant telephone box.",
         "highway": "bus_stop",
-        "name": "St. Judes Telephone Box",
-        "note": "no phone box remains",
+        "name": "St Judes Telephone Box",
         "public_transport": "platform",
         "ref": "14603",
         "osm_id": 9193185805,

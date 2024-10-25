@@ -14045,7 +14045,6 @@
         ]
       },
       "properties": {
-        "access": "yes",
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Kerroocruin",
@@ -39109,8 +39108,8 @@
       "properties": {
         "highway": "residential",
         "maxspeed": "20 mph",
-        "name": "Kerrocruin",
-        "name:gv": "Kerrocruin",
+        "name": "Kerroocruin",
+        "name:gv": "Kerroocruin",
         "source:name": "Isle of Man Government Land Registry Land Transactions",
         "surface": "concrete",
         "osm_id": 25989390,
@@ -41902,8 +41901,8 @@
       "properties": {
         "highway": "primary",
         "maxspeed": "30 mph",
-        "name": "Reayrt Y Cronk",
-        "name:gv": "Reayrt Y Cronk",
+        "name": "Reayrt y Cronk",
+        "name:gv": "Reayrt y Cronk",
         "ref": "A32",
         "sidewalk:left": "separate",
         "surface": "paved",
@@ -58411,11 +58410,12 @@
       "properties": {
         "historic": "ruins",
         "name": "Saint Trinian's",
+        "name:en": "Saint Trinian's",
         "name:gv": "Keeill Brisht",
         "ruins": "church",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
-        "wikidata": "Q55886572",
+        "wikidata": "Q17561024",
         "wikimedia_commons": "File:St Trinian's (1).jpg",
         "wikipedia": "en:St Trinian's Church",
         "osm_id": 65750687,
@@ -63632,7 +63632,6 @@
         ]
       },
       "properties": {
-        "access": "yes",
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Kerroocruin",
@@ -102848,6 +102847,51 @@
     },
     {
       "type": "Feature",
+      "id": 833369310,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.545056,
+            54.351541
+          ],
+          [
+            -4.544953,
+            54.351568
+          ],
+          [
+            -4.544927,
+            54.351535
+          ],
+          [
+            -4.54503,
+            54.351508
+          ],
+          [
+            -4.545056,
+            54.351541
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Keeill Kickle;St Cecilia's Chapel",
+        "alt_name:en": "St Cecilia's Chapel",
+        "alt_name:gv": "Keeill Kickle",
+        "archaeological_site": "church",
+        "historic": "archaeological_site",
+        "name": "St Patrick's Chapel",
+        "name:en": "St Patrick's Chapel",
+        "name:gv": "Keeill Pherick",
+        "note": "Known as Keeill Kickle (St. Cecilia), or St. Patrick's Chapel",
+        "osm_id": 833369310,
+        "lon": -4.544991499999998,
+        "lat": 54.35153799999999,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/833369310"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 840594528,
       "geometry": {
         "type": "LineString",
@@ -110943,7 +110987,7 @@
       "properties": {
         "alt_name": "Ballamanagh Road",
         "bridge": "yes",
-        "bridge_name": "Ballamanaugh Bridge",
+        "bridge:name": "Ballamanaugh Bridge",
         "fixme": "check naming - signed as River Meadow Land / Claddagh by the Ginger Hall",
         "highway": "secondary",
         "layer": "1",
@@ -111822,6 +111866,50 @@
     },
     {
       "type": "Feature",
+      "id": 1192127178,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.742112,
+            54.092295
+          ],
+          [
+            -4.742119,
+            54.092326
+          ],
+          [
+            -4.742114,
+            54.092383
+          ],
+          [
+            -4.742063,
+            54.092546
+          ],
+          [
+            -4.742035,
+            54.092573
+          ],
+          [
+            -4.741995,
+            54.092584
+          ]
+        ]
+      },
+      "properties": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Reayrt y Cronk",
+        "name:gv": "Reayrt y Cronk",
+        "osm_id": 1192127178,
+        "lon": -4.742082252065227,
+        "lat": 54.09245637548813,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1192127178"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1192127184,
       "geometry": {
         "type": "LineString",
@@ -111890,6 +111978,82 @@
     },
     {
       "type": "Feature",
+      "id": 1192127186,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.742312,
+            54.092444
+          ],
+          [
+            -4.742254,
+            54.092512
+          ],
+          [
+            -4.742222,
+            54.092573
+          ],
+          [
+            -4.74215,
+            54.092734
+          ],
+          [
+            -4.742126,
+            54.092877
+          ],
+          [
+            -4.742065,
+            54.093192
+          ],
+          [
+            -4.74202,
+            54.093402
+          ],
+          [
+            -4.742026,
+            54.093459
+          ],
+          [
+            -4.742053,
+            54.093514
+          ],
+          [
+            -4.742096,
+            54.093549
+          ],
+          [
+            -4.742148,
+            54.0936
+          ],
+          [
+            -4.742192,
+            54.093624
+          ],
+          [
+            -4.742499,
+            54.093753
+          ],
+          [
+            -4.74318,
+            54.094058
+          ]
+        ]
+      },
+      "properties": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Reayrt y Cronk",
+        "name:gv": "Reayrt y Cronk",
+        "osm_id": 1192127186,
+        "lon": -4.742376772063065,
+        "lat": 54.093405107799,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1192127186"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1192127190,
       "geometry": {
         "type": "LineString",
@@ -111919,8 +112083,8 @@
       "properties": {
         "highway": "primary",
         "maxspeed": "30 mph",
-        "name": "Reayrt Y Cronk",
-        "name:gv": "Reayrt Y Cronk",
+        "name": "Reayrt y Cronk",
+        "name:gv": "Reayrt y Cronk",
         "ref": "A32",
         "sidewalk:both": "separate",
         "surface": "paved",
@@ -117678,6 +117842,7 @@
         "addr:postcode": "IM7 2EW",
         "addr:street": "Jurby Road",
         "building": "yes",
+        "name": "Close-y-Kee",
         "name:gv": "Close-y-Kee",
         "source:addr:housename": "bus stop",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
