@@ -51041,8 +51041,8 @@
             54.099835
           ],
           [
-            -4.619817,
-            54.099757
+            -4.619807,
+            54.099762
           ],
           [
             -4.620011,
@@ -51115,8 +51115,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 970378264,
-        "lon": -4.620262181952814,
-        "lat": 54.09968143258542,
+        "lon": -4.620262218293936,
+        "lat": 54.099681531132966,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/970378264"
       }
@@ -51445,8 +51445,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.618968,
-            54.100977
+            -4.618893,
+            54.100983
           ],
           [
             -4.618877,
@@ -51459,17 +51459,34 @@
           [
             -4.618049,
             54.101006
+          ],
+          [
+            -4.618034,
+            54.101171
+          ],
+          [
+            -4.618037,
+            54.101386
+          ],
+          [
+            -4.618132,
+            54.101609
+          ],
+          [
+            -4.618208,
+            54.101708
           ]
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Christian Close",
         "postal_code": "IM9 2BG",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
         "osm_id": 1006860208,
-        "lon": -4.618508907479368,
-        "lat": 54.10100255826711,
+        "lon": -4.618285381056409,
+        "lat": 54.10117647191547,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1006860208"
       }
@@ -51481,8 +51498,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.618868,
-            54.100481
+            -4.618787,
+            54.100483
           ],
           [
             -4.618775,
@@ -51504,9 +51521,10 @@
         "name": "McFarlan Close",
         "postal_code": "IM9 2BF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
         "osm_id": 1006860209,
-        "lon": -4.618493009815347,
-        "lat": 54.10048806316287,
+        "lon": -4.618452506151756,
+        "lat": 54.100488815293936,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1006860209"
       }
@@ -52601,7 +52619,7 @@
         "postal_code": "IM9 2BB",
         "sidewalk:both": "yes",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paving_stones",
+        "surface": "paved",
         "osm_id": 1096786549,
         "lon": -4.621879145740888,
         "lat": 54.099934468887525,
@@ -56542,6 +56560,65 @@
         "lat": 54.099126999999996,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1322348122"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1330763121,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.618968,
+            54.100977
+          ],
+          [
+            -4.618893,
+            54.100983
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Christian Close",
+        "postal_code": "IM9 2BG",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 1330763121,
+        "lon": -4.618930499999999,
+        "lat": 54.10098,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1330763121"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1330763122,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.618868,
+            54.100481
+          ],
+          [
+            -4.618787,
+            54.100483
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "McFarlan Close",
+        "postal_code": "IM9 2BF",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1330763122,
+        "lon": -4.6188275,
+        "lat": 54.100482,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1330763122"
       }
     }
   ]

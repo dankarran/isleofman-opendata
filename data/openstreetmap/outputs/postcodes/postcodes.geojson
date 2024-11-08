@@ -3365,30 +3365,6 @@
     },
     {
       "type": "Feature",
-      "id": 1974486110,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.457495,
-          54.167876
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:country": "IM",
-        "addr:housename": "Rock Villa",
-        "addr:postcode": "IM3 1NN",
-        "addr:street": "Strathallan Road",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 1974486110,
-        "lon": -4.457495,
-        "lat": 54.167876,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1974486110"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 2689679569,
       "geometry": {
         "type": "Point",
@@ -6875,6 +6851,36 @@
         "lat": 54.15215,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10710776638"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10716379659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456798,
+          54.173514
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "2A",
+        "addr:postcode": "IM3 1AS",
+        "addr:street": "Onchan Main Road",
+        "contact:phone": "+44 1624 628424",
+        "contact:website": "https://scs.co.im/",
+        "description": "Building services engineers",
+        "name": "Stewart Clague Services Limited, Onchan office",
+        "not:brand:wikidata": "Q19654399",
+        "office": "company",
+        "source": "streetside",
+        "osm_id": 10716379659,
+        "lon": -4.456798,
+        "lat": 54.173514,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10716379659"
       }
     },
     {
@@ -10385,56 +10391,6 @@
     },
     {
       "type": "Feature",
-      "id": 12013419816,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.453445,
-          54.16753
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housenumber": "5",
-        "addr:postcode": "IM3 1HB",
-        "addr:street": "Royal Avenue West",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12013419816,
-        "lon": -4.453445,
-        "lat": 54.16753,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12013419816"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12013419817,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.453584,
-          54.16924
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:housename": "Glenside Apartments",
-        "addr:housenumber": "65",
-        "addr:postcode": "IM3 1HF",
-        "addr:street": "Royal Avenue West",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12013419817,
-        "lon": -4.453584,
-        "lat": 54.16924,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12013419817"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12020022500,
       "geometry": {
         "type": "Point",
@@ -11340,12 +11296,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456889,
-          54.173265
+          -4.456932,
+          54.173276
         ]
       },
       "properties": {
-        "addr:city": "Douglas",
+        "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housename": "Aurora Brides",
         "addr:housenumber": "6",
         "addr:postcode": "IM3 1LZ",
@@ -11353,10 +11310,10 @@
         "name": "Aurora Brides",
         "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
         "phone": "+44 1624 664088",
-        "shop": "yes",
+        "shop": "bridal",
         "osm_id": 12195333904,
-        "lon": -4.456889,
-        "lat": 54.173265,
+        "lon": -4.456932,
+        "lat": 54.173276,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195333904"
       }
@@ -11367,23 +11324,50 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456848,
-          54.17333
+          -4.456879,
+          54.173333
         ]
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:postcode": "IM3 1LZ",
         "addr:street": "Summer Hill",
         "name": "Hearing Solutions",
         "shop": "hearing_aids",
-        "website": "https://www.iomhearingsolutions.im",
+        "website": "https://www.iomhearingsolutions.im/",
         "osm_id": 12195333905,
-        "lon": -4.456848,
-        "lat": 54.17333,
+        "lon": -4.456879,
+        "lat": 54.173333,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195333905"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12195333907,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.457037,
+          54.173162
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 1LZ",
+        "addr:street": "Summer Hill",
+        "name": "Hintons",
+        "shop": "electronics",
+        "source:addr:housenumber": "Isle of Man Government Companies Registry",
+        "osm_id": 12195333907,
+        "lon": -4.457037,
+        "lat": 54.173162,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12195333907"
       }
     },
     {
@@ -115999,7 +115983,7 @@
         "building:material": "plaster",
         "contact:facebook": "https://facebook.com/FreshlySqueezedIOM/",
         "contact:phone": "+441624613585",
-        "contact:website": "freshlysqueezed.im",
+        "contact:website": "https://freshlysqueezed.im/",
         "cuisine": "juice",
         "currency:XBT": "yes",
         "name": "Freshly Squeezed",
@@ -116010,7 +115994,6 @@
         "phone": "+441624613585",
         "source": "survey",
         "survey:date": "2022-09-24",
-        "website": "https://freshlysqueezed.im/",
         "osm_id": 419775938,
         "lon": -4.478037931737295,
         "lat": 54.149407268746074,
@@ -123831,52 +123814,6 @@
         "lat": 54.223872284137656,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/813439034"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 813624413,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.456871,
-            54.173382
-          ],
-          [
-            -4.457115,
-            54.173133
-          ],
-          [
-            -4.456951,
-            54.173077
-          ],
-          [
-            -4.456786,
-            54.173248
-          ],
-          [
-            -4.456805,
-            54.173357
-          ],
-          [
-            -4.456871,
-            54.173382
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Aurora Brides",
-        "addr:housenumber": "6",
-        "addr:postcode": "IM3 1LZ",
-        "addr:street": "Summer Hill",
-        "building": "yes",
-        "osm_id": 813624413,
-        "lon": -4.456934065033875,
-        "lat": 54.17321910696019,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/813624413"
       }
     },
     {
@@ -175681,6 +175618,988 @@
         "lat": 54.168331915407016,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1327891145"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895839,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453467,
+            54.16921
+          ],
+          [
+            -4.453614,
+            54.169212
+          ],
+          [
+            -4.45373,
+            54.169213
+          ],
+          [
+            -4.453729,
+            54.16927
+          ],
+          [
+            -4.453465,
+            54.169268
+          ],
+          [
+            -4.453467,
+            54.16921
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Glenside Apartments",
+        "addr:housenumber": "65",
+        "addr:postcode": "IM3 1HF",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895839,
+        "lon": -4.453597537638528,
+        "lat": 54.16924035850571,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895839"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895842,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453473,
+            54.169093
+          ],
+          [
+            -4.453474,
+            54.169035
+          ],
+          [
+            -4.453615,
+            54.169035
+          ],
+          [
+            -4.453611,
+            54.169097
+          ],
+          [
+            -4.453473,
+            54.169093
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "59",
+        "addr:postcode": "IM3 1HF",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895842,
+        "lon": -4.453543979133906,
+        "lat": 54.16906478922367,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895842"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895846,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453464,
+            54.16886
+          ],
+          [
+            -4.453461,
+            54.1688
+          ],
+          [
+            -4.453608,
+            54.168803
+          ],
+          [
+            -4.453613,
+            54.168861
+          ],
+          [
+            -4.453464,
+            54.16886
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "51",
+        "addr:postcode": "IM3 1HE",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895846,
+        "lon": -4.453536177348462,
+        "lat": 54.168831135971324,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895846"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895854,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453383,
+            54.16841
+          ],
+          [
+            -4.453366,
+            54.168351
+          ],
+          [
+            -4.453507,
+            54.168337
+          ],
+          [
+            -4.453526,
+            54.168397
+          ],
+          [
+            -4.453383,
+            54.16841
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM3 1HE",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895854,
+        "lon": -4.4534458079292465,
+        "lat": 54.16837386241587,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895854"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895855,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453366,
+            54.168351
+          ],
+          [
+            -4.453349,
+            54.168295
+          ],
+          [
+            -4.453487,
+            54.168283
+          ],
+          [
+            -4.453507,
+            54.168337
+          ],
+          [
+            -4.453366,
+            54.168351
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM3 1HD",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895855,
+        "lon": -4.453427158827871,
+        "lat": 54.168316735535214,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895855"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895861,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453252,
+            54.168008
+          ],
+          [
+            -4.453246,
+            54.167954
+          ],
+          [
+            -4.453386,
+            54.167949
+          ],
+          [
+            -4.453398,
+            54.168003
+          ],
+          [
+            -4.453252,
+            54.168008
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM3 1HD",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895861,
+        "lon": -4.45332074608853,
+        "lat": 54.167978902801394,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895861"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1328895869,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453339,
+            54.167534
+          ],
+          [
+            -4.453378,
+            54.167482
+          ],
+          [
+            -4.453509,
+            54.167513
+          ],
+          [
+            -4.453497,
+            54.167528
+          ],
+          [
+            -4.453584,
+            54.167544
+          ],
+          [
+            -4.453568,
+            54.167576
+          ],
+          [
+            -4.453472,
+            54.167558
+          ],
+          [
+            -4.453339,
+            54.167534
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM3 1HB",
+        "addr:street": "Royal Avenue West",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1328895869,
+        "lon": -4.453463079100702,
+        "lat": 54.16753241847249,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1328895869"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475988,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.454101,
+            54.168587
+          ],
+          [
+            -4.45406,
+            54.168505
+          ],
+          [
+            -4.454153,
+            54.168489
+          ],
+          [
+            -4.454176,
+            54.168534
+          ],
+          [
+            -4.454261,
+            54.168519
+          ],
+          [
+            -4.45428,
+            54.168557
+          ],
+          [
+            -4.454101,
+            54.168587
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475988,
+        "lon": -4.454165796469784,
+        "lat": 54.16853928631593,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475988"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475989,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.454008,
+            54.168451
+          ],
+          [
+            -4.453969,
+            54.168372
+          ],
+          [
+            -4.454108,
+            54.168348
+          ],
+          [
+            -4.45413,
+            54.168391
+          ],
+          [
+            -4.454187,
+            54.168381
+          ],
+          [
+            -4.454209,
+            54.168425
+          ],
+          [
+            -4.454068,
+            54.168449
+          ],
+          [
+            -4.454064,
+            54.168441
+          ],
+          [
+            -4.454008,
+            54.168451
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Kerin",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475989,
+        "lon": -4.4540868339544275,
+        "lat": 54.168402606061875,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475989"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475990,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.454042,
+            54.168328
+          ],
+          [
+            -4.454008,
+            54.168267
+          ],
+          [
+            -4.454138,
+            54.168241
+          ],
+          [
+            -4.454173,
+            54.168302
+          ],
+          [
+            -4.454042,
+            54.168328
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475990,
+        "lon": -4.454090370698481,
+        "lat": 54.16828455787061,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475990"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453911,
+            54.16825
+          ],
+          [
+            -4.453931,
+            54.168283
+          ],
+          [
+            -4.454008,
+            54.168267
+          ],
+          [
+            -4.454138,
+            54.168241
+          ],
+          [
+            -4.454106,
+            54.168187
+          ],
+          [
+            -4.453987,
+            54.168211
+          ],
+          [
+            -4.453999,
+            54.168232
+          ],
+          [
+            -4.453911,
+            54.16825
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475991,
+        "lon": -4.454024311680153,
+        "lat": 54.16823756251541,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475991"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475992,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453882,
+            54.168195
+          ],
+          [
+            -4.453902,
+            54.168228
+          ],
+          [
+            -4.453987,
+            54.168211
+          ],
+          [
+            -4.454106,
+            54.168187
+          ],
+          [
+            -4.454073,
+            54.168132
+          ],
+          [
+            -4.453958,
+            54.168155
+          ],
+          [
+            -4.453971,
+            54.168177
+          ],
+          [
+            -4.453882,
+            54.168195
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475992,
+        "lon": -4.453993835507145,
+        "lat": 54.16818282413849,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475992"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475993,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453852,
+            54.168139
+          ],
+          [
+            -4.453872,
+            54.168173
+          ],
+          [
+            -4.453958,
+            54.168155
+          ],
+          [
+            -4.454073,
+            54.168132
+          ],
+          [
+            -4.454041,
+            54.168079
+          ],
+          [
+            -4.453928,
+            54.168102
+          ],
+          [
+            -4.453939,
+            54.168121
+          ],
+          [
+            -4.453852,
+            54.168139
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475993,
+        "lon": -4.4539622677477,
+        "lat": 54.168128344392464,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475993"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475994,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453815,
+            54.168086
+          ],
+          [
+            -4.453835,
+            54.16812
+          ],
+          [
+            -4.453928,
+            54.168102
+          ],
+          [
+            -4.454041,
+            54.168079
+          ],
+          [
+            -4.45401,
+            54.168025
+          ],
+          [
+            -4.453893,
+            54.168048
+          ],
+          [
+            -4.453905,
+            54.168068
+          ],
+          [
+            -4.453815,
+            54.168086
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housename": "Kella",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM3 1HH",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475994,
+        "lon": -4.453928005716668,
+        "lat": 54.16807512136849,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475994"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475995,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453785,
+            54.168031
+          ],
+          [
+            -4.453803,
+            54.168065
+          ],
+          [
+            -4.453893,
+            54.168048
+          ],
+          [
+            -4.45401,
+            54.168025
+          ],
+          [
+            -4.45398,
+            54.167972
+          ],
+          [
+            -4.453863,
+            54.167994
+          ],
+          [
+            -4.453874,
+            54.168014
+          ],
+          [
+            -4.453785,
+            54.168031
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 1HJ",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475995,
+        "lon": -4.453897306842958,
+        "lat": 54.168020985438396,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475995"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475996,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453752,
+            54.167978
+          ],
+          [
+            -4.453772,
+            54.168012
+          ],
+          [
+            -4.453863,
+            54.167994
+          ],
+          [
+            -4.45398,
+            54.167972
+          ],
+          [
+            -4.453949,
+            54.167917
+          ],
+          [
+            -4.45383,
+            54.16794
+          ],
+          [
+            -4.453842,
+            54.16796
+          ],
+          [
+            -4.453752,
+            54.167978
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM3 1HJ",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary;interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475996,
+        "lon": -4.45386607302945,
+        "lat": 54.16796708899673,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475996"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475997,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453723,
+            54.167924
+          ],
+          [
+            -4.453741,
+            54.167957
+          ],
+          [
+            -4.45383,
+            54.16794
+          ],
+          [
+            -4.453949,
+            54.167917
+          ],
+          [
+            -4.453916,
+            54.16786
+          ],
+          [
+            -4.4538,
+            54.167884
+          ],
+          [
+            -4.453812,
+            54.167907
+          ],
+          [
+            -4.453723,
+            54.167924
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 1HJ",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475997,
+        "lon": -4.453835956578162,
+        "lat": 54.16791196620437,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475997"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329475998,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.453692,
+            54.167869
+          ],
+          [
+            -4.453711,
+            54.167902
+          ],
+          [
+            -4.4538,
+            54.167884
+          ],
+          [
+            -4.453916,
+            54.16786
+          ],
+          [
+            -4.453884,
+            54.167805
+          ],
+          [
+            -4.453767,
+            54.167828
+          ],
+          [
+            -4.45378,
+            54.167852
+          ],
+          [
+            -4.453692,
+            54.167869
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM3 1HJ",
+        "addr:street": "Belgravia Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329475998,
+        "lon": -4.453803698156424,
+        "lat": 54.16785625518145,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329475998"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1329481165,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.457605,
+            54.167857
+          ],
+          [
+            -4.457274,
+            54.167871
+          ],
+          [
+            -4.457282,
+            54.16794
+          ],
+          [
+            -4.457513,
+            54.16793
+          ],
+          [
+            -4.457518,
+            54.167969
+          ],
+          [
+            -4.457618,
+            54.167965
+          ],
+          [
+            -4.457605,
+            54.167857
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Rock Villa",
+        "addr:postcode": "IM3 1NN",
+        "addr:street": "Strathallan Road",
+        "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1329481165,
+        "lon": -4.457454985246574,
+        "lat": 54.16790726713726,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1329481165"
       }
     }
   ]

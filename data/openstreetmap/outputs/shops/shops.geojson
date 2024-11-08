@@ -2544,8 +2544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456608,
-          54.173552
+          -4.456664,
+          54.173591
         ]
       },
       "properties": {
@@ -2556,34 +2556,12 @@
         "name": "Eric Faragher Funeral Directors",
         "shop": "funeral_directors",
         "source": "streetside",
-        "website": "https://www.efl.im",
+        "website": "https://www.efl.im/",
         "osm_id": 10716379658,
-        "lon": -4.456608,
-        "lat": 54.173552,
+        "lon": -4.456664,
+        "lat": 54.173591,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10716379658"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10716379659,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.456712,
-          54.173485
-        ]
-      },
-      "properties": {
-        "name": "SCS",
-        "not:brand:wikidata": "Q19654399",
-        "shop": "yes",
-        "source": "streetside",
-        "osm_id": 10716379659,
-        "lon": -4.456712,
-        "lat": 54.173485,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10716379659"
       }
     },
     {
@@ -4022,12 +4000,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456889,
-          54.173265
+          -4.456932,
+          54.173276
         ]
       },
       "properties": {
-        "addr:city": "Douglas",
+        "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housename": "Aurora Brides",
         "addr:housenumber": "6",
         "addr:postcode": "IM3 1LZ",
@@ -4035,10 +4014,10 @@
         "name": "Aurora Brides",
         "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
         "phone": "+44 1624 664088",
-        "shop": "yes",
+        "shop": "bridal",
         "osm_id": 12195333904,
-        "lon": -4.456889,
-        "lat": 54.173265,
+        "lon": -4.456932,
+        "lat": 54.173276,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195333904"
       }
@@ -4049,42 +4028,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456848,
-          54.17333
+          -4.456879,
+          54.173333
         ]
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:postcode": "IM3 1LZ",
         "addr:street": "Summer Hill",
         "name": "Hearing Solutions",
         "shop": "hearing_aids",
-        "website": "https://www.iomhearingsolutions.im",
+        "website": "https://www.iomhearingsolutions.im/",
         "osm_id": 12195333905,
-        "lon": -4.456848,
-        "lat": 54.17333,
+        "lon": -4.456879,
+        "lat": 54.173333,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195333905"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12195333906,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.45694,
-          54.173211
-        ]
-      },
-      "properties": {
-        "shop": "butcher",
-        "osm_id": 12195333906,
-        "lon": -4.45694,
-        "lat": 54.173211,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12195333906"
       }
     },
     {
@@ -4093,20 +4054,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456989,
-          54.173157
+          -4.457037,
+          54.173162
         ]
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "14",
+        "addr:postcode": "IM3 1LZ",
         "addr:street": "Summer Hill",
         "name": "Hintons",
         "shop": "electronics",
         "source:addr:housenumber": "Isle of Man Government Companies Registry",
         "osm_id": 12195333907,
-        "lon": -4.456989,
-        "lat": 54.173157,
+        "lon": -4.457037,
+        "lat": 54.173162,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12195333907"
       }
@@ -21010,7 +20973,7 @@
         "addr:street": "Marina Road",
         "building": "yes",
         "name": "Manx Tattoo & Body Piercing",
-        "shop": "tattoo;piercing;",
+        "shop": "tattoo;piercing",
         "source": "Isle of Man Government aerial imagery (2001);photo;Bing;survey",
         "osm_id": 415157516,
         "lon": -4.478989258836208,
@@ -30778,6 +30741,48 @@
         "lat": 54.14407099999999,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1225789002"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1243246098,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.504865,
+            54.149767
+          ],
+          [
+            -4.504733,
+            54.149792
+          ],
+          [
+            -4.504712,
+            54.149753
+          ],
+          [
+            -4.50479,
+            54.149738
+          ],
+          [
+            -4.504844,
+            54.149728
+          ],
+          [
+            -4.504865,
+            54.149767
+          ]
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "shop": "vacant",
+        "osm_id": 1243246098,
+        "lon": -4.504788492190722,
+        "lat": 54.14975995870272,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1243246098"
       }
     },
     {

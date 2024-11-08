@@ -2039,8 +2039,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456608,
-          54.173552
+          -4.456664,
+          54.173591
         ]
       },
       "properties": {
@@ -2051,24 +2051,7 @@
         "name": "Eric Faragher Funeral Directors",
         "shop": "funeral_directors",
         "source": "streetside",
-        "website": "https://www.efl.im"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10716379659,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.456712,
-          54.173485
-        ]
-      },
-      "properties": {
-        "name": "SCS",
-        "not:brand:wikidata": "Q19654399",
-        "shop": "yes",
-        "source": "streetside"
+        "website": "https://www.efl.im/"
       }
     },
     {
@@ -3222,12 +3205,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456889,
-          54.173265
+          -4.456932,
+          54.173276
         ]
       },
       "properties": {
-        "addr:city": "Douglas",
+        "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housename": "Aurora Brides",
         "addr:housenumber": "6",
         "addr:postcode": "IM3 1LZ",
@@ -3235,7 +3219,7 @@
         "name": "Aurora Brides",
         "opening_hours": "Tu-Fr 10:30-17:00, Sa 09:30-16:00",
         "phone": "+44 1624 664088",
-        "shop": "yes"
+        "shop": "bridal"
       }
     },
     {
@@ -3244,32 +3228,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456848,
-          54.17333
+          -4.456879,
+          54.173333
         ]
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:postcode": "IM3 1LZ",
         "addr:street": "Summer Hill",
         "name": "Hearing Solutions",
         "shop": "hearing_aids",
-        "website": "https://www.iomhearingsolutions.im"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12195333906,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.45694,
-          54.173211
-        ]
-      },
-      "properties": {
-        "shop": "butcher"
+        "website": "https://www.iomhearingsolutions.im/"
       }
     },
     {
@@ -3278,13 +3249,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.456989,
-          54.173157
+          -4.457037,
+          54.173162
         ]
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "14",
+        "addr:postcode": "IM3 1LZ",
         "addr:street": "Summer Hill",
         "name": "Hintons",
         "shop": "electronics",
@@ -18665,7 +18638,7 @@
         "addr:street": "Marina Road",
         "building": "yes",
         "name": "Manx Tattoo & Body Piercing",
-        "shop": "tattoo;piercing;",
+        "shop": "tattoo;piercing",
         "source": "Isle of Man Government aerial imagery (2001);photo;Bing;survey"
       }
     },
@@ -27483,6 +27456,43 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "survey:date": "2022-09-24",
         "website": "https://www.rexmotorcompany.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1243246098,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.504865,
+            54.149767
+          ],
+          [
+            -4.504733,
+            54.149792
+          ],
+          [
+            -4.504712,
+            54.149753
+          ],
+          [
+            -4.50479,
+            54.149738
+          ],
+          [
+            -4.504844,
+            54.149728
+          ],
+          [
+            -4.504865,
+            54.149767
+          ]
+        ]
+      },
+      "properties": {
+        "building": "retail",
+        "shop": "vacant"
       }
     },
     {

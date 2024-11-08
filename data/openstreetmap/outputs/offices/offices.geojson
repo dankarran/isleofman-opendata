@@ -910,6 +910,36 @@
     },
     {
       "type": "Feature",
+      "id": 10716379659,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.456798,
+          54.173514
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housenumber": "2A",
+        "addr:postcode": "IM3 1AS",
+        "addr:street": "Onchan Main Road",
+        "contact:phone": "+44 1624 628424",
+        "contact:website": "https://scs.co.im/",
+        "description": "Building services engineers",
+        "name": "Stewart Clague Services Limited, Onchan office",
+        "not:brand:wikidata": "Q19654399",
+        "office": "company",
+        "source": "streetside",
+        "osm_id": 10716379659,
+        "lon": -4.456798,
+        "lat": 54.173514,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/10716379659"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10716379660,
       "geometry": {
         "type": "Point",
