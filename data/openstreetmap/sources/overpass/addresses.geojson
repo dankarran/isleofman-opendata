@@ -8377,47 +8377,6 @@
     },
     {
       "type": "Feature",
-      "id": 12007363590,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.463228,
-          54.167141
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "7",
-        "addr:postcode": "IM2 4PG",
-        "addr:street": "Summer Hill",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12007363596,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.461858,
-          54.167795
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "4",
-        "addr:postcode": "IM2 4PE",
-        "addr:street": "Summer Hill",
-        "addr:substreet": "Mount William",
-        "source:addr:housenumber": "streetside",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12009773329,
       "geometry": {
         "type": "Point",
@@ -159414,6 +159373,106 @@
         "addr:postcode": "IM3 1NN",
         "addr:street": "Strathallan Road",
         "building": "house",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1332054892,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.461863,
+            54.167749
+          ],
+          [
+            -4.461779,
+            54.167794
+          ],
+          [
+            -4.461883,
+            54.167869
+          ],
+          [
+            -4.4619,
+            54.16786
+          ],
+          [
+            -4.46204,
+            54.167959
+          ],
+          [
+            -4.462109,
+            54.167926
+          ],
+          [
+            -4.461863,
+            54.167749
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4PE",
+        "addr:street": "Summer Hill",
+        "addr:substreet": "Mount William",
+        "building": "house",
+        "source:addr:housenumber": "streetside",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1332054902,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.463273,
+            54.167209
+          ],
+          [
+            -4.463389,
+            54.167281
+          ],
+          [
+            -4.463428,
+            54.167259
+          ],
+          [
+            -4.463279,
+            54.167167
+          ],
+          [
+            -4.463309,
+            54.16715
+          ],
+          [
+            -4.463215,
+            54.167093
+          ],
+          [
+            -4.463146,
+            54.167133
+          ],
+          [
+            -4.463273,
+            54.167209
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 4PG",
+        "addr:street": "Summer Hill",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
