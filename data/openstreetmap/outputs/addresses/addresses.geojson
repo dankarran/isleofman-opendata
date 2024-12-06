@@ -7537,30 +7537,6 @@
     },
     {
       "type": "Feature",
-      "id": 10733868465,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.472248,
-          54.170454
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Palm Springs",
-        "addr:postcode": "IM2 6AW",
-        "addr:street": "Second Avenue",
-        "source:addr": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 10733868465,
-        "lon": -4.472248,
-        "lat": 54.170454,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10733868465"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10740059374,
       "geometry": {
         "type": "Point",
@@ -10905,158 +10881,6 @@
         "lat": 54.157911,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12173929086"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175344123,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.474698,
-          54.172516
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Devonshire House",
-        "addr:housenumber": "21",
-        "addr:postcode": "IM2 6AP",
-        "addr:street": "Second Avenue",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12175344123,
-        "lon": -4.474698,
-        "lat": 54.172516,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12175344123"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175344124,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.475194,
-          54.171711
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "27",
-        "addr:postcode": "IM2 6AZ",
-        "addr:street": "First Avenue",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12175344124,
-        "lon": -4.475194,
-        "lat": 54.171711,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12175344124"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175344125,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.473466,
-          54.16995
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Conister",
-        "addr:housenumber": "9",
-        "addr:postcode": "IM2 6BB",
-        "addr:street": "Glencrutchery Road",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12175344125,
-        "lon": -4.473466,
-        "lat": 54.16995,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12175344125"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175344126,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.473158,
-          54.170051
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Broadhurst",
-        "addr:housenumber": "10",
-        "addr:postcode": "IM2 6BB",
-        "addr:street": "Glencrutchery Road",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12175344126,
-        "lon": -4.473158,
-        "lat": 54.170051,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12175344126"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175344127,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.472817,
-          54.170179
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "Slaidburn",
-        "addr:housenumber": "12",
-        "addr:postcode": "IM2 6BB",
-        "addr:street": "Glencrutchery Road",
-        "source:addr:housename": "mapillary",
-        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12175344127,
-        "lon": -4.472817,
-        "lat": 54.170179,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12175344127"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12175344128,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.473028,
-          54.170098
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housenumber": "11",
-        "addr:postcode": "IM2 6BB",
-        "addr:street": "Glencrutchery Road",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12175344128,
-        "lon": -4.473028,
-        "lat": 54.170098,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12175344128"
       }
     },
     {
@@ -176659,6 +176483,431 @@
         "lat": 54.16718663610859,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1332054902"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064434,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473651,
+            54.169994
+          ],
+          [
+            -4.473557,
+            54.170028
+          ],
+          [
+            -4.473545,
+            54.170016
+          ],
+          [
+            -4.473388,
+            54.169999
+          ],
+          [
+            -4.473354,
+            54.170011
+          ],
+          [
+            -4.473291,
+            54.16995
+          ],
+          [
+            -4.473431,
+            54.1699
+          ],
+          [
+            -4.473448,
+            54.169916
+          ],
+          [
+            -4.473459,
+            54.169912
+          ],
+          [
+            -4.473477,
+            54.16991
+          ],
+          [
+            -4.473508,
+            54.169918
+          ],
+          [
+            -4.473518,
+            54.169928
+          ],
+          [
+            -4.473565,
+            54.169912
+          ],
+          [
+            -4.473651,
+            54.169994
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Conister",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064434,
+        "lon": -4.473472261877602,
+        "lat": 54.169965416563805,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064434"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064443,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475146,
+            54.171638
+          ],
+          [
+            -4.475266,
+            54.171629
+          ],
+          [
+            -4.475301,
+            54.171784
+          ],
+          [
+            -4.475177,
+            54.171793
+          ],
+          [
+            -4.475158,
+            54.171707
+          ],
+          [
+            -4.475114,
+            54.171711
+          ],
+          [
+            -4.475107,
+            54.171681
+          ],
+          [
+            -4.475154,
+            54.171677
+          ],
+          [
+            -4.475146,
+            54.171638
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM2 6AZ",
+        "addr:street": "First Avenue",
+        "building": "house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064443,
+        "lon": -4.475207838105447,
+        "lat": 54.17170922393041,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064443"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064446,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.472362,
+            54.170317
+          ],
+          [
+            -4.472121,
+            54.17042
+          ],
+          [
+            -4.472281,
+            54.170548
+          ],
+          [
+            -4.472402,
+            54.170497
+          ],
+          [
+            -4.472315,
+            54.170428
+          ],
+          [
+            -4.472436,
+            54.170376
+          ],
+          [
+            -4.472362,
+            54.170317
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Palm Springs",
+        "addr:postcode": "IM2 6AW",
+        "addr:street": "Second Avenue",
+        "building": "house",
+        "source:addr": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064446,
+        "lon": -4.472295341176424,
+        "lat": 54.17042904979237,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064446"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064455,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474845,
+            54.172467
+          ],
+          [
+            -4.474813,
+            54.172561
+          ],
+          [
+            -4.474574,
+            54.172533
+          ],
+          [
+            -4.474605,
+            54.172442
+          ],
+          [
+            -4.474694,
+            54.172453
+          ],
+          [
+            -4.474687,
+            54.172474
+          ],
+          [
+            -4.474763,
+            54.172483
+          ],
+          [
+            -4.474772,
+            54.172458
+          ],
+          [
+            -4.474845,
+            54.172467
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Devonshire House",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM2 6AP",
+        "addr:street": "Second Avenue",
+        "building": "house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064455,
+        "lon": -4.474710448878187,
+        "lat": 54.172501096987816,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064455"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064468,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473057,
+            54.17002
+          ],
+          [
+            -4.473156,
+            54.170114
+          ],
+          [
+            -4.473286,
+            54.170065
+          ],
+          [
+            -4.473188,
+            54.169973
+          ],
+          [
+            -4.473057,
+            54.17002
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Broadhurst",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "building": "semidetached_house",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064468,
+        "lon": -4.473171478155294,
+        "lat": 54.170043070789625,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064468"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473156,
+            54.170114
+          ],
+          [
+            -4.473009,
+            54.170167
+          ],
+          [
+            -4.472971,
+            54.170131
+          ],
+          [
+            -4.472981,
+            54.170127
+          ],
+          [
+            -4.472939,
+            54.170088
+          ],
+          [
+            -4.472959,
+            54.170081
+          ],
+          [
+            -4.472946,
+            54.170069
+          ],
+          [
+            -4.472983,
+            54.170055
+          ],
+          [
+            -4.472977,
+            54.170049
+          ],
+          [
+            -4.473057,
+            54.17002
+          ],
+          [
+            -4.473156,
+            54.170114
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064469,
+        "lon": -4.473038117781845,
+        "lat": 54.17009466141831,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064469"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1339064470,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.472953,
+            54.170199
+          ],
+          [
+            -4.472765,
+            54.170274
+          ],
+          [
+            -4.472703,
+            54.170222
+          ],
+          [
+            -4.472733,
+            54.17021
+          ],
+          [
+            -4.472688,
+            54.170171
+          ],
+          [
+            -4.472774,
+            54.170136
+          ],
+          [
+            -4.472789,
+            54.170149
+          ],
+          [
+            -4.47286,
+            54.17012
+          ],
+          [
+            -4.472953,
+            54.170199
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Slaidburn",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 6BB",
+        "addr:street": "Glencrutchery Road",
+        "building": "house",
+        "source:addr:housename": "mapillary",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1339064470,
+        "lon": -4.472809791814708,
+        "lat": 54.17019388148963,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1339064470"
       }
     }
   ]
