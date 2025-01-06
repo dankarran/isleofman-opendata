@@ -370,8 +370,10 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "atm": "yes",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
         "check_date": "2024-07-15",
-        "name": "The Co-operative, Woodbourne Road",
+        "name": "Co-op Food",
         "opening_hours": "08:00-22:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
@@ -2806,6 +2808,8 @@
         "addr:country": "IM",
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
+        "brand": "William Hill",
+        "brand:wikidata": "Q4053147",
         "entrance": "main",
         "name": "William Hill",
         "shop": "bookmaker"
@@ -3402,6 +3406,138 @@
     },
     {
       "type": "Feature",
+      "id": 12456000004,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756151,
+          54.086659
+        ]
+      },
+      "properties": {
+        "name": "Dolyn\u2019s Barbershop",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12456174195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756054,
+          54.086813
+        ]
+      },
+      "properties": {
+        "name": "Posh Wash Launderette",
+        "shop": "laundry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12456174198,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75606,
+          54.086926
+        ]
+      },
+      "properties": {
+        "name": "Southern Charitable Causes",
+        "shop": "charity"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12456174200,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756061,
+          54.086889
+        ]
+      },
+      "properties": {
+        "name": "The Flower Studio",
+        "shop": "florist"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12456180801,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.75606,
+          54.086852
+        ]
+      },
+      "properties": {
+        "female": "yes",
+        "male": "yes",
+        "name": "Tangles",
+        "shop": "hairdresser"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12462845529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.675898,
+          54.104585
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballabeg",
+        "addr:country": "IM",
+        "addr:housename": "Grenaby Studios",
+        "addr:postcode": "IM9 4HD",
+        "addr:street": "Grenaby Road",
+        "contact:facebook": "https://www.facebook.com/Grenaby/",
+        "fixme": "check site layout",
+        "name": "Grenaby Studios",
+        "shop": "art"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465463028,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379329,
+          54.321651
+        ]
+      },
+      "properties": {
+        "fixme": "check what this is, no signage",
+        "shop": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465463037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379464,
+          54.321944
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "clothes": "children",
+        "name": "Spark a Rainbow",
+        "note": "Kids clothes and coffee shop",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -3547,6 +3683,7 @@
         "addr:street": "Drumgold Street",
         "alt_name": "M&S",
         "brand": "Marks & Spencer",
+        "brand:short": "M&S",
         "brand:wikidata": "Q714491",
         "brand:wikipedia": "en:Marks & Spencer",
         "building": "yes",
@@ -4699,6 +4836,117 @@
     },
     {
       "type": "Feature",
+      "id": 59995917,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.630205,
+            54.093382
+          ],
+          [
+            -4.630064,
+            54.093339
+          ],
+          [
+            -4.630037,
+            54.093369
+          ],
+          [
+            -4.629933,
+            54.093336
+          ],
+          [
+            -4.629939,
+            54.093329
+          ],
+          [
+            -4.629906,
+            54.093319
+          ],
+          [
+            -4.629924,
+            54.093298
+          ],
+          [
+            -4.629881,
+            54.093284
+          ],
+          [
+            -4.63008,
+            54.093064
+          ],
+          [
+            -4.630091,
+            54.093067
+          ],
+          [
+            -4.630214,
+            54.093105
+          ],
+          [
+            -4.630189,
+            54.093133
+          ],
+          [
+            -4.630377,
+            54.093192
+          ],
+          [
+            -4.630415,
+            54.093204
+          ],
+          [
+            -4.630453,
+            54.093215
+          ],
+          [
+            -4.630475,
+            54.093192
+          ],
+          [
+            -4.630584,
+            54.093226
+          ],
+          [
+            -4.63052,
+            54.093296
+          ],
+          [
+            -4.630473,
+            54.093282
+          ],
+          [
+            -4.630379,
+            54.093387
+          ],
+          [
+            -4.630296,
+            54.093361
+          ],
+          [
+            -4.630261,
+            54.093399
+          ],
+          [
+            -4.630205,
+            54.093382
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:postcode": "IM9 2AN",
+        "addr:street": "Douglas Road",
+        "building": "yes",
+        "name": "Arbory Kitchens",
+        "shop": "kitchen",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "website": "https://arborykitchens.im"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59995918,
       "geometry": {
         "type": "LineString",
@@ -4796,6 +5044,98 @@
         "shop": "motorcycle",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.jasongriffiths.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59996944,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.652396,
+            54.076466
+          ],
+          [
+            -4.652427,
+            54.07647
+          ],
+          [
+            -4.652804,
+            54.076658
+          ],
+          [
+            -4.652901,
+            54.076586
+          ],
+          [
+            -4.652494,
+            54.076394
+          ],
+          [
+            -4.65234,
+            54.076363
+          ],
+          [
+            -4.651907,
+            54.076707
+          ],
+          [
+            -4.651966,
+            54.076734
+          ],
+          [
+            -4.651897,
+            54.076782
+          ],
+          [
+            -4.652006,
+            54.076836
+          ],
+          [
+            -4.652075,
+            54.076788
+          ],
+          [
+            -4.652473,
+            54.076978
+          ],
+          [
+            -4.652661,
+            54.076841
+          ],
+          [
+            -4.652578,
+            54.076802
+          ],
+          [
+            -4.652686,
+            54.076723
+          ],
+          [
+            -4.652423,
+            54.076601
+          ],
+          [
+            -4.652319,
+            54.076677
+          ],
+          [
+            -4.652201,
+            54.076619
+          ],
+          [
+            -4.652396,
+            54.076466
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "Qualtroughs Timber Yard DIY Merchant",
+        "shop": "trade;doityourself",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "trade": "timber"
       }
     },
     {
@@ -7428,7 +7768,7 @@
         "building": "retail",
         "name": "Newby's",
         "opening_hours": "Mo-Su 07:00-22:00",
-        "shop": "convenience",
+        "shop": "alcohol",
         "source": "Bing;survey"
       }
     },
@@ -8820,58 +9160,6 @@
     },
     {
       "type": "Feature",
-      "id": 100547591,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.630795,
-            54.098094
-          ],
-          [
-            -4.630924,
-            54.098051
-          ],
-          [
-            -4.63096,
-            54.098088
-          ],
-          [
-            -4.630988,
-            54.098078
-          ],
-          [
-            -4.631021,
-            54.098112
-          ],
-          [
-            -4.630981,
-            54.098126
-          ],
-          [
-            -4.631008,
-            54.098153
-          ],
-          [
-            -4.630892,
-            54.098193
-          ],
-          [
-            -4.630795,
-            54.098094
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ballasalla",
-        "addr:street": "Ballasalla Main Road",
-        "building": "yes",
-        "name": "Whitestone Stores",
-        "shop": "convenience"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 100789401,
       "geometry": {
         "type": "LineString",
@@ -9436,8 +9724,8 @@
         "addr:street": "Station Road",
         "building": "yes",
         "building:levels": "3",
-        "name": "Erin News",
-        "shop": "newsagent",
+        "old_name": "Erin News",
+        "shop": "vacant",
         "source": "survey"
       }
     },
@@ -14041,58 +14329,6 @@
     },
     {
       "type": "Feature",
-      "id": 147191821,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.693256,
-            54.222774
-          ],
-          [
-            -4.693157,
-            54.222783
-          ],
-          [
-            -4.693161,
-            54.222703
-          ],
-          [
-            -4.693171,
-            54.222644
-          ],
-          [
-            -4.693225,
-            54.222641
-          ],
-          [
-            -4.693222,
-            54.222698
-          ],
-          [
-            -4.693246,
-            54.222698
-          ],
-          [
-            -4.693256,
-            54.222774
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "38",
-        "addr:postcode": "IM5 1HD",
-        "addr:street": "Michael Street",
-        "building": "yes",
-        "name": "IJ & JM Mitchell, Newsagents",
-        "shop": "newsagent",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 147199527,
       "geometry": {
         "type": "LineString",
@@ -18671,8 +18907,9 @@
         ]
       },
       "properties": {
-        "name": "Amara",
-        "shop": "clothes"
+        "female": "yes",
+        "name": "Upmarket Hair Design Studio",
+        "shop": "hairdresser"
       }
     },
     {
@@ -19821,6 +20058,8 @@
         "addr:country": "IM",
         "addr:housenumber": "54",
         "addr:street": "Strand Street",
+        "brand": "Grape Tree",
+        "brand:wikidata": "Q87071497",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "2",
@@ -19918,7 +20157,8 @@
       },
       "properties": {
         "building": "retail",
-        "shop": "vacant"
+        "name": "J D Sports",
+        "shop": "sports"
       }
     },
     {
@@ -20719,15 +20959,16 @@
         "addr:housenumber": "27",
         "addr:postcode": "IM1 2EF",
         "addr:street": "Strand Street",
-        "brand": "Regatta",
+        "brand": "Regatta Great Outdoors",
         "brand:wikidata": "Q9305279",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Regatta",
+        "name": "Regatta Great Outdoors",
         "old_name": "Mountain Warehouse",
         "shop": "outdoor",
+        "short_name": "Regatta",
         "source": "Bing;photograph"
       }
     },
@@ -23174,6 +23415,7 @@
         "public_transport": "station",
         "railway": "station",
         "shop": "ticket",
+        "station": "light_rail",
         "wheelchair": "no",
         "wikidata": "Q5261425",
         "wikipedia": "en:Derby Castle terminus"
@@ -26090,6 +26332,46 @@
     },
     {
       "type": "Feature",
+      "id": 1194879900,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693024,
+            54.222722
+          ],
+          [
+            -4.693095,
+            54.222717
+          ],
+          [
+            -4.693094,
+            54.222789
+          ],
+          [
+            -4.693013,
+            54.222795
+          ],
+          [
+            -4.693024,
+            54.222722
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM5 1HD",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "IJ & JM Mitchell, Newsagents",
+        "shop": "newsagent",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1194879903,
       "geometry": {
         "type": "LineString",
@@ -28195,7 +28477,7 @@
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:Spar (retailer)",
-        "name": "Spar, Westmoreland Road",
+        "name": "Spar",
         "shop": "convenience"
       }
     },

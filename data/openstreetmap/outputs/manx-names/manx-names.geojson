@@ -4814,8 +4814,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.652816,
-          54.074547
+          -4.653157,
+          54.073393
         ]
       },
       "properties": {
@@ -4831,8 +4831,8 @@
         "wikidata": "Q158530",
         "wikipedia": "en:Castletown, Isle of Man",
         "osm_id": 10131472250,
-        "lon": -4.652816,
-        "lat": 54.074547,
+        "lon": -4.653157,
+        "lat": 54.073393,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10131472250"
       }
@@ -23948,54 +23948,6 @@
           [
             -4.52122,
             54.132978
-          ],
-          [
-            -4.521156,
-            54.133737
-          ],
-          [
-            -4.520962,
-            54.134203
-          ],
-          [
-            -4.520743,
-            54.134592
-          ],
-          [
-            -4.520224,
-            54.135216
-          ],
-          [
-            -4.519998,
-            54.135438
-          ],
-          [
-            -4.519478,
-            54.135799
-          ],
-          [
-            -4.51892,
-            54.136136
-          ],
-          [
-            -4.518343,
-            54.136421
-          ],
-          [
-            -4.517768,
-            54.136666
-          ],
-          [
-            -4.515746,
-            54.13733
-          ],
-          [
-            -4.51524,
-            54.13757
-          ],
-          [
-            -4.514864,
-            54.137809
           ]
         ]
       },
@@ -24009,8 +23961,8 @@
         "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
         "tracks": "1",
         "osm_id": 25987616,
-        "lon": -4.5254236778427455,
-        "lat": 54.12984955709131,
+        "lon": -4.528317045502533,
+        "lat": 54.127296877930235,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987616"
       }
@@ -24085,6 +24037,36 @@
         "lat": 54.15575146871605,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987636"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987641,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738911,
+            54.078645
+          ],
+          [
+            -4.739051,
+            54.07876
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Creggan Beg",
+        "name:gv": "Creggan Beg",
+        "surface": "paved",
+        "osm_id": 25987641,
+        "lon": -4.738981,
+        "lat": 54.078702500000006,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987641"
       }
     },
     {
@@ -26852,26 +26834,6 @@
           [
             -4.500762,
             54.148455
-          ],
-          [
-            -4.500217,
-            54.148767
-          ],
-          [
-            -4.499559,
-            54.149082
-          ],
-          [
-            -4.498924,
-            54.149331
-          ],
-          [
-            -4.49824,
-            54.149494
-          ],
-          [
-            -4.497776,
-            54.149563
           ]
         ]
       },
@@ -26885,8 +26847,8 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "tracks": "1",
         "osm_id": 25987986,
-        "lon": -4.503195863439176,
-        "lat": 54.146425116746,
+        "lon": -4.504486001494655,
+        "lat": 54.1455315129275,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987986"
       }
@@ -36325,6 +36287,10 @@
             54.07805
           ],
           [
+            -4.738462,
+            54.078088
+          ],
+          [
             -4.738399,
             54.078102
           ],
@@ -36333,8 +36299,8 @@
             54.078155
           ],
           [
-            -4.738016,
-            54.078235
+            -4.738022,
+            54.078232
           ],
           [
             -4.737787,
@@ -36393,8 +36359,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 25989042,
-        "lon": -4.736874265690137,
-        "lat": 54.07865739562317,
+        "lon": -4.736874266985265,
+        "lat": 54.07865738188495,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989042"
       }
@@ -52898,6 +52864,10 @@
             54.154554
           ],
           [
+            -4.481832,
+            54.154541
+          ],
+          [
             -4.481598,
             54.154527
           ],
@@ -53014,8 +52984,8 @@
         "wheelchair:description": "Wheelchairs currently unable to access the basement display area",
         "wikidata": "Q11988082",
         "osm_id": 59279322,
-        "lon": -4.481424687681902,
-        "lat": 54.15427855326845,
+        "lon": -4.481424687499141,
+        "lat": 54.154278556357355,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59279322"
       }
@@ -56201,6 +56171,10 @@
             54.078624
           ],
           [
+            -4.648846,
+            54.078636
+          ],
+          [
             -4.648833,
             54.078644
           ],
@@ -56245,6 +56219,10 @@
             54.078621
           ],
           [
+            -4.648792,
+            54.078609
+          ],
+          [
             -4.648851,
             54.07857
           ],
@@ -56276,8 +56254,8 @@
         "wikimedia_commons": "Category:Castletown railway station",
         "wikipedia": "en:Castletown railway station",
         "osm_id": 60582716,
-        "lon": -4.648767338295588,
-        "lat": 54.0786594309829,
+        "lon": -4.648767340912237,
+        "lat": 54.07865943401933,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60582716"
       }
@@ -69479,6 +69457,54 @@
     },
     {
       "type": "Feature",
+      "id": 159092863,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.758814,
+            54.084845
+          ],
+          [
+            -4.759275,
+            54.084843
+          ],
+          [
+            -4.759708,
+            54.084946
+          ],
+          [
+            -4.759964,
+            54.085019
+          ],
+          [
+            -4.760024,
+            54.085023
+          ],
+          [
+            -4.760082,
+            54.085018
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "lane_markings": "no",
+        "name": "Strand Road",
+        "name:en": "Strand Road",
+        "name:gv": "Raad Brooghy Traie",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "osm_id": 159092863,
+        "lon": -4.759451630873499,
+        "lat": 54.08490618975328,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/159092863"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 159101951,
       "geometry": {
         "type": "LineString",
@@ -72934,7 +72960,7 @@
         "lane_markings": "no",
         "name": "Shore Road",
         "name:en": "Shore Road",
-        "name:gv": "Bayr Ny Traie",
+        "name:gv": "Raad y Traie",
         "surface": "paved",
         "osm_id": 163443125,
         "lon": -4.761489986129606,
@@ -74184,6 +74210,63 @@
         "lat": 54.16145903586553,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/164408446"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 164539377,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516751,
+            54.147586
+          ],
+          [
+            -4.517046,
+            54.147596
+          ],
+          [
+            -4.51753,
+            54.147612
+          ],
+          [
+            -4.51805,
+            54.147619
+          ],
+          [
+            -4.518378,
+            54.147627
+          ],
+          [
+            -4.518442,
+            54.147628
+          ],
+          [
+            -4.518482,
+            54.147642
+          ],
+          [
+            -4.518727,
+            54.147739
+          ]
+        ]
+      },
+      "properties": {
+        "fixme": "Check Manx spelling ",
+        "highway": "residential",
+        "name": "Hampton Farm Road",
+        "name:en": "Hampton Farm Road",
+        "name:gv": "Balley Hoyntyn",
+        "postal_code": "IM2 2DN",
+        "ref": "C1848",
+        "source": "survey;legislation",
+        "source:postal_code": "Isle of Man Government Companies Registry",
+        "osm_id": 164539377,
+        "lon": -4.517747774673453,
+        "lat": 54.14762101561926,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/164539377"
       }
     },
     {
@@ -87935,6 +88018,7 @@
         "public_transport": "station",
         "railway": "station",
         "shop": "ticket",
+        "station": "light_rail",
         "wheelchair": "no",
         "wikidata": "Q5261425",
         "wikipedia": "en:Derby Castle terminus",
@@ -108963,118 +109047,6 @@
           [
             -4.496825,
             54.149612
-          ],
-          [
-            -4.496657,
-            54.149603
-          ],
-          [
-            -4.496508,
-            54.149588
-          ],
-          [
-            -4.496329,
-            54.149563
-          ],
-          [
-            -4.495858,
-            54.149488
-          ],
-          [
-            -4.494776,
-            54.149321
-          ],
-          [
-            -4.494135,
-            54.149219
-          ],
-          [
-            -4.493003,
-            54.14905
-          ],
-          [
-            -4.492753,
-            54.149009
-          ],
-          [
-            -4.492475,
-            54.148962
-          ],
-          [
-            -4.492158,
-            54.148901
-          ],
-          [
-            -4.491934,
-            54.148849
-          ],
-          [
-            -4.491761,
-            54.148803
-          ],
-          [
-            -4.491583,
-            54.148754
-          ],
-          [
-            -4.491451,
-            54.148715
-          ],
-          [
-            -4.491177,
-            54.148623
-          ],
-          [
-            -4.491083,
-            54.148592
-          ],
-          [
-            -4.491001,
-            54.148559
-          ],
-          [
-            -4.490882,
-            54.148514
-          ],
-          [
-            -4.490789,
-            54.148481
-          ],
-          [
-            -4.490714,
-            54.148459
-          ],
-          [
-            -4.490556,
-            54.148419
-          ],
-          [
-            -4.490451,
-            54.148392
-          ],
-          [
-            -4.490269,
-            54.148347
-          ],
-          [
-            -4.48995,
-            54.148278
-          ],
-          [
-            -4.488838,
-            54.148063
-          ],
-          [
-            -4.488762,
-            54.14805
-          ],
-          [
-            -4.48869,
-            54.148041
-          ],
-          [
-            -4.488601,
-            54.148033
           ]
         ]
       },
@@ -109088,8 +109060,8 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "tracks": "1",
         "osm_id": 1163418924,
-        "lon": -4.492856563002511,
-        "lat": 54.148927998108746,
+        "lon": -4.496987003366256,
+        "lat": 54.149612743816775,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1163418924"
       }
@@ -117947,6 +117919,455 @@
         "lat": 54.32491607194405,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1321510484"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489139,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494135,
+            54.149219
+          ],
+          [
+            -4.493003,
+            54.14905
+          ],
+          [
+            -4.492753,
+            54.149009
+          ],
+          [
+            -4.492475,
+            54.148962
+          ],
+          [
+            -4.492158,
+            54.148901
+          ],
+          [
+            -4.491934,
+            54.148849
+          ],
+          [
+            -4.491761,
+            54.148803
+          ],
+          [
+            -4.491583,
+            54.148754
+          ],
+          [
+            -4.491451,
+            54.148715
+          ],
+          [
+            -4.491177,
+            54.148623
+          ],
+          [
+            -4.491083,
+            54.148592
+          ],
+          [
+            -4.491001,
+            54.148559
+          ],
+          [
+            -4.490882,
+            54.148514
+          ],
+          [
+            -4.490789,
+            54.148481
+          ],
+          [
+            -4.490714,
+            54.148459
+          ],
+          [
+            -4.490556,
+            54.148419
+          ],
+          [
+            -4.490451,
+            54.148392
+          ],
+          [
+            -4.490269,
+            54.148347
+          ],
+          [
+            -4.48995,
+            54.148278
+          ],
+          [
+            -4.488838,
+            54.148063
+          ],
+          [
+            -4.488762,
+            54.14805
+          ],
+          [
+            -4.48869,
+            54.148041
+          ],
+          [
+            -4.488601,
+            54.148033
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489139,
+        "lon": -4.491363228690404,
+        "lat": 54.14864907696136,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489139"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489140,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498924,
+            54.149331
+          ],
+          [
+            -4.49824,
+            54.149494
+          ],
+          [
+            -4.497776,
+            54.149563
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489140,
+        "lon": -4.498352302090546,
+        "lat": 54.149458919786575,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489140"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489141,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.52122,
+            54.132978
+          ],
+          [
+            -4.521156,
+            54.133737
+          ],
+          [
+            -4.520962,
+            54.134203
+          ],
+          [
+            -4.520743,
+            54.134592
+          ],
+          [
+            -4.520224,
+            54.135216
+          ]
+        ]
+      },
+      "properties": {
+        "cutting": "yes",
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489141,
+        "lon": -4.520876383144513,
+        "lat": 54.134161072315166,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489141"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489142,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.500762,
+            54.148455
+          ],
+          [
+            -4.500217,
+            54.148767
+          ],
+          [
+            -4.499559,
+            54.149082
+          ],
+          [
+            -4.498924,
+            54.149331
+          ]
+        ]
+      },
+      "properties": {
+        "cutting": "yes",
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489142,
+        "lon": -4.49985700015688,
+        "lat": 54.14892227935717,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489142"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489143,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.519478,
+            54.135799
+          ],
+          [
+            -4.51892,
+            54.136136
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489143,
+        "lon": -4.519199,
+        "lat": 54.1359675,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489143"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489144,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.496825,
+            54.149612
+          ],
+          [
+            -4.496657,
+            54.149603
+          ],
+          [
+            -4.496508,
+            54.149588
+          ],
+          [
+            -4.496329,
+            54.149563
+          ],
+          [
+            -4.495858,
+            54.149488
+          ],
+          [
+            -4.494776,
+            54.149321
+          ],
+          [
+            -4.494135,
+            54.149219
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "no",
+        "embankment": "yes",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489144,
+        "lon": -4.495478549197742,
+        "lat": 54.14942805972026,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489144"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489145,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51892,
+            54.136136
+          ],
+          [
+            -4.518343,
+            54.136421
+          ],
+          [
+            -4.517768,
+            54.136666
+          ],
+          [
+            -4.515746,
+            54.13733
+          ],
+          [
+            -4.51524,
+            54.13757
+          ],
+          [
+            -4.514864,
+            54.137809
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489145,
+        "lon": -4.51688202596822,
+        "lat": 54.136955775909556,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489145"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1346489146,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.520224,
+            54.135216
+          ],
+          [
+            -4.519998,
+            54.135438
+          ],
+          [
+            -4.519478,
+            54.135799
+          ]
+        ]
+      },
+      "properties": {
+        "cutting": "yes",
+        "electrified": "no",
+        "gauge": "914",
+        "name": "Isle of Man Steam Railway",
+        "name:en": "Isle of Man Steam Railway",
+        "name:gv": "Raad Yiarn Vannin",
+        "railway": "narrow_gauge",
+        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "tracks": "1",
+        "osm_id": 1346489146,
+        "lon": -4.519862407640147,
+        "lat": 54.13552127526246,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1346489146"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1347530315,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738043,
+            54.075047
+          ],
+          [
+            -4.738069,
+            54.075004
+          ],
+          [
+            -4.738346,
+            54.074751
+          ],
+          [
+            -4.738516,
+            54.074613
+          ],
+          [
+            -4.738641,
+            54.074307
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Bay View Road",
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Primrose Terrace",
+        "name:gv": "Strane Primrose",
+        "osm_id": 1347530315,
+        "lon": -4.738375677766015,
+        "lat": 54.07469966452734,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1347530315"
       }
     }
   ]

@@ -1621,6 +1621,29 @@
     },
     {
       "type": "Feature",
+      "id": 475393533,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.666675,
+          54.109827
+        ]
+      },
+      "properties": {
+        "name": "Ballavarkish",
+        "place": "farm",
+        "postal_code": "IM9 4HD",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 475393533,
+        "lon": -4.666675,
+        "lat": 54.109827,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393533"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393542,
       "geometry": {
         "type": "Point",
@@ -4992,8 +5015,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474905,
-          54.161374
+          -4.474823,
+          54.161399
         ]
       },
       "properties": {
@@ -5005,8 +5028,8 @@
         "postal_code": "IM2 4LE",
         "website": "https://www.hqbar.im/",
         "osm_id": 478680059,
-        "lon": -4.474905,
-        "lat": 54.161374,
+        "lon": -4.474823,
+        "lat": 54.161399,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/478680059"
       }
@@ -5738,11 +5761,10 @@
         "addr:housename": "The Old Courthouse",
         "addr:postcode": "IM1 1LD",
         "addr:street": "Athol Street",
-        "amenity": "bar",
-        "name": "The Courthouse",
+        "disused:amenity": "bar",
+        "old_name": "The Courthouse",
         "postal_code": "IM1 1LD",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
-        "website": "http://www.the-courthouse.com",
         "osm_id": 10618502535,
         "lon": -4.48162,
         "lat": 54.14939,
@@ -34001,6 +34023,237 @@
     },
     {
       "type": "Feature",
+      "id": 59276113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.472414,
+            54.14822
+          ],
+          [
+            -4.472353,
+            54.148209
+          ],
+          [
+            -4.471385,
+            54.148029
+          ],
+          [
+            -4.471419,
+            54.14797
+          ],
+          [
+            -4.472384,
+            54.148148
+          ],
+          [
+            -4.472604,
+            54.148189
+          ],
+          [
+            -4.472656,
+            54.148192
+          ],
+          [
+            -4.472716,
+            54.14819
+          ],
+          [
+            -4.472875,
+            54.148187
+          ],
+          [
+            -4.473079,
+            54.148183
+          ],
+          [
+            -4.474144,
+            54.148161
+          ],
+          [
+            -4.474593,
+            54.148151
+          ],
+          [
+            -4.474593,
+            54.148169
+          ],
+          [
+            -4.474613,
+            54.148171
+          ],
+          [
+            -4.474618,
+            54.148198
+          ],
+          [
+            -4.47462,
+            54.148269
+          ],
+          [
+            -4.474527,
+            54.148273
+          ],
+          [
+            -4.474434,
+            54.148281
+          ],
+          [
+            -4.474303,
+            54.14831
+          ],
+          [
+            -4.474187,
+            54.148362
+          ],
+          [
+            -4.474109,
+            54.148409
+          ],
+          [
+            -4.474044,
+            54.148514
+          ],
+          [
+            -4.474042,
+            54.148524
+          ],
+          [
+            -4.474038,
+            54.148584
+          ],
+          [
+            -4.474067,
+            54.148678
+          ],
+          [
+            -4.474142,
+            54.148753
+          ],
+          [
+            -4.474181,
+            54.148773
+          ],
+          [
+            -4.474195,
+            54.14878
+          ],
+          [
+            -4.474314,
+            54.148839
+          ],
+          [
+            -4.474277,
+            54.148873
+          ],
+          [
+            -4.474239,
+            54.148907
+          ],
+          [
+            -4.474138,
+            54.148862
+          ],
+          [
+            -4.474095,
+            54.148839
+          ],
+          [
+            -4.474055,
+            54.148812
+          ],
+          [
+            -4.474006,
+            54.148772
+          ],
+          [
+            -4.473977,
+            54.148739
+          ],
+          [
+            -4.473923,
+            54.148679
+          ],
+          [
+            -4.473867,
+            54.148636
+          ],
+          [
+            -4.473825,
+            54.148612
+          ],
+          [
+            -4.47378,
+            54.148593
+          ],
+          [
+            -4.473714,
+            54.148574
+          ],
+          [
+            -4.473651,
+            54.148559
+          ],
+          [
+            -4.473541,
+            54.148552
+          ],
+          [
+            -4.473382,
+            54.148527
+          ],
+          [
+            -4.473278,
+            54.148496
+          ],
+          [
+            -4.473158,
+            54.148445
+          ],
+          [
+            -4.472758,
+            54.148276
+          ],
+          [
+            -4.472544,
+            54.148244
+          ],
+          [
+            -4.472414,
+            54.14822
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Sea Terminal",
+        "addr:housenumber": "8",
+        "addr:street": "Bath Place",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "ferry": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Isle of Man Sea Terminal",
+        "operator": "Department of Infrastructure",
+        "postal_code": "IM1 2RF",
+        "public_transport": "station",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.steam-packet.com/SteamPacket/Our-Ports/douglas.htm",
+        "wheelchair": "yes",
+        "wikidata": "Q15228877",
+        "osm_id": 59276113,
+        "lon": -4.4731547012901265,
+        "lat": 54.148293605844984,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/59276113"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59284204,
       "geometry": {
         "type": "LineString",
@@ -35183,36 +35436,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.625936,
-            54.093243
+            -4.625966,
+            54.093238
           ],
           [
-            -4.626177,
-            54.093151
+            -4.626207,
+            54.093147
           ],
           [
-            -4.626381,
-            54.09334
+            -4.626411,
+            54.093335
           ],
           [
-            -4.626199,
-            54.093409
+            -4.626228,
+            54.093405
           ],
           [
-            -4.626225,
-            54.093438
+            -4.626255,
+            54.093433
           ],
           [
-            -4.626177,
-            54.093457
+            -4.626207,
+            54.093452
           ],
           [
-            -4.625936,
-            54.093243
+            -4.625966,
+            54.093238
           ]
         ]
       },
       "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:unit": "26",
         "building": "industrial",
         "business": "stonemason",
         "name": "Pooil Vaaish Ltd",
@@ -35220,8 +35477,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://pooilvaaish.com/",
         "osm_id": 59995945,
-        "lon": -4.626162169817521,
-        "lat": 54.093301148994634,
+        "lon": -4.626192172614671,
+        "lat": 54.09329662813263,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59995945"
       }
@@ -36550,6 +36807,10 @@
             54.077732
           ],
           [
+            -4.738818,
+            54.077849
+          ],
+          [
             -4.738839,
             54.077868
           ],
@@ -36614,8 +36875,8 @@
         "postal_code": "IM9 5DA",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 61009476,
-        "lon": -4.738650689769999,
-        "lat": 54.07782332918715,
+        "lon": -4.7386506562304564,
+        "lat": 54.07782336602687,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/61009476"
       }
@@ -40161,68 +40422,68 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.737088,
-            54.078833
+            -4.737179,
+            54.07878
           ],
           [
-            -4.737091,
-            54.078819
+            -4.737181,
+            54.078766
           ],
           [
-            -4.737116,
-            54.078808
+            -4.737207,
+            54.078755
           ],
           [
-            -4.737144,
-            54.078809
+            -4.737234,
+            54.078756
           ],
           [
-            -4.737174,
-            54.078797
+            -4.737264,
+            54.078744
           ],
           [
-            -4.737176,
+            -4.737266,
+            54.078729
+          ],
+          [
+            -4.737291,
+            54.078719
+          ],
+          [
+            -4.73732,
+            54.078717
+          ],
+          [
+            -4.737403,
             54.078782
           ],
           [
-            -4.737201,
-            54.078772
+            -4.73737,
+            54.078797
           ],
           [
-            -4.737229,
-            54.078773
+            -4.737407,
+            54.078826
           ],
           [
-            -4.737312,
-            54.07884
+            -4.737317,
+            54.078865
           ],
           [
-            -4.737328,
-            54.078854
+            -4.737298,
+            54.07885
           ],
           [
-            -4.737308,
-            54.078862
+            -4.737278,
+            54.078859
           ],
           [
-            -4.737426,
-            54.078959
+            -4.737268,
+            54.078848
           ],
           [
-            -4.737333,
-            54.078998
-          ],
-          [
-            -4.737215,
-            54.078902
-          ],
-          [
-            -4.737187,
-            54.078913
-          ],
-          [
-            -4.737088,
-            54.078833
+            -4.737179,
+            54.07878
           ]
         ]
       },
@@ -40238,8 +40499,8 @@
         "tourism": "guest_house",
         "website": "https://www.aaronhouse.im",
         "osm_id": 101799684,
-        "lon": -4.73725854102784,
-        "lat": 54.078882177095416,
+        "lon": -4.737302174267259,
+        "lat": 54.078791375264785,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/101799684"
       }
@@ -43110,8 +43371,11 @@
         ]
       },
       "properties": {
+        "fixme": "Check Manx spelling ",
         "highway": "residential",
         "name": "Hampton Farm Road",
+        "name:en": "Hampton Farm Road",
+        "name:gv": "Balley Hoyntyn",
         "postal_code": "IM2 2DN",
         "ref": "C1848",
         "source": "survey;legislation",
@@ -44555,6 +44819,10 @@
             54.097851
           ],
           [
+            -4.630794,
+            54.097844
+          ],
+          [
             -4.631012,
             54.097793
           ],
@@ -44601,8 +44869,8 @@
         "source": "Bing",
         "website": "http://www.malewparish.org/",
         "osm_id": 220277542,
-        "lon": -4.630908498927803,
-        "lat": 54.09791483823751,
+        "lon": -4.63090851874574,
+        "lat": 54.09791492846296,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/220277542"
       }
@@ -51469,12 +51737,12 @@
             54.101386
           ],
           [
-            -4.618132,
-            54.101609
+            -4.618084,
+            54.101587
           ],
           [
-            -4.618208,
-            54.101708
+            -4.618131,
+            54.101657
           ]
         ]
       },
@@ -51485,8 +51753,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 1006860208,
-        "lon": -4.618285381056409,
-        "lat": 54.10117647191547,
+        "lon": -4.6182864847932406,
+        "lat": 54.10115246352268,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1006860208"
       }
@@ -56619,6 +56887,102 @@
         "lat": 54.100482,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1330763122"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1347283376,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.628654,
+            54.093567
+          ],
+          [
+            -4.62877,
+            54.093614
+          ],
+          [
+            -4.629497,
+            54.093909
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Trafalgar Park",
+        "postal_code": "IM9 2RA",
+        "surface": "paving_stones",
+        "osm_id": 1347283376,
+        "lon": -4.629075510532644,
+        "lat": 54.093737974023924,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1347283376"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1347283377,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.629977,
+            54.093531
+          ],
+          [
+            -4.629497,
+            54.093909
+          ],
+          [
+            -4.629151,
+            54.094181
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Trafalgar Park",
+        "postal_code": "IM9 2RA",
+        "surface": "paving_stones",
+        "osm_id": 1347283377,
+        "lon": -4.629564067066547,
+        "lat": 54.09385608523819,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1347283377"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1347283381,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.629278,
+            54.093249
+          ],
+          [
+            -4.62877,
+            54.093614
+          ],
+          [
+            -4.628383,
+            54.093893
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "service",
+        "name": "Trafalgar Park",
+        "postal_code": "IM9 2RA",
+        "surface": "paving_stones",
+        "osm_id": 1347283381,
+        "lon": -4.628830373645425,
+        "lat": 54.09357082443838,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1347283381"
       }
     }
   ]

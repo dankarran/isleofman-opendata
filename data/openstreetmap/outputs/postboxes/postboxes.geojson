@@ -1100,6 +1100,8 @@
         "amenity": "post_box",
         "name": "Fistard",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:type": "lamp",
         "ref": "146",
@@ -1831,6 +1833,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "fixme": "check existence; maybe replaced/moved around corner to Glencrutchery Road",
         "osm_id": 283520673,
         "lon": -4.469112,
         "lat": 54.170956,
@@ -5164,6 +5167,27 @@
         "lat": 54.233261,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12124514865"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12463077643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.470237,
+          54.170906
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "post_box:type": "lamp",
+        "source": "survey;streetside",
+        "osm_id": 12463077643,
+        "lon": -4.470237,
+        "lat": 54.170906,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12463077643"
       }
     }
   ]

@@ -240,8 +240,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.464074,
-          54.166583
+          -4.463981,
+          54.166641
         ]
       },
       "properties": {
@@ -300,8 +300,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474905,
-          54.161374
+          -4.474823,
+          54.161399
         ]
       },
       "properties": {
@@ -695,8 +695,9 @@
         "addr:street": "Castle Street",
         "amenity": "restaurant",
         "contact:phone": "+44 1624 626003",
-        "contact:website": "figandolive.im",
+        "contact:website": "https://figandolive.im",
         "cuisine": "mediterranean",
+        "level": "1",
         "name": "The Fig & Olive",
         "source": "survey",
         "wheelchair": "no"
@@ -1169,9 +1170,9 @@
         ]
       },
       "properties": {
-        "amenity": "restaurant",
+        "amenity": "cafe",
         "name": "The Bay Room",
-        "phone": "01624 612211",
+        "phone": "+44 1624 612211",
         "website": "https://www.gov.im/mnh/heritage/restaurants/"
       }
     },
@@ -1417,8 +1418,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.464145,
-          54.166558
+          -4.464126,
+          54.166564
         ]
       },
       "properties": {
@@ -1969,29 +1970,6 @@
     },
     {
       "type": "Feature",
-      "id": 10618502535,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48162,
-          54.14939
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "The Old Courthouse",
-        "addr:postcode": "IM1 1LD",
-        "addr:street": "Athol Street",
-        "amenity": "bar",
-        "name": "The Courthouse",
-        "postal_code": "IM1 1LD",
-        "source": "Isle of Man Government aerial imagery (2001);Bing",
-        "website": "http://www.the-courthouse.com"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10620013850,
       "geometry": {
         "type": "Point",
@@ -2427,7 +2405,8 @@
         "entrance": "main",
         "name": "Neos",
         "opening_hours": "Su-Th 18:00-21:00, Fr-Sa 17:00-23:00",
-        "strapline": "Sourdough pizza"
+        "strapline": "Sourdough pizza",
+        "takeaway": "only"
       }
     },
     {
@@ -2616,6 +2595,57 @@
         "cuisine": "italian",
         "name": "Tuscany Restaurant",
         "source": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12459262014,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.465192,
+          54.166193
+        ]
+      },
+      "properties": {
+        "amenity": "restaurant",
+        "cuisine": "french",
+        "name": "L'experience",
+        "phone": "+44 1624 612211",
+        "website": "http://www.lex.co.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12463077640,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.391271,
+          54.225022
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "name": "Laxey Beach Cafe"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465463037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379464,
+          54.321944
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "clothes": "children",
+        "name": "Spark a Rainbow",
+        "note": "Kids clothes and coffee shop",
+        "shop": "clothes"
       }
     },
     {
@@ -6713,24 +6743,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.379239,
-            54.321563
+            -4.379238,
+            54.321562
           ],
           [
             -4.379268,
             54.32163
           ],
           [
-            -4.379369,
+            -4.379364,
             54.321615
           ],
           [
-            -4.37934,
+            -4.379333,
             54.321548
           ],
           [
-            -4.379239,
-            54.321563
+            -4.379238,
+            54.321562
           ]
         ]
       },
@@ -6791,6 +6821,58 @@
         "name": "Pizzanista",
         "takeaway": "yes",
         "wheelchair": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 102638493,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.379348,
+            54.321913
+          ],
+          [
+            -4.379268,
+            54.321931
+          ],
+          [
+            -4.379181,
+            54.3218
+          ],
+          [
+            -4.379219,
+            54.321792
+          ],
+          [
+            -4.37941,
+            54.321748
+          ],
+          [
+            -4.37947,
+            54.321838
+          ],
+          [
+            -4.379321,
+            54.321872
+          ],
+          [
+            -4.379348,
+            54.321913
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ramsey",
+        "addr:postcode": "IM8 1JY",
+        "addr:street": "Market Place",
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Barbary Coast",
+        "old_name": "The Royal George",
+        "source": "survey",
+        "website": "https://barbarynorthcoast.im"
       }
     },
     {
@@ -9133,6 +9215,50 @@
     },
     {
       "type": "Feature",
+      "id": 158683955,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.643409,
+            54.157666
+          ],
+          [
+            -4.64341,
+            54.157696
+          ],
+          [
+            -4.643414,
+            54.157828
+          ],
+          [
+            -4.643496,
+            54.157827
+          ],
+          [
+            -4.643492,
+            54.157665
+          ],
+          [
+            -4.643409,
+            54.157666
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Foxdale",
+        "addr:housename": "Watertrough Cottage",
+        "addr:street": "Shoulder Road",
+        "amenity": "cafe",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/thecoffeecottagesouthbarrule",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "The Coffee Cottage"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 159753877,
       "geometry": {
         "type": "LineString",
@@ -9455,58 +9581,6 @@
     },
     {
       "type": "Feature",
-      "id": 227140563,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.426401,
-            54.193762
-          ],
-          [
-            -4.426145,
-            54.193725
-          ],
-          [
-            -4.426116,
-            54.193736
-          ],
-          [
-            -4.426102,
-            54.193747
-          ],
-          [
-            -4.426096,
-            54.193812
-          ],
-          [
-            -4.426087,
-            54.193914
-          ],
-          [
-            -4.426318,
-            54.193945
-          ],
-          [
-            -4.426401,
-            54.193762
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:postcode": "IM4 6AE",
-        "addr:street": "Baldrine Main Road",
-        "amenity": "pub",
-        "building": "pub",
-        "name": "Liverpool Arms",
-        "operator": "D's Leisure",
-        "phone": "+44 1624 674787",
-        "website": "http://www.liverpoolarms.com/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 230777716,
       "geometry": {
         "type": "LineString",
@@ -9601,9 +9675,10 @@
         "building:colour": "white",
         "building:levels": "2",
         "building:material": "plaster",
-        "contact:facebook": "https://www.facebook.com/LaxeyPitStop/",
+        "contact:facebook": "https://m.facebook.com/100092946731180/",
         "cuisine": "pizza",
-        "name": "Laxey Pit Stop",
+        "name": "Isabella's Pizzeria",
+        "phone": "+44 7624 322321",
         "source": "Bing",
         "was:amenity": "post_office"
       }
@@ -10558,7 +10633,7 @@
         "contact:email": "hello@vibecafe.im",
         "contact:phone": "+44 1624 612355",
         "contact:website": "https://www.vibeplantbasedcafe.com/",
-        "cuisine": "vegan",
+        "diet:vegan": "yes",
         "name": "Vibe",
         "opening_hours": "We-Sa 11:00-14:00, 17:30-20:00, Su 11:00-15:00",
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
@@ -12482,15 +12557,15 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "check_date": "2023-08-11",
+        "check_date": "2024-12-17",
         "contact:facebook": "https://www.facebook.com/thethirstypigeon/",
         "contact:phone": "+44 1624 675584",
         "contact:twitter": "https://twitter.com/Thirsty_pigeon",
-        "currency:XBT": "yes",
+        "currency:XBT": "no",
         "name": "The Thirsty Pigeon",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
         "phone": "+44 1624 675584",
         "source": "Bing;photograph"
       }
@@ -14456,60 +14531,6 @@
     },
     {
       "type": "Feature",
-      "id": 1148906138,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.631257,
-            54.098636
-          ],
-          [
-            -4.631226,
-            54.098605
-          ],
-          [
-            -4.63121,
-            54.09861
-          ],
-          [
-            -4.63106,
-            54.098661
-          ],
-          [
-            -4.631076,
-            54.098678
-          ],
-          [
-            -4.631036,
-            54.098692
-          ],
-          [
-            -4.63105,
-            54.098706
-          ],
-          [
-            -4.631257,
-            54.098636
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ballasalla",
-        "addr:country": "IM",
-        "addr:postcode": "IM9 2DA",
-        "addr:street": "Ballasalla Main Road",
-        "amenity": "restaurant",
-        "building": "yes",
-        "contact:facebook": "https://www.facebook.com/IOMFourSeasonsChinese/",
-        "cuisine": "chinese",
-        "name": "Four Seasons",
-        "opening_hours": "We,Th,Su 17:00-21:30, Fr,Sa 17:00-22:30",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1154135530,
       "geometry": {
         "type": "LineString",
@@ -14630,66 +14651,6 @@
         "contact:facebook": "https://www.facebook.com/TheWoodbourne/",
         "name": "The Woodbourne",
         "website": "https://pubsandbars.im/venue/the-woodbourne/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1155006397,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.643052,
-            54.15774
-          ],
-          [
-            -4.642988,
-            54.157739
-          ],
-          [
-            -4.642991,
-            54.157672
-          ],
-          [
-            -4.64305,
-            54.157673
-          ],
-          [
-            -4.643078,
-            54.157673
-          ],
-          [
-            -4.643079,
-            54.157648
-          ],
-          [
-            -4.643195,
-            54.15765
-          ],
-          [
-            -4.643192,
-            54.157704
-          ],
-          [
-            -4.643054,
-            54.157702
-          ],
-          [
-            -4.643052,
-            54.15774
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Foxdale",
-        "addr:housename": "Watertrough Cottage",
-        "addr:street": "Shoulder Road",
-        "amenity": "cafe",
-        "building": "yes",
-        "contact:facebook": "https://www.facebook.com/thecoffeecottagesouthbarrule",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "The Coffee Cottage"
       }
     },
     {
@@ -14857,7 +14818,7 @@
         "amenity": "cafe",
         "building": "yes",
         "cuisine": "ice_cream",
-        "name": "The Gelatory Shed"
+        "name": "The Gelato Shed"
       }
     },
     {

@@ -610,6 +610,132 @@
         "opening_hours": "24/7",
         "wheelchair": "limited"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12441422131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.643259,
+          54.157654
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "Mounted on the wall outside the entrance to Laser Mayhem",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12453315096,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452287,
+          54.16732
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "On the wall outside Port Jack Chippy",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12453712747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.648836,
+          54.078582
+        ]
+      },
+      "properties": {
+        "defibrillator:location:en": "On outside wall approx 4ft up to left of Station Master's door",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12454152610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.630794,
+          54.097844
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "location": "outdoor",
+        "note": "Outside next to notice board"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12461037034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.629401,
+          54.091046
+        ]
+      },
+      "properties": {
+        "description": "Outside entrance to Down South",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12461037036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.656811,
+          54.077133
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12461037037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62481,
+          54.096639
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12463077639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.391406,
+          54.22494
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "Mounted on wall outside Laxey Beach Cafe and shelter",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
     }
   ]
 }

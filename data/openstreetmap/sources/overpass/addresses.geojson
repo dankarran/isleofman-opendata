@@ -1529,8 +1529,10 @@
         "addr:street": "Woodbourne Road",
         "addr:substreet": "Prospect Terrace",
         "atm": "yes",
+        "brand": "Co-op Food",
+        "brand:wikidata": "Q3277439",
         "check_date": "2024-07-15",
-        "name": "The Co-operative, Woodbourne Road",
+        "name": "Co-op Food",
         "opening_hours": "08:00-22:00",
         "operator": "The Co-operative Group",
         "operator:wikidata": "Q117202",
@@ -2687,8 +2689,9 @@
         "addr:unit": "10",
         "amenity": "clinic",
         "contact:phone": "+44 1624 835999",
-        "contact:website": "www.notonlybacks.com",
+        "contact:website": "https://www.notonlybacks.com",
         "emergency": "no",
+        "fixme": "Is this gone now?",
         "healthcare": "clinic",
         "name": "Not Only Backs Osteopathic Clinic"
       }
@@ -3239,8 +3242,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.464145,
-          54.166558
+          -4.464126,
+          54.166564
         ]
       },
       "properties": {
@@ -4378,11 +4381,10 @@
         "addr:housename": "The Old Courthouse",
         "addr:postcode": "IM1 1LD",
         "addr:street": "Athol Street",
-        "amenity": "bar",
-        "name": "The Courthouse",
+        "disused:amenity": "bar",
+        "old_name": "The Courthouse",
         "postal_code": "IM1 1LD",
-        "source": "Isle of Man Government aerial imagery (2001);Bing",
-        "website": "http://www.the-courthouse.com"
+        "source": "Isle of Man Government aerial imagery (2001);Bing"
       }
     },
     {
@@ -7767,7 +7769,8 @@
         "entrance": "main",
         "name": "Neos",
         "opening_hours": "Su-Th 18:00-21:00, Fr-Sa 17:00-23:00",
-        "strapline": "Sourdough pizza"
+        "strapline": "Sourdough pizza",
+        "takeaway": "only"
       }
     },
     {
@@ -9356,6 +9359,88 @@
     },
     {
       "type": "Feature",
+      "id": 12459262008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477658,
+          54.158177
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 4EA",
+        "addr:street": "Castle Mona Avenue",
+        "name": "Isle of Man Trike Tours",
+        "phone": "07624 492444",
+        "tourism": "tours",
+        "tours": "trike",
+        "website": "https://www.iomtriketours.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12462845529,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.675898,
+          54.104585
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballabeg",
+        "addr:country": "IM",
+        "addr:housename": "Grenaby Studios",
+        "addr:postcode": "IM9 4HD",
+        "addr:street": "Grenaby Road",
+        "contact:facebook": "https://www.facebook.com/Grenaby/",
+        "fixme": "check site layout",
+        "name": "Grenaby Studios",
+        "shop": "art"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12462845530,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.676148,
+          54.104476
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballabeg",
+        "addr:housename": "Grenaby Studios",
+        "addr:postcode": "IM9 4HD",
+        "addr:street": "Grenaby Road",
+        "craft": "stonemason",
+        "name": "Pooil Vaaish",
+        "website": "https://www.pooilvaaish.im"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465183277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.738786,
+          54.076831
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:housename": "Marina House",
+        "addr:postcode": "IM9 5AQ",
+        "addr:street": "Bay View Road",
+        "name": "Marina House",
+        "tourism": "hostel"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986353,
       "geometry": {
         "type": "LineString",
@@ -9822,6 +9907,7 @@
         "addr:street": "Drumgold Street",
         "alt_name": "M&S",
         "brand": "Marks & Spencer",
+        "brand:short": "M&S",
         "brand:wikidata": "Q714491",
         "brand:wikipedia": "en:Marks & Spencer",
         "building": "yes",
@@ -12332,6 +12418,10 @@
           [
             -4.482051,
             54.154554
+          ],
+          [
+            -4.481832,
+            54.154541
           ],
           [
             -4.481598,
@@ -16248,6 +16338,10 @@
             54.093192
           ],
           [
+            -4.630415,
+            54.093204
+          ],
+          [
             -4.630453,
             54.093215
           ],
@@ -16290,10 +16384,10 @@
         "addr:postcode": "IM9 2AN",
         "addr:street": "Douglas Road",
         "building": "yes",
-        "name": "Pooil Vaaish",
-        "office": "company",
-        "source": "Isle of Man Government aerial imagery (2001); Bing",
-        "website": "https://pooilvaaish.com/"
+        "name": "Arbory Kitchens",
+        "shop": "kitchen",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "website": "https://arborykitchens.im"
       }
     },
     {
@@ -20358,6 +20452,10 @@
             54.078624
           ],
           [
+            -4.648846,
+            54.078636
+          ],
+          [
             -4.648833,
             54.078644
           ],
@@ -20400,6 +20498,10 @@
           [
             -4.648774,
             54.078621
+          ],
+          [
+            -4.648792,
+            54.078609
           ],
           [
             -4.648851,
@@ -23189,6 +23291,10 @@
           [
             -4.738694,
             54.077732
+          ],
+          [
+            -4.738818,
+            54.077849
           ],
           [
             -4.738839,
@@ -29893,6 +29999,69 @@
         "old_name": "Beautiful Blooms",
         "source": "Isle of Man Government aerial imagery (2001)",
         "was:shop": "florist"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79122801,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.628671,
+            54.096536
+          ],
+          [
+            -4.628735,
+            54.096491
+          ],
+          [
+            -4.628747,
+            54.096496
+          ],
+          [
+            -4.62894,
+            54.096358
+          ],
+          [
+            -4.628926,
+            54.096351
+          ],
+          [
+            -4.628995,
+            54.096302
+          ],
+          [
+            -4.629144,
+            54.096374
+          ],
+          [
+            -4.628818,
+            54.096606
+          ],
+          [
+            -4.628762,
+            54.096578
+          ],
+          [
+            -4.628731,
+            54.096564
+          ],
+          [
+            -4.628671,
+            54.096536
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housename": "Global House",
+        "addr:postcode": "IM9 2AE",
+        "addr:street": "Station Road",
+        "building": "office",
+        "fixme": "postcode may be IM9 2RB according to Paradise Papers",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -50464,8 +50633,8 @@
         "addr:street": "Station Road",
         "building": "yes",
         "building:levels": "3",
-        "name": "Erin News",
-        "shop": "newsagent",
+        "old_name": "Erin News",
+        "shop": "vacant",
         "source": "survey"
       }
     },
@@ -51761,68 +51930,68 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.737088,
-            54.078833
+            -4.737179,
+            54.07878
           ],
           [
-            -4.737091,
-            54.078819
+            -4.737181,
+            54.078766
           ],
           [
-            -4.737116,
-            54.078808
+            -4.737207,
+            54.078755
           ],
           [
-            -4.737144,
-            54.078809
+            -4.737234,
+            54.078756
           ],
           [
-            -4.737174,
-            54.078797
+            -4.737264,
+            54.078744
           ],
           [
-            -4.737176,
+            -4.737266,
+            54.078729
+          ],
+          [
+            -4.737291,
+            54.078719
+          ],
+          [
+            -4.73732,
+            54.078717
+          ],
+          [
+            -4.737403,
             54.078782
           ],
           [
-            -4.737201,
-            54.078772
+            -4.73737,
+            54.078797
           ],
           [
-            -4.737229,
-            54.078773
+            -4.737407,
+            54.078826
           ],
           [
-            -4.737312,
-            54.07884
+            -4.737317,
+            54.078865
           ],
           [
-            -4.737328,
-            54.078854
+            -4.737298,
+            54.07885
           ],
           [
-            -4.737308,
-            54.078862
+            -4.737278,
+            54.078859
           ],
           [
-            -4.737426,
-            54.078959
+            -4.737268,
+            54.078848
           ],
           [
-            -4.737333,
-            54.078998
-          ],
-          [
-            -4.737215,
-            54.078902
-          ],
-          [
-            -4.737187,
-            54.078913
-          ],
-          [
-            -4.737088,
-            54.078833
+            -4.737179,
+            54.07878
           ]
         ]
       },
@@ -55763,24 +55932,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.379239,
-            54.321563
+            -4.379238,
+            54.321562
           ],
           [
             -4.379268,
             54.32163
           ],
           [
-            -4.379369,
+            -4.379364,
             54.321615
           ],
           [
-            -4.37934,
+            -4.379333,
             54.321548
           ],
           [
-            -4.379239,
-            54.321563
+            -4.379238,
+            54.321562
           ]
         ]
       },
@@ -55976,32 +56145,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.379365,
-            54.321909
+            -4.379348,
+            54.321913
           ],
           [
             -4.379268,
-            54.321932
+            54.321931
           ],
           [
-            -4.37918,
+            -4.379181,
             54.3218
           ],
           [
-            -4.379413,
-            54.321745
+            -4.379219,
+            54.321792
           ],
           [
-            -4.379487,
-            54.321834
+            -4.37941,
+            54.321748
           ],
           [
-            -4.379338,
-            54.321868
+            -4.37947,
+            54.321838
           ],
           [
-            -4.379365,
-            54.321909
+            -4.379321,
+            54.321872
+          ],
+          [
+            -4.379348,
+            54.321913
           ]
         ]
       },
@@ -56009,10 +56182,12 @@
         "addr:city": "Ramsey",
         "addr:postcode": "IM8 1JY",
         "addr:street": "Market Place",
+        "amenity": "restaurant",
         "building": "yes",
+        "name": "Barbary Coast",
         "old_name": "The Royal George",
         "source": "survey",
-        "was:amenity": "pub"
+        "website": "https://barbarynorthcoast.im"
       }
     },
     {
@@ -70453,13 +70628,10 @@
       "properties": {
         "addr:city": "Peel",
         "addr:country": "IM",
-        "addr:housenumber": "38",
+        "addr:housenumber": "34",
         "addr:postcode": "IM5 1HD",
         "addr:street": "Michael Street",
-        "building": "yes",
-        "name": "IJ & JM Mitchell, Newsagents",
-        "shop": "newsagent",
-        "source:addr:postcode": "Isle of Man Government Companies Registry"
+        "building": "yes"
       }
     },
     {
@@ -70555,6 +70727,48 @@
         "toilets": "yes",
         "toilets:access": "customers",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147191867,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693157,
+            54.222783
+          ],
+          [
+            -4.693094,
+            54.222789
+          ],
+          [
+            -4.693095,
+            54.222717
+          ],
+          [
+            -4.693098,
+            54.222706
+          ],
+          [
+            -4.693161,
+            54.222703
+          ],
+          [
+            -4.693157,
+            54.222783
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM5 1HD",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "Kestrel Insurance",
+        "office": "insurance"
       }
     },
     {
@@ -89744,15 +89958,12 @@
         ]
       },
       "properties": {
+        "abandoned:amenity": "pub",
         "addr:country": "IM",
         "addr:postcode": "IM4 6AE",
         "addr:street": "Baldrine Main Road",
-        "amenity": "pub",
-        "building": "pub",
-        "name": "Liverpool Arms",
-        "operator": "D's Leisure",
-        "phone": "+44 1624 674787",
-        "website": "http://www.liverpoolarms.com/"
+        "building": "residential",
+        "old_name": "Liverpool Arms"
       }
     },
     {
@@ -95575,6 +95786,55 @@
     },
     {
       "type": "Feature",
+      "id": 371590034,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.737783,
+            54.076501
+          ],
+          [
+            -4.737654,
+            54.076312
+          ],
+          [
+            -4.737485,
+            54.076335
+          ],
+          [
+            -4.737469,
+            54.076407
+          ],
+          [
+            -4.737479,
+            54.076482
+          ],
+          [
+            -4.737515,
+            54.076522
+          ],
+          [
+            -4.737547,
+            54.076539
+          ],
+          [
+            -4.737783,
+            54.076501
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:country": "IM",
+        "addr:housename": "Hangingwater",
+        "addr:postcode": "IM9 5AQ",
+        "addr:street": "Bay View Road",
+        "building": "residential"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 385725696,
       "geometry": {
         "type": "LineString",
@@ -99988,7 +100248,7 @@
         "contact:email": "hello@vibecafe.im",
         "contact:phone": "+44 1624 612355",
         "contact:website": "https://www.vibeplantbasedcafe.com/",
-        "cuisine": "vegan",
+        "diet:vegan": "yes",
         "name": "Vibe",
         "opening_hours": "We-Sa 11:00-14:00, 17:30-20:00, Su 11:00-15:00",
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo"
@@ -102095,11 +102355,13 @@
         "addr:postcode": "IM1 2EN",
         "addr:street": "Strand Street",
         "amenity": "bank",
+        "branch": "Douglas",
         "brand": "HSBC",
+        "brand:wikidata": "Q190464",
         "building": "retail",
         "building:colour": "white",
         "building:material": "plaster",
-        "name": "HSBC Douglas Branch",
+        "name": "HSBC",
         "opening_hours": "Mo-Fr 09:30-17:00",
         "operator": "HSBC Bank plc",
         "source": "Bing;photograph"
@@ -103190,15 +103452,16 @@
         "addr:housenumber": "27",
         "addr:postcode": "IM1 2EF",
         "addr:street": "Strand Street",
-        "brand": "Regatta",
+        "brand": "Regatta Great Outdoors",
         "brand:wikidata": "Q9305279",
         "building": "retail",
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "name": "Regatta",
+        "name": "Regatta Great Outdoors",
         "old_name": "Mountain Warehouse",
         "shop": "outdoor",
+        "short_name": "Regatta",
         "source": "Bing;photograph"
       }
     },
@@ -104949,15 +105212,15 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
-        "check_date": "2023-08-11",
+        "check_date": "2024-12-17",
         "contact:facebook": "https://www.facebook.com/thethirstypigeon/",
         "contact:phone": "+44 1624 675584",
         "contact:twitter": "https://twitter.com/Thirsty_pigeon",
-        "currency:XBT": "yes",
+        "currency:XBT": "no",
         "name": "The Thirsty Pigeon",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
         "phone": "+44 1624 675584",
         "source": "Bing;photograph"
       }
@@ -127491,10 +127754,10 @@
         "addr:housename": "The Junipers",
         "addr:postcode": "IM9 5EP",
         "addr:street": "Queens Road",
-        "building": "house",
+        "building": "yes",
         "contact:phone": "+44 7624 303118",
         "contact:website": "www.garethwatt.com",
-        "healthcare": "clinic",
+        "healthcare": "alternative",
         "healthcare:speciality": "osteopathy",
         "name": "Gareth Watt Osteopathy"
       }
@@ -133494,12 +133757,7 @@
         "addr:country": "IM",
         "addr:postcode": "IM9 2DA",
         "addr:street": "Ballasalla Main Road",
-        "amenity": "restaurant",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/IOMFourSeasonsChinese/",
-        "cuisine": "chinese",
-        "name": "Four Seasons",
-        "opening_hours": "We,Th,Su 17:00-21:30, Fr,Sa 17:00-22:30",
         "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
@@ -142488,6 +142746,46 @@
     },
     {
       "type": "Feature",
+      "id": 1194879900,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693024,
+            54.222722
+          ],
+          [
+            -4.693095,
+            54.222717
+          ],
+          [
+            -4.693094,
+            54.222789
+          ],
+          [
+            -4.693013,
+            54.222795
+          ],
+          [
+            -4.693024,
+            54.222722
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "38",
+        "addr:postcode": "IM5 1HD",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "IJ & JM Mitchell, Newsagents",
+        "shop": "newsagent",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1194879902,
       "geometry": {
         "type": "LineString",
@@ -151338,7 +151636,7 @@
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:Spar (retailer)",
-        "name": "Spar, Westmoreland Road",
+        "name": "Spar",
         "shop": "convenience"
       }
     },
@@ -159723,6 +160021,51 @@
         "source:addr:housename": "mapillary",
         "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1348049264,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.628695,
+            54.096603
+          ],
+          [
+            -4.628684,
+            54.096598
+          ],
+          [
+            -4.628554,
+            54.096536
+          ],
+          [
+            -4.628335,
+            54.096693
+          ],
+          [
+            -4.628475,
+            54.09676
+          ],
+          [
+            -4.628685,
+            54.09661
+          ],
+          [
+            -4.628695,
+            54.096603
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housename": "Baltic House",
+        "addr:postcode": "IM9 2AE",
+        "addr:street": "Station Road",
+        "building": "office"
       }
     }
   ]

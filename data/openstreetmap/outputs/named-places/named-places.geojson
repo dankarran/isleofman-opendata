@@ -236,27 +236,6 @@
     },
     {
       "type": "Feature",
-      "id": 283491177,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.617852,
-          54.243791
-        ]
-      },
-      "properties": {
-        "name": "Stockfield Crossroads",
-        "name:en": "Stockfield Crossroads",
-        "place": "intersection",
-        "osm_id": 283491177,
-        "lon": -4.617852,
-        "lat": 54.243791,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/283491177"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 283492465,
       "geometry": {
         "type": "Point",
@@ -7248,7 +7227,9 @@
       "properties": {
         "name": "Ballavarkish",
         "place": "farm",
+        "postal_code": "IM9 4HD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393533,
         "lon": -4.666675,
         "lat": 54.109827,
@@ -24145,8 +24126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.652816,
-          54.074547
+          -4.653157,
+          54.073393
         ]
       },
       "properties": {
@@ -24162,8 +24143,8 @@
         "wikidata": "Q158530",
         "wikipedia": "en:Castletown, Isle of Man",
         "osm_id": 10131472250,
-        "lon": -4.652816,
-        "lat": 54.074547,
+        "lon": -4.653157,
+        "lat": 54.073393,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10131472250"
       }
@@ -33070,28 +33051,16 @@
             54.096035
           ],
           [
-            -4.625953,
-            54.09559
+            -4.625703,
+            54.095351
           ],
           [
-            -4.625683,
-            54.09553
+            -4.623656,
+            54.096162
           ],
           [
-            -4.625412,
-            54.095534
-          ],
-          [
-            -4.625258,
-            54.095597
-          ],
-          [
-            -4.624412,
-            54.095941
-          ],
-          [
-            -4.623118,
-            54.096466
+            -4.623078,
+            54.096381
           ],
           [
             -4.622929,
@@ -33229,8 +33198,8 @@
         "place": "estate",
         "source": "Isle of Man Government aerial imagery (2001);Bing;Maxar",
         "osm_id": 38256632,
-        "lon": -4.626321212600628,
-        "lat": 54.09293665977842,
+        "lon": -4.626324899576568,
+        "lat": 54.09293109949632,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/38256632"
       }

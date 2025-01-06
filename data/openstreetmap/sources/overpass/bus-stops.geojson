@@ -4764,16 +4764,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474071,
-          54.169597
+          -4.474767,
+          54.169313
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Ian Cannell Court",
         "public_transport": "platform",
-        "ref": "162 / 20155"
+        "ref": "162 / 20155",
+        "shelter": "no"
       }
     },
     {
@@ -4782,8 +4784,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.471603,
-          54.170526
+          -4.471333,
+          54.17061
         ]
       },
       "properties": {
@@ -4805,16 +4807,18 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.470463,
-          54.170995
+          -4.470337,
+          54.171004
         ]
       },
       "properties": {
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Third Avenue",
+        "note": "no signpost",
         "public_transport": "platform",
-        "ref": "164"
+        "ref": "164",
+        "shelter": "no"
       }
     },
     {
@@ -17786,8 +17790,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.470739,
-          54.17074
+          -4.470207,
+          54.170916
         ]
       },
       "properties": {
@@ -17796,8 +17800,9 @@
         "bus": "yes",
         "highway": "bus_stop",
         "lit": "no",
-        "name": "Glencrutchery Road / Glenside",
+        "name": "Glencrutchery Road / Summerhill View",
         "network": "Bus Vannin",
+        "old_name": "Glencrutchery Road / Glenside",
         "public_transport": "platform",
         "ref": "20157",
         "shelter": "no",

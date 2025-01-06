@@ -1013,7 +1013,7 @@
         "contact:website": "https://smart-energy-solutions.uk/",
         "entrance": "main",
         "name": "Smart Energy Solutions",
-        "office": "consultant"
+        "office": "consulting"
       }
     },
     {
@@ -1274,6 +1274,21 @@
         "name": "Salamander Services",
         "office": "yes",
         "website": "https://salamanderservices.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465463026,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.379337,
+          54.321686
+        ]
+      },
+      "properties": {
+        "name": "CTH Insurance",
+        "office": "insurance"
       }
     },
     {
@@ -1777,113 +1792,6 @@
         "name": "Friends Provident International",
         "office": "financial",
         "source": "Isle of Man Government aerial imagery (2001)"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 59995917,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.630205,
-            54.093382
-          ],
-          [
-            -4.630064,
-            54.093339
-          ],
-          [
-            -4.630037,
-            54.093369
-          ],
-          [
-            -4.629933,
-            54.093336
-          ],
-          [
-            -4.629939,
-            54.093329
-          ],
-          [
-            -4.629906,
-            54.093319
-          ],
-          [
-            -4.629924,
-            54.093298
-          ],
-          [
-            -4.629881,
-            54.093284
-          ],
-          [
-            -4.63008,
-            54.093064
-          ],
-          [
-            -4.630091,
-            54.093067
-          ],
-          [
-            -4.630214,
-            54.093105
-          ],
-          [
-            -4.630189,
-            54.093133
-          ],
-          [
-            -4.630377,
-            54.093192
-          ],
-          [
-            -4.630453,
-            54.093215
-          ],
-          [
-            -4.630475,
-            54.093192
-          ],
-          [
-            -4.630584,
-            54.093226
-          ],
-          [
-            -4.63052,
-            54.093296
-          ],
-          [
-            -4.630473,
-            54.093282
-          ],
-          [
-            -4.630379,
-            54.093387
-          ],
-          [
-            -4.630296,
-            54.093361
-          ],
-          [
-            -4.630261,
-            54.093399
-          ],
-          [
-            -4.630205,
-            54.093382
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ballasalla",
-        "addr:postcode": "IM9 2AN",
-        "addr:street": "Douglas Road",
-        "building": "yes",
-        "name": "Pooil Vaaish",
-        "office": "company",
-        "source": "Isle of Man Government aerial imagery (2001); Bing",
-        "website": "https://pooilvaaish.com/"
       }
     },
     {
@@ -4384,6 +4292,48 @@
         "was:amenity": "post_office",
         "website": "https://ormcoaccounts.com/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147191867,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693157,
+            54.222783
+          ],
+          [
+            -4.693094,
+            54.222789
+          ],
+          [
+            -4.693095,
+            54.222717
+          ],
+          [
+            -4.693098,
+            54.222706
+          ],
+          [
+            -4.693161,
+            54.222703
+          ],
+          [
+            -4.693157,
+            54.222783
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM5 1HD",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "Kestrel Insurance",
+        "office": "insurance"
       }
     },
     {

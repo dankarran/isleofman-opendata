@@ -790,6 +790,172 @@
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12189569131"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12441422131,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.643259,
+          54.157654
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "Mounted on the wall outside the entrance to Laser Mayhem",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12441422131,
+        "lon": -4.643259,
+        "lat": 54.157654,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12441422131"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12453315096,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.452287,
+          54.16732
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "On the wall outside Port Jack Chippy",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12453315096,
+        "lon": -4.452287,
+        "lat": 54.16732,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12453315096"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12453712747,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.648836,
+          54.078582
+        ]
+      },
+      "properties": {
+        "defibrillator:location:en": "On outside wall approx 4ft up to left of Station Master's door",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12453712747,
+        "lon": -4.648836,
+        "lat": 54.078582,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12453712747"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12454152610,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.630794,
+          54.097844
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "location": "outdoor",
+        "note": "Outside next to notice board",
+        "osm_id": 12454152610,
+        "lon": -4.630794,
+        "lat": 54.097844,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12454152610"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12461037034,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.629401,
+          54.091046
+        ]
+      },
+      "properties": {
+        "description": "Outside entrance to Down South",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12461037034,
+        "lon": -4.629401,
+        "lat": 54.091046,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12461037034"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12461037036,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.656811,
+          54.077133
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12461037036,
+        "lon": -4.656811,
+        "lat": 54.077133,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12461037036"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12461037037,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62481,
+          54.096639
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "osm_id": 12461037037,
+        "lon": -4.62481,
+        "lat": 54.096639,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12461037037"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12463077639,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.391406,
+          54.22494
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "Mounted on wall outside Laxey Beach Cafe and shelter",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12463077639,
+        "lon": -4.391406,
+        "lat": 54.22494,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12463077639"
+      }
     }
   ]
 }

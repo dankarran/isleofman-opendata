@@ -2648,8 +2648,10 @@
         ]
       },
       "properties": {
+        "loc_name": "Little Isabella",
         "man_made": "watermill",
         "name": "Glen Darragh Water Wheel",
+        "start_date": "1893",
         "tourism": "attraction",
         "osm_id": 4899420258,
         "lon": -4.560728,
@@ -6058,6 +6060,100 @@
     },
     {
       "type": "Feature",
+      "id": 12459262008,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477658,
+          54.158177
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 4EA",
+        "addr:street": "Castle Mona Avenue",
+        "name": "Isle of Man Trike Tours",
+        "phone": "07624 492444",
+        "tourism": "tours",
+        "tours": "trike",
+        "website": "https://www.iomtriketours.com/",
+        "osm_id": 12459262008,
+        "lon": -4.477658,
+        "lat": 54.158177,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12459262008"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12463077642,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.650804,
+          54.077396
+        ]
+      },
+      "properties": {
+        "artist_name": "Eve Adams",
+        "artwork_type": "sculpture",
+        "name": "Wallaby",
+        "tourism": "artwork",
+        "osm_id": 12463077642,
+        "lon": -4.650804,
+        "lat": 54.077396,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12463077642"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12465183277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.738786,
+          54.076831
+        ]
+      },
+      "properties": {
+        "addr:city": "Port St Mary",
+        "addr:housename": "Marina House",
+        "addr:postcode": "IM9 5AQ",
+        "addr:street": "Bay View Road",
+        "name": "Marina House",
+        "tourism": "hostel",
+        "osm_id": 12465183277,
+        "lon": -4.738786,
+        "lat": 54.076831,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12465183277"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12470935331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.626931,
+          54.093405
+        ]
+      },
+      "properties": {
+        "information": "map",
+        "map_type": "information",
+        "name": "Balthane Industrial Estate",
+        "tourism": "information",
+        "osm_id": 12470935331,
+        "lon": -4.626931,
+        "lat": 54.093405,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12470935331"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -7014,6 +7110,10 @@
             54.154554
           ],
           [
+            -4.481832,
+            54.154541
+          ],
+          [
             -4.481598,
             54.154527
           ],
@@ -7130,8 +7230,8 @@
         "wheelchair:description": "Wheelchairs currently unable to access the basement display area",
         "wikidata": "Q11988082",
         "osm_id": 59279322,
-        "lon": -4.481424687681902,
-        "lat": 54.15427855326845,
+        "lon": -4.481424687499141,
+        "lat": 54.154278556357355,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59279322"
       }
@@ -8906,6 +9006,102 @@
         "lat": 54.169491,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60177067"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60783823,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.63418,
+            54.09843
+          ],
+          [
+            -4.634157,
+            54.09854
+          ],
+          [
+            -4.634137,
+            54.098638
+          ],
+          [
+            -4.634061,
+            54.098635
+          ],
+          [
+            -4.634061,
+            54.098679
+          ],
+          [
+            -4.633993,
+            54.098674
+          ],
+          [
+            -4.633799,
+            54.09866
+          ],
+          [
+            -4.633802,
+            54.098641
+          ],
+          [
+            -4.633809,
+            54.0986
+          ],
+          [
+            -4.633879,
+            54.098603
+          ],
+          [
+            -4.633884,
+            54.098584
+          ],
+          [
+            -4.633911,
+            54.098588
+          ],
+          [
+            -4.633917,
+            54.098572
+          ],
+          [
+            -4.633761,
+            54.098553
+          ],
+          [
+            -4.633793,
+            54.09844
+          ],
+          [
+            -4.633884,
+            54.098446
+          ],
+          [
+            -4.633949,
+            54.098455
+          ],
+          [
+            -4.633954,
+            54.098421
+          ],
+          [
+            -4.63418,
+            54.09843
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "name": "Rushen Abbey Visitor Centre",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "museum",
+        "osm_id": 60783823,
+        "lon": -4.6339580307170225,
+        "lat": 54.098548296103864,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/60783823"
       }
     },
     {
@@ -10887,68 +11083,68 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.737088,
-            54.078833
+            -4.737179,
+            54.07878
           ],
           [
-            -4.737091,
-            54.078819
+            -4.737181,
+            54.078766
           ],
           [
-            -4.737116,
-            54.078808
+            -4.737207,
+            54.078755
           ],
           [
-            -4.737144,
-            54.078809
+            -4.737234,
+            54.078756
           ],
           [
-            -4.737174,
-            54.078797
+            -4.737264,
+            54.078744
           ],
           [
-            -4.737176,
+            -4.737266,
+            54.078729
+          ],
+          [
+            -4.737291,
+            54.078719
+          ],
+          [
+            -4.73732,
+            54.078717
+          ],
+          [
+            -4.737403,
             54.078782
           ],
           [
-            -4.737201,
-            54.078772
+            -4.73737,
+            54.078797
           ],
           [
-            -4.737229,
-            54.078773
+            -4.737407,
+            54.078826
           ],
           [
-            -4.737312,
-            54.07884
+            -4.737317,
+            54.078865
           ],
           [
-            -4.737328,
-            54.078854
+            -4.737298,
+            54.07885
           ],
           [
-            -4.737308,
-            54.078862
+            -4.737278,
+            54.078859
           ],
           [
-            -4.737426,
-            54.078959
+            -4.737268,
+            54.078848
           ],
           [
-            -4.737333,
-            54.078998
-          ],
-          [
-            -4.737215,
-            54.078902
-          ],
-          [
-            -4.737187,
-            54.078913
-          ],
-          [
-            -4.737088,
-            54.078833
+            -4.737179,
+            54.07878
           ]
         ]
       },
@@ -10964,8 +11160,8 @@
         "tourism": "guest_house",
         "website": "https://www.aaronhouse.im",
         "osm_id": 101799684,
-        "lon": -4.73725854102784,
-        "lat": 54.078882177095416,
+        "lon": -4.737302174267259,
+        "lat": 54.078791375264785,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/101799684"
       }
@@ -16783,6 +16979,61 @@
         "lat": 54.146900986959785,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/832286809"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 888210375,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.392548,
+            54.224706
+          ],
+          [
+            -4.392644,
+            54.224639
+          ],
+          [
+            -4.392587,
+            54.224622
+          ],
+          [
+            -4.392631,
+            54.224597
+          ],
+          [
+            -4.392525,
+            54.224557
+          ],
+          [
+            -4.392452,
+            54.224593
+          ],
+          [
+            -4.392413,
+            54.224578
+          ],
+          [
+            -4.392347,
+            54.224626
+          ],
+          [
+            -4.392548,
+            54.224706
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Glevum",
+        "building": "yes",
+        "tourism": "chalet",
+        "osm_id": 888210375,
+        "lon": -4.392509919719436,
+        "lat": 54.22462623141101,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/888210375"
       }
     },
     {

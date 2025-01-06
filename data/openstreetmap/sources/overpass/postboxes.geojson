@@ -855,6 +855,8 @@
         "amenity": "post_box",
         "name": "Fistard",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:type": "lamp",
         "ref": "146",
@@ -1415,7 +1417,8 @@
         ]
       },
       "properties": {
-        "amenity": "post_box"
+        "amenity": "post_box",
+        "fixme": "check existence; maybe replaced/moved around corner to Glencrutchery Road"
       }
     },
     {
@@ -4029,6 +4032,22 @@
         "fixme": "check details",
         "note": "Replica line-side postbox",
         "source": "https://www.flickr.com/photos/jhluxton/28172367367/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12463077643,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.470237,
+          54.170906
+        ]
+      },
+      "properties": {
+        "amenity": "post_box",
+        "post_box:type": "lamp",
+        "source": "survey;streetside"
       }
     }
   ]

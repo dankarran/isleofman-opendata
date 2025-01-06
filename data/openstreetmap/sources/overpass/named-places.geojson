@@ -181,22 +181,6 @@
     },
     {
       "type": "Feature",
-      "id": 283491177,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.617852,
-          54.243791
-        ]
-      },
-      "properties": {
-        "name": "Stockfield Crossroads",
-        "name:en": "Stockfield Crossroads",
-        "place": "intersection"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 283492465,
       "geometry": {
         "type": "Point",
@@ -5588,7 +5572,9 @@
       "properties": {
         "name": "Ballavarkish",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "postal_code": "IM9 4HD",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -18610,8 +18596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.652816,
-          54.074547
+          -4.653157,
+          54.073393
         ]
       },
       "properties": {
@@ -26550,28 +26536,16 @@
             54.096035
           ],
           [
-            -4.625953,
-            54.09559
+            -4.625703,
+            54.095351
           ],
           [
-            -4.625683,
-            54.09553
+            -4.623656,
+            54.096162
           ],
           [
-            -4.625412,
-            54.095534
-          ],
-          [
-            -4.625258,
-            54.095597
-          ],
-          [
-            -4.624412,
-            54.095941
-          ],
-          [
-            -4.623118,
-            54.096466
+            -4.623078,
+            54.096381
           ],
           [
             -4.622929,

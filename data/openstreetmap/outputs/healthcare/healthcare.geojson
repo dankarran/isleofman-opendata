@@ -126,8 +126,9 @@
         "addr:unit": "10",
         "amenity": "clinic",
         "contact:phone": "+44 1624 835999",
-        "contact:website": "www.notonlybacks.com",
+        "contact:website": "https://www.notonlybacks.com",
         "emergency": "no",
+        "fixme": "Is this gone now?",
         "healthcare": "clinic",
         "name": "Not Only Backs Osteopathic Clinic",
         "osm_id": 1666028132,
@@ -773,6 +774,26 @@
         "lat": 54.208171,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12236204794"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12456174199,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.756068,
+          54.087006
+        ]
+      },
+      "properties": {
+        "healthcare": "optometrist",
+        "name": "Newby & Padley",
+        "osm_id": 12456174199,
+        "lon": -4.756068,
+        "lat": 54.087006,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12456174199"
       }
     },
     {
@@ -3113,10 +3134,10 @@
         "addr:housename": "The Junipers",
         "addr:postcode": "IM9 5EP",
         "addr:street": "Queens Road",
-        "building": "house",
+        "building": "yes",
         "contact:phone": "+44 7624 303118",
         "contact:website": "www.garethwatt.com",
-        "healthcare": "clinic",
+        "healthcare": "alternative",
         "healthcare:speciality": "osteopathy",
         "name": "Gareth Watt Osteopathy",
         "osm_id": 1114918820,
