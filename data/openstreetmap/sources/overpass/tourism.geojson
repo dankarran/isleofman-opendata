@@ -409,6 +409,8 @@
         ]
       },
       "properties": {
+        "communication:amateur_radio:sota": "GD/GD-004",
+        "communication:amateur_radio:sota:points": "1",
         "ele": "234",
         "name": "Bradda Hill",
         "natural": "peak",
@@ -582,7 +584,8 @@
         "name:gv": "Thie Tashtee 'Yn Chell'",
         "operator": "Manx National Heritage",
         "tourism": "museum",
-        "website": "https://manxnationalheritage.im/our-sites/grove-museum-of-victorian-life/"
+        "website": "https://manxnationalheritage.im/our-sites/grove-museum-of-victorian-life/",
+        "wikidata": "Q18435175"
       }
     },
     {
@@ -4784,6 +4787,27 @@
     },
     {
       "type": "Feature",
+      "id": 12558742450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.652163,
+          54.072906
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:postcode": "IM9 1LE",
+        "addr:street": "Castle Street",
+        "alt_name": "St Marys Chapel, The Old Grammar School",
+        "name": "Old Grammar School",
+        "tourism": "museum",
+        "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
+        "wikidata": "Q113363905"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -6165,72 +6189,6 @@
     },
     {
       "type": "Feature",
-      "id": 59400622,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.768215,
-            54.069042
-          ],
-          [
-            -4.7683,
-            54.06903
-          ],
-          [
-            -4.768371,
-            54.069021
-          ],
-          [
-            -4.768391,
-            54.069076
-          ],
-          [
-            -4.768329,
-            54.069084
-          ],
-          [
-            -4.768341,
-            54.069114
-          ],
-          [
-            -4.768247,
-            54.069127
-          ],
-          [
-            -4.768244,
-            54.069119
-          ],
-          [
-            -4.768215,
-            54.069042
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housename": "Creg-y-Shee",
-        "addr:place": "Cregneash",
-        "addr:postcode": "IM9 5PX",
-        "alt_name": "Creg-y-Shee",
-        "amenity": "cafe",
-        "building": "house",
-        "building:levels": "2",
-        "contact:facebook": "https://www.facebook.com/CregneashTeaRooms/",
-        "name": "Cregneash Cafe",
-        "name:en": "Cregneash Cafe",
-        "old_name": "Village Tea Rooms",
-        "outdoor_seating": "yes",
-        "ref:GB:imher": "2894.00",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "museum",
-        "url:imher": "https://isleofmanher.im/report/96a10ec5-c40a-483c-bd9f-c3ac094e97e5",
-        "website": "https://thesound.im/cregneash-cafe/",
-        "wikimedia_commons": "File:Cregneash Village - The Museum (Cummel Beg) - geograph.org.uk - 1692201.jpg"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 59400625,
       "geometry": {
         "type": "LineString",
@@ -7592,66 +7550,6 @@
         "name": "Rushen Abbey Visitor Centre",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "museum"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 60930657,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.65216,
-            54.072952
-          ],
-          [
-            -4.652303,
-            54.072872
-          ],
-          [
-            -4.652235,
-            54.072831
-          ],
-          [
-            -4.652163,
-            54.072872
-          ],
-          [
-            -4.652086,
-            54.072825
-          ],
-          [
-            -4.652016,
-            54.072864
-          ],
-          [
-            -4.65216,
-            54.072952
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:postcode": "IM9 1LE",
-        "addr:street": "Castle Street",
-        "alt_name": "Saint Mary's Chapel",
-        "building": "yes",
-        "building:colour": "white",
-        "building:levels": "1",
-        "description": "The oldest surviving roofed structure on the Isle of Man",
-        "listed_status": "Registered",
-        "name": "The Old Grammar School",
-        "name:en": "The Old Grammar School",
-        "name:gv": "Yn Chenn Scoill Ghrammeyoys",
-        "old_name": "Castletown Grammar School;St Mary's Chapel",
-        "ref:GB:imher": "0032.00",
-        "ref:registered_building": "73",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "museum",
-        "url:imher": "https://isleofmanher.im/report/4ab87a07-c55e-4b50-ad02-58b3fd8cbad3",
-        "url:registered_building": "https://www.gov.im/media/631967/0500073regbldtheschoolhouse.pdf",
-        "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
-        "wikidata": "Q118188623"
       }
     },
     {
@@ -11396,32 +11294,76 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.416769,
-            54.19668
+            -4.416755,
+            54.196697
           ],
           [
-            -4.416539,
-            54.196779
+            -4.416537,
+            54.196802
           ],
           [
-            -4.416463,
-            54.196719
+            -4.416455,
+            54.196743
+          ],
+          [
+            -4.416469,
+            54.196736
           ],
           [
             -4.416616,
-            54.196653
+            54.196665
           ],
           [
-            -4.416554,
-            54.196604
+            -4.416559,
+            54.196624
           ],
           [
-            -4.416632,
-            54.196571
+            -4.416618,
+            54.196596
           ],
           [
-            -4.416769,
-            54.19668
+            -4.416683,
+            54.196642
+          ],
+          [
+            -4.416709,
+            54.19663
+          ],
+          [
+            -4.416731,
+            54.196633
+          ],
+          [
+            -4.416752,
+            54.196647
+          ],
+          [
+            -4.416743,
+            54.196661
+          ],
+          [
+            -4.416722,
+            54.196672
+          ],
+          [
+            -4.416733,
+            54.196679
+          ],
+          [
+            -4.416757,
+            54.196667
+          ],
+          [
+            -4.416776,
+            54.196681
+          ],
+          [
+            -4.416749,
+            54.196693
+          ],
+          [
+            -4.416755,
+            54.196697
           ]
         ]
       },
@@ -13366,7 +13308,7 @@
         "alt_name": "Milntown House",
         "building": "yes",
         "charity": "yes",
-        "historic": "house",
+        "historic": "manor",
         "listed_status": "Registered",
         "name": "Milntown Estate & Gardens",
         "old_name": "Altadale",

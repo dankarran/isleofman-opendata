@@ -1841,8 +1841,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.424943,
-          54.321713
+          -4.425138,
+          54.32185
         ]
       },
       "properties": {
@@ -12529,19 +12529,19 @@
           ],
           [
             -4.410643,
-            54.205615
+            54.205597
           ],
           [
-            -4.410714,
-            54.205643
+            -4.410722,
+            54.205636
           ],
           [
-            -4.410818,
-            54.205677
+            -4.410821,
+            54.205668
           ],
           [
-            -4.41092,
-            54.205679
+            -4.410928,
+            54.205682
           ],
           [
             -4.411014,
@@ -12552,16 +12552,28 @@
             54.205681
           ],
           [
-            -4.411187,
-            54.205647
+            -4.411134,
+            54.205667
           ],
           [
-            -4.411212,
-            54.205597
+            -4.411174,
+            54.205644
           ],
           [
-            -4.411199,
-            54.205532
+            -4.411202,
+            54.20562
+          ],
+          [
+            -4.411222,
+            54.205586
+          ],
+          [
+            -4.411227,
+            54.20555
+          ],
+          [
+            -4.411215,
+            54.205519
           ],
           [
             -4.411108,
@@ -30644,32 +30656,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.469835,
-            54.14479
+            -4.469799,
+            54.1448
           ],
           [
-            -4.469624,
-            54.144918
+            -4.469588,
+            54.144928
           ],
           [
-            -4.469667,
-            54.144942
+            -4.469634,
+            54.144958
           ],
           [
-            -4.46971,
-            54.144967
+            -4.469675,
+            54.144977
           ],
           [
-            -4.469921,
-            54.144839
+            -4.469886,
+            54.144849
           ],
           [
-            -4.469877,
-            54.144813
+            -4.46988,
+            54.144815
           ],
           [
-            -4.469835,
-            54.14479
+            -4.469799,
+            54.1448
           ]
         ]
       },
@@ -30690,82 +30702,6 @@
         "seamark:type": "rescue_station",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://rnli.org/find-my-nearest/lifeboat-stations/douglas-lifeboat-station"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 59384695,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.496235,
-            54.148228
-          ],
-          [
-            -4.496022,
-            54.148374
-          ],
-          [
-            -4.495878,
-            54.148473
-          ],
-          [
-            -4.495721,
-            54.148581
-          ],
-          [
-            -4.495565,
-            54.148503
-          ],
-          [
-            -4.495489,
-            54.148555
-          ],
-          [
-            -4.495431,
-            54.148526
-          ],
-          [
-            -4.495528,
-            54.148459
-          ],
-          [
-            -4.495586,
-            54.148488
-          ],
-          [
-            -4.495722,
-            54.148395
-          ],
-          [
-            -4.495866,
-            54.148296
-          ],
-          [
-            -4.496079,
-            54.14815
-          ],
-          [
-            -4.496235,
-            54.148228
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "The Mansion House",
-        "addr:postcode": "IM2 1QB",
-        "addr:street": "Old Castletown Road",
-        "amenity": "university",
-        "building": "yes",
-        "fixme": "This building appears to be \"The Nunnery\"  so I have moved \"International Centre ..\" name to operator. Correct? https://nunnery.im/",
-        "name": "The Nunnery",
-        "operator": "International Centre for Technology Ltd",
-        "operator:wikidata": "Q263818",
-        "postal_code": "IM2 1QB",
-        "wikidata": "Q7754504",
-        "wikipedia": "en:The Nunnery, Douglas"
       }
     },
     {
@@ -43058,9 +42994,8 @@
       "properties": {
         "alt_name": "Niarbyl Road",
         "highway": "unclassified",
-        "name": "Road of the Tail of Rocks",
-        "name:en": "Road of the Tail of Rocks",
-        "name:gv": "Bayr Yn Arbyl",
+        "name": "Niarbyl Road",
+        "name:gv": "Raad Niarbyl",
         "postal_code": "IM5 3BS",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:alt_name": "Isle of Man Government Planning Applications"

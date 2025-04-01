@@ -2143,6 +2143,23 @@
     },
     {
       "type": "Feature",
+      "id": 12685266191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634642,
+          54.098771
+        ]
+      },
+      "properties": {
+        "archaeological_site": "ruins",
+        "historic": "archaeological_site",
+        "historic:civilization": "medieval",
+        "name": "Rushen Abbey"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 82626204,
       "geometry": {
         "type": "LineString",
@@ -2347,12 +2364,12 @@
             54.102626
           ],
           [
-            -4.574994,
-            54.102575
+            -4.574985,
+            54.102565
           ],
           [
-            -4.574949,
-            54.102621
+            -4.574935,
+            54.102607
           ],
           [
             -4.575103,
@@ -4795,8 +4812,8 @@
         "archaeological_site": "megalith",
         "historic": "archaeological_site",
         "megalith_type": "stone_circle",
-        "name": "Giant's Fingers",
-        "name:gv": "Meir ny Foawr"
+        "name": "Meir y Foawr",
+        "name:en": "Giant's Fingers"
       }
     },
     {
@@ -6003,6 +6020,7 @@
         "historic:civilization": "prehistoric",
         "historic:period": "neolithic",
         "name": "Crosh Mooar",
+        "name:gv": "Crosh Mooar",
         "ref:GB:imher": "0902.00"
       }
     },

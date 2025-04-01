@@ -389,16 +389,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.493222,
-          54.277405
+          -4.483199,
+          54.279821
         ]
       },
       "properties": {
         "name": "Ballaskella",
         "place": "hamlet",
         "osm_id": 283498646,
-        "lon": -4.493222,
-        "lat": 54.277405,
+        "lon": -4.483199,
+        "lat": 54.279821,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283498646"
       }
@@ -495,8 +495,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile Cill E\u00f2in",
         "name": "St Johns",
         "name:en": "St Johns",
+        "name:gd": "Balley Keeill Eoin",
         "name:gv": "Balley Keeill Eoin",
         "place": "village",
         "wikidata": "Q3107375",
@@ -546,8 +548,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile Cill Mh\u00eccheil",
         "name": "Kirk Michael",
         "name:en": "Kirk Michael",
+        "name:gd": "Balley Keeil Vaayl",
         "name:gv": "Balley Keeill Vaayl",
         "place": "village",
         "osm_id": 283505157,
@@ -877,8 +881,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile Beag",
         "name": "Ballabeg",
         "name:en": "Ballabeg",
+        "name:gd": "Balley Beg",
         "name:gv": "Balley Beg",
         "place": "hamlet",
         "wikidata": "Q267918",
@@ -987,9 +993,12 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Lacs\u00e0, B\u00e0gh nam Bradan",
+        "alt_name:gv": "Baie ny Mraddan",
         "name": "Laxey",
         "name:be": "\u041b\u0430\u043a\u0441\u0456",
         "name:en": "Laxey",
+        "name:gd": "Laksaa",
         "name:gv": "Laksaa",
         "place": "village",
         "wikidata": "Q1026205",
@@ -6868,8 +6877,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.430353,
-          54.189686
+          -4.43063,
+          54.18955
         ]
       },
       "properties": {
@@ -6877,8 +6886,8 @@
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 475393496,
-        "lon": -4.430353,
-        "lat": 54.189686,
+        "lon": -4.43063,
+        "lat": 54.18955,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393496"
       }
@@ -10330,8 +10339,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.424943,
-          54.321713
+          -4.425138,
+          54.32185
         ]
       },
       "properties": {
@@ -10341,8 +10350,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393907,
-        "lon": -4.424943,
-        "lat": 54.321713,
+        "lon": -4.425138,
+        "lat": 54.32185,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393907"
       }
@@ -21480,7 +21489,9 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Sulbaidh",
         "name": "Sulby",
+        "name:gd": "Sulby",
         "place": "village",
         "wikidata": "Q765791",
         "wikipedia": "en:Sulby, Isle of Man",
@@ -21543,6 +21554,7 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Port Tighearna",
         "name": "Port Erin",
         "name:be": "\u041f\u043e\u0440\u0442 \u042d\u0440\u044b\u043d",
         "name:en": "Port Erin",
@@ -21570,8 +21582,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile Salach",
         "name": "Ballasalla",
         "name:en": "Ballasalla",
+        "name:gd": "Balley Salagh",
         "name:gv": "Balley Sallagh",
         "place": "village",
         "wikidata": "Q2881163",
@@ -21594,8 +21608,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Colbaidh, Gualbaidh, Colbee",
+        "alt_name:gv": "Colbee",
         "name": "Colby",
         "name:en": "Colby",
+        "name:gd": "Colby",
         "name:gv": "Colby",
         "place": "village",
         "wikidata": "Q5142001",
@@ -21617,6 +21634,7 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Port le Moire",
         "name": "Port Saint Mary",
         "name:en": "Port Saint Mary",
         "name:gd": "Purt le Moirrey",
@@ -21723,7 +21741,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile na Croise",
         "name": "Crosby",
+        "name:en": "Crosby",
+        "name:gd": "Balley ny Croshey",
+        "name:gv": "Balley ny Croshey",
         "place": "village",
         "osm_id": 1773962836,
         "lon": -4.566361,
@@ -21788,8 +21810,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Muileann Dubh \u00c0tha",
         "name": "Union Mills",
         "name:en": "Union Mills",
+        "name:gd": "Mwyllin Doo Aah",
         "name:gv": "Mwyllin Doo Aah",
         "place": "village",
         "wikidata": "Q692852",
@@ -21878,9 +21902,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Rams\u00e0",
         "name": "Ramsey",
         "name:be": "\u0420\u044d\u043c\u0437\u0456",
         "name:en": "Ramsey",
+        "name:gd": "Rhumsaa",
         "name:gv": "Rhumsaa",
         "name:mk": "\u0420\u0430\u043c\u0437\u0438",
         "name:ru": "\u0420\u044d\u043c\u0441\u0438",
@@ -21907,6 +21933,7 @@
       },
       "properties": {
         "admin_level": "2",
+        "alt_name:gd": "Doolish",
         "capital": "yes",
         "capital_ISO3166-1": "yes",
         "name": "Douglas",
@@ -21921,6 +21948,7 @@
         "name:hu": "Douglas",
         "name:it": "Douglas",
         "name:mk": "\u0414\u0430\u0433\u043b\u0430\u0441",
+        "name:ml": "\u0d21\u0d17\u0d4d\u0d32\u0d38\u0d4d",
         "name:pl": "Douglas",
         "name:ro": "Douglas",
         "name:ru": "\u0414\u0443\u0433\u043b\u0430\u0441",
@@ -22033,9 +22061,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Ceann Drochaide",
         "name": "Onchan",
         "name:be": "\u041e\u043d\u043a\u0430\u043d",
         "name:en": "Onchan",
+        "name:gd": "Kione Droghad",
         "name:gv": "Kione Droghad",
         "place": "village",
         "wikidata": "Q18562",
@@ -22058,9 +22088,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Port na h-Innse",
         "name": "Peel",
         "name:be": "\u041f\u0456\u043b",
         "name:en": "Peel",
+        "name:gd": "Purt ny h-Inshey",
         "name:gv": "Purt ny h-Inshey",
         "name:mk": "\u041f\u0438\u043b",
         "name:ru": "\u041f\u0438\u043b",
@@ -22129,6 +22161,7 @@
       },
       "properties": {
         "alt_name": "Cregneish",
+        "alt_name:gd": "Creag Nis",
         "name": "Cregneash",
         "name:en": "Cregneash",
         "name:gd": "Creneash",
@@ -22373,7 +22406,6 @@
       },
       "properties": {
         "name": "Doarlish Cashen",
-        "name:en": "Cashen's Gap",
         "name:gv": "Doarlish Cashen",
         "place": "locality",
         "osm_id": 6936874660,
@@ -24044,8 +24076,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Br\u00ecghde",
         "name": "Bride",
         "name:en": "Bride",
+        "name:gd": "Vreeshey",
         "name:gv": "Vreeshey",
         "place": "village",
         "wikidata": "Q2925151",
@@ -24131,6 +24165,7 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile Chaisteil",
         "name": "Castletown",
         "name:be": "\u041a\u0430\u0441\u043b\u0442\u0430\u0443\u043d",
         "name:en": "Castletown",
@@ -26326,8 +26361,8 @@
         ]
       },
       "properties": {
-        "name": "Gob ny Ushtey",
-        "name:gv": "Gob ny Ushtey",
+        "name": "Gob yn Ushtey",
+        "name:gv": "Gob yn Ushtey",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 10145032823,
@@ -26392,7 +26427,7 @@
         ]
       },
       "properties": {
-        "name": "Glion ny Coayr",
+        "name": "Glion ny Goayr",
         "name:gv": "Glion ny Coayr",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)",
@@ -26431,8 +26466,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.73029,
-          54.154938
+          -4.732844,
+          54.155825
         ]
       },
       "properties": {
@@ -26441,8 +26476,8 @@
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 10145032828,
-        "lon": -4.73029,
-        "lat": 54.154938,
+        "lon": -4.732844,
+        "lat": 54.155825,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10145032828"
       }
@@ -28208,6 +28243,26 @@
         "lat": 54.25741,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12227683134"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12643257759,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.596791,
+          54.2834
+        ]
+      },
+      "properties": {
+        "name": "Glen Wyllin Beach",
+        "place": "locality",
+        "osm_id": 12643257759,
+        "lon": -4.596791,
+        "lat": 54.2834,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12643257759"
       }
     },
     {
@@ -35217,12 +35272,15 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Colbaidh, Gualbaidh, Colbee",
+        "alt_name:gv": "Colbee",
         "landuse": "residential",
         "name": "Colby",
         "name:en": "Colby",
-        "name:gv": "Colbee",
+        "name:gd": "Colby",
+        "name:gv": "Colby",
         "place": "village",
-        "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
+        "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "wikidata": "Q5142001",
         "wikipedia": "en:Colby, Isle of Man",
         "osm_id": 60499872,
@@ -35609,9 +35667,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Muileann Dubh \u00c0tha",
         "landuse": "residential",
         "name": "Union Mills",
         "name:en": "Union Mills",
+        "name:gd": "Mwyllin Doo Aah",
         "name:gv": "Mwyllin Doo Aah",
         "place": "village",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -36234,9 +36294,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Br\u00ecghde",
         "landuse": "residential",
         "name": "Bride",
         "name:en": "Bride",
+        "name:gd": "Vreeshey",
         "name:gv": "Vreeshey",
         "place": "village",
         "osm_id": 81765835,
@@ -38629,9 +38691,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Baile Cill Mh\u00eccheil",
         "landuse": "residential",
         "name": "Kirk Michael",
         "name:en": "Kirk Michael",
+        "name:gd": "Balley Keeil Vaayl",
         "name:gv": "Balley Keeill Vaayl",
         "place": "village",
         "osm_id": 114185354,

@@ -7,8 +7,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.425777,
-          54.195354
+          -4.425763,
+          54.195346
         ]
       },
       "properties": {
@@ -3986,6 +3986,7 @@
         "building": "church",
         "denomination": "anglican",
         "description": "Unamed cemetry chapel",
+        "name": "Peel Cemetery Chapel",
         "religion": "christian",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
@@ -4509,6 +4510,68 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632591/0500182regbldstmarkschurch.pdf",
         "wikidata": "Q105169880"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227140565,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.425912,
+            54.195278
+          ],
+          [
+            -4.42575,
+            54.195245
+          ],
+          [
+            -4.425648,
+            54.195418
+          ],
+          [
+            -4.425723,
+            54.195433
+          ],
+          [
+            -4.425735,
+            54.195413
+          ],
+          [
+            -4.425795,
+            54.195425
+          ],
+          [
+            -4.425829,
+            54.195367
+          ],
+          [
+            -4.425812,
+            54.195363
+          ],
+          [
+            -4.425835,
+            54.195325
+          ],
+          [
+            -4.425879,
+            54.195334
+          ],
+          [
+            -4.425912,
+            54.195278
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Barroose Road",
+        "addr:postcode": "IM4 6AP",
+        "addr:street": "Barroose Road",
+        "amenity": "place_of_worship",
+        "building": "house",
+        "name": "Dreamlang",
+        "religion": "buddhist"
       }
     },
     {

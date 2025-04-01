@@ -2341,8 +2341,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.424943,
-          54.321713
+          -4.425138,
+          54.32185
         ]
       },
       "properties": {
@@ -2352,8 +2352,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475393907,
-        "lon": -4.424943,
-        "lat": 54.321713,
+        "lon": -4.425138,
+        "lat": 54.32185,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393907"
       }
@@ -14589,19 +14589,19 @@
           ],
           [
             -4.410643,
-            54.205615
+            54.205597
           ],
           [
-            -4.410714,
-            54.205643
+            -4.410722,
+            54.205636
           ],
           [
-            -4.410818,
-            54.205677
+            -4.410821,
+            54.205668
           ],
           [
-            -4.41092,
-            54.205679
+            -4.410928,
+            54.205682
           ],
           [
             -4.411014,
@@ -14612,16 +14612,28 @@
             54.205681
           ],
           [
-            -4.411187,
-            54.205647
+            -4.411134,
+            54.205667
           ],
           [
-            -4.411212,
-            54.205597
+            -4.411174,
+            54.205644
           ],
           [
-            -4.411199,
-            54.205532
+            -4.411202,
+            54.20562
+          ],
+          [
+            -4.411222,
+            54.205586
+          ],
+          [
+            -4.411227,
+            54.20555
+          ],
+          [
+            -4.411215,
+            54.205519
           ],
           [
             -4.411108,
@@ -14686,8 +14698,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987171,
-        "lon": -4.41091036651122,
-        "lat": 54.20500911094922,
+        "lon": -4.410913400761572,
+        "lat": 54.20500761004963,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987171"
       }
@@ -34459,32 +34471,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.469835,
-            54.14479
+            -4.469799,
+            54.1448
           ],
           [
-            -4.469624,
-            54.144918
+            -4.469588,
+            54.144928
           ],
           [
-            -4.469667,
-            54.144942
+            -4.469634,
+            54.144958
           ],
           [
-            -4.46971,
-            54.144967
+            -4.469675,
+            54.144977
           ],
           [
-            -4.469921,
-            54.144839
+            -4.469886,
+            54.144849
           ],
           [
-            -4.469877,
-            54.144813
+            -4.46988,
+            54.144815
           ],
           [
-            -4.469835,
-            54.14479
+            -4.469799,
+            54.1448
           ]
         ]
       },
@@ -34506,91 +34518,10 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://rnli.org/find-my-nearest/lifeboat-stations/douglas-lifeboat-station",
         "osm_id": 59384494,
-        "lon": -4.46977254543524,
-        "lat": 54.1448784218384,
+        "lon": -4.46974099194605,
+        "lat": 54.14488560056214,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59384494"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 59384695,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.496235,
-            54.148228
-          ],
-          [
-            -4.496022,
-            54.148374
-          ],
-          [
-            -4.495878,
-            54.148473
-          ],
-          [
-            -4.495721,
-            54.148581
-          ],
-          [
-            -4.495565,
-            54.148503
-          ],
-          [
-            -4.495489,
-            54.148555
-          ],
-          [
-            -4.495431,
-            54.148526
-          ],
-          [
-            -4.495528,
-            54.148459
-          ],
-          [
-            -4.495586,
-            54.148488
-          ],
-          [
-            -4.495722,
-            54.148395
-          ],
-          [
-            -4.495866,
-            54.148296
-          ],
-          [
-            -4.496079,
-            54.14815
-          ],
-          [
-            -4.496235,
-            54.148228
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "The Mansion House",
-        "addr:postcode": "IM2 1QB",
-        "addr:street": "Old Castletown Road",
-        "amenity": "university",
-        "building": "yes",
-        "fixme": "This building appears to be \"The Nunnery\"  so I have moved \"International Centre ..\" name to operator. Correct? https://nunnery.im/",
-        "name": "The Nunnery",
-        "operator": "International Centre for Technology Ltd",
-        "operator:wikidata": "Q263818",
-        "postal_code": "IM2 1QB",
-        "wikidata": "Q7754504",
-        "wikipedia": "en:The Nunnery, Douglas",
-        "osm_id": 59384695,
-        "lon": -4.495833796283111,
-        "lat": 54.148388990949776,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/59384695"
       }
     },
     {
@@ -47868,9 +47799,8 @@
       "properties": {
         "alt_name": "Niarbyl Road",
         "highway": "unclassified",
-        "name": "Road of the Tail of Rocks",
-        "name:en": "Road of the Tail of Rocks",
-        "name:gv": "Bayr Yn Arbyl",
+        "name": "Niarbyl Road",
+        "name:gv": "Raad Niarbyl",
         "postal_code": "IM5 3BS",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:alt_name": "Isle of Man Government Planning Applications",

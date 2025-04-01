@@ -577,6 +577,8 @@
         ]
       },
       "properties": {
+        "communication:amateur_radio:sota": "GD/GD-001",
+        "communication:amateur_radio:sota:points": "8",
         "ele": "621",
         "name": "Snaefell",
         "name:en": "Snaefell",
@@ -605,6 +607,8 @@
       },
       "properties": {
         "alt_name": "Meayll Hill",
+        "communication:amateur_radio:sota": "GD/GD-005",
+        "communication:amateur_radio:sota:points": "1",
         "ele": "163",
         "name": "Mull Hill",
         "name:en": "Mull Hill",
@@ -695,6 +699,8 @@
         ]
       },
       "properties": {
+        "communication:amateur_radio:sota": "GD/GD-002",
+        "communication:amateur_radio:sota:points": "4",
         "ele": "489",
         "name": "Slieau Freoaghane",
         "natural": "peak",
@@ -739,6 +745,8 @@
         ]
       },
       "properties": {
+        "communication:amateur_radio:sota": "GD/GD-003",
+        "communication:amateur_radio:sota:points": "4",
         "ele": "483",
         "name": "South Barrule",
         "name:en": "South Barrule",
@@ -765,6 +773,8 @@
         ]
       },
       "properties": {
+        "communication:amateur_radio:sota": "GD/GD-004",
+        "communication:amateur_radio:sota:points": "1",
         "ele": "234",
         "name": "Bradda Hill",
         "natural": "peak",
@@ -1552,6 +1562,26 @@
         "lat": 54.075682,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1200806942"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1747528158,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.459462,
+          54.258206
+        ]
+      },
+      "properties": {
+        "name": "Chibbyr Farrane Fing",
+        "natural": "spring",
+        "osm_id": 1747528158,
+        "lon": -4.459462,
+        "lat": 54.258206,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1747528158"
       }
     },
     {
@@ -16343,6 +16373,10 @@
             54.32315
           ],
           [
+            -4.386529,
+            54.323476
+          ],
+          [
             -4.386814,
             54.323575
           ],
@@ -16351,8 +16385,20 @@
             54.323626
           ],
           [
+            -4.387711,
+            54.324048
+          ],
+          [
+            -4.387925,
+            54.324163
+          ],
+          [
             -4.38794,
             54.324171
+          ],
+          [
+            -4.388017,
+            54.324323
           ],
           [
             -4.388021,
@@ -16509,8 +16555,8 @@
         "water": "harbour",
         "wikidata": "Q59512124",
         "osm_id": 99341577,
-        "lon": -4.382971252639231,
-        "lat": 54.323722991849685,
+        "lon": -4.382971251124184,
+        "lat": 54.32372299974831,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/99341577"
       }
@@ -19540,16 +19586,20 @@
             54.144739
           ],
           [
-            -4.469371,
-            54.144699
+            -4.469369,
+            54.144712
           ],
           [
-            -4.469538,
-            54.144695
+            -4.469519,
+            54.144709
           ],
           [
-            -4.469673,
-            54.144717
+            -4.469656,
+            54.144727
+          ],
+          [
+            -4.469913,
+            54.144799
           ],
           [
             -4.470414,
@@ -19865,8 +19915,8 @@
         "wikidata": "Q5301569",
         "wikipedia": "en:Douglas Harbour",
         "osm_id": 186702872,
-        "lon": -4.471763651261189,
-        "lat": 54.146541685702054,
+        "lon": -4.471764067617302,
+        "lat": 54.14654238449166,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/186702872"
       }

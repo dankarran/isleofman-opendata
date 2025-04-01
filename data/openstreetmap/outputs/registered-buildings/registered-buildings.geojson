@@ -3122,31 +3122,31 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.65216,
+            -4.652159,
             54.072952
           ],
           [
-            -4.652303,
+            -4.652301,
             54.072872
           ],
           [
-            -4.652235,
+            -4.652234,
             54.072831
           ],
           [
-            -4.652163,
+            -4.652161,
             54.072872
           ],
           [
-            -4.652086,
+            -4.652084,
             54.072825
           ],
           [
-            -4.652016,
+            -4.652015,
             54.072864
           ],
           [
-            -4.65216,
+            -4.652159,
             54.072952
           ]
         ]
@@ -3168,14 +3168,12 @@
         "ref:GB:imher": "0032.00",
         "ref:registered_building": "73",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/4ab87a07-c55e-4b50-ad02-58b3fd8cbad3",
         "url:registered_building": "https://www.gov.im/media/631967/0500073regbldtheschoolhouse.pdf",
-        "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
         "wikidata": "Q118188623",
         "osm_id": 60930657,
-        "lon": -4.652159270363251,
-        "lat": 54.07287948589684,
+        "lon": -4.652157787710811,
+        "lat": 54.07287948848521,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60930657"
       }
@@ -13436,7 +13434,7 @@
       },
       "properties": {
         "alt_name": "Corrin's Folly",
-        "building": "yes",
+        "building": "tower",
         "historic": "monument",
         "listed_status": "Registered",
         "name": "Corrin's Tower",
@@ -13651,7 +13649,7 @@
       },
       "properties": {
         "access": "yes",
-        "building": "yes",
+        "building": "tower",
         "historic": "monument",
         "listed_status": "Registered",
         "name": "Milner's Tower",
@@ -14163,7 +14161,7 @@
         "alt_name": "Milntown House",
         "building": "yes",
         "charity": "yes",
-        "historic": "house",
+        "historic": "manor",
         "listed_status": "Registered",
         "name": "Milntown Estate & Gardens",
         "old_name": "Altadale",
@@ -16412,7 +16410,7 @@
         ]
       },
       "properties": {
-        "building": "yes",
+        "building": "tower",
         "historic": "monument",
         "listed_status": "Registered",
         "name": "Albert Tower",

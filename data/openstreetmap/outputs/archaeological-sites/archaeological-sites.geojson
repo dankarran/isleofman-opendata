@@ -2763,6 +2763,28 @@
     },
     {
       "type": "Feature",
+      "id": 12685266191,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.634642,
+          54.098771
+        ]
+      },
+      "properties": {
+        "archaeological_site": "ruins",
+        "historic": "archaeological_site",
+        "historic:civilization": "medieval",
+        "name": "Rushen Abbey",
+        "osm_id": 12685266191,
+        "lon": -4.634642,
+        "lat": 54.098771,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12685266191"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 82626204,
       "geometry": {
         "type": "LineString",
@@ -2977,12 +2999,12 @@
             54.102626
           ],
           [
-            -4.574994,
-            54.102575
+            -4.574985,
+            54.102565
           ],
           [
-            -4.574949,
-            54.102621
+            -4.574935,
+            54.102607
           ],
           [
             -4.575103,
@@ -3002,8 +3024,8 @@
         "wikidata": "Q767223",
         "wikipedia": "en:Cronk ny Merriu",
         "osm_id": 238261225,
-        "lon": -4.5750485,
-        "lat": 54.1026235,
+        "lon": -4.575042288508427,
+        "lat": 54.10261771541626,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/238261225"
       }
@@ -5635,8 +5657,8 @@
         "archaeological_site": "megalith",
         "historic": "archaeological_site",
         "megalith_type": "stone_circle",
-        "name": "Giant's Fingers",
-        "name:gv": "Meir ny Foawr",
+        "name": "Meir y Foawr",
+        "name:en": "Giant's Fingers",
         "osm_id": 901819038,
         "lon": -4.6467672415141035,
         "lat": 54.23121485808639,
@@ -6953,6 +6975,7 @@
         "historic:civilization": "prehistoric",
         "historic:period": "neolithic",
         "name": "Crosh Mooar",
+        "name:gv": "Crosh Mooar",
         "ref:GB:imher": "0902.00",
         "osm_id": 1124972280,
         "lon": -4.6418420317265126,

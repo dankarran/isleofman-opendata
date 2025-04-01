@@ -183,6 +183,7 @@
         "operator": "Manx National Heritage",
         "tourism": "museum",
         "website": "https://manxnationalheritage.im/our-sites/grove-museum-of-victorian-life/",
+        "wikidata": "Q18435175",
         "osm_id": 459976551,
         "lon": -4.394921,
         "lat": 54.332103,
@@ -6556,10 +6557,11 @@
       },
       "properties": {
         "addr:city": "Ballasalla",
+        "addr:country": "IM",
         "addr:housename": "Portland House",
+        "addr:postbox": "PO Box 1",
         "addr:postcode": "IM99 6AB",
         "addr:street": "Station Road",
-        "addr:unit": "PO Box 1",
         "name": "UHY Crossleys",
         "office": "accountant",
         "website": "https://www.crossleys.com",
@@ -10269,8 +10271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.425777,
-          54.195354
+          -4.425763,
+          54.195346
         ]
       },
       "properties": {
@@ -10283,8 +10285,8 @@
         "name": "Wat Mahathat, Isle of Man",
         "religion": "buddhist",
         "osm_id": 12003494521,
-        "lon": -4.425777,
-        "lat": 54.195354,
+        "lon": -4.425763,
+        "lat": 54.195346,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12003494521"
       }
@@ -11632,6 +11634,66 @@
         "lat": 54.076831,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12465183277"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12558742450,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.652163,
+          54.072906
+        ]
+      },
+      "properties": {
+        "addr:city": "Castletown",
+        "addr:postcode": "IM9 1LE",
+        "addr:street": "Castle Street",
+        "alt_name": "St Marys Chapel, The Old Grammar School",
+        "name": "Old Grammar School",
+        "tourism": "museum",
+        "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
+        "wikidata": "Q113363905",
+        "osm_id": 12558742450,
+        "lon": -4.652163,
+        "lat": 54.072906,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12558742450"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12703646051,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.457312,
+          54.173715
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 1BA",
+        "addr:street": "Onchan Main Road",
+        "amenity": "pharmacy",
+        "check_date": "2025-03-26",
+        "check_date:currency:XBT": "2025-03-26",
+        "currency:XBT": "yes",
+        "healthcare": "pharmacy",
+        "name": "Karsons Pharmacy",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+44 1624 615150",
+        "website": "https://karsonspharmacy.co.uk",
+        "osm_id": 12703646051,
+        "lon": -4.457312,
+        "lat": 54.173715,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12703646051"
       }
     },
     {
@@ -16204,87 +16266,6 @@
     },
     {
       "type": "Feature",
-      "id": 59384695,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.496235,
-            54.148228
-          ],
-          [
-            -4.496022,
-            54.148374
-          ],
-          [
-            -4.495878,
-            54.148473
-          ],
-          [
-            -4.495721,
-            54.148581
-          ],
-          [
-            -4.495565,
-            54.148503
-          ],
-          [
-            -4.495489,
-            54.148555
-          ],
-          [
-            -4.495431,
-            54.148526
-          ],
-          [
-            -4.495528,
-            54.148459
-          ],
-          [
-            -4.495586,
-            54.148488
-          ],
-          [
-            -4.495722,
-            54.148395
-          ],
-          [
-            -4.495866,
-            54.148296
-          ],
-          [
-            -4.496079,
-            54.14815
-          ],
-          [
-            -4.496235,
-            54.148228
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:housename": "The Mansion House",
-        "addr:postcode": "IM2 1QB",
-        "addr:street": "Old Castletown Road",
-        "amenity": "university",
-        "building": "yes",
-        "fixme": "This building appears to be \"The Nunnery\"  so I have moved \"International Centre ..\" name to operator. Correct? https://nunnery.im/",
-        "name": "The Nunnery",
-        "operator": "International Centre for Technology Ltd",
-        "operator:wikidata": "Q263818",
-        "postal_code": "IM2 1QB",
-        "wikidata": "Q7754504",
-        "wikipedia": "en:The Nunnery, Douglas",
-        "osm_id": 59384695,
-        "lon": -4.495833796283111,
-        "lat": 54.148388990949776,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/59384695"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 59384795,
       "geometry": {
         "type": "LineString",
@@ -16641,7 +16622,6 @@
         "outdoor_seating": "yes",
         "ref:GB:imher": "2894.00",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/96a10ec5-c40a-483c-bd9f-c3ac094e97e5",
         "website": "https://thesound.im/cregneash-cafe/",
         "wikimedia_commons": "File:Cregneash Village - The Museum (Cummel Beg) - geograph.org.uk - 1692201.jpg",
@@ -26445,31 +26425,31 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.65216,
+            -4.652159,
             54.072952
           ],
           [
-            -4.652303,
+            -4.652301,
             54.072872
           ],
           [
-            -4.652235,
+            -4.652234,
             54.072831
           ],
           [
-            -4.652163,
+            -4.652161,
             54.072872
           ],
           [
-            -4.652086,
+            -4.652084,
             54.072825
           ],
           [
-            -4.652016,
+            -4.652015,
             54.072864
           ],
           [
-            -4.65216,
+            -4.652159,
             54.072952
           ]
         ]
@@ -26491,14 +26471,12 @@
         "ref:GB:imher": "0032.00",
         "ref:registered_building": "73",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/4ab87a07-c55e-4b50-ad02-58b3fd8cbad3",
         "url:registered_building": "https://www.gov.im/media/631967/0500073regbldtheschoolhouse.pdf",
-        "website": "https://manxnationalheritage.im/our-sites/old-grammar-school/",
         "wikidata": "Q118188623",
         "osm_id": 60930657,
-        "lon": -4.652159270363251,
-        "lat": 54.07287948589684,
+        "lon": -4.652157787710811,
+        "lat": 54.07287948848521,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60930657"
       }
@@ -83832,32 +83810,76 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.416769,
-            54.19668
+            -4.416755,
+            54.196697
           ],
           [
-            -4.416539,
-            54.196779
+            -4.416537,
+            54.196802
           ],
           [
-            -4.416463,
-            54.196719
+            -4.416455,
+            54.196743
+          ],
+          [
+            -4.416469,
+            54.196736
           ],
           [
             -4.416616,
-            54.196653
+            54.196665
           ],
           [
-            -4.416554,
-            54.196604
+            -4.416559,
+            54.196624
           ],
           [
-            -4.416632,
-            54.196571
+            -4.416618,
+            54.196596
           ],
           [
-            -4.416769,
-            54.19668
+            -4.416683,
+            54.196642
+          ],
+          [
+            -4.416709,
+            54.19663
+          ],
+          [
+            -4.416731,
+            54.196633
+          ],
+          [
+            -4.416752,
+            54.196647
+          ],
+          [
+            -4.416743,
+            54.196661
+          ],
+          [
+            -4.416722,
+            54.196672
+          ],
+          [
+            -4.416733,
+            54.196679
+          ],
+          [
+            -4.416757,
+            54.196667
+          ],
+          [
+            -4.416776,
+            54.196681
+          ],
+          [
+            -4.416749,
+            54.196693
+          ],
+          [
+            -4.416755,
+            54.196697
           ]
         ]
       },
@@ -83873,8 +83895,8 @@
         "tourism": "chalet",
         "website": "http://www.keeling-im.com",
         "osm_id": 160411573,
-        "lon": -4.416611342254878,
-        "lat": 54.196678393895745,
+        "lon": -4.4166224716574245,
+        "lat": 54.196695041728354,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/160411573"
       }
@@ -85734,21 +85756,11 @@
         ]
       },
       "properties": {
-        "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "1",
         "addr:postcode": "IM3 1BA",
         "addr:street": "Onchan Main Road",
         "building": "yes",
-        "currency:XBT": "yes",
-        "name": "Karsons Pharmacy",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+44 1624 615150;+441624615150",
-        "shop": "chemist",
-        "survey:date": "2022-09-23",
-        "website": "https://karsonspharmacy.co.uk/",
         "osm_id": 170515383,
         "lon": -4.457316968542094,
         "lat": 54.17372336498435,
@@ -99912,8 +99924,10 @@
         "addr:housename": "Barroose Road",
         "addr:postcode": "IM4 6AP",
         "addr:street": "Barroose Road",
+        "amenity": "place_of_worship",
         "building": "house",
         "name": "Dreamlang",
+        "religion": "buddhist",
         "osm_id": 227140565,
         "lon": -4.425778154125203,
         "lat": 54.19534041982222,
@@ -112109,7 +112123,7 @@
         "alt_name": "Milntown House",
         "building": "yes",
         "charity": "yes",
-        "historic": "house",
+        "historic": "manor",
         "listed_status": "Registered",
         "name": "Milntown Estate & Gardens",
         "old_name": "Altadale",
@@ -132849,6 +132863,74 @@
     },
     {
       "type": "Feature",
+      "id": 965186193,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.557042,
+            54.137714
+          ],
+          [
+            -4.556972,
+            54.137604
+          ],
+          [
+            -4.557019,
+            54.137594
+          ],
+          [
+            -4.557011,
+            54.137581
+          ],
+          [
+            -4.557063,
+            54.13757
+          ],
+          [
+            -4.557083,
+            54.137601
+          ],
+          [
+            -4.557098,
+            54.137597
+          ],
+          [
+            -4.557127,
+            54.137642
+          ],
+          [
+            -4.55708,
+            54.137653
+          ],
+          [
+            -4.55711,
+            54.137699
+          ],
+          [
+            -4.557042,
+            54.137714
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "154 Fairways Crescent",
+        "addr:housenumber": "Mount Murray",
+        "addr:postcode": "IM4 2JJ",
+        "addr:street": "Santon",
+        "building": "yes",
+        "building:levels": "2",
+        "name": "Samaresh Villa",
+        "osm_id": 965186193,
+        "lon": -4.55705425566547,
+        "lat": 54.137639054066405,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/965186193"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 972954836,
       "geometry": {
         "type": "LineString",
@@ -143846,24 +143928,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.641423,
+            -4.64142,
+            54.200429
+          ],
+          [
+            -4.641621,
+            54.200394
+          ],
+          [
+            -4.641644,
             54.20044
           ],
           [
-            -4.641603,
-            54.200408
+            -4.641443,
+            54.200475
           ],
           [
-            -4.641627,
-            54.200455
-          ],
-          [
-            -4.641446,
-            54.200486
-          ],
-          [
-            -4.641423,
-            54.20044
+            -4.64142,
+            54.200429
           ]
         ]
       },
@@ -143876,8 +143958,8 @@
         "operator": "Manx Telecom",
         "telecom": "exchange",
         "osm_id": 1134660497,
-        "lon": -4.641525027926636,
-        "lat": 54.20044724521097,
+        "lon": -4.641532000000001,
+        "lat": 54.2004345,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1134660497"
       }
