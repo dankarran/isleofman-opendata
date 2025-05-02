@@ -747,6 +747,8 @@
       },
       "properties": {
         "name": "Ballakilpheric",
+        "name:en": "Ballakilpheric",
+        "name:gv": "Balley Keeill Pharick",
         "place": "hamlet",
         "wikidata": "Q4851413",
         "wikipedia": "en:Ballakilpheric"
@@ -1136,6 +1138,8 @@
       },
       "properties": {
         "name": "Ballacreggan",
+        "name:en": "Ballacreggan",
+        "name:gv": "Balley Creggan",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -2232,7 +2236,9 @@
         ]
       },
       "properties": {
-        "name": "Ballacurry Farm",
+        "name": "Ballacurry",
+        "name:en": "Ballacurry",
+        "name:gv": "Balley Curree",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -2464,6 +2470,8 @@
       },
       "properties": {
         "name": "Ballahane",
+        "name:en": "Ballahane",
+        "name:gv": "Balley Hain",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -3084,6 +3092,8 @@
       },
       "properties": {
         "name": "Ballachrink",
+        "name:en": "Ballachrink",
+        "name:gv": "Balley Chruink",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -7562,6 +7572,8 @@
       },
       "properties": {
         "name": "Ballarhenney",
+        "name:en": "Ballarhenney",
+        "name:gv": "Balley Renniagh",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -7893,6 +7905,7 @@
       },
       "properties": {
         "name": "Kentraugh",
+        "name:en": "Kentraugh",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -8061,6 +8074,8 @@
       },
       "properties": {
         "name": "Ballagawne",
+        "name:en": "Ballagawne",
+        "name:gv": "Balley Gawne",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -8242,6 +8257,8 @@
       },
       "properties": {
         "name": "Ballachrink",
+        "name:en": "Ballachrink",
+        "name:gd": "Balley Chruink",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -12224,6 +12241,8 @@
       },
       "properties": {
         "name": "Ballakilley",
+        "name:en": "Ballakilley",
+        "name:gv": "Balley Killey",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -13963,6 +13982,8 @@
       },
       "properties": {
         "name": "Ballakilley",
+        "name:en": "Ballakilley",
+        "name:gv": "Balley Killey",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -16579,7 +16600,10 @@
       },
       "properties": {
         "name": "The Chasms",
-        "place": "locality"
+        "name:en": "The Chasms",
+        "name:gv": "Ny Skortyn",
+        "place": "locality",
+        "source:name": "Manx Place-names 1925"
       }
     },
     {
@@ -17749,6 +17773,8 @@
       },
       "properties": {
         "name": "The Castles",
+        "name:en": "The Castles",
+        "name:gv": "Ny Cashtalyn",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map"
       }
@@ -26550,40 +26576,40 @@
             54.095071
           ],
           [
-            -4.628789,
-            54.095103
+            -4.628742,
+            54.095107
           ],
           [
-            -4.628676,
-            54.095226
+            -4.628494,
+            54.095204
           ],
           [
-            -4.628257,
-            54.095393
+            -4.628171,
+            54.095299
           ],
           [
-            -4.627601,
-            54.095654
+            -4.627494,
+            54.095551
           ],
           [
-            -4.627347,
-            54.095785
+            -4.627251,
+            54.095659
           ],
           [
-            -4.62722,
-            54.095831
+            -4.62706,
+            54.095728
           ],
           [
-            -4.627041,
-            54.095897
+            -4.626875,
+            54.095791
           ],
           [
-            -4.626657,
-            54.095974
+            -4.626621,
+            54.095867
           ],
           [
-            -4.626439,
-            54.096035
+            -4.626404,
+            54.095945
           ],
           [
             -4.625703,
@@ -30752,6 +30778,7 @@
         "landuse": "residential",
         "name": "Foxdale",
         "name:en": "Foxdale",
+        "name:gd": "Forsdal",
         "name:gv": "Forsdal",
         "place": "village",
         "wikidata": "Q3750799",
@@ -31328,7 +31355,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "An Earball",
         "name": "Niarbyl",
+        "name:en": "Niarbyl",
+        "name:gd": "Yn Arbyl",
+        "name:gv": "Yn Arbyl",
         "natural": "coastline",
         "place": "island"
       }
@@ -33421,28 +33452,44 @@
             54.267931
           ],
           [
-            -4.507124,
-            54.267728
+            -4.507473,
+            54.267793
           ],
           [
-            -4.506969,
-            54.26801
+            -4.507433,
+            54.267853
           ],
           [
-            -4.506704,
-            54.26796
+            -4.507182,
+            54.267813
           ],
           [
-            -4.506541,
-            54.268256
+            -4.507052,
+            54.268058
           ],
           [
-            -4.506407,
-            54.268231
+            -4.506785,
+            54.268002
           ],
           [
-            -4.506284,
-            54.268456
+            -4.506763,
+            54.268042
+          ],
+          [
+            -4.506725,
+            54.268034
+          ],
+          [
+            -4.506549,
+            54.268304
+          ],
+          [
+            -4.506339,
+            54.268258
+          ],
+          [
+            -4.506109,
+            54.268444
           ],
           [
             -4.507026,
@@ -34410,6 +34457,8 @@
       "properties": {
         "landuse": "farmyard",
         "name": "Glendown",
+        "name:en": "Glendown",
+        "name:gv": "Glion Dowin",
         "place": "farm",
         "postal_code": "IM9 5PR",
         "source": "Isle of Man Government 1:25000 map (2007)",
@@ -35485,7 +35534,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "An Innean",
         "name": "The Anvil",
+        "name:gd": "Yn Ingan",
+        "name:gv": "Yn Ingan",
         "natural": "coastline",
         "place": "islet",
         "source": "Isle of Man Government 1:25000 map (2007)"

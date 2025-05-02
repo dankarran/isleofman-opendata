@@ -32678,6 +32678,7 @@
         "addr:housename": "Ballafletcher House",
         "addr:postcode": "IM4 4QE",
         "addr:street": "Ballafletcher Farm Road",
+        "amenity": "social_facility",
         "building": "commercial",
         "charity": "food",
         "contact:facebook": "https://www.facebook.com/IOMFoodbank/",
@@ -103759,6 +103760,48 @@
     },
     {
       "type": "Feature",
+      "id": 419113931,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479193,
+            54.151862
+          ],
+          [
+            -4.479204,
+            54.151933
+          ],
+          [
+            -4.479617,
+            54.151919
+          ],
+          [
+            -4.479608,
+            54.151847
+          ],
+          [
+            -4.479585,
+            54.151849
+          ],
+          [
+            -4.479193,
+            54.151862
+          ]
+        ]
+      },
+      "properties": {
+        "addr:country": "IM",
+        "addr:housenumber": "67",
+        "addr:postcode": "IM1 2EN",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "name": "Fatface",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113932,
       "geometry": {
         "type": "LineString",
@@ -106266,28 +106309,44 @@
             54.267931
           ],
           [
-            -4.507124,
-            54.267728
+            -4.507473,
+            54.267793
           ],
           [
-            -4.506969,
-            54.26801
+            -4.507433,
+            54.267853
           ],
           [
-            -4.506704,
-            54.26796
+            -4.507182,
+            54.267813
           ],
           [
-            -4.506541,
-            54.268256
+            -4.507052,
+            54.268058
           ],
           [
-            -4.506407,
-            54.268231
+            -4.506785,
+            54.268002
           ],
           [
-            -4.506284,
-            54.268456
+            -4.506763,
+            54.268042
+          ],
+          [
+            -4.506725,
+            54.268034
+          ],
+          [
+            -4.506549,
+            54.268304
+          ],
+          [
+            -4.506339,
+            54.268258
+          ],
+          [
+            -4.506109,
+            54.268444
           ],
           [
             -4.507026,

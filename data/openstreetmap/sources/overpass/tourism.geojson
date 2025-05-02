@@ -4808,6 +4808,25 @@
     },
     {
       "type": "Feature",
+      "id": 12766378822,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.738679,
+          54.07701
+        ]
+      },
+      "properties": {
+        "artist_name": "Debra Tracey",
+        "artwork_type": "mosaic",
+        "check_date": "2025-04-18",
+        "name": "RNLI Community Mosaic",
+        "start_date": "2024-09-29",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -8718,20 +8737,32 @@
             54.150002
           ],
           [
-            -4.66728,
-            54.149738
+            -4.667329,
+            54.14976
           ],
           [
-            -4.667473,
-            54.149461
+            -4.667642,
+            54.149397
           ],
           [
             -4.667924,
             54.149084
           ],
           [
+            -4.668395,
+            54.148976
+          ],
+          [
             -4.668847,
             54.148908
+          ],
+          [
+            -4.669067,
+            54.148871
+          ],
+          [
+            -4.66932,
+            54.148863
           ],
           [
             -4.669555,
@@ -14514,7 +14545,11 @@
       },
       "properties": {
         "historic": "aircraft",
-        "model": "Embraer Bandeirante",
+        "manufacturer": "Embraer",
+        "manufacturer:wikidata": "Q105557",
+        "model": "EMB-110 Bandeirante",
+        "model:wikidata": "Q1335137",
+        "ref": "G-BGYT",
         "tourism": "attraction",
         "website": "https://www.maps.org.im/news/embraer-bandeirante"
       }
@@ -20028,7 +20063,11 @@
       },
       "properties": {
         "historic": "aircraft",
+        "manufacturer": "British Aerospace",
+        "manufacturer:wikidata": "Q918733",
         "model": "ATP",
+        "model:wikidata": "Q795508",
+        "ref": "G-MAUD",
         "tourism": "attraction"
       }
     },
@@ -20679,6 +20718,67 @@
         "source": "streetside",
         "tourism": "guest_house",
         "website": "http://www.ballacowell.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1378023684,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693956,
+            54.205175
+          ],
+          [
+            -4.694012,
+            54.205175
+          ],
+          [
+            -4.694031,
+            54.205149
+          ],
+          [
+            -4.694185,
+            54.204815
+          ],
+          [
+            -4.694225,
+            54.204744
+          ],
+          [
+            -4.693992,
+            54.204728
+          ],
+          [
+            -4.693795,
+            54.204712
+          ],
+          [
+            -4.69371,
+            54.204699
+          ],
+          [
+            -4.693662,
+            54.204997
+          ],
+          [
+            -4.693705,
+            54.205008
+          ],
+          [
+            -4.693924,
+            54.205002
+          ],
+          [
+            -4.693956,
+            54.205175
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "residential",
+        "tourism": "museum"
       }
     }
   ]

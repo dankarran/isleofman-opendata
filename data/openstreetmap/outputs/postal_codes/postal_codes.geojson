@@ -47450,60 +47450,6 @@
     },
     {
       "type": "Feature",
-      "id": 419113931,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.479193,
-            54.151862
-          ],
-          [
-            -4.479204,
-            54.151933
-          ],
-          [
-            -4.479617,
-            54.151919
-          ],
-          [
-            -4.479608,
-            54.151847
-          ],
-          [
-            -4.479585,
-            54.151849
-          ],
-          [
-            -4.479193,
-            54.151862
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "67",
-        "addr:street": "Strand Street",
-        "building": "retail",
-        "check_date:currency:XBT": "2024-10-08",
-        "currency:XBT": "yes",
-        "name": "The Boredroom",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+447624248667",
-        "postal_code": "IM1 2EN",
-        "shop": "clothes",
-        "website": "https://theboredroom.store/",
-        "osm_id": 419113931,
-        "lon": -4.479405656074855,
-        "lat": 54.15189041769034,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/419113931"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 419113941,
       "geometry": {
         "type": "LineString",
@@ -49753,6 +49699,8 @@
       "properties": {
         "landuse": "farmyard",
         "name": "Glendown",
+        "name:en": "Glendown",
+        "name:gv": "Glion Dowin",
         "place": "farm",
         "postal_code": "IM9 5PR",
         "source": "Isle of Man Government 1:25000 map (2007)",

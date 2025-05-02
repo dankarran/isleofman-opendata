@@ -666,6 +666,30 @@
     },
     {
       "type": "Feature",
+      "id": 286772339,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.716272,
+          54.106607
+        ]
+      },
+      "properties": {
+        "name": "Ballakilpheric",
+        "name:en": "Ballakilpheric",
+        "name:gv": "Balley Keeill Pharick",
+        "place": "hamlet",
+        "wikidata": "Q4851413",
+        "wikipedia": "en:Ballakilpheric",
+        "osm_id": 286772339,
+        "lon": -4.716272,
+        "lat": 54.106607,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/286772339"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 410291638,
       "geometry": {
         "type": "Point",
@@ -704,9 +728,12 @@
       },
       "properties": {
         "alt_name": "The Sound",
+        "alt_name:gd": "A' Chaolas",
+        "alt_name:gv": "Keyllys Mooar",
         "name": "Calf Sound",
         "name:en": "Calf Sound",
-        "name:gv": "yn Cheyllys",
+        "name:gd": "Yn Cheyllys",
+        "name:gv": "Yn Cheyllys",
         "natural": "strait",
         "wikidata": "Q125542",
         "wikipedia": "en:Calf Sound",
@@ -846,9 +873,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "B\u00e0gh na Carraige",
         "name": "Carrick Bay",
         "name:en": "Carrick Bay",
-        "name:gv": "Bay ny Carrickey",
+        "name:gd": "Baie ny Carrickey",
+        "name:gv": "Baie ny Carrickey",
         "natural": "bay",
         "wikidata": "Q26715124",
         "osm_id": 441984176,
@@ -856,6 +885,28 @@
         "lat": 54.076023,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/441984176"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 441984182,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.818149,
+          54.044384
+        ]
+      },
+      "properties": {
+        "name": "The Puddle",
+        "name:en": "The Puddle",
+        "name:gv": "Poyll",
+        "natural": "bay",
+        "osm_id": 441984182,
+        "lon": -4.818149,
+        "lat": 54.044384,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/441984182"
       }
     },
     {
@@ -1019,6 +1070,29 @@
     },
     {
       "type": "Feature",
+      "id": 475392799,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.741366,
+          54.079025
+        ]
+      },
+      "properties": {
+        "name": "Ballacreggan",
+        "name:en": "Ballacreggan",
+        "name:gv": "Balley Creggan",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475392799,
+        "lon": -4.741366,
+        "lat": 54.079025,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392799"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475392814,
       "geometry": {
         "type": "Point",
@@ -1037,6 +1111,52 @@
         "lat": 54.339174,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475392814"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475392950,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.607578,
+          54.192746
+        ]
+      },
+      "properties": {
+        "name": "Ballacurry",
+        "name:en": "Ballacurry",
+        "name:gv": "Balley Curree",
+        "place": "farm",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475392950,
+        "lon": -4.607578,
+        "lat": 54.192746,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392950"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475392980,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.752933,
+          54.078945
+        ]
+      },
+      "properties": {
+        "name": "Ballahane",
+        "name:en": "Ballahane",
+        "name:gv": "Balley Hain",
+        "place": "farm",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475392980,
+        "lon": -4.752933,
+        "lat": 54.078945,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475392980"
       }
     },
     {
@@ -1086,6 +1206,29 @@
         "lat": 54.147699,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393039"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393076,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.749077,
+          54.097822
+        ]
+      },
+      "properties": {
+        "name": "Ballachrink",
+        "name:en": "Ballachrink",
+        "name:gv": "Balley Chruink",
+        "place": "farm",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475393076,
+        "lon": -4.749077,
+        "lat": 54.097822,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393076"
       }
     },
     {
@@ -1255,6 +1398,29 @@
     },
     {
       "type": "Feature",
+      "id": 475393843,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.719424,
+          54.111006
+        ]
+      },
+      "properties": {
+        "name": "Ballarhenney",
+        "name:en": "Ballarhenney",
+        "name:gv": "Balley Renniagh",
+        "place": "farm",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475393843,
+        "lon": -4.719424,
+        "lat": 54.111006,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393843"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475393853,
       "geometry": {
         "type": "Point",
@@ -1296,6 +1462,29 @@
         "lat": 54.097079,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393858"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475393928,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.731301,
+          54.091178
+        ]
+      },
+      "properties": {
+        "name": "Ballagawne",
+        "name:en": "Ballagawne",
+        "name:gv": "Balley Gawne",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475393928,
+        "lon": -4.731301,
+        "lat": 54.091178,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475393928"
       }
     },
     {
@@ -1526,6 +1715,29 @@
     },
     {
       "type": "Feature",
+      "id": 475394545,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.739171,
+          54.087296
+        ]
+      },
+      "properties": {
+        "name": "Ballakilley",
+        "name:en": "Ballakilley",
+        "name:gv": "Balley Killey",
+        "place": "farm",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475394545,
+        "lon": -4.739171,
+        "lat": 54.087296,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475394545"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475394751,
       "geometry": {
         "type": "Point",
@@ -1544,6 +1756,29 @@
         "lat": 54.241599,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475394751"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 475394762,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62802,
+          54.125685
+        ]
+      },
+      "properties": {
+        "name": "Ballakilley",
+        "name:en": "Ballakilley",
+        "name:gv": "Balley Killey",
+        "place": "farm",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475394762,
+        "lon": -4.62802,
+        "lat": 54.125685,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475394762"
       }
     },
     {
@@ -1719,6 +1954,31 @@
     },
     {
       "type": "Feature",
+      "id": 491619169,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.735259,
+          54.077061
+        ]
+      },
+      "properties": {
+        "alt_name:gd": "B\u00e0gh a' Chaipeil",
+        "name": "Chapel Bay",
+        "name:en": "Chapel Bay",
+        "name:gd": "Baie yn Chabbal",
+        "name:gv": "Baie yn Chabbal",
+        "natural": "bay",
+        "source": "Manx Place-names 1925",
+        "osm_id": 491619169,
+        "lon": -4.735259,
+        "lat": 54.077061,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/491619169"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 811511630,
       "geometry": {
         "type": "Point",
@@ -1815,6 +2075,29 @@
         "lat": 54.075682,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1200806942"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1200806945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.763195,
+          54.062083
+        ]
+      },
+      "properties": {
+        "name": "The Chasms",
+        "name:en": "The Chasms",
+        "name:gv": "Ny Skortyn",
+        "place": "locality",
+        "source:name": "Manx Place-names 1925",
+        "osm_id": 1200806945,
+        "lon": -4.763195,
+        "lat": 54.062083,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/1200806945"
       }
     },
     {
@@ -3958,6 +4241,53 @@
     },
     {
       "type": "Feature",
+      "id": 7762882743,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.819289,
+          54.059598
+        ]
+      },
+      "properties": {
+        "alt_name:gd": "B\u00e0gh Fionn",
+        "name": "Bay Fine",
+        "name:en": "Bay Fine",
+        "name:gd": "Baie Fine",
+        "name:gv": "Baie Fine",
+        "natural": "bay",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 7762882743,
+        "lon": -4.819289,
+        "lat": 54.059598,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/7762882743"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7762882744,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.794924,
+          54.063281
+        ]
+      },
+      "properties": {
+        "name": "Little Sound",
+        "name:en": "Little Sound",
+        "name:gv": "Keyllys Beg",
+        "natural": "strait",
+        "osm_id": 7762882744,
+        "lon": -4.794924,
+        "lat": 54.063281,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/7762882744"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 7762882748,
       "geometry": {
         "type": "Point",
@@ -4107,6 +4437,31 @@
         "lat": 54.062811,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/7765716726"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7771624924,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.771684,
+          54.056542
+        ]
+      },
+      "properties": {
+        "alt_name:gd": "Ceann Dubh",
+        "name": "Black Head",
+        "name:en": "Black Head",
+        "name:gd": "Kione Doo",
+        "name:gv": "Kione Doo",
+        "natural": "cape",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 7771624924,
+        "lon": -4.771684,
+        "lat": 54.056542,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/7771624924"
       }
     },
     {
@@ -4340,6 +4695,29 @@
         "lat": 54.081568,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/8398345460"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8398345461,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.771781,
+          54.083643
+        ]
+      },
+      "properties": {
+        "name": "The Castles",
+        "name:en": "The Castles",
+        "name:gv": "Ny Cashtalyn",
+        "place": "locality",
+        "source": "Isle of Man Government 1:25000 map",
+        "osm_id": 8398345461,
+        "lon": -4.771781,
+        "lat": 54.083643,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/8398345461"
       }
     },
     {
@@ -61777,6 +62155,7 @@
         "landuse": "residential",
         "name": "Foxdale",
         "name:en": "Foxdale",
+        "name:gd": "Forsdal",
         "name:gv": "Forsdal",
         "place": "village",
         "wikidata": "Q3750799",
@@ -63442,6 +63821,161 @@
         "lat": 54.17457898805581,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/104794513"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 104869127,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.744229,
+            54.162855
+          ],
+          [
+            -4.744213,
+            54.162487
+          ],
+          [
+            -4.744089,
+            54.162446
+          ],
+          [
+            -4.743918,
+            54.162233
+          ],
+          [
+            -4.743349,
+            54.162183
+          ],
+          [
+            -4.743016,
+            54.162346
+          ],
+          [
+            -4.742711,
+            54.16245
+          ],
+          [
+            -4.742658,
+            54.162605
+          ],
+          [
+            -4.74248,
+            54.162597
+          ],
+          [
+            -4.74219,
+            54.162484
+          ],
+          [
+            -4.741997,
+            54.162654
+          ],
+          [
+            -4.741933,
+            54.162886
+          ],
+          [
+            -4.741871,
+            54.163012
+          ],
+          [
+            -4.741938,
+            54.1632
+          ],
+          [
+            -4.742351,
+            54.163188
+          ],
+          [
+            -4.742424,
+            54.163141
+          ],
+          [
+            -4.742224,
+            54.163073
+          ],
+          [
+            -4.742181,
+            54.162966
+          ],
+          [
+            -4.742338,
+            54.162959
+          ],
+          [
+            -4.742526,
+            54.163
+          ],
+          [
+            -4.7427,
+            54.162993
+          ],
+          [
+            -4.742795,
+            54.162958
+          ],
+          [
+            -4.742787,
+            54.16283
+          ],
+          [
+            -4.742738,
+            54.162735
+          ],
+          [
+            -4.742911,
+            54.162779
+          ],
+          [
+            -4.743051,
+            54.162923
+          ],
+          [
+            -4.743124,
+            54.162974
+          ],
+          [
+            -4.743206,
+            54.162983
+          ],
+          [
+            -4.743335,
+            54.162905
+          ],
+          [
+            -4.743506,
+            54.162916
+          ],
+          [
+            -4.743721,
+            54.162961
+          ],
+          [
+            -4.743971,
+            54.162974
+          ],
+          [
+            -4.744229,
+            54.162855
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name:gd": "An Earball",
+        "name": "Niarbyl",
+        "name:en": "Niarbyl",
+        "name:gd": "Yn Arbyl",
+        "name:gv": "Yn Arbyl",
+        "natural": "coastline",
+        "place": "island",
+        "osm_id": 104869127,
+        "lon": -4.742972976573216,
+        "lat": 54.162734851852655,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/104869127"
       }
     },
     {
@@ -102167,6 +102701,181 @@
     },
     {
       "type": "Feature",
+      "id": 749003816,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.743047,
+            54.085535
+          ],
+          [
+            -4.744254,
+            54.086158
+          ],
+          [
+            -4.745287,
+            54.084904
+          ],
+          [
+            -4.747678,
+            54.086375
+          ],
+          [
+            -4.747,
+            54.086683
+          ],
+          [
+            -4.74476,
+            54.087705
+          ],
+          [
+            -4.744357,
+            54.087892
+          ],
+          [
+            -4.744002,
+            54.088056
+          ],
+          [
+            -4.743112,
+            54.08759
+          ],
+          [
+            -4.743217,
+            54.087487
+          ],
+          [
+            -4.743442,
+            54.08738
+          ],
+          [
+            -4.74324,
+            54.087437
+          ],
+          [
+            -4.743131,
+            54.08745
+          ],
+          [
+            -4.742997,
+            54.087456
+          ],
+          [
+            -4.74281,
+            54.087428
+          ],
+          [
+            -4.742738,
+            54.08739
+          ],
+          [
+            -4.742652,
+            54.087329
+          ],
+          [
+            -4.742607,
+            54.087286
+          ],
+          [
+            -4.742517,
+            54.087232
+          ],
+          [
+            -4.742428,
+            54.087193
+          ],
+          [
+            -4.742342,
+            54.087166
+          ],
+          [
+            -4.742257,
+            54.087148
+          ],
+          [
+            -4.742187,
+            54.087111
+          ],
+          [
+            -4.74211,
+            54.087054
+          ],
+          [
+            -4.742046,
+            54.087013
+          ],
+          [
+            -4.741972,
+            54.08699
+          ],
+          [
+            -4.741895,
+            54.086959
+          ],
+          [
+            -4.741788,
+            54.086879
+          ],
+          [
+            -4.74169,
+            54.086825
+          ],
+          [
+            -4.741542,
+            54.08677
+          ],
+          [
+            -4.74149,
+            54.086743
+          ],
+          [
+            -4.741453,
+            54.086711
+          ],
+          [
+            -4.741383,
+            54.086644
+          ],
+          [
+            -4.741341,
+            54.086611
+          ],
+          [
+            -4.742578,
+            54.085865
+          ],
+          [
+            -4.742623,
+            54.085846
+          ],
+          [
+            -4.742838,
+            54.085703
+          ],
+          [
+            -4.743047,
+            54.085535
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name:gd": "Baile Cille",
+        "landuse": "residential",
+        "name": "Ballakilley",
+        "name:en": "Ballakilley",
+        "name:gd": "Balley Killey",
+        "name:gv": "Balley Killey",
+        "residential": "single_family",
+        "osm_id": 749003816,
+        "lon": -4.7444470978550495,
+        "lat": 54.08652475788617,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/749003816"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 749225445,
       "geometry": {
         "type": "LineString",
@@ -102625,6 +103334,146 @@
         "lat": 54.069830987575884,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/825947665"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 829241369,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.752735,
+            54.078569
+          ],
+          [
+            -4.751714,
+            54.078397
+          ],
+          [
+            -4.751644,
+            54.078386
+          ],
+          [
+            -4.751822,
+            54.078115
+          ],
+          [
+            -4.75132,
+            54.078073
+          ],
+          [
+            -4.751259,
+            54.078239
+          ],
+          [
+            -4.750933,
+            54.078207
+          ],
+          [
+            -4.750712,
+            54.078247
+          ],
+          [
+            -4.750572,
+            54.078336
+          ],
+          [
+            -4.750581,
+            54.078472
+          ],
+          [
+            -4.750696,
+            54.078479
+          ],
+          [
+            -4.750877,
+            54.078602
+          ],
+          [
+            -4.751055,
+            54.078817
+          ],
+          [
+            -4.751031,
+            54.078923
+          ],
+          [
+            -4.751169,
+            54.078922
+          ],
+          [
+            -4.751371,
+            54.078919
+          ],
+          [
+            -4.75148,
+            54.078919
+          ],
+          [
+            -4.7515,
+            54.078937
+          ],
+          [
+            -4.7516,
+            54.078962
+          ],
+          [
+            -4.751712,
+            54.078974
+          ],
+          [
+            -4.751918,
+            54.078974
+          ],
+          [
+            -4.752086,
+            54.078973
+          ],
+          [
+            -4.752152,
+            54.078977
+          ],
+          [
+            -4.752314,
+            54.078854
+          ],
+          [
+            -4.752371,
+            54.078773
+          ],
+          [
+            -4.752481,
+            54.078733
+          ],
+          [
+            -4.752597,
+            54.078704
+          ],
+          [
+            -4.752685,
+            54.078659
+          ],
+          [
+            -4.752735,
+            54.078569
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Glendown",
+        "name:en": "Glendown",
+        "name:gv": "Glion Dowin",
+        "place": "farm",
+        "postal_code": "IM9 5PR",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Planning Applications",
+        "osm_id": 829241369,
+        "lon": -4.751614286023133,
+        "lat": 54.07854362182504,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/829241369"
       }
     },
     {
@@ -103199,6 +104048,49 @@
         "lat": 54.16112941436364,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/832376085"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 832403434,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.757538,
+            54.060507
+          ],
+          [
+            -4.757513,
+            54.060591
+          ],
+          [
+            -4.757614,
+            54.060591
+          ],
+          [
+            -4.757656,
+            54.060527
+          ],
+          [
+            -4.757538,
+            54.060507
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name:gd": "An Innean",
+        "name": "The Anvil",
+        "name:gd": "Yn Ingan",
+        "name:gv": "Yn Ingan",
+        "natural": "coastline",
+        "place": "islet",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 832403434,
+        "lon": -4.757579485398803,
+        "lat": 54.060552059833775,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/832403434"
       }
     },
     {

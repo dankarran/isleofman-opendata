@@ -800,9 +800,12 @@
       },
       "properties": {
         "alt_name": "The Sound",
+        "alt_name:gd": "A' Chaolas",
+        "alt_name:gv": "Keyllys Mooar",
         "name": "Calf Sound",
         "name:en": "Calf Sound",
-        "name:gv": "yn Cheyllys",
+        "name:gd": "Yn Cheyllys",
+        "name:gv": "Yn Cheyllys",
         "natural": "strait",
         "wikidata": "Q125542",
         "wikipedia": "en:Calf Sound",
@@ -1000,9 +1003,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "B\u00e0gh na Carraige",
         "name": "Carrick Bay",
         "name:en": "Carrick Bay",
-        "name:gv": "Bay ny Carrickey",
+        "name:gd": "Baie ny Carrickey",
+        "name:gv": "Baie ny Carrickey",
         "natural": "bay",
         "wikidata": "Q26715124",
         "osm_id": 441984176,
@@ -1124,6 +1129,8 @@
       },
       "properties": {
         "name": "The Puddle",
+        "name:en": "The Puddle",
+        "name:gv": "Poyll",
         "natural": "bay",
         "osm_id": 441984182,
         "lon": -4.818149,
@@ -1418,8 +1425,13 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "B\u00e0gh a' Chaipeil",
         "name": "Chapel Bay",
+        "name:en": "Chapel Bay",
+        "name:gd": "Baie yn Chabbal",
+        "name:gv": "Baie yn Chabbal",
         "natural": "bay",
+        "source": "Manx Place-names 1925",
         "osm_id": 491619169,
         "lon": -4.735259,
         "lat": 54.077061,
@@ -2051,7 +2063,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "B\u00e0gh Fionn",
         "name": "Bay Fine",
+        "name:en": "Bay Fine",
+        "name:gd": "Baie Fine",
+        "name:gv": "Baie Fine",
         "natural": "bay",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 7762882743,
@@ -2073,6 +2089,8 @@
       },
       "properties": {
         "name": "Little Sound",
+        "name:en": "Little Sound",
+        "name:gv": "Keyllys Beg",
         "natural": "strait",
         "osm_id": 7762882744,
         "lon": -4.794924,
@@ -2435,7 +2453,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Ceann Dubh",
         "name": "Black Head",
+        "name:en": "Black Head",
+        "name:gd": "Kione Doo",
+        "name:gv": "Kione Doo",
         "natural": "cape",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 7771624924,
@@ -17484,7 +17506,11 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "An Earball",
         "name": "Niarbyl",
+        "name:en": "Niarbyl",
+        "name:gd": "Yn Arbyl",
+        "name:gv": "Yn Arbyl",
         "natural": "coastline",
         "place": "island",
         "osm_id": 104869127,
@@ -23695,7 +23721,10 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "An Innean",
         "name": "The Anvil",
+        "name:gd": "Yn Ingan",
+        "name:gv": "Yn Ingan",
         "natural": "coastline",
         "place": "islet",
         "source": "Isle of Man Government 1:25000 map (2007)",
