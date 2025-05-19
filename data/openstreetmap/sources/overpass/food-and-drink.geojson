@@ -33,6 +33,7 @@
       },
       "properties": {
         "addr:city": "Ballasalla",
+        "addr:country": "IM",
         "addr:housename": "The Cregg Mill",
         "addr:place": "Silverdale",
         "addr:postcode": "IM9 3DS",
@@ -756,6 +757,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "59",
         "addr:postcode": "IM3 2AR",
         "addr:street": "King Edward Road",
@@ -779,6 +781,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "Market Hall",
         "addr:housenumber": "1",
         "addr:postcode": "IM1 2BQ",
@@ -807,6 +810,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM4 2AF",
         "addr:street": "Cooil Road",
         "amenity": "cafe",
@@ -883,6 +887,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "The Empress",
         "addr:postcode": "IM2 4RA",
         "addr:street": "Central Promenade",
@@ -1003,6 +1008,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "6",
         "addr:postcode": "IM1 2LH",
         "addr:street": "Victoria Street",
@@ -1081,6 +1087,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "1",
         "addr:postcode": "IM2 3HZ",
         "addr:street": "Waverley Terrace",
@@ -1155,8 +1162,17 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "The Sefton",
+        "addr:street": "Harris Promenade",
         "amenity": "restaurant",
-        "name": "The Gallery"
+        "cuisine": "chinese;japanese;asian;thai",
+        "diet:non-vegetarian": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Bonzai Pan Asian Restaurant",
+        "website": "https://bonzai-kitchen.im"
       }
     },
     {
@@ -1344,6 +1360,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 1JE",
         "addr:street": "North Quay",
         "addr:substreet": "Clinch's Court",
@@ -1371,6 +1388,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:postcode": "IM8 1JS",
         "addr:street": "Court Row",
         "alt_name": "Chingans Asian Kitchen",
@@ -1397,6 +1415,7 @@
       },
       "properties": {
         "addr:city": "Port Erin",
+        "addr:country": "IM",
         "addr:postcode": "IM9 6HL",
         "addr:street": "Shore Road",
         "amenity": "restaurant",
@@ -1424,6 +1443,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM2 4NP",
         "addr:street": "Queens Promenade",
         "amenity": "restaurant",
@@ -1445,6 +1465,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 1JE",
         "addr:street": "Bank Hill",
         "addr:substreet": "Clinch's Court",
@@ -1468,6 +1489,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 4QF",
         "addr:street": "Bank Hill",
         "addr:substreet": "Clinch's Court",
@@ -1518,6 +1540,7 @@
       },
       "properties": {
         "addr:city": "Peel",
+        "addr:country": "IM",
         "addr:housenumber": "20/22",
         "addr:postcode": "IM5 1HB",
         "addr:street": "Michael Street",
@@ -1598,6 +1621,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "Noble's Park Pavilion",
         "addr:place": "Noble's Park",
         "addr:postcode": "IM2 4BD",
@@ -1633,6 +1657,7 @@
       },
       "properties": {
         "addr:city": "Crosby",
+        "addr:country": "IM",
         "addr:place": "Crosby Meadows",
         "addr:postcode": "IM4 2EE",
         "amenity": "cafe",
@@ -1655,6 +1680,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:place": "Middle River Industrial Estate",
         "addr:postcode": "IM2 1AL",
         "addr:unit": "5",
@@ -1708,6 +1734,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:postcode": "IM8 2EE",
         "addr:street": "Parsonage Road",
         "amenity": "bar",
@@ -1998,6 +2025,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "Capital House",
         "addr:postcode": "IM1 1AG",
         "addr:street": "Circular Road",
@@ -2041,6 +2069,7 @@
       },
       "properties": {
         "addr:city": "Port Erin",
+        "addr:country": "IM",
         "addr:housename": "The Old Coal Shed",
         "addr:postcode": "IM9 6JA",
         "addr:street": "Breakwater Road",
@@ -2260,6 +2289,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:postcode": "IM3 1HU",
         "addr:street": "Onchan Pleasure Park",
         "amenity": "restaurant",
@@ -2281,6 +2311,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:postcode": "IM3 1HU",
         "addr:street": "Onchan Pleasure Park",
         "amenity": "cafe",
@@ -2548,6 +2579,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housename": "The Empress",
         "addr:postcode": "IM2 4RA",
         "addr:street": "Central Promenade",
@@ -2941,6 +2973,7 @@
       },
       "properties": {
         "addr:city": "Santon",
+        "addr:country": "IM",
         "addr:postcode": "IM4 1JE",
         "amenity": "restaurant",
         "building": "yes",
@@ -2988,6 +3021,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:place": "Isle of Man Business Park",
         "addr:postcode": "IM2 2SP",
         "amenity": "restaurant",
@@ -3305,6 +3339,7 @@
       },
       "properties": {
         "addr:city": "Port Erin",
+        "addr:country": "IM",
         "addr:postcode": "IM9 6AB",
         "addr:street": "Station Road",
         "amenity": "pub",
@@ -4167,6 +4202,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 2HF",
         "addr:street": "Marina Road",
         "alt_name": "Samuel Webb & Co.",
@@ -4221,6 +4257,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "4-6",
         "addr:postcode": "IM1 3AL",
         "addr:street": "Woodbourne Road",
@@ -4270,6 +4307,7 @@
       },
       "properties": {
         "addr:city": "Port St Mary",
+        "addr:country": "IM",
         "addr:locality": "Gansey",
         "addr:postcode": "IM9 5LZ",
         "addr:street": "Shore Road",
@@ -4711,6 +4749,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "8-9",
         "addr:postcode": "IM1 4LQ",
         "addr:street": "North Quay",
@@ -4812,6 +4851,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 1LH",
         "addr:street": "Queen Street",
         "amenity": "pub",
@@ -4998,6 +5038,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM2 6PQ",
         "addr:street": "School Road",
         "addr:suburb": "Willaston",
@@ -5054,6 +5095,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM2 7EA",
         "addr:street": "Hailwood Avenue",
         "addr:substreet": "Hailwood Court",
@@ -5135,6 +5177,7 @@
       },
       "properties": {
         "addr:city": "Port Erin",
+        "addr:country": "IM",
         "addr:postcode": "IM9 6HH",
         "addr:street": "The Promenade",
         "amenity": "cafe",
@@ -5362,6 +5405,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "28",
         "addr:postcode": "IM1 2LE",
         "addr:street": "Victoria Street",
@@ -5463,6 +5507,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "2",
         "addr:postcode": "IM1 2ES",
         "addr:street": "Granville Street",
@@ -5753,6 +5798,7 @@
       },
       "properties": {
         "addr:city": "Port Erin",
+        "addr:country": "IM",
         "addr:postcode": "IM9 5PZ",
         "addr:street": "Sound Road",
         "amenity": "cafe",
@@ -5801,6 +5847,7 @@
         ]
       },
       "properties": {
+        "addr:country": "IM",
         "addr:postcode": "IM4 3HL",
         "amenity": "cafe",
         "animal": "shelter",
@@ -5867,6 +5914,7 @@
       },
       "properties": {
         "addr:city": "Ballaugh",
+        "addr:country": "IM",
         "addr:place": "Curraghs Wildlife Park",
         "addr:postcode": "IM7 5EA",
         "addr:street": "Main Road",
@@ -5963,6 +6011,7 @@
       },
       "properties": {
         "addr:city": "Castletown",
+        "addr:country": "IM",
         "addr:postcode": "IM9 1LG",
         "addr:street": "The Parade",
         "amenity": "pub",
@@ -6038,6 +6087,7 @@
       },
       "properties": {
         "addr:city": "Castletown",
+        "addr:country": "IM",
         "addr:postcode": "IM9 1LH",
         "addr:street": "Arbory Street",
         "amenity": "pub",
@@ -6765,6 +6815,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housenumber": "1",
         "addr:postcode": "IM8 1BJ",
         "addr:street": "Dale Street",
@@ -6864,6 +6915,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:postcode": "IM8 1JY",
         "addr:street": "Market Place",
         "amenity": "restaurant",
@@ -7248,6 +7300,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housename": "Vellika's Indian Restaurant",
         "addr:housenumber": "6",
         "addr:postcode": "IM8 2LQ",
@@ -7400,6 +7453,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housenumber": "44",
         "addr:postcode": "IM8 1AN",
         "addr:street": "Parliament Street",
@@ -7490,6 +7544,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housename": "Central Hotel",
         "addr:postcode": "IM8 1AH",
         "addr:street": "Parliament Square",
@@ -7623,6 +7678,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:postcode": "IM8 1AH",
         "addr:street": "Parliament Square",
         "amenity": "pub",
@@ -7630,7 +7686,6 @@
         "building": "yes",
         "name": "The Swan",
         "outdoor_seating": "yes",
-        "postal_code": "IM8 1AH",
         "real_ale": "yes",
         "website": "https://pubsandbars.im/venue/the-swan/",
         "wheelchair": "limited"
@@ -7818,8 +7873,8 @@
         "amenity": "fast_food",
         "building": "yes",
         "cuisine": "fish_and_chips",
+        "image": "https://www.geograph.org.uk/photo/3148463",
         "name": "The Ramsey Trawlerman",
-        "photo": "https://www.geograph.org.uk/photo/3148463",
         "source": "survey",
         "source:addr:housenumber": "Isle of Man Government Companies Registry",
         "toilets:wheelchair": "yes",
@@ -7856,6 +7911,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housename": "Forrest View",
         "addr:housenumber": "4",
         "addr:postcode": "IM8 2LH",
@@ -8555,6 +8611,7 @@
       },
       "properties": {
         "addr:city": "Peel",
+        "addr:country": "IM",
         "addr:postcode": "IM5 1AT",
         "addr:street": "Station Place",
         "amenity": "pub",
@@ -8746,6 +8803,7 @@
       },
       "properties": {
         "addr:city": "Peel",
+        "addr:country": "IM",
         "addr:housename": "Roots by the Sea",
         "addr:housenumber": "26",
         "addr:postcode": "IM5 1NH",
@@ -9294,6 +9352,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM2 2BZ",
         "addr:street": "Cushag Road",
         "amenity": "pub",
@@ -9720,6 +9779,7 @@
       },
       "properties": {
         "addr:city": "Laxey",
+        "addr:country": "IM",
         "addr:postcode": "IM4 7AY",
         "addr:street": "Captain's Hill",
         "alt_name": "Mines Tavern",
@@ -10075,6 +10135,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:postcode": "IM3 4EZ",
         "addr:street": "Avondale Road",
         "amenity": "pub",
@@ -10326,6 +10387,7 @@
       },
       "properties": {
         "addr:city": "St John's",
+        "addr:country": "IM",
         "addr:postcode": "IM4 3NA",
         "addr:street": "St Johns Main Road",
         "amenity": "cafe",
@@ -10333,7 +10395,7 @@
         "contact:facebook": "https://www.facebook.com/greenscafeiom/",
         "diet:vegetarian": "only",
         "name": "Green's",
-        "source": "Bing;survey;",
+        "source": "Bing;survey",
         "source:addr:postcode": "Isle of Man Government Companies Registry",
         "website": "http://www.greensiom.com"
       }
@@ -10478,6 +10540,7 @@
       },
       "properties": {
         "addr:city": "Colby",
+        "addr:country": "IM",
         "addr:postcode": "IM9 4LR",
         "addr:street": "Colby Main Road",
         "amenity": "pub",
@@ -10525,6 +10588,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "32",
         "addr:postcode": "IM1 4LB",
         "addr:street": "North Quay",
@@ -11717,6 +11781,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "17",
         "addr:postcode": "IM1 2EX",
         "addr:street": "Castle Street",
@@ -11939,13 +12004,16 @@
         "addr:housenumber": "6",
         "addr:postcode": "IM1 2EA",
         "addr:street": "Regent Street",
-        "amenity": "restaurant",
+        "amenity": "pub",
+        "brand": "Wetherspoon",
+        "brand:wikidata": "Q6109362",
         "building": "yes",
         "building:levels": "3",
         "building:material": "brick",
-        "name": "1886 Bar & Grill",
-        "source": "Bing;photograph",
-        "website": "https://1886bars.com"
+        "dog": "no",
+        "name": "The Conister Arms",
+        "old_name": "1886 Bar & Grill",
+        "website": "https://www.jdwetherspoon.com/pubs/the-conister-arms-douglas/"
       }
     },
     {
@@ -12442,6 +12510,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "8",
         "addr:postcode": "IM1 2LH",
         "addr:street": "Victoria Street",
@@ -12548,6 +12617,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "38-40",
         "addr:postcode": "IM1 2LW;IM2 1LB",
         "addr:street": "Victoria Street",
@@ -13004,6 +13074,7 @@
       },
       "properties": {
         "addr:city": "Castletown",
+        "addr:country": "IM",
         "addr:housename": "Stanley House",
         "addr:postcode": "IM9 1LF",
         "addr:street": "Castle Street",
@@ -13334,6 +13405,7 @@
       },
       "properties": {
         "addr:city": "Laxey",
+        "addr:country": "IM",
         "addr:housename": "The Shed",
         "addr:postcode": "IM4 7DD",
         "addr:street": "The Promenade",
@@ -13512,6 +13584,7 @@
       },
       "properties": {
         "addr:city": "Andreas",
+        "addr:country": "IM",
         "addr:postcode": "IM7 4HE",
         "addr:street": "Andreas Main Road",
         "amenity": "pub",
@@ -13613,6 +13686,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housename": "Mooragh Promenade",
         "addr:postcode": "IM8 3AB",
         "addr:street": "Mooragh Promenade",
@@ -13704,6 +13778,7 @@
       },
       "properties": {
         "addr:city": "Crosby",
+        "addr:country": "IM",
         "addr:postcode": "IM4 2DQ",
         "addr:street": "Crosby Main Road",
         "amenity": "pub",
@@ -13919,18 +13994,19 @@
       },
       "properties": {
         "amenity": "restaurant",
+        "check_date": "2025-05-14",
         "contact:email": "Blackdogoven@gmail.com",
         "contact:facebook": "https://www.facebook.com/Blackdogoven/",
         "contact:phone": "+44 7624 230209",
         "cuisine": "pizza",
-        "currency:XBT": "yes",
+        "currency:XBT": "no",
         "drive_through": "no",
         "indoor_seating": "yes",
         "name": "Black Dog Oven (Dogs Nollick)",
         "outdoor_seating": "yes",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
         "phone": "+44 7624 230209",
         "survey:date": "2022-09-23",
         "takeaway": "yes"
@@ -14013,6 +14089,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:housenumber": "10",
         "addr:place": "Port Jack",
         "addr:postcode": "IM3 1EB",
@@ -14159,6 +14236,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 5ED",
         "addr:street": "Peel Road",
         "addr:unit": "13",
@@ -14449,6 +14527,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM1 3HH",
         "addr:street": "Woodbourne Road",
         "amenity": "pub",
@@ -14642,6 +14721,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "20",
         "addr:postcode": "IM2 3QF",
         "addr:street": "Alexander Drive",
@@ -14682,6 +14762,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:housenumber": "6",
         "addr:postcode": "IM8 1AH",
         "addr:street": "Parliament Square",
@@ -15112,6 +15193,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "6",
         "addr:postcode": "IM2 3HH",
         "addr:street": "Bathurst Street",
@@ -15151,6 +15233,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "5",
         "addr:postcode": "IM2 3HH",
         "addr:street": "Bathurst Street",
@@ -15280,6 +15363,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "1-2",
         "addr:postcode": "IM2 3HH",
         "addr:street": "Bathurst Street",

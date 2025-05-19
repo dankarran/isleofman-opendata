@@ -829,6 +829,7 @@
       },
       "properties": {
         "addr:city": "Ramsey",
+        "addr:country": "IM",
         "addr:postcode": "IM8 3UA",
         "addr:street": "Andreas Road",
         "fee": "yes",
@@ -2189,23 +2190,70 @@
         "capital": "yes",
         "capital_ISO3166-1": "yes",
         "name": "Douglas",
+        "name:af": "Douglas",
+        "name:an": "Doolish",
+        "name:ar": "\u062f\u0648\u063a\u0644\u0627\u0633",
+        "name:az": "Duqlas",
         "name:be": "\u0414\u0443\u0433\u043b\u0430\u0441",
+        "name:bg": "\u0414\u044a\u0433\u043b\u0430\u0441",
         "name:br": "Doolish",
+        "name:bs": "Douglas",
+        "name:ca": "Douglas",
+        "name:cs": "Douglas",
+        "name:cy": "Douglas",
+        "name:da": "Douglas",
+        "name:de": "Douglas",
+        "name:el": "\u039d\u03c4\u03ac\u03b3\u03ba\u03bb\u03b1\u03c2",
         "name:en": "Douglas",
+        "name:eo": "Douglas",
         "name:es": "Douglas",
+        "name:fa": "\u062f\u0648\u06af\u0644\u0627\u0633",
+        "name:fi": "Douglas",
         "name:fr": "Douglas",
+        "name:fy": "Douglas",
         "name:ga": "D\u00falais",
         "name:gd": "D\u00f9ghlais",
+        "name:gl": "Douglas",
         "name:gv": "Doolish",
+        "name:he": "\u05d3\u05d0\u05d2\u05dc\u05e1",
+        "name:hr": "Douglas",
         "name:hu": "Douglas",
+        "name:id": "Douglas",
+        "name:is": "Douglas",
         "name:it": "Douglas",
+        "name:ja": "\u30c0\u30b0\u30e9\u30b9",
+        "name:ka": "\u10d3\u10e3\u10d2\u10da\u10d0\u10e1\u10d8",
+        "name:kk": "\u0414\u0443\u0433\u043b\u0430\u0441",
+        "name:ko": "\ub354\uae00\ub7ec\uc2a4",
+        "name:kw": "Doolish",
+        "name:lt": "Daglasas",
+        "name:lv": "Daglasa",
+        "name:mi": "Douglas",
         "name:mk": "\u0414\u0430\u0433\u043b\u0430\u0441",
         "name:ml": "\u0d21\u0d17\u0d4d\u0d32\u0d38\u0d4d",
+        "name:mr": "\u0921\u0917\u094d\u0932\u0938",
+        "name:nb": "Douglas",
+        "name:nl": "Douglas",
+        "name:nn": "Douglas",
+        "name:oc": "Douglas",
+        "name:os": "\u0414\u0443\u0433\u043b\u0430\u0441",
+        "name:pa": "\u0a21\u0a17\u0a32\u0a38",
         "name:pl": "Douglas",
+        "name:pt": "Douglas",
         "name:ro": "Douglas",
         "name:ru": "\u0414\u0443\u0433\u043b\u0430\u0441",
+        "name:sc": "Douglas",
+        "name:sk": "Douglas",
+        "name:sl": "Douglas",
+        "name:sr": "\u0414\u0430\u0433\u043b\u0430\u0441",
+        "name:sv": "Douglas",
+        "name:ta": "\u0b9f\u0b95\u0bcd\u0bb2\u0b9a\u0bc1",
         "name:te": "\u0c21\u0c4c\u0c17\u0c4d\u0c32\u0c38\u0c4d",
+        "name:th": "\u0e14\u0e31\u0e01\u0e25\u0e32\u0e2a",
+        "name:tr": "Douglas",
         "name:uk": "\u0414\u0443\u0433\u043b\u0430\u0441",
+        "name:ur": "\u0688\u06af\u0644\u0633",
+        "name:vi": "Douglas",
         "name:zh": "\u9053\u683c\u62c9\u65af",
         "place": "city",
         "population": "27938",
@@ -9730,8 +9778,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.488441,
-            54.151343
+            -4.48841,
+            54.151354
+          ],
+          [
+            -4.488352,
+            54.1514
           ],
           [
             -4.488055,
@@ -10817,8 +10869,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.487568,
-            54.151161
+            -4.487549,
+            54.151174
+          ],
+          [
+            -4.487596,
+            54.15114
+          ],
+          [
+            -4.487623,
+            54.151119
           ],
           [
             -4.488632,
@@ -52458,6 +52518,7 @@
       },
       "properties": {
         "addr:city": "Castletown",
+        "addr:country": "IM",
         "addr:postcode": "IM9 1LE",
         "addr:street": "Castle Street",
         "alt_name": "Saint Mary's Chapel",
@@ -52476,6 +52537,62 @@
         "url:imher": "https://isleofmanher.im/report/4ab87a07-c55e-4b50-ad02-58b3fd8cbad3",
         "url:registered_building": "https://www.gov.im/media/631967/0500073regbldtheschoolhouse.pdf",
         "wikidata": "Q118188623"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61561686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488359,
+            54.15157
+          ],
+          [
+            -4.488745,
+            54.151754
+          ],
+          [
+            -4.488717,
+            54.151774
+          ],
+          [
+            -4.488778,
+            54.151803
+          ],
+          [
+            -4.488805,
+            54.151784
+          ],
+          [
+            -4.489064,
+            54.151908
+          ],
+          [
+            -4.489167,
+            54.151835
+          ],
+          [
+            -4.488461,
+            54.151497
+          ],
+          [
+            -4.488359,
+            54.15157
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Thie Clag",
+        "addr:street": "Westmoreland Road",
+        "building": "residential",
+        "name": "Thie Clag",
+        "name:gv": "Thie Clag",
+        "old_name": "Former Nurses' Home",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
     {
@@ -54724,13 +54841,13 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:postcode": "IM2 6RB",
         "addr:street": "Homefield Road",
         "amenity": "university",
         "name": "University College Isle of Man",
         "name:gv": "Colleish-Ollooscoill Ellan Vannin",
         "old_name": "Isle of Man College",
-        "postal_code": "IM2 6RB",
         "short_name": "UCM",
         "website": "https://www.ucm.ac.im/",
         "wikidata": "Q3445987",
@@ -79153,6 +79270,7 @@
       },
       "properties": {
         "addr:city": "Onchan",
+        "addr:country": "IM",
         "addr:postcode": "IM3 3AR",
         "addr:street": "Heywood Avenue",
         "amenity": "school",
@@ -81973,6 +82091,7 @@
       },
       "properties": {
         "addr:city": "Sulby",
+        "addr:country": "IM",
         "addr:postcode": "IM7 2HP",
         "addr:street": "Sulby Main Road",
         "building": "yes",
@@ -102529,6 +102648,7 @@
       },
       "properties": {
         "addr:city": "Union Mills",
+        "addr:country": "IM",
         "addr:housename": "Commissioners Office",
         "addr:postcode": "IM4 4LZ",
         "addr:street": "Close Corran",
@@ -103406,12 +103526,12 @@
         "amenity": "community_centre",
         "building": "yes",
         "description": "Manx Language Centre operated by Yn Cheshaght Ghailckagh, used for language teaching. Has a Gaelic library for students, and a Gaelic bookstore, as well as being available for use by the local community.",
+        "image": "https://www.geograph.org.uk/photo/57169",
         "name": "Thie ny Gaelgey",
         "name:gv": "Thie ny Gaelgey",
         "operator": "Yn Cheshaght Ghailckagh",
         "operator:wikidata": "Q3406242",
         "operator:wikipedia": "en:Yn \u00c7heshaght Ghailckagh",
-        "photo": "https://www.geograph.org.uk/photo/57169",
         "was:amenity": "school",
         "website": "https://ycg.im/thie-ny-gaelgey/"
       }
@@ -108808,7 +108928,7 @@
         "lane_markings": "no",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
-        "sidewalk": "none",
+        "sidewalk": "no",
         "surface": "paved"
       }
     },
@@ -110623,8 +110743,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.486519,
-            54.150873
+            -4.486509,
+            54.15089
+          ],
+          [
+            -4.486607,
+            54.150774
           ],
           [
             -4.486684,
@@ -110782,6 +110906,7 @@
       },
       "properties": {
         "addr:city": "Lezayre",
+        "addr:country": "IM",
         "addr:housename": "Close-y-Kee",
         "addr:postcode": "IM7 2EW",
         "addr:street": "Jurby Road",

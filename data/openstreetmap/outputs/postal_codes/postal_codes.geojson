@@ -5908,31 +5908,6 @@
     },
     {
       "type": "Feature",
-      "id": 12221966078,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.403843,
-          54.355467
-        ]
-      },
-      "properties": {
-        "addr:city": "Bride",
-        "addr:housename": "Ramscraigs",
-        "addr:postcode": "IM7 4AN",
-        "addr:street": "Grenaby Road",
-        "postal_code": "IM7 4AN",
-        "source:name": "mapillary",
-        "source:postal_code": "Isle of Man Land Registry Land Transactions",
-        "osm_id": 12221966078,
-        "lon": -4.403843,
-        "lat": 54.355467,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12221966078"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12227683134,
       "geometry": {
         "type": "Point",
@@ -9353,6 +9328,100 @@
         "lat": 54.32026833149154,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986352"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986353,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.587553,
+            54.283186
+          ],
+          [
+            -4.587486,
+            54.28317
+          ],
+          [
+            -4.587388,
+            54.283145
+          ],
+          [
+            -4.587266,
+            54.28311
+          ],
+          [
+            -4.587159,
+            54.283067
+          ],
+          [
+            -4.586995,
+            54.282956
+          ],
+          [
+            -4.586273,
+            54.282936
+          ],
+          [
+            -4.586265,
+            54.283006
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Mull View",
+        "postal_code": "IM6 1AQ",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 25986353,
+        "lon": -4.586889797433357,
+        "lat": 54.283011268412864,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986353"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986360,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47186,
+            54.171896
+          ],
+          [
+            -4.470893,
+            54.171073
+          ],
+          [
+            -4.470644,
+            54.170877
+          ],
+          [
+            -4.47063,
+            54.170865
+          ],
+          [
+            -4.470591,
+            54.170834
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Third Avenue",
+        "postal_code": "IM2 6AL",
+        "surface": "paved",
+        "osm_id": 25986360,
+        "lon": -4.471228783319921,
+        "lat": 54.17136099123178,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986360"
       }
     },
     {
@@ -34414,58 +34483,6 @@
     },
     {
       "type": "Feature",
-      "id": 59321670,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.469844,
-            54.143024
-          ],
-          [
-            -4.469777,
-            54.143108
-          ],
-          [
-            -4.469673,
-            54.143143
-          ],
-          [
-            -4.469402,
-            54.143073
-          ],
-          [
-            -4.469499,
-            54.142936
-          ],
-          [
-            -4.469844,
-            54.143024
-          ]
-        ]
-      },
-      "properties": {
-        "addr:housename": "Broadcasting House",
-        "addr:postcode": "IM1 5BW",
-        "addr:street": "Douglas Head",
-        "amenity": "studio",
-        "building": "yes",
-        "name": "Manx Radio",
-        "old_name": "HMS Valkyrie",
-        "postal_code": "IM1 5BW",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "studio": "radio",
-        "website": "https://www.manxradio.com/",
-        "wikidata": "Q3365538",
-        "osm_id": 59321670,
-        "lon": -4.4696188078953725,
-        "lat": 54.14304380672036,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/59321670"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 59384494,
       "geometry": {
         "type": "LineString",
@@ -38089,382 +38106,6 @@
     },
     {
       "type": "Feature",
-      "id": 77963984,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.459169,
-            54.181202
-          ],
-          [
-            -4.458729,
-            54.1807
-          ],
-          [
-            -4.457602,
-            54.180757
-          ],
-          [
-            -4.457055,
-            54.18075
-          ],
-          [
-            -4.456583,
-            54.180468
-          ],
-          [
-            -4.456422,
-            54.180235
-          ],
-          [
-            -4.45639,
-            54.179934
-          ],
-          [
-            -4.457323,
-            54.180047
-          ],
-          [
-            -4.457066,
-            54.1794
-          ],
-          [
-            -4.458192,
-            54.179457
-          ],
-          [
-            -4.458342,
-            54.179513
-          ],
-          [
-            -4.45858,
-            54.180167
-          ],
-          [
-            -4.458945,
-            54.180225
-          ],
-          [
-            -4.460274,
-            54.180248
-          ],
-          [
-            -4.461626,
-            54.180267
-          ],
-          [
-            -4.462205,
-            54.180292
-          ],
-          [
-            -4.462419,
-            54.180631
-          ],
-          [
-            -4.462054,
-            54.180698
-          ],
-          [
-            -4.462023,
-            54.180626
-          ],
-          [
-            -4.461867,
-            54.180646
-          ],
-          [
-            -4.461734,
-            54.180663
-          ],
-          [
-            -4.461754,
-            54.180731
-          ],
-          [
-            -4.46051,
-            54.180907
-          ],
-          [
-            -4.459512,
-            54.18114
-          ],
-          [
-            -4.459169,
-            54.181202
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:postcode": "IM3 3LA",
-        "amenity": "school",
-        "fixme": "approximate geometry",
-        "name": "Ashley Hill School",
-        "postal_code": "IM3 3LA",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://ashleyhill.sch.im",
-        "osm_id": 77963984,
-        "lon": -4.459191531466275,
-        "lat": 54.18037012972196,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/77963984"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 77964050,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.482536,
-            54.171912
-          ],
-          [
-            -4.480992,
-            54.172114
-          ],
-          [
-            -4.480839,
-            54.171733
-          ],
-          [
-            -4.480567,
-            54.171057
-          ],
-          [
-            -4.480549,
-            54.171013
-          ],
-          [
-            -4.480504,
-            54.170885
-          ],
-          [
-            -4.480425,
-            54.170659
-          ],
-          [
-            -4.480605,
-            54.17068
-          ],
-          [
-            -4.481095,
-            54.170797
-          ],
-          [
-            -4.481459,
-            54.170924
-          ],
-          [
-            -4.481535,
-            54.170942
-          ],
-          [
-            -4.481928,
-            54.170976
-          ],
-          [
-            -4.482083,
-            54.171026
-          ],
-          [
-            -4.482164,
-            54.171088
-          ],
-          [
-            -4.482228,
-            54.171164
-          ],
-          [
-            -4.482276,
-            54.171307
-          ],
-          [
-            -4.482303,
-            54.171557
-          ],
-          [
-            -4.482332,
-            54.171618
-          ],
-          [
-            -4.482363,
-            54.171663
-          ],
-          [
-            -4.482536,
-            54.171912
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM2 6RD",
-        "addr:street": "School Road",
-        "amenity": "school",
-        "name": "Willaston School",
-        "postal_code": "IM2 6RD",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://willaston.sch.im",
-        "osm_id": 77964050,
-        "lon": -4.4814284585280255,
-        "lat": 54.17140892036984,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/77964050"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 77964053,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478111,
-            54.173345
-          ],
-          [
-            -4.477915,
-            54.172922
-          ],
-          [
-            -4.477727,
-            54.172644
-          ],
-          [
-            -4.477555,
-            54.172296
-          ],
-          [
-            -4.477456,
-            54.172225
-          ],
-          [
-            -4.477373,
-            54.172165
-          ],
-          [
-            -4.477349,
-            54.171588
-          ],
-          [
-            -4.477382,
-            54.171583
-          ],
-          [
-            -4.477464,
-            54.171572
-          ],
-          [
-            -4.477488,
-            54.171435
-          ],
-          [
-            -4.47806,
-            54.171332
-          ],
-          [
-            -4.478617,
-            54.171228
-          ],
-          [
-            -4.478797,
-            54.171191
-          ],
-          [
-            -4.479014,
-            54.17115
-          ],
-          [
-            -4.479136,
-            54.171127
-          ],
-          [
-            -4.479162,
-            54.171141
-          ],
-          [
-            -4.479306,
-            54.171148
-          ],
-          [
-            -4.479661,
-            54.17107
-          ],
-          [
-            -4.479781,
-            54.171233
-          ],
-          [
-            -4.479792,
-            54.171247
-          ],
-          [
-            -4.480228,
-            54.17184
-          ],
-          [
-            -4.479524,
-            54.171952
-          ],
-          [
-            -4.479598,
-            54.172061
-          ],
-          [
-            -4.479708,
-            54.172147
-          ],
-          [
-            -4.4797,
-            54.172154
-          ],
-          [
-            -4.479643,
-            54.172208
-          ],
-          [
-            -4.479239,
-            54.17257
-          ],
-          [
-            -4.478992,
-            54.17281
-          ],
-          [
-            -4.478543,
-            54.173111
-          ],
-          [
-            -4.478111,
-            54.173345
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:postcode": "IM2 6RB",
-        "addr:street": "Homefield Road",
-        "amenity": "university",
-        "name": "University College Isle of Man",
-        "name:gv": "Colleish-Ollooscoill Ellan Vannin",
-        "old_name": "Isle of Man College",
-        "postal_code": "IM2 6RB",
-        "short_name": "UCM",
-        "website": "https://www.ucm.ac.im/",
-        "wikidata": "Q3445987",
-        "wikipedia": "en:University College Isle of Man",
-        "osm_id": 77964053,
-        "lon": -4.478710493059398,
-        "lat": 54.17202006328191,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/77964053"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 78036149,
       "geometry": {
         "type": "LineString",
@@ -39765,6 +39406,35 @@
     },
     {
       "type": "Feature",
+      "id": 83351177,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.586282,
+            54.282859
+          ],
+          [
+            -4.586273,
+            54.282936
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Mull View",
+        "postal_code": "IM6 1AQ",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 83351177,
+        "lon": -4.5862775,
+        "lat": 54.282897500000004,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/83351177"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 92055457,
       "geometry": {
         "type": "LineString",
@@ -40286,68 +39956,6 @@
     },
     {
       "type": "Feature",
-      "id": 101393009,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.748574,
-            54.084869
-          ],
-          [
-            -4.748722,
-            54.084894
-          ],
-          [
-            -4.748768,
-            54.084805
-          ],
-          [
-            -4.748719,
-            54.084797
-          ],
-          [
-            -4.748729,
-            54.084779
-          ],
-          [
-            -4.748684,
-            54.084771
-          ],
-          [
-            -4.74871,
-            54.084722
-          ],
-          [
-            -4.748651,
-            54.084713
-          ],
-          [
-            -4.748574,
-            54.084869
-          ]
-        ]
-      },
-      "properties": {
-        "addr:housename": "West Lodge",
-        "addr:postcode": "IM9 6BD",
-        "addr:street": "Castletown Road",
-        "building": "house",
-        "guest_house": "bed_and_breakfast",
-        "name": "West Lodge",
-        "phone": "01624 832346",
-        "postal_code": "IM9 6BD",
-        "tourism": "guest_house",
-        "website": "https://westlodgeiom.com/",
-        "osm_id": 101393009,
-        "lon": -4.7486742150011345,
-        "lat": 54.084809757759515,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/101393009"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 101799684,
       "geometry": {
         "type": "LineString",
@@ -40634,102 +40242,6 @@
         "lat": 54.32138378191711,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/102638470"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 102856169,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.386751,
-            54.322077
-          ],
-          [
-            -4.386703,
-            54.322004
-          ],
-          [
-            -4.386724,
-            54.321999
-          ],
-          [
-            -4.386702,
-            54.321966
-          ],
-          [
-            -4.386757,
-            54.321953
-          ],
-          [
-            -4.386722,
-            54.3219
-          ],
-          [
-            -4.386756,
-            54.321892
-          ],
-          [
-            -4.386747,
-            54.321878
-          ],
-          [
-            -4.386817,
-            54.321862
-          ],
-          [
-            -4.386855,
-            54.32192
-          ],
-          [
-            -4.386933,
-            54.321903
-          ],
-          [
-            -4.387003,
-            54.32201
-          ],
-          [
-            -4.386934,
-            54.322025
-          ],
-          [
-            -4.386963,
-            54.322069
-          ],
-          [
-            -4.386903,
-            54.322082
-          ],
-          [
-            -4.386881,
-            54.322048
-          ],
-          [
-            -4.386751,
-            54.322077
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Ramsey",
-        "addr:postcode": "IM8 1AH",
-        "addr:street": "Parliament Square",
-        "amenity": "pub",
-        "brewery": "Okell's",
-        "building": "yes",
-        "name": "The Swan",
-        "outdoor_seating": "yes",
-        "postal_code": "IM8 1AH",
-        "real_ale": "yes",
-        "website": "https://pubsandbars.im/venue/the-swan/",
-        "wheelchair": "limited",
-        "osm_id": 102856169,
-        "lon": -4.386840366122725,
-        "lat": 54.32198068786047,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/102856169"
       }
     },
     {
@@ -41688,59 +41200,6 @@
         "lat": 54.107734055141314,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/146811061"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 146833068,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.69717,
-            54.223992
-          ],
-          [
-            -4.697195,
-            54.224041
-          ],
-          [
-            -4.697302,
-            54.224024
-          ],
-          [
-            -4.697498,
-            54.223995
-          ],
-          [
-            -4.697498,
-            54.223937
-          ],
-          [
-            -4.69717,
-            54.223992
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:housename": "The Old Courthouse",
-        "addr:postcode": "IM5 1AR",
-        "addr:street": "East Quay",
-        "building": "yes",
-        "fee": "no",
-        "name": "The Leece Museum",
-        "postal_code": "IM5 1AR",
-        "tourism": "museum",
-        "website": "https://www.peelonline.net/leece/",
-        "wheelchair": "no",
-        "wikidata": "Q6515736",
-        "wikipedia": "en:Leece Museum",
-        "osm_id": 146833068,
-        "lon": -4.697340637342288,
-        "lat": 54.223990070624986,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/146833068"
       }
     },
     {
@@ -43770,50 +43229,6 @@
     },
     {
       "type": "Feature",
-      "id": 165849970,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.575193,
-            54.273462
-          ],
-          [
-            -4.575275,
-            54.273492
-          ],
-          [
-            -4.575066,
-            54.273686
-          ],
-          [
-            -4.574984,
-            54.273656
-          ],
-          [
-            -4.575193,
-            54.273462
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Kirk Michael",
-        "addr:locality": "Cooil Shellagh Farm",
-        "addr:postcode": "IM6 1AU",
-        "building": "house",
-        "name": "Willow Nook Cottages",
-        "postal_code": "IM6 1AU",
-        "tourism": "chalet",
-        "website": "https://www.willownook.com/",
-        "osm_id": 165849970,
-        "lon": -4.5751295,
-        "lat": 54.273573999999996,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/165849970"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 167025105,
       "geometry": {
         "type": "LineString",
@@ -44343,6 +43758,84 @@
         "lat": 54.12047751444369,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/183946905"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 186577512,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487527,
+            54.146997
+          ],
+          [
+            -4.487458,
+            54.146587
+          ],
+          [
+            -4.486885,
+            54.146589
+          ],
+          [
+            -4.48611,
+            54.146592
+          ],
+          [
+            -4.485855,
+            54.146594
+          ],
+          [
+            -4.485797,
+            54.146594
+          ],
+          [
+            -4.485798,
+            54.146618
+          ],
+          [
+            -4.485799,
+            54.146716
+          ],
+          [
+            -4.485801,
+            54.146983
+          ],
+          [
+            -4.486318,
+            54.146989
+          ],
+          [
+            -4.486407,
+            54.146987
+          ],
+          [
+            -4.486536,
+            54.146988
+          ],
+          [
+            -4.487527,
+            54.146997
+          ]
+        ]
+      },
+      "properties": {
+        "access": "no",
+        "amenity": "parking",
+        "name": "Lake Road",
+        "operator": "Duluth Limited",
+        "operator:type": "private",
+        "park_ride": "no",
+        "parking": "surface",
+        "postal_code": "IM1 5AF",
+        "source": "survey",
+        "supervised": "yes",
+        "osm_id": 186577512,
+        "lon": -4.486651472380791,
+        "lat": 54.14679319863659,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/186577512"
       }
     },
     {
