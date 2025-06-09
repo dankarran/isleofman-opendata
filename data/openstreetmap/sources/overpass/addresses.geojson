@@ -9669,6 +9669,25 @@
     },
     {
       "type": "Feature",
+      "id": 12862660528,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.382867,
+          54.322028
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "31",
+        "addr:postcode": "IM81AT",
+        "addr:street": "Parliament Stree",
+        "description": "Bike shop",
+        "entrance": "shop",
+        "name": "Watts Up Performance"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 27032567,
       "geometry": {
         "type": "LineString",
@@ -9975,8 +9994,16 @@
             54.150239
           ],
           [
+            -4.479167,
+            54.150186
+          ],
+          [
             -4.479129,
             54.150132
+          ],
+          [
+            -4.479086,
+            54.150133
           ],
           [
             -4.479042,
@@ -25729,7 +25756,9 @@
         "building": "yes",
         "building:levels": "3",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "Sam Webbs",
+        "outdoor_seating": "yes",
         "source": "Isle of Man Government aerial imagery (2001);survey",
         "website": "https://pubsandbars.im/venue/sam-webbs/"
       }
@@ -35370,11 +35399,13 @@
         "building": "yes",
         "cuisine": "chinese",
         "delivery": "yes",
+        "indoor_seating": "no",
         "name": "Hot Wok",
         "opening_hours": "Su-Th 17:00-23:00, Fr-Sa 17:00-01:00",
+        "outdoor_seating": "no",
         "phone": "+44 1624 677018",
         "source": "Isle of Man Government aerial imagery (2001);photo;Bing",
-        "takeaway": "yes"
+        "takeaway": "only"
       }
     },
     {
@@ -56976,6 +57007,10 @@
           [
             -4.382879,
             54.322032
+          ],
+          [
+            -4.382867,
+            54.322028
           ],
           [
             -4.38285,
@@ -101825,9 +101860,11 @@
         "building:colour": "grey",
         "building:levels": "4",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Jaks",
+        "outdoor_seating": "yes",
         "source": "http://www.flickr.com/photos/stephen_downes/299529909",
         "website": "https://www.jakspub.com/"
       }
@@ -102508,7 +102545,7 @@
         "name": "Next",
         "shop": "clothes",
         "source": "Bing;photograph",
-        "website": "https://www.next.co.uk"
+        "website": "https://www.next.co.uk/storelocator/douglas-isleofman/0749"
       }
     },
     {
@@ -103882,6 +103919,7 @@
         "building:material": "plaster",
         "name": "Regatta Great Outdoors",
         "old_name": "Mountain Warehouse",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 10:30-16:30",
         "shop": "outdoor",
         "short_name": "Regatta",
         "source": "Bing;photograph"
@@ -103983,6 +104021,7 @@
         "building:levels": "3",
         "building:material": "timber_framing",
         "name": "Superdrug",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 10:00-17:00",
         "shop": "chemist",
         "source": "Bing;photograph",
         "website": "https://www.superdrug.com/store/douglas-iom"
@@ -105747,8 +105786,10 @@
         "amenity": "cafe",
         "building": "retail",
         "building:levels": "4",
+        "indoor_seating": "yes",
         "name": "Roots in the city",
         "opening_hours": "Mo-Fr 08:00-15:30",
+        "outdoor_seating": "no",
         "source": "Bing;photograph"
       }
     },
@@ -144606,15 +144647,15 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.456611,
-            54.17499
+            -4.456606,
+            54.174992
           ],
           [
-            -4.456556,
-            54.174948
+            -4.456555,
+            54.174951
           ],
           [
-            -4.456514,
+            -4.456513,
             54.174916
           ],
           [
@@ -144626,8 +144667,8 @@
             54.174897
           ],
           [
-            -4.456611,
-            54.17499
+            -4.456606,
+            54.174992
           ]
         ]
       },

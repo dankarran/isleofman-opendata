@@ -736,6 +736,22 @@
         "emergency": "defibrillator",
         "indoor": "no"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12875511560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47993,
+          54.147779
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "At outside wall",
+        "emergency": "defibrillator",
+        "indoor": "no"
+      }
     }
   ]
 }

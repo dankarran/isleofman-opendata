@@ -2156,8 +2156,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.382478,
-          54.321842
+          -4.386662,
+          54.321929
         ]
       },
       "properties": {
@@ -3650,8 +3650,16 @@
             54.150239
           ],
           [
+            -4.479167,
+            54.150186
+          ],
+          [
             -4.479129,
             54.150132
+          ],
+          [
+            -4.479086,
+            54.150133
           ],
           [
             -4.479042,
@@ -6112,6 +6120,7 @@
         "building": "retail",
         "building:levels": "2",
         "name": "Sure",
+        "opening_hours": "Mo-Sa 09:00-17:30",
         "postal_code": "IM1 2EF",
         "shop": "mobile_phone",
         "source": "photo",
@@ -15528,6 +15537,7 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "check_date:opening_hours": "2025-05-12",
         "contact:mobile": "+44 7624 464696",
         "contact:phone": "+44 1624 665240",
         "name": "The Curtain Stall",
@@ -19545,6 +19555,7 @@
         "building:levels": "4",
         "building:material": "plaster",
         "name": "Clintons",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 11:00-16:00",
         "postal_code": "IM1 2EG",
         "shop": "gift",
         "source": "Bing;photograph",
@@ -19804,7 +19815,7 @@
         "name": "Next",
         "shop": "clothes",
         "source": "Bing;photograph",
-        "website": "https://www.next.co.uk"
+        "website": "https://www.next.co.uk/storelocator/douglas-isleofman/0749"
       }
     },
     {
@@ -21005,6 +21016,7 @@
         "building:material": "plaster",
         "name": "Regatta Great Outdoors",
         "old_name": "Mountain Warehouse",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 10:30-16:30",
         "shop": "outdoor",
         "short_name": "Regatta",
         "source": "Bing;photograph"
@@ -21106,6 +21118,7 @@
         "building:levels": "3",
         "building:material": "timber_framing",
         "name": "Superdrug",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 10:00-17:00",
         "shop": "chemist",
         "source": "Bing;photograph",
         "website": "https://www.superdrug.com/store/douglas-iom"
@@ -27110,15 +27123,15 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.456611,
-            54.17499
+            -4.456606,
+            54.174992
           ],
           [
-            -4.456556,
-            54.174948
+            -4.456555,
+            54.174951
           ],
           [
-            -4.456514,
+            -4.456513,
             54.174916
           ],
           [
@@ -27130,8 +27143,8 @@
             54.174897
           ],
           [
-            -4.456611,
-            54.17499
+            -4.456606,
+            54.174992
           ]
         ]
       },

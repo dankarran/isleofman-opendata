@@ -50340,6 +50340,7 @@
       "properties": {
         "abutters": "commercial",
         "highway": "primary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Lord Street",
         "name:en": "Lord Street",
@@ -53281,6 +53282,10 @@
             54.15018
           ],
           [
+            -4.478718,
+            54.150163
+          ],
+          [
             -4.478648,
             54.150136
           ]
@@ -53297,8 +53302,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 58730914,
-        "lon": -4.4789014877438404,
-        "lat": 54.15063311001465,
+        "lon": -4.4789014838896115,
+        "lat": 54.15063311952815,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/58730914"
       }

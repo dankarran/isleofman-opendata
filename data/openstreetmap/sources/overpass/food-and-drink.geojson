@@ -1808,11 +1808,11 @@
       },
       "properties": {
         "amenity": "fast_food",
-        "currency:XBT": "yes",
+        "currency:XBT": "no",
         "name": "Victoria Grill",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
+        "payment:lightning": "no",
+        "payment:lightning_contactless": "no",
+        "payment:onchain": "no",
         "phone": "+441624629560",
         "survey:date": "2022-09-24",
         "website": "https://victoriagrillperiperichickendouglas.com/"
@@ -4211,7 +4211,9 @@
         "building": "yes",
         "building:levels": "3",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "Sam Webbs",
+        "outdoor_seating": "yes",
         "source": "Isle of Man Government aerial imagery (2001);survey",
         "website": "https://pubsandbars.im/venue/sam-webbs/"
       }
@@ -5516,11 +5518,13 @@
         "building": "yes",
         "cuisine": "chinese",
         "delivery": "yes",
+        "indoor_seating": "no",
         "name": "Hot Wok",
         "opening_hours": "Su-Th 17:00-23:00, Fr-Sa 17:00-01:00",
+        "outdoor_seating": "no",
         "phone": "+44 1624 677018",
         "source": "Isle of Man Government aerial imagery (2001);photo;Bing",
-        "takeaway": "yes"
+        "takeaway": "only"
       }
     },
     {
@@ -10332,8 +10336,10 @@
         "amenity": "cafe",
         "building": "yes",
         "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Quayside",
+        "outdoor_seating": "yes",
         "source": "http://tweetphoto.com/22488281;Bing;photo",
         "wheelchair": "yes"
       }
@@ -11482,9 +11488,11 @@
         "building:colour": "grey",
         "building:levels": "4",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Jaks",
+        "outdoor_seating": "yes",
         "source": "http://www.flickr.com/photos/stephen_downes/299529909",
         "website": "https://www.jakspub.com/"
       }
@@ -11694,7 +11702,9 @@
         "building:colour": "white",
         "building:levels": "4",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "Star Grill & Pizza",
+        "outdoor_seating": "no",
         "phone": "+44 1624 613822",
         "roof:levels": "1",
         "source": "Bing;photograph",
@@ -12223,9 +12233,11 @@
         "building:levels": "2",
         "building:material": "plaster",
         "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
         "internet_access": "wlan",
         "name": "Costa",
         "opening_hours": "Mo-Sa 08:00-17:00; Su 11:00-16:30",
+        "outdoor_seating": "no",
         "roof:levels": "1",
         "source": "Bing;photograph",
         "takeaway": "yes"
@@ -12275,7 +12287,9 @@
         "building": "retail",
         "building:levels": "2",
         "building:material": "plaster",
+        "indoor_seating": "yes",
         "name": "Oasis Sandwich Bar",
+        "outdoor_seating": "yes",
         "source": "Bing;photograph"
       }
     },
@@ -12689,8 +12703,10 @@
         "amenity": "cafe",
         "building": "retail",
         "building:levels": "4",
+        "indoor_seating": "yes",
         "name": "Roots in the city",
         "opening_hours": "Mo-Fr 08:00-15:30",
+        "outdoor_seating": "no",
         "source": "Bing;photograph"
       }
     },

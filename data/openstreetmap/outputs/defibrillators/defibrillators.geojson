@@ -956,6 +956,27 @@
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12463077639"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 12875511560,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47993,
+          54.147779
+        ]
+      },
+      "properties": {
+        "defibrillator:location": "At outside wall",
+        "emergency": "defibrillator",
+        "indoor": "no",
+        "osm_id": 12875511560,
+        "lon": -4.47993,
+        "lat": 54.147779,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12875511560"
+      }
     }
   ]
 }
