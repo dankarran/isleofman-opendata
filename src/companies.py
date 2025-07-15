@@ -7,7 +7,7 @@ import pandas as pd
 import bs4
 import csv
 import json
-from src.helpers import get_url
+from src.helpers import get_url, log, prompt
 
 
 """
@@ -21,7 +21,7 @@ search_page = "companysearch.iom?"
 
 
 def companies(interactive=True, run_unindexed_only=False):
-    print("# Companies Registry - Isle of Man Government")
+    log("# Companies Registry - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
@@ -47,19 +47,19 @@ def companies_unindexed(interactive=True):
     unindexed_filepath = data_dir + "outputs/company-numbers-unindexed.csv"
     if os.path.isfile(unindexed_filepath):
         unindexed = pd.read_csv(unindexed_filepath)
-        print("    ", len(unindexed["Number"]), "unindexed company numbers detected")
+        log("    ", len(unindexed["Number"]), "unindexed company numbers detected")
 
         # exclude companies previously not found when searching by number
         not_found_filepath = data_dir + "sources/search/numbers/not-found.csv"
         if os.path.isfile(not_found_filepath):
             not_found = pd.read_csv(not_found_filepath)
-            print("    ", len(not_found["Number"]), "company numbers previously not found in index")
+            log("    ", len(not_found["Number"]), "company numbers previously not found in index")
 
             unindexed = unindexed[~unindexed["Number"].isin(not_found["Number"])]
 
         if len(unindexed["Number"]):
             if interactive:
-                batch_text = input("Download batch of [x] from ~" + str(len(unindexed["Number"])) + " unindexed companies? (default 0) ")
+                batch_text = prompt("Download batch of [x] from ~" + str(len(unindexed["Number"])) + " unindexed companies? (default 0) ")
                 if batch_text:
                     batch_count = int(batch_text)
                     if batch_count > 0:
@@ -71,10 +71,10 @@ def companies_unindexed(interactive=True):
 
 
 def load_data(sources, status, interactive=True):
-    print(" - Loading Companies")
+    log(" - Loading Companies")
 
     if interactive:
-        update_text = input("Download latest company registry details? (y/N) ")
+        update_text = prompt("Download latest company registry details? (y/N) ")
         if update_text == "y":
             update_companies_list(sources, status)
     else:
@@ -145,7 +145,7 @@ def write_data(data):
         filename = record_type + ".csv"
         filepath = data_dir + "outputs/" + filename
         data[record_type].to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
-        print("    ", len(data[record_type]), "rows written to", filename)
+        log("    ", len(data[record_type]), "rows written to", filename)
 
 
 def update_companies_list(sources, status):
@@ -172,7 +172,7 @@ def update_companies_list(sources, status):
             if not data.empty:
                 # TODO: fix stats recording if skipping rows
                 #if skip_rows:
-                #    print("    ", "Skipping first", skip_rows, "already retrieved")
+                #    log("    ", "Skipping first", skip_rows, "already retrieved")
                 #    data = data.iloc[1:skip_rows, :]
                 #    skip_rows = 0
 
@@ -181,15 +181,15 @@ def update_companies_list(sources, status):
                 if len(data) == 30:
                     page = page + 1
                 else:
-                    print("    ", "End of list")
+                    log("    ", "End of list")
                     break
 
             else:
-                print("    ", "No more data")
+                log("    ", "No more data")
                 break
 
             sleep = random.randint(5, 10)
-            print("    ", "... pausing for", sleep, "seconds ...")
+            log("    ", "... pausing for", sleep, "seconds ...")
             time.sleep(sleep)
 
 
@@ -204,14 +204,14 @@ def update_companies_list_by_number(numbers):
 
             else:
                 write_search_by_number_not_found(number)
-                print("    ", "Company", number, "not found")
+                log("    ", "Company", number, "not found")
 
             sleep = random.randint(1, 5)
-            print("    ", "... pausing for", sleep, "seconds ...")
+            log("    ", "... pausing for", sleep, "seconds ...")
             time.sleep(sleep)
 
         except Exception as error:
-            print(error)
+            log(error)
             return False
 
 
@@ -226,7 +226,7 @@ def get_search_page(term, search_by=0, sort_by="IncorporationDate", sort_directi
     }
     url = registry_url + search_page + urllib.parse.urlencode(params)
 
-    print("    ", "Downloading results for search term", term, "from", url, "page", page)
+    log("    ", "Downloading results for search term", term, "from", url, "page", page)
     
     index_date = datetime.now().strftime("%Y-%m-%d")
 
@@ -327,29 +327,29 @@ def read_search_files(sources):
         filepath = data_dir + "sources/search/names/" + term + ".csv"
         if os.path.isfile(filepath):
             try:
-                print("    ", "Reading data for", term)
+                log("    ", "Reading data for", term)
 
                 term_data = pd.read_csv(filepath)
                 data = pd.concat([data, term_data])
 
             except UnicodeDecodeError as error:
-                print("    ", "ERROR:", error)
+                log("    ", "ERROR:", error)
         else:
-            print("      ", "WARNING: File missing for term", term)
+            log("      ", "WARNING: File missing for term", term)
 
     # company number searches
     numbers_filepath = data_dir + "sources/search/numbers/numbers.csv"
     if os.path.isfile(numbers_filepath):
         try:
-            print("    ", "Reading data for number searches")
+            log("    ", "Reading data for number searches")
 
             number_data = pd.read_csv(numbers_filepath)
             data = pd.concat([data, number_data])
 
         except UnicodeDecodeError as error:
-            print("    ", "ERROR:", error)
+            log("    ", "ERROR:", error)
     else:
-        print("      ", "WARNING: File missing for number searches")
+        log("      ", "WARNING: File missing for number searches")
 
     # sort
     data = data.sort_values(by=["Number", "Name", "Index Date"])

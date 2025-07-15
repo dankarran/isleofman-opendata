@@ -2,6 +2,22 @@ from hashlib import md5
 import pandas as pd
 from typing import Optional, Iterable
 import requests
+from datetime import datetime
+
+
+"""
+Logging helpers
+"""
+
+
+def log(*args, **kwargs):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    print(f"[{timestamp}]", *args, **kwargs)
+
+
+def prompt(message):
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    return input(f"[{timestamp}] {message}")
 
 
 """

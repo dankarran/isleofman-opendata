@@ -63,4 +63,3 @@
 ## TODO
 
 1. don't assume subsections should run if parent section is run, e.g. if `--openstreetmap` is run, it shouldn't automatically generate postcode boundaries or output the markdown text. Likely the same in other sections, e.g. running `--companies` shouldn't assume we also want to run `-companies-unindexed`. Subsections should be runnable on their own (e.g. `--generate-postcode-boundaries` should be able to run without `--openstreetmap`)
-2. add [timestamps] to console outputs (abstract this into a separate function that can be reused and updated with ease)

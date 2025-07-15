@@ -2,7 +2,7 @@ import os
 import pandas as pd
 import csv
 import json
-from src.helpers import add_md5_hash_column, get_url
+from src.helpers import add_md5_hash_column, get_url, log, prompt
 
 
 """
@@ -25,7 +25,7 @@ issue_rows = []
 
 
 def land_transactions(interactive=True):
-    print("# Land Transactions - Isle of Man Government")
+    log("# Land Transactions - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
@@ -38,7 +38,7 @@ def land_transactions(interactive=True):
 
 
 def load_data(sources, interactive=True):
-    print(" - Loading Land Transactions")
+    log(" - Loading Land Transactions")
 
     source_file_path = data_dir + "sources/" + source_file
 
@@ -47,7 +47,7 @@ def load_data(sources, interactive=True):
 
     if interactive:
         if os.path.isfile(source_file_path):
-            update_text = input("Download updated land transactions file? (y/N) ")
+            update_text = prompt("Download updated land transactions file? (y/N) ")
             if update_text != "y":
                 update = False
         # If file doesn't exist, 'update' remains True (default)
@@ -59,18 +59,18 @@ def load_data(sources, interactive=True):
         r = get_url(sources["url"])
 
         open(source_file_path, 'wb').write(r.content)
-        print("    ", "Land Transactions retrieved and saved to source directory")
+        log("    ", "Land Transactions retrieved and saved to source directory")
 
     # read data from local file into dataframe
     data = pd.read_csv(source_file_path)
 
-    print("    ", len(data), "rows loaded")
+    log("    ", len(data), "rows loaded")
 
     return data
 
 
 def process_data(data):
-    print(" - Processing Land Transactions")
+    log(" - Processing Land Transactions")
 
     data = add_hash(data)
     data = apply_corrections(data)
@@ -81,31 +81,31 @@ def process_data(data):
 
 
 def write_data(data):
-    print(" - Writing Land Transactions")
+    log(" - Writing Land Transactions")
 
     data.to_csv(data_dir + 'outputs/land-transactions.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(data), "rows written")
+    log("    ", len(data), "rows written")
 
 
 def write_issues():
-    print(" - Writing issues")
+    log(" - Writing issues")
 
     issues_df = pd.DataFrame(issues)
     issues_df = issues_df.rename(columns={0: "Hash", 1: "Description"})
     issues_df.to_csv(data_dir + 'outputs/issues.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(issues_df), "issues written")
+    log("    ", len(issues_df), "issues written")
 
     issue_rows_df = pd.DataFrame(issue_rows)
     issue_rows_df = issue_rows_df.rename(columns={0: "Hash", 1: "Description"})
     issue_rows_df.to_csv(data_dir + 'outputs/issue-rows.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(issue_rows_df), "issue rows written")
+    log("    ", len(issue_rows_df), "issue rows written")
 
 
 def add_hash(data):
-    print(" - Adding hash column")
+    log(" - Adding hash column")
 
     data = add_md5_hash_column(data, 'Hash')
 
@@ -116,8 +116,8 @@ def add_hash(data):
 
 
 def apply_corrections(data):
-    print(" - Applying data corrections")
-    print("    ", len(data), "rows passed in")
+    log(" - Applying data corrections")
+    log("    ", len(data), "rows passed in")
 
     corrections_dir = data_dir + 'sources/corrections/'
 
@@ -166,7 +166,7 @@ def apply_corrections(data):
             row["CompletionDate"]
         ]
 
-    print("    ", len(data), "rows passed back")
+    log("    ", len(data), "rows passed back")
 
     return data
 
@@ -187,14 +187,14 @@ def process_addresses(data):
     addresses = addresses.drop_duplicates()
     addresses.to_csv(data_dir + 'outputs/addressing/addresses.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(addresses), "addresses added")
+    log("    ", len(addresses), "addresses added")
 
     return data
 
 
 def process_parishes(data):
     # Parishes
-    print(" - Parishes")
+    log(" - Parishes")
 
     data["Parish"] = data["Parish"].astype(str)
     data["Parish"] = data["Parish"].str.strip()
@@ -204,14 +204,14 @@ def process_parishes(data):
     parishes = parishes.rename(columns={"Parish": "Name"})
     parishes.to_csv(data_dir + 'outputs/addressing/parishes.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(parishes), "parishes added")
+    log("    ", len(parishes), "parishes added")
 
     return data
 
 
 def process_towns(data):
     # Towns
-    print(" - Towns")
+    log(" - Towns")
 
     data["Town"] = data["Town"].astype(str)
     data["Town"] = data["Town"].str.strip()
@@ -225,7 +225,7 @@ def process_towns(data):
     towns = towns.rename(columns={"Town": "Name"})
     towns.to_csv(data_dir + 'outputs/addressing/towns.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(towns), "towns added")
+    log("    ", len(towns), "towns added")
 
     # handle issues
     for index, row in data[invalid_towns_rows].iterrows():
@@ -234,14 +234,14 @@ def process_towns(data):
         row["Issue"] = issue
         issue_rows.append(row)
 
-    print("    ", len(data[invalid_towns_rows]), "issues added")
+    log("    ", len(data[invalid_towns_rows]), "issues added")
 
     return data
 
 
 def process_localities(data):
     # Localities
-    print(" - Localities")
+    log(" - Localities")
 
     data["Locality"] = data["Locality"].astype(str)
     data["Locality"] = data["Locality"].str.strip()
@@ -256,7 +256,7 @@ def process_localities(data):
     localities = localities.rename(columns={"Locality": "Name"})
     localities.to_csv(data_dir + 'outputs/addressing/localities.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(localities), "localities added")
+    log("    ", len(localities), "localities added")
 
     # handle issues
     issue_count = 0
@@ -269,14 +269,14 @@ def process_localities(data):
             issue_rows.append(row)
             issue_count = issue_count + 1
 
-    print("    ", issue_count, "issues added")
+    log("    ", issue_count, "issues added")
 
     return data
 
 
 def process_streets(data):
     # Streets
-    print(" - Streets")
+    log(" - Streets")
 
     data["Street_Name"] = data["Street_Name"].astype(str)
     data["Street_Name"] = data["Street_Name"].str.strip()
@@ -290,7 +290,7 @@ def process_streets(data):
     streets = streets.rename(columns={"Street_Name": "Name"})
     streets.to_csv(data_dir + 'outputs/addressing/streets.csv', index=False, quoting=csv.QUOTE_ALL)
 
-    print("    ", len(streets), "streets added")
+    log("    ", len(streets), "streets added")
 
     # handle issues
     issue_count = 0
@@ -301,14 +301,14 @@ def process_streets(data):
         issue_rows.append(row)
         issue_count = issue_count + 1
 
-    print("    ", issue_count, "issues added")
+    log("    ", issue_count, "issues added")
 
     return data
 
 
 def process_postcodes(data):
     # Postcodes
-    print(" - Postcodes")
+    log(" - Postcodes")
 
     data["Postcode"] = data["Postcode"].astype(str)
     data["Postcode"] = data["Postcode"].str.strip()
@@ -320,7 +320,7 @@ def process_postcodes(data):
     postcodes = postcodes[["Postcode"]].sort_values(by=["Postcode"])
     postcodes = postcodes.drop_duplicates()
 
-    print("    ", len(postcodes), "postcodes added")
+    log("    ", len(postcodes), "postcodes added")
 
     postcodes_df = pd.DataFrame(postcodes)
     postcodes_df.to_csv(data_dir + 'outputs/addressing/postcodes.csv', index=False, quoting=csv.QUOTE_ALL)
@@ -337,6 +337,6 @@ def process_postcodes(data):
             issue_rows.append(row)
             issue_count = issue_count + 1
 
-    print("    ", issue_count, "issues added")
+    log("    ", issue_count, "issues added")
 
     return data

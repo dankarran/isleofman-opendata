@@ -1,6 +1,7 @@
 import pandas as pd
 import geopandas as gpd
 from shapely.geometry import shape
+from src.helpers import prompt
 
 
 """
@@ -15,7 +16,7 @@ data_dir = "data/microsoft/global-ml-building-footprints/"
 def global_ml_building_footprints(interactive=True):
     update_text = 'y'
     if interactive:
-        update_text = input("Download updated Global ML Building Footprints data? (y/N) ")
+        update_text = prompt("Download updated Global ML Building Footprints data? (y/N) ")
     if update_text != "y":
         return False
 

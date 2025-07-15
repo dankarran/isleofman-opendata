@@ -5,6 +5,7 @@ from src.land_transactions import land_transactions
 from src.planning_applications import planning_applications
 from src.openstreetmap import openstreetmap
 from src.global_ml_building_footprints import global_ml_building_footprints
+from src.helpers import log
 
 """
 Isle of Man opendata transformation script
@@ -46,30 +47,30 @@ if __name__ == '__main__':
     # If --companies-unindexed is specified, we only run that specific task, not the general companies update.
     # Otherwise, if --companies or run_all, we run the general companies update.
     if args.companies_unindexed:
-        print('Updating Companies Registry unindexed numbers...')
+        log('Updating Companies Registry unindexed numbers...')
         companies(interactive=interactive, run_unindexed_only=True)
     elif args.companies or run_all:
-        print('Updating Companies Registry data...')
+        log('Updating Companies Registry data...')
         # Pass a flag to companies() to indicate if companies_unindexed should be run internally
         # If --companies-unindexed was NOT specified, then companies() should run its internal unindexed update.
         companies(interactive=interactive, run_unindexed_only=False) # Default behavior
 
     # Land Transactions
     if args.land_transactions or run_all:
-        print('Updating Land Transactions data...')
+        log('Updating Land Transactions data...')
         land_transactions(interactive=interactive)
 
     # Planning Applications
     # If any specific planning argument is specified, we only run that specific task.
     # Otherwise, if --planning-applications or run_all, we run the general planning applications update.
     if args.update_weekly_planning:
-        print('Updating weekly planning application files...')
+        log('Updating weekly planning application files...')
         planning_applications(interactive=interactive, run_weekly_only=True)
     elif args.update_annual_planning:
-        print('Updating annual planning application files...')
+        log('Updating annual planning application files...')
         planning_applications(interactive=interactive, run_annual_only=True)
     elif args.planning_applications or run_all:
-        print('Updating Planning Applications data...')
+        log('Updating Planning Applications data...')
         # Default behavior for planning_applications()
         planning_applications(interactive=interactive)
 
@@ -77,16 +78,16 @@ if __name__ == '__main__':
     # If --generate-postcode-boundaries is specified, we only run that specific task.
     # Otherwise, if --openstreetmap or run_all, we run the general openstreetmap update.
     if args.generate_postcode_boundaries:
-        print('Generating postcode boundaries...')
+        log('Generating postcode boundaries...')
         openstreetmap(interactive=interactive, run_postcode_boundaries_only=True)
     elif args.openstreetmap or run_all:
-        print('Updating OpenStreetMap data...')
+        log('Updating OpenStreetMap data...')
         # Default behavior for openstreetmap()
         openstreetmap(interactive=interactive)
 
     # Global ML Building Footprints
     if args.global_ml_building_footprints or run_all:
-        print('Updating Global ML Building Footprints data...')
+        log('Updating Global ML Building Footprints data...')
         global_ml_building_footprints(interactive=interactive)
 
-    print('Update complete.')
+    log('Update complete.')
