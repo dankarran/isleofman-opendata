@@ -7678,14 +7678,6 @@
           [
             -4.739714,
             54.077727
-          ],
-          [
-            -4.739689,
-            54.077736
-          ],
-          [
-            -4.739635,
-            54.077746
           ]
         ]
       },
@@ -7701,8 +7693,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986108,
-        "lon": -4.739966379607102,
-        "lat": 54.07762648295455,
+        "lon": -4.740004401719069,
+        "lat": 54.077611949844965,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986108"
       }
@@ -46866,6 +46858,7 @@
         "brand:wikipedia": "en:WHSmith",
         "building": "retail",
         "name": "WHSmith",
+        "opening_hours": "Mo-Fr 08:00-17:30; Sa 09:00-17:30; Su 11:00-16:30",
         "postal_code": "IM1 2EL",
         "shop": "newsagent",
         "source": "Bing;photograph",
@@ -46933,6 +46926,7 @@
         "building:material": "plaster",
         "healthcare": "pharmacy",
         "name": "Boots",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 11:00-16:30",
         "postal_code": "IM1 2FD",
         "source": "Bing;photograph",
         "website": "https://www.boots.com/stores/1153-isle-of-man-douglas-im1-2ee",
@@ -56356,6 +56350,44 @@
         "lat": 54.09357082443838,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1347283381"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1409219686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739714,
+            54.077727
+          ],
+          [
+            -4.739689,
+            54.077736
+          ],
+          [
+            -4.739635,
+            54.077746
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Lewthaites Way",
+        "name:en": "Lewthaites Way",
+        "name:gv": "Bayr Lewthwaite",
+        "postal_code": "IM9 5AB",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1409219686,
+        "lon": -4.7396748795776835,
+        "lat": 54.07773790238005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1409219686"
       }
     }
   ]

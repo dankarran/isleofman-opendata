@@ -7,15 +7,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.523575,
-          54.169868
+          -4.523576,
+          54.169881
         ]
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "pillar",
+        "royal_cypher": "VR",
         "osm_id": 283478009,
-        "lon": -4.523575,
-        "lat": 54.169868,
+        "lon": -4.523576,
+        "lat": 54.169881,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283478009"
       }

@@ -2281,8 +2281,9 @@
         "addr:street": "Waverley Terrace",
         "amenity": "fast_food",
         "contact:facebook": "https://www.facebook.com/MagicWok.IOM/",
-        "cuisine": "cantonese",
+        "cuisine": "chinese",
         "name": "Magic Wok",
+        "opening_hours": "Mo-Fr 12:00-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
         "source:addr": "Isle of Man Government Companies Registry"
       }
     },
@@ -12239,6 +12240,7 @@
         "addr:street": "Strand Street",
         "building": "yes",
         "name": "Strand Shopping Centre",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 09:00-17:30",
         "shop": "mall"
       }
     },
@@ -50479,6 +50481,7 @@
         "addr:street": "Station Road",
         "amenity": "bank",
         "atm": "yes",
+        "brand:wikidata": "Q4041644",
         "building": "yes",
         "building:levels": "2",
         "building:material": "plaster",
@@ -50486,7 +50489,7 @@
         "opening_hours": "Mo-Fr 09:30-16:30",
         "operator": "Isle of Man Bank Ltd",
         "source": "survey",
-        "website": "https://www.iombank.com"
+        "website": "https://www.iombank.com/"
       }
     },
     {
@@ -57861,10 +57864,12 @@
         "addr:postcode": "IM8 1AP",
         "addr:street": "Parliament Street",
         "amenity": "bank",
+        "branch": "Ramsey",
+        "brand:wikidata": "Q4041644",
         "building": "yes",
         "contact:phone": "+44 1624 637000",
         "contact:website": "https://www.iombank.com/",
-        "name": "Isle of Man Bank, Ramsey Branch",
+        "name": "Isle of Man Bank",
         "opening_hours": "Mo-Fr 10:00-14:00",
         "toilets:wheelchair": "no",
         "wheelchair": "yes"
@@ -65939,10 +65944,6 @@
           [
             -4.506959,
             54.174765
-          ],
-          [
-            -4.506986,
-            54.174809
           ],
           [
             -4.507036,
@@ -91920,7 +91921,7 @@
         "name": "Arg Beiyn",
         "opening_hours": "Mo-Fr 08:30-09:30, 13:30-14:30, 16:30-18:00; Sa 09:45-11:00",
         "phone": "+44 1624 622259",
-        "phone:out_of_hours": "+44 1624 812108",
+        "phone:emergency": "+44 1624 812108",
         "source": "Isle of Man Government aerial imagery (2001);Bing;Survey",
         "website": "https://iomvet.co.uk/"
       }
@@ -102666,6 +102667,7 @@
         "brand:wikipedia": "en:WHSmith",
         "building": "retail",
         "name": "WHSmith",
+        "opening_hours": "Mo-Fr 08:00-17:30; Sa 09:00-17:30; Su 11:00-16:30",
         "postal_code": "IM1 2EL",
         "shop": "newsagent",
         "source": "Bing;photograph",
@@ -103057,6 +103059,7 @@
         "building:material": "plaster",
         "healthcare": "pharmacy",
         "name": "Boots",
+        "opening_hours": "Mo-Sa 09:00-17:30; Su 11:00-16:30",
         "postal_code": "IM1 2FD",
         "source": "Bing;photograph",
         "website": "https://www.boots.com/stores/1153-isle-of-man-douglas-im1-2ee"
@@ -103159,6 +103162,7 @@
         "addr:street": "Regent Street",
         "amenity": "bank",
         "atm": "yes",
+        "brand:wikidata": "Q4041644",
         "building": "retail",
         "building:levels": "3",
         "building:material": "brick",
@@ -103166,7 +103170,7 @@
         "opening_hours": "Mo-Fr 09:30-16:30; Sa 09:30-13:30",
         "operator": "Isle of Man Bank Ltd",
         "source": "Bing;photograph",
-        "website": "https://www.iombank.com"
+        "website": "https://www.iombank.com/"
       }
     },
     {
@@ -106557,6 +106561,7 @@
         "building:levels": "2",
         "building:material": "plaster",
         "name": "Henry Bloom Noble Library",
+        "opening_hours": "Mo-We, Fr 08:30-17:00; Th 10:00-16:00; Sa 09:00-16:00",
         "operator": "Douglas Borough Council",
         "website": "https://douglaslibrary.im",
         "wikidata": "Q55377238"

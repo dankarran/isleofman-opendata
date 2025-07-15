@@ -29,6 +29,33 @@
     },
     {
       "type": "Feature",
+      "id": 283495832,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523601,
+          54.169884
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "telephone",
+        "booth": "K6",
+        "covered": "booth",
+        "defibrillator:location": "inside old red phone box in Union Mills",
+        "emergency": "defibrillator",
+        "man_made": "telephone_box",
+        "mapillary": "667816547512857",
+        "survey:date": "2021-09-16",
+        "osm_id": 283495832,
+        "lon": -4.523601,
+        "lat": 54.169884,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/283495832"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 283496307,
       "geometry": {
         "type": "Point",
@@ -38,17 +65,49 @@
         ]
       },
       "properties": {
+        "access": "yes",
         "booth": "K6",
         "colour": "red",
         "covered": "booth",
         "defibrillator:location": "Inside red phone booth at the entrance to Glen Helen carpark",
         "disused:amenity": "telephone",
         "emergency": "defibrillator",
+        "man_made": "telephone_box",
         "osm_id": 283496307,
         "lon": -4.617034,
         "lat": 54.225846,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283496307"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 283496453,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.62337,
+          54.076292
+        ]
+      },
+      "properties": {
+        "access": "yes",
+        "amenity": "telephone",
+        "booth": "K6",
+        "covered": "booth",
+        "defibrillator:location": "inside old red phone box in Derbyhaven",
+        "emergency": "defibrillator",
+        "listed_status": "Registered",
+        "man_made": "telephone_box",
+        "ref:registered_building": "333",
+        "source": "survey",
+        "url:registered_building": "https://www.gov.im/media/1374317/rb-333-k6-telephone-kiosk-derbyhaven.pdf",
+        "wikidata": "Q118188735",
+        "osm_id": 283496453,
+        "lon": -4.62337,
+        "lat": 54.076292,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/283496453"
       }
     },
     {
@@ -976,6 +1035,25 @@
         "lat": 54.147779,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12875511560"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12994738846,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.506974,
+          54.174813
+        ]
+      },
+      "properties": {
+        "emergency": "defibrillator",
+        "osm_id": 12994738846,
+        "lon": -4.506974,
+        "lat": 54.174813,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/12994738846"
       }
     }
   ]

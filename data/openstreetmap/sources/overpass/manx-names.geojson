@@ -1494,7 +1494,7 @@
       "properties": {
         "name": "Poyll Breinn",
         "name:gv": "Poyll Breinn",
-        "natural": "locality",
+        "place": "locality",
         "source": "OS 1:10,560"
       }
     },
@@ -7790,14 +7790,6 @@
           [
             -4.739714,
             54.077727
-          ],
-          [
-            -4.739689,
-            54.077736
-          ],
-          [
-            -4.739635,
-            54.077746
           ]
         ]
       },
@@ -65061,8 +65053,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.758814,
-            54.084845
+            -4.758812,
+            54.084841
+          ],
+          [
+            -4.759012,
+            54.08484
           ],
           [
             -4.759275,
@@ -111521,6 +111517,39 @@
         "ref": "C8",
         "source:name": "Road closure announcement",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1409219686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739714,
+            54.077727
+          ],
+          [
+            -4.739689,
+            54.077736
+          ],
+          [
+            -4.739635,
+            54.077746
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Lewthaites Way",
+        "name:en": "Lewthaites Way",
+        "name:gv": "Bayr Lewthwaite",
+        "postal_code": "IM9 5AB",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     }
   ]

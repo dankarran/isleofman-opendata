@@ -1869,7 +1869,7 @@
       "properties": {
         "name": "Poyll Breinn",
         "name:gv": "Poyll Breinn",
-        "natural": "locality",
+        "place": "locality",
         "source": "OS 1:10,560",
         "osm_id": 476944811,
         "lon": -4.620536,
@@ -9505,14 +9505,6 @@
           [
             -4.739714,
             54.077727
-          ],
-          [
-            -4.739689,
-            54.077736
-          ],
-          [
-            -4.739635,
-            54.077746
           ]
         ]
       },
@@ -9528,8 +9520,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986108,
-        "lon": -4.739966379607102,
-        "lat": 54.07762648295455,
+        "lon": -4.740004401719069,
+        "lat": 54.077611949844965,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986108"
       }
@@ -70166,8 +70158,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.758814,
-            54.084845
+            -4.758812,
+            54.084841
+          ],
+          [
+            -4.759012,
+            54.08484
           ],
           [
             -4.759275,
@@ -70201,8 +70197,8 @@
         "sidewalk": "both",
         "surface": "asphalt",
         "osm_id": 159092863,
-        "lon": -4.759451630873499,
-        "lat": 54.08490618975328,
+        "lon": -4.759450639025851,
+        "lat": 54.0849050425941,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/159092863"
       }
@@ -120026,6 +120022,44 @@
         "lat": 54.32319016423184,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1364514965"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1409219686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739714,
+            54.077727
+          ],
+          [
+            -4.739689,
+            54.077736
+          ],
+          [
+            -4.739635,
+            54.077746
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Lewthaites Way",
+        "name:en": "Lewthaites Way",
+        "name:gv": "Bayr Lewthwaite",
+        "postal_code": "IM9 5AB",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1409219686,
+        "lon": -4.7396748795776835,
+        "lat": 54.07773790238005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1409219686"
       }
     }
   ]
