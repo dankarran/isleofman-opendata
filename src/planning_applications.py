@@ -16,48 +16,39 @@ record_types = ["planning-applications", "delegated-decisions", "appeals"]
 pa_base_url = "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber="
 
 
-def planning_applications(interactive=True, run_weekly_only=False, run_annual_only=False):
+def planning_applications(interactive=True, update_weekly=False, update_annual=False, process=False):
     log("# Planning Applications - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
-    with open(data_dir + "sources/defaults.json") as fp:
-        default_options = json.load(fp)
-
-    if run_weekly_only:
+    if update_weekly:
         log('Updating weekly planning application files...')
         for record_type in record_types:
             if "weekly" in sources[record_type]:
-                update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
-        return
+                if interactive:
+                    update_text = prompt("Download updated weekly " + record_type + " files? (y/N) ")
+                    if update_text == "y":
+                        update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
+                else:
+                    update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
 
-    if run_annual_only:
+    if update_annual:
         log('Updating annual planning application files...')
         for record_type in record_types:
-            update_annual_files(sources[record_type]["annual"], record_type, interactive)
-        return
-
-    # If not running specific updates, proceed with general update logic
-    for record_type in record_types:
-        if "weekly" in sources[record_type]:
             if interactive:
-                update_text = prompt("Download updated weekly " + record_type + " files? (y/N) ")
+                update_text = prompt("Download updated annual " + record_type + " files? (y/N) ")
                 if update_text == "y":
-                    update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
+                    update_annual_files(sources[record_type]["annual"], record_type, interactive)
             else:
-                update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
-
-        if interactive:
-            update_text = prompt("Download updated annual " + record_type + " files? (y/N) ")
-            if update_text == "y":
                 update_annual_files(sources[record_type]["annual"], record_type, interactive)
-        else:
-            update_annual_files(sources[record_type]["annual"], record_type, interactive)
 
-    data = load_data(sources, default_options, interactive)
-    data = process_data(data)
-    write_data(data)
+    if process:
+        with open(data_dir + "sources/defaults.json") as fp:
+            default_options = json.load(fp)
+        data = load_data(sources, default_options, interactive)
+        data = process_data(data)
+        write_data(data)
 
 
 def load_data(sources, default_options, interactive=True):

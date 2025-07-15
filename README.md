@@ -56,11 +56,12 @@ To run specific updates without interactive prompts, you can use command-line ar
 *   `--update-weekly-planning`: Run only the weekly planning application list update.
 *   `--update-annual-planning`: Run only the annual planning application list update.
 *   `--generate-postcode-boundaries`: Run only the postcode boundary generation from OpenStreetMap data.
+*   `--openstreetmap-markdown`: Run only the OpenStreetMap markdown generation.
 
-You can combine multiple arguments. For example, to update company data and land transactions:
+You can combine multiple arguments. For example, to run a weekly/monthly update:
 
 ```bash
-python update.py --companies --land-transactions
+python update.py --companies --companies-unindexed --land-transactions --openstreetmap --generate-postcode-boundaries
 ```
 
 ## Other resources

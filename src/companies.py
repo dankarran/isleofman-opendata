@@ -20,7 +20,7 @@ registry_url = "https://services.gov.im/ded/services/companiesregistry/"
 search_page = "companysearch.iom?"
 
 
-def companies(interactive=True, run_unindexed_only=False):
+def companies(interactive=True):
     log("# Companies Registry - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
@@ -28,14 +28,6 @@ def companies(interactive=True, run_unindexed_only=False):
 
     with open(data_dir + "sources/status.json") as fp:
         status = json.load(fp)
-
-    # retrieve a batch of previously unindexed company numbers
-    if run_unindexed_only:
-        companies_unindexed(interactive)
-        return
-
-    # retrieve a batch of previously unindexed company numbers
-    companies_unindexed(interactive)
 
     # search for companies by name and write outputs
     data = load_data(sources, status, interactive)
@@ -57,17 +49,19 @@ def companies_unindexed(interactive=True):
 
             unindexed = unindexed[~unindexed["Number"].isin(not_found["Number"])]
 
+        batch_count = 0
         if len(unindexed["Number"]):
             if interactive:
                 batch_text = prompt("Download batch of [x] from ~" + str(len(unindexed["Number"])) + " unindexed companies? (default 0) ")
                 if batch_text:
                     batch_count = int(batch_text)
-                    if batch_count > 0:
-                        unindexed_numbers = unindexed["Number"][:batch_count]
-                        update_companies_list_by_number(unindexed_numbers)
             else:
-                # In non-interactive mode, we won't ask for a batch size.
-                pass
+                batch_count = len(unindexed["Number"])
+
+        if batch_count > 0:
+            log("    ", "Updating ", batch_count, "unindexed companies")
+            unindexed_numbers = unindexed["Number"][:batch_count]
+            update_companies_list_by_number(unindexed_numbers)
 
 
 def load_data(sources, status, interactive=True):

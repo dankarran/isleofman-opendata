@@ -21,28 +21,15 @@ github_project = "dankarran/isleofman-opendata"
 im_postcode_regex = '^IM[0-9] [0-9][A-Z]{2}$'
 
 
-def openstreetmap(interactive=True, run_postcode_boundaries_only=False):
+def openstreetmap(interactive=True):
     log("# OpenStreetMap")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
-    if run_postcode_boundaries_only:
-        log('Generating postcode boundaries...')
-        # Need to load sources and data for generate_postcode_boundaries
-        with open(data_dir + "sources/sources.json") as fp:
-            sources = json.load(fp)
-        data = load_data(sources, interactive)
-        generate_postcode_boundaries(sources, data, interactive)
-        return
-
     data = load_data(sources, interactive)
     data = process_data(sources, data)
     write_data(sources, data)
-
-    generate_postcode_boundaries(sources, data, interactive)
-
-    print_datasets_markdown(sources, interactive)
 
 
 def load_data(sources, interactive=True):
@@ -183,7 +170,7 @@ def write_data(sources, data):
                 df_out.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
 
 
-def generate_postcode_boundaries(sources, data, interactive=True):
+def generate_postcode_boundaries(interactive=True):
     run_update = False
     if interactive:
         update_text = prompt("Regenerate postcode boundaries from OpenStreetMap data? (y/N) ")
@@ -253,7 +240,7 @@ def generate_postcode_boundaries(sources, data, interactive=True):
         log("    ", len(convex_hull), plural, "added")
 
 
-def print_datasets_markdown(sources, interactive=True):
+def print_datasets_markdown(interactive=True):
     run_update = False
     if interactive:
         update_text = prompt("Regenerate markdown links to OpenStreetMap datasets? (y/N) ")
@@ -264,6 +251,9 @@ def print_datasets_markdown(sources, interactive=True):
 
     if not run_update:
         return
+
+    with open(data_dir + "sources/sources.json") as fp:
+        sources = json.load(fp)
 
     github_outputs_dir = "/blob/main/" + data_dir + "outputs/"
 
@@ -326,17 +316,17 @@ def print_datasets_markdown(sources, interactive=True):
         groups[group]["items"].append(item)
 
     # print output
-    log("\n\n")
+    print("\n\n")
 
     for group in groups:
         prefix = "  * "
 
         # for non-default groups, print heading and indent items further
         if group != "default":
-            log(prefix + group)
+            print(prefix + group)
             prefix = "    * "
 
         for item in groups[group]["items"]:
-            log(prefix + item)
+            print(prefix + item)
 
-    log("\n\n")
+    print("\n\n")
