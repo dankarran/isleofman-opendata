@@ -20,30 +20,42 @@ github_project = "dankarran/isleofman-opendata"
 im_postcode_regex = '^IM[0-9] [0-9][A-Z]{2}$'
 
 
-def openstreetmap():
+def openstreetmap(interactive=True, run_postcode_boundaries_only=False):
     print("# OpenStreetMap")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
-    data = load_data(sources)
+    if run_postcode_boundaries_only:
+        print('Generating postcode boundaries...')
+        # Need to load sources and data for generate_postcode_boundaries
+        with open(data_dir + "sources/sources.json") as fp:
+            sources = json.load(fp)
+        data = load_data(sources, interactive)
+        generate_postcode_boundaries(sources, data, interactive)
+        return
+
+    data = load_data(sources, interactive)
     data = process_data(sources, data)
     write_data(sources, data)
 
-    generate_postcode_boundaries(sources, data)
+    generate_postcode_boundaries(sources, data, interactive)
 
-    print_datasets_markdown(sources)
+    print_datasets_markdown(sources, interactive)
 
 
-def load_data(sources):
+def load_data(sources, interactive=True):
     print(" - Loading data")
 
     data = {
         "overpass": {}
     }
 
-    update_text = input("Download updated OpenStreetMap data? (y/N) ")
-    if update_text == "y":
+    if interactive:
+        update_text = input("Download updated OpenStreetMap data? (y/N) ")
+        if update_text == "y":
+            update_files(sources)
+    else:
         update_files(sources)
 
     for source in sources["overpass"]:
@@ -170,9 +182,16 @@ def write_data(sources, data):
                 df_out.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
 
 
-def generate_postcode_boundaries(sources, data):
-    update_text = input("Regenerate postcode boundaries from OpenStreetMap data? (y/N) ")
-    if update_text != "y":
+def generate_postcode_boundaries(sources, data, interactive=True):
+    run_update = False
+    if interactive:
+        update_text = input("Regenerate postcode boundaries from OpenStreetMap data? (y/N) ")
+        if update_text == "y":
+            run_update = True
+    else:
+        run_update = True
+
+    if not run_update:
         return
 
     gdf = None
@@ -233,9 +252,16 @@ def generate_postcode_boundaries(sources, data):
         print("    ", len(convex_hull), plural, "added")
 
 
-def print_datasets_markdown(sources):
-    update_text = input("Regenerate markdown links to OpenStreetMap datasets? (y/N) ")
-    if update_text != "y":
+def print_datasets_markdown(sources, interactive=True):
+    run_update = False
+    if interactive:
+        update_text = input("Regenerate markdown links to OpenStreetMap datasets? (y/N) ")
+        if update_text == "y":
+            run_update = True
+    else:
+        run_update = True
+
+    if not run_update:
         return
 
     github_outputs_dir = "/blob/main/" + data_dir + "outputs/"

@@ -16,7 +16,7 @@ record_types = ["planning-applications", "delegated-decisions", "appeals"]
 pa_base_url = "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber="
 
 
-def planning_applications():
+def planning_applications(interactive=True, run_weekly_only=False, run_annual_only=False):
     print("# Planning Applications - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
@@ -25,12 +25,42 @@ def planning_applications():
     with open(data_dir + "sources/defaults.json") as fp:
         default_options = json.load(fp)
 
-    data = load_data(sources, default_options)
+    if run_weekly_only:
+        print('Updating weekly planning application files...')
+        for record_type in record_types:
+            if "weekly" in sources[record_type]:
+                update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
+        return
+
+    if run_annual_only:
+        print('Updating annual planning application files...')
+        for record_type in record_types:
+            update_annual_files(sources[record_type]["annual"], record_type, interactive)
+        return
+
+    # If not running specific updates, proceed with general update logic
+    for record_type in record_types:
+        if "weekly" in sources[record_type]:
+            if interactive:
+                update_text = input("Download updated weekly " + record_type + " files? (y/N) ")
+                if update_text == "y":
+                    update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
+            else:
+                update_weekly_files(sources[record_type]["weekly"], record_type, interactive)
+
+        if interactive:
+            update_text = input("Download updated annual " + record_type + " files? (y/N) ")
+            if update_text == "y":
+                update_annual_files(sources[record_type]["annual"], record_type, interactive)
+        else:
+            update_annual_files(sources[record_type]["annual"], record_type, interactive)
+
+    data = load_data(sources, default_options, interactive)
     data = process_data(data)
     write_data(data)
 
 
-def load_data(sources, default_options):
+def load_data(sources, default_options, interactive=True):
     print(" - Loading Planning Applications")
 
     data = {}
@@ -39,24 +69,14 @@ def load_data(sources, default_options):
 
         data[record_type] = {}
 
-        # download weekly files if required
+        # load weekly data into dataframes
         if "weekly" in sources[record_type]:
-            update_text = input("Download updated weekly " + record_type + " files? (y/N) ")
-            if update_text == "y":
-                update_weekly_files(sources[record_type]["weekly"], record_type)
-
-            # load data into dataframes
             data[record_type]["weekly"] = pd.DataFrame()
             data[record_type]["weekly"] = read_weekly_files(sources[record_type]["weekly"],
                                                             record_type,
                                                             data[record_type]["weekly"])
 
-        # download annual files if required
-        update_text = input("Download updated annual " + record_type + " files? (y/N) ")
-        if update_text == "y":
-            update_annual_files(sources[record_type]["annual"], record_type)
-
-        # load data into dataframes
+        # load annual data into dataframes
         data[record_type]["annual"] = pd.DataFrame()
         data[record_type]["annual"] = read_annual_files(sources[record_type]["annual"],
                                                         default_options[record_type]["annual"],
@@ -66,7 +86,7 @@ def load_data(sources, default_options):
     return data
 
 
-def update_weekly_files(sources, record_type):
+def update_weekly_files(sources, record_type, interactive=True):
     pub_count = 0
     for pub_date in sources:
         year = pub_date[0:4]
@@ -126,7 +146,7 @@ def update_weekly_files(sources, record_type):
         pub_rows_df.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
 
 
-def update_annual_files(sources, record_type):
+def update_annual_files(sources, record_type, interactive=True):
     for year in sources:
         year_source = sources[year]
 

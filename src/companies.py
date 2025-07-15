@@ -20,7 +20,7 @@ registry_url = "https://services.gov.im/ded/services/companiesregistry/"
 search_page = "companysearch.iom?"
 
 
-def companies():
+def companies(interactive=True, run_unindexed_only=False):
     print("# Companies Registry - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
@@ -30,15 +30,20 @@ def companies():
         status = json.load(fp)
 
     # retrieve a batch of previously unindexed company numbers
-    companies_unindexed()
+    if run_unindexed_only:
+        companies_unindexed(interactive)
+        return
+
+    # retrieve a batch of previously unindexed company numbers
+    companies_unindexed(interactive)
 
     # search for companies by name and write outputs
-    data = load_data(sources, status)
+    data = load_data(sources, status, interactive)
     data = process_data(data)
     write_data(data)
 
 
-def companies_unindexed():
+def companies_unindexed(interactive=True):
     unindexed_filepath = data_dir + "outputs/company-numbers-unindexed.csv"
     if os.path.isfile(unindexed_filepath):
         unindexed = pd.read_csv(unindexed_filepath)
@@ -53,19 +58,26 @@ def companies_unindexed():
             unindexed = unindexed[~unindexed["Number"].isin(not_found["Number"])]
 
         if len(unindexed["Number"]):
-            batch_text = input("Download batch of [x] from ~" + str(len(unindexed["Number"])) + " unindexed companies? (default 0) ")
-            if batch_text:
-                batch_count = int(batch_text)
-                if batch_count > 0:
-                    unindexed_numbers = unindexed["Number"][:batch_count]
-                    update_companies_list_by_number(unindexed_numbers)
+            if interactive:
+                batch_text = input("Download batch of [x] from ~" + str(len(unindexed["Number"])) + " unindexed companies? (default 0) ")
+                if batch_text:
+                    batch_count = int(batch_text)
+                    if batch_count > 0:
+                        unindexed_numbers = unindexed["Number"][:batch_count]
+                        update_companies_list_by_number(unindexed_numbers)
+            else:
+                # In non-interactive mode, we won't ask for a batch size.
+                pass
 
 
-def load_data(sources, status):
+def load_data(sources, status, interactive=True):
     print(" - Loading Companies")
 
-    update_text = input("Download latest company registry details? (y/N) ")
-    if update_text == "y":
+    if interactive:
+        update_text = input("Download latest company registry details? (y/N) ")
+        if update_text == "y":
+            update_companies_list(sources, status)
+    else:
         update_companies_list(sources, status)
 
     # load data into dataframes

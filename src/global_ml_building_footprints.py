@@ -12,8 +12,10 @@ https://github.com/microsoft/GlobalMLBuildingFootprints/blob/main/scripts/make-g
 data_dir = "data/microsoft/global-ml-building-footprints/"
 
 
-def global_ml_building_footprints():
-    update_text = input("Download updated Global ML Building Footprints data? (y/N) ")
+def global_ml_building_footprints(interactive=True):
+    update_text = 'y'
+    if interactive:
+        update_text = input("Download updated Global ML Building Footprints data? (y/N) ")
     if update_text != "y":
         return False
 

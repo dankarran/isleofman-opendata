@@ -26,8 +26,42 @@ See individual README files in relevant part of `data` directory for further det
 
 ## Updating data
 
-To update the data, run `python update.py` and enter `y` for each dataset you'd like to re-download from the original 
-source.
+The update script (`update.py`) can be run in two modes: interactive or argument-driven.
+
+### Interactive Mode
+
+To run in interactive mode, which will prompt you for each major data category, simply run the script without any arguments:
+
+```bash
+python update.py
+```
+
+The script will ask whether you want to update each dataset (Companies, Land Transactions, etc.).
+
+### Argument-driven Mode
+
+To run specific updates without interactive prompts, you can use command-line arguments. This is useful for automated or targeted updates. Providing any argument will disable interactive mode.
+
+**General dataset updates:**
+
+*   `--companies`: Run the full Companies Registry update.
+*   `--land-transactions`: Run the Land Transactions update.
+*   `--planning-applications`: Run the full Planning Applications update.
+*   `--openstreetmap`: Run the full OpenStreetMap update.
+*   `--global-ml-building-footprints`: Run the Global ML Building Footprints update.
+
+**Granular task updates:**
+
+*   `--companies-unindexed`: Run only the unindexed company number search.
+*   `--update-weekly-planning`: Run only the weekly planning application list update.
+*   `--update-annual-planning`: Run only the annual planning application list update.
+*   `--generate-postcode-boundaries`: Run only the postcode boundary generation from OpenStreetMap data.
+
+You can combine multiple arguments. For example, to update company data and land transactions:
+
+```bash
+python update.py --companies --land-transactions
+```
 
 ## Other resources
 
