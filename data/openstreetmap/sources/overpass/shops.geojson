@@ -21389,8 +21389,10 @@
         "addr:housenumber": "67",
         "addr:postcode": "IM1 2EN",
         "addr:street": "Strand Street",
+        "brand": "Fat Face",
+        "brand:wikidata": "Q5437186",
         "building": "retail",
-        "name": "Fatface",
+        "name": "Fat Face",
         "shop": "clothes"
       }
     },
@@ -24936,9 +24938,8 @@
         "building": "yes",
         "contact:facebook": "https://www.facebook.com/VondysGarageLtd/",
         "name": "Vondy's Garage",
-        "service:vehicle:repairs": "yes",
-        "service:vehicle:sales": "yes",
-        "service:vehicle:servicing": "yes",
+        "service:vehicle:car_repair": "yes",
+        "service:vehicle:used_car_sales": "yes",
         "shop": "car_repair"
       }
     },

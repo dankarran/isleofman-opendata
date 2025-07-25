@@ -2196,6 +2196,7 @@
         "name:az": "Duqlas",
         "name:be": "\u0414\u0443\u0433\u043b\u0430\u0441",
         "name:bg": "\u0414\u044a\u0433\u043b\u0430\u0441",
+        "name:bn": "\u09a1\u0997\u09b2\u09be\u09b8",
         "name:br": "Doolish",
         "name:bs": "Douglas",
         "name:ca": "Douglas",
@@ -11361,6 +11362,10 @@
           [
             -4.475684,
             54.174093
+          ],
+          [
+            -4.475721,
+            54.174107
           ],
           [
             -4.475754,
@@ -44496,6 +44501,10 @@
             54.08929
           ],
           [
+            -4.746862,
+            54.089326
+          ],
+          [
             -4.746817,
             54.089352
           ],
@@ -65637,6 +65646,7 @@
       },
       "properties": {
         "highway": "primary",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Ballaquayle Road",
         "name:en": "Ballaquayle Road",
@@ -83113,6 +83123,53 @@
     },
     {
       "type": "Feature",
+      "id": 436480089,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483352,
+            54.173755
+          ],
+          [
+            -4.483156,
+            54.17391
+          ],
+          [
+            -4.483085,
+            54.173964
+          ],
+          [
+            -4.481283,
+            54.175236
+          ],
+          [
+            -4.481145,
+            54.175326
+          ],
+          [
+            -4.481046,
+            54.175373
+          ],
+          [
+            -4.481008,
+            54.175392
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Keppel Road",
+        "name:en": "Keppel Road",
+        "name:gv": "Raad Keppel",
+        "source:name:gv": "mapillary",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 436516026,
       "geometry": {
         "type": "LineString",
@@ -96404,6 +96461,65 @@
     },
     {
       "type": "Feature",
+      "id": 825947624,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.747981,
+            54.091194
+          ],
+          [
+            -4.749857,
+            54.08975
+          ],
+          [
+            -4.747614,
+            54.088799
+          ],
+          [
+            -4.747077,
+            54.089233
+          ],
+          [
+            -4.74697,
+            54.089313
+          ],
+          [
+            -4.746831,
+            54.089392
+          ],
+          [
+            -4.746684,
+            54.089457
+          ],
+          [
+            -4.746131,
+            54.089662
+          ],
+          [
+            -4.745595,
+            54.089898
+          ],
+          [
+            -4.745336,
+            54.090024
+          ],
+          [
+            -4.747981,
+            54.091194
+          ]
+        ]
+      },
+      "properties": {
+        "disused:tourism": "camp_site",
+        "landuse": "brownfield",
+        "name": "Reayrt Vradda",
+        "name:gv": "Reayrt Vradda"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 825947665,
       "geometry": {
         "type": "LineString",
@@ -106661,7 +106777,8 @@
         "highway": "footway",
         "name": "Laureston View",
         "name:en": "Laureston View",
-        "name:gv": "Reayrt Laureston"
+        "name:gv": "Reayrt Laureston",
+        "surface": "asphalt"
       }
     },
     {
