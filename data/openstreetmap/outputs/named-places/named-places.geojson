@@ -19991,9 +19991,12 @@
         ]
       },
       "properties": {
-        "name": "Ballakilmurray",
+        "alt_name": "Ballakilmurray",
+        "name": "Ballakilmoirrey",
+        "name:en": "Ballakilmoirrey",
+        "name:gv": "Ballakilwoirrey",
         "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:alt_name": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 475395087,
         "lon": -4.654437,
         "lat": 54.220525,
@@ -25806,8 +25809,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.814527,
-          54.04282
+          -4.813385,
+          54.043289
         ]
       },
       "properties": {
@@ -25815,8 +25818,8 @@
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 10145016493,
-        "lon": -4.814527,
-        "lat": 54.04282,
+        "lon": -4.813385,
+        "lat": 54.043289,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/10145016493"
       }
@@ -32727,10 +32730,12 @@
       "properties": {
         "alt_name": "The Drinking Dragon",
         "name": "Yn Burro",
-        "name:gv": "Burrow",
+        "name:en": "Burrow",
+        "name:gv": "Yn Burro",
         "natural": "coastline",
         "place": "island",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:name:en": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 37691393,
         "lon": -4.813339876709719,
         "lat": 54.04338356113423,

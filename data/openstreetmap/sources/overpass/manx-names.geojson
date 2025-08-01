@@ -1448,6 +1448,25 @@
     },
     {
       "type": "Feature",
+      "id": 475395087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.654437,
+          54.220525
+        ]
+      },
+      "properties": {
+        "alt_name": "Ballakilmurray",
+        "name": "Ballakilmoirrey",
+        "name:en": "Ballakilmoirrey",
+        "name:gv": "Ballakilwoirrey",
+        "place": "farm",
+        "source:alt_name": "Isle of Man Government 1:25000 map (2007)"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475395128,
       "geometry": {
         "type": "Point",
@@ -10454,6 +10473,57 @@
         "name:en": "Station Place",
         "name:gv": "Ynnyd y Stashoon",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986492,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492146,
+            54.236644
+          ],
+          [
+            -4.49102,
+            54.235459
+          ],
+          [
+            -4.49053,
+            54.235243
+          ],
+          [
+            -4.490099,
+            54.23488
+          ],
+          [
+            -4.489229,
+            54.234238
+          ],
+          [
+            -4.489146,
+            54.233838
+          ],
+          [
+            -4.488817,
+            54.233438
+          ],
+          [
+            -4.488718,
+            54.233145
+          ],
+          [
+            -4.488545,
+            54.232769
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Glion Feeagh",
+        "name:gv": "Glion Feeagh",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "waterway": "stream"
       }
     },
     {
@@ -44114,10 +44184,12 @@
       "properties": {
         "alt_name": "The Drinking Dragon",
         "name": "Yn Burro",
-        "name:gv": "Burrow",
+        "name:en": "Burrow",
+        "name:gv": "Yn Burro",
         "natural": "coastline",
         "place": "island",
-        "source": "Isle of Man Government 1:25000 map (2007)"
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:name:en": "Isle of Man Government 1:25000 map (2007)"
       }
     },
     {

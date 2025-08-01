@@ -1329,6 +1329,7 @@
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
         "contact:phone": "+44 1624 616516",
+        "female": "yes",
         "name": "Utopia Hair Care",
         "opening_hours": "Mo-Sa 09:00-17:30",
         "shop": "hairdresser",
@@ -13105,10 +13106,15 @@
         "addr:country": "IM",
         "addr:postcode": "IM2 4EZ",
         "addr:street": "Victoria Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
         "building": "yes",
+        "name": "Tesco Express",
         "old_name": "Winerite Extra",
+        "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
-        "was:shop": "beverages"
+        "was:shop": "beverages",
+        "website": "https://www.tesco.com/store-locator/douglas/victoria-road"
       }
     },
     {
@@ -28321,13 +28327,16 @@
         "addr:country": "IM",
         "addr:postcode": "IM5 1HP",
         "addr:street": "Derby Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
         "building": "retail",
         "building:use": "retail",
         "name": "Tesco",
         "old_name": "Shoprite",
         "operator": "Tesco",
+        "shop": "supermarket",
         "toilets:wheelchair": "yes",
-        "was:shop": "supermarket",
+        "website": "https://www.tesco.com/store-locator/peel/derby-road",
         "wheelchair": "yes"
       }
     },
@@ -76784,7 +76793,6 @@
         "building": "yes",
         "cuisine": "chinese",
         "name": "Golden Gate",
-        "shop": "fast_food",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -102671,7 +102679,7 @@
         "postal_code": "IM1 2EL",
         "shop": "newsagent",
         "source": "Bing;photograph",
-        "website": "https://www.whsmith.co.uk/stores/details/?StoreID=2812"
+        "website": "https://www.tgjonesonline.co.uk/stores/strand-st-douglas-isle-of-man"
       }
     },
     {

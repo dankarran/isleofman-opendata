@@ -329,6 +329,7 @@
         "addr:street": "Central Promenade",
         "addr:substreet": "Castle Mona Colonnade",
         "contact:phone": "+44 1624 616516",
+        "female": "yes",
         "name": "Utopia Hair Care",
         "opening_hours": "Mo-Sa 09:00-17:30",
         "shop": "hairdresser",
@@ -5329,6 +5330,59 @@
     },
     {
       "type": "Feature",
+      "id": 59284274,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478392,
+            54.158703
+          ],
+          [
+            -4.478329,
+            54.158745
+          ],
+          [
+            -4.478172,
+            54.158848
+          ],
+          [
+            -4.477779,
+            54.158642
+          ],
+          [
+            -4.477998,
+            54.158498
+          ],
+          [
+            -4.478392,
+            54.158703
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4EZ",
+        "addr:street": "Victoria Road",
+        "brand": "Tesco Express",
+        "brand:wikidata": "Q98456772",
+        "building": "yes",
+        "name": "Tesco Express",
+        "old_name": "Winerite Extra",
+        "shop": "convenience",
+        "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
+        "was:shop": "beverages",
+        "website": "https://www.tesco.com/store-locator/douglas/victoria-road",
+        "osm_id": 59284274,
+        "lon": -4.478085496383448,
+        "lat": 54.15867286013143,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/59284274"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 59384642,
       "geometry": {
         "type": "LineString",
@@ -7636,6 +7690,77 @@
         "lat": 54.097362,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/67761899"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68245524,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.687169,
+            54.221843
+          ],
+          [
+            -4.687154,
+            54.221867
+          ],
+          [
+            -4.686921,
+            54.222256
+          ],
+          [
+            -4.686415,
+            54.222152
+          ],
+          [
+            -4.686641,
+            54.221777
+          ],
+          [
+            -4.686794,
+            54.221808
+          ],
+          [
+            -4.686817,
+            54.22177
+          ],
+          [
+            -4.686934,
+            54.221795
+          ],
+          [
+            -4.687139,
+            54.221837
+          ],
+          [
+            -4.687169,
+            54.221843
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:postcode": "IM5 1HP",
+        "addr:street": "Derby Road",
+        "brand": "Tesco",
+        "brand:wikidata": "Q487494",
+        "building": "retail",
+        "building:use": "retail",
+        "name": "Tesco",
+        "old_name": "Shoprite",
+        "operator": "Tesco",
+        "shop": "supermarket",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.tesco.com/store-locator/peel/derby-road",
+        "wheelchair": "yes",
+        "osm_id": 68245524,
+        "lon": -4.686793668927191,
+        "lat": 54.22200122035804,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/68245524"
       }
     },
     {
@@ -16791,54 +16916,6 @@
     },
     {
       "type": "Feature",
-      "id": 165129858,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.484145,
-            54.171189
-          ],
-          [
-            -4.484216,
-            54.171164
-          ],
-          [
-            -4.484284,
-            54.171232
-          ],
-          [
-            -4.484213,
-            54.171256
-          ],
-          [
-            -4.484145,
-            54.171189
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "13",
-        "addr:postcode": "IM2 6LX",
-        "addr:street": "Snaefell Road",
-        "addr:suburb": "Willaston",
-        "amenity": "fast_food",
-        "building": "yes",
-        "cuisine": "chinese",
-        "name": "Golden Gate",
-        "shop": "fast_food",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 165129858,
-        "lon": -4.484214540716576,
-        "lat": 54.17121019255088,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/165129858"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 165129865,
       "geometry": {
         "type": "LineString",
@@ -20736,6 +20813,53 @@
     },
     {
       "type": "Feature",
+      "id": 415157479,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479239,
+            54.152406
+          ],
+          [
+            -4.479352,
+            54.152405
+          ],
+          [
+            -4.479348,
+            54.152553
+          ],
+          [
+            -4.479239,
+            54.152551
+          ],
+          [
+            -4.479239,
+            54.152406
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Strand Shopping Centre",
+        "addr:street": "Strand Street",
+        "addr:unit": "4",
+        "building": "yes",
+        "fixme": "find more appropriate tag to combine all activities",
+        "name": "The Matrix Arena",
+        "old_name": "Card Factory",
+        "shop": "video_games",
+        "website": "https://www.thematrixarena.im",
+        "osm_id": 415157479,
+        "lon": -4.4792948368148675,
+        "lat": 54.15247818461506,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/415157479"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 415157484,
       "geometry": {
         "type": "LineString",
@@ -22518,7 +22642,7 @@
         "postal_code": "IM1 2EL",
         "shop": "newsagent",
         "source": "Bing;photograph",
-        "website": "https://www.whsmith.co.uk/stores/details/?StoreID=2812",
+        "website": "https://www.tgjonesonline.co.uk/stores/strand-st-douglas-isle-of-man",
         "osm_id": 417401610,
         "lon": -4.478799642071639,
         "lat": 54.15138291852446,

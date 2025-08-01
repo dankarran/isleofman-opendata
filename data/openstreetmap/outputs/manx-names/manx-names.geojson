@@ -1813,6 +1813,30 @@
     },
     {
       "type": "Feature",
+      "id": 475395087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.654437,
+          54.220525
+        ]
+      },
+      "properties": {
+        "alt_name": "Ballakilmurray",
+        "name": "Ballakilmoirrey",
+        "name:en": "Ballakilmoirrey",
+        "name:gv": "Ballakilwoirrey",
+        "place": "farm",
+        "source:alt_name": "Isle of Man Government 1:25000 map (2007)",
+        "osm_id": 475395087,
+        "lon": -4.654437,
+        "lat": 54.220525,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/475395087"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 475395128,
       "geometry": {
         "type": "Point",
@@ -12374,6 +12398,62 @@
         "lat": 54.22211741788239,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986483"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986492,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492146,
+            54.236644
+          ],
+          [
+            -4.49102,
+            54.235459
+          ],
+          [
+            -4.49053,
+            54.235243
+          ],
+          [
+            -4.490099,
+            54.23488
+          ],
+          [
+            -4.489229,
+            54.234238
+          ],
+          [
+            -4.489146,
+            54.233838
+          ],
+          [
+            -4.488817,
+            54.233438
+          ],
+          [
+            -4.488718,
+            54.233145
+          ],
+          [
+            -4.488545,
+            54.232769
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Glion Feeagh",
+        "name:gv": "Glion Feeagh",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "waterway": "stream",
+        "osm_id": 25986492,
+        "lon": -4.490184753661388,
+        "lat": 54.23481558325241,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986492"
       }
     },
     {
@@ -48104,10 +48184,12 @@
       "properties": {
         "alt_name": "The Drinking Dragon",
         "name": "Yn Burro",
-        "name:gv": "Burrow",
+        "name:en": "Burrow",
+        "name:gv": "Yn Burro",
         "natural": "coastline",
         "place": "island",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:name:en": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 37691393,
         "lon": -4.813339876709719,
         "lat": 54.04338356113423,
