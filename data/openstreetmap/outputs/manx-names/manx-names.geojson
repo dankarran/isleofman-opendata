@@ -49778,14 +49778,6 @@
           [
             -4.482135,
             54.14688
-          ],
-          [
-            -4.481194,
-            54.14705
-          ],
-          [
-            -4.480349,
-            54.147189
           ]
         ]
       },
@@ -49799,8 +49791,8 @@
         "wikidata": "Q7337361",
         "wikipedia": "en:River Douglas (Isle of Man)",
         "osm_id": 38430283,
-        "lon": -4.489657796479318,
-        "lat": 54.14775742700794,
+        "lon": -4.490523918281072,
+        "lat": 54.147831473685414,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/38430283"
       }
@@ -120269,6 +120261,44 @@
         "lat": 54.07773790238005,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1409219686"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1419742278,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482135,
+            54.14688
+          ],
+          [
+            -4.481194,
+            54.14705
+          ],
+          [
+            -4.480349,
+            54.147189
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "River Dhoo",
+        "layer": "-1",
+        "name": "River Douglas",
+        "name:en": "River Douglas",
+        "name:gv": "yn awin Ghoolish",
+        "source": "OS Second War Revision 1940. Pub 1942;Isle of Man Government aerial imagery (2001)",
+        "tunnel": "culvert",
+        "waterway": "river",
+        "wikidata": "Q7337361",
+        "wikipedia": "en:River Douglas (Isle of Man)",
+        "osm_id": 1419742278,
+        "lon": -4.481242602846389,
+        "lat": 54.14703799340452,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1419742278"
       }
     }
   ]

@@ -2530,6 +2530,35 @@
     },
     {
       "type": "Feature",
+      "id": 939415403,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478399,
+          54.155423
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Villa Marina Arcade",
+        "addr:postcode": "IM1 2HJ",
+        "addr:street": "Harris Promenade",
+        "addr:unit": "4",
+        "amenity": "cafe",
+        "contact:facebook": "https://www.facebook.com/p/Cafe-Villa-100090273510275/",
+        "cuisine": "ice_cream",
+        "name": "Cafe Villa",
+        "wheelchair": "yes",
+        "osm_id": 939415403,
+        "lon": -4.478399,
+        "lat": 54.155423,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/939415403"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 942516662,
       "geometry": {
         "type": "Point",
@@ -29730,6 +29759,7 @@
         "addr:postcode": "IM1 3LP",
         "addr:street": "Derby Square",
         "brand": "National Tyres and Autocare",
+        "brand:short": "National Tyres",
         "brand:wikidata": "Q6979055",
         "brand:wikipedia": "en:National Tyres and Autocare",
         "building": "yes",
@@ -76216,6 +76246,64 @@
     },
     {
       "type": "Feature",
+      "id": 146835180,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694837,
+            54.224038
+          ],
+          [
+            -4.694843,
+            54.224023
+          ],
+          [
+            -4.694871,
+            54.223952
+          ],
+          [
+            -4.694685,
+            54.223927
+          ],
+          [
+            -4.694651,
+            54.224013
+          ],
+          [
+            -4.694837,
+            54.224038
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM9 6LN",
+        "addr:street": "Shore Road",
+        "amenity": "ice_cream",
+        "building": "yes",
+        "check_date": "2025-08-03",
+        "check_date:currency:XBT": "2025-08-03",
+        "currency:XBT": "yes",
+        "name": "Davison's Ice Cream Parlour",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+44 1624 844 761",
+        "survey:date": "2022-09-23",
+        "website": "https://www.davisons.co.im/",
+        "wheelchair": "yes",
+        "osm_id": 146835180,
+        "lon": -4.694761005002365,
+        "lat": 54.22398250197994,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/146835180"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146835185,
       "geometry": {
         "type": "LineString",
@@ -113728,11 +113816,12 @@
         "addr:housenumber": "74",
         "addr:postcode": "IM1 2EW",
         "addr:street": "Strand Street",
+        "brand": "The Works",
         "brand:wikidata": "Q7775853",
         "building": "retail",
         "building:levels": "2",
         "name": "The Works",
-        "shop": "variety_store",
+        "shop": "books",
         "source": "Bing;photograph;survey",
         "website": "https://www.theworks.co.uk",
         "osm_id": 417401593,
@@ -114269,6 +114358,7 @@
         "addr:postcode": "IM1 2FD",
         "addr:street": "Strand Street",
         "brand": "Boots Opticians",
+        "brand:short": "Boots",
         "brand:wikidata": "Q4944037",
         "brand:wikipedia": "en:Boots Opticians",
         "building": "retail",
@@ -115072,7 +115162,6 @@
         "addr:postcode": "IM1 2AU",
         "addr:street": "Duke Street",
         "brand": "CarShop",
-        "brand:wikidata": "Q109308461",
         "building": "retail",
         "building:colour": "yellow",
         "building:levels": "4",
@@ -115080,6 +115169,7 @@
         "contact:phone": "+44 1624 676677",
         "contact:website": "carshop.co.im",
         "name": "CarShop",
+        "not:brand:wikidata": "Q109308461",
         "shop": "car",
         "osm_id": 419056950,
         "lon": -4.478780534653987,

@@ -6275,6 +6275,7 @@
         "addr:postcode": "IM1 3LP",
         "addr:street": "Derby Square",
         "brand": "National Tyres and Autocare",
+        "brand:short": "National Tyres",
         "brand:wikidata": "Q6979055",
         "brand:wikipedia": "en:National Tyres and Autocare",
         "building": "yes",
@@ -19711,11 +19712,12 @@
         "addr:housenumber": "74",
         "addr:postcode": "IM1 2EW",
         "addr:street": "Strand Street",
+        "brand": "The Works",
         "brand:wikidata": "Q7775853",
         "building": "retail",
         "building:levels": "2",
         "name": "The Works",
-        "shop": "variety_store",
+        "shop": "books",
         "source": "Bing;photograph;survey",
         "website": "https://www.theworks.co.uk"
       }
@@ -20319,8 +20321,10 @@
         ]
       },
       "properties": {
+        "brand": "JD Sports",
+        "brand:wikidata": "Q6108019",
         "building": "retail",
-        "name": "J D Sports",
+        "name": "JD Sports",
         "shop": "sports"
       }
     },
@@ -20363,6 +20367,7 @@
         "addr:postcode": "IM1 2FD",
         "addr:street": "Strand Street",
         "brand": "Boots Opticians",
+        "brand:short": "Boots",
         "brand:wikidata": "Q4944037",
         "brand:wikipedia": "en:Boots Opticians",
         "building": "retail",
@@ -20868,7 +20873,6 @@
         "addr:postcode": "IM1 2AU",
         "addr:street": "Duke Street",
         "brand": "CarShop",
-        "brand:wikidata": "Q109308461",
         "building": "retail",
         "building:colour": "yellow",
         "building:levels": "4",
@@ -20876,6 +20880,7 @@
         "contact:phone": "+44 1624 676677",
         "contact:website": "carshop.co.im",
         "name": "CarShop",
+        "not:brand:wikidata": "Q109308461",
         "shop": "car"
       }
     },

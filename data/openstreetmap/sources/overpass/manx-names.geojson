@@ -45723,14 +45723,6 @@
           [
             -4.482135,
             54.14688
-          ],
-          [
-            -4.481194,
-            54.14705
-          ],
-          [
-            -4.480349,
-            54.147189
           ]
         ]
       },
@@ -111739,6 +111731,39 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1419742278,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482135,
+            54.14688
+          ],
+          [
+            -4.481194,
+            54.14705
+          ],
+          [
+            -4.480349,
+            54.147189
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "River Dhoo",
+        "layer": "-1",
+        "name": "River Douglas",
+        "name:en": "River Douglas",
+        "name:gv": "yn awin Ghoolish",
+        "source": "OS Second War Revision 1940. Pub 1942;Isle of Man Government aerial imagery (2001)",
+        "tunnel": "culvert",
+        "waterway": "river",
+        "wikidata": "Q7337361",
+        "wikipedia": "en:River Douglas (Isle of Man)"
       }
     }
   ]
