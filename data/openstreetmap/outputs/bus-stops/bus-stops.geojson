@@ -3491,11 +3491,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Port St Mary Promenade",
         "public_transport": "platform",
         "ref": "903",
+        "shelter": "no",
+        "tactile_paving": "no",
         "osm_id": 3683451916,
         "lon": -4.739838,
         "lat": 54.078026,
@@ -8157,8 +8162,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.503741,
-          54.17345
+          -4.50364,
+          54.173389
         ]
       },
       "properties": {
@@ -8168,8 +8173,8 @@
         "public_transport": "platform",
         "ref": "1806",
         "osm_id": 9182578886,
-        "lon": -4.503741,
-        "lat": 54.17345,
+        "lon": -4.50364,
+        "lat": 54.173389,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9182578886"
       }

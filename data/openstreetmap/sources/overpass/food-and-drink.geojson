@@ -2550,6 +2550,7 @@
         "contact:facebook": "https://www.facebook.com/p/Athol-Park-Chinese-Restaurant-100067607140828/",
         "cuisine": "chinese",
         "name": "Athol Park Chinese Restaurant",
+        "opening_hours": "We-Mo 17:00-22:00",
         "source": "Isle of Man Government Company Registry"
       }
     },
@@ -8686,7 +8687,9 @@
         "cuisine": "indian",
         "diet:vegan": "yes",
         "name": "Indian Kitchen",
-        "strapline": "By Flavours"
+        "phone": "+44 1624 875726",
+        "strapline": "By Flavours",
+        "website": "https://www.flavoursiom.com"
       }
     },
     {
@@ -9228,10 +9231,13 @@
         "addr:country": "IM",
         "addr:postcode": "IM5 1XF",
         "addr:street": "Poortown Road",
-        "amenity": "pub",
+        "amenity": "restaurant",
         "building": "yes",
-        "name": "The Highwayman",
-        "website": "https://pubsandbars.im/venue/highwayman/"
+        "name": "Barbary West Coast",
+        "opening_hours": "Mo-Th 16:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",
+        "phone": "+44 1624 604833",
+        "smoking": "outside",
+        "website": "https://barbarywestcoast.im/"
       }
     },
     {

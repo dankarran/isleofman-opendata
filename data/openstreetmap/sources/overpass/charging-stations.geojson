@@ -1368,6 +1368,23 @@
     },
     {
       "type": "Feature",
+      "id": 13092786362,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.455126,
+          54.169967
+        ]
+      },
+      "properties": {
+        "amenity": "charging_station",
+        "capacity": "2",
+        "covered": "no",
+        "fee": "yes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1167710497,
       "geometry": {
         "type": "LineString",

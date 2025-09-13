@@ -2831,11 +2831,16 @@
         ]
       },
       "properties": {
+        "bench": "no",
+        "bin": "no",
         "bus": "yes",
         "highway": "bus_stop",
+        "lit": "yes",
         "name": "Port St Mary Promenade",
         "public_transport": "platform",
-        "ref": "903"
+        "ref": "903",
+        "shelter": "no",
+        "tactile_paving": "no"
       }
     },
     {
@@ -6542,8 +6547,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.503741,
-          54.17345
+          -4.50364,
+          54.173389
         ]
       },
       "properties": {

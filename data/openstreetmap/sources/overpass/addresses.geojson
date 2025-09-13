@@ -1860,6 +1860,25 @@
     },
     {
       "type": "Feature",
+      "id": 740378147,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477903,
+          54.150282
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM1 2EA",
+        "addr:street": "Regent Street",
+        "source": "survey"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 763370807,
       "geometry": {
         "type": "Point",
@@ -3885,6 +3904,7 @@
         "addr:postcode": "IM9 6HE",
         "addr:street": "Strand Road",
         "amenity": "veterinary",
+        "check_date:opening_hours": "2025-09-01",
         "contact:phone": "+44 1624 835424",
         "contact:website": "https://www.strandvets.com/",
         "name": "Strand Vets",
@@ -8285,6 +8305,7 @@
         "contact:facebook": "https://www.facebook.com/p/Athol-Park-Chinese-Restaurant-100067607140828/",
         "cuisine": "chinese",
         "name": "Athol Park Chinese Restaurant",
+        "opening_hours": "We-Mo 17:00-22:00",
         "source": "Isle of Man Government Company Registry"
       }
     },
@@ -8524,7 +8545,7 @@
         "addr:street": "Barroose Road",
         "amenity": "place_of_worship",
         "denomination": "theravada",
-        "name": "Wat Mahathat, Isle of Man",
+        "name": "Wat Thai, Isle of Man",
         "religion": "buddhist"
       }
     },
@@ -21527,8 +21548,8 @@
             54.147887
           ],
           [
-            -4.502388,
-            54.147445
+            -4.502355,
+            54.147438
           ],
           [
             -4.502679,
@@ -21548,6 +21569,7 @@
         "addr:postcode": "IM2 1AL",
         "building": "yes",
         "name": "MacBlair",
+        "roof:colour": "#cdcfba",
         "shop": "trade",
         "source": "Isle of Man Government aerial imagery (2001)",
         "trade": "building_supplies",
@@ -21645,6 +21667,7 @@
         "addr:postcode": "IM2 1AL",
         "building": "industrial",
         "name": "Riverside Ceramics Ltd",
+        "roof:colour": "#cdcfba",
         "shop": "trade",
         "source": "Isle of Man Government aerial imagery (2001)",
         "trade": "tiles"
@@ -23722,7 +23745,7 @@
         "addr:country": "IM",
         "addr:postcode": "IM1 1BE",
         "addr:street": "Tynwald Street",
-        "old_name": "Fairfield Junior School",
+        "old_name": "Fairfield Junior School;Tynwald Street School",
         "was:amenity": "school"
       }
     },
@@ -69526,7 +69549,9 @@
         "cuisine": "indian",
         "diet:vegan": "yes",
         "name": "Indian Kitchen",
-        "strapline": "By Flavours"
+        "phone": "+44 1624 875726",
+        "strapline": "By Flavours",
+        "website": "https://www.flavoursiom.com"
       }
     },
     {
@@ -71583,10 +71608,13 @@
         "addr:country": "IM",
         "addr:postcode": "IM5 1XF",
         "addr:street": "Poortown Road",
-        "amenity": "pub",
+        "amenity": "restaurant",
         "building": "yes",
-        "name": "The Highwayman",
-        "website": "https://pubsandbars.im/venue/highwayman/"
+        "name": "Barbary West Coast",
+        "opening_hours": "Mo-Th 16:00-23:00; Fr-Sa 12:00-24:00; Su 12:00-23:00",
+        "phone": "+44 1624 604833",
+        "smoking": "outside",
+        "website": "https://barbarywestcoast.im/"
       }
     },
     {
@@ -78523,40 +78551,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.466236,
-            54.143492
+            -4.46621,
+            54.143482
           ],
           [
-            -4.466133,
-            54.143441
+            -4.466108,
+            54.143431
           ],
           [
-            -4.466149,
-            54.14343
+            -4.466123,
+            54.143421
           ],
           [
-            -4.466117,
-            54.143415
+            -4.466092,
+            54.143405
           ],
           [
-            -4.466102,
-            54.143425
+            -4.466076,
+            54.143416
           ],
           [
-            -4.46599,
-            54.14337
+            -4.465964,
+            54.14336
           ],
           [
-            -4.465887,
-            54.143441
+            -4.465861,
+            54.143431
           ],
           [
-            -4.466133,
-            54.143563
+            -4.466107,
+            54.143554
           ],
           [
-            -4.466236,
-            54.143492
+            -4.46621,
+            54.143482
           ]
         ]
       },
@@ -78565,7 +78593,11 @@
         "addr:housename": "Lighthouse Keepers Cottage",
         "addr:postcode": "IM1 5BP",
         "addr:street": "Douglas Head",
-        "building": "yes"
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "1",
+        "roof:colour": "grey",
+        "roof:shape": "hipped"
       }
     },
     {
@@ -80054,24 +80086,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.526003,
-            54.149168
+            -4.526056,
+            54.149169
           ],
           [
-            -4.526157,
-            54.148894
+            -4.526209,
+            54.148895
           ],
           [
-            -4.525712,
-            54.148809
+            -4.525764,
+            54.14881
           ],
           [
-            -4.525558,
-            54.149082
+            -4.525611,
+            54.149083
           ],
           [
-            -4.526003,
-            54.149168
+            -4.526056,
+            54.149169
           ]
         ]
       },
@@ -90309,6 +90341,154 @@
     },
     {
       "type": "Feature",
+      "id": 222825240,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674874,
+            54.227014
+          ],
+          [
+            -4.674939,
+            54.226987
+          ],
+          [
+            -4.675025,
+            54.227057
+          ],
+          [
+            -4.674959,
+            54.227084
+          ],
+          [
+            -4.674874,
+            54.227014
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222825256,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675348,
+            54.226743
+          ],
+          [
+            -4.675408,
+            54.226708
+          ],
+          [
+            -4.675491,
+            54.226757
+          ],
+          [
+            -4.675431,
+            54.226792
+          ],
+          [
+            -4.675348,
+            54.226743
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222825275,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675443,
+            54.226664
+          ],
+          [
+            -4.675403,
+            54.226612
+          ],
+          [
+            -4.675579,
+            54.226565
+          ],
+          [
+            -4.675619,
+            54.226618
+          ],
+          [
+            -4.675443,
+            54.226664
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "23",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222825279,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675267,
+            54.226882
+          ],
+          [
+            -4.675198,
+            54.22691
+          ],
+          [
+            -4.675121,
+            54.226845
+          ],
+          [
+            -4.67519,
+            54.226817
+          ],
+          [
+            -4.675267,
+            54.226882
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 227140563,
       "geometry": {
         "type": "LineString",
@@ -95478,6 +95658,7 @@
         "contact:website": "https://www.autocrashltd.im/",
         "name": "Autocrash accident repair centre",
         "opening_hours": "Mo-Th 08:30-17:30, Fr 08:30-16:30",
+        "roof:colour": "#cdcfba",
         "shop": "car_repair"
       }
     },
@@ -114468,28 +114649,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.502341,
-            54.147859
+            -4.502323,
+            54.14785
           ],
           [
-            -4.502199,
-            54.147937
+            -4.502182,
+            54.147927
           ],
           [
             -4.502042,
             54.14784
           ],
           [
-            -4.501977,
-            54.147799
+            -4.501957,
+            54.147788
           ],
           [
-            -4.502121,
-            54.147721
+            -4.502098,
+            54.147713
           ],
           [
-            -4.502341,
-            54.147859
+            -4.502323,
+            54.14785
           ]
         ]
       },
@@ -114503,6 +114684,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 671199",
         "name": "Swift Motors Ltd",
+        "roof:colour": "#cdcfba",
         "shop": "car",
         "website": "http://www.swiftmotors.net/"
       }
@@ -114545,6 +114727,7 @@
         "brand:wikidata": "Q116495226",
         "building": "industrial",
         "name": "CEF",
+        "roof:colour": "#e3e3e1",
         "shop": "trade",
         "trade": "electrical",
         "website": "https://www.cef.co.uk/stores/iom"
@@ -114585,7 +114768,8 @@
         "addr:plot": "6A",
         "addr:postcode": "IM2 1AL",
         "addr:unit": "2",
-        "building": "industrial"
+        "building": "industrial",
+        "roof:colour": "#e3e3e1"
       }
     },
     {
@@ -114671,6 +114855,7 @@
         "addr:unit": "9-10",
         "building": "industrial",
         "name": "AutoLogic vehicle servicing and repairs",
+        "roof:colour": "#e3e3e1",
         "shop": "car_repair",
         "website": "https://www.autologic.im/"
       }
@@ -128576,6 +128761,302 @@
     },
     {
       "type": "Feature",
+      "id": 1111547339,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674676,
+            54.226693
+          ],
+          [
+            -4.67475,
+            54.226664
+          ],
+          [
+            -4.67483,
+            54.226734
+          ],
+          [
+            -4.674755,
+            54.226763
+          ],
+          [
+            -4.674676,
+            54.226693
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547340,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675138,
+            54.226664
+          ],
+          [
+            -4.67518,
+            54.226704
+          ],
+          [
+            -4.675072,
+            54.226743
+          ],
+          [
+            -4.675029,
+            54.226703
+          ],
+          [
+            -4.675138,
+            54.226664
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "30",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547341,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675046,
+            54.226557
+          ],
+          [
+            -4.675088,
+            54.226598
+          ],
+          [
+            -4.67498,
+            54.226637
+          ],
+          [
+            -4.674938,
+            54.226596
+          ],
+          [
+            -4.675046,
+            54.226557
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "28",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547342,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675343,
+            54.226471
+          ],
+          [
+            -4.675254,
+            54.226492
+          ],
+          [
+            -4.675207,
+            54.226424
+          ],
+          [
+            -4.675297,
+            54.226403
+          ],
+          [
+            -4.675343,
+            54.226471
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547343,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674275,
+            54.226543
+          ],
+          [
+            -4.674345,
+            54.226517
+          ],
+          [
+            -4.674418,
+            54.226583
+          ],
+          [
+            -4.674347,
+            54.226609
+          ],
+          [
+            -4.674275,
+            54.226543
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547344,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674516,
+            54.226378
+          ],
+          [
+            -4.674564,
+            54.226349
+          ],
+          [
+            -4.674664,
+            54.226407
+          ],
+          [
+            -4.674616,
+            54.226435
+          ],
+          [
+            -4.674516,
+            54.226378
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547345,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674988,
+            54.226275
+          ],
+          [
+            -4.674921,
+            54.226292
+          ],
+          [
+            -4.67487,
+            54.226223
+          ],
+          [
+            -4.674937,
+            54.226206
+          ],
+          [
+            -4.674988,
+            54.226275
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1111547346,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675117,
+            54.226148
+          ],
+          [
+            -4.675202,
+            54.226129
+          ],
+          [
+            -4.675252,
+            54.226203
+          ],
+          [
+            -4.675166,
+            54.226222
+          ],
+          [
+            -4.675117,
+            54.226148
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "31",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1114918143,
       "geometry": {
         "type": "LineString",
@@ -131175,6 +131656,43 @@
         "personal_trainer": "yes",
         "sauna": "no",
         "swimming_pool": "no"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1135820239,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675579,
+            54.226565
+          ],
+          [
+            -4.675403,
+            54.226612
+          ],
+          [
+            -4.675363,
+            54.22656
+          ],
+          [
+            -4.675539,
+            54.226514
+          ],
+          [
+            -4.675579,
+            54.226565
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
       }
     },
     {
@@ -142968,24 +143486,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.502121,
-            54.147721
+            -4.502098,
+            54.147713
           ],
           [
-            -4.502264,
-            54.147643
+            -4.502235,
+            54.147641
           ],
           [
-            -4.502484,
-            54.147781
+            -4.502461,
+            54.147772
           ],
           [
-            -4.502341,
-            54.147859
+            -4.502323,
+            54.14785
           ],
           [
-            -4.502121,
-            54.147721
+            -4.502098,
+            54.147713
           ]
         ]
       },
@@ -143003,6 +143521,7 @@
         "leisure": "sports_centre",
         "name": "Hot Rocks",
         "opening_hours": "Tu 17:30-21:00, We-Fr 16:30-21:00, Sa 10:30-18:00, Su 13:00-17:00",
+        "roof:colour": "#cdcfba",
         "sport": "climbing"
       }
     },
@@ -143013,32 +143532,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.502264,
-            54.147643
+            -4.502235,
+            54.147641
           ],
           [
-            -4.50239,
-            54.147575
+            -4.502371,
+            54.147568
           ],
           [
-            -4.502407,
-            54.147565
-          ],
-          [
-            -4.502627,
+            -4.502587,
             54.147703
           ],
           [
-            -4.502591,
-            54.147723
+            -4.502548,
+            54.147728
           ],
           [
-            -4.502484,
-            54.147781
+            -4.502461,
+            54.147772
           ],
           [
-            -4.502264,
-            54.147643
+            -4.502235,
+            54.147641
           ]
         ]
       },
@@ -143052,6 +143567,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 624386",
         "name": "Swift Motors Ltd workshop",
+        "roof:colour": "#cdcfba",
         "shop": "car_repair"
       }
     },
@@ -143062,8 +143578,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.502199,
-            54.147937
+            -4.502182,
+            54.147927
           ],
           [
             -4.50194,
@@ -143078,8 +143594,8 @@
             54.14784
           ],
           [
-            -4.502199,
-            54.147937
+            -4.502182,
+            54.147927
           ]
         ]
       },
@@ -143088,7 +143604,8 @@
         "addr:country": "IM",
         "addr:place": "Middle River Industrial Estate",
         "addr:postcode": "IM2 1AL",
-        "building": "industrial"
+        "building": "industrial",
+        "roof:colour": "#cdcfba"
       }
     },
     {
@@ -143130,6 +143647,7 @@
         "contact:phone": "+44 1624 671671",
         "contact:website": "https://www.bottomlinemarine.com/",
         "name": "BottomLine Marine",
+        "roof:colour": "#e3e3e1",
         "shop": "boat",
         "website": "https://www.bottomlinemarine.com/"
       }
@@ -143172,6 +143690,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 616478",
         "name": "Ace Home;Ace Carpets",
+        "roof:colour": "#e3e3e1",
         "shop": "flooring;carpet"
       }
     },
@@ -143213,6 +143732,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 675596",
         "name": "A&J Quality Butchers Ltd",
+        "roof:colour": "#e3e3e1",
         "shop": "butcher"
       }
     },
@@ -143251,7 +143771,8 @@
         "addr:plot": "6A",
         "addr:postcode": "IM2 1AL",
         "addr:unit": "3",
-        "building": "industrial"
+        "building": "industrial",
+        "roof:colour": "#e3e3e1"
       }
     },
     {
@@ -143289,7 +143810,8 @@
         "addr:plot": "6A",
         "addr:postcode": "IM2 1AL",
         "addr:unit": "6",
-        "building": "industrial"
+        "building": "industrial",
+        "roof:colour": "#e3e3e1"
       }
     },
     {
@@ -143327,7 +143849,8 @@
         "addr:plot": "6A",
         "addr:postcode": "IM2 1AL",
         "addr:unit": "4",
-        "building": "industrial"
+        "building": "industrial",
+        "roof:colour": "#e3e3e1"
       }
     },
     {
@@ -143365,7 +143888,8 @@
         "addr:plot": "6A",
         "addr:postcode": "IM2 1AL",
         "addr:unit": "7",
-        "building": "industrial"
+        "building": "industrial",
+        "roof:colour": "#e3e3e1"
       }
     },
     {
@@ -150165,6 +150689,709 @@
         "source": "microsoft/BuildingFootprints",
         "source:addr:housenumber": "visible on streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365459,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675431,
+            54.226792
+          ],
+          [
+            -4.675372,
+            54.226826
+          ],
+          [
+            -4.675289,
+            54.226777
+          ],
+          [
+            -4.675348,
+            54.226743
+          ],
+          [
+            -4.675431,
+            54.226792
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365460,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.67519,
+            54.226817
+          ],
+          [
+            -4.675259,
+            54.226789
+          ],
+          [
+            -4.675336,
+            54.226854
+          ],
+          [
+            -4.675267,
+            54.226882
+          ],
+          [
+            -4.67519,
+            54.226817
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365461,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675297,
+            54.226403
+          ],
+          [
+            -4.675386,
+            54.226382
+          ],
+          [
+            -4.675433,
+            54.22645
+          ],
+          [
+            -4.675343,
+            54.226471
+          ],
+          [
+            -4.675297,
+            54.226403
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "25",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365462,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674937,
+            54.226206
+          ],
+          [
+            -4.675003,
+            54.226189
+          ],
+          [
+            -4.675054,
+            54.226258
+          ],
+          [
+            -4.674988,
+            54.226275
+          ],
+          [
+            -4.674937,
+            54.226206
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365463,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674855,
+            54.226309
+          ],
+          [
+            -4.674788,
+            54.226326
+          ],
+          [
+            -4.674737,
+            54.226257
+          ],
+          [
+            -4.674804,
+            54.22624
+          ],
+          [
+            -4.674855,
+            54.226309
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365464,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674804,
+            54.22624
+          ],
+          [
+            -4.67487,
+            54.226223
+          ],
+          [
+            -4.674921,
+            54.226292
+          ],
+          [
+            -4.674855,
+            54.226309
+          ],
+          [
+            -4.674804,
+            54.22624
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365465,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675166,
+            54.226222
+          ],
+          [
+            -4.675081,
+            54.226242
+          ],
+          [
+            -4.675031,
+            54.226168
+          ],
+          [
+            -4.675117,
+            54.226148
+          ],
+          [
+            -4.675166,
+            54.226222
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "32",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365466,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674616,
+            54.226435
+          ],
+          [
+            -4.674568,
+            54.226464
+          ],
+          [
+            -4.674468,
+            54.226406
+          ],
+          [
+            -4.674516,
+            54.226378
+          ],
+          [
+            -4.674616,
+            54.226435
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365467,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674564,
+            54.226349
+          ],
+          [
+            -4.674612,
+            54.22632
+          ],
+          [
+            -4.674712,
+            54.226378
+          ],
+          [
+            -4.674664,
+            54.226407
+          ],
+          [
+            -4.674564,
+            54.226349
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365468,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674612,
+            54.22632
+          ],
+          [
+            -4.67466,
+            54.226292
+          ],
+          [
+            -4.67476,
+            54.226349
+          ],
+          [
+            -4.674712,
+            54.226378
+          ],
+          [
+            -4.674612,
+            54.22632
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674347,
+            54.226609
+          ],
+          [
+            -4.674277,
+            54.226635
+          ],
+          [
+            -4.674205,
+            54.226569
+          ],
+          [
+            -4.674275,
+            54.226543
+          ],
+          [
+            -4.674347,
+            54.226609
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365470,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674345,
+            54.226517
+          ],
+          [
+            -4.674415,
+            54.22649
+          ],
+          [
+            -4.674488,
+            54.226557
+          ],
+          [
+            -4.674418,
+            54.226583
+          ],
+          [
+            -4.674345,
+            54.226517
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365471,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674415,
+            54.22649
+          ],
+          [
+            -4.674486,
+            54.226464
+          ],
+          [
+            -4.674558,
+            54.226531
+          ],
+          [
+            -4.674488,
+            54.226557
+          ],
+          [
+            -4.674415,
+            54.22649
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365472,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674959,
+            54.227084
+          ],
+          [
+            -4.674894,
+            54.227112
+          ],
+          [
+            -4.674808,
+            54.227041
+          ],
+          [
+            -4.674874,
+            54.227014
+          ],
+          [
+            -4.674959,
+            54.227084
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365473,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675005,
+            54.22696
+          ],
+          [
+            -4.67507,
+            54.226932
+          ],
+          [
+            -4.675156,
+            54.227003
+          ],
+          [
+            -4.67509,
+            54.22703
+          ],
+          [
+            -4.675005,
+            54.22696
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365474,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.67509,
+            54.22703
+          ],
+          [
+            -4.675025,
+            54.227057
+          ],
+          [
+            -4.674939,
+            54.226987
+          ],
+          [
+            -4.675005,
+            54.22696
+          ],
+          [
+            -4.67509,
+            54.22703
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365475,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674755,
+            54.226763
+          ],
+          [
+            -4.674681,
+            54.226792
+          ],
+          [
+            -4.674602,
+            54.226722
+          ],
+          [
+            -4.674676,
+            54.226693
+          ],
+          [
+            -4.674755,
+            54.226763
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365476,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.674938,
+            54.226596
+          ],
+          [
+            -4.674895,
+            54.226556
+          ],
+          [
+            -4.675003,
+            54.226517
+          ],
+          [
+            -4.675046,
+            54.226557
+          ],
+          [
+            -4.674938,
+            54.226596
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1255365477,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.675029,
+            54.226703
+          ],
+          [
+            -4.674987,
+            54.226662
+          ],
+          [
+            -4.675095,
+            54.226624
+          ],
+          [
+            -4.675138,
+            54.226664
+          ],
+          [
+            -4.675029,
+            54.226703
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "29",
+        "addr:postcode": "IM5 1UX",
+        "addr:street": "McLeod's Field",
+        "building": "house"
       }
     },
     {

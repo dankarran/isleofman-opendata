@@ -124,29 +124,6 @@
     },
     {
       "type": "Feature",
-      "id": 496611432,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.691552,
-          54.22404
-        ]
-      },
-      "properties": {
-        "currency:XBT": "yes",
-        "name": "Skillan Naylor Showroom",
-        "payment:lightning": "no",
-        "payment:lightning_contactless": "no",
-        "payment:onchain": "yes",
-        "phone": "+441624626200",
-        "postal_code": "IM5 1PA",
-        "shop": "car",
-        "survey:date": "2022-09-23",
-        "website": "https://sncc.im/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 498461703,
       "geometry": {
         "type": "Point",
@@ -1262,6 +1239,7 @@
       },
       "properties": {
         "brand": "WHSmith",
+        "brand:website": "https://www.whsmithplc.co.uk/",
         "brand:wikidata": "Q1548712",
         "brand:wikipedia": "en:WHSmith",
         "name": "WHSmith",
@@ -5623,8 +5601,8 @@
             54.147887
           ],
           [
-            -4.502388,
-            54.147445
+            -4.502355,
+            54.147438
           ],
           [
             -4.502679,
@@ -5644,6 +5622,7 @@
         "addr:postcode": "IM2 1AL",
         "building": "yes",
         "name": "MacBlair",
+        "roof:colour": "#cdcfba",
         "shop": "trade",
         "source": "Isle of Man Government aerial imagery (2001)",
         "trade": "building_supplies",
@@ -5741,6 +5720,7 @@
         "addr:postcode": "IM2 1AL",
         "building": "industrial",
         "name": "Riverside Ceramics Ltd",
+        "roof:colour": "#cdcfba",
         "shop": "trade",
         "source": "Isle of Man Government aerial imagery (2001)",
         "trade": "tiles"
@@ -15770,24 +15750,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.526003,
-            54.149168
+            -4.526056,
+            54.149169
           ],
           [
-            -4.526157,
-            54.148894
+            -4.526209,
+            54.148895
           ],
           [
-            -4.525712,
-            54.148809
+            -4.525764,
+            54.14881
           ],
           [
-            -4.525558,
-            54.149082
+            -4.525611,
+            54.149083
           ],
           [
-            -4.526003,
-            54.149168
+            -4.526056,
+            54.149169
           ]
         ]
       },
@@ -17467,6 +17447,7 @@
         "contact:website": "https://www.autocrashltd.im/",
         "name": "Autocrash accident repair centre",
         "opening_hours": "Mo-Th 08:30-17:30, Fr 08:30-16:30",
+        "roof:colour": "#cdcfba",
         "shop": "car_repair"
       }
     },
@@ -24190,28 +24171,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.502341,
-            54.147859
+            -4.502323,
+            54.14785
           ],
           [
-            -4.502199,
-            54.147937
+            -4.502182,
+            54.147927
           ],
           [
             -4.502042,
             54.14784
           ],
           [
-            -4.501977,
-            54.147799
+            -4.501957,
+            54.147788
           ],
           [
-            -4.502121,
-            54.147721
+            -4.502098,
+            54.147713
           ],
           [
-            -4.502341,
-            54.147859
+            -4.502323,
+            54.14785
           ]
         ]
       },
@@ -24225,6 +24206,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 671199",
         "name": "Swift Motors Ltd",
+        "roof:colour": "#cdcfba",
         "shop": "car",
         "website": "http://www.swiftmotors.net/"
       }
@@ -24267,6 +24249,7 @@
         "brand:wikidata": "Q116495226",
         "building": "industrial",
         "name": "CEF",
+        "roof:colour": "#e3e3e1",
         "shop": "trade",
         "trade": "electrical",
         "website": "https://www.cef.co.uk/stores/iom"
@@ -24355,6 +24338,7 @@
         "addr:unit": "9-10",
         "building": "industrial",
         "name": "AutoLogic vehicle servicing and repairs",
+        "roof:colour": "#e3e3e1",
         "shop": "car_repair",
         "website": "https://www.autologic.im/"
       }
@@ -26262,32 +26246,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.502264,
-            54.147643
+            -4.502235,
+            54.147641
           ],
           [
-            -4.50239,
-            54.147575
+            -4.502371,
+            54.147568
           ],
           [
-            -4.502407,
-            54.147565
-          ],
-          [
-            -4.502627,
+            -4.502587,
             54.147703
           ],
           [
-            -4.502591,
-            54.147723
+            -4.502548,
+            54.147728
           ],
           [
-            -4.502484,
-            54.147781
+            -4.502461,
+            54.147772
           ],
           [
-            -4.502264,
-            54.147643
+            -4.502235,
+            54.147641
           ]
         ]
       },
@@ -26301,6 +26281,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 624386",
         "name": "Swift Motors Ltd workshop",
+        "roof:colour": "#cdcfba",
         "shop": "car_repair"
       }
     },
@@ -26343,6 +26324,7 @@
         "contact:phone": "+44 1624 671671",
         "contact:website": "https://www.bottomlinemarine.com/",
         "name": "BottomLine Marine",
+        "roof:colour": "#e3e3e1",
         "shop": "boat",
         "website": "https://www.bottomlinemarine.com/"
       }
@@ -26385,6 +26367,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 616478",
         "name": "Ace Home;Ace Carpets",
+        "roof:colour": "#e3e3e1",
         "shop": "flooring;carpet"
       }
     },
@@ -26426,6 +26409,7 @@
         "building": "industrial",
         "contact:phone": "+44 1624 675596",
         "name": "A&J Quality Butchers Ltd",
+        "roof:colour": "#e3e3e1",
         "shop": "butcher"
       }
     },

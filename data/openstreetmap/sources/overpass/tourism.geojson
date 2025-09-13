@@ -3860,7 +3860,9 @@
         ]
       },
       "properties": {
+        "board_type": "history",
         "information": "board",
+        "name": "Douglas Head",
         "tourism": "information"
       }
     },
@@ -3875,7 +3877,9 @@
         ]
       },
       "properties": {
+        "board_type": "history",
         "information": "board",
+        "name": "\"They shall grow not old...\"",
         "tourism": "information"
       }
     },
@@ -4838,6 +4842,38 @@
         "name": "RNLI Community Mosaic",
         "start_date": "2024-09-29",
         "tourism": "artwork"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13102566469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.706065,
+          54.096279
+        ]
+      },
+      "properties": {
+        "information": "board",
+        "name": "Romance of The Colby River Trail",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13102566470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.706015,
+          54.096148
+        ]
+      },
+      "properties": {
+        "information": "board",
+        "name": "Romance of The Colby River Trail",
+        "tourism": "information"
       }
     },
     {
@@ -13524,6 +13560,7 @@
         ]
       },
       "properties": {
+        "check_date:opening_hours": "2025-09-01",
         "contact:facebook": "https://www.facebook.com/Manx-Electric-Railway-Museum-675560865868301/",
         "fee": "no",
         "name": "M.E.R. Museum",

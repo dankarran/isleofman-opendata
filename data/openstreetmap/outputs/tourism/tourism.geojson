@@ -4955,7 +4955,9 @@
         ]
       },
       "properties": {
+        "board_type": "history",
         "information": "board",
+        "name": "Douglas Head",
         "tourism": "information",
         "osm_id": 11009081313,
         "lon": -4.467837,
@@ -4975,7 +4977,9 @@
         ]
       },
       "properties": {
+        "board_type": "history",
         "information": "board",
+        "name": "\"They shall grow not old...\"",
         "tourism": "information",
         "osm_id": 11009081344,
         "lon": -4.46892,
@@ -6218,6 +6222,48 @@
         "lat": 54.07701,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12766378822"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13102566469,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.706065,
+          54.096279
+        ]
+      },
+      "properties": {
+        "information": "board",
+        "name": "Romance of The Colby River Trail",
+        "tourism": "information",
+        "osm_id": 13102566469,
+        "lon": -4.706065,
+        "lat": 54.096279,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13102566469"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13102566470,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.706015,
+          54.096148
+        ]
+      },
+      "properties": {
+        "information": "board",
+        "name": "Romance of The Colby River Trail",
+        "tourism": "information",
+        "osm_id": 13102566470,
+        "lon": -4.706015,
+        "lat": 54.096148,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13102566470"
       }
     },
     {
@@ -15564,6 +15610,7 @@
         ]
       },
       "properties": {
+        "check_date:opening_hours": "2025-09-01",
         "contact:facebook": "https://www.facebook.com/Manx-Electric-Railway-Museum-675560865868301/",
         "fee": "no",
         "name": "M.E.R. Museum",

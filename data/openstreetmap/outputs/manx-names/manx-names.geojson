@@ -10990,12 +10990,8 @@
             54.22674
           ],
           [
-            -4.392075,
-            54.226721
-          ],
-          [
-            -4.39203,
-            54.22667
+            -4.392049,
+            54.226709
           ]
         ]
       },
@@ -11010,8 +11006,8 @@
         "ref": "B1",
         "surface": "asphalt",
         "osm_id": 25986199,
-        "lon": -4.393654473344037,
-        "lat": 54.227782885769095,
+        "lon": -4.393670918003373,
+        "lat": 54.2277941821294,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986199"
       }
@@ -12302,11 +12298,12 @@
       "properties": {
         "abutters": "residential",
         "highway": "residential",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "Athol Park",
         "name:en": "Athol Park",
         "name:gv": "Pairk Athol",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25986455,
         "lon": -4.7585225,
         "lat": 54.084387,
@@ -24325,6 +24322,55 @@
     },
     {
       "type": "Feature",
+      "id": 25987579,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473661,
+            54.160792
+          ],
+          [
+            -4.473694,
+            54.160806
+          ],
+          [
+            -4.47373,
+            54.16082
+          ],
+          [
+            -4.47376,
+            54.160833
+          ],
+          [
+            -4.473826,
+            54.160861
+          ],
+          [
+            -4.47424,
+            54.161034
+          ],
+          [
+            -4.474856,
+            54.161285
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Mona Drive",
+        "name:gv": "Imman Mona",
+        "oneway": "yes",
+        "osm_id": 25987579,
+        "lon": -4.474257949851596,
+        "lat": 54.16103981402,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987579"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987589,
       "geometry": {
         "type": "LineString",
@@ -25115,6 +25161,7 @@
       "properties": {
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Peveril Square",
         "name:en": "Peveril Square",
@@ -25336,12 +25383,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.748339,
-            54.071692
+            -4.74831,
+            54.071702
+          ],
+          [
+            -4.748022,
+            54.071482
           ],
           [
             -4.747996,
             54.07144
+          ],
+          [
+            -4.747978,
+            54.071382
           ],
           [
             -4.747976,
@@ -25361,8 +25416,8 @@
         "source:postal_code": "Isle of Man Government Planning Applications",
         "surface": "paved",
         "osm_id": 25987760,
-        "lon": -4.748119664796305,
-        "lat": 54.07151289369949,
+        "lon": -4.748101980781957,
+        "lat": 54.07151893471095,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987760"
       }
@@ -25444,6 +25499,7 @@
       "properties": {
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Bath Place",
         "name:en": "Bath Place",
@@ -30273,28 +30329,48 @@
             54.071538
           ],
           [
+            -4.749467,
+            54.071519
+          ],
+          [
             -4.749365,
-            54.071441
+            54.071462
           ],
           [
-            -4.749241,
-            54.07134
+            -4.749296,
+            54.07141
           ],
           [
-            -4.74912,
-            54.071172
+            -4.749237,
+            54.071352
           ],
           [
-            -4.749029,
-            54.071154
+            -4.749113,
+            54.071195
           ],
           [
-            -4.748907,
-            54.071156
+            -4.749085,
+            54.071177
           ],
           [
-            -4.748295,
-            54.071243
+            -4.74904,
+            54.071168
+          ],
+          [
+            -4.748981,
+            54.071168
+          ],
+          [
+            -4.748914,
+            54.071173
+          ],
+          [
+            -4.748537,
+            54.071224
+          ],
+          [
+            -4.748291,
+            54.07126
           ]
         ]
       },
@@ -30308,8 +30384,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 25988390,
-        "lon": -4.748963703846471,
-        "lat": 54.07126902993932,
+        "lon": -4.748959068665626,
+        "lat": 54.071286088667144,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988390"
       }
@@ -30672,12 +30748,12 @@
             54.087342
           ],
           [
-            -4.748221,
-            54.087503
+            -4.748159,
+            54.08754
           ],
           [
-            -4.748419,
-            54.087607
+            -4.748254,
+            54.087574
           ],
           [
             -4.748635,
@@ -30709,8 +30785,8 @@
         "name:gv": "Magher Rosien",
         "surface": "paved",
         "osm_id": 25988457,
-        "lon": -4.748280012030352,
-        "lat": 54.08747215362859,
+        "lon": -4.7482719596767105,
+        "lat": 54.087480049514994,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988457"
       }
@@ -33470,6 +33546,84 @@
     },
     {
       "type": "Feature",
+      "id": 25988624,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475575,
+            54.163183
+          ],
+          [
+            -4.475544,
+            54.163102
+          ],
+          [
+            -4.475561,
+            54.162937
+          ],
+          [
+            -4.475626,
+            54.162851
+          ],
+          [
+            -4.475882,
+            54.162664
+          ],
+          [
+            -4.476078,
+            54.162504
+          ],
+          [
+            -4.4761,
+            54.162418
+          ],
+          [
+            -4.476032,
+            54.162262
+          ],
+          [
+            -4.475835,
+            54.162072
+          ],
+          [
+            -4.475526,
+            54.161848
+          ],
+          [
+            -4.475421,
+            54.161582
+          ],
+          [
+            -4.475172,
+            54.161432
+          ],
+          [
+            -4.474856,
+            54.161285
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "lane_markings": "no",
+        "maxspeed": "30 mph",
+        "maxweight": "3",
+        "maxweight:destination": "none",
+        "name": "Mona Drive",
+        "name:gv": "Imman Mona",
+        "oneway": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "surface": "asphalt",
+        "osm_id": 25988624,
+        "lon": -4.475617673275274,
+        "lat": 54.16215643547335,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988624"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988629,
       "geometry": {
         "type": "LineString",
@@ -34020,7 +34174,7 @@
         "name:en": "Mount Murray Back Road",
         "name:gv": "Raad Cooyl Cronk Murray",
         "ref": "C21",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988714,
         "lon": -4.5617675,
         "lat": 54.135344,
@@ -34695,6 +34849,7 @@
         ]
       },
       "properties": {
+        "access": "private",
         "bicycle": "yes",
         "highway": "unclassified",
         "name": "Trollaby Lane",
@@ -37752,6 +37907,40 @@
     },
     {
       "type": "Feature",
+      "id": 25989156,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.721083,
+            54.090172
+          ],
+          [
+            -4.720881,
+            54.090137
+          ],
+          [
+            -4.720422,
+            54.090372
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Strawberry Meadows",
+        "name:gv": "Lheeantyn Soo-Thallooin",
+        "surface": "paved",
+        "osm_id": 25989156,
+        "lon": -4.720745517619135,
+        "lat": 54.09022605291402,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989156"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989174,
       "geometry": {
         "type": "LineString",
@@ -39306,6 +39495,14 @@
             54.091877
           ],
           [
+            -4.721326,
+            54.091933
+          ],
+          [
+            -4.721345,
+            54.091984
+          ],
+          [
             -4.721387,
             54.092093
           ],
@@ -39328,8 +39525,8 @@
         "source": "Isle of Man Government 1:25000 map (2007); Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 25989343,
-        "lon": -4.718795756676411,
-        "lat": 54.08965010389694,
+        "lon": -4.718795750283423,
+        "lat": 54.08965010754006,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989343"
       }
@@ -41321,11 +41518,12 @@
         "abutters": "residential",
         "highway": "secondary",
         "lane_markings": "no",
+        "lit": "yes",
         "name": "Church Hill",
         "name:en": "Church Hill",
         "name:gv": "Cronk Ny Killey",
         "ref": "B58",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25989492,
         "lon": -4.406384538588488,
         "lat": 54.231675903246646,
@@ -41344,8 +41542,8 @@
             54.087579
           ],
           [
-            -4.748221,
-            54.087503
+            -4.748159,
+            54.08754
           ]
         ]
       },
@@ -41357,8 +41555,8 @@
         "name:gv": "Magher Rosien",
         "surface": "paved",
         "osm_id": 25989497,
-        "lon": -4.7481105,
-        "lat": 54.087541,
+        "lon": -4.7480795,
+        "lat": 54.087559500000005,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989497"
       }
@@ -42078,6 +42276,7 @@
         "abutters": "residential",
         "highway": "secondary",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "20 mph",
         "name": "Tent Road",
         "name:en": "Tent Road",
@@ -46222,6 +46421,7 @@
       "properties": {
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Peveril Square",
         "name:en": "Peveril Square",
@@ -50277,6 +50477,7 @@
         "abutters": "commercial",
         "highway": "primary",
         "lanes": "1",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Victoria Street",
         "name:en": "Victoria Street",
@@ -51021,7 +51222,7 @@
         "name": "Shore Road",
         "name:en": "Shore Road",
         "name:gv": "Bayr Ny Traie",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 38773783,
         "lon": -4.760233276751696,
         "lat": 54.084969745124084,
@@ -51693,6 +51894,7 @@
         "cycleway:left": "no",
         "highway": "secondary",
         "lane_markings": "no",
+        "lit": "yes",
         "maxheight": "12'8\"",
         "name": "Church Hill",
         "name:en": "Church Hill",
@@ -51731,6 +51933,7 @@
         "abutters": "residential",
         "highway": "secondary",
         "lane_markings": "no",
+        "lit": "yes",
         "maxspeed": "20 mph",
         "name": "Church Hill",
         "name:en": "Church Hill",
@@ -53233,11 +53436,15 @@
           ],
           [
             -4.488558,
-            54.147044
+            54.147051
           ],
           [
             -4.489194,
             54.14705
+          ],
+          [
+            -4.489243,
+            54.147061
           ],
           [
             -4.489512,
@@ -53262,8 +53469,8 @@
         "ref": "B81",
         "surface": "paved",
         "osm_id": 54428685,
-        "lon": -4.487809291369137,
-        "lat": 54.147060617507336,
+        "lon": -4.487809284835696,
+        "lat": 54.14706185986396,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/54428685"
       }
@@ -55936,7 +56143,6 @@
         "opening_hours": "05:30-21:30",
         "operator": "The Isle of Man Department of Transport - Airports Division",
         "phone": "+44 1624 821600",
-        "ref": "IOM",
         "source": "wikipedia",
         "website": "http://www.iom-airport.com/",
         "wikidata": "Q9001",
@@ -57506,8 +57712,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.629345,
-            54.095785
+            -4.629347,
+            54.095786
           ],
           [
             -4.629036,
@@ -57537,8 +57743,8 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "tracks": "1",
         "osm_id": 64104048,
-        "lon": -4.6283598050045605,
-        "lat": 54.096468706641225,
+        "lon": -4.628360379475952,
+        "lat": 54.09646847746602,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/64104048"
       }
@@ -58625,16 +58831,16 @@
             54.095654
           ],
           [
-            -4.629508,
-            54.095686
+            -4.629501,
+            54.095689
           ],
           [
             -4.629456,
             54.09572
           ],
           [
-            -4.629345,
-            54.095785
+            -4.629347,
+            54.095786
           ]
         ]
       },
@@ -58648,8 +58854,8 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "tracks": "1",
         "osm_id": 64104062,
-        "lon": -4.639593748878412,
-        "lat": 54.08903637256722,
+        "lon": -4.639594182429344,
+        "lat": 54.08903608961432,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/64104062"
       }
@@ -63115,118 +63321,6 @@
           [
             -4.738142,
             54.076986
-          ],
-          [
-            -4.738022,
-            54.076959
-          ],
-          [
-            -4.737929,
-            54.076947
-          ],
-          [
-            -4.737775,
-            54.076934
-          ],
-          [
-            -4.737713,
-            54.076936
-          ],
-          [
-            -4.737656,
-            54.076917
-          ],
-          [
-            -4.737614,
-            54.07688
-          ],
-          [
-            -4.737379,
-            54.07657
-          ],
-          [
-            -4.737337,
-            54.076398
-          ],
-          [
-            -4.737302,
-            54.076275
-          ],
-          [
-            -4.737178,
-            54.076109
-          ],
-          [
-            -4.73711,
-            54.076015
-          ],
-          [
-            -4.737054,
-            54.075964
-          ],
-          [
-            -4.736996,
-            54.075947
-          ],
-          [
-            -4.736937,
-            54.075941
-          ],
-          [
-            -4.736842,
-            54.075946
-          ],
-          [
-            -4.736798,
-            54.075944
-          ],
-          [
-            -4.736768,
-            54.075936
-          ],
-          [
-            -4.736749,
-            54.075919
-          ],
-          [
-            -4.736738,
-            54.075897
-          ],
-          [
-            -4.736737,
-            54.075884
-          ],
-          [
-            -4.73674,
-            54.075874
-          ],
-          [
-            -4.736758,
-            54.075865
-          ],
-          [
-            -4.736836,
-            54.075828
-          ],
-          [
-            -4.736958,
-            54.075768
-          ],
-          [
-            -4.737033,
-            54.075722
-          ],
-          [
-            -4.737161,
-            54.07558
-          ],
-          [
-            -4.737192,
-            54.075503
-          ],
-          [
-            -4.737341,
-            54.075129
           ]
         ]
       },
@@ -63240,8 +63334,8 @@
         "name:gv": "Cassan Karran as Quirk",
         "surface": "paved",
         "osm_id": 101790187,
-        "lon": -4.737505101316894,
-        "lat": 54.076427969282825,
+        "lon": -4.738217547726525,
+        "lat": 54.07733676338224,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/101790187"
       }
@@ -63709,12 +63803,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.747029,
-            54.087035
+            -4.746981,
+            54.087058
           ],
           [
-            -4.746913,
-            54.087076
+            -4.746929,
+            54.087086
           ],
           [
             -4.746694,
@@ -63769,8 +63863,8 @@
         "name:gv": "Magherbreekyn",
         "surface": "paved",
         "osm_id": 104182762,
-        "lon": -4.746651316778368,
-        "lat": 54.087372781463074,
+        "lon": -4.746638210875331,
+        "lat": 54.08738726373375,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/104182762"
       }
@@ -69904,8 +69998,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.748295,
-            54.071243
+            -4.748291,
+            54.07126
           ],
           [
             -4.747976,
@@ -69927,8 +70021,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 158617624,
-        "lon": -4.747733128183025,
-        "lat": 54.07127386161631,
+        "lon": -4.7477304283286905,
+        "lat": 54.07127629621957,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/158617624"
       }
@@ -71494,7 +71588,7 @@
         "name:en": "Mount Murray Back Road",
         "name:gv": "Raad Cooyl Cronk Murray",
         "ref": "C21",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 161614774,
         "lon": -4.56209738212536,
         "lat": 54.13847511782718,
@@ -73745,7 +73839,7 @@
         "name": "Shore Road",
         "name:en": "Shore Road",
         "name:gv": "Raad y Traie",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 163443125,
         "lon": -4.761489986129606,
         "lat": 54.084260019138824,
@@ -77975,8 +78069,8 @@
             54.179329
           ],
           [
-            -4.519351,
-            54.1794
+            -4.519332,
+            54.179419
           ]
         ]
       },
@@ -77989,8 +78083,8 @@
         "name:gv": "Balley Millaghan",
         "surface": "asphalt",
         "osm_id": 167025103,
-        "lon": -4.5194423560046895,
-        "lat": 54.17935172307951,
+        "lon": -4.51943239469163,
+        "lat": 54.17936039658646,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167025103"
       }
@@ -78002,84 +78096,108 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.519351,
-            54.1794
+            -4.519332,
+            54.179419
           ],
           [
-            -4.519216,
-            54.179445
+            -4.519198,
+            54.179464
           ],
           [
-            -4.518896,
-            54.17946
+            -4.518878,
+            54.179479
           ],
           [
-            -4.517855,
+            -4.518582,
+            54.179493
+          ],
+          [
+            -4.518271,
             54.179507
           ],
           [
-            -4.517158,
+            -4.518158,
+            54.179512
+          ],
+          [
+            -4.518076,
+            54.179516
+          ],
+          [
+            -4.517837,
+            54.179526
+          ],
+          [
+            -4.517582,
             54.179538
           ],
           [
-            -4.517074,
-            54.179536
+            -4.51714,
+            54.179558
           ],
           [
-            -4.517024,
-            54.17952
+            -4.517068,
+            54.179556
           ],
           [
-            -4.516975,
-            54.179498
+            -4.51703,
+            54.179551
           ],
           [
-            -4.516952,
-            54.17946
+            -4.517006,
+            54.179539
           ],
           [
-            -4.516915,
-            54.1791
+            -4.516957,
+            54.179518
           ],
           [
-            -4.516943,
-            54.179049
+            -4.516934,
+            54.179479
           ],
           [
-            -4.517001,
-            54.179023
+            -4.516896,
+            54.17912
           ],
           [
-            -4.517063,
-            54.179017
+            -4.516925,
+            54.179068
           ],
           [
-            -4.517553,
-            54.178995
+            -4.516982,
+            54.179042
           ],
           [
-            -4.517605,
-            54.179004
+            -4.517045,
+            54.179036
           ],
           [
-            -4.517643,
+            -4.517534,
             54.179015
           ],
           [
-            -4.517693,
+            -4.517587,
+            54.179023
+          ],
+          [
+            -4.517624,
             54.179035
           ],
           [
-            -4.517723,
-            54.179067
+            -4.517674,
+            54.179054
           ],
           [
-            -4.51775,
-            54.179108
+            -4.517704,
+            54.179086
           ],
           [
-            -4.517855,
-            54.179507
+            -4.517732,
+            54.179127
+          ],
+          [
+            -4.517837,
+            54.179526
           ]
         ]
       },
@@ -78094,8 +78212,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 167025105,
-        "lon": -4.517822652676459,
-        "lat": 54.179349596621364,
+        "lon": -4.517803915442077,
+        "lat": 54.17936900821798,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167025105"
       }
@@ -78107,8 +78225,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.518896,
-            54.17946
+            -4.518878,
+            54.179479
           ],
           [
             -4.518881,
@@ -78121,6 +78239,10 @@
           [
             -4.518818,
             54.179283
+          ],
+          [
+            -4.518705,
+            54.179182
           ],
           [
             -4.518622,
@@ -78141,8 +78263,8 @@
         "name:gv": "Balley Millaghan",
         "surface": "asphalt",
         "osm_id": 167025109,
-        "lon": -4.518744378424016,
-        "lat": 54.179240935255685,
+        "lon": -4.518747392858804,
+        "lat": 54.179247901020894,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/167025109"
       }
@@ -82190,6 +82312,7 @@
         "highway": "secondary",
         "layer": "1",
         "maxspeed": "30 mph",
+        "maxweight:signed": "no",
         "name": "Marine Drive",
         "name:en": "Marine Drive",
         "name:gv": "Imman ny Marrey",
@@ -82807,6 +82930,7 @@
       "properties": {
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Bath Place",
         "name:en": "Bath Place",
@@ -84200,8 +84324,60 @@
             54.071265
           ],
           [
+            -4.747096,
+            54.071283
+          ],
+          [
             -4.747025,
             54.0713
+          ],
+          [
+            -4.746787,
+            54.071454
+          ],
+          [
+            -4.746537,
+            54.071616
+          ],
+          [
+            -4.746431,
+            54.071684
+          ],
+          [
+            -4.746356,
+            54.071734
+          ],
+          [
+            -4.746338,
+            54.071745
+          ],
+          [
+            -4.74621,
+            54.071828
+          ],
+          [
+            -4.746155,
+            54.071863
+          ],
+          [
+            -4.746025,
+            54.071948
+          ],
+          [
+            -4.745935,
+            54.072006
+          ],
+          [
+            -4.745835,
+            54.072071
+          ],
+          [
+            -4.745789,
+            54.0721
+          ],
+          [
+            -4.745526,
+            54.072271
           ],
           [
             -4.744866,
@@ -84219,8 +84395,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 230512671,
-        "lon": -4.746008229932395,
-        "lat": 54.071959967436776,
+        "lon": -4.746008269872876,
+        "lat": 54.07196002804749,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/230512671"
       }
@@ -85052,13 +85228,15 @@
             54.226413
           ],
           [
-            -4.391975,
-            54.226501
+            -4.391942,
+            54.226511
           ]
         ]
       },
       "properties": {
         "highway": "secondary",
+        "lane_markings": "no",
+        "lit": "yes",
         "maxspeed": "20 mph",
         "name": "Old Laxey Hill",
         "name:en": "Old Laxey Hill",
@@ -85066,8 +85244,8 @@
         "ref": "B1",
         "surface": "asphalt",
         "osm_id": 235063250,
-        "lon": -4.391974755805101,
-        "lat": 54.2264149984774,
+        "lon": -4.3919656718388955,
+        "lat": 54.22642121016627,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/235063250"
       }
@@ -85175,6 +85353,7 @@
       "properties": {
         "highway": "secondary",
         "incline": "-14%",
+        "lit": "yes",
         "maxspeed": "20 mph",
         "name": "Old Laxey Hill",
         "name:en": "Old Laxey Hill",
@@ -88963,6 +89142,7 @@
         "abutters": "residential",
         "highway": "secondary",
         "lane_markings": "no",
+        "lit": "yes",
         "name": "Church Hill",
         "name:en": "Church Hill",
         "name:gv": "Cronk Ny Killey",
@@ -102560,20 +102740,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.629345,
-            54.095785
+            -4.629347,
+            54.095786
           ],
           [
             -4.629062,
             54.095979
           ],
           [
-            -4.628689,
-            54.096261
+            -4.628675,
+            54.096254
           ],
           [
-            -4.627983,
-            54.096775
+            -4.628545,
+            54.096351
+          ],
+          [
+            -4.628086,
+            54.09669
+          ],
+          [
+            -4.627977,
+            54.096773
+          ],
+          [
+            -4.627825,
+            54.096888
           ],
           [
             -4.627409,
@@ -102592,8 +102784,8 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "tracks": "1",
         "osm_id": 717696572,
-        "lon": -4.628374536944564,
-        "lat": 54.09648950073193,
+        "lon": -4.628371646256548,
+        "lat": 54.09648467786965,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/717696572"
       }
@@ -108674,6 +108866,7 @@
       "properties": {
         "highway": "primary",
         "lanes": "2",
+        "lit": "yes",
         "maxspeed": "30 mph",
         "name": "Bath Place",
         "name:en": "Bath Place",
@@ -114232,6 +114425,7 @@
         "alt_name": "Bayview Road",
         "alt_name:en": "Bayview Road",
         "highway": "secondary",
+        "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Bay View Road",
         "name:en": "Bay View Road",
@@ -114239,7 +114433,7 @@
         "ref": "B18",
         "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 1195111126,
         "lon": -4.7394795,
         "lat": 54.07759399999999,
@@ -120299,6 +120493,174 @@
         "lat": 54.14703799340452,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1419742278"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1426613426,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.73711,
+            54.076015
+          ],
+          [
+            -4.737054,
+            54.075964
+          ],
+          [
+            -4.736996,
+            54.075947
+          ],
+          [
+            -4.736937,
+            54.075941
+          ],
+          [
+            -4.736842,
+            54.075946
+          ],
+          [
+            -4.736798,
+            54.075944
+          ],
+          [
+            -4.736768,
+            54.075936
+          ],
+          [
+            -4.736749,
+            54.075919
+          ],
+          [
+            -4.736738,
+            54.075897
+          ],
+          [
+            -4.736737,
+            54.075884
+          ],
+          [
+            -4.73674,
+            54.075874
+          ],
+          [
+            -4.736758,
+            54.075865
+          ],
+          [
+            -4.736836,
+            54.075828
+          ],
+          [
+            -4.736958,
+            54.075768
+          ],
+          [
+            -4.737033,
+            54.075722
+          ],
+          [
+            -4.737161,
+            54.07558
+          ],
+          [
+            -4.737192,
+            54.075503
+          ],
+          [
+            -4.737341,
+            54.075129
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "The Cat Walk",
+        "designation": "public_footpath",
+        "foot": "designated",
+        "highway": "footway",
+        "name": "Karran and Quirk Footpath",
+        "name:en": "Karran and Quirk Footpath",
+        "name:gv": "Cassan Karran as Quirk",
+        "surface": "concrete",
+        "osm_id": 1426613426,
+        "lon": -4.737045246826983,
+        "lat": 54.075675623098626,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1426613426"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1426613566,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.738142,
+            54.076986
+          ],
+          [
+            -4.738022,
+            54.076959
+          ],
+          [
+            -4.737929,
+            54.076947
+          ],
+          [
+            -4.737775,
+            54.076934
+          ],
+          [
+            -4.737713,
+            54.076936
+          ],
+          [
+            -4.737656,
+            54.076917
+          ],
+          [
+            -4.737614,
+            54.07688
+          ],
+          [
+            -4.737379,
+            54.07657
+          ],
+          [
+            -4.737337,
+            54.076398
+          ],
+          [
+            -4.737302,
+            54.076275
+          ],
+          [
+            -4.737178,
+            54.076109
+          ],
+          [
+            -4.73711,
+            54.076015
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "The Cat Walk",
+        "designation": "public_footpath",
+        "foot": "designated",
+        "highway": "footway",
+        "name": "Karran and Quirk Footpath",
+        "name:en": "Karran and Quirk Footpath",
+        "name:gv": "Cassan Karran as Quirk",
+        "surface": "paved",
+        "osm_id": 1426613566,
+        "lon": -4.7375380400742095,
+        "lat": 54.07662303345152,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1426613566"
       }
     }
   ]
