@@ -621,6 +621,7 @@
         "fixme": "add numbering to relevant buildings, obtain registered building listing document",
         "listed_status": "Registered",
         "ref:registered_building": "108",
+        "url:registered_building": "https://www.gov.im/media/1379799/rb108-notice-of-registration_compressed.pdf",
         "wikidata": "Q118188797"
       }
     },
@@ -710,6 +711,35 @@
         "ref:registered_building": "317",
         "url:registered_building": "https://www.gov.im/media/1373635/317-notice-and-entry-summary.pdf",
         "wikidata": "Q118188719"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987744,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.632408,
+            54.101108
+          ],
+          [
+            -4.632121,
+            54.101049
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "highway": "footway",
+        "historic": "bridge",
+        "layer": "1",
+        "listed_status": "Registered",
+        "name": "Monks' Bridge",
+        "ref:registered_building": "345",
+        "start_date": "1134",
+        "url:registered_building": "https://pabc.gov.im/media/eszhwz3y/345-notice-and-entry-summary_compressed.pdf",
+        "wikidata": "Q120542429"
       }
     },
     {
@@ -1006,7 +1036,7 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/db977eec-ad95-4665-aa6b-323184f2bdf8",
-        "url:registered_building": "https://www.gov.im/media/631655/0500024regbldcastlerushen.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382253/rb24-notice-of-registration-and-reasons.pdf",
         "website": "https://manxnationalheritage.im/our-sites/castle-castletown/",
         "wheelchair": "limited",
         "wikidata": "Q2967821",
@@ -2814,7 +2844,7 @@
         "real_ale": "yes",
         "ref:registered_building": "25",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "url:registered_building": "https://www.gov.im/media/631661/0500025regbldcastlearmshotel.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382254/rb25-notice-of-registration-and-reasons.pdf",
         "website": "https://pubsandbars.im/venue/castle-arms/",
         "wikidata": "Q118188577"
       }
@@ -3388,7 +3418,7 @@
         "roof:material": "thatch",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
-        "url:registered_building": "https://www.gov.im/media/632789/0500008regbldthatchedcottages.pdf",
+        "url:registered_building": "https://www.gov.im/media/632789/rb8-registration-notice-and-entry-summary-221123.pdf",
         "wikidata": "Q118188791"
       }
     },
@@ -4090,6 +4120,105 @@
     },
     {
       "type": "Feature",
+      "id": 79141576,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481595,
+            54.150983
+          ],
+          [
+            -4.481401,
+            54.150905
+          ],
+          [
+            -4.481496,
+            54.150824
+          ],
+          [
+            -4.481421,
+            54.150768
+          ],
+          [
+            -4.481253,
+            54.150799
+          ],
+          [
+            -4.481248,
+            54.150768
+          ],
+          [
+            -4.481259,
+            54.150731
+          ],
+          [
+            -4.481275,
+            54.150698
+          ],
+          [
+            -4.481326,
+            54.150672
+          ],
+          [
+            -4.481395,
+            54.150664
+          ],
+          [
+            -4.48157,
+            54.150732
+          ],
+          [
+            -4.481627,
+            54.150732
+          ],
+          [
+            -4.481655,
+            54.150745
+          ],
+          [
+            -4.481675,
+            54.150773
+          ],
+          [
+            -4.481787,
+            54.150816
+          ],
+          [
+            -4.481595,
+            54.150983
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Legislative Buildings",
+        "addr:postcode": "IM1 3PW",
+        "addr:street": "Bucks Road",
+        "building": "government",
+        "building:colour": "white",
+        "building:levels": "4",
+        "building:material": "plaster",
+        "government": "parliament",
+        "listed_status": "Registered",
+        "name": "Tynwald",
+        "name:en": "Tynwald",
+        "name:gv": "Tinvaal",
+        "name:lt": "Tinvaldas",
+        "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
+        "office": "government",
+        "ref:registered_building": "340",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "tourism": "attraction",
+        "url:registered_building": "https://pabc.gov.im/media/swwddxkv/340-notice-and-entry-summary_compressed.pdf",
+        "website": "https://www.tynwald.org.im/",
+        "wikidata": "Q827704",
+        "wikipedia": "en:Tynwald"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 79141598,
       "geometry": {
         "type": "LineString",
@@ -4630,46 +4759,6 @@
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "url:registered_building": "https://www.gov.im/media/632393/0500198regbld9atholstreet.pdf",
         "wikidata": "Q118188682"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 79372990,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.501543,
-            54.155634
-          ],
-          [
-            -4.501758,
-            54.155578
-          ],
-          [
-            -4.50185,
-            54.1557
-          ],
-          [
-            -4.501635,
-            54.155756
-          ],
-          [
-            -4.501543,
-            54.155634
-          ]
-        ]
-      },
-      "properties": {
-        "alt_name": "The QB",
-        "amenity": "pub",
-        "building": "yes",
-        "listed_status": "Registered",
-        "name": "The Quarterbridge",
-        "ref:registered_building": "140",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "url:registered_building": "https://www.gov.im/media/632225/0500140regbld-quarterbridge-hotel-add.pdf",
-        "wikidata": "Q7269284"
       }
     },
     {
@@ -5559,7 +5648,7 @@
         "old_name": "Town Hall",
         "ref:registered_building": "17",
         "source": "survey;photo;Bing",
-        "url:registered_building": "https://www.gov.im/media/631649/0500017regbldmanannanhouse.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382151/rb17-registration-notice-and-entry-summary.pdf",
         "wikidata": "Q118188576"
       }
     },
@@ -7010,7 +7099,7 @@
         "ref:registered_building": "29",
         "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/1614d2c6-db45-4fe6-8ad2-8ae9bbd2ef2c",
-        "url:registered_building": "https://www.gov.im/media/631685/0500029regbldformerhouseofkeysb.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382257/rb29-notice-of-registration-and-reasons.pdf",
         "website": "https://manxnationalheritage.im/our-sites/old-house-of-keys/",
         "wheelchair": "limited",
         "wikidata": "Q2018393",
@@ -7569,7 +7658,7 @@
         "ref:registered_building": "28",
         "source": "Bing",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/631679/0500028regbldderbyhouse.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382256/rb28-notice-of-registration-and-reasons.pdf",
         "wikidata": "Q118188580"
       }
     },
@@ -10141,6 +10230,77 @@
     },
     {
       "type": "Feature",
+      "id": 112668233,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.589043,
+            54.284341
+          ],
+          [
+            -4.589085,
+            54.284308
+          ],
+          [
+            -4.589109,
+            54.284318
+          ],
+          [
+            -4.589235,
+            54.284218
+          ],
+          [
+            -4.589142,
+            54.284178
+          ],
+          [
+            -4.589105,
+            54.284208
+          ],
+          [
+            -4.589118,
+            54.284214
+          ],
+          [
+            -4.589067,
+            54.284255
+          ],
+          [
+            -4.589053,
+            54.284249
+          ],
+          [
+            -4.589016,
+            54.284278
+          ],
+          [
+            -4.589044,
+            54.28429
+          ],
+          [
+            -4.589002,
+            54.284323
+          ],
+          [
+            -4.589043,
+            54.284341
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "description:registered_building": "Kirk Michael Fire Station (Former Railway Station)",
+        "listed_status": "Registered",
+        "note": "Former Kirk Michael Railway Station",
+        "ref:registered_building": "344",
+        "start_date": "1879",
+        "url:registered_building": "https://pabc.gov.im/media/jufpzh1n/344-notice-and-entry-summary_compressed.pdf",
+        "was:building": "train_station"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 113495931,
       "geometry": {
         "type": "LineString",
@@ -11076,7 +11236,7 @@
         "religion": "christian",
         "source": "GPS waymark",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/633017/0500015regbldsantonparishchurch.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382150/rb15-registration-notice-and-entry-summary_compressed.pdf",
         "wikidata": "Q105170258"
       }
     },
@@ -11123,7 +11283,7 @@
         "old_name:gv": "Keeill ny-Traie",
         "ref:registered_building": "13",
         "religion": "christian",
-        "url:registered_building": "https://www.gov.im/media/1352399/0500013regbld-old-kirk-lonan.pdf",
+        "url:registered_building": "https://www.gov.im/media/1352399/rb13-registration-notice-and-entry-summary-221123.pdf",
         "wikidata": "Q7586691",
         "wikipedia": "en:St Adamnan's Church, Lonan"
       }
@@ -12230,7 +12390,7 @@
         "ref:registered_building": "14",
         "religion": "christian",
         "source": "Bing",
-        "url:registered_building": "https://www.gov.im/media/632615/0500014regbldmarownchurch.pdf",
+        "url:registered_building": "https://www.gov.im/media/1385910/rb14-registration-notice-and-entry-summary-081024_compressed.pdf",
         "wikidata": "Q30693226",
         "wikipedia": "en:Old St Runius, Marown"
       }
@@ -13293,6 +13453,47 @@
     },
     {
       "type": "Feature",
+      "id": 413097680,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488345,
+            54.147956
+          ],
+          [
+            -4.488343,
+            54.147988
+          ],
+          [
+            -4.488231,
+            54.147985
+          ],
+          [
+            -4.488234,
+            54.147953
+          ],
+          [
+            -4.488345,
+            54.147956
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "building:levels": "2",
+        "listed_status": "Registered",
+        "name": "Douglas Signal Box",
+        "railway": "signal_box",
+        "ref:registered_building": "352",
+        "roof:orientation": "along",
+        "roof:shape": "gabled",
+        "start_date": "1892",
+        "url:registered_building": "https://pabc.gov.im/media/vkxnsugb/352-notice-and-entry-summary_compressed.pdf"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 414637480,
       "geometry": {
         "type": "LineString",
@@ -13361,7 +13562,7 @@
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo;survey",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
         "takeaway": "yes",
-        "url:registered_building": "https://www.gov.im/media/631667/0500026regbldformercustomsoffice.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382255/rb26-notice-of-registration-and-reasons.pdf",
         "wikidata": "Q118188578"
       }
     },
@@ -13566,7 +13767,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "117",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/632699/0500117regbldkatescottage.pdf",
+        "url:registered_building": "https://www.gov.im/media/632699/rb-117-registration-notice-and-entry-summary-221123.pdf",
         "wikidata": "Q6375316",
         "wikipedia": "en:Kate's Cottage, Isle of Man"
       }
@@ -13994,6 +14195,94 @@
         "wikidata": "Q7270077",
         "wikimedia_commons": "Category:Ramsey Pier",
         "wikipedia": "en:Queen's Pier, Ramsey"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 763911384,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.405138,
+            54.230832
+          ],
+          [
+            -4.405314,
+            54.230819
+          ],
+          [
+            -4.405367,
+            54.23085
+          ],
+          [
+            -4.405416,
+            54.230884
+          ],
+          [
+            -4.405464,
+            54.230936
+          ],
+          [
+            -4.405501,
+            54.230988
+          ],
+          [
+            -4.40553,
+            54.231051
+          ],
+          [
+            -4.405596,
+            54.231228
+          ],
+          [
+            -4.40566,
+            54.231389
+          ],
+          [
+            -4.405697,
+            54.231496
+          ],
+          [
+            -4.40556,
+            54.231498
+          ],
+          [
+            -4.40539,
+            54.231063
+          ],
+          [
+            -4.405347,
+            54.230987
+          ],
+          [
+            -4.405309,
+            54.230941
+          ],
+          [
+            -4.405263,
+            54.230899
+          ],
+          [
+            -4.405192,
+            54.230856
+          ],
+          [
+            -4.405138,
+            54.230832
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "Manx Electric Railway Viaduct, Laxey",
+        "bridge:structure": "arch",
+        "layer": "1",
+        "listed_status": "Registered",
+        "man_made": "bridge",
+        "name": "Glen Roy Viaduct",
+        "ref:registered_building": "343",
+        "start_date": "1898",
+        "url:registered_building": "https://pabc.gov.im/media/cnzfffi3/343-notice-and-entry-summary_compressed.pdf"
       }
     },
     {
@@ -14689,47 +14978,6 @@
         "ref:registered_building": "336",
         "url:registered_building": "https://www.gov.im/media/1374669/rb336-ballavarry-farmhouse.pdf",
         "wikidata": "Q118188738"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 895195218,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.453116,
-            54.366436
-          ],
-          [
-            -4.452768,
-            54.366485
-          ],
-          [
-            -4.452737,
-            54.36641
-          ],
-          [
-            -4.453084,
-            54.36636
-          ],
-          [
-            -4.453116,
-            54.366436
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Andreas",
-        "addr:country": "IM",
-        "addr:housename": "Ballaradcliffe House",
-        "addr:postcode": "IM7 3EL",
-        "addr:street": "Kiondroghad Road",
-        "building": "house",
-        "listed_status": "Registered",
-        "ref:registered_building": "247",
-        "url:registered_building": "https://www.gov.im/media/631505/0500247regbldballaradcliffehouse.pdf",
-        "wikidata": "Q118188558"
       }
     },
     {
@@ -16065,7 +16313,7 @@
         "mapillary": "303999711165104",
         "ref:registered_building": "6",
         "roof:material": "thatch",
-        "url:registered_building": "https://www.gov.im/media/632837/0500006regbldprimrosethatchcottag.pdf",
+        "url:registered_building": "https://www.gov.im/media/1381279/rb6-primrose-thatched-cottage-st-mary-s-road-uploaded-301123_compressed.pdf",
         "wikidata": "Q118188802"
       }
     },
@@ -16105,7 +16353,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "7",
         "roof:material": "thatch",
-        "url:registered_building": "https://www.gov.im/media/632843/0500007regbldcottnygreiney.pdf",
+        "url:registered_building": "https://www.gov.im/media/1381280/rb7-cott-ny-greiney-beach-road-uploaded-301123_compressed.pdf",
         "wikidata": "Q118188803"
       }
     },
@@ -16147,6 +16395,120 @@
         "ref:registered_building": "220",
         "url:registered_building": "https://www.gov.im/media/632993/0500220regbld17bridgelane.pdf",
         "wikidata": "Q118188824"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1146123550,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.388063,
+            54.324697
+          ],
+          [
+            -4.388075,
+            54.32467
+          ],
+          [
+            -4.388092,
+            54.324565
+          ],
+          [
+            -4.38807,
+            54.324456
+          ],
+          [
+            -4.388021,
+            54.32433
+          ],
+          [
+            -4.388017,
+            54.324323
+          ],
+          [
+            -4.38794,
+            54.324171
+          ],
+          [
+            -4.388102,
+            54.324144
+          ],
+          [
+            -4.388167,
+            54.324301
+          ],
+          [
+            -4.388213,
+            54.324398
+          ],
+          [
+            -4.388272,
+            54.324528
+          ],
+          [
+            -4.388288,
+            54.324532
+          ],
+          [
+            -4.388295,
+            54.324549
+          ],
+          [
+            -4.388285,
+            54.324557
+          ],
+          [
+            -4.388307,
+            54.324618
+          ],
+          [
+            -4.388321,
+            54.32463
+          ],
+          [
+            -4.38837,
+            54.324643
+          ],
+          [
+            -4.388446,
+            54.324644
+          ],
+          [
+            -4.38853,
+            54.324637
+          ],
+          [
+            -4.388557,
+            54.324698
+          ],
+          [
+            -4.388103,
+            54.324755
+          ],
+          [
+            -4.387988,
+            54.32475
+          ],
+          [
+            -4.388039,
+            54.32469
+          ],
+          [
+            -4.388063,
+            54.324697
+          ]
+        ]
+      },
+      "properties": {
+        "description:registered_building": "Stone Bridge over Sulby River, Bowring Road",
+        "layer": "1",
+        "listed_status": "Registered",
+        "man_made": "bridge",
+        "ref:registered_building": "347",
+        "start_date": "1755/56",
+        "url:registered_building": "https://pabc.gov.im/media/2ald5iep/347-notice-and-entry-summary_compressed.pdf"
       }
     },
     {
@@ -16241,7 +16603,7 @@
         "ref:registered_building": "3",
         "roof:material": "thatch",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/631613/0500003regbldcranstalcottage.pdf",
+        "url:registered_building": "https://www.gov.im/media/1381277/rb3-cranstal-cottage-cranstal-uploaded-301123_compressed.pdf",
         "wikidata": "Q118188571"
       }
     },
@@ -16282,7 +16644,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "4",
         "roof:material": "thatch",
-        "url:registered_building": "https://www.gov.im/media/631619/0500004regbldbridgecottage.pdf",
+        "url:registered_building": "https://www.gov.im/media/1381278/rb4-bridge-cottage-cranstal-uploaded-301123_compressed.pdf",
         "wikidata": "Q118188572"
       }
     },
@@ -17174,7 +17536,7 @@
         "listed_status": "Registered",
         "name": "Leodest Methodist Chapel",
         "ref:registered_building": "2",
-        "url:registered_building": "https://www.gov.im/media/631487/0500002regbldleodestmethodistchap.pdf",
+        "url:registered_building": "https://www.gov.im/media/631487/rb2-registration-notice-and-entry-summary-221123.pdf",
         "wikidata": "Q118188555"
       }
     },
@@ -20597,7 +20959,7 @@
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "339",
-        "url:registered_building": "https://www.gov.im/media/1382561/339-notice-and-entry-summary_compressed.pdf"
+        "url:registered_building": "https://pabc.gov.im/media/b4rl0eq1/339-notice-and-entry-summary_compressed.pdf"
       }
     },
     {
@@ -20699,7 +21061,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666"
       }
     },
@@ -20756,7 +21118,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666"
       }
     },
@@ -20813,7 +21175,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666"
       }
     },
@@ -20871,7 +21233,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666"
       }
     },
@@ -22280,6 +22642,480 @@
         "ref:registered_building": "222",
         "url:registered_building": "https://www.gov.im/media/632783/0500222regbld-clucas-laundry-old-engine-room-add.pdf",
         "wikidata": "Q118188790"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1431587697,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.642064,
+            54.203668
+          ],
+          [
+            -4.642094,
+            54.20364
+          ],
+          [
+            -4.642144,
+            54.203613
+          ],
+          [
+            -4.6422,
+            54.203592
+          ],
+          [
+            -4.642271,
+            54.203579
+          ],
+          [
+            -4.642356,
+            54.203577
+          ],
+          [
+            -4.642398,
+            54.20358
+          ],
+          [
+            -4.64245,
+            54.203589
+          ],
+          [
+            -4.642503,
+            54.203604
+          ],
+          [
+            -4.642544,
+            54.203622
+          ],
+          [
+            -4.642576,
+            54.203645
+          ],
+          [
+            -4.642609,
+            54.203677
+          ],
+          [
+            -4.642631,
+            54.203714
+          ],
+          [
+            -4.642635,
+            54.203745
+          ],
+          [
+            -4.642632,
+            54.203777
+          ],
+          [
+            -4.642622,
+            54.203805
+          ],
+          [
+            -4.642607,
+            54.203829
+          ],
+          [
+            -4.64258,
+            54.203859
+          ],
+          [
+            -4.64254,
+            54.203886
+          ],
+          [
+            -4.642476,
+            54.20391
+          ],
+          [
+            -4.642411,
+            54.203925
+          ],
+          [
+            -4.642348,
+            54.203932
+          ],
+          [
+            -4.642289,
+            54.203928
+          ],
+          [
+            -4.642252,
+            54.203924
+          ],
+          [
+            -4.642196,
+            54.203913
+          ],
+          [
+            -4.642143,
+            54.203895
+          ],
+          [
+            -4.642099,
+            54.203872
+          ],
+          [
+            -4.642069,
+            54.203846
+          ],
+          [
+            -4.642047,
+            54.203817
+          ],
+          [
+            -4.642041,
+            54.203795
+          ],
+          [
+            -4.641268,
+            54.203728
+          ],
+          [
+            -4.641215,
+            54.203725
+          ],
+          [
+            -4.640503,
+            54.203663
+          ],
+          [
+            -4.640455,
+            54.20369
+          ],
+          [
+            -4.640413,
+            54.20371
+          ],
+          [
+            -4.640362,
+            54.20373
+          ],
+          [
+            -4.640282,
+            54.203753
+          ],
+          [
+            -4.6402,
+            54.203761
+          ],
+          [
+            -4.640062,
+            54.203762
+          ],
+          [
+            -4.639959,
+            54.203724
+          ],
+          [
+            -4.639915,
+            54.203667
+          ],
+          [
+            -4.6399,
+            54.203608
+          ],
+          [
+            -4.639909,
+            54.203543
+          ],
+          [
+            -4.639927,
+            54.203475
+          ],
+          [
+            -4.639987,
+            54.203478
+          ],
+          [
+            -4.640023,
+            54.203345
+          ],
+          [
+            -4.640165,
+            54.203353
+          ],
+          [
+            -4.640237,
+            54.203362
+          ],
+          [
+            -4.640311,
+            54.203381
+          ],
+          [
+            -4.640365,
+            54.203403
+          ],
+          [
+            -4.640419,
+            54.20343
+          ],
+          [
+            -4.640467,
+            54.203461
+          ],
+          [
+            -4.640505,
+            54.203496
+          ],
+          [
+            -4.640522,
+            54.203533
+          ],
+          [
+            -4.641236,
+            54.203592
+          ],
+          [
+            -4.641295,
+            54.203599
+          ],
+          [
+            -4.642064,
+            54.203668
+          ]
+        ]
+      },
+      "properties": {
+        "area": "yes",
+        "description:registered_building": "The Parish Church of St John the Baptist - The Royal Chapel, St John\u2019s, together with the man-made landscaping containing the National Assembly Site and chapel pathway- Main Road, St John\u2019s IM4 3NA",
+        "historic": "yes",
+        "listed_status": "Registered",
+        "ref:registered_building": "341",
+        "url:registered_building": "https://pabc.gov.im/media/uadi12ag/341-notice-and-entry-summary_compressed.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1431590981,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.406512,
+            54.231212
+          ],
+          [
+            -4.406429,
+            54.23122
+          ],
+          [
+            -4.406345,
+            54.231229
+          ],
+          [
+            -4.406313,
+            54.231115
+          ],
+          [
+            -4.406272,
+            54.230975
+          ],
+          [
+            -4.406252,
+            54.230906
+          ],
+          [
+            -4.406351,
+            54.230896
+          ],
+          [
+            -4.406419,
+            54.230889
+          ],
+          [
+            -4.406512,
+            54.231212
+          ]
+        ]
+      },
+      "properties": {
+        "bridge:structure": "arch",
+        "layer": "1",
+        "listed_status": "Registered",
+        "man_made": "bridge",
+        "name": "Moore's Bridge",
+        "name:etymology": "John James Moore",
+        "ref:registered_building": "342",
+        "start_date": "1854",
+        "url:registered_building": "https://pabc.gov.im/media/qnjnrzxz/342-notice-and-entry-summary_compressed.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1431660570,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.43235,
+            54.178233
+          ],
+          [
+            -4.432316,
+            54.178243
+          ],
+          [
+            -4.432274,
+            54.178252
+          ],
+          [
+            -4.432204,
+            54.178269
+          ],
+          [
+            -4.432168,
+            54.178279
+          ],
+          [
+            -4.431993,
+            54.178033
+          ],
+          [
+            -4.431948,
+            54.177993
+          ],
+          [
+            -4.431968,
+            54.177982
+          ],
+          [
+            -4.432035,
+            54.177957
+          ],
+          [
+            -4.432082,
+            54.177943
+          ],
+          [
+            -4.432109,
+            54.17794
+          ],
+          [
+            -4.432219,
+            54.178039
+          ],
+          [
+            -4.432275,
+            54.178111
+          ],
+          [
+            -4.43235,
+            54.178233
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "viaduct",
+        "layer": "1",
+        "listed_status": "Registered",
+        "man_made": "bridge",
+        "name": "Groudle Viaduct",
+        "ref:registered_building": "348",
+        "start_date": "1894",
+        "url:registered_building": "https://pabc.gov.im/media/zabm1tx0/348-notice-and-entry-summary_compressed.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1431665017,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485147,
+            54.153709
+          ],
+          [
+            -4.485147,
+            54.153776
+          ],
+          [
+            -4.485211,
+            54.153821
+          ],
+          [
+            -4.485156,
+            54.153832
+          ],
+          [
+            -4.485156,
+            54.153871
+          ],
+          [
+            -4.485202,
+            54.153954
+          ],
+          [
+            -4.485481,
+            54.153895
+          ],
+          [
+            -4.485446,
+            54.153847
+          ],
+          [
+            -4.48547,
+            54.153842
+          ],
+          [
+            -4.485484,
+            54.153839
+          ],
+          [
+            -4.485501,
+            54.153836
+          ],
+          [
+            -4.485518,
+            54.153832
+          ],
+          [
+            -4.485492,
+            54.153796
+          ],
+          [
+            -4.48548,
+            54.153781
+          ],
+          [
+            -4.485487,
+            54.153771
+          ],
+          [
+            -4.485493,
+            54.15376
+          ],
+          [
+            -4.485514,
+            54.153756
+          ],
+          [
+            -4.485441,
+            54.153641
+          ],
+          [
+            -4.4853,
+            54.153671
+          ],
+          [
+            -4.485147,
+            54.153709
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "description:registered_building": "Former School of Art",
+        "listed_status": "Registered",
+        "ref:registered_building": "350",
+        "start_date": "1880",
+        "url:registered_building": "https://pabc.gov.im/media/0wgcahcb/350-notice-and-entry-summary_compressed.pdf",
+        "was:amenity": "school"
       }
     }
   ]

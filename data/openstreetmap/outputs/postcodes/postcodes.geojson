@@ -12848,7 +12848,7 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/db977eec-ad95-4665-aa6b-323184f2bdf8",
-        "url:registered_building": "https://www.gov.im/media/631655/0500024regbldcastlerushen.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382253/rb24-notice-of-registration-and-reasons.pdf",
         "website": "https://manxnationalheritage.im/our-sites/castle-castletown/",
         "wheelchair": "limited",
         "wikidata": "Q2967821",
@@ -12948,7 +12948,7 @@
         "building": "yes",
         "landuse": "retail",
         "name": "Tesco",
-        "opening_hours": "Mo-Sa 08:00-24:00; Su 09:00-18:00",
+        "opening_hours": "Mo-Sa 08:00-23:00; Su 09:00-18:00",
         "operator": "Tesco plc",
         "shop": "supermarket",
         "toilets:wheelchair": "yes",
@@ -18434,68 +18434,88 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.698241,
-            54.221645
+            -4.698209,
+            54.221696
           ],
           [
-            -4.697814,
-            54.221996
+            -4.697834,
+            54.222003
           ],
           [
-            -4.697675,
-            54.221939
+            -4.697805,
+            54.22199
           ],
           [
-            -4.697592,
-            54.221904
+            -4.697783,
+            54.222008
+          ],
+          [
+            -4.697668,
+            54.22196
+          ],
+          [
+            -4.697589,
+            54.221927
           ],
           [
             -4.697536,
-            54.22195
+            54.221971
           ],
           [
-            -4.69749,
-            54.221988
+            -4.6975,
+            54.222001
           ],
           [
-            -4.697571,
-            54.222022
+            -4.697574,
+            54.222032
           ],
           [
-            -4.69745,
-            54.222121
+            -4.697493,
+            54.222099
           ],
           [
-            -4.697363,
-            54.222085
+            -4.697526,
+            54.222113
           ],
           [
-            -4.697393,
-            54.222061
+            -4.69748,
+            54.22215
           ],
           [
-            -4.697174,
-            54.22197
+            -4.697459,
+            54.222141
           ],
           [
-            -4.697795,
-            54.22146
+            -4.697455,
+            54.222145
           ],
           [
-            -4.697841,
-            54.221479
+            -4.69735,
+            54.222103
           ],
           [
-            -4.697993,
-            54.221542
+            -4.697368,
+            54.222088
           ],
           [
-            -4.698125,
-            54.221597
+            -4.697165,
+            54.222005
           ],
           [
-            -4.698241,
+            -4.697254,
+            54.221931
+          ],
+          [
+            -4.697792,
+            54.221481
+          ],
+          [
+            -4.698192,
             54.221645
+          ],
+          [
+            -4.698209,
+            54.221696
           ]
         ]
       },
@@ -18517,8 +18537,8 @@
         "wheelchair": "yes",
         "wikidata": "Q15069659",
         "osm_id": 59700879,
-        "lon": -4.697685060893225,
-        "lat": 54.221810435346086,
+        "lon": -4.697672231000578,
+        "lat": 54.22184137881081,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59700879"
       }
@@ -25074,7 +25094,7 @@
         "real_ale": "yes",
         "ref:registered_building": "25",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "url:registered_building": "https://www.gov.im/media/631661/0500025regbldcastlearmshotel.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382254/rb25-notice-of-registration-and-reasons.pdf",
         "website": "https://pubsandbars.im/venue/castle-arms/",
         "wikidata": "Q118188577",
         "osm_id": 60757131,
@@ -34193,40 +34213,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48141,
-            54.151145
+            -4.481595,
+            54.150983
           ],
           [
-            -4.481278,
-            54.151101
+            -4.481401,
+            54.150905
           ],
           [
-            -4.48124,
-            54.151088
+            -4.481496,
+            54.150824
           ],
           [
-            -4.481235,
-            54.151066
-          ],
-          [
-            -4.481261,
-            54.150876
-          ],
-          [
-            -4.481253,
-            54.150867
-          ],
-          [
-            -4.481248,
-            54.150854
-          ],
-          [
-            -4.481254,
-            54.150838
-          ],
-          [
-            -4.481264,
-            54.150827
+            -4.481421,
+            54.150768
           ],
           [
             -4.481253,
@@ -34273,8 +34273,8 @@
             54.150816
           ],
           [
-            -4.48141,
-            54.151145
+            -4.481595,
+            54.150983
           ]
         ]
       },
@@ -34289,20 +34289,23 @@
         "building:levels": "4",
         "building:material": "plaster",
         "government": "parliament",
+        "listed_status": "Registered",
         "name": "Tynwald",
         "name:en": "Tynwald",
         "name:gv": "Tinvaal",
         "name:lt": "Tinvaldas",
         "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
         "office": "government",
+        "ref:registered_building": "340",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
+        "url:registered_building": "https://pabc.gov.im/media/swwddxkv/340-notice-and-entry-summary_compressed.pdf",
         "website": "https://www.tynwald.org.im/",
         "wikidata": "Q827704",
         "wikipedia": "en:Tynwald",
         "osm_id": 79141576,
-        "lon": -4.481460627341768,
-        "lat": 54.150885780327016,
+        "lon": -4.4815020394151475,
+        "lat": 54.15080787311761,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79141576"
       }
@@ -48297,7 +48300,7 @@
         "old_name": "Town Hall",
         "ref:registered_building": "17",
         "source": "survey;photo;Bing",
-        "url:registered_building": "https://www.gov.im/media/631649/0500017regbldmanannanhouse.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382151/rb17-registration-notice-and-entry-summary.pdf",
         "wikidata": "Q118188576",
         "osm_id": 99861920,
         "lon": -4.653974886865208,
@@ -50164,7 +50167,7 @@
         "ref:registered_building": "29",
         "tourism": "museum",
         "url:imher": "https://isleofmanher.im/report/1614d2c6-db45-4fe6-8ad2-8ae9bbd2ef2c",
-        "url:registered_building": "https://www.gov.im/media/631685/0500029regbldformerhouseofkeysb.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382257/rb29-notice-of-registration-and-reasons.pdf",
         "website": "https://manxnationalheritage.im/our-sites/old-house-of-keys/",
         "wheelchair": "limited",
         "wikidata": "Q2018393",
@@ -50909,7 +50912,7 @@
         "ref:registered_building": "28",
         "source": "Bing",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/631679/0500028regbldderbyhouse.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382256/rb28-notice-of-registration-and-reasons.pdf",
         "wikidata": "Q118188580",
         "osm_id": 100464910,
         "lon": -4.652126296557892,
@@ -84157,7 +84160,7 @@
         "religion": "christian",
         "source": "GPS waymark",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/633017/0500015regbldsantonparishchurch.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382150/rb15-registration-notice-and-entry-summary_compressed.pdf",
         "wikidata": "Q105170258",
         "osm_id": 160232403,
         "lon": -4.585605999999999,
@@ -112993,7 +112996,7 @@
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo;survey",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
         "takeaway": "yes",
-        "url:registered_building": "https://www.gov.im/media/631667/0500026regbldformercustomsoffice.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382255/rb26-notice-of-registration-and-reasons.pdf",
         "wikidata": "Q118188578",
         "osm_id": 414637480,
         "lon": -4.652235950626776,
@@ -122451,7 +122454,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "117",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/632699/0500117regbldkatescottage.pdf",
+        "url:registered_building": "https://www.gov.im/media/632699/rb-117-registration-notice-and-entry-summary-221123.pdf",
         "wikidata": "Q6375316",
         "wikipedia": "en:Kate's Cottage, Isle of Man",
         "osm_id": 527475183,
@@ -126827,9 +126830,9 @@
         "addr:postcode": "IM7 3EL",
         "addr:street": "Kiondroghad Road",
         "building": "house",
-        "listed_status": "Registered",
-        "ref:registered_building": "247",
-        "url:registered_building": "https://www.gov.im/media/631505/0500247regbldballaradcliffehouse.pdf",
+        "url:registered_building": "https://www.gov.im/media/1386638/rb-247-notice-of-de-registration-combined_compressed.pdf",
+        "was:listed_status": "Registered",
+        "was:ref:registered_building": "247",
         "wikidata": "Q118188558",
         "osm_id": 895195218,
         "lon": -4.45292652797668,
@@ -148104,7 +148107,7 @@
         "ref:registered_building": "5",
         "roof:material": "thatch",
         "tourism": "chalet",
-        "url:registered_building": "https://www.gov.im/media/631493/0500005regbldynthiethooitlhenbr.pdf",
+        "url:registered_building": "https://www.gov.im/media/631493/rb5-registration-notice-and-entry-summary-221123.pdf",
         "website": "https://www.islandescapes.im/property/562727",
         "wikidata": "Q118188556",
         "osm_id": 1146666776,
@@ -148165,7 +148168,7 @@
         "ref:registered_building": "3",
         "roof:material": "thatch",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
-        "url:registered_building": "https://www.gov.im/media/631613/0500003regbldcranstalcottage.pdf",
+        "url:registered_building": "https://www.gov.im/media/1381277/rb3-cranstal-cottage-cranstal-uploaded-301123_compressed.pdf",
         "wikidata": "Q118188571",
         "osm_id": 1146739860,
         "lon": -4.375378573349502,
@@ -154398,7 +154401,7 @@
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "339",
-        "url:registered_building": "https://www.gov.im/media/1382561/339-notice-and-entry-summary_compressed.pdf",
+        "url:registered_building": "https://pabc.gov.im/media/b4rl0eq1/339-notice-and-entry-summary_compressed.pdf",
         "osm_id": 1154149509,
         "lon": -4.469236984694463,
         "lat": 54.16876182964681,
@@ -154510,7 +154513,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666",
         "osm_id": 1154695112,
         "lon": -4.476029731314548,
@@ -154572,7 +154575,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666",
         "osm_id": 1154695113,
         "lon": -4.4759570333692755,
@@ -154634,7 +154637,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666",
         "osm_id": 1154695114,
         "lon": -4.475876155240956,
@@ -154697,7 +154700,7 @@
         "listed_status": "Registered",
         "ref:registered_building": "164",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "url:registered_building": "https://www.gov.im/media/632279/0500164regbldivybank.pdf",
+        "url:registered_building": "https://www.gov.im/media/632279/rb-164-falcon-cliff-terrace-ivy-cottage-thie-bannee-inglenook-thorn-bank-terrace-registration-documents-130623.pdf",
         "wikidata": "Q118188666",
         "osm_id": 1154695115,
         "lon": -4.475800809131468,
@@ -155244,11 +155247,11 @@
           ],
           [
             -4.485514,
-            54.153755
+            54.153756
           ],
           [
-            -4.485469,
-            54.153765
+            -4.485493,
+            54.15376
           ],
           [
             -4.485211,
@@ -155278,12 +155281,12 @@
         "addr:postcode": "IM1 3EG",
         "addr:street": "Kensington Road",
         "amenity": "community_centre",
-        "building": "yes",
+        "building:part": "yes",
         "community_centre": "youth_centre",
         "name": "Kensington Road Youth Arts Centre",
         "osm_id": 1154826374,
-        "lon": -4.485324426914362,
-        "lat": 54.153733256864776,
+        "lon": -4.485324538385003,
+        "lat": 54.153733343968504,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154826374"
       }
@@ -155295,12 +155298,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.485469,
-            54.153765
+            -4.485493,
+            54.15376
+          ],
+          [
+            -4.485487,
+            54.153771
+          ],
+          [
+            -4.48548,
+            54.153781
+          ],
+          [
+            -4.485492,
+            54.153796
           ],
           [
             -4.485518,
             54.153832
+          ],
+          [
+            -4.485501,
+            54.153836
+          ],
+          [
+            -4.485484,
+            54.153839
+          ],
+          [
+            -4.48547,
+            54.153842
           ],
           [
             -4.485446,
@@ -155327,8 +155354,8 @@
             54.153821
           ],
           [
-            -4.485469,
-            54.153765
+            -4.485493,
+            54.15376
           ]
         ]
       },
@@ -155337,10 +155364,10 @@
         "addr:country": "IM",
         "addr:postcode": "IM1 3EG",
         "addr:street": "Kensington Road",
-        "building": "yes",
+        "building:part": "yes",
         "osm_id": 1154826375,
-        "lon": -4.485339703972136,
-        "lat": 54.153857400685055,
+        "lon": -4.485344268620766,
+        "lat": 54.15385455715746,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1154826375"
       }

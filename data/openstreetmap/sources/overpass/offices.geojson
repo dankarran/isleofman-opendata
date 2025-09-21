@@ -2342,40 +2342,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.48141,
-            54.151145
+            -4.481595,
+            54.150983
           ],
           [
-            -4.481278,
-            54.151101
+            -4.481401,
+            54.150905
           ],
           [
-            -4.48124,
-            54.151088
+            -4.481496,
+            54.150824
           ],
           [
-            -4.481235,
-            54.151066
-          ],
-          [
-            -4.481261,
-            54.150876
-          ],
-          [
-            -4.481253,
-            54.150867
-          ],
-          [
-            -4.481248,
-            54.150854
-          ],
-          [
-            -4.481254,
-            54.150838
-          ],
-          [
-            -4.481264,
-            54.150827
+            -4.481421,
+            54.150768
           ],
           [
             -4.481253,
@@ -2422,8 +2402,8 @@
             54.150816
           ],
           [
-            -4.48141,
-            54.151145
+            -4.481595,
+            54.150983
           ]
         ]
       },
@@ -2438,14 +2418,17 @@
         "building:levels": "4",
         "building:material": "plaster",
         "government": "parliament",
+        "listed_status": "Registered",
         "name": "Tynwald",
         "name:en": "Tynwald",
         "name:gv": "Tinvaal",
         "name:lt": "Tinvaldas",
         "name:uk": "\u0422\u0456\u043d\u0432\u0430\u043b\u044c\u0434",
         "office": "government",
+        "ref:registered_building": "340",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "attraction",
+        "url:registered_building": "https://pabc.gov.im/media/swwddxkv/340-notice-and-entry-summary_compressed.pdf",
         "website": "https://www.tynwald.org.im/",
         "wikidata": "Q827704",
         "wikipedia": "en:Tynwald"
