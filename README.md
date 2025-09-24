@@ -7,6 +7,7 @@ This project aims to take open data for the Isle of Man and create new data prod
   * :file_folder: [Companies](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/companies/)
   * :file_folder: [Land transactions](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/land-transactions/)
   * :file_folder: [Planning applications](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/planning-applications/)
+  * :file_folder: [Registered Buildings](https://github.com/dankarran/isleofman-opendata/tree/main/data/gov.im/registered-buildings/)
   * :file_folder: [OpenStreetMap](https://github.com/dankarran/isleofman-opendata/tree/main/data/openstreetmap/)
   * :file_folder: [Microsoft Global ML Building Footprints](https://github.com/dankarran/isleofman-opendata/tree/main/data/microsoft/global-ml-building-footprints/)
 
