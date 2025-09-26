@@ -924,7 +924,8 @@
         "man_made": "lighthouse",
         "name": "Chicken Rock",
         "name:en": "Chicken Rock",
-        "name:gv": "Charrick y Challoo",
+        "name:gd": "Taigh-solas Charraig na Colbh",
+        "name:gv": "Thie Sollysh Charrick ny Colloo",
         "ref:registered_building": "310",
         "seamark:light:character": "Fl",
         "seamark:light:colour": "white",
@@ -2163,6 +2164,7 @@
         "name": "Port Erin",
         "name:be": "\u041f\u043e\u0440\u0442 \u042d\u0440\u044b\u043d",
         "name:en": "Port Erin",
+        "name:gd": "Purt \u00c7hiarn",
         "name:gv": "Purt \u00c7hiarn",
         "name:ru": "\u041f\u043e\u0440\u0442 \u042d\u0440\u0438\u043d",
         "name:uk": "\u041f\u043e\u0440\u0442 \u0415\u0440\u0456\u043d",
@@ -2474,6 +2476,7 @@
         "name:et": "Man",
         "name:fi": "Mansaari",
         "name:fr": "\u00cele de Man",
+        "name:ga": "Oile\u00e1n Mhanann",
         "name:gd": "Eilean Mhanainn",
         "name:gv": "Vannin",
         "name:he": "\u05d4\u05d0\u05d9 \u05de\u05d0\u05df",
@@ -5258,11 +5261,11 @@
         ]
       },
       "properties": {
-        "alt_name:gd": "Br\u00ecghde",
+        "alt_name:gd": "Baile Bhr\u00ecghde",
         "name": "Bride",
         "name:en": "Bride",
-        "name:gd": "Vreeshey",
-        "name:gv": "Vreeshey",
+        "name:gd": "Balley Vreeshey",
+        "name:gv": "Balley Vreeshey",
         "place": "village",
         "wikidata": "Q2925151",
         "wikipedia": "en:Bride (parish)",
@@ -7012,7 +7015,7 @@
       },
       "properties": {
         "name": "Glion ny Goayr",
-        "name:gv": "Glion ny Coayr",
+        "name:gv": "Glion ny Goayr",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 10145032826,
@@ -14564,12 +14567,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.713654,
-            54.18375
-          ],
-          [
             -4.713524,
             54.183769
+          ],
+          [
+            -4.713279,
+            54.183751
           ],
           [
             -4.712904,
@@ -14582,6 +14585,18 @@
           [
             -4.712277,
             54.183824
+          ],
+          [
+            -4.711977,
+            54.183985
+          ],
+          [
+            -4.711845,
+            54.184045
+          ],
+          [
+            -4.711651,
+            54.184069
           ]
         ]
       },
@@ -14593,8 +14608,8 @@
         "name:gv": "Bayre y Traie",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 25986675,
-        "lon": -4.712961411622864,
-        "lat": 54.18375111068004,
+        "lon": -4.712572186416994,
+        "lat": 54.18382800075782,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986675"
       }
@@ -15677,7 +15692,9 @@
         "name": "Sound Road",
         "name:en": "Sound Road",
         "name:gv": "Bayr Y Cheyllys",
+        "note": "Questionable etymology for Manx translation",
         "postal_code": "IM5 3BJ",
+        "source:name:gv": "street sign;visible on streetside",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986833,
         "lon": -4.702268240608963,
@@ -15808,12 +15825,12 @@
             54.16174
           ],
           [
-            -4.47703,
-            54.161804
+            -4.477027,
+            54.161785
           ],
           [
-            -4.476974,
-            54.161812
+            -4.476966,
+            54.161801
           ]
         ]
       },
@@ -15825,8 +15842,8 @@
         "name:gv": "Raad Marathon",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 25986885,
-        "lon": -4.478713138524425,
-        "lat": 54.160539639433026,
+        "lon": -4.47871305287903,
+        "lat": 54.16053914192829,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986885"
       }
@@ -17612,8 +17629,8 @@
             54.119308
           ],
           [
-            -4.6867,
-            54.119545
+            -4.686725,
+            54.119539
           ],
           [
             -4.686491,
@@ -17786,8 +17803,8 @@
         "source:name": "Isle of Man Government 1:25000 map",
         "surface": "asphalt",
         "osm_id": 25987114,
-        "lon": -4.685175220775842,
-        "lat": 54.12378576068056,
+        "lon": -4.685175396420646,
+        "lat": 54.12378657307355,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987114"
       }
@@ -30661,6 +30678,14 @@
             54.155931
           ],
           [
+            -4.497882,
+            54.155921
+          ],
+          [
+            -4.497529,
+            54.155901
+          ],
+          [
             -4.496319,
             54.155835
           ],
@@ -30719,8 +30744,8 @@
         "name:gv": "Raad Devonshire",
         "source": "survey",
         "osm_id": 25988448,
-        "lon": -4.496493071243375,
-        "lat": 54.15604298313311,
+        "lon": -4.496493067749679,
+        "lat": 54.15604306324524,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988448"
       }
@@ -35493,12 +35518,24 @@
             54.242135
           ],
           [
-            -4.577561,
-            54.243055
+            -4.576756,
+            54.242551
+          ],
+          [
+            -4.577505,
+            54.242908
+          ],
+          [
+            -4.577589,
+            54.242975
+          ],
+          [
+            -4.577668,
+            54.243039
           ],
           [
             -4.577714,
-            54.243352
+            54.243314
           ]
         ]
       },
@@ -35508,8 +35545,8 @@
         "source": "OS Second War Revision 1940. Pub 1942",
         "waterway": "stream",
         "osm_id": 25988838,
-        "lon": -4.5663384816344195,
-        "lat": 54.23779782030408,
+        "lon": -4.566358149788764,
+        "lat": 54.2378007598258,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988838"
       }
@@ -59599,16 +59636,16 @@
             54.172225
           ],
           [
-            -4.477373,
-            54.172165
-          ],
-          [
             -4.477349,
-            54.171588
+            54.172146
           ],
           [
-            -4.477382,
-            54.171583
+            -4.477306,
+            54.17158
+          ],
+          [
+            -4.477336,
+            54.171576
           ],
           [
             -4.477464,
@@ -59714,8 +59751,8 @@
         "wikidata": "Q3445987",
         "wikipedia": "en:University College Isle of Man",
         "osm_id": 77964053,
-        "lon": -4.478710493059398,
-        "lat": 54.17202006328191,
+        "lon": -4.478698051523375,
+        "lat": 54.17201752046033,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/77964053"
       }
@@ -67009,12 +67046,14 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Carraig na Colbh",
+        "alt_name:gv": "Carrick ny Kirkey",
         "imagery_used": "Maxar Standard",
         "name": "Chicken Rock",
         "name:en": "Chicken Rock",
         "name:ga": "Carraig na gCearc",
-        "name:gd": "An Eireag Mhanannach",
-        "name:gv": "Carrick ny Kirkey",
+        "name:gd": "Carrick ny Kylliu",
+        "name:gv": "Carrick ny Kylliu",
         "natural": "coastline",
         "place": "island",
         "wikidata": "Q125547",
@@ -72072,48 +72111,44 @@
             54.132428
           ],
           [
-            -4.531428,
+            -4.531408,
+            54.132492
+          ],
+          [
+            -4.531522,
+            54.132504
+          ],
+          [
+            -4.531655,
+            54.132518
+          ],
+          [
+            -4.531886,
+            54.132519
+          ],
+          [
+            -4.532114,
+            54.132508
+          ],
+          [
+            -4.532274,
+            54.132499
+          ],
+          [
+            -4.532557,
             54.132477
           ],
           [
-            -4.531525,
-            54.132486
+            -4.532733,
+            54.132451
           ],
           [
-            -4.531652,
-            54.132497
+            -4.532873,
+            54.132426
           ],
           [
-            -4.531882,
-            54.132495
-          ],
-          [
-            -4.53211,
-            54.132493
-          ],
-          [
-            -4.532203,
-            54.132486
-          ],
-          [
-            -4.532265,
-            54.132481
-          ],
-          [
-            -4.53252,
-            54.132461
-          ],
-          [
-            -4.532697,
-            54.13243
-          ],
-          [
-            -4.532914,
-            54.13239
-          ],
-          [
-            -4.533352,
-            54.132294
+            -4.533357,
+            54.13231
           ],
           [
             -4.533489,
@@ -72160,8 +72195,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 162747171,
-        "lon": -4.531297290277226,
-        "lat": 54.13212320930403,
+        "lon": -4.531298716056569,
+        "lat": 54.13212863343023,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/162747171"
       }
@@ -75214,7 +75249,7 @@
         "coordinates": [
           [
             -4.487044,
-            54.14973
+            54.149741
           ],
           [
             -4.486875,
@@ -75245,8 +75280,8 @@
         "parking:left:orientation": "parallel",
         "surface": "asphalt",
         "osm_id": 164658105,
-        "lon": -4.486945162906373,
-        "lat": 54.14957504544857,
+        "lon": -4.486945517358486,
+        "lat": 54.149580322744576,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/164658105"
       }
@@ -76048,44 +76083,6 @@
         "lat": 54.17562906957036,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165267593"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165267596,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.712277,
-            54.183824
-          ],
-          [
-            -4.711977,
-            54.183985
-          ],
-          [
-            -4.711845,
-            54.184045
-          ],
-          [
-            -4.711651,
-            54.184069
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "20 mph",
-        "name": "Shore Road",
-        "name:en": "Shore Road",
-        "name:gv": "Bayre y Traie",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "osm_id": 165267596,
-        "lon": -4.711972207145785,
-        "lat": 54.18397180720422,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/165267596"
       }
     },
     {
@@ -84809,28 +84806,36 @@
             54.171089
           ],
           [
-            -4.476987,
-            54.170785
+            -4.476997,
+            54.170768
+          ],
+          [
+            -4.477305,
+            54.171343
           ],
           [
             -4.47724,
             54.171357
           ],
           [
-            -4.477293,
-            54.171386
+            -4.477276,
+            54.17143
           ],
           [
-            -4.477382,
-            54.171583
+            -4.477336,
+            54.171576
           ],
           [
-            -4.477349,
-            54.171588
+            -4.477306,
+            54.17158
           ],
           [
-            -4.476217,
-            54.171707
+            -4.476333,
+            54.171677
+          ],
+          [
+            -4.476188,
+            54.171704
           ],
           [
             -4.475534,
@@ -84847,8 +84852,8 @@
         "source": "Bing",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 233926121,
-        "lon": -4.476288726248362,
-        "lat": 54.17131209496488,
+        "lon": -4.4762927852098855,
+        "lat": 54.17129921131329,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/233926121"
       }
@@ -119595,7 +119600,7 @@
           ],
           [
             -4.487044,
-            54.14973
+            54.149741
           ]
         ]
       },
@@ -119611,7 +119616,7 @@
         "surface": "asphalt",
         "osm_id": 1314840189,
         "lon": -4.487068,
-        "lat": 54.1497685,
+        "lat": 54.149774,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1314840189"
       }
@@ -120712,6 +120717,36 @@
         "lat": 54.075081000000004,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1430856049"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1432472074,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.713654,
+            54.18375
+          ],
+          [
+            -4.713524,
+            54.183769
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Shore Road",
+        "name:en": "Shore Road",
+        "name:gv": "Bayre y Traie",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "osm_id": 1432472074,
+        "lon": -4.713589,
+        "lat": 54.1837595,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1432472074"
       }
     }
   ]

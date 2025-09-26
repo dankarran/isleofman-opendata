@@ -224,7 +224,8 @@
         "man_made": "lighthouse",
         "name": "Chicken Rock",
         "name:en": "Chicken Rock",
-        "name:gv": "Charrick y Challoo",
+        "name:gd": "Taigh-solas Charraig na Colbh",
+        "name:gv": "Thie Sollysh Charrick ny Colloo",
         "ref:registered_building": "310",
         "seamark:light:character": "Fl",
         "seamark:light:colour": "white",
@@ -3412,6 +3413,8 @@
       },
       "properties": {
         "building": "yes",
+        "building:colour": "white",
+        "building:material": "stone",
         "listed_status": "Registered",
         "name": "Niarbyl Cottages",
         "ref:registered_building": "8",
@@ -11807,6 +11810,8 @@
       },
       "properties": {
         "building": "yes",
+        "building:colour": "white",
+        "height": "20",
         "listed_status": "Registered",
         "man_made": "lighthouse",
         "name": "Douglas Head Lighthouse",

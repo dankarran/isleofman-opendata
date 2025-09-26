@@ -744,7 +744,8 @@
         "man_made": "lighthouse",
         "name": "Chicken Rock",
         "name:en": "Chicken Rock",
-        "name:gv": "Charrick y Challoo",
+        "name:gd": "Taigh-solas Charraig na Colbh",
+        "name:gv": "Thie Sollysh Charrick ny Colloo",
         "ref:registered_building": "310",
         "seamark:light:character": "Fl",
         "seamark:light:colour": "white",
@@ -1728,6 +1729,7 @@
         "name": "Port Erin",
         "name:be": "\u041f\u043e\u0440\u0442 \u042d\u0440\u044b\u043d",
         "name:en": "Port Erin",
+        "name:gd": "Purt \u00c7hiarn",
         "name:gv": "Purt \u00c7hiarn",
         "name:ru": "\u041f\u043e\u0440\u0442 \u042d\u0440\u0438\u043d",
         "name:uk": "\u041f\u043e\u0440\u0442 \u0415\u0440\u0456\u043d",
@@ -1984,6 +1986,7 @@
         "name:et": "Man",
         "name:fi": "Mansaari",
         "name:fr": "\u00cele de Man",
+        "name:ga": "Oile\u00e1n Mhanann",
         "name:gd": "Eilean Mhanainn",
         "name:gv": "Vannin",
         "name:he": "\u05d4\u05d0\u05d9 \u05de\u05d0\u05df",
@@ -4218,11 +4221,11 @@
         ]
       },
       "properties": {
-        "alt_name:gd": "Br\u00ecghde",
+        "alt_name:gd": "Baile Bhr\u00ecghde",
         "name": "Bride",
         "name:en": "Bride",
-        "name:gd": "Vreeshey",
-        "name:gv": "Vreeshey",
+        "name:gd": "Balley Vreeshey",
+        "name:gv": "Balley Vreeshey",
         "place": "village",
         "wikidata": "Q2925151",
         "wikipedia": "en:Bride (parish)"
@@ -5577,7 +5580,7 @@
       },
       "properties": {
         "name": "Glion ny Goayr",
-        "name:gv": "Glion ny Coayr",
+        "name:gv": "Glion ny Goayr",
         "place": "locality",
         "source": "Isle of Man Government 1:25000 map (2007)"
       }
@@ -12509,12 +12512,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.713654,
-            54.18375
-          ],
-          [
             -4.713524,
             54.183769
+          ],
+          [
+            -4.713279,
+            54.183751
           ],
           [
             -4.712904,
@@ -12527,6 +12530,18 @@
           [
             -4.712277,
             54.183824
+          ],
+          [
+            -4.711977,
+            54.183985
+          ],
+          [
+            -4.711845,
+            54.184045
+          ],
+          [
+            -4.711651,
+            54.184069
           ]
         ]
       },
@@ -13532,7 +13547,9 @@
         "name": "Sound Road",
         "name:en": "Sound Road",
         "name:gv": "Bayr Y Cheyllys",
+        "note": "Questionable etymology for Manx translation",
         "postal_code": "IM5 3BJ",
+        "source:name:gv": "street sign;visible on streetside",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -13653,12 +13670,12 @@
             54.16174
           ],
           [
-            -4.47703,
-            54.161804
+            -4.477027,
+            54.161785
           ],
           [
-            -4.476974,
-            54.161812
+            -4.476966,
+            54.161801
           ]
         ]
       },
@@ -15332,8 +15349,8 @@
             54.119308
           ],
           [
-            -4.6867,
-            54.119545
+            -4.686725,
+            54.119539
           ],
           [
             -4.686491,
@@ -27661,6 +27678,14 @@
             54.155931
           ],
           [
+            -4.497882,
+            54.155921
+          ],
+          [
+            -4.497529,
+            54.155901
+          ],
+          [
             -4.496319,
             54.155835
           ],
@@ -32233,12 +32258,24 @@
             54.242135
           ],
           [
-            -4.577561,
-            54.243055
+            -4.576756,
+            54.242551
+          ],
+          [
+            -4.577505,
+            54.242908
+          ],
+          [
+            -4.577589,
+            54.242975
+          ],
+          [
+            -4.577668,
+            54.243039
           ],
           [
             -4.577714,
-            54.243352
+            54.243314
           ]
         ]
       },
@@ -55014,16 +55051,16 @@
             54.172225
           ],
           [
-            -4.477373,
-            54.172165
-          ],
-          [
             -4.477349,
-            54.171588
+            54.172146
           ],
           [
-            -4.477382,
-            54.171583
+            -4.477306,
+            54.17158
+          ],
+          [
+            -4.477336,
+            54.171576
           ],
           [
             -4.477464,
@@ -62099,12 +62136,14 @@
         ]
       },
       "properties": {
+        "alt_name:gd": "Carraig na Colbh",
+        "alt_name:gv": "Carrick ny Kirkey",
         "imagery_used": "Maxar Standard",
         "name": "Chicken Rock",
         "name:en": "Chicken Rock",
         "name:ga": "Carraig na gCearc",
-        "name:gd": "An Eireag Mhanannach",
-        "name:gv": "Carrick ny Kirkey",
+        "name:gd": "Carrick ny Kylliu",
+        "name:gv": "Carrick ny Kylliu",
         "natural": "coastline",
         "place": "island",
         "wikidata": "Q125547",
@@ -66802,48 +66841,44 @@
             54.132428
           ],
           [
-            -4.531428,
+            -4.531408,
+            54.132492
+          ],
+          [
+            -4.531522,
+            54.132504
+          ],
+          [
+            -4.531655,
+            54.132518
+          ],
+          [
+            -4.531886,
+            54.132519
+          ],
+          [
+            -4.532114,
+            54.132508
+          ],
+          [
+            -4.532274,
+            54.132499
+          ],
+          [
+            -4.532557,
             54.132477
           ],
           [
-            -4.531525,
-            54.132486
+            -4.532733,
+            54.132451
           ],
           [
-            -4.531652,
-            54.132497
+            -4.532873,
+            54.132426
           ],
           [
-            -4.531882,
-            54.132495
-          ],
-          [
-            -4.53211,
-            54.132493
-          ],
-          [
-            -4.532203,
-            54.132486
-          ],
-          [
-            -4.532265,
-            54.132481
-          ],
-          [
-            -4.53252,
-            54.132461
-          ],
-          [
-            -4.532697,
-            54.13243
-          ],
-          [
-            -4.532914,
-            54.13239
-          ],
-          [
-            -4.533352,
-            54.132294
+            -4.533357,
+            54.13231
           ],
           [
             -4.533489,
@@ -69759,7 +69794,7 @@
         "coordinates": [
           [
             -4.487044,
-            54.14973
+            54.149741
           ],
           [
             -4.486875,
@@ -70502,39 +70537,6 @@
         "name": "Glen Rushen Road",
         "name:en": "Glen Rushen Road",
         "name:gv": "Bayr Glion Rosien",
-        "source": "Isle of Man Government aerial imagery (2001)"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165267596,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.712277,
-            54.183824
-          ],
-          [
-            -4.711977,
-            54.183985
-          ],
-          [
-            -4.711845,
-            54.184045
-          ],
-          [
-            -4.711651,
-            54.184069
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "20 mph",
-        "name": "Shore Road",
-        "name:en": "Shore Road",
-        "name:gv": "Bayre y Traie",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -78759,28 +78761,36 @@
             54.171089
           ],
           [
-            -4.476987,
-            54.170785
+            -4.476997,
+            54.170768
+          ],
+          [
+            -4.477305,
+            54.171343
           ],
           [
             -4.47724,
             54.171357
           ],
           [
-            -4.477293,
-            54.171386
+            -4.477276,
+            54.17143
           ],
           [
-            -4.477382,
-            54.171583
+            -4.477336,
+            54.171576
           ],
           [
-            -4.477349,
-            54.171588
+            -4.477306,
+            54.17158
           ],
           [
-            -4.476217,
-            54.171707
+            -4.476333,
+            54.171677
+          ],
+          [
+            -4.476188,
+            54.171704
           ],
           [
             -4.475534,
@@ -111140,7 +111150,7 @@
           ],
           [
             -4.487044,
-            54.14973
+            54.149741
           ]
         ]
       },
@@ -112147,6 +112157,31 @@
         "name:gv": "y Fo-raad",
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1432472074,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.713654,
+            54.18375
+          ],
+          [
+            -4.713524,
+            54.183769
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Shore Road",
+        "name:en": "Shore Road",
+        "name:gv": "Bayre y Traie",
+        "source": "Isle of Man Government aerial imagery (2001)"
       }
     }
   ]

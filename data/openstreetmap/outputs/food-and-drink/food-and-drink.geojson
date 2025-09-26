@@ -4580,7 +4580,7 @@
         "real_ale": "yes",
         "ref:registered_building": "25",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "url:registered_building": "https://www.gov.im/media/631661/0500025regbldcastlearmshotel.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382254/rb25-notice-of-registration-and-reasons.pdf",
         "website": "https://pubsandbars.im/venue/castle-arms/",
         "wikidata": "Q118188577",
         "osm_id": 60757131,
@@ -4648,28 +4648,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.38699,
-            54.329651
+            -4.386981,
+            54.329671
           ],
           [
-            -4.386851,
-            54.329819
+            -4.386842,
+            54.32984
           ],
           [
-            -4.386655,
-            54.329764
+            -4.386645,
+            54.329784
+          ],
+          [
+            -4.386784,
+            54.329616
           ],
           [
             -4.386794,
-            54.329596
+            54.329619
           ],
           [
-            -4.386803,
-            54.329598
-          ],
-          [
-            -4.38699,
-            54.329651
+            -4.386981,
+            54.329671
           ]
         ]
       },
@@ -4685,8 +4685,8 @@
         "takeaway": "yes",
         "wheelchair": "yes",
         "osm_id": 61649820,
-        "lon": -4.386822516162857,
-        "lat": 54.329707439312664,
+        "lon": -4.386813060960971,
+        "lat": 54.32972782536745,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/61649820"
       }
@@ -5974,24 +5974,56 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.501543,
-            54.155634
+            -4.501526,
+            54.155654
           ],
           [
-            -4.501758,
-            54.155578
+            -4.501608,
+            54.155619
           ],
           [
-            -4.50185,
+            -4.50173,
+            54.155584
+          ],
+          [
+            -4.501774,
+            54.155628
+          ],
+          [
+            -4.50181,
+            54.155636
+          ],
+          [
+            -4.501855,
             54.1557
           ],
           [
-            -4.501635,
-            54.155756
+            -4.501844,
+            54.155717
           ],
           [
-            -4.501543,
-            54.155634
+            -4.501805,
+            54.155726
+          ],
+          [
+            -4.501768,
+            54.155717
+          ],
+          [
+            -4.50168,
+            54.15574
+          ],
+          [
+            -4.50169,
+            54.155753
+          ],
+          [
+            -4.501636,
+            54.155764
+          ],
+          [
+            -4.501526,
+            54.155654
           ]
         ]
       },
@@ -5999,15 +6031,15 @@
         "alt_name": "The QB",
         "amenity": "pub",
         "building": "yes",
-        "listed_status": "Registered",
         "name": "The Quarterbridge",
-        "ref:registered_building": "140",
         "source": "Isle of Man Government aerial imagery (2001)",
         "url:registered_building": "https://www.gov.im/media/632225/0500140regbld-quarterbridge-hotel-add.pdf",
+        "was:listed_status": "Registered",
+        "was:ref:registered_building": "140",
         "wikidata": "Q7269284",
         "osm_id": 79372990,
-        "lon": -4.501696500000001,
-        "lat": 54.155666999999994,
+        "lon": -4.501692457832853,
+        "lat": 54.15567629848355,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79372990"
       }
@@ -12817,7 +12849,7 @@
         "source": "Isle of Man Government aerial imagery (2001);Bing;photo;survey",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
         "takeaway": "yes",
-        "url:registered_building": "https://www.gov.im/media/631667/0500026regbldformercustomsoffice.pdf",
+        "url:registered_building": "https://www.gov.im/media/1382255/rb26-notice-of-registration-and-reasons.pdf",
         "wikidata": "Q118188578",
         "osm_id": 414637480,
         "lon": -4.652235950626776,
