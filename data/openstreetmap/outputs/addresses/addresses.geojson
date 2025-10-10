@@ -20509,6 +20509,7 @@
         "addr:postcode": "IM9 6AP",
         "addr:street": "Station Road",
         "building": "industrial",
+        "building:material": "brick",
         "name": "Port Erin and Port St Mary telephone exchange",
         "operator": "Manx Telecom",
         "operator:wikidata": "Q3432658",
@@ -20592,24 +20593,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.755017,
-            54.08443
+            -4.755015,
+            54.084451
           ],
           [
-            -4.754856,
-            54.08437
+            -4.754854,
+            54.084391
           ],
           [
-            -4.754963,
-            54.084272
+            -4.754961,
+            54.084293
           ],
           [
-            -4.755124,
-            54.084332
+            -4.755122,
+            54.084353
           ],
           [
-            -4.755017,
-            54.08443
+            -4.755015,
+            54.084451
           ]
         ]
       },
@@ -20629,8 +20630,8 @@
         "opening_hours": "Fr 17:00-22:00, Sa 14:00-22:00",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 60048766,
-        "lon": -4.754989999999999,
-        "lat": 54.084351000000005,
+        "lon": -4.754988000000001,
+        "lat": 54.084372,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60048766"
       }
