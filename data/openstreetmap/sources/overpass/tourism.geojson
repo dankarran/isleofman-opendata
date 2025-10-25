@@ -990,28 +990,6 @@
     },
     {
       "type": "Feature",
-      "id": 476150222,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.475035,
-          54.161275
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:street": "Mona Drive",
-        "name": "Welbeck Hotel",
-        "phone": "+44 1624 675663",
-        "postal_code": "IM2 4LF",
-        "toilets:wheelchair": "yes",
-        "tourism": "hotel",
-        "website": "https://www.welbeckhotel.com/",
-        "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 476150244,
       "geometry": {
         "type": "Point",
@@ -1085,29 +1063,6 @@
         "postal_code": "IM7 3AJ",
         "tourism": "chalet",
         "website": "http://www.the-swiss-chalet.com"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 478680057,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.474906,
-          54.161386
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "1",
-        "addr:street": "Empire Terrace",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Mereside",
-        "postal_code": "IM2 4LE",
-        "tourism": "hotel",
-        "website": "https://www.hqbar.im/mereside.php"
       }
     },
     {
@@ -1217,29 +1172,6 @@
         "name": "Ballathona Farm",
         "postal_code": "IM7 3EH",
         "tourism": "guest_house"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 502292309,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.475513,
-          54.160812
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Seaview Hotel",
-        "addr:housenumber": "12;13;15",
-        "addr:street": "Empress Drive",
-        "fixme": "planning permission has been granted for conversion into holiday apartments - re-check in future",
-        "name": "Seaview Hotel",
-        "postal_code": "IM2 4LQ",
-        "tourism": "hotel",
-        "website": "http://www.seaview.co.im/"
       }
     },
     {
@@ -4878,6 +4810,22 @@
     },
     {
       "type": "Feature",
+      "id": 13249938195,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48099,
+          54.156749
+        ]
+      },
+      "properties": {
+        "artwork_type": "statue",
+        "fixme": "check statue",
+        "tourism": "artwork"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -5897,6 +5845,7 @@
         "addr:postcode": "IM1 3LY",
         "addr:street": "Kingswood Grove",
         "building": "yes",
+        "building:material": "brick",
         "fee": "no",
         "name": "Manx Museum",
         "name:en": "Manx Museum",
@@ -8465,7 +8414,10 @@
         "award:AA": "3stars",
         "award:visit_isle_of_man": "3stars",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "Admiral House",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "http://www.admiralhouse.com/"
@@ -8613,24 +8565,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478608,
-            54.15171
+            -4.478595,
+            54.151688
           ],
           [
-            -4.47827,
-            54.15173
+            -4.478223,
+            54.151717
           ],
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ],
           [
-            -4.478581,
-            54.151581
+            -4.478572,
+            54.151559
           ],
           [
-            -4.478608,
-            54.15171
+            -4.478595,
+            54.151688
           ]
         ]
       },
@@ -8682,10 +8634,13 @@
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Claremont",
         "phone": "+44 1624 617068",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.claremonthoteldouglas.com"
@@ -8726,7 +8681,10 @@
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "The Town House",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.thetownhouse.im/"
@@ -8765,7 +8723,10 @@
         "addr:housenumber": "14-17",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "Sugarland Hotel",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "http://www.gov.im/tourism/accommodation/properties/SV70%7B23CE477E-1C24-DE11-BB88-00155D016A2D%7D.qry?datefrom_Day=14&datefrom_Month=10&datefrom_Year=2010&nights=1&area=1&type=13&Type_Single=&Type_Twin=&Type_Double=&Type_Triple=&Type_FourOrMore=&facility="
@@ -9827,6 +9788,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "customers",
         "name": "Ramsey Park Hotel",
+        "roof:shape": "hipped",
         "rooms": "60",
         "source": "Survey",
         "tourism": "hotel",
@@ -11080,20 +11042,24 @@
             54.222013
           ],
           [
-            -4.681762,
-            54.222828
+            -4.681481,
+            54.223192
           ],
           [
-            -4.680819,
-            54.222571
+            -4.680598,
+            54.222806
           ],
           [
-            -4.681774,
-            54.221609
+            -4.680796,
+            54.222565
           ],
           [
-            -4.681876,
-            54.221612
+            -4.681387,
+            54.221946
+          ],
+          [
+            -4.681766,
+            54.221559
           ],
           [
             -4.681794,
@@ -20992,6 +20958,390 @@
         "tourism": "attraction",
         "website": "https://www.castletown.gov.im/ballalough-reedbeds-castletown-nature-reserve/",
         "wetland": "reedbed"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498159,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474812,
+            54.160712
+          ],
+          [
+            -4.474631,
+            54.160863
+          ],
+          [
+            -4.474685,
+            54.160885
+          ],
+          [
+            -4.474775,
+            54.16081
+          ],
+          [
+            -4.474805,
+            54.160822
+          ],
+          [
+            -4.474896,
+            54.160745
+          ],
+          [
+            -4.474812,
+            54.160712
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:street": "Empress Drive",
+        "building": "house",
+        "name": "The Island",
+        "source": "mapillary;website",
+        "tourism": "hotel",
+        "website": "https://iomguesthouse.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498163,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475206,
+            54.160475
+          ],
+          [
+            -4.475122,
+            54.160544
+          ],
+          [
+            -4.475145,
+            54.160556
+          ],
+          [
+            -4.475063,
+            54.160621
+          ],
+          [
+            -4.47498,
+            54.160586
+          ],
+          [
+            -4.474897,
+            54.16055
+          ],
+          [
+            -4.474972,
+            54.160489
+          ],
+          [
+            -4.475002,
+            54.160502
+          ],
+          [
+            -4.475095,
+            54.160427
+          ],
+          [
+            -4.475206,
+            54.160475
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:street": "Empress Drive",
+        "building": "house",
+        "name": "Ellesmere",
+        "source": "mapillary",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498164,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475149,
+            54.160657
+          ],
+          [
+            -4.475219,
+            54.160687
+          ],
+          [
+            -4.475302,
+            54.16062
+          ],
+          [
+            -4.475289,
+            54.160615
+          ],
+          [
+            -4.475374,
+            54.160546
+          ],
+          [
+            -4.475316,
+            54.160521
+          ],
+          [
+            -4.475149,
+            54.160657
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:street": "Empress Drive",
+        "building": "house",
+        "house": "terraced",
+        "name": "The Fairfield",
+        "tourism": "hotel",
+        "website": "https://iomguesthouse.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498169,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475567,
+            54.16073
+          ],
+          [
+            -4.475636,
+            54.160755
+          ],
+          [
+            -4.47549,
+            54.160929
+          ],
+          [
+            -4.475378,
+            54.160885
+          ],
+          [
+            -4.475409,
+            54.160857
+          ],
+          [
+            -4.475429,
+            54.160866
+          ],
+          [
+            -4.475498,
+            54.160807
+          ],
+          [
+            -4.475483,
+            54.160799
+          ],
+          [
+            -4.475567,
+            54.16073
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Seaview Hotel",
+        "addr:housenumber": "13;15",
+        "addr:street": "Empress Drive",
+        "building": "yes",
+        "fixme": "planning permission in progress for conversion into HMO - re-check in future",
+        "house": "terraced",
+        "name": "Seaview Hotel",
+        "postal_code": "IM2 4LQ",
+        "ref:planning": "25/90365/B",
+        "tourism": "hotel"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498172,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475299,
+            54.161175
+          ],
+          [
+            -4.475272,
+            54.161198
+          ],
+          [
+            -4.475307,
+            54.161212
+          ],
+          [
+            -4.475226,
+            54.161281
+          ],
+          [
+            -4.475307,
+            54.161313
+          ],
+          [
+            -4.475334,
+            54.16129
+          ],
+          [
+            -4.475374,
+            54.161306
+          ],
+          [
+            -4.475253,
+            54.161409
+          ],
+          [
+            -4.475094,
+            54.161345
+          ],
+          [
+            -4.475104,
+            54.161337
+          ],
+          [
+            -4.475007,
+            54.161298
+          ],
+          [
+            -4.474985,
+            54.161299
+          ],
+          [
+            -4.474982,
+            54.161272
+          ],
+          [
+            -4.474999,
+            54.161271
+          ],
+          [
+            -4.475172,
+            54.161124
+          ],
+          [
+            -4.475299,
+            54.161175
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4LF",
+        "addr:street": "Mona Drive",
+        "building": "yes",
+        "name": "Welbeck Hotel",
+        "phone": "+44 1624 675663",
+        "postal_code": "IM2 4LF",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.welbeckhotel.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498174,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474873,
+            54.161425
+          ],
+          [
+            -4.474838,
+            54.161455
+          ],
+          [
+            -4.474852,
+            54.16146
+          ],
+          [
+            -4.474838,
+            54.161472
+          ],
+          [
+            -4.474824,
+            54.161484
+          ],
+          [
+            -4.475067,
+            54.161581
+          ],
+          [
+            -4.475089,
+            54.161562
+          ],
+          [
+            -4.475063,
+            54.161551
+          ],
+          [
+            -4.475108,
+            54.161512
+          ],
+          [
+            -4.475079,
+            54.161501
+          ],
+          [
+            -4.475103,
+            54.16148
+          ],
+          [
+            -4.474938,
+            54.161414
+          ],
+          [
+            -4.474923,
+            54.161426
+          ],
+          [
+            -4.474908,
+            54.161439
+          ],
+          [
+            -4.474873,
+            54.161425
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Mereside",
+        "postal_code": "IM2 4LE",
+        "tourism": "hotel",
+        "website": "https://hqbar.im/"
       }
     }
   ]

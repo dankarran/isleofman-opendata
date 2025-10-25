@@ -302,13 +302,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474823,
-          54.161399
+          -4.47495,
+          54.161435
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
         "addr:street": "Empire Terrace",
         "amenity": "restaurant",
         "name": "HQ Bar",
@@ -3762,24 +3764,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ],
           [
-            -4.4782,
+            -4.478156,
+            54.151457
+          ],
+          [
+            -4.478237,
             54.151449
           ],
           [
-            -4.478549,
-            54.151422
+            -4.478538,
+            54.151426
           ],
           [
-            -4.478581,
-            54.151581
+            -4.478572,
+            54.151559
           ],
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ]
         ]
       },
@@ -5603,9 +5609,12 @@
         "addr:street": "Loch Promenade",
         "amenity": "restaurant",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "fixme": "is Coast next to rather than inside Claremont? Seems to share same address",
         "name": "Coast",
         "phone": "+44 1624 698888",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.coast.im"
       }

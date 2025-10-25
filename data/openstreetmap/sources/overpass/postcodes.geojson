@@ -1203,6 +1203,28 @@
     },
     {
       "type": "Feature",
+      "id": 478680059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47495,
+          54.161435
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "amenity": "restaurant",
+        "name": "HQ Bar",
+        "postal_code": "IM2 4LE",
+        "website": "https://www.hqbar.im/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 480468839,
       "geometry": {
         "type": "Point",
@@ -9735,6 +9757,23 @@
     },
     {
       "type": "Feature",
+      "id": 13254103724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474893,
+          54.161465
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 27032567,
       "geometry": {
         "type": "LineString",
@@ -12758,6 +12797,7 @@
         "addr:postcode": "IM1 3LY",
         "addr:street": "Kingswood Grove",
         "building": "yes",
+        "building:material": "brick",
         "fee": "no",
         "name": "Manx Museum",
         "name:en": "Manx Museum",
@@ -13130,28 +13170,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478392,
-            54.158703
+            -4.478363,
+            54.158712
           ],
           [
-            -4.478329,
-            54.158745
+            -4.478347,
+            54.158726
           ],
           [
-            -4.478172,
-            54.158848
+            -4.478147,
+            54.15886
           ],
           [
-            -4.477779,
-            54.158642
+            -4.47777,
+            54.158671
           ],
           [
-            -4.477998,
-            54.158498
+            -4.477986,
+            54.158523
           ],
           [
-            -4.478392,
-            54.158703
+            -4.478363,
+            54.158712
           ]
         ]
       },
@@ -13165,6 +13205,7 @@
         "building": "yes",
         "name": "Tesco Express",
         "old_name": "Winerite Extra",
+        "roof:colour": "lightgrey",
         "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
         "was:shop": "beverages",
@@ -14281,24 +14322,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481743,
-            54.152219
+            -4.481713,
+            54.15222
           ],
           [
-            -4.48144,
-            54.15221
+            -4.481428,
+            54.152212
           ],
           [
-            -4.481474,
-            54.151794
+            -4.481462,
+            54.151814
           ],
           [
-            -4.481777,
-            54.151803
+            -4.481748,
+            54.151823
           ],
           [
-            -4.481743,
-            54.152219
+            -4.481713,
+            54.15222
           ]
         ]
       },
@@ -14309,6 +14350,7 @@
         "addr:postcode": "IM1 2SF",
         "addr:street": "Mount Havelock",
         "building": "office",
+        "roof:shape": "hipped",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -21255,24 +21297,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ],
           [
-            -4.4782,
+            -4.478156,
+            54.151457
+          ],
+          [
+            -4.478237,
             54.151449
           ],
           [
-            -4.478549,
-            54.151422
+            -4.478538,
+            54.151426
           ],
           [
-            -4.478581,
-            54.151581
+            -4.478572,
+            54.151559
           ],
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ]
         ]
       },
@@ -25161,24 +25207,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481964,
-            54.153145
+            -4.481935,
+            54.153158
           ],
           [
-            -4.481602,
-            54.153147
+            -4.481573,
+            54.15316
           ],
           [
-            -4.4816,
-            54.152982
+            -4.48157,
+            54.152995
           ],
           [
-            -4.481962,
-            54.15298
+            -4.481932,
+            54.152993
           ],
           [
-            -4.481964,
-            54.153145
+            -4.481935,
+            54.153158
           ]
         ]
       },
@@ -25190,6 +25236,7 @@
         "addr:postcode": "IM1 2SD",
         "addr:street": "Christian Road",
         "building": "yes",
+        "building:material": "brick",
         "name": "Sovereign Trust (Isle of Man) Ltd",
         "office": "company",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
@@ -25286,6 +25333,7 @@
         "building:levels": "5",
         "building:material": "brick",
         "old_name": "Lloyds TSB;Lloyds Bank",
+        "roof:colour": "lightgrey",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:name": "photo"
       }
@@ -29383,20 +29431,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478111,
-            54.173345
+            -4.47834,
+            54.173308
           ],
           [
-            -4.477915,
-            54.172922
+            -4.477936,
+            54.173335
+          ],
+          [
+            -4.477864,
+            54.172965
           ],
           [
             -4.477727,
             54.172644
           ],
           [
-            -4.477555,
-            54.172296
+            -4.477512,
+            54.172291
           ],
           [
             -4.477456,
@@ -29499,8 +29551,8 @@
             54.173111
           ],
           [
-            -4.478111,
-            54.173345
+            -4.47834,
+            54.173308
           ]
         ]
       },
@@ -30647,6 +30699,7 @@
         "addr:postcode": "IM1 1AD",
         "addr:street": "Circular Road",
         "building": "commercial",
+        "building:colour": "#c5cfab",
         "building:levels": "3",
         "name": "Evergreen House",
         "smoking": "isolated",
@@ -33235,12 +33288,12 @@
             54.177789
           ],
           [
-            -4.478874,
-            54.177164
+            -4.478746,
+            54.177228
           ],
           [
-            -4.479319,
-            54.177318
+            -4.479298,
+            54.177405
           ],
           [
             -4.479367,
@@ -34974,24 +35027,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474702,
-            54.16064
+            -4.474664,
+            54.16065
           ],
           [
-            -4.474413,
-            54.160518
+            -4.474374,
+            54.160526
           ],
           [
-            -4.473999,
-            54.160855
+            -4.473965,
+            54.160857
           ],
           [
-            -4.474289,
-            54.160977
+            -4.474256,
+            54.16098
           ],
           [
-            -4.474702,
-            54.16064
+            -4.474664,
+            54.16065
           ]
         ]
       },
@@ -35423,7 +35476,10 @@
         "award:AA": "3stars",
         "award:visit_isle_of_man": "3stars",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "Admiral House",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "http://www.admiralhouse.com/"
@@ -35487,28 +35543,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478549,
-            54.151422
+            -4.478538,
+            54.151426
           ],
           [
-            -4.4782,
+            -4.478237,
             54.151449
           ],
           [
-            -4.478167,
-            54.151323
+            -4.478156,
+            54.151457
           ],
           [
-            -4.4785,
-            54.151298
+            -4.478122,
+            54.151333
           ],
           [
-            -4.478528,
-            54.151324
+            -4.478203,
+            54.151325
           ],
           [
-            -4.478549,
-            54.151422
+            -4.478489,
+            54.151302
+          ],
+          [
+            -4.478517,
+            54.151327
+          ],
+          [
+            -4.478538,
+            54.151426
           ]
         ]
       },
@@ -35562,10 +35626,13 @@
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Claremont",
         "phone": "+44 1624 617068",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.claremonthoteldouglas.com"
@@ -35607,9 +35674,12 @@
         "addr:street": "Loch Promenade",
         "amenity": "restaurant",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "fixme": "is Coast next to rather than inside Claremont? Seems to share same address",
         "name": "Coast",
         "phone": "+44 1624 698888",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.coast.im"
       }
@@ -35649,7 +35719,10 @@
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "The Town House",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.thetownhouse.im/"
@@ -36214,6 +36287,7 @@
         "addr:postcode": "IM2 4ER",
         "addr:street": "Victoria Road",
         "building": "yes",
+        "building:colour": "lightgrey",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "interpolation",
@@ -41902,24 +41976,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481982,
-            54.161581
+            -4.481954,
+            54.161593
           ],
           [
-            -4.48173,
-            54.161729
+            -4.481702,
+            54.161741
           ],
           [
-            -4.481848,
-            54.161798
+            -4.48182,
+            54.16181
           ],
           [
-            -4.4821,
-            54.16165
+            -4.482059,
+            54.16167
           ],
           [
-            -4.481982,
-            54.161581
+            -4.482073,
+            54.161662
+          ],
+          [
+            -4.481981,
+            54.161609
+          ],
+          [
+            -4.481954,
+            54.161593
           ]
         ]
       },
@@ -55676,6 +55758,7 @@
         "building:levels": "10",
         "fixme": "multiple postcodes, maybe one per floor?",
         "image": "https://www.geograph.org.uk/photo/4884515",
+        "roof:colour": "lightgrey",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -55823,6 +55906,7 @@
         "building": "apartments",
         "building:levels": "4",
         "fixme": "multiple postcodes, maybe one per floor?",
+        "roof:colour": "lightgrey",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -56936,6 +57020,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "customers",
         "name": "Ramsey Park Hotel",
+        "roof:shape": "hipped",
         "rooms": "60",
         "source": "Survey",
         "tourism": "hotel",
@@ -60647,6 +60732,7 @@
         "building": "yes",
         "name": "Ramsey Rugby Club community sports pavilion",
         "operator": "Ramsey Rugby Club",
+        "roof:shape": "hipped",
         "sport": "rugby_union",
         "website": "https://ramsey.rfu.club/"
       }
@@ -68128,40 +68214,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484265,
-            54.152025
+            -4.48426,
+            54.152039
           ],
           [
-            -4.483799,
-            54.152253
+            -4.484206,
+            54.152059
           ],
           [
-            -4.483799,
-            54.152274
+            -4.483794,
+            54.152254
           ],
           [
-            -4.48389,
-            54.152296
+            -4.483797,
+            54.152283
           ],
           [
-            -4.483952,
-            54.152265
+            -4.483904,
+            54.152308
           ],
           [
-            -4.48405,
-            54.152334
+            -4.483956,
+            54.152282
           ],
           [
-            -4.48415,
-            54.152358
+            -4.484016,
+            54.152326
           ],
           [
-            -4.484498,
-            54.152188
+            -4.484116,
+            54.15235
           ],
           [
-            -4.484265,
-            54.152025
+            -4.484464,
+            54.15218
+          ],
+          [
+            -4.48426,
+            54.152039
           ]
         ]
       },
@@ -110178,6 +110268,7 @@
         "building": "yes",
         "name": "Paul Dedman Performance",
         "phone": "+441624 812390",
+        "roof:shape": "flat",
         "shop": "motorcycle",
         "source": "Survey",
         "website": "https://www.pauldedman.com/"
@@ -120632,24 +120723,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.373774,
-            54.315414
+            -4.373811,
+            54.315411
           ],
           [
-            -4.373532,
-            54.31539
+            -4.373569,
+            54.315387
           ],
           [
-            -4.373577,
-            54.315233
+            -4.373602,
+            54.315249
           ],
           [
-            -4.373819,
-            54.315258
+            -4.373853,
+            54.315273
           ],
           [
-            -4.373774,
-            54.315414
+            -4.373811,
+            54.315411
           ]
         ]
       },
@@ -120660,6 +120751,7 @@
         "addr:postcode": "IM8 1NL",
         "addr:street": "Ballure Road",
         "building": "yes",
+        "roof:shape": "hipped",
         "source:addr:housename": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -132308,6 +132400,7 @@
         "addr:postcode": "IM1 1AF",
         "addr:street": "Circular Road",
         "building": "yes",
+        "building:colour": "blue",
         "name": "Carters",
         "office": "lawyer",
         "website": "https://carters.co.im/"
@@ -132451,6 +132544,7 @@
         "addr:postcode": "IM1 4LZ",
         "addr:street": "Peel Road",
         "building": "office",
+        "building:material": "brick",
         "name": "Evolution Recruitment",
         "office": "employment_agency",
         "source": "streetside",
@@ -132984,6 +133078,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "#c2b5ad",
         "source:addr:housenumber": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -133023,6 +133118,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "#4c4e5b",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -133062,6 +133158,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "#cdbcac",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -133102,6 +133199,7 @@
         "addr:street": "Peel Road",
         "addr:substreet": "Athol Terrace",
         "building": "yes",
+        "building:colour": "#a69687",
         "source:addr:housenumber": "interpolation",
         "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -133141,6 +133239,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "grey",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -162718,6 +162817,229 @@
         "addr:postcode": "IM9 2AE",
         "addr:street": "Station Road",
         "building": "office"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1443946368,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479864,
+            54.157553
+          ],
+          [
+            -4.479824,
+            54.157556
+          ],
+          [
+            -4.479786,
+            54.157554
+          ],
+          [
+            -4.479768,
+            54.157543
+          ],
+          [
+            -4.479764,
+            54.157527
+          ],
+          [
+            -4.479771,
+            54.157497
+          ],
+          [
+            -4.479857,
+            54.157502
+          ],
+          [
+            -4.479864,
+            54.157553
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1a",
+        "addr:postcode": "IM2 3EU",
+        "addr:street": "Derby Road",
+        "building": "yes",
+        "name": "Simply Sew",
+        "shop": "sewing",
+        "source": "streetside",
+        "source:addr:postcode": "companies registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498172,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475299,
+            54.161175
+          ],
+          [
+            -4.475272,
+            54.161198
+          ],
+          [
+            -4.475307,
+            54.161212
+          ],
+          [
+            -4.475226,
+            54.161281
+          ],
+          [
+            -4.475307,
+            54.161313
+          ],
+          [
+            -4.475334,
+            54.16129
+          ],
+          [
+            -4.475374,
+            54.161306
+          ],
+          [
+            -4.475253,
+            54.161409
+          ],
+          [
+            -4.475094,
+            54.161345
+          ],
+          [
+            -4.475104,
+            54.161337
+          ],
+          [
+            -4.475007,
+            54.161298
+          ],
+          [
+            -4.474985,
+            54.161299
+          ],
+          [
+            -4.474982,
+            54.161272
+          ],
+          [
+            -4.474999,
+            54.161271
+          ],
+          [
+            -4.475172,
+            54.161124
+          ],
+          [
+            -4.475299,
+            54.161175
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4LF",
+        "addr:street": "Mona Drive",
+        "building": "yes",
+        "name": "Welbeck Hotel",
+        "phone": "+44 1624 675663",
+        "postal_code": "IM2 4LF",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.welbeckhotel.com/",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498174,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474873,
+            54.161425
+          ],
+          [
+            -4.474838,
+            54.161455
+          ],
+          [
+            -4.474852,
+            54.16146
+          ],
+          [
+            -4.474838,
+            54.161472
+          ],
+          [
+            -4.474824,
+            54.161484
+          ],
+          [
+            -4.475067,
+            54.161581
+          ],
+          [
+            -4.475089,
+            54.161562
+          ],
+          [
+            -4.475063,
+            54.161551
+          ],
+          [
+            -4.475108,
+            54.161512
+          ],
+          [
+            -4.475079,
+            54.161501
+          ],
+          [
+            -4.475103,
+            54.16148
+          ],
+          [
+            -4.474938,
+            54.161414
+          ],
+          [
+            -4.474923,
+            54.161426
+          ],
+          [
+            -4.474908,
+            54.161439
+          ],
+          [
+            -4.474873,
+            54.161425
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Mereside",
+        "postal_code": "IM2 4LE",
+        "tourism": "hotel",
+        "website": "https://hqbar.im/"
       }
     }
   ]

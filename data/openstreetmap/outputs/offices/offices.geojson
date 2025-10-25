@@ -2507,24 +2507,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481964,
-            54.153145
+            -4.481935,
+            54.153158
           ],
           [
-            -4.481602,
-            54.153147
+            -4.481573,
+            54.15316
           ],
           [
-            -4.4816,
-            54.152982
+            -4.48157,
+            54.152995
           ],
           [
-            -4.481962,
-            54.15298
+            -4.481932,
+            54.152993
           ],
           [
-            -4.481964,
-            54.153145
+            -4.481935,
+            54.153158
           ]
         ]
       },
@@ -2536,13 +2536,14 @@
         "addr:postcode": "IM1 2SD",
         "addr:street": "Christian Road",
         "building": "yes",
+        "building:material": "brick",
         "name": "Sovereign Trust (Isle of Man) Ltd",
         "office": "company",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
         "website": "https://www.sovereigngroup.com/offices/isle-of-man/",
         "osm_id": 62092195,
-        "lon": -4.481782000000002,
-        "lat": 54.1530635,
+        "lon": -4.481752499999998,
+        "lat": 54.1530765,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62092195"
       }
@@ -8215,6 +8216,7 @@
         "addr:postcode": "IM1 1AF",
         "addr:street": "Circular Road",
         "building": "yes",
+        "building:colour": "blue",
         "name": "Carters",
         "office": "lawyer",
         "website": "https://carters.co.im/",
@@ -8425,6 +8427,7 @@
         "addr:postcode": "IM1 4LZ",
         "addr:street": "Peel Road",
         "building": "office",
+        "building:material": "brick",
         "name": "Evolution Recruitment",
         "office": "employment_agency",
         "source": "streetside",

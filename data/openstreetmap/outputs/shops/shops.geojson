@@ -5308,28 +5308,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478392,
-            54.158703
+            -4.478363,
+            54.158712
           ],
           [
-            -4.478329,
-            54.158745
+            -4.478347,
+            54.158726
           ],
           [
-            -4.478172,
-            54.158848
+            -4.478147,
+            54.15886
           ],
           [
-            -4.477779,
-            54.158642
+            -4.47777,
+            54.158671
           ],
           [
-            -4.477998,
-            54.158498
+            -4.477986,
+            54.158523
           ],
           [
-            -4.478392,
-            54.158703
+            -4.478363,
+            54.158712
           ]
         ]
       },
@@ -5343,13 +5343,14 @@
         "building": "yes",
         "name": "Tesco Express",
         "old_name": "Winerite Extra",
+        "roof:colour": "lightgrey",
         "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
         "was:shop": "beverages",
         "website": "https://www.tesco.com/store-locator/douglas/victoria-road",
         "osm_id": 59284274,
-        "lon": -4.478085496383448,
-        "lat": 54.15867286013143,
+        "lon": -4.478066668571609,
+        "lat": 54.15869170184129,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59284274"
       }
@@ -26590,6 +26591,7 @@
         "building": "yes",
         "name": "Paul Dedman Performance",
         "phone": "+441624 812390",
+        "roof:shape": "flat",
         "shop": "motorcycle",
         "source": "Survey",
         "website": "https://www.pauldedman.com/",
@@ -29208,9 +29210,12 @@
       },
       "properties": {
         "building": "commercial",
+        "building:colour": "brown",
+        "building:levels": "2",
         "contact:phone": "+44 7624 303137",
         "name": "Barber Code",
         "opening_hours": "Mo,Tu 09:00-17:00, We 09:00-14:25, Th-Sa 09:00-18:00",
+        "roof:shape": "flat",
         "shop": "hairdresser",
         "osm_id": 1158812326,
         "lon": -4.483763929618047,
@@ -33038,6 +33043,64 @@
         "lat": 54.149091897423496,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1324194639"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1443946368,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479864,
+            54.157553
+          ],
+          [
+            -4.479824,
+            54.157556
+          ],
+          [
+            -4.479786,
+            54.157554
+          ],
+          [
+            -4.479768,
+            54.157543
+          ],
+          [
+            -4.479764,
+            54.157527
+          ],
+          [
+            -4.479771,
+            54.157497
+          ],
+          [
+            -4.479857,
+            54.157502
+          ],
+          [
+            -4.479864,
+            54.157553
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1a",
+        "addr:postcode": "IM2 3EU",
+        "addr:street": "Derby Road",
+        "building": "yes",
+        "name": "Simply Sew",
+        "shop": "sewing",
+        "source": "streetside",
+        "source:addr:postcode": "companies registry",
+        "osm_id": 1443946368,
+        "lon": -4.479814879743983,
+        "lat": 54.1575268194892,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1443946368"
       }
     }
   ]

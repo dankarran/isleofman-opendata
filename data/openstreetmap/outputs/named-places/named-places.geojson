@@ -21282,7 +21282,7 @@
       },
       "properties": {
         "name": "Willaston",
-        "place": "village",
+        "place": "suburb",
         "osm_id": 532815042,
         "lon": -4.483342,
         "lat": 54.171075,
@@ -28369,146 +28369,6 @@
         "lat": 54.2834,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12643257759"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357661,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.352897,
-          54.293031
-        ]
-      },
-      "properties": {
-        "name": "Ramsey",
-        "place": "locality",
-        "osm_id": 13049357661,
-        "lon": -4.352897,
-        "lat": 54.293031,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357661"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357662,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.787867,
-          54.063513
-        ]
-      },
-      "properties": {
-        "name": "Come",
-        "place": "locality",
-        "osm_id": 13049357662,
-        "lon": -4.787867,
-        "lat": 54.063513,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357662"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357663,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.386516,
-          54.392038
-        ]
-      },
-      "properties": {
-        "name": "Outer Lough Cranstal",
-        "place": "locality",
-        "osm_id": 13049357663,
-        "lon": -4.386516,
-        "lat": 54.392038,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357663"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357664,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.666071,
-          54.110817
-        ]
-      },
-      "properties": {
-        "name": "Ballavarkish",
-        "place": "locality",
-        "osm_id": 13049357664,
-        "lon": -4.666071,
-        "lat": 54.110817,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357664"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357665,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.669113,
-          54.121398
-        ]
-      },
-      "properties": {
-        "name": "Ramsey",
-        "place": "locality",
-        "osm_id": 13049357665,
-        "lon": -4.669113,
-        "lat": 54.121398,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357665"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357666,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.675703,
-          54.203294
-        ]
-      },
-      "properties": {
-        "name": "Ballaquayle",
-        "place": "locality",
-        "osm_id": 13049357666,
-        "lon": -4.675703,
-        "lat": 54.203294,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357666"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13049357667,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.518389,
-          54.228454
-        ]
-      },
-      "properties": {
-        "name": "Outer",
-        "place": "locality",
-        "osm_id": 13049357667,
-        "lon": -4.518389,
-        "lat": 54.228454,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13049357667"
       }
     },
     {
@@ -35633,16 +35493,20 @@
             54.166383
           ],
           [
-            -4.522603,
-            54.167219
+            -4.522272,
+            54.167096
           ],
           [
-            -4.522743,
-            54.167217
+            -4.522808,
+            54.167079
           ],
           [
-            -4.523601,
-            54.167206
+            -4.522806,
+            54.167192
+          ],
+          [
+            -4.523452,
+            54.167248
           ],
           [
             -4.524326,
@@ -35705,8 +35569,8 @@
             54.168663
           ],
           [
-            -4.523955,
-            54.16845
+            -4.523983,
+            54.168543
           ],
           [
             -4.522914,
@@ -35924,8 +35788,8 @@
         "place": "village",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 79240227,
-        "lon": -4.52438584557034,
-        "lat": 54.16944108660768,
+        "lon": -4.524384282299268,
+        "lat": 54.169438284777364,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79240227"
       }
@@ -37731,6 +37595,7 @@
         "amenity": "parking",
         "fee": "yes",
         "name": "Saint Paul's Square",
+        "parking": "surface",
         "place": "locality",
         "wheelchair": "yes",
         "osm_id": 99341578,
