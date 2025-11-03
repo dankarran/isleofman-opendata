@@ -1448,6 +1448,33 @@
     },
     {
       "type": "Feature",
+      "id": 476150218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474519,
+          54.161805
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "name": "Ascot Hotel",
+        "postal_code": "IM2 4LE",
+        "tourism": "hotel",
+        "website": "https://www.ascothotel.im",
+        "osm_id": 476150218,
+        "lon": -4.474519,
+        "lat": 54.161805,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/476150218"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 476150244,
       "geometry": {
         "type": "Point",
@@ -1474,6 +1501,33 @@
         "lat": 54.16358,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/476150244"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 478680059,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47495,
+          54.161435
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "amenity": "restaurant",
+        "name": "HQ Bar",
+        "postal_code": "IM2 4LE",
+        "website": "https://www.hqbar.im/",
+        "osm_id": 478680059,
+        "lon": -4.47495,
+        "lat": 54.161435,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/478680059"
       }
     },
     {
@@ -10779,56 +10833,6 @@
     },
     {
       "type": "Feature",
-      "id": 12160793669,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.47921,
-          54.162759
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Hillcrest",
-        "addr:postcode": "IM2 4BN",
-        "addr:street": "Lower Duke's Road",
-        "source:addr:housename": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12160793669,
-        "lon": -4.47921,
-        "lat": 54.162759,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12160793669"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12160793670,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479999,
-          54.162529
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Langdale House",
-        "addr:postcode": "IM2 4BQ",
-        "addr:street": "Lower Duke's Road",
-        "source:addr:housename": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 12160793670,
-        "lon": -4.479999,
-        "lat": 54.162529,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12160793670"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12172106686,
       "geometry": {
         "type": "Point",
@@ -11956,6 +11960,28 @@
         "lat": 54.322028,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12862660528"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13254103724,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.474893,
+          54.161465
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "osm_id": 13254103724,
+        "lon": -4.474893,
+        "lat": 54.161465,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13254103724"
       }
     },
     {
@@ -15078,6 +15104,7 @@
         "addr:postcode": "IM1 3LY",
         "addr:street": "Kingswood Grove",
         "building": "yes",
+        "building:material": "brick",
         "fee": "no",
         "name": "Manx Museum",
         "name:en": "Manx Museum",
@@ -15475,28 +15502,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478392,
-            54.158703
+            -4.478363,
+            54.158712
           ],
           [
-            -4.478329,
-            54.158745
+            -4.478347,
+            54.158726
           ],
           [
-            -4.478172,
-            54.158848
+            -4.478147,
+            54.15886
           ],
           [
-            -4.477779,
-            54.158642
+            -4.47777,
+            54.158671
           ],
           [
-            -4.477998,
-            54.158498
+            -4.477986,
+            54.158523
           ],
           [
-            -4.478392,
-            54.158703
+            -4.478363,
+            54.158712
           ]
         ]
       },
@@ -15510,13 +15537,14 @@
         "building": "yes",
         "name": "Tesco Express",
         "old_name": "Winerite Extra",
+        "roof:colour": "lightgrey",
         "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
         "was:shop": "beverages",
         "website": "https://www.tesco.com/store-locator/douglas/victoria-road",
         "osm_id": 59284274,
-        "lon": -4.478085496383448,
-        "lat": 54.15867286013143,
+        "lon": -4.478066668571609,
+        "lat": 54.15869170184129,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59284274"
       }
@@ -16726,24 +16754,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481743,
-            54.152219
+            -4.481713,
+            54.15222
           ],
           [
-            -4.48144,
-            54.15221
+            -4.481428,
+            54.152212
           ],
           [
-            -4.481474,
-            54.151794
+            -4.481462,
+            54.151814
           ],
           [
-            -4.481777,
-            54.151803
+            -4.481748,
+            54.151823
           ],
           [
-            -4.481743,
-            54.152219
+            -4.481713,
+            54.15222
           ]
         ]
       },
@@ -16754,10 +16782,11 @@
         "addr:postcode": "IM1 2SF",
         "addr:street": "Mount Havelock",
         "building": "office",
+        "roof:shape": "hipped",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 59384912,
-        "lon": -4.481608500000001,
-        "lat": 54.1520065,
+        "lon": -4.48158766811803,
+        "lat": 54.15201709776782,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59384912"
       }
@@ -18350,72 +18379,72 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.662619,
-            54.077083
+            -4.6626,
+            54.077096
           ],
           [
-            -4.662477,
-            54.077195
+            -4.662463,
+            54.077209
           ],
           [
-            -4.662167,
-            54.07706
+            -4.662141,
+            54.077078
           ],
           [
-            -4.661872,
-            54.077293
+            -4.661867,
+            54.077307
           ],
           [
-            -4.661669,
-            54.077205
+            -4.661673,
+            54.077226
           ],
           [
-            -4.661728,
-            54.077158
+            -4.661733,
+            54.077174
           ],
           [
-            -4.661666,
-            54.077131
+            -4.66167,
+            54.077149
           ],
           [
-            -4.661723,
-            54.077086
+            -4.661727,
+            54.077101
           ],
           [
-            -4.661783,
-            54.077112
+            -4.661788,
+            54.077132
           ],
           [
-            -4.661949,
-            54.07698
+            -4.661962,
+            54.076995
           ],
           [
-            -4.661883,
-            54.076952
+            -4.661875,
+            54.076965
           ],
           [
-            -4.662027,
+            -4.66202,
+            54.076845
+          ],
+          [
+            -4.662104,
+            54.076881
+          ],
+          [
+            -4.66216,
             54.076838
           ],
           [
-            -4.662095,
-            54.076868
+            -4.662361,
+            54.076918
           ],
           [
-            -4.662156,
-            54.07682
+            -4.662293,
+            54.076963
           ],
           [
-            -4.662354,
-            54.076906
-          ],
-          [
-            -4.662305,
-            54.076946
-          ],
-          [
-            -4.662619,
-            54.077083
+            -4.6626,
+            54.077096
           ]
         ]
       },
@@ -18426,12 +18455,17 @@
         "addr:postcode": "IM9 1RA",
         "addr:street": "Arbory Road",
         "building": "yes",
+        "building:colour": "white",
+        "building:levels": "1",
         "name": "Friends Provident International",
         "office": "financial",
+        "roof:colour": "grey",
+        "roof:levels": "1",
+        "roof:shape": "gabled",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 59652554,
-        "lon": -4.662109424926087,
-        "lat": 54.077061864644676,
+        "lon": -4.6621015008317634,
+        "lat": 54.07707330617375,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59652554"
       }
@@ -19882,6 +19916,7 @@
         "addr:postcode": "IM9 1RE",
         "addr:street": "Arbory Road",
         "amenity": "school",
+        "education": "school",
         "name": "Castle Rushen High School",
         "phone": "+44 1624 693500",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -21055,6 +21090,7 @@
         "addr:street": "Victoria Road",
         "addr:substreet": "School Lane",
         "amenity": "school",
+        "education": "school",
         "name": "Victoria Road Primary School",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://victoriaroad.sch.im",
@@ -24285,24 +24321,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ],
           [
-            -4.4782,
+            -4.478156,
+            54.151457
+          ],
+          [
+            -4.478237,
             54.151449
           ],
           [
-            -4.478549,
-            54.151422
+            -4.478538,
+            54.151426
           ],
           [
-            -4.478581,
-            54.151581
+            -4.478572,
+            54.151559
           ],
           [
-            -4.478238,
-            54.151601
+            -4.478194,
+            54.151588
           ]
         ]
       },
@@ -24320,8 +24360,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://paparazzidouglas.co.uk",
         "osm_id": 60675022,
-        "lon": -4.478392829835178,
-        "lat": 54.151512689966346,
+        "lon": -4.478365065585539,
+        "lat": 54.1515069602222,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60675022"
       }
@@ -28526,24 +28566,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481964,
-            54.153145
+            -4.481935,
+            54.153158
           ],
           [
-            -4.481602,
-            54.153147
+            -4.481573,
+            54.15316
           ],
           [
-            -4.4816,
-            54.152982
+            -4.48157,
+            54.152995
           ],
           [
-            -4.481962,
-            54.15298
+            -4.481932,
+            54.152993
           ],
           [
-            -4.481964,
-            54.153145
+            -4.481935,
+            54.153158
           ]
         ]
       },
@@ -28555,13 +28595,14 @@
         "addr:postcode": "IM1 2SD",
         "addr:street": "Christian Road",
         "building": "yes",
+        "building:material": "brick",
         "name": "Sovereign Trust (Isle of Man) Ltd",
         "office": "company",
         "source": "Isle of Man Government aerial imagery (2001);mapillary",
         "website": "https://www.sovereigngroup.com/offices/isle-of-man/",
         "osm_id": 62092195,
-        "lon": -4.481782000000002,
-        "lat": 54.1530635,
+        "lon": -4.481752499999998,
+        "lat": 54.1530765,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/62092195"
       }
@@ -28656,6 +28697,7 @@
         "building:levels": "5",
         "building:material": "brick",
         "old_name": "Lloyds TSB;Lloyds Bank",
+        "roof:colour": "lightgrey",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:name": "photo",
         "osm_id": 62118205,
@@ -33113,20 +33155,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478111,
-            54.173345
+            -4.47834,
+            54.173308
           ],
           [
-            -4.477915,
-            54.172922
+            -4.477936,
+            54.173335
+          ],
+          [
+            -4.477864,
+            54.172965
           ],
           [
             -4.477727,
             54.172644
           ],
           [
-            -4.477555,
-            54.172296
+            -4.477512,
+            54.172291
           ],
           [
             -4.477456,
@@ -33229,8 +33275,8 @@
             54.173111
           ],
           [
-            -4.478111,
-            54.173345
+            -4.47834,
+            54.173308
           ]
         ]
       },
@@ -33248,8 +33294,8 @@
         "wikidata": "Q3445987",
         "wikipedia": "en:University College Isle of Man",
         "osm_id": 77964053,
-        "lon": -4.478698051523375,
-        "lat": 54.17201752046033,
+        "lon": -4.478684722033743,
+        "lat": 54.172040401817355,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/77964053"
       }
@@ -34472,6 +34518,7 @@
         "addr:postcode": "IM1 1AD",
         "addr:street": "Circular Road",
         "building": "commercial",
+        "building:colour": "#c5cfab",
         "building:levels": "3",
         "name": "Evergreen House",
         "smoking": "isolated",
@@ -37305,12 +37352,12 @@
             54.177789
           ],
           [
-            -4.478874,
-            54.177164
+            -4.478746,
+            54.177228
           ],
           [
-            -4.479319,
-            54.177318
+            -4.479298,
+            54.177405
           ],
           [
             -4.479367,
@@ -37348,8 +37395,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://cyb.sch.im/",
         "osm_id": 79212629,
-        "lon": -4.477861839586172,
-        "lat": 54.17823221272119,
+        "lon": -4.477842291374915,
+        "lat": 54.178250281071016,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79212629"
       }
@@ -39214,24 +39261,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474702,
-            54.16064
+            -4.474664,
+            54.16065
           ],
           [
-            -4.474413,
-            54.160518
+            -4.474374,
+            54.160526
           ],
           [
-            -4.473999,
-            54.160855
+            -4.473965,
+            54.160857
           ],
           [
-            -4.474289,
-            54.160977
+            -4.474256,
+            54.16098
           ],
           [
-            -4.474702,
-            54.16064
+            -4.474664,
+            54.16065
           ]
         ]
       },
@@ -39245,8 +39292,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 80830543,
-        "lon": -4.474350571417969,
-        "lat": 54.16074756370425,
+        "lon": -4.4743145643318405,
+        "lat": 54.1607532503445,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80830543"
       }
@@ -39317,16 +39364,16 @@
             54.161127
           ],
           [
-            -4.473564,
-            54.161195
+            -4.473565,
+            54.161194
           ],
           [
-            -4.473873,
-            54.16133
+            -4.473836,
+            54.161313
           ],
           [
-            -4.473917,
-            54.161295
+            -4.47388,
+            54.161278
           ],
           [
             -4.473768,
@@ -39356,8 +39403,8 @@
         "was:tourism": "hotel",
         "website": "https://www.stheliers.im",
         "osm_id": 80830548,
-        "lon": -4.473744992434045,
-        "lat": 54.16123042182954,
+        "lon": -4.473729814592838,
+        "lat": 54.161221507711105,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80830548"
       }
@@ -39369,28 +39416,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.473494,
-            54.16125
+            -4.473493,
+            54.161249
           ],
           [
-            -4.473435,
-            54.161296
+            -4.47343,
+            54.161298
           ],
           [
-            -4.47376,
-            54.161438
+            -4.473693,
+            54.161414
           ],
           [
-            -4.473818,
-            54.161392
+            -4.473756,
+            54.161365
           ],
           [
-            -4.47366,
-            54.161322
+            -4.473659,
+            54.161323
           ],
           [
-            -4.473494,
-            54.16125
+            -4.473493,
+            54.161249
           ]
         ]
       },
@@ -39411,8 +39458,8 @@
         "twitter": "savoyiom",
         "website": "https://www.savoyiom.com/",
         "osm_id": 80830551,
-        "lon": -4.473626627194427,
-        "lat": 54.161343829062034,
+        "lon": -4.473592943756492,
+        "lat": 54.16133162825592,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80830551"
       }
@@ -39703,7 +39750,10 @@
         "award:AA": "3stars",
         "award:visit_isle_of_man": "3stars",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "Admiral House",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "http://www.admiralhouse.com/",
@@ -39777,28 +39827,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.478549,
-            54.151422
+            -4.478538,
+            54.151426
           ],
           [
-            -4.4782,
+            -4.478237,
             54.151449
           ],
           [
-            -4.478167,
-            54.151323
+            -4.478156,
+            54.151457
           ],
           [
-            -4.4785,
-            54.151298
+            -4.478122,
+            54.151333
           ],
           [
-            -4.478528,
-            54.151324
+            -4.478203,
+            54.151325
           ],
           [
-            -4.478549,
-            54.151422
+            -4.478489,
+            54.151302
+          ],
+          [
+            -4.478517,
+            54.151327
+          ],
+          [
+            -4.478538,
+            54.151426
           ]
         ]
       },
@@ -39816,8 +39874,8 @@
         "religion": "christian",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 81446772,
-        "lon": -4.478356863170604,
-        "lat": 54.15137334727719,
+        "lon": -4.478329383961622,
+        "lat": 54.15137919915475,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/81446772"
       }
@@ -39857,10 +39915,13 @@
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Claremont",
         "phone": "+44 1624 617068",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.claremonthoteldouglas.com",
@@ -39907,9 +39968,12 @@
         "addr:street": "Loch Promenade",
         "amenity": "restaurant",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "fixme": "is Coast next to rather than inside Claremont? Seems to share same address",
         "name": "Coast",
         "phone": "+44 1624 698888",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.coast.im",
         "osm_id": 81446777,
@@ -39954,7 +40018,10 @@
         "addr:postcode": "IM1 2LX",
         "addr:street": "Loch Promenade",
         "building": "yes",
+        "building:colour": "lightyellow",
+        "building:levels": "3",
         "name": "The Town House",
+        "roof:levels": "1",
         "source": "Isle of Man Government aerial imagery (2001)",
         "tourism": "hotel",
         "website": "https://www.thetownhouse.im/",
@@ -40564,6 +40631,7 @@
         "addr:postcode": "IM2 4ER",
         "addr:street": "Victoria Road",
         "building": "yes",
+        "building:colour": "lightgrey",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "interpolation",
@@ -44675,32 +44743,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.665646,
-            54.079955
+            -4.665645,
+            54.079976
           ],
           [
-            -4.665647,
-            54.079893
+            -4.665643,
+            54.079911
           ],
           [
-            -4.665752,
-            54.079894
+            -4.665747,
+            54.07991
           ],
           [
-            -4.665753,
-            54.079834
+            -4.665746,
+            54.07985
           ],
           [
-            -4.665852,
-            54.079834
+            -4.665912,
+            54.079848
           ],
           [
-            -4.665851,
-            54.079955
+            -4.665915,
+            54.079974
           ],
           [
-            -4.665646,
-            54.079955
+            -4.665645,
+            54.079976
           ]
         ]
       },
@@ -44713,8 +44781,8 @@
         "building": "house",
         "source": "Bing",
         "osm_id": 91347935,
-        "lon": -4.665758590717618,
-        "lat": 54.07990417290543,
+        "lon": -4.665786655912423,
+        "lat": 54.07992008731466,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/91347935"
       }
@@ -46877,24 +46945,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.481982,
-            54.161581
+            -4.481954,
+            54.161593
           ],
           [
-            -4.48173,
-            54.161729
+            -4.481702,
+            54.161741
           ],
           [
-            -4.481848,
-            54.161798
+            -4.48182,
+            54.16181
           ],
           [
-            -4.4821,
-            54.16165
+            -4.482059,
+            54.16167
           ],
           [
-            -4.481982,
-            54.161581
+            -4.482073,
+            54.161662
+          ],
+          [
+            -4.481981,
+            54.161609
+          ],
+          [
+            -4.481954,
+            54.161593
           ]
         ]
       },
@@ -46911,8 +46987,8 @@
         "source:addr:postcode": "Isle of Man Government Companies Registry",
         "sport": "snooker",
         "osm_id": 92055462,
-        "lon": -4.481915,
-        "lat": 54.161689499999994,
+        "lon": -4.481887410701256,
+        "lat": 54.16170145653391,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/92055462"
       }
@@ -47121,24 +47197,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.38163,
-            54.320622
+            -4.381607,
+            54.320637
           ],
           [
-            -4.381732,
-            54.32056
+            -4.381709,
+            54.320574
           ],
           [
-            -4.38193,
-            54.32066
+            -4.381908,
+            54.320675
           ],
           [
-            -4.381834,
-            54.320726
+            -4.381811,
+            54.32074
           ],
           [
-            -4.38163,
-            54.320622
+            -4.381607,
+            54.320637
           ]
         ]
       },
@@ -47148,15 +47224,18 @@
         "addr:postcode": "IM8 1JL",
         "addr:street": "Albert Street",
         "building": "train_station",
+        "building:levels": "1",
         "name": "Ramsey Tram Station",
         "public_transport": "station",
+        "roof:material": "slate",
+        "roof:shape": "hipped",
         "tickets": "yes",
         "waiting_area": "yes",
         "wikidata": "Q7290199",
         "wikipedia": "en:Ramsey railway station (Manx Electric Railway)",
         "osm_id": 99323327,
-        "lon": -4.381780564333124,
-        "lat": 54.3206421208309,
+        "lon": -4.38175790523645,
+        "lat": 54.32065651801125,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/99323327"
       }
@@ -51667,40 +51746,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659374,
-            54.07134
+            -4.659354,
+            54.071364
           ],
           [
-            -4.659241,
+            -4.659221,
+            54.071414
+          ],
+          [
+            -4.659195,
             54.07139
           ],
           [
-            -4.659215,
-            54.071366
+            -4.659177,
+            54.071397
           ],
           [
-            -4.659197,
-            54.071373
+            -4.659104,
+            54.071329
           ],
           [
-            -4.659124,
-            54.071306
+            -4.659184,
+            54.071299
           ],
           [
-            -4.659204,
-            54.071275
+            -4.6592,
+            54.071314
           ],
           [
-            -4.65922,
-            54.07129
+            -4.65927,
+            54.071287
           ],
           [
-            -4.65929,
-            54.071264
-          ],
-          [
-            -4.659374,
-            54.07134
+            -4.659354,
+            54.071364
           ]
         ]
       },
@@ -51713,8 +51792,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540251,
-        "lon": -4.659248519088815,
-        "lat": 54.071324616727395,
+        "lon": -4.65922856775903,
+        "lat": 54.071348284596,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540251"
       }
@@ -52267,32 +52346,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659038,
-            54.07199
+            -4.659014,
+            54.072015
           ],
           [
-            -4.659116,
-            54.07195
+            -4.659092,
+            54.071975
           ],
           [
-            -4.659013,
-            54.07188
+            -4.65899,
+            54.071905
           ],
           [
-            -4.658867,
-            54.071954
+            -4.658844,
+            54.071979
           ],
           [
-            -4.659042,
-            54.072073
+            -4.659019,
+            54.072098
           ],
           [
-            -4.65911,
-            54.072039
+            -4.659086,
+            54.072064
           ],
           [
-            -4.659038,
-            54.07199
+            -4.659014,
+            54.072015
           ]
         ]
       },
@@ -52304,8 +52383,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540264,
-        "lon": -4.659010065032104,
-        "lat": 54.07197545550248,
+        "lon": -4.658986560279889,
+        "lat": 54.07200042611294,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540264"
       }
@@ -52360,48 +52439,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658703,
-            54.072145
+            -4.658705,
+            54.072172
           ],
           [
-            -4.658755,
-            54.072108
+            -4.658758,
+            54.072135
           ],
           [
-            -4.658782,
-            54.072121
-          ],
-          [
-            -4.658853,
-            54.072072
-          ],
-          [
-            -4.658909,
-            54.072099
-          ],
-          [
-            -4.658877,
-            54.072122
-          ],
-          [
-            -4.65893,
-            54.072147
+            -4.658784,
+            54.072148
           ],
           [
             -4.658855,
-            54.072202
+            54.072099
           ],
           [
-            -4.658813,
-            54.072182
+            -4.658911,
+            54.072125
           ],
           [
-            -4.6588,
-            54.072191
+            -4.658879,
+            54.072149
           ],
           [
-            -4.658703,
-            54.072145
+            -4.658932,
+            54.072174
+          ],
+          [
+            -4.658857,
+            54.072229
+          ],
+          [
+            -4.658815,
+            54.072209
+          ],
+          [
+            -4.658802,
+            54.072218
+          ],
+          [
+            -4.658705,
+            54.072172
           ]
         ]
       },
@@ -52413,8 +52492,8 @@
         "addr:street": "Kissack Road",
         "building": "yes",
         "osm_id": 100540266,
-        "lon": -4.658826340088052,
-        "lat": 54.07213853617097,
+        "lon": -4.658828398611698,
+        "lat": 54.07216548138023,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540266"
       }
@@ -52426,40 +52505,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659271,
-            54.071861
+            -4.659253,
+            54.071881
           ],
           [
-            -4.659233,
-            54.07188
+            -4.659215,
+            54.071899
           ],
           [
-            -4.659271,
-            54.071907
+            -4.659252,
+            54.071926
           ],
           [
-            -4.659193,
-            54.071944
+            -4.659174,
+            54.071964
           ],
           [
-            -4.659117,
-            54.07189
+            -4.659099,
+            54.07191
           ],
           [
-            -4.659147,
-            54.071876
+            -4.659128,
+            54.071896
           ],
           [
-            -4.659093,
-            54.071837
+            -4.659074,
+            54.071857
           ],
           [
-            -4.659177,
-            54.071796
+            -4.659159,
+            54.071816
           ],
           [
-            -4.659271,
-            54.071861
+            -4.659253,
+            54.071881
           ]
         ]
       },
@@ -52471,8 +52550,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540267,
-        "lon": -4.65918661344269,
-        "lat": 54.07187013448466,
+        "lon": -4.659168057877665,
+        "lat": 54.07188978054773,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540267"
       }
@@ -52534,68 +52613,72 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658531,
-            54.071837
+            -4.65852,
+            54.071863
           ],
           [
-            -4.658611,
-            54.071801
+            -4.6586,
+            54.071826
           ],
           [
-            -4.658555,
-            54.071756
+            -4.658538,
+            54.07178
           ],
           [
-            -4.658592,
-            54.071737
+            -4.658578,
+            54.071761
           ],
           [
-            -4.658536,
-            54.071702
+            -4.658526,
+            54.071723
           ],
           [
-            -4.65849,
-            54.071719
-          ],
-          [
-            -4.658472,
-            54.071702
-          ],
-          [
-            -4.658445,
-            54.071702
-          ],
-          [
-            -4.658423,
-            54.071711
-          ],
-          [
-            -4.658432,
-            54.071729
-          ],
-          [
-            -4.658391,
+            -4.65848,
             54.071744
           ],
           [
-            -4.658466,
-            54.071801
+            -4.658457,
+            54.071727
           ],
           [
-            -4.658437,
-            54.071815
+            -4.658438,
+            54.071725
           ],
           [
-            -4.658485,
-            54.071848
+            -4.658413,
+            54.071736
           ],
           [
-            -4.658517,
-            54.071829
+            -4.658408,
+            54.071745
           ],
           [
-            -4.658531,
+            -4.658438,
+            54.071766
+          ],
+          [
+            -4.658401,
+            54.071784
+          ],
+          [
+            -4.658458,
+            54.071826
+          ],
+          [
+            -4.658435,
             54.071837
+          ],
+          [
+            -4.658475,
+            54.071867
+          ],
+          [
+            -4.658506,
+            54.071852
+          ],
+          [
+            -4.65852,
+            54.071863
           ]
         ]
       },
@@ -52607,8 +52690,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540269,
-        "lon": -4.658502141386707,
-        "lat": 54.07176855572795,
+        "lon": -4.658495615263855,
+        "lat": 54.071791477568524,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540269"
       }
@@ -52670,40 +52753,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658967,
-            54.071667
+            -4.658945,
+            54.071684
           ],
           [
-            -4.659121,
+            -4.659099,
+            54.07161
+          ],
+          [
+            -4.658984,
+            54.071528
+          ],
+          [
+            -4.658892,
+            54.071572
+          ],
+          [
+            -4.658918,
             54.071591
           ],
           [
-            -4.65899,
-            54.0715
+            -4.658886,
+            54.071606
           ],
           [
-            -4.658895,
-            54.071547
+            -4.658934,
+            54.07164
           ],
           [
-            -4.658922,
-            54.071565
+            -4.658904,
+            54.071655
           ],
           [
-            -4.658882,
-            54.071586
-          ],
-          [
-            -4.658932,
-            54.07162
-          ],
-          [
-            -4.658913,
-            54.07163
-          ],
-          [
-            -4.658967,
-            54.071667
+            -4.658945,
+            54.071684
           ]
         ]
       },
@@ -52715,8 +52798,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540271,
-        "lon": -4.658987471433246,
-        "lat": 54.07158420122619,
+        "lon": -4.6589759253899015,
+        "lat": 54.07160695345267,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540271"
       }
@@ -52728,32 +52811,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.65942,
-            54.070876
+            -4.659411,
+            54.070889
           ],
           [
-            -4.659317,
-            54.070762
+            -4.659313,
+            54.070776
           ],
           [
-            -4.659606,
-            54.070672
+            -4.659374,
+            54.070758
           ],
           [
-            -4.659687,
-            54.070762
+            -4.659355,
+            54.070735
           ],
           [
-            -4.659494,
-            54.070822
+            -4.659403,
+            54.070721
           ],
           [
-            -4.659516,
-            54.070846
+            -4.659425,
+            54.070746
           ],
           [
-            -4.65942,
-            54.070876
+            -4.659614,
+            54.070689
+          ],
+          [
+            -4.659686,
+            54.070772
+          ],
+          [
+            -4.659469,
+            54.070838
+          ],
+          [
+            -4.659492,
+            54.070865
+          ],
+          [
+            -4.659411,
+            54.070889
           ]
         ]
       },
@@ -52764,9 +52863,10 @@
         "addr:postcode": "IM9 1TA",
         "addr:street": "Queen Street",
         "building": "house",
+        "building:levels": "3",
         "osm_id": 100540272,
-        "lon": -4.659501223742762,
-        "lat": 54.070770823044626,
+        "lon": -4.659489360038575,
+        "lat": 54.070780512125175,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540272"
       }
@@ -53054,40 +53154,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659531,
-            54.071602
+            -4.659521,
+            54.071621
           ],
           [
-            -4.659408,
-            54.071607
+            -4.659398,
+            54.071627
           ],
           [
-            -4.659405,
-            54.07158
+            -4.659395,
+            54.0716
           ],
           [
-            -4.659375,
-            54.071582
+            -4.659365,
+            54.071601
           ],
           [
-            -4.659368,
-            54.071523
+            -4.659358,
+            54.071543
           ],
           [
-            -4.659567,
-            54.071514
+            -4.659557,
+            54.071534
           ],
           [
-            -4.659573,
-            54.071565
+            -4.659563,
+            54.071585
           ],
           [
-            -4.659527,
-            54.071567
+            -4.659517,
+            54.071587
           ],
           [
-            -4.659531,
-            54.071602
+            -4.659521,
+            54.071621
           ]
         ]
       },
@@ -53099,8 +53199,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540277,
-        "lon": -4.659470620906201,
-        "lat": 54.07155718946923,
+        "lon": -4.659460698864317,
+        "lat": 54.071576935850125,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540277"
       }
@@ -54037,24 +54137,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658769,
-            54.071421
+            -4.658757,
+            54.071443
           ],
           [
-            -4.658687,
-            54.071346
+            -4.658675,
+            54.071367
           ],
           [
-            -4.658815,
-            54.071298
+            -4.658803,
+            54.071319
           ],
           [
-            -4.658897,
-            54.071373
+            -4.658885,
+            54.071394
           ],
           [
-            -4.658769,
-            54.071421
+            -4.658757,
+            54.071443
           ]
         ]
       },
@@ -54066,8 +54166,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540302,
-        "lon": -4.658792,
-        "lat": 54.07135950000001,
+        "lon": -4.658779941970377,
+        "lat": 54.07138080999947,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540302"
       }
@@ -54079,40 +54179,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658731,
-            54.071663
+            -4.658717,
+            54.071683
           ],
           [
-            -4.658713,
-            54.071672
+            -4.658699,
+            54.071692
           ],
           [
-            -4.658691,
-            54.071657
+            -4.658677,
+            54.071677
           ],
           [
-            -4.658591,
-            54.071706
+            -4.658577,
+            54.071726
           ],
           [
-            -4.658662,
+            -4.658648,
+            54.071776
+          ],
+          [
+            -4.658679,
+            54.07176
+          ],
+          [
+            -4.658734,
+            54.071799
+          ],
+          [
+            -4.65882,
             54.071756
           ],
           [
-            -4.658693,
-            54.07174
-          ],
-          [
-            -4.658748,
-            54.071779
-          ],
-          [
-            -4.658835,
-            54.071736
-          ],
-          [
-            -4.658731,
-            54.071663
+            -4.658717,
+            54.071683
           ]
         ]
       },
@@ -54124,8 +54224,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540303,
-        "lon": -4.6587132424800375,
-        "lat": 54.07171791382813,
+        "lon": -4.658698824194011,
+        "lat": 54.071737878016656,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540303"
       }
@@ -54137,32 +54237,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659323,
-            54.071725
+            -4.659307,
+            54.071749
           ],
           [
-            -4.659449,
-            54.071765
+            -4.659433,
+            54.071789
           ],
           [
-            -4.659527,
-            54.071679
+            -4.659512,
+            54.071703
           ],
           [
-            -4.659373,
-            54.07163
+            -4.659358,
+            54.071655
           ],
           [
-            -4.659344,
-            54.071663
+            -4.659328,
+            54.071687
           ],
           [
-            -4.659371,
-            54.071672
+            -4.659356,
+            54.071696
           ],
           [
-            -4.659323,
-            54.071725
+            -4.659307,
+            54.071749
           ]
         ]
       },
@@ -54174,8 +54274,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540304,
-        "lon": -4.659417378317258,
-        "lat": 54.07169596864601,
+        "lon": -4.659401791894352,
+        "lat": 54.07172016770612,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540304"
       }
@@ -54350,40 +54450,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658697,
-            54.072142
+            -4.658685,
+            54.072165
           ],
           [
-            -4.658549,
-            54.07207
+            -4.658638,
+            54.072147
           ],
           [
-            -4.658667,
-            54.071987
+            -4.658645,
+            54.072141
           ],
           [
-            -4.658719,
-            54.072012
+            -4.658537,
+            54.072093
           ],
           [
-            -4.6587,
-            54.072025
+            -4.658655,
+            54.072009
           ],
           [
-            -4.65877,
-            54.072059
+            -4.658707,
+            54.072035
           ],
           [
-            -4.658723,
-            54.072092
+            -4.658688,
+            54.072048
           ],
           [
-            -4.65875,
-            54.072105
+            -4.658758,
+            54.072082
           ],
           [
-            -4.658697,
-            54.072142
+            -4.658711,
+            54.072115
+          ],
+          [
+            -4.658738,
+            54.072128
+          ],
+          [
+            -4.658685,
+            54.072165
           ]
         ]
       },
@@ -54395,8 +54503,8 @@
         "addr:street": "Kissack Road",
         "building": "yes",
         "osm_id": 100540308,
-        "lon": -4.658670740754049,
-        "lat": 54.07206537262839,
+        "lon": -4.658658432713975,
+        "lat": 54.072089100878905,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540308"
       }
@@ -54921,40 +55029,56 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659349,
-            54.071485
+            -4.659339,
+            54.071506
           ],
           [
-            -4.659449,
-            54.071452
+            -4.659443,
+            54.07147
           ],
           [
-            -4.65942,
-            54.071421
+            -4.659427,
+            54.071454
           ],
           [
-            -4.659464,
-            54.071407
+            -4.659439,
+            54.07145
           ],
           [
-            -4.659423,
-            54.071364
+            -4.659387,
+            54.071398
           ],
           [
-            -4.659246,
-            54.071422
+            -4.659417,
+            54.071387
           ],
           [
-            -4.659303,
-            54.071482
+            -4.659391,
+            54.071361
           ],
           [
-            -4.659336,
-            54.071471
+            -4.659311,
+            54.071389
           ],
           [
-            -4.659349,
-            54.071485
+            -4.659337,
+            54.071415
+          ],
+          [
+            -4.659243,
+            54.071447
+          ],
+          [
+            -4.659289,
+            54.071493
+          ],
+          [
+            -4.659317,
+            54.071483
+          ],
+          [
+            -4.659339,
+            54.071506
           ]
         ]
       },
@@ -54966,8 +55090,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 100540320,
-        "lon": -4.659364248208134,
-        "lat": 54.071427242595966,
+        "lon": -4.659352164112316,
+        "lat": 54.071437046077804,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540320"
       }
@@ -60824,24 +60948,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.739938,
-            54.071768
+            -4.739934,
+            54.071782
           ],
           [
-            -4.739795,
-            54.071731
+            -4.739759,
+            54.071741
           ],
           [
-            -4.739829,
-            54.071685
+            -4.739792,
+            54.071693
           ],
           [
-            -4.739973,
-            54.071721
+            -4.739966,
+            54.071733
           ],
           [
-            -4.739938,
-            54.071768
+            -4.739934,
+            54.071782
           ]
         ]
       },
@@ -60852,11 +60976,12 @@
         "addr:postcode": "IM9 5HF",
         "addr:street": "Fistard Road",
         "building": "house",
+        "building:colour": "#adc6be",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:street": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 101954693,
-        "lon": -4.739884023920335,
-        "lat": 54.07172627119126,
+        "lon": -4.7398627592760505,
+        "lat": 54.071737322947634,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/101954693"
       }
@@ -61951,6 +62076,7 @@
         "building:levels": "10",
         "fixme": "multiple postcodes, maybe one per floor?",
         "image": "https://www.geograph.org.uk/photo/4884515",
+        "roof:colour": "lightgrey",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 102634954,
         "lon": -4.37823081437452,
@@ -62103,6 +62229,7 @@
         "building": "apartments",
         "building:levels": "4",
         "fixme": "multiple postcodes, maybe one per floor?",
+        "roof:colour": "lightgrey",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 102634960,
         "lon": -4.3778612685071785,
@@ -63316,6 +63443,7 @@
         "internet_access": "wlan",
         "internet_access:fee": "customers",
         "name": "Ramsey Park Hotel",
+        "roof:shape": "hipped",
         "rooms": "60",
         "source": "Survey",
         "tourism": "hotel",
@@ -63484,9 +63612,11 @@
         "addr:postcode": "IM8 3AB",
         "addr:street": "Mooragh Promenade",
         "building": "yes",
+        "building:levels": "3",
         "disused:amenity": "hotel",
         "image": "https://www.geograph.org.uk/photo/7167645",
         "old_name": "The Peveril",
+        "roof:levels": "1",
         "source:addr:housename": "geograph",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 102734622,
@@ -67387,6 +67517,7 @@
         "building": "yes",
         "name": "Ramsey Rugby Club community sports pavilion",
         "operator": "Ramsey Rugby Club",
+        "roof:shape": "hipped",
         "sport": "rugby_union",
         "website": "https://ramsey.rfu.club/",
         "osm_id": 102872502,
@@ -68626,56 +68757,80 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.754567,
-            54.080094
+            -4.754539,
+            54.080117
           ],
           [
-            -4.754674,
-            54.08003
-          ],
-          [
-            -4.754631,
-            54.080008
-          ],
-          [
-            -4.754688,
-            54.079983
+            -4.754663,
+            54.080048
           ],
           [
             -4.754628,
-            54.079943
+            54.080026
           ],
           [
-            -4.754567,
-            54.079973
-          ],
-          [
-            -4.754537,
-            54.079959
-          ],
-          [
-            -4.754443,
+            -4.754651,
             54.080014
           ],
           [
-            -4.754516,
-            54.080053
+            -4.754627,
+            54.079999
           ],
           [
-            -4.754486,
-            54.080069
+            -4.754651,
+            54.079986
           ],
           [
-            -4.754537,
-            54.080103
+            -4.754649,
+            54.079973
           ],
           [
-            -4.754559,
-            54.08009
+            -4.754632,
+            54.079965
           ],
           [
-            -4.754567,
-            54.080094
+            -4.754601,
+            54.079967
+          ],
+          [
+            -4.754558,
+            54.07994
+          ],
+          [
+            -4.754531,
+            54.079954
+          ],
+          [
+            -4.754518,
+            54.079946
+          ],
+          [
+            -4.754393,
+            54.080013
+          ],
+          [
+            -4.754463,
+            54.080058
+          ],
+          [
+            -4.754455,
+            54.080076
+          ],
+          [
+            -4.754461,
+            54.080093
+          ],
+          [
+            -4.75451,
+            54.080124
+          ],
+          [
+            -4.754531,
+            54.080112
+          ],
+          [
+            -4.754539,
+            54.080117
           ]
         ]
       },
@@ -68688,8 +68843,8 @@
         "building": "yes",
         "source:addr:postcode": "Isle of Man Government Planning Applications",
         "osm_id": 103786620,
-        "lon": -4.75457097502124,
-        "lat": 54.080018709151524,
+        "lon": -4.754540851742006,
+        "lat": 54.080025950929084,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/103786620"
       }
@@ -71372,32 +71527,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.766147,
-            54.092448
+            -4.766116,
+            54.092453
           ],
           [
-            -4.766212,
-            54.092522
+            -4.766181,
+            54.092526
           ],
           [
-            -4.766159,
-            54.092538
+            -4.766127,
+            54.092543
           ],
           [
-            -4.766173,
-            54.092554
+            -4.766142,
+            54.092559
           ],
           [
-            -4.766138,
-            54.092565
+            -4.766107,
+            54.09257
           ],
           [
-            -4.766059,
-            54.092474
+            -4.766027,
+            54.092479
           ],
           [
-            -4.766147,
-            54.092448
+            -4.766116,
+            54.092453
           ]
         ]
       },
@@ -71409,8 +71564,8 @@
         "building": "house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 104339291,
-        "lon": -4.766137959611251,
-        "lat": 54.092504988774834,
+        "lon": -4.7661065881333435,
+        "lat": 54.09250990430627,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/104339291"
       }
@@ -71551,40 +71706,56 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.767247,
-            54.092619
+            -4.76722,
+            54.092631
           ],
           [
-            -4.767022,
-            54.092679
+            -4.76716,
+            54.092647
           ],
           [
-            -4.766926,
-            54.092555
+            -4.76715,
+            54.092633
           ],
           [
-            -4.766994,
-            54.092537
+            -4.767021,
+            54.092667
           ],
           [
-            -4.767045,
-            54.092604
+            -4.767031,
+            54.092681
           ],
           [
-            -4.767085,
-            54.092593
+            -4.766997,
+            54.09269
           ],
           [
-            -4.767052,
-            54.092551
+            -4.766902,
+            54.092567
           ],
           [
-            -4.76717,
-            54.09252
+            -4.766968,
+            54.09255
           ],
           [
-            -4.767247,
-            54.092619
+            -4.767019,
+            54.092616
+          ],
+          [
+            -4.767061,
+            54.092605
+          ],
+          [
+            -4.767028,
+            54.092563
+          ],
+          [
+            -4.767144,
+            54.092532
+          ],
+          [
+            -4.76722,
+            54.092631
           ]
         ]
       },
@@ -71598,8 +71769,8 @@
         "building": "house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 104339299,
-        "lon": -4.767081347894369,
-        "lat": 54.09259384284236,
+        "lon": -4.76705597142389,
+        "lat": 54.0926057258247,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/104339299"
       }
@@ -75548,40 +75719,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484265,
-            54.152025
+            -4.48426,
+            54.152039
           ],
           [
-            -4.483799,
-            54.152253
+            -4.484206,
+            54.152059
           ],
           [
-            -4.483799,
-            54.152274
+            -4.483794,
+            54.152254
           ],
           [
-            -4.48389,
-            54.152296
+            -4.483797,
+            54.152283
           ],
           [
-            -4.483952,
-            54.152265
+            -4.483904,
+            54.152308
           ],
           [
-            -4.48405,
-            54.152334
+            -4.483956,
+            54.152282
           ],
           [
-            -4.48415,
-            54.152358
+            -4.484016,
+            54.152326
           ],
           [
-            -4.484498,
-            54.152188
+            -4.484116,
+            54.15235
           ],
           [
-            -4.484265,
-            54.152025
+            -4.484464,
+            54.15218
+          ],
+          [
+            -4.48426,
+            54.152039
           ]
         ]
       },
@@ -75594,8 +75769,8 @@
         "building": "terrace",
         "name": "Fairfield Terrace",
         "osm_id": 136120222,
-        "lon": -4.4841482190831785,
-        "lat": 54.152207420689656,
+        "lon": -4.484127891544112,
+        "lat": 54.15220929184762,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/136120222"
       }
@@ -89546,40 +89721,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659177,
-            54.071796
+            -4.659159,
+            54.071816
           ],
           [
-            -4.659257,
-            54.071758
+            -4.659238,
+            54.071778
           ],
           [
-            -4.659299,
-            54.071789
+            -4.659281,
+            54.071808
           ],
           [
-            -4.659332,
-            54.071773
+            -4.659314,
+            54.071792
           ],
           [
-            -4.659414,
-            54.071831
+            -4.659395,
+            54.071851
           ],
           [
-            -4.659338,
-            54.071867
+            -4.65932,
+            54.071887
           ],
           [
-            -4.659306,
-            54.071844
+            -4.659288,
+            54.071864
           ],
           [
-            -4.659271,
-            54.071861
+            -4.659253,
+            54.071881
           ],
           [
-            -4.659177,
-            54.071796
+            -4.659159,
+            54.071816
           ]
         ]
       },
@@ -89591,8 +89766,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 218184138,
-        "lon": -4.6592955392589985,
-        "lat": 54.07181386891362,
+        "lon": -4.659277204047122,
+        "lat": 54.07183365548195,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218184138"
       }
@@ -89730,40 +89905,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658835,
-            54.071736
+            -4.65882,
+            54.071756
           ],
           [
-            -4.658923,
-            54.071693
+            -4.658909,
+            54.071713
           ],
           [
-            -4.658865,
-            54.071652
+            -4.658851,
+            54.071672
           ],
           [
-            -4.658892,
-            54.071639
+            -4.658878,
+            54.071659
           ],
           [
-            -4.658822,
-            54.07159
+            -4.658808,
+            54.07161
           ],
           [
-            -4.658775,
-            54.071613
+            -4.658761,
+            54.071633
           ],
           [
-            -4.6588,
-            54.07163
+            -4.658785,
+            54.07165
           ],
           [
-            -4.658731,
-            54.071663
+            -4.658717,
+            54.071683
           ],
           [
-            -4.658835,
-            54.071736
+            -4.65882,
+            54.071756
           ]
         ]
       },
@@ -89775,8 +89950,8 @@
         "addr:street": "Scarlett Road",
         "building": "house",
         "osm_id": 218184142,
-        "lon": -4.658828715260626,
-        "lat": 54.071662918380575,
+        "lon": -4.658814729948818,
+        "lat": 54.071683033208096,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218184142"
       }
@@ -89974,24 +90149,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.66042,
-            54.073391
+            -4.660431,
+            54.073408
           ],
           [
-            -4.660355,
-            54.073434
+            -4.660366,
+            54.073451
           ],
           [
-            -4.660249,
-            54.073379
+            -4.66026,
+            54.073396
           ],
           [
-            -4.660314,
-            54.073336
+            -4.660325,
+            54.073353
           ],
           [
-            -4.66042,
-            54.073391
+            -4.660431,
+            54.073408
           ]
         ]
       },
@@ -90003,8 +90178,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543451,
-        "lon": -4.6603345,
-        "lat": 54.073385,
+        "lon": -4.6603455,
+        "lat": 54.07340200000001,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543451"
       }
@@ -90746,24 +90921,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660213,
-            54.073071
+            -4.660236,
+            54.073102
           ],
           [
-            -4.660147,
-            54.073116
+            -4.66017,
+            54.073147
           ],
           [
-            -4.660034,
-            54.073058
+            -4.660057,
+            54.073089
           ],
           [
-            -4.6601,
-            54.073013
+            -4.660123,
+            54.073044
           ],
           [
-            -4.660213,
-            54.073071
+            -4.660236,
+            54.073102
           ]
         ]
       },
@@ -90775,8 +90950,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543469,
-        "lon": -4.660123499999999,
-        "lat": 54.0730645,
+        "lon": -4.6601465,
+        "lat": 54.073095499999994,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543469"
       }
@@ -90914,24 +91089,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660147,
-            54.073116
+            -4.66017,
+            54.073147
           ],
           [
-            -4.660081,
-            54.07316
+            -4.660105,
+            54.073191
           ],
           [
-            -4.659968,
-            54.073102
+            -4.659992,
+            54.073133
           ],
           [
-            -4.660034,
-            54.073058
+            -4.660057,
+            54.073089
           ],
           [
-            -4.660147,
-            54.073116
+            -4.66017,
+            54.073147
           ]
         ]
       },
@@ -90943,8 +91118,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543473,
-        "lon": -4.660057500000001,
-        "lat": 54.073109,
+        "lon": -4.660081000000001,
+        "lat": 54.07314,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543473"
       }
@@ -91124,24 +91299,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660081,
-            54.07316
+            -4.660105,
+            54.073191
           ],
           [
-            -4.660015,
-            54.073205
+            -4.660038,
+            54.073236
           ],
           [
-            -4.659902,
-            54.073147
+            -4.659925,
+            54.073178
           ],
           [
-            -4.659968,
-            54.073102
+            -4.659992,
+            54.073133
           ],
           [
-            -4.660081,
-            54.07316
+            -4.660105,
+            54.073191
           ]
         ]
       },
@@ -91153,8 +91328,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543478,
-        "lon": -4.6599915,
-        "lat": 54.0731535,
+        "lon": -4.660015,
+        "lat": 54.073184499999996,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543478"
       }
@@ -91250,24 +91425,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660015,
-            54.073205
+            -4.660038,
+            54.073236
           ],
           [
-            -4.659949,
-            54.073249
+            -4.659973,
+            54.07328
           ],
           [
-            -4.659836,
-            54.073191
+            -4.659859,
+            54.073222
           ],
           [
-            -4.659902,
-            54.073147
+            -4.659925,
+            54.073178
           ],
           [
-            -4.660015,
-            54.073205
+            -4.660038,
+            54.073236
           ]
         ]
       },
@@ -91279,8 +91454,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543481,
-        "lon": -4.6599255,
-        "lat": 54.073198,
+        "lon": -4.659948565207677,
+        "lat": 54.073228989140006,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543481"
       }
@@ -91518,24 +91693,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660485,
-            54.073348
+            -4.660496,
+            54.073365
           ],
           [
-            -4.66042,
-            54.073391
+            -4.660431,
+            54.073408
           ],
           [
-            -4.660314,
-            54.073336
+            -4.660325,
+            54.073353
           ],
           [
-            -4.660379,
-            54.073293
+            -4.66039,
+            54.07331
           ],
           [
-            -4.660485,
-            54.073348
+            -4.660496,
+            54.073365
           ]
         ]
       },
@@ -91547,8 +91722,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543487,
-        "lon": -4.6603995,
-        "lat": 54.073342000000004,
+        "lon": -4.660410500000001,
+        "lat": 54.073359,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543487"
       }
@@ -92122,24 +92297,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660676,
-            54.07335
+            -4.660681,
+            54.073372
           ],
           [
-            -4.660613,
-            54.073396
+            -4.660618,
+            54.073417
           ],
           [
-            -4.660495,
-            54.07334
+            -4.6605,
+            54.073361
           ],
           [
-            -4.660558,
-            54.073294
+            -4.660563,
+            54.073315
           ],
           [
-            -4.660676,
-            54.07335
+            -4.660681,
+            54.073372
           ]
         ]
       },
@@ -92151,8 +92326,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543501,
-        "lon": -4.6605855,
-        "lat": 54.073344999999996,
+        "lon": -4.660590449794831,
+        "lat": 54.07336618678859,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543501"
       }
@@ -92668,24 +92843,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.66074,
-            54.073304
+            -4.660745,
+            54.073326
           ],
           [
-            -4.660676,
-            54.07335
+            -4.660681,
+            54.073372
           ],
           [
-            -4.660558,
-            54.073294
+            -4.660563,
+            54.073315
           ],
           [
-            -4.660621,
-            54.073248
+            -4.660626,
+            54.07327
           ],
           [
-            -4.66074,
-            54.073304
+            -4.660745,
+            54.073326
           ]
         ]
       },
@@ -92697,8 +92872,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543514,
-        "lon": -4.660648933047267,
-        "lat": 54.073299004488376,
+        "lon": -4.660653983205822,
+        "lat": 54.073320818465895,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543514"
       }
@@ -92794,24 +92969,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658908,
-            54.072877
+            -4.658914,
+            54.072897
           ],
           [
-            -4.658985,
-            54.072912
+            -4.658991,
+            54.072932
           ],
           [
-            -4.658895,
-            54.072981
+            -4.658901,
+            54.073001
           ],
           [
-            -4.658818,
-            54.072946
+            -4.658824,
+            54.072966
           ],
           [
-            -4.658908,
-            54.072877
+            -4.658914,
+            54.072897
           ]
         ]
       },
@@ -92823,8 +92998,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543517,
-        "lon": -4.658901500000001,
-        "lat": 54.072929,
+        "lon": -4.6589075,
+        "lat": 54.072949,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543517"
       }
@@ -92836,24 +93011,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.658985,
-            54.072912
+            -4.658991,
+            54.072932
           ],
           [
-            -4.659062,
-            54.072947
+            -4.659068,
+            54.072966
           ],
           [
-            -4.658972,
-            54.073016
+            -4.658978,
+            54.073035
           ],
           [
-            -4.658895,
-            54.072981
+            -4.658901,
+            54.073001
           ],
           [
-            -4.658985,
-            54.072912
+            -4.658991,
+            54.072932
           ]
         ]
       },
@@ -92865,8 +93040,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543518,
-        "lon": -4.658978500000001,
-        "lat": 54.072964,
+        "lon": -4.658984500000001,
+        "lat": 54.0729835,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543518"
       }
@@ -92878,24 +93053,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659062,
-            54.072947
+            -4.659068,
+            54.072966
           ],
           [
-            -4.659139,
-            54.072981
+            -4.659145,
+            54.073001
           ],
           [
-            -4.659049,
-            54.07305
+            -4.659055,
+            54.07307
           ],
           [
-            -4.658972,
-            54.073016
+            -4.658978,
+            54.073035
           ],
           [
-            -4.659062,
-            54.072947
+            -4.659068,
+            54.072966
           ]
         ]
       },
@@ -92907,8 +93082,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543519,
-        "lon": -4.6590555,
-        "lat": 54.0729985,
+        "lon": -4.659061500000001,
+        "lat": 54.073018000000005,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543519"
       }
@@ -92920,24 +93095,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659139,
-            54.072981
+            -4.659145,
+            54.073001
           ],
           [
-            -4.659216,
-            54.073016
+            -4.659222,
+            54.073036
           ],
           [
-            -4.659126,
-            54.073085
+            -4.659132,
+            54.073105
           ],
           [
-            -4.659049,
-            54.07305
+            -4.659055,
+            54.07307
           ],
           [
-            -4.659139,
-            54.072981
+            -4.659145,
+            54.073001
           ]
         ]
       },
@@ -92949,8 +93124,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543520,
-        "lon": -4.659132499999999,
-        "lat": 54.073032999999995,
+        "lon": -4.6591385,
+        "lat": 54.073052999999994,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543520"
       }
@@ -92962,24 +93137,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659216,
-            54.073016
+            -4.659222,
+            54.073036
           ],
           [
-            -4.659293,
-            54.073051
+            -4.659299,
+            54.07307
           ],
           [
-            -4.659203,
-            54.073119
+            -4.659209,
+            54.073139
           ],
           [
-            -4.659126,
-            54.073085
+            -4.659132,
+            54.073105
           ],
           [
-            -4.659216,
-            54.073016
+            -4.659222,
+            54.073036
           ]
         ]
       },
@@ -92991,8 +93166,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543521,
-        "lon": -4.659209487549288,
-        "lat": 54.07306768809153,
+        "lon": -4.6592155,
+        "lat": 54.0730875,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543521"
       }
@@ -93004,24 +93179,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659293,
-            54.073051
+            -4.659299,
+            54.07307
           ],
           [
-            -4.65937,
-            54.073085
+            -4.659376,
+            54.073105
           ],
           [
-            -4.65928,
-            54.073154
+            -4.659286,
+            54.073174
           ],
           [
-            -4.659203,
-            54.073119
+            -4.659209,
+            54.073139
           ],
           [
-            -4.659293,
-            54.073051
+            -4.659299,
+            54.07307
           ]
         ]
       },
@@ -93033,8 +93208,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543522,
-        "lon": -4.659286512450712,
-        "lat": 54.07310231190848,
+        "lon": -4.659292499999999,
+        "lat": 54.073122,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543522"
       }
@@ -93046,24 +93221,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659472,
-            54.073066
+            -4.659477,
+            54.073098
           ],
           [
-            -4.659547,
-            54.073101
+            -4.659552,
+            54.073133
           ],
           [
-            -4.659469,
-            54.073159
+            -4.659474,
+            54.073191
           ],
           [
-            -4.659394,
-            54.073124
+            -4.659399,
+            54.073156
           ],
           [
-            -4.659472,
-            54.073066
+            -4.659477,
+            54.073098
           ]
         ]
       },
@@ -93075,8 +93250,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543523,
-        "lon": -4.659470499999999,
-        "lat": 54.073112499999986,
+        "lon": -4.6594755,
+        "lat": 54.0731445,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543523"
       }
@@ -93088,24 +93263,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659547,
-            54.073101
+            -4.659552,
+            54.073133
           ],
           [
-            -4.659622,
-            54.073135
+            -4.659627,
+            54.073168
           ],
           [
-            -4.659544,
-            54.073194
+            -4.659549,
+            54.073226
           ],
           [
-            -4.659469,
-            54.073159
+            -4.659474,
+            54.073191
           ],
           [
-            -4.659547,
-            54.073101
+            -4.659552,
+            54.073133
           ]
         ]
       },
@@ -93117,8 +93292,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543524,
-        "lon": -4.659545517221637,
-        "lat": 54.07314731268436,
+        "lon": -4.659550500000001,
+        "lat": 54.0731795,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543524"
       }
@@ -93130,24 +93305,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659622,
-            54.073135
+            -4.659627,
+            54.073168
           ],
           [
-            -4.659697,
-            54.07317
+            -4.659702,
+            54.073202
           ],
           [
-            -4.659619,
-            54.073228
+            -4.659624,
+            54.073261
           ],
           [
-            -4.659544,
-            54.073194
+            -4.659549,
+            54.073226
           ],
           [
-            -4.659622,
-            54.073135
+            -4.659627,
+            54.073168
           ]
         ]
       },
@@ -93159,8 +93334,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543525,
-        "lon": -4.659620482778364,
-        "lat": 54.07318168731564,
+        "lon": -4.659625517221636,
+        "lat": 54.073214312684364,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543525"
       }
@@ -93172,24 +93347,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.659697,
-            54.07317
+            -4.659702,
+            54.073202
           ],
           [
-            -4.659772,
-            54.073205
+            -4.659777,
+            54.073237
           ],
           [
-            -4.659694,
-            54.073263
+            -4.659699,
+            54.073295
           ],
           [
-            -4.659619,
-            54.073228
+            -4.659624,
+            54.073261
           ],
           [
-            -4.659697,
-            54.07317
+            -4.659702,
+            54.073202
           ]
         ]
       },
@@ -93201,8 +93376,8 @@
         "addr:street": "Close Rushen",
         "building": "yes",
         "osm_id": 218543526,
-        "lon": -4.6596955,
-        "lat": 54.07321650000001,
+        "lon": -4.659700482778364,
+        "lat": 54.07324868731564,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543526"
       }
@@ -93214,24 +93389,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660803,
-            54.073258
+            -4.660808,
+            54.07328
           ],
           [
-            -4.66074,
-            54.073304
+            -4.660745,
+            54.073326
           ],
           [
-            -4.660621,
-            54.073248
+            -4.660626,
+            54.07327
           ],
           [
-            -4.660685,
-            54.073202
+            -4.66069,
+            54.073223
           ],
           [
-            -4.660803,
-            54.073258
+            -4.660808,
+            54.07328
           ]
         ]
       },
@@ -93243,8 +93418,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543527,
-        "lon": -4.6607120669527315,
-        "lat": 54.073252995511616,
+        "lon": -4.660717017120412,
+        "lat": 54.073274682132556,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543527"
       }
@@ -93340,24 +93515,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660866,
-            54.073212
+            -4.660871,
+            54.073234
           ],
           [
-            -4.660803,
-            54.073258
+            -4.660808,
+            54.07328
           ],
           [
-            -4.660685,
-            54.073202
+            -4.66069,
+            54.073223
           ],
           [
-            -4.660748,
-            54.073156
+            -4.660753,
+            54.073178
           ],
           [
-            -4.660866,
-            54.073212
+            -4.660871,
+            54.073234
           ]
         ]
       },
@@ -93369,8 +93544,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543530,
-        "lon": -4.660775500000001,
-        "lat": 54.073207,
+        "lon": -4.66078055020517,
+        "lat": 54.07322881321142,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543530"
       }
@@ -93466,24 +93641,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660929,
-            54.073166
+            -4.660935,
+            54.073188
           ],
           [
-            -4.660866,
-            54.073212
+            -4.660871,
+            54.073234
           ],
           [
-            -4.660748,
-            54.073156
+            -4.660753,
+            54.073178
           ],
           [
-            -4.660811,
-            54.07311
+            -4.660816,
+            54.073132
           ],
           [
-            -4.660929,
-            54.073166
+            -4.660935,
+            54.073188
           ]
         ]
       },
@@ -93495,8 +93670,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543533,
-        "lon": -4.6608385000000006,
-        "lat": 54.073161,
+        "lon": -4.660843933047268,
+        "lat": 54.073183004488385,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543533"
       }
@@ -93592,24 +93767,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660792,
-            54.073029
+            -4.660794,
+            54.073048
           ],
           [
-            -4.660741,
-            54.073072
+            -4.660743,
+            54.073092
           ],
           [
-            -4.66084,
-            54.073113
+            -4.660842,
+            54.073133
           ],
           [
-            -4.660892,
-            54.07307
+            -4.660894,
+            54.073089
           ],
           [
-            -4.660792,
-            54.073029
+            -4.660794,
+            54.073048
           ]
         ]
       },
@@ -93621,8 +93796,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543536,
-        "lon": -4.660816427427281,
-        "lat": 54.0730709881441,
+        "lon": -4.660818425737073,
+        "lat": 54.07309048644214,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543536"
       }
@@ -93718,24 +93893,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.660844,
-            54.072985
+            -4.660846,
+            54.073005
           ],
           [
-            -4.660792,
-            54.073029
+            -4.660794,
+            54.073048
           ],
           [
-            -4.660892,
-            54.07307
+            -4.660894,
+            54.073089
           ],
           [
-            -4.660944,
-            54.073026
+            -4.660946,
+            54.073046
           ],
           [
-            -4.660844,
-            54.072985
+            -4.660846,
+            54.073005
           ]
         ]
       },
@@ -93747,8 +93922,8 @@
         "addr:street": "Close Cairbre",
         "building": "house",
         "osm_id": 218543539,
-        "lon": -4.660868,
-        "lat": 54.073027499999995,
+        "lon": -4.660870000000001,
+        "lat": 54.07304700000001,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/218543539"
       }
@@ -122098,6 +122273,7 @@
         "building": "yes",
         "name": "Paul Dedman Performance",
         "phone": "+441624 812390",
+        "roof:shape": "flat",
         "shop": "motorcycle",
         "source": "Survey",
         "website": "https://www.pauldedman.com/",
@@ -130107,24 +130283,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.390232,
-            54.326497
+            -4.390207,
+            54.326485
           ],
           [
-            -4.39013,
-            54.326396
+            -4.390132,
+            54.326402
           ],
           [
-            -4.390245,
-            54.326356
+            -4.390236,
+            54.32637
           ],
           [
-            -4.390347,
-            54.326457
+            -4.390311,
+            54.326454
           ],
           [
-            -4.390232,
-            54.326497
+            -4.390207,
+            54.326485
           ]
         ]
       },
@@ -130136,12 +130312,15 @@
         "addr:postcode": "IM8 3EP",
         "addr:street": "Bowring Road",
         "building": "yes",
+        "building:colour": "white",
+        "roof:colour": "grey",
+        "roof:shape": "gabled",
         "source:addr:housename": "visible on streetside",
         "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 963223779,
-        "lon": -4.3902385,
-        "lat": 54.3264265,
+        "lon": -4.390221562957615,
+        "lat": 54.32642769608616,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963223779"
       }
@@ -130271,6 +130450,7 @@
         "addr:postcode": "IM8 3EJ",
         "addr:street": "Bowring Road",
         "building": "yes",
+        "building:colour": "#f7e8bf",
         "source:addr": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 963223807,
@@ -130287,24 +130467,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.390736,
-            54.327843
+            -4.390717,
+            54.32787
           ],
           [
-            -4.390551,
-            54.327971
+            -4.390542,
+            54.327995
           ],
           [
-            -4.39043,
-            54.327912
+            -4.390424,
+            54.327938
           ],
           [
-            -4.390614,
-            54.327783
+            -4.390516,
+            54.327873
           ],
           [
-            -4.390736,
-            54.327843
+            -4.390499,
+            54.327865
+          ],
+          [
+            -4.390582,
+            54.327805
+          ],
+          [
+            -4.390717,
+            54.32787
           ]
         ]
       },
@@ -130318,8 +130506,8 @@
         "building": "house",
         "house": "detached",
         "osm_id": 963223824,
-        "lon": -4.390582942365256,
-        "lat": 54.32787714094094,
+        "lon": -4.39056704932461,
+        "lat": 54.32789961556123,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963223824"
       }
@@ -130331,32 +130519,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.390361,
+            -4.390345,
+            54.327655
+          ],
+          [
+            -4.390467,
             54.327629
           ],
           [
-            -4.390483,
-            54.327602
+            -4.390564,
+            54.327781
           ],
           [
-            -4.39058,
-            54.327754
+            -4.390387,
+            54.327819
           ],
           [
-            -4.390403,
-            54.327792
+            -4.390346,
+            54.327755
           ],
           [
-            -4.390362,
-            54.327728
+            -4.390401,
+            54.327743
           ],
           [
-            -4.390417,
-            54.327717
-          ],
-          [
-            -4.390361,
-            54.327629
+            -4.390345,
+            54.327655
           ]
         ]
       },
@@ -130370,8 +130558,8 @@
         "building": "house",
         "house": "detached",
         "osm_id": 963223825,
-        "lon": -4.39045529014386,
-        "lat": 54.32770234700337,
+        "lon": -4.390439281290603,
+        "lat": 54.327729108637946,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963223825"
       }
@@ -130383,32 +130571,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.390354,
-            54.327603
+            -4.390329,
+            54.327633
           ],
           [
-            -4.390044,
-            54.327493
+            -4.390025,
+            54.327522
           ],
           [
-            -4.390106,
-            54.327434
+            -4.390102,
+            54.32745
           ],
           [
-            -4.390302,
-            54.327504
+            -4.390196,
+            54.327485
           ],
           [
-            -4.390317,
-            54.32749
+            -4.390248,
+            54.327437
           ],
           [
-            -4.39043,
-            54.32753
+            -4.390352,
+            54.327475
           ],
           [
-            -4.390354,
-            54.327603
+            -4.390303,
+            54.327521
+          ],
+          [
+            -4.390408,
+            54.327559
+          ],
+          [
+            -4.390329,
+            54.327633
           ]
         ]
       },
@@ -130422,8 +130618,8 @@
         "building": "house",
         "house": "detached",
         "osm_id": 963223826,
-        "lon": -4.39023809527115,
-        "lat": 54.32751653371494,
+        "lon": -4.390229913891248,
+        "lat": 54.327527493499865,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963223826"
       }
@@ -130864,32 +131060,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.3897,
-            54.32798
+            -4.389692,
+            54.328001
           ],
           [
-            -4.389697,
-            54.328037
+            -4.389685,
+            54.328059
           ],
           [
-            -4.389635,
-            54.328036
+            -4.389624,
+            54.328056
           ],
           [
-            -4.389634,
-            54.32807
+            -4.38962,
+            54.32809
           ],
           [
-            -4.389513,
-            54.328068
+            -4.3895,
+            54.328085
           ],
           [
-            -4.389518,
-            54.327976
+            -4.38951,
+            54.327994
           ],
           [
-            -4.3897,
-            54.32798
+            -4.389692,
+            54.328001
           ]
         ]
       },
@@ -130903,8 +131099,8 @@
         "building": "house",
         "house": "detached",
         "osm_id": 963223840,
-        "lon": -4.3896027982880135,
-        "lat": 54.32801992238972,
+        "lon": -4.389592571633872,
+        "lat": 54.32803914664017,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963223840"
       }
@@ -133577,24 +133773,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.373774,
-            54.315414
+            -4.373811,
+            54.315411
           ],
           [
-            -4.373532,
-            54.31539
+            -4.373569,
+            54.315387
           ],
           [
-            -4.373577,
-            54.315233
+            -4.373602,
+            54.315249
           ],
           [
-            -4.373819,
-            54.315258
+            -4.373853,
+            54.315273
           ],
           [
-            -4.373774,
-            54.315414
+            -4.373811,
+            54.315411
           ]
         ]
       },
@@ -133605,11 +133801,12 @@
         "addr:postcode": "IM8 1NL",
         "addr:street": "Ballure Road",
         "building": "yes",
+        "roof:shape": "hipped",
         "source:addr:housename": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 963422058,
-        "lon": -4.373675359606294,
-        "lat": 54.315323725799445,
+        "lon": -4.373709336968613,
+        "lat": 54.31532924531114,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/963422058"
       }
@@ -144046,6 +144243,11 @@
         "addr:postcode": "IM4 7BQ",
         "addr:street": "New Road",
         "building": "yes",
+        "building:colour": "#c6bfaf",
+        "building:levels": "1",
+        "roof:colour": "#8a8888",
+        "roof:material": "slate",
+        "roof:shape": "gabled",
         "osm_id": 1126112638,
         "lon": -4.404233072378169,
         "lat": 54.23012555979806,
@@ -146563,6 +146765,7 @@
         "addr:postcode": "IM1 1AF",
         "addr:street": "Circular Road",
         "building": "yes",
+        "building:colour": "blue",
         "name": "Carters",
         "office": "lawyer",
         "website": "https://carters.co.im/",
@@ -146721,6 +146924,7 @@
         "addr:postcode": "IM1 4LZ",
         "addr:street": "Peel Road",
         "building": "office",
+        "building:material": "brick",
         "name": "Evolution Recruitment",
         "office": "employment_agency",
         "source": "streetside",
@@ -147314,6 +147518,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "#c2b5ad",
         "source:addr:housenumber": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1139610387,
@@ -147358,6 +147563,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "#4c4e5b",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1139610388,
@@ -147402,6 +147608,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "#cdbcac",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1139610389,
@@ -147447,6 +147654,7 @@
         "addr:street": "Peel Road",
         "addr:substreet": "Athol Terrace",
         "building": "yes",
+        "building:colour": "#a69687",
         "source:addr:housenumber": "interpolation",
         "source:addr:substreet": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1139610390,
@@ -147491,6 +147699,7 @@
         "addr:postcode": "IM1 4LR",
         "addr:street": "Peel Road",
         "building": "yes",
+        "building:colour": "grey",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1139610391,
@@ -149226,6 +149435,9 @@
         "addr:postcode": "IM7 1ES",
         "addr:street": "Ramsey Road",
         "building": "church",
+        "building:material": "stone",
+        "roof:colour": "grey",
+        "roof:material": "slate",
         "source": "streetside;bing",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1147698211,
@@ -180128,6 +180340,427 @@
         "lat": 54.09664795125921,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1348049264"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1443946368,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479864,
+            54.157553
+          ],
+          [
+            -4.479824,
+            54.157556
+          ],
+          [
+            -4.479786,
+            54.157554
+          ],
+          [
+            -4.479768,
+            54.157543
+          ],
+          [
+            -4.479764,
+            54.157527
+          ],
+          [
+            -4.479771,
+            54.157497
+          ],
+          [
+            -4.479857,
+            54.157502
+          ],
+          [
+            -4.479864,
+            54.157553
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1a",
+        "addr:postcode": "IM2 3EU",
+        "addr:street": "Derby Road",
+        "building": "yes",
+        "name": "Simply Sew",
+        "shop": "sewing",
+        "source": "streetside",
+        "source:addr:postcode": "companies registry",
+        "osm_id": 1443946368,
+        "lon": -4.479814879743983,
+        "lat": 54.1575268194892,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1443946368"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498172,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475299,
+            54.161175
+          ],
+          [
+            -4.475272,
+            54.161198
+          ],
+          [
+            -4.475307,
+            54.161212
+          ],
+          [
+            -4.475226,
+            54.161281
+          ],
+          [
+            -4.475307,
+            54.161313
+          ],
+          [
+            -4.475334,
+            54.16129
+          ],
+          [
+            -4.475374,
+            54.161306
+          ],
+          [
+            -4.475253,
+            54.161409
+          ],
+          [
+            -4.475094,
+            54.161345
+          ],
+          [
+            -4.475104,
+            54.161337
+          ],
+          [
+            -4.475007,
+            54.161298
+          ],
+          [
+            -4.474985,
+            54.161299
+          ],
+          [
+            -4.474982,
+            54.161272
+          ],
+          [
+            -4.474999,
+            54.161271
+          ],
+          [
+            -4.475172,
+            54.161124
+          ],
+          [
+            -4.475299,
+            54.161175
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:postcode": "IM2 4LF",
+        "addr:street": "Mona Drive",
+        "building": "yes",
+        "name": "Welbeck Hotel",
+        "phone": "+44 1624 675663",
+        "postal_code": "IM2 4LF",
+        "toilets:wheelchair": "yes",
+        "tourism": "hotel",
+        "website": "https://www.welbeckhotel.com/",
+        "wheelchair": "yes",
+        "osm_id": 1444498172,
+        "lon": -4.475193620581276,
+        "lat": 54.16127245740775,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1444498172"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1444498174,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474873,
+            54.161425
+          ],
+          [
+            -4.474838,
+            54.161455
+          ],
+          [
+            -4.474852,
+            54.16146
+          ],
+          [
+            -4.474838,
+            54.161472
+          ],
+          [
+            -4.474825,
+            54.161486
+          ],
+          [
+            -4.475064,
+            54.161581
+          ],
+          [
+            -4.475089,
+            54.161562
+          ],
+          [
+            -4.475063,
+            54.161551
+          ],
+          [
+            -4.475108,
+            54.161512
+          ],
+          [
+            -4.475079,
+            54.161501
+          ],
+          [
+            -4.475103,
+            54.16148
+          ],
+          [
+            -4.474938,
+            54.161414
+          ],
+          [
+            -4.474923,
+            54.161426
+          ],
+          [
+            -4.474908,
+            54.161439
+          ],
+          [
+            -4.474873,
+            54.161425
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LE",
+        "addr:street": "Empire Terrace",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Mereside",
+        "postal_code": "IM2 4LE",
+        "tourism": "hotel",
+        "website": "https://hqbar.im/",
+        "osm_id": 1444498174,
+        "lon": -4.474978071989407,
+        "lat": 54.16149362076674,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1444498174"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1446324744,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482756,
+            54.150872
+          ],
+          [
+            -4.482656,
+            54.150947
+          ],
+          [
+            -4.482794,
+            54.151011
+          ],
+          [
+            -4.482895,
+            54.150936
+          ],
+          [
+            -4.482756,
+            54.150872
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "New Court Chambers",
+        "addr:housenumber": "23-25",
+        "addr:postcode": "IM1 3DA",
+        "addr:street": "Bucks Road",
+        "building": "yes",
+        "name": "M&P Legal",
+        "office": "lawyer",
+        "website": "https://www.mplegal.im",
+        "osm_id": 1446324744,
+        "lon": -4.482775431878036,
+        "lat": 54.15094148489878,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1446324744"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1446473192,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479374,
+            54.162819
+          ],
+          [
+            -4.479337,
+            54.16284
+          ],
+          [
+            -4.479264,
+            54.162796
+          ],
+          [
+            -4.479234,
+            54.162813
+          ],
+          [
+            -4.479133,
+            54.162752
+          ],
+          [
+            -4.4792,
+            54.162714
+          ],
+          [
+            -4.479374,
+            54.162819
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Hillcrest",
+        "addr:postcode": "IM2 4BN",
+        "addr:street": "Lower Duke's Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1446473192,
+        "lon": -4.479253567427692,
+        "lat": 54.16278021564201,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1446473192"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1446473200,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480118,
+            54.162559
+          ],
+          [
+            -4.479992,
+            54.16258
+          ],
+          [
+            -4.480002,
+            54.1626
+          ],
+          [
+            -4.479964,
+            54.162606
+          ],
+          [
+            -4.47997,
+            54.162617
+          ],
+          [
+            -4.479922,
+            54.162625
+          ],
+          [
+            -4.479909,
+            54.162599
+          ],
+          [
+            -4.479893,
+            54.162601
+          ],
+          [
+            -4.479846,
+            54.162507
+          ],
+          [
+            -4.480082,
+            54.162467
+          ],
+          [
+            -4.480103,
+            54.162509
+          ],
+          [
+            -4.480173,
+            54.162498
+          ],
+          [
+            -4.480206,
+            54.162564
+          ],
+          [
+            -4.480128,
+            54.162577
+          ],
+          [
+            -4.480118,
+            54.162559
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Langdale House",
+        "addr:postcode": "IM2 4BQ",
+        "addr:street": "Lower Duke's Road",
+        "building": "yes",
+        "source:addr:housename": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1446473200,
+        "lon": -4.480022265509333,
+        "lat": 54.16254138497148,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1446473200"
       }
     }
   ]

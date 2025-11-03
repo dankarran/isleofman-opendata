@@ -16259,6 +16259,7 @@
       },
       "properties": {
         "building": "commercial",
+        "building:colour": "white",
         "name": "Blond with Lucy",
         "shop": "hairdresser"
       }
@@ -16415,6 +16416,7 @@
       "properties": {
         "amenity": "fast_food",
         "building": "yes",
+        "building:colour": "pink",
         "cuisine": "chinese",
         "name": "The Phoenix",
         "shop": "fast_food"
