@@ -4219,65 +4219,60 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.541273,
-            54.355059
+            -4.541264,
+            54.355077
           ],
           [
-            -4.541216,
-            54.355059
+            -4.541186,
+            54.35508
           ],
           [
-            -4.541215,
-            54.355044
+            -4.541184,
+            54.355064
           ],
           [
-            -4.54089,
-            54.355048
+            -4.540836,
+            54.355077
           ],
           [
-            -4.540887,
-            54.354956
+            -4.540826,
+            54.354987
           ],
           [
-            -4.541298,
-            54.354952
+            -4.541252,
+            54.354971
           ],
           [
-            -4.541298,
-            54.354974
+            -4.541254,
+            54.354993
           ],
           [
-            -4.541348,
-            54.354974
+            -4.541306,
+            54.354991
           ],
           [
-            -4.541349,
-            54.355002
+            -4.541309,
+            54.355024
           ],
           [
-            -4.541299,
-            54.355002
+            -4.541258,
+            54.355026
           ],
           [
-            -4.541301,
-            54.355043
-          ],
-          [
-            -4.541272,
-            54.355044
-          ],
-          [
-            -4.541273,
-            54.355059
+            -4.541264,
+            54.355077
           ]
         ]
       },
       "properties": {
         "amenity": "place_of_worship",
         "building": "church",
+        "building:colour": "white",
         "denomination": "anglican",
         "name": "Saint Patrick's (Jurby) Parish Church",
         "religion": "christian",
+        "roof:colour": "#878f86",
+        "roof:shape": "gabled",
         "wikidata": "Q24996966",
         "wikipedia": "en:St Patrick's Church, Jurby"
       }
@@ -4397,11 +4392,14 @@
         "addr:street": "Garth Road",
         "amenity": "place_of_worship",
         "building": "church",
+        "building:material": "stone",
         "denomination": "anglican",
         "listed_status": "Registered",
         "name": "Old St Runius",
         "ref:registered_building": "14",
         "religion": "christian",
+        "roof:material": "slate",
+        "roof:shape": "gabled",
         "source": "Bing",
         "url:registered_building": "https://www.gov.im/media/1385910/rb14-registration-notice-and-entry-summary-081024_compressed.pdf",
         "wikidata": "Q30693226",

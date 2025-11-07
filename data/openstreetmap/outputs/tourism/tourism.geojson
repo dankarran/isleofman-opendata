@@ -1250,12 +1250,13 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
-        "addr:housenumber": "7",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "IM2 4LE",
         "addr:street": "Empire Terrace",
         "name": "Ascot Hotel",
         "postal_code": "IM2 4LE",
         "tourism": "hotel",
-        "website": "https://www.hotel-ascot.co.uk/",
+        "website": "https://www.ascothotel.im",
         "osm_id": 476150218,
         "lon": -4.474519,
         "lat": 54.161805,
@@ -9908,28 +9909,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.473494,
-            54.16125
+            -4.473493,
+            54.161249
           ],
           [
-            -4.473435,
-            54.161296
+            -4.47343,
+            54.161298
           ],
           [
-            -4.47376,
-            54.161438
+            -4.473693,
+            54.161414
           ],
           [
-            -4.473818,
-            54.161392
+            -4.473756,
+            54.161365
           ],
           [
-            -4.47366,
-            54.161322
+            -4.473659,
+            54.161323
           ],
           [
-            -4.473494,
-            54.16125
+            -4.473493,
+            54.161249
           ]
         ]
       },
@@ -9950,8 +9951,8 @@
         "twitter": "savoyiom",
         "website": "https://www.savoyiom.com/",
         "osm_id": 80830551,
-        "lon": -4.473626627194427,
-        "lat": 54.161343829062034,
+        "lon": -4.473592943756492,
+        "lat": 54.16133162825592,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80830551"
       }
@@ -23864,11 +23865,11 @@
             54.161472
           ],
           [
-            -4.474824,
-            54.161484
+            -4.474825,
+            54.161486
           ],
           [
-            -4.475067,
+            -4.475064,
             54.161581
           ],
           [
@@ -23923,8 +23924,8 @@
         "tourism": "hotel",
         "website": "https://hqbar.im/",
         "osm_id": 1444498174,
-        "lon": -4.474978090279384,
-        "lat": 54.16149327525461,
+        "lon": -4.474978071989407,
+        "lat": 54.16149362076674,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1444498174"
       }

@@ -4688,6 +4688,8 @@
         "building": "yes",
         "cuisine": "coffee_shop",
         "name": "Costa",
+        "roof:colour": "red",
+        "roof:shape": "hipped",
         "source": "Isle of Man Government aerial imagery (2001)",
         "takeaway": "yes",
         "wheelchair": "yes",
@@ -10872,7 +10874,7 @@
       "properties": {
         "amenity": "pub",
         "building": "yes",
-        "building:colour": "white",
+        "building:colour": "lightyellow",
         "building:levels": "3",
         "building:material": "plaster",
         "name": "The Bridge Inn",
@@ -11178,6 +11180,7 @@
       "properties": {
         "amenity": "fast_food",
         "building": "yes",
+        "building:colour": "pink",
         "cuisine": "chinese",
         "name": "The Phoenix",
         "shop": "fast_food",

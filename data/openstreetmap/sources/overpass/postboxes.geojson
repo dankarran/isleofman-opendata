@@ -1006,8 +1006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.70083,
-          54.105606
+          -4.700518,
+          54.105642
         ]
       },
       "properties": {
@@ -1890,6 +1890,8 @@
         "colour": "red",
         "name": "Douglas Road",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:type": "wall",
         "ref": "124",
@@ -3361,6 +3363,8 @@
         "amenity": "post_box",
         "name": "Bowling Green Road",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:mounting": "brick_wall",
         "post_box:type": "wall",

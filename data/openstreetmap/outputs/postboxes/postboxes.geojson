@@ -1296,8 +1296,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.70083,
-          54.105606
+          -4.700518,
+          54.105642
         ]
       },
       "properties": {
@@ -1305,8 +1305,8 @@
         "name": "Glen Road",
         "ref": "134",
         "osm_id": 283509354,
-        "lon": -4.70083,
-        "lat": 54.105606,
+        "lon": -4.700518,
+        "lat": 54.105642,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283509354"
       }
@@ -2420,6 +2420,8 @@
         "colour": "red",
         "name": "Douglas Road",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:type": "wall",
         "ref": "124",
@@ -4306,6 +4308,8 @@
         "amenity": "post_box",
         "name": "Bowling Green Road",
         "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
         "operator:wikidata": "Q3432267",
         "post_box:mounting": "brick_wall",
         "post_box:type": "wall",
