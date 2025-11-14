@@ -1346,35 +1346,6 @@
     },
     {
       "type": "Feature",
-      "id": 1069323499,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48182,
-          54.159889
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM2 3HZ",
-        "addr:street": "Waverley Terrace",
-        "amenity": "fast_food",
-        "contact:facebook": "https://www.facebook.com/MagicWok.IOM/",
-        "cuisine": "chinese",
-        "name": "Magic Wok",
-        "opening_hours": "Mo-Fr 12:00-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
-        "source:addr": "Isle of Man Government Companies Registry",
-        "osm_id": 1069323499,
-        "lon": -4.48182,
-        "lat": 54.159889,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/1069323499"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1194125958,
       "geometry": {
         "type": "Point",
@@ -17277,6 +17248,58 @@
         "lat": 54.158770950631066,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1315121248"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1449692934,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481757,
+            54.159893
+          ],
+          [
+            -4.481835,
+            54.15986
+          ],
+          [
+            -4.481957,
+            54.159957
+          ],
+          [
+            -4.481844,
+            54.159963
+          ],
+          [
+            -4.48182,
+            54.159943
+          ],
+          [
+            -4.481757,
+            54.159893
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3HZ",
+        "addr:street": "Waverley Terrace",
+        "amenity": "fast_food",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/MagicWok.IOM/",
+        "cuisine": "chinese",
+        "name": "Magic Wok",
+        "opening_hours": "Mo-Fr 12:00-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "osm_id": 1449692934,
+        "lon": -4.4818560207118985,
+        "lat": 54.15991982783218,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1449692934"
       }
     }
   ]

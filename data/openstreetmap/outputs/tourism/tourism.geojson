@@ -6207,6 +6207,48 @@
     },
     {
       "type": "Feature",
+      "id": 13294773945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.476648,
+          54.147433
+        ]
+      },
+      "properties": {
+        "colour": "blue",
+        "information": "route_marker",
+        "tourism": "information",
+        "osm_id": 13294773945,
+        "lon": -4.476648,
+        "lat": 54.147433,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13294773945"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13294773954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477089,
+          54.146684
+        ]
+      },
+      "properties": {
+        "colour": "blue",
+        "information": "route_marker",
+        "tourism": "information",
+        "osm_id": 13294773954,
+        "lon": -4.477089,
+        "lat": 54.146684,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13294773954"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -21103,8 +21145,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.604603,
-            54.242957
+            -4.604622,
+            54.242976
           ],
           [
             -4.604289,
@@ -21115,21 +21157,22 @@
             54.242686
           ],
           [
-            -4.604679,
-            54.242923
+            -4.604687,
+            54.242942
           ],
           [
-            -4.604603,
-            54.242957
+            -4.604622,
+            54.242976
           ]
         ]
       },
       "properties": {
         "building": "yes",
+        "building:material": "stone",
         "tourism": "chalet",
         "osm_id": 1085151440,
-        "lon": -4.604483932048028,
-        "lat": 54.242821599109895,
+        "lon": -4.604488728007624,
+        "lat": 54.242829970617,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1085151440"
       }
@@ -21164,6 +21207,7 @@
       },
       "properties": {
         "building": "yes",
+        "building:material": "stone",
         "tourism": "chalet",
         "osm_id": 1085151442,
         "lon": -4.604202630294034,

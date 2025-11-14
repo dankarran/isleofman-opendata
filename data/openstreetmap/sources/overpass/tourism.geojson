@@ -4827,6 +4827,38 @@
     },
     {
       "type": "Feature",
+      "id": 13294773945,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.476648,
+          54.147433
+        ]
+      },
+      "properties": {
+        "colour": "blue",
+        "information": "route_marker",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13294773954,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477089,
+          54.146684
+        ]
+      },
+      "properties": {
+        "colour": "blue",
+        "information": "route_marker",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -18753,8 +18785,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.604603,
-            54.242957
+            -4.604622,
+            54.242976
           ],
           [
             -4.604289,
@@ -18765,17 +18797,18 @@
             54.242686
           ],
           [
-            -4.604679,
-            54.242923
+            -4.604687,
+            54.242942
           ],
           [
-            -4.604603,
-            54.242957
+            -4.604622,
+            54.242976
           ]
         ]
       },
       "properties": {
         "building": "yes",
+        "building:material": "stone",
         "tourism": "chalet"
       }
     },
@@ -18809,6 +18842,7 @@
       },
       "properties": {
         "building": "yes",
+        "building:material": "stone",
         "tourism": "chalet"
       }
     },
