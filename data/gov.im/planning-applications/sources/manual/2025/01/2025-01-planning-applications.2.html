@@ -1,0 +1,4317 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+            
+        
+    
+
+    
+
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+
+	<!-- #BeginEditable "doctitle" --><title>Search Results</title><!-- #EndEditable -->
+    <!-- #BeginEditable "metatags" --><!-- #EndEditable -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<!-- Customer metatags -->
+	
+	
+	<!-- Favicon link -->
+    <link rel="icon" href="https://pbc.gov.im/online-applications-skin/images/isle-of-man/favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" href="https://pbc.gov.im/online-applications-skin/styles/screen.css" type="text/css" />
+    <link rel="stylesheet" href="https://pbc.gov.im/online-applications-skin/styles/theme1.css" type="text/css"/>
+    <link rel="stylesheet" href="https://pbc.gov.im/online-applications-skin/styles/print.css" type="text/css" media="print" />
+
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/jquery.toolbar.idox.min.js"></script>
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/common.js"></script>
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/checkbox.js"></script>
+	<!-- Customer Analytics Script -->
+	
+
+    <script type="text/javascript">
+    	$('html').addClass('js');
+    	$(document).ready(function(){
+    		$('.main#apply>span:first-child').attr('tabindex', '0')
+    	});
+    </script>
+
+    <!-- #BeginEditable "mobile" --><!-- #EndEditable -->
+    <!-- #BeginEditable "head" -->
+        <script type="text/javascript">
+            $(document).ready(function () {
+                const CLAMP_LINK_TEXT_MORE = 'Show more description';
+                const CLAMP_LINK_TEXT_LESS = 'Show less description';
+
+                $('a.summaryLink div').each(function() {
+                    if (hasOwerflow($(this).get(0))) {
+                        // display the more/less link
+                        $(this).parent().after('<a href="#" class="clampLink">' + CLAMP_LINK_TEXT_MORE + '</a>');
+                    }
+                });
+
+                $('a.clampLink').on('click tap', function(e) {
+                    e.preventDefault();
+                    // toggle the clamp CSS
+                    $(this).prev('a.summaryLink').find('div').toggleClass('summaryLinkTextClamp');
+                    // change text
+                    $(this).text(function(i, text){
+                        return text === CLAMP_LINK_TEXT_MORE ? CLAMP_LINK_TEXT_LESS : CLAMP_LINK_TEXT_MORE;
+                    });
+                });
+
+                function hasOwerflow(element) {
+                    return element.scrollHeight > element.clientHeight;
+                }
+            });
+        </script>
+    <!-- #EndEditable -->
+    <!-- #BeginEditable "webapp" -->
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        var form = document.getElementById("mapForm");
+                        form.submit();
+                    });
+                </script>
+            <!-- #EndEditable -->
+    <!-- #BeginEditable "recaptcha" --><!-- #EndEditable -->
+
+</head>
+<body>
+
+    <a href="#pageheading" class="skip-link">Skip to main content</a>
+
+    <!-- IDOX PA START -->
+    <div id="idox">
+        <div id="pa">
+			<div id="header">
+				<div class="container">
+					<div id="logo"><a href="https://www.gov.im/" title="Isle of Man Government home page"><img src="https://pbc.gov.im/online-applications-skin/images/isle-of-man/logo.png" alt="Council logo" /><span class="sr-only">Isle of Man Government</span></a></div>
+					<div id="headertitle"><ul><li><a href="https://www.gov.im/about-this-site/terms-and-conditions/">Terms and Conditions</a></li><li><a href="https://www.gov.im/about-this-site/help/">Help</a></li><li><a href="https://www.gov.im/privacy">Privacy</a></li></ul></div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div id="breadcrumbs" class="container">
+				<ol>
+				    
+				</ol>
+			</div>
+            <div class="container" role="main">
+       			<div id="toolbar" class="nojs">
+                    <ul>
+                        <li id="search" class="main"><span tabindex="0">Search&nbsp;</span><span class="caret"></span>
+   							<ul>
+								<!-- #BeginLibraryItem "/Library/searchModulesNavItems.lbi" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+            <li id="planLinks">
+                <a href="/online-applications/search.do?action=simple&amp;searchType=Application" >
+                    <span>Planning</span>
+                </a>
+                <ul>
+                    <li id="planBasicSearch">
+                        <a href="/online-applications/search.do?action=simple&amp;searchType=Application">
+                            Simple Search
+                        </a>
+                    </li>
+
+                    <li id="planAdvancedSearch">
+                        <a href="/online-applications/search.do?action=advanced&amp;searchType=Application">
+                            Advanced
+                        </a>
+                    </li>
+                    <li id="planListSearch">
+                        <a href="/online-applications/search.do?action=weeklyList&amp;searchType=Application">
+                            Weekly/Monthly Lists
+                        </a>
+                    </li>
+                    <li id="planPropertySearch">
+                        <a href="/online-applications/search.do?action=property&amp;type=custom&amp;searchType=Application">
+                            Property Search
+                        </a>
+                    </li>
+					
+                    
+                        <li id="planMapsearch">
+                            <a href="/online-applications/spatialDisplay.do?action=display&amp;searchType=Application">
+                                Map Search
+                            </a>
+                        </li>
+                    
+					
+                </ul>
+            </li>
+        
+
+        
+
+        
+
+        
+
+        <!-- #EndLibraryItem -->
+                        	</ul>
+						</li>
+                        <!-- #BeginEditable "applicationForms" -->
+
+
+
+
+
+   
+<!-- #EndEditable -->
+                        <li id="myprofile" class="main"><span tabindex="0">My Profile&nbsp;</span><span class="caret"></span>
+                            <ul>
+                              <!-- #BeginLibraryItem "/Library/consulteeInTrayNavItem.lbi" -->
+
+
+
+
+
+
+    <!-- #EndLibraryItem -->
+                                <li><a href="https://pbc.gov.im/online-applications/registered/displayUserDetails.do">Profile Details</a></li>
+                                <li><a href="https://pbc.gov.im/online-applications/registered/savedSearch.do?action=display">Saved Searches</a></li>
+                                <li><a href="https://pbc.gov.im/online-applications/registered/userAdmin.do?action=showNotifiedApplications">Notified Applications</a></li>
+                                <li><a href="https://pbc.gov.im/online-applications/registered/trackedApplication.do?action=display">Tracked Applications</a></li>
+                                <!-- #BeginEditable "formSubmissions" -->
+
+
+
+
+
+
+
+
+<!-- #EndEditable -->
+                            </ul>
+                        </li>
+                        <li id="savedSearches" class="main"><a href="https://pbc.gov.im/online-applications/registered/savedSearch.do?action=display">Saved Searches</a></li>
+                        <li id="loginLink" class="main"><!-- #BeginEditable "loginlogout" -->
+
+
+
+
+
+
+
+
+
+
+	<a href="/online-applications/registered/userAdmin.do">Login</a>
+<!-- #EndEditable --></li>
+                        <!-- #BeginEditable "register" -->
+
+
+
+
+
+
+
+
+   
+
+
+	<li id="register">
+        <a href="/online-applications/registrationWizard.do?action=start">Register</a>
+	</li>
+
+<!-- #EndEditable -->
+                        <!-- #BeginLibraryItem "/Library/applyOnlineNavItems.lbi" -->
+
+
+
+
+
+
+
+
+
+
+    <script>
+
+        function ApplyMenuBuilder() {
+        }
+
+        ApplyMenuBuilder.prototype.getMenuData = function (
+            planningLabel1,
+            planningUrl1,
+            planningLabel2,
+            planningUrl2,
+            planningLabel3,
+            planningUrl3,
+            buildingControlLabel1,
+            buildingControlUrl1,
+            buildingControlLabel2,
+            buildingControlUrl2,
+            buildingControlLabel3,
+            buildingControlUrl3,
+            buildingStandardsLabel1,
+            buildingStandardsUrl1,
+            buildingStandardsLabel2,
+            buildingStandardsUrl2,
+            buildingStandardsLabel3,
+            buildingStandardsUrl3,
+            licensingLabel1,
+            licensingUrl1,
+            licensingLabel2,
+            licensingUrl2,
+            licensingLabel3,
+            licensingUrl3
+        ) {
+            var modules = [];
+
+            var planning = this.getModuleJson('Planning', planningLabel1, planningUrl1, planningLabel2, planningUrl2, planningLabel3, planningUrl3);
+            var buildingControl = this.getModuleJson('Building Control', buildingControlLabel1, buildingControlUrl1, buildingControlLabel2, buildingControlUrl2, buildingControlLabel3, buildingControlUrl3);
+            var buildingStandards = this.getModuleJson('Building Standards', buildingStandardsLabel1, buildingStandardsUrl1, buildingStandardsLabel2, buildingStandardsUrl2, buildingStandardsLabel3, buildingStandardsUrl3);
+            var licensing = this.getModuleJson('Licensing', licensingLabel1, licensingUrl1, licensingLabel2, licensingUrl2, licensingLabel3, licensingUrl3);
+
+            this.pushIfNotNull(modules, planning);
+            this.pushIfNotNull(modules, buildingControl);
+            this.pushIfNotNull(modules, buildingStandards);
+            this.pushIfNotNull(modules, licensing);
+
+            var data = {};
+            data.Version = "1.0";
+            data.Default = modules;
+            return data;
+        };
+
+        ApplyMenuBuilder.prototype.getModuleJson = function (moduleName, label1, url1, label2, url2, label3, url3) {
+            var links = [];
+            this.pushIfNotNull(links, this.getLinkJson(label1, url1));
+            this.pushIfNotNull(links, this.getLinkJson(label2, url2));
+            this.pushIfNotNull(links, this.getLinkJson(label3, url3));
+
+            if (links.length === 0) {
+                return null;
+            }
+
+            var module = {};
+            module.name = moduleName;
+            module.menu = links;
+            return module;
+        };
+
+        ApplyMenuBuilder.prototype.getLinkJson = function (label, url) {
+            if (!label || label === "" || label === "null" || !url || url === "" || url === "null") {
+                return null;
+            }
+            return {"name": label, "url": url};
+        };
+
+        ApplyMenuBuilder.prototype.pushIfNotNull = function (array, item) {
+            if (item != null) {
+                array.push(item);
+            }
+        };
+
+        $(document).ready(function () {
+            var applyMenuData = new ApplyMenuBuilder().getMenuData(
+                "",
+                "https://www.gov.im/categories/planning-and-building-control/information-for-applicants/making-a-planning-application/",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "");
+
+            if (applyMenuData.Default.length === 0){
+                if (window.console) console.log('No data given with which to construct the Apply Online menu.')
+                hideApplyMenu();
+            }
+            loadApplyMenu('Default', applyMenuData);
+        });
+    </script>
+
+    <li id="apply" class="main">
+        <span>Apply Online&nbsp;</span>
+        <span class="caret"/>
+    </li>
+<!-- #EndLibraryItem -->
+                    </ul>
+    			</div>
+
+    			<!-- #BeginEditable "headlinenews" --><!-- #EndEditable -->
+
+                <div id="pageheading">
+                    <h1><strong>Planning</strong>&nbsp;&ndash;&nbsp;<!-- #BeginEditable "pageheading" -->
+        
+
+
+
+
+
+
+
+
+
+Results for Application Search
+
+
+
+
+    <!-- #EndEditable --></h1>
+                    <!-- #BeginEditable "helplink" --><!-- #EndEditable -->
+                </div>
+
+                <!-- START WAM CONTENT -->
+                <div class="content">
+                    <!-- #BeginEditable "errormsg" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "pagehead" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "tabs" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "tabsubnav" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "pagebody" -->
+
+        
+        
+
+        <div id="searchtools">
+            <ul>
+                
+                
+                    <li>
+                        <a href="/online-applications/refineSearch.do?action=refine" id="refinesearch"><img src="https://pbc.gov.im/online-applications-skin/images/button_refinesearch.gif" alt="Refine search icon"/></a>
+                    </li>
+                    
+                    
+                        <li>
+                            <a href="/online-applications/registered/saveSearch.do?action=saveDialog" id="savesearch"><img src="https://pbc.gov.im/online-applications-skin/images/button_savesearch.gif" alt="Save search icon"/></a>
+                        </li>
+                    
+                
+
+                    
+                
+                    <li>
+                        <a href="/online-applications/pagedSearchResults.do?action=printPreview" rel="external"
+                           id="print" title="View a printable version of these search results (opens in a new window)">
+                            <img src="https://pbc.gov.im/online-applications-skin/images/button_print.gif" alt="Print icon"/>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+
+
+        
+            <div id="searchfilters">
+                <form name="searchCriteriaForm" method="post" action="/online-applications/pagedSearchResults.do" id="searchResults">
+                    <input type="hidden" name="_csrf" value="fbd19bc8-1f60-46d0-85a5-e9bb5f4bbd4f" />
+                    <input type="hidden" name="searchCriteria.page" value="1" />
+                    <input type="hidden" name="action" value="page" />
+
+                    
+                    <span class="orderByContainer">
+                        <label for="orderBy">
+                            Sort by
+                        </label>
+                        <select name="orderBy" id="orderBy"><option value="Reference">Ref. No.</option>
+                            
+                                <option value="DateReceived" selected="selected">Date Received</option>
+                            
+                                <option value="Proposal">Description</option>
+                            
+                                <option value="ExpiryDate">Expiry Date</option></select>
+                    </span>
+                    
+
+                    <span class="orderByDirectionContainer">
+                    <label for="orderByDirection">
+                        Direction
+                    </label>
+                    <select name="orderByDirection" id="orderByDirection"><option value="Ascending">Ascending</option>
+                        
+                            <option value="Descending" selected="selected">Descending</option></select>
+				</span>
+
+                    <span class="resultsPerPage">
+                    <label for="resultsPerPage">
+                        Results per page
+                    </label>
+                    <select name="searchCriteria.resultsPerPage" id="resultsPerPage"><option value="5">5</option>
+<option value="10">10</option>
+<option value="20">20</option>
+<option value="50">50</option>
+<option value="100" selected="selected">100</option></select>
+				</span>
+                    <input type="submit" value="Go" class="button primary" />
+                </form>
+            </div>
+        
+
+        <div id="searchResultsContainer" class="panel">
+            
+            
+            
+                <p class="pager top"><span class="showing"><strong>Showing 101-150</strong> of 150</span><a href ="/online-applications/pagedSearchResults.do?action=page&amp;searchCriteria.page=1" class="previous"><img border="0" src="https://pbc.gov.im/online-applications-skin/images/pager_previous.gif" alt="Display the previous page of search results"/>Previous</a><span class="divider">|</span><a href ="/online-applications/pagedSearchResults.do?action=page&amp;searchCriteria.page=1" class="page">1</a><span class="divider">|</span><strong>2</strong><span class="divider">|</span></p>
+            
+
+            <div class="col-a">
+                <ul id="searchresults">
+                        
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOQJSPIPISP00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of elevated sun and sea view cabin in the rear garden</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        50 Victoria Road Douglas Isle Of Man IM2 4HQ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91411/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 13 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPTAA3IPIZ500&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of non-illuminated signage to northwest elevation</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Plot 8 Middle River Industrial Estate Pulrose Road Douglas Isle Of Man
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/00021/D
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Tue 04 Feb 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPTLX2IP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to conditions 4 and 5 of PA 24/00211/C providing details for the implementation of parking and lighting at Lambfell Beg</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Lambfell Beg Cronk Y Voddy St Johns Isle Of Man IM4 3NS
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10005/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPRWA7IPIYN00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Refurbishment of existing industrial units</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Units 15, 17, 19 And 21 Spring Valley Industrial Estate Douglas Isle Of Man IM2 2QT
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90016/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPRXMPIPIYT00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of first floor dormer windows and roof lights, replacement of existing doors and windows, creating of first floor accommodation</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Balladuke Mill Road Greeba Isle Of Man IM4 3LB
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90018/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPTYFNIP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 5 of PA 24/00570/CON in relation to the demolition works</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        The Former Empire Garage Showroom Marine Parade Peel IM5 1PA
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10009/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPTQRQIP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 34 of PA 22/00675/B providing details for the external materials and finishes to be implemented at Braddan Road (Housing Development)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Fields And Part Fields 524202, 524978, 524930, 524765, 524224, 524225 &amp; 524226 Land East Of Braddan Road
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10008/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SNZ9LLIP03300&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Certificate of Lawful Development for the erection of a conservatory</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        6 Snaefell View Jurby Isle Of Man IM7 3BF
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/01371/LAW
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Unknown
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPTPP1IP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 17 of PA 22/00675/B providing details of the works to upgrade the existing highway drainage on Braddan Road (Housing Development)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Fields And Part Fields 524202, 524978, 524930, 524765, 524224, 524225 &amp; 524226 Land East Of Braddan Road Braddan Isle Of Man IM2 2RA
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10006/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPVQQVIP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 7 of PA 23/01407/B detailing the dust management plan</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Land West Of Glenfaba Road Fields 311835, 311836 And 311785 Glenfaba Road Peel
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10015/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPTQFMIP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 21 of PA 22/00675/B providing details for the soft and hard landscaping plan to be implemented on Braddan Road (Housing Development)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Fields And Part Fields 524202, 524978, 524930, 524765, 524224, 524225 &amp; 524226 Land East Of Braddan Road
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10007/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOL85AIPIR000&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Proposed Parking Area on vacant overgrown landscaped area.</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Land To The Rear Of Oakfield May Hill Ramsey Isle Of Man IM8 2HJ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91399/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 13 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPO9PGIPIXT00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of purpose built self storage facility over two levels with associated car parking and fencing (amendments to 24/00674/B including installation of goods lift, relocation of fencing, installation of timber cladding and signage to north-west elevation)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Plot 8 Middle River Industrial Estate Pulrose Road Douglas Isle Of Man
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90009/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SQ0VCRIP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 10 of PA 16/01372/B for details regarding the soft landscaping at the former Isle of Man Bank in Onchan</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Former Isle Of Man Bank 26 Main Road Onchan Isle Of Man IM3 1AP
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10021/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 09 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 13 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOSK0NIPITN00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Demolition of existing extension, erection of a rear extension, roofing works including replacement slates, installation of solar panels, roof lights and rear dormer, rendering works, replacement windows, patio and raising of boundary wall to 14 Stanley Road (amendments to 24/00827/B including erection of integral greenhouse - in association with 24/00829/CON)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        12 Stanley Road Peel Isle Of Man IM5 1NX
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91417/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPPT8UIPIYB00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Replacement of rear dormer windows and installation of a french door</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        34 Patrick Street Peel Isle Of Man IM5 1BR
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90012/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SMZMJWIPHE100&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of a generator</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Manx Utilities Headquarters Ballacottier Crescent Isle Of Man Business Park Douglas Isle Of Man IM99 1PS
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91300/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SMN35SIPG4400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Removal of generators and wall and levelling of site for additional car parking</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Car Park Lord Street Douglas Isle Of Man
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91271/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 08 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPS0Y8IP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to conditions 2 and 3 of PA 22/00312/B providing details for the Arboricultural Method Statement and the Arboricultural Monitoring Schedule.</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        East Of 3 James Street James Street Douglas Isle Of Man IM1 2DB
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10003/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 08 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOP5SZIPISH00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Minor change to 24/91230/B, reverse orientation of terrace access staircase</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Salalah House 34 Peel Road Douglas Isle Of Man IM1 4LY
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91410/MCH
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOOP4PIPIS100&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Replacement stables and field store</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Ballaveare Farm Old Castletown Road Port Soderick Isle Of Man IM4 1BB
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91409/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 13 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPVR26IP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 8 of PA 23/01407/B detailing measures to control the storage, handling and disposal of polluting material and details regarding erosion measures.</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Land West Of Glenfaba Road Fields 311835, 311836 And 311785 Glenfaba Road Peel
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10016/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPNQ9PIPIXB00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Replacement of conservatory roof and two ground floor windows</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        13 Ballakneale Avenue Port Erin Isle Of Man IM9 6ND
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90004/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 09 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SMZFMAIPGGJ00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of replacement windows and doors</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Home Cottage 11 Beach Street Peel Isle Of Man IM5 1NJ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91299/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 08 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOL2LWIPIQR00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Demolition of garage, erection of glass house, removal of one vehicular access, alterations to existing dwelling, additional use as offices</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Ballavale Barns Ballavale Road Santon Isle Of Man IM4 1EH
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91397/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 08 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SODS2ZIPIOL00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of PV array on roof and heat pumps to the side of the manege</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Oak Hill Mansion Ronague Road Ballabeg Isle Of Man IM9 4HF
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91392/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Wed 08 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 03 Feb 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SNHY95IPIFB00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of equestrian stables</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Ballacallin Cottage Foxdale Road Garth Crosby Isle Of Man IM4 2HL
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91329/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Tue 07 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Thu 30 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPARKYIPIVP00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Demolition of integral garage/storage building and erection of two storey extension to existing dwelling</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Mount Pleasant Minorca Hill Laxey Isle Of Man IM4 7ED
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91427/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Tue 07 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 08 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Unknown
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPQ11QIP0FR00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 11 of PA 22/01158/B - Highway drainage information for Field 321618, Garth Road, Crosby.</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Field 321618 Garth Road Crosby Isle Of Man IM4 2HB
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10001/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Tue 07 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Tue 07 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOZXB2IPIV400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Alterations to existing dwelling to create first floor rooms, removal of chimney, installation of roof lights, and alterations to doors and windows</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        26 Riverbank Road Ramsey Isle Of Man IM8 3PR
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91425/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Tue 07 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 08 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Unknown
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPNZZ8IPIXJ00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Create new vehicular access to the property</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Danderhall Alexander Drive Douglas Isle Of Man IM2 3QX
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90007/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Tue 07 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SNCZ2WIPIF100&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of replacement side door</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Lezayre Quarterbridge Road Douglas Isle Of Man IM2 3RG
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91327/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 06 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOSQYPIPITU00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of replacement dwelling</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Strathallen Main Road Ballabeg Isle Of Man IM9 4LJ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91418/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Tue 07 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPOB44IPIXZ00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Extension of residential curtilage (retrospective)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Croit A Curleod Ballacaley Road Sulby Isle Of Man IM7 2HS
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90011/C
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Wed 22 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOQNYRIPISW00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Conversion of garage to create additional accommodation, and creation of additional vehicle parking</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        34 Banks Howe Onchan Isle Of Man IM3 2ES
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91413/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Tue 07 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPNQ9UIPIXF00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Formation of a new vehicular access (in association with 25/00061/CON)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Lilac Cottage Main Road Kirk Michael Isle Of Man IM6 2HG
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90005/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 17 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SP070JIPIV900&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Additional use of property as tourist accommodation</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        4 Summerhill Douglas Isle Of Man IM2 4PJ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91426/C
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Mon 06 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Tue 07 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPVSSUIP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 11 of PA 23/01407/B providing details regarding site compounds at Land West Of Glenfaba Road</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Land West Of Glenfaba Road Fields 311835, 311836 And 311785 Glenfaba Road Peel
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10019/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Sun 05 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SNNIAAIPIH900&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of two storey extension with integral garages</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Balladhoo Croft Clanna Road Braaid Isle Of Man IM4 2HW
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91345/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Sun 05 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 06 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Unknown
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPGIINIPIWC00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Extension of existing dwelling including new dormer structures, replacement of windows, doors and front porch</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Mannin Veg Gansey Port St Mary Isle Of Man IM9 5LA
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/90001/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOXSXYIPIUG00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of replacement dwelling and detached garage</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Clypse Moar Farm Clypse Moar Road Onchan Isle Of Man IM4 5BG
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91420/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 06 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOXSY3IPIUK00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of replacement dwelling and attached garage</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Clypse Lodge Clypse Moar Road Onchan Isle Of Man IM4 5BG
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91421/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 06 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOL2M0IPIQU00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Installation of an air source heat pump</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        1 Duke Street Peel Isle Of Man IM5 1NG
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91398/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 03 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPVRP9IP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 9 of PA 23/01407/B detailing works of site clearance and ground preparation, details of surface water drainage works at Land West Of Glenfaba Road</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Land West Of Glenfaba Road Fields 311835, 311836 And 311785 Glenfaba Road Peel Isle Of Man
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10017/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SPVS94IP0EE00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Information in relation to condition 10 of PA 23/01407/B providing details in relation to fungi at Land West Of Glenfaba Road</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Land West Of Glenfaba Road Fields 311835, 311836 And 311785 Glenfaba Road Peel
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    25/10018/AIR
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 10 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOC2YJIPIO300&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Vary Condition 1 of Planning Approval Notice 20/01453/B to extend period for commencement by two years</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Sunnymeade Grange Quines Hill Port Soderick Isle Of Man IM4 1AU
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91386/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 06 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SNPH2XIPIID00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Removal of chimney stack and re-roofing works</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Meadow Court 13 Silverburn Drive Ballasalla Isle Of Man IM9 2DR
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91356/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Fri 03 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Mon 06 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SO86PNIPIMQ00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Change of use from offices to three residential apartments</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        West Building Nunnery Mill Old Castletown Road Douglas IM2 1QA
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91378/C
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 02 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 03 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SO7VMHIPIMI00&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of replacement first floor sunroom</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Skerries Main Road Kirk Michael Isle Of Man IM6 1ED
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91377/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 02 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 03 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/applicationDetails.do?keyVal=SOR397IPIT100&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Erection of two storey extension to the side of existing residential dwelling</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        24 Larivane Meadows Andreas Isle Of Man IM7 4JD
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    24/91414/B
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Received:
+                                                                Thu 02 Jan 2025
+                                                                <span class="divider">|</span>
+                                                            
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+                                        
+                                            
+                                                Validated:
+                                                Fri 03 Jan 2025
+                                                <span class="divider">|</span>
+                                            
+                                        
+                                    
+
+                                    
+
+                                    Status:
+                                    Decided
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+                </ul>
+
+
+            </div>
+
+
+                
+            
+            
+            
+            
+
+            
+                
+                    
+                
+            
+
+            <div class="clear"></div>
+
+            <p class="pager bottom"><span class="showing"><strong>Showing 101-150</strong> of 150</span><a href ="/online-applications/pagedSearchResults.do?action=page&amp;searchCriteria.page=1" class="previous"><img border="0" src="https://pbc.gov.im/online-applications-skin/images/pager_previous.gif" alt="Display the previous page of search results"/>Previous</a><span class="divider">|</span><a href ="/online-applications/pagedSearchResults.do?action=page&amp;searchCriteria.page=1" class="page">1</a><span class="divider">|</span><strong>2</strong><span class="divider">|</span></p>
+
+            <div class="clear"></div>
+        </div>
+
+    <!-- #EndEditable -->
+                    <!-- #BeginEditable "pagefoot" --><!-- #EndEditable -->
+                </div>
+                <!-- END WAM CONTENT -->
+
+                <p id="poweredBy"><a href="http://www.idoxgroup.com/" target="_blank" title="This link will open a new window"><img src="https://pbc.gov.im/online-applications-skin/images/powered-by-idox.png" alt="Powered by Idox" /></a></p>
+            </div>
+			<div id="footer">
+				<div class="container">
+				    <div id="footer-logos"><ul><li class="about"><a href="https://www.gov.im/about-the-government"><span>About the Government logo</span></a></li><li class="visit"><a href="http://www.visitisleofman.com/"><span>Visit Isle of Man logo</span></a></li></ul></div>
+				    <div class="clear"></div>
+				    
+					<div id="links">
+						<ul>
+							<li><a href="https://www.gov.im/social-media-hub/">Social Media Hub</a></li><li><a href="https://www.gov.im/about-this-site/site-map/">Site Map</a></li>
+						</ul>
+					</div>
+					<div class="clear"></div>
+					
+					<div id="footercontent"><p>&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> Crown Copyright <span>|</span> <strong>OGL</strong> All content is available under the <a href="https://www.gov.im/about-this-site/open-government-licence/">Open Government Licence</a>, except where otherwise stated</p></div>
+					<div class="clear"></div>
+				</div>
+			</div>
+        </div>
+    </div>
+    <!-- IDOX PA END -->
+
+</body>
+</html>
+

@@ -1,0 +1,1008 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+        
+            
+        
+    
+
+    
+
+    
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en-GB" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB">
+<head>
+
+	<!-- #BeginEditable "doctitle" --><title>Search Results</title><!-- #EndEditable -->
+    <!-- #BeginEditable "metatags" --><!-- #EndEditable -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+	<!-- Customer metatags -->
+	
+	
+	<!-- Favicon link -->
+    <link rel="icon" href="https://pbc.gov.im/online-applications-skin/images/isle-of-man/favicon.ico" type="image/x-icon" />
+
+    <link rel="stylesheet" href="https://pbc.gov.im/online-applications-skin/styles/screen.css" type="text/css" />
+    <link rel="stylesheet" href="https://pbc.gov.im/online-applications-skin/styles/theme1.css" type="text/css"/>
+    <link rel="stylesheet" href="https://pbc.gov.im/online-applications-skin/styles/print.css" type="text/css" media="print" />
+
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/jquery.min.js"></script>
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/jquery.toolbar.idox.min.js"></script>
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/common.js"></script>
+    <script type="text/javascript" src="https://pbc.gov.im/online-applications-skin/scripts/checkbox.js"></script>
+	<!-- Customer Analytics Script -->
+	
+
+    <script type="text/javascript">
+    	$('html').addClass('js');
+    	$(document).ready(function(){
+    		$('.main#apply>span:first-child').attr('tabindex', '0')
+    	});
+    </script>
+
+    <!-- #BeginEditable "mobile" --><!-- #EndEditable -->
+    <!-- #BeginEditable "head" -->
+        <script type="text/javascript">
+            $(document).ready(function () {
+                const CLAMP_LINK_TEXT_MORE = 'Show more description';
+                const CLAMP_LINK_TEXT_LESS = 'Show less description';
+
+                $('a.summaryLink div').each(function() {
+                    if (hasOwerflow($(this).get(0))) {
+                        // display the more/less link
+                        $(this).parent().after('<a href="#" class="clampLink">' + CLAMP_LINK_TEXT_MORE + '</a>');
+                    }
+                });
+
+                $('a.clampLink').on('click tap', function(e) {
+                    e.preventDefault();
+                    // toggle the clamp CSS
+                    $(this).prev('a.summaryLink').find('div').toggleClass('summaryLinkTextClamp');
+                    // change text
+                    $(this).text(function(i, text){
+                        return text === CLAMP_LINK_TEXT_MORE ? CLAMP_LINK_TEXT_LESS : CLAMP_LINK_TEXT_MORE;
+                    });
+                });
+
+                function hasOwerflow(element) {
+                    return element.scrollHeight > element.clientHeight;
+                }
+            });
+        </script>
+    <!-- #EndEditable -->
+    <!-- #BeginEditable "webapp" -->
+                <script type="text/javascript">
+                    $(document).ready(function () {
+                        var form = document.getElementById("mapForm");
+                        form.submit();
+                    });
+                </script>
+            <!-- #EndEditable -->
+    <!-- #BeginEditable "recaptcha" --><!-- #EndEditable -->
+
+</head>
+<body>
+
+    <a href="#pageheading" class="skip-link">Skip to main content</a>
+
+    <!-- IDOX PA START -->
+    <div id="idox">
+        <div id="pa">
+			<div id="header">
+				<div class="container">
+					<div id="logo"><a href="https://www.gov.im/" title="Isle of Man Government home page"><img src="https://pbc.gov.im/online-applications-skin/images/isle-of-man/logo.png" alt="Council logo" /><span class="sr-only">Isle of Man Government</span></a></div>
+					<div id="headertitle"><ul><li><a href="https://www.gov.im/about-this-site/terms-and-conditions/">Terms and Conditions</a></li><li><a href="https://www.gov.im/about-this-site/help/">Help</a></li><li><a href="https://www.gov.im/privacy">Privacy</a></li></ul></div>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div id="breadcrumbs" class="container">
+				<ol>
+				    
+				</ol>
+			</div>
+            <div class="container" role="main">
+       			<div id="toolbar" class="nojs">
+                    <ul>
+                        <li id="search" class="main"><span tabindex="0">Search&nbsp;</span><span class="caret"></span>
+   							<ul>
+								<!-- #BeginLibraryItem "/Library/searchModulesNavItems.lbi" -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+            <li id="planLinks">
+                <a href="/online-applications/search.do?action=simple&amp;searchType=Application" >
+                    <span>Planning</span>
+                </a>
+                <ul>
+                    <li id="planBasicSearch">
+                        <a href="/online-applications/search.do?action=simple&amp;searchType=Application">
+                            Simple Search
+                        </a>
+                    </li>
+
+                    <li id="planAdvancedSearch">
+                        <a href="/online-applications/search.do?action=advanced&amp;searchType=Application">
+                            Advanced
+                        </a>
+                    </li>
+                    <li id="planListSearch">
+                        <a href="/online-applications/search.do?action=weeklyList&amp;searchType=Application">
+                            Weekly/Monthly Lists
+                        </a>
+                    </li>
+                    <li id="planPropertySearch">
+                        <a href="/online-applications/search.do?action=property&amp;type=custom&amp;searchType=Application">
+                            Property Search
+                        </a>
+                    </li>
+					
+                    
+                        <li id="planMapsearch">
+                            <a href="/online-applications/spatialDisplay.do?action=display&amp;searchType=Application">
+                                Map Search
+                            </a>
+                        </li>
+                    
+					
+                </ul>
+            </li>
+        
+
+        
+
+        
+
+        
+
+        <!-- #EndLibraryItem -->
+                        	</ul>
+						</li>
+                        <!-- #BeginEditable "applicationForms" -->
+
+
+
+
+
+   
+<!-- #EndEditable -->
+                        <li id="myprofile" class="main"><span tabindex="0">My Profile&nbsp;</span><span class="caret"></span>
+                            <ul>
+                              <!-- #BeginLibraryItem "/Library/consulteeInTrayNavItem.lbi" -->
+
+
+
+
+
+
+    <!-- #EndLibraryItem -->
+                                <li><a href="https://pbc.gov.im/online-applications/registered/displayUserDetails.do">Profile Details</a></li>
+                                <li><a href="https://pbc.gov.im/online-applications/registered/savedSearch.do?action=display">Saved Searches</a></li>
+                                <li><a href="https://pbc.gov.im/online-applications/registered/userAdmin.do?action=showNotifiedApplications">Notified Applications</a></li>
+                                <li><a href="https://pbc.gov.im/online-applications/registered/trackedApplication.do?action=display">Tracked Applications</a></li>
+                                <!-- #BeginEditable "formSubmissions" -->
+
+
+
+
+
+
+
+
+<!-- #EndEditable -->
+                            </ul>
+                        </li>
+                        <li id="savedSearches" class="main"><a href="https://pbc.gov.im/online-applications/registered/savedSearch.do?action=display">Saved Searches</a></li>
+                        <li id="loginLink" class="main"><!-- #BeginEditable "loginlogout" -->
+
+
+
+
+
+
+
+
+
+
+	<a href="/online-applications/registered/userAdmin.do">Login</a>
+<!-- #EndEditable --></li>
+                        <!-- #BeginEditable "register" -->
+
+
+
+
+
+
+
+
+   
+
+
+	<li id="register">
+        <a href="/online-applications/registrationWizard.do?action=start">Register</a>
+	</li>
+
+<!-- #EndEditable -->
+                        <!-- #BeginLibraryItem "/Library/applyOnlineNavItems.lbi" -->
+
+
+
+
+
+
+
+
+
+
+    <script>
+
+        function ApplyMenuBuilder() {
+        }
+
+        ApplyMenuBuilder.prototype.getMenuData = function (
+            planningLabel1,
+            planningUrl1,
+            planningLabel2,
+            planningUrl2,
+            planningLabel3,
+            planningUrl3,
+            buildingControlLabel1,
+            buildingControlUrl1,
+            buildingControlLabel2,
+            buildingControlUrl2,
+            buildingControlLabel3,
+            buildingControlUrl3,
+            buildingStandardsLabel1,
+            buildingStandardsUrl1,
+            buildingStandardsLabel2,
+            buildingStandardsUrl2,
+            buildingStandardsLabel3,
+            buildingStandardsUrl3,
+            licensingLabel1,
+            licensingUrl1,
+            licensingLabel2,
+            licensingUrl2,
+            licensingLabel3,
+            licensingUrl3
+        ) {
+            var modules = [];
+
+            var planning = this.getModuleJson('Planning', planningLabel1, planningUrl1, planningLabel2, planningUrl2, planningLabel3, planningUrl3);
+            var buildingControl = this.getModuleJson('Building Control', buildingControlLabel1, buildingControlUrl1, buildingControlLabel2, buildingControlUrl2, buildingControlLabel3, buildingControlUrl3);
+            var buildingStandards = this.getModuleJson('Building Standards', buildingStandardsLabel1, buildingStandardsUrl1, buildingStandardsLabel2, buildingStandardsUrl2, buildingStandardsLabel3, buildingStandardsUrl3);
+            var licensing = this.getModuleJson('Licensing', licensingLabel1, licensingUrl1, licensingLabel2, licensingUrl2, licensingLabel3, licensingUrl3);
+
+            this.pushIfNotNull(modules, planning);
+            this.pushIfNotNull(modules, buildingControl);
+            this.pushIfNotNull(modules, buildingStandards);
+            this.pushIfNotNull(modules, licensing);
+
+            var data = {};
+            data.Version = "1.0";
+            data.Default = modules;
+            return data;
+        };
+
+        ApplyMenuBuilder.prototype.getModuleJson = function (moduleName, label1, url1, label2, url2, label3, url3) {
+            var links = [];
+            this.pushIfNotNull(links, this.getLinkJson(label1, url1));
+            this.pushIfNotNull(links, this.getLinkJson(label2, url2));
+            this.pushIfNotNull(links, this.getLinkJson(label3, url3));
+
+            if (links.length === 0) {
+                return null;
+            }
+
+            var module = {};
+            module.name = moduleName;
+            module.menu = links;
+            return module;
+        };
+
+        ApplyMenuBuilder.prototype.getLinkJson = function (label, url) {
+            if (!label || label === "" || label === "null" || !url || url === "" || url === "null") {
+                return null;
+            }
+            return {"name": label, "url": url};
+        };
+
+        ApplyMenuBuilder.prototype.pushIfNotNull = function (array, item) {
+            if (item != null) {
+                array.push(item);
+            }
+        };
+
+        $(document).ready(function () {
+            var applyMenuData = new ApplyMenuBuilder().getMenuData(
+                "",
+                "https://www.gov.im/categories/planning-and-building-control/information-for-applicants/making-a-planning-application/",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "");
+
+            if (applyMenuData.Default.length === 0){
+                if (window.console) console.log('No data given with which to construct the Apply Online menu.')
+                hideApplyMenu();
+            }
+            loadApplyMenu('Default', applyMenuData);
+        });
+    </script>
+
+    <li id="apply" class="main">
+        <span>Apply Online&nbsp;</span>
+        <span class="caret"/>
+    </li>
+<!-- #EndLibraryItem -->
+                    </ul>
+    			</div>
+
+    			<!-- #BeginEditable "headlinenews" --><!-- #EndEditable -->
+
+                <div id="pageheading">
+                    <h1><strong>Planning</strong>&nbsp;&ndash;&nbsp;<!-- #BeginEditable "pageheading" -->
+        
+
+
+
+
+
+
+
+
+
+Results for Appeal Search
+
+
+
+
+    <!-- #EndEditable --></h1>
+                    <!-- #BeginEditable "helplink" --><!-- #EndEditable -->
+                </div>
+
+                <!-- START WAM CONTENT -->
+                <div class="content">
+                    <!-- #BeginEditable "errormsg" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "pagehead" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "tabs" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "tabsubnav" --><!-- #EndEditable -->
+                    <!-- #BeginEditable "pagebody" -->
+
+        
+        
+
+        <div id="searchtools">
+            <ul>
+                
+                
+                    <li>
+                        <a href="/online-applications/refineSearch.do?action=refine" id="refinesearch"><img src="https://pbc.gov.im/online-applications-skin/images/button_refinesearch.gif" alt="Refine search icon"/></a>
+                    </li>
+                    
+                    
+                        <li>
+                            <a href="/online-applications/registered/saveSearch.do?action=saveDialog" id="savesearch"><img src="https://pbc.gov.im/online-applications-skin/images/button_savesearch.gif" alt="Save search icon"/></a>
+                        </li>
+                    
+                
+
+                    
+                
+                    <li>
+                        <a href="/online-applications/pagedSearchResults.do?action=printPreview" rel="external"
+                           id="print" title="View a printable version of these search results (opens in a new window)">
+                            <img src="https://pbc.gov.im/online-applications-skin/images/button_print.gif" alt="Print icon"/>
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+
+
+        
+            <div id="searchfilters">
+                <form name="searchCriteriaForm" method="post" action="/online-applications/pagedSearchResults.do" id="searchResults">
+                    <input type="hidden" name="_csrf" value="fbd19bc8-1f60-46d0-85a5-e9bb5f4bbd4f" />
+                    <input type="hidden" name="searchCriteria.page" value="1" />
+                    <input type="hidden" name="action" value="page" />
+
+                    
+                    <span class="orderByContainer">
+                        <label for="orderBy">
+                            Sort by
+                        </label>
+                        <select name="orderBy" id="orderBy"><option value="Reference">Ref. No.</option>
+                            
+                                <option value="DateReceived" selected="selected">Date Received</option>
+                            
+                                <option value="Proposal">Description</option>
+                            
+                                <option value="ExpiryDate">Expiry Date</option></select>
+                    </span>
+                    
+
+                    <span class="orderByDirectionContainer">
+                    <label for="orderByDirection">
+                        Direction
+                    </label>
+                    <select name="orderByDirection" id="orderByDirection"><option value="Ascending">Ascending</option>
+                        
+                            <option value="Descending" selected="selected">Descending</option></select>
+				</span>
+
+                    <span class="resultsPerPage">
+                    <label for="resultsPerPage">
+                        Results per page
+                    </label>
+                    <select name="searchCriteria.resultsPerPage" id="resultsPerPage"><option value="5">5</option>
+<option value="10" selected="selected">10</option>
+<option value="20">20</option>
+<option value="50">50</option>
+<option value="100">100</option></select>
+				</span>
+                    <input type="submit" value="Go" class="button primary" />
+                </form>
+            </div>
+        
+
+        <div id="searchResultsContainer" class="panel">
+            
+            
+            
+                
+            
+
+            <div class="col-a">
+                <ul id="searchresults">
+                        
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T4UHCQIP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the refusal for the erection of a first floor dormer to the rear elevation</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        20 Grammah Avenue Port Erin Isle Of Man IM9 6NJ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0039
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Tue 28 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T3ROGGIP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the approval for the Installation of door to rear of garage (retrospective)</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Fernlea Lezayre Road Ramsey Isle Of Man IM8 2LN
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0038
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Mon 06 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T3I6P0IP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the refusal for the Installation of 3 Telegraph Poles to provide fibre optic connectivity to 3-6 &amp; 41-48 Ballaquane Park</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Ballaquane Park Peel Isle Of Man IM5 1PX
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0034
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Thu 02 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T3I9PCIP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the refusal for the installation of 4 telegraph poles to provide Fibre Optic connectivity to 1-19 Corrins Way &amp; 1-27 Creggans Avenue</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Creggans Avenue And Corrins Way Peel IM5 1DF
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0037
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Wed 01 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T3I9DMIP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the refusal for the installation of 5 telegraph poles to provide fibre optic connectivity to 7-13 &amp; 21-39 Ballaquane Park</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Ballaquane Park Peel IM5 1PU
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0036
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Wed 01 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T3I8LMIP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the refusal for the installation of 3 telegraph poles to provide fibre optic connectivity to 1-6 Rheast Bridson Peel</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Rheast Bridson Peel IM5 1JF
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0035
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Wed 01 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+
+                        <li class="searchresult">
+                            <a href="/online-applications/appealDetails.do?keyVal=T3I5WWIP0E400&amp;activeTab=summary" class="summaryLink">
+                                <div class="summaryLinkTextClamp">Appeal against the refusal for the Installation of 3 telegraph poles to provide fibre optic connectivity to 82, 80 Ballagarey Rd &amp; 1, 3 Alexander Road.</div>
+                            </a>
+                            
+
+                            
+                                
+                                
+                                
+
+                                
+                                    <p class="address">
+                                        
+                                        
+                                        Ballagarey Road Glen Vine Isle Of Man IM4 4EJ
+                                    </p>
+                                
+
+                                <p class="metaInfo">
+                                    Ref. No:
+                                    AP25/0033
+                                    <span class="divider">|</span>
+
+
+                                    
+                                        
+                                            
+                                                
+                                                    
+                                                    
+                                                        Received:
+                                                        Wed 01 Oct 2025
+                                                        <span class="divider">|</span>
+                                                    
+                                                
+                                            
+                                        
+                                    
+
+                                    
+
+                                    
+
+                                    Status:
+                                    Appeal in Progress
+
+                                    
+
+                                    
+
+                                    
+                                    
+                                </p>
+
+                            
+
+                            
+
+                        </li>
+
+                    
+                </ul>
+
+
+            </div>
+
+
+                
+            
+            
+            
+            
+
+            
+                
+                    
+                
+            
+
+            <div class="clear"></div>
+
+            
+
+            <div class="clear"></div>
+        </div>
+
+    <!-- #EndEditable -->
+                    <!-- #BeginEditable "pagefoot" --><!-- #EndEditable -->
+                </div>
+                <!-- END WAM CONTENT -->
+
+                <p id="poweredBy"><a href="http://www.idoxgroup.com/" target="_blank" title="This link will open a new window"><img src="https://pbc.gov.im/online-applications-skin/images/powered-by-idox.png" alt="Powered by Idox" /></a></p>
+            </div>
+			<div id="footer">
+				<div class="container">
+				    <div id="footer-logos"><ul><li class="about"><a href="https://www.gov.im/about-the-government"><span>About the Government logo</span></a></li><li class="visit"><a href="http://www.visitisleofman.com/"><span>Visit Isle of Man logo</span></a></li></ul></div>
+				    <div class="clear"></div>
+				    
+					<div id="links">
+						<ul>
+							<li><a href="https://www.gov.im/social-media-hub/">Social Media Hub</a></li><li><a href="https://www.gov.im/about-this-site/site-map/">Site Map</a></li>
+						</ul>
+					</div>
+					<div class="clear"></div>
+					
+					<div id="footercontent"><p>&copy; <script type="text/javascript">document.write(new Date().getFullYear());</script> Crown Copyright <span>|</span> <strong>OGL</strong> All content is available under the <a href="https://www.gov.im/about-this-site/open-government-licence/">Open Government Licence</a>, except where otherwise stated</p></div>
+					<div class="clear"></div>
+				</div>
+			</div>
+        </div>
+    </div>
+    <!-- IDOX PA END -->
+
+</body>
+</html>
+
