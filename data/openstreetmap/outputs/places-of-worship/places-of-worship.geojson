@@ -6024,23 +6024,39 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.5817,
+            -4.581697,
             54.260801
           ],
           [
             -4.581589,
-            54.260855
+            54.260853
           ],
           [
-            -4.581445,
+            -4.581449,
             54.260754
           ],
           [
             -4.581556,
-            54.2607
+            54.260703
           ],
           [
-            -4.5817,
+            -4.581605,
+            54.260737
+          ],
+          [
+            -4.581621,
+            54.260729
+          ],
+          [
+            -4.581652,
+            54.26075
+          ],
+          [
+            -4.581636,
+            54.260758
+          ],
+          [
+            -4.581697,
             54.260801
           ]
         ]
@@ -6048,13 +6064,16 @@
       "properties": {
         "amenity": "place_of_worship",
         "building": "church",
+        "building:colour": "white",
+        "building:material": "slate",
         "denomination": "methodist",
         "name": "Barregarrow Chapel",
         "religion": "christian",
+        "roof:shape": "gabled",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 1167815549,
-        "lon": -4.5815725,
-        "lat": 54.26077750000001,
+        "lon": -4.581577152508055,
+        "lat": 54.26077533611838,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1167815549"
       }

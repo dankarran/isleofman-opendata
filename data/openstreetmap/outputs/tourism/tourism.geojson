@@ -2072,8 +2072,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.393594,
-          54.320618
+          -4.393593,
+          54.320625
         ]
       },
       "properties": {
@@ -2082,8 +2082,8 @@
         "wikidata": "Q7432270",
         "wikipedia": "en:School House Corner",
         "osm_id": 1732876575,
-        "lon": -4.393594,
-        "lat": 54.320618,
+        "lon": -4.393593,
+        "lat": 54.320625,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/1732876575"
       }
@@ -2437,6 +2437,8 @@
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "28",
         "addr:street": "Hutchinson Square",
         "name": "The Ashton",
@@ -11697,24 +11699,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.691229,
-            54.083537
+            -4.691194,
+            54.083551
           ],
           [
-            -4.690987,
-            54.083399
+            -4.690952,
+            54.083413
           ],
           [
-            -4.69113,
-            54.083312
+            -4.691095,
+            54.083327
           ],
           [
-            -4.691372,
-            54.083451
+            -4.691337,
+            54.083465
           ],
           [
-            -4.691229,
-            54.083537
+            -4.691194,
+            54.083551
           ]
         ]
       },
@@ -11729,8 +11731,8 @@
         "tourism": "guest_house",
         "website": "http://www.francorchamps.co.uk",
         "osm_id": 103529579,
-        "lon": -4.691179469603917,
-        "lat": 54.08342468572841,
+        "lon": -4.6911445,
+        "lat": 54.083439,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/103529579"
       }

@@ -2443,6 +2443,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "30",
         "addr:street": "Victoria Road",
         "contact:facebook": "https://www.facebook.com/@ohdollys/",
@@ -3896,25 +3897,6 @@
     },
     {
       "type": "Feature",
-      "id": 12173895190,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.488001,
-          54.157269
-        ]
-      },
-      "properties": {
-        "shop": "vacant",
-        "osm_id": 12173895190,
-        "lon": -4.488001,
-        "lat": 54.157269,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12173895190"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12173929083,
       "geometry": {
         "type": "Point",
@@ -3943,33 +3925,6 @@
     },
     {
       "type": "Feature",
-      "id": 12173929085,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.488124,
-          54.157418
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "6",
-        "addr:postcode": "IM2 3LQ",
-        "addr:street": "Brunswick Road",
-        "name": "Champs",
-        "shop": "hairdresser",
-        "source": "mapillary",
-        "source:addr": "Isle of Man Government Planning Applications",
-        "osm_id": 12173929085,
-        "lon": -4.488124,
-        "lat": 54.157418,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/12173929085"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12175084935,
       "geometry": {
         "type": "Point",
@@ -3980,6 +3935,7 @@
       },
       "properties": {
         "addr:city": "Douglas",
+        "addr:country": "IM",
         "addr:housenumber": "4",
         "addr:street": "Peel Road",
         "addr:substreet": "Railway Shops",
@@ -5760,8 +5716,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.529135,
-            54.15082
+            -4.5291,
+            54.150844
           ],
           [
             -4.528792,
@@ -5772,24 +5728,40 @@
             54.150481
           ],
           [
-            -4.527659,
-            54.150336
+            -4.527649,
+            54.150354
           ],
           [
-            -4.527805,
-            54.150229
+            -4.527793,
+            54.150255
           ],
           [
-            -4.527915,
-            54.150278
+            -4.527895,
+            54.150295
           ],
           [
-            -4.528623,
-            54.150593
+            -4.528345,
+            54.150503
           ],
           [
-            -4.529135,
-            54.15082
+            -4.528366,
+            54.150486
+          ],
+          [
+            -4.528616,
+            54.150603
+          ],
+          [
+            -4.528669,
+            54.150623
+          ],
+          [
+            -4.528661,
+            54.150638
+          ],
+          [
+            -4.5291,
+            54.150844
           ]
         ]
       },
@@ -5810,8 +5782,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "website": "https://www.diy.com/store/1095",
         "osm_id": 59522622,
-        "lon": -4.528299076145216,
-        "lat": 54.150654294791146,
+        "lon": -4.528286734936162,
+        "lat": 54.15066235269335,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59522622"
       }
@@ -6817,61 +6789,6 @@
         "lat": 54.15025691455597,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/60928927"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 61561694,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.487882,
-            54.151892
-          ],
-          [
-            -4.488068,
-            54.151999
-          ],
-          [
-            -4.488422,
-            54.151789
-          ],
-          [
-            -4.488303,
-            54.15172
-          ],
-          [
-            -4.488152,
-            54.15181
-          ],
-          [
-            -4.488085,
-            54.151771
-          ],
-          [
-            -4.487882,
-            54.151892
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:postcode": "IM1 3DT",
-        "addr:street": "Demesne Road",
-        "building": "yes",
-        "name": "James Caine",
-        "phone": "+44 1624 674558",
-        "postal_code": "IM1 3DT",
-        "shop": "carpet",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://jamescaine.com/",
-        "osm_id": 61561694,
-        "lon": -4.488152086036263,
-        "lat": 54.151851228396104,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/61561694"
       }
     },
     {
@@ -8673,39 +8590,39 @@
         "coordinates": [
           [
             -4.527006,
-            54.149994
+            54.150004
           ],
           [
-            -4.527205,
-            54.149844
+            -4.527195,
+            54.149855
           ],
           [
-            -4.52801,
-            54.150208
+            -4.527993,
+            54.15022
           ],
           [
-            -4.527915,
-            54.150278
+            -4.527895,
+            54.150295
           ],
           [
-            -4.527805,
-            54.150229
+            -4.527793,
+            54.150255
           ],
           [
-            -4.527659,
-            54.150336
+            -4.527649,
+            54.150354
           ],
           [
-            -4.527366,
-            54.150199
+            -4.527358,
+            54.150215
           ],
           [
-            -4.527409,
-            54.150167
+            -4.527396,
+            54.150192
           ],
           [
             -4.527006,
-            54.149994
+            54.150004
           ]
         ]
       },
@@ -8715,8 +8632,8 @@
         "name": "B&Q",
         "shop": "garden_centre",
         "osm_id": 80343248,
-        "lon": -4.527502668987157,
-        "lat": 54.15010337271862,
+        "lon": -4.5274929715718475,
+        "lat": 54.15011792903172,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/80343248"
       }
@@ -11809,7 +11726,7 @@
         "building": "yes",
         "name": "Torden Stores;Port Saint Mary Post Office",
         "shop": "newsagent;post_office",
-        "source:addr:postcode": "Isle of Man Companies Registry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "osm_id": 101812255,
         "lon": -4.739177216417767,
         "lat": 54.07708155890966,
@@ -11856,7 +11773,7 @@
         "name": "Studio 42",
         "note": "gallery;framing",
         "shop": "art",
-        "source:addr:postcode": "Isle of Man Companies Registry",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
         "website": "http://studio42gallery.co.uk",
         "osm_id": 101812261,
         "lon": -4.739424000000001,
@@ -16403,32 +16320,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.689306,
-            54.223169
+            -4.689266,
+            54.223178
           ],
           [
-            -4.689215,
-            54.223056
+            -4.689175,
+            54.223065
           ],
           [
-            -4.689355,
-            54.223018
+            -4.689315,
+            54.223028
           ],
           [
-            -4.689379,
-            54.223042
+            -4.68934,
+            54.223051
           ],
           [
-            -4.689467,
-            54.223019
+            -4.689427,
+            54.223028
           ],
           [
-            -4.689478,
-            54.223119
+            -4.689438,
+            54.223128
           ],
           [
-            -4.689306,
-            54.223169
+            -4.689266,
+            54.223178
           ]
         ]
       },
@@ -16442,8 +16359,8 @@
         "source": "Isle of Man Government aerial imagery (2001);streetlevel imagery",
         "source:addr": "Isle of Man Government Companies Registry",
         "osm_id": 147199527,
-        "lon": -4.689356691764643,
-        "lat": 54.223083792832156,
+        "lon": -4.689316715846755,
+        "lat": 54.223093011198095,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/147199527"
       }
@@ -28599,24 +28516,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.485362,
-            54.151469
+            -4.485351,
+            54.151488
           ],
           [
-            -4.485577,
-            54.151622
+            -4.485553,
+            54.151632
           ],
           [
-            -4.485505,
-            54.151656
+            -4.485477,
+            54.151668
           ],
           [
-            -4.485291,
-            54.151503
+            -4.485276,
+            54.151524
           ],
           [
-            -4.485362,
-            54.151469
+            -4.485351,
+            54.151488
           ]
         ]
       },
@@ -28632,8 +28549,8 @@
         "name": "East Coast Autos Ltd",
         "shop": "car_repair",
         "osm_id": 1153437142,
-        "lon": -4.485433933805445,
-        "lat": 54.15156258061686,
+        "lon": -4.485414433595455,
+        "lat": 54.15157807597891,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1153437142"
       }
@@ -33103,6 +33020,95 @@
         "lat": 54.1575268194892,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1443946368"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451098587,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487937,
+            54.157248
+          ],
+          [
+            -4.488017,
+            54.157232
+          ],
+          [
+            -4.488124,
+            54.157356
+          ],
+          [
+            -4.48803,
+            54.157376
+          ],
+          [
+            -4.488022,
+            54.157364
+          ],
+          [
+            -4.487937,
+            54.157248
+          ]
+        ]
+      },
+      "properties": {
+        "building": "house",
+        "house": "terraced",
+        "shop": "vacant",
+        "osm_id": 1451098587,
+        "lon": -4.488029011640263,
+        "lat": 54.15730467781924,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1451098587"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451098593,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488191,
+            54.157429
+          ],
+          [
+            -4.488042,
+            54.157482
+          ],
+          [
+            -4.488004,
+            54.157433
+          ],
+          [
+            -4.488164,
+            54.157394
+          ],
+          [
+            -4.488191,
+            54.157429
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3LQ",
+        "addr:street": "Brunswick Road",
+        "building": "yes",
+        "name": "Champs",
+        "shop": "hairdresser",
+        "source": "mapillary",
+        "source:addr": "Isle of Man Government Planning Applications",
+        "osm_id": 1451098593,
+        "lon": -4.488096796684955,
+        "lat": 54.1574351343709,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1451098593"
       }
     }
   ]

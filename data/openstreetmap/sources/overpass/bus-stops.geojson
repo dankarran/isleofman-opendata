@@ -1137,8 +1137,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484079,
-          54.163925
+          -4.484071,
+          54.163958
         ]
       },
       "properties": {
@@ -18184,6 +18184,24 @@
         "name": "North View / Ballaterson Road",
         "pole": "yes",
         "public_transport": "platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13316395229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.526258,
+          54.156792
+        ]
+      },
+      "properties": {
+        "bus": "yes",
+        "fixme": "check on the ground / compare with stop marked slightly to the north",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes"
       }
     }
   ]

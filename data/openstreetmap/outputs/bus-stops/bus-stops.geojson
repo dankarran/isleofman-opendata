@@ -1397,8 +1397,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484079,
-          54.163925
+          -4.484071,
+          54.163958
         ]
       },
       "properties": {
@@ -1408,8 +1408,8 @@
         "public_transport": "platform",
         "ref": "147",
         "osm_id": 960876937,
-        "lon": -4.484079,
-        "lat": 54.163925,
+        "lon": -4.484071,
+        "lat": 54.163958,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/960876937"
       }
@@ -22819,6 +22819,29 @@
         "lat": 54.21925,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/12003298747"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13316395229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.526258,
+          54.156792
+        ]
+      },
+      "properties": {
+        "bus": "yes",
+        "fixme": "check on the ground / compare with stop marked slightly to the north",
+        "highway": "bus_stop",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "osm_id": 13316395229,
+        "lon": -4.526258,
+        "lat": 54.156792,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13316395229"
       }
     }
   ]

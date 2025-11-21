@@ -3440,7 +3440,7 @@
         "place": "farm",
         "postal_code": "IM7 4EL",
         "source": "Isle of Man Government 1:25000 map (2007)",
-        "source:postal_code": "Isle of Man Land Registry Land Transactions",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475393002,
         "lon": -4.409776,
         "lat": 54.360825,
@@ -18321,7 +18321,7 @@
         "place": "locality",
         "postal_code": "IM7 4AN",
         "source": "Isle of Man Government 1:25000 map (2007)",
-        "source:postal_code": "Isle of Man Land Registry Land Transactions",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394793,
         "lon": -4.404561,
         "lat": 54.351352,
@@ -23877,7 +23877,7 @@
         "name:gv": "Eary Ween",
         "place": "farm",
         "postal_code": "IM4 5ER",
-        "source:postal_code": "Isle of Man Government Land Regsitry Land Transactions",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 8662320152,
         "lon": -4.495736,
         "lat": 54.22292,
@@ -37085,6 +37085,14 @@
             54.169335
           ],
           [
+            -4.635817,
+            54.1693
+          ],
+          [
+            -4.634894,
+            54.169464
+          ],
+          [
             -4.634871,
             54.169712
           ],
@@ -37181,16 +37189,52 @@
             54.169573
           ],
           [
+            -4.634405,
+            54.169504
+          ],
+          [
+            -4.634942,
+            54.169342
+          ],
+          [
             -4.635107,
             54.169272
           ],
           [
-            -4.635686,
-            54.169159
+            -4.635315,
+            54.169223
           ],
           [
-            -4.635171,
-            54.16838
+            -4.635524,
+            54.1692
+          ],
+          [
+            -4.635713,
+            54.169197
+          ],
+          [
+            -4.63543,
+            54.16888
+          ],
+          [
+            -4.635515,
+            54.16873
+          ],
+          [
+            -4.635494,
+            54.168546
+          ],
+          [
+            -4.635393,
+            54.168537
+          ],
+          [
+            -4.635333,
+            54.168486
+          ],
+          [
+            -4.635198,
+            54.168378
           ],
           [
             -4.635443,
@@ -37305,8 +37349,8 @@
         "wikidata": "Q3750799",
         "wikipedia": "en:Foxdale",
         "osm_id": 83376253,
-        "lon": -4.635224278019069,
-        "lat": 54.17017020550697,
+        "lon": -4.635224640756413,
+        "lat": 54.17015577831973,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/83376253"
       }
