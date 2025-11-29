@@ -84,8 +84,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.729075,
-          54.103678
+          -4.729112,
+          54.103587
         ]
       },
       "properties": {
@@ -473,24 +473,6 @@
         "postal_code": "IM2 4HP",
         "tourism": "guest_house",
         "website": "https://www.wicklowhills.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 458533095,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.47776,
-          54.186962
-        ]
-      },
-      "properties": {
-        "name": "Glen Dhoo",
-        "postal_code": "IM4 5BJ",
-        "source": "Isle of Man Government 1:25000 map (2007)",
-        "tourism": "camp_site",
-        "website": "https://www.caravancampingsites.co.uk/isleofman/glendhoo.htm"
       }
     },
     {
@@ -4856,6 +4838,21 @@
       "properties": {
         "colour": "blue",
         "information": "route_marker",
+        "tourism": "information"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13335838618,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.519044,
+          54.205773
+        ]
+      },
+      "properties": {
+        "information": "guidepost",
         "tourism": "information"
       }
     },
@@ -18731,6 +18728,62 @@
       },
       "properties": {
         "tourism": "picnic_site"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1007834028,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479087,
+            54.185899
+          ],
+          [
+            -4.478658,
+            54.186645
+          ],
+          [
+            -4.478097,
+            54.186878
+          ],
+          [
+            -4.47806,
+            54.186844
+          ],
+          [
+            -4.477914,
+            54.186716
+          ],
+          [
+            -4.477543,
+            54.186446
+          ],
+          [
+            -4.477986,
+            54.186159
+          ],
+          [
+            -4.478589,
+            54.185856
+          ],
+          [
+            -4.478692,
+            54.185661
+          ],
+          [
+            -4.479087,
+            54.185899
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Glen Dhoo",
+        "postal_code": "IM4 5BJ",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "tourism": "camp_site",
+        "website": "https://glendhoo.com/glen-dhoo-camping-site/"
       }
     },
     {

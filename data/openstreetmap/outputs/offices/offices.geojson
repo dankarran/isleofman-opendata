@@ -5574,24 +5574,24 @@
             54.177303
           ],
           [
-            -4.467562,
-            54.177291
+            -4.467516,
+            54.177286
           ],
           [
-            -4.467535,
-            54.177444
+            -4.467495,
+            54.177447
           ],
           [
-            -4.467154,
-            54.177421
+            -4.467135,
+            54.177425
           ],
           [
-            -4.46714,
-            54.177502
-          ],
-          [
-            -4.467166,
+            -4.467105,
             54.177504
+          ],
+          [
+            -4.467149,
+            54.177506
           ],
           [
             -4.467155,
@@ -5648,8 +5648,8 @@
         "ref:charity": "132",
         "website": "https://www.sightmatters.im",
         "osm_id": 238678567,
-        "lon": -4.467482598163382,
-        "lat": 54.17747144357107,
+        "lon": -4.467471239045791,
+        "lat": 54.17746787202213,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/238678567"
       }
@@ -8123,6 +8123,69 @@
         "lat": 54.23025978033362,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1126112636"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1137663722,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.641733,
+            54.202982
+          ],
+          [
+            -4.641732,
+            54.203
+          ],
+          [
+            -4.641864,
+            54.203001
+          ],
+          [
+            -4.641861,
+            54.203099
+          ],
+          [
+            -4.64173,
+            54.203098
+          ],
+          [
+            -4.64173,
+            54.203077
+          ],
+          [
+            -4.641643,
+            54.203076
+          ],
+          [
+            -4.641646,
+            54.202981
+          ],
+          [
+            -4.641733,
+            54.202982
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Saint Johns",
+        "addr:housename": "Fairfield House",
+        "addr:postcode": "IM4 3NA",
+        "addr:street": "St Johns Main Road",
+        "building": "yes",
+        "name": "Culture Vannin",
+        "office": "charity",
+        "operator": "Manx Heritage Foundation",
+        "ref:charity": "333",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "website": "https://culturevannin.im",
+        "osm_id": 1137663722,
+        "lon": -4.641752653144766,
+        "lat": 54.20304080252496,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1137663722"
       }
     },
     {

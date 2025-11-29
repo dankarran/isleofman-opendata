@@ -2361,6 +2361,41 @@
         "name": "Westmoreland Village",
         "website": "https://mdc.im/westmoreland-village/"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1453329378,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481192,
+            54.17368
+          ],
+          [
+            -4.481008,
+            54.173811
+          ],
+          [
+            -4.480668,
+            54.173647
+          ],
+          [
+            -4.480852,
+            54.173516
+          ],
+          [
+            -4.481192,
+            54.17368
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "construction",
+        "note": "60;62 Snaefell Road",
+        "postal_code": "IM2 6NG",
+        "source:postal_code": "Isle of Man Government Planning Applications"
+      }
     }
   ]
 }

@@ -531,6 +531,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "fixme": "moved further up to other side of road between Alpine Close and Mount View Road?",
         "post_box:type": "lamp",
         "ref": "29",
         "royal_cypher": "EIIR",
@@ -1215,16 +1216,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474805,
-          54.172624
+          -4.474776,
+          54.172656
         ]
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "lamp",
         "ref": "264",
         "osm_id": 283506483,
-        "lon": -4.474805,
-        "lat": 54.172624,
+        "lon": -4.474776,
+        "lat": 54.172656,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283506483"
       }
