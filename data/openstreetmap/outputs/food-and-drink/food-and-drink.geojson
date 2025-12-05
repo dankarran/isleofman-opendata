@@ -3299,6 +3299,26 @@
     },
     {
       "type": "Feature",
+      "id": 13347838582,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.478315,
+          54.151191
+        ]
+      },
+      "properties": {
+        "amenity": "cafe",
+        "name": "Caf\u00e9 Royale",
+        "osm_id": 13347838582,
+        "lon": -4.478315,
+        "lat": 54.151191,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13347838582"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 38300992,
       "geometry": {
         "type": "LineString",

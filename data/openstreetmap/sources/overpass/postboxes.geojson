@@ -165,6 +165,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "lamp",
         "ref": "26"
       }
     },
@@ -827,8 +828,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.744249,
-          54.098841
+          -4.744359,
+          54.09884
         ]
       },
       "properties": {

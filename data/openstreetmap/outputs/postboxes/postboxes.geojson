@@ -210,6 +210,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "post_box:type": "lamp",
         "ref": "26",
         "osm_id": 283485078,
         "lon": -4.515763,
@@ -1067,8 +1068,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.744249,
-          54.098841
+          -4.744359,
+          54.09884
         ]
       },
       "properties": {
@@ -1083,8 +1084,8 @@
         "royal_cypher:wikidata": "Q33102113",
         "source": "survey;streetside",
         "osm_id": 283503971,
-        "lon": -4.744249,
-        "lat": 54.098841,
+        "lon": -4.744359,
+        "lat": 54.09884,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283503971"
       }

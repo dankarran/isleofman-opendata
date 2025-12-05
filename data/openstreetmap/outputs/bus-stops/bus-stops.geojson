@@ -8665,8 +8665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.547931,
-          54.176878
+          -4.547902,
+          54.176839
         ]
       },
       "properties": {
@@ -8676,8 +8676,8 @@
         "public_transport": "platform",
         "ref": "2010",
         "osm_id": 9186750952,
-        "lon": -4.547931,
-        "lat": 54.176878,
+        "lon": -4.547902,
+        "lat": 54.176839,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9186750952"
       }
@@ -17648,8 +17648,10 @@
         "bus": "yes",
         "highway": "bus_stop",
         "name": "Hailwood Avenue No.10",
+        "postal_code": "IM2 7AB",
         "public_transport": "platform",
         "ref": "13405",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 9192636987,
         "lon": -4.472859,
         "lat": 54.177523,
@@ -20948,8 +20950,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.469917,
-          54.183228
+          -4.469286,
+          54.183323
         ]
       },
       "properties": {
@@ -20959,8 +20961,8 @@
         "public_transport": "platform",
         "ref": "13912",
         "osm_id": 9195250687,
-        "lon": -4.469917,
-        "lat": 54.183228,
+        "lon": -4.469286,
+        "lat": 54.183323,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9195250687"
       }

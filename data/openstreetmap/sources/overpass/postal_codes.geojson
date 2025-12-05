@@ -2670,24 +2670,6 @@
     },
     {
       "type": "Feature",
-      "id": 475394505,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.561924,
-          54.303102
-        ]
-      },
-      "properties": {
-        "name": "Bishopscourt Cottages",
-        "place": "farm",
-        "postal_code": "IM7 5EX",
-        "source": "Isle of Man Government 1:25000 map (2007)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 475394530,
       "geometry": {
         "type": "Point",
@@ -4422,6 +4404,26 @@
     },
     {
       "type": "Feature",
+      "id": 9192636987,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.472859,
+          54.177523
+        ]
+      },
+      "properties": {
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Hailwood Avenue No.10",
+        "postal_code": "IM2 7AB",
+        "public_transport": "platform",
+        "ref": "13405",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 10618502535,
       "geometry": {
         "type": "Point",
@@ -5071,20 +5073,12 @@
             54.288528
           ],
           [
-            -4.582202,
-            54.288497
+            -4.582649,
+            54.288454
           ],
           [
-            -4.582475,
-            54.288471
-          ],
-          [
-            -4.582697,
-            54.288444
-          ],
-          [
-            -4.583138,
-            54.288249
+            -4.583119,
+            54.28826
           ],
           [
             -4.583301,
@@ -5540,8 +5534,8 @@
             54.28433
           ],
           [
-            -4.593458,
-            54.284669
+            -4.593519,
+            54.284701
           ]
         ]
       },
@@ -7485,18 +7479,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474369,
-            54.178716
-          ],
-          [
-            -4.474271,
-            54.178743
-          ],
-          [
-            -4.474102,
-            54.178788
-          ],
-          [
             -4.473932,
             54.178857
           ],
@@ -7507,10 +7489,6 @@
           [
             -4.47351,
             54.178656
-          ],
-          [
-            -4.473317,
-            54.17873
           ]
         ]
       },
@@ -7520,7 +7498,7 @@
         "lanes": "1",
         "maxspeed": "20 mph",
         "name": "Stanley Mews",
-        "postal_code": "IM2 7AE;IM2 7AF",
+        "postal_code": "IM2 7AE",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones"
       }
@@ -7818,20 +7796,20 @@
             54.179139
           ],
           [
-            -4.545546,
-            54.179246
+            -4.544938,
+            54.179158
           ],
           [
-            -4.546162,
-            54.179337
+            -4.545533,
+            54.179265
           ],
           [
-            -4.546593,
-            54.179253
+            -4.54607,
+            54.179342
           ],
           [
-            -4.547083,
-            54.179083
+            -4.546131,
+            54.179367
           ]
         ]
       },
@@ -8369,6 +8347,50 @@
         "oneway": "yes",
         "postal_code": "IM1 1BT",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986431,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.632474,
+            54.096928
+          ],
+          [
+            -4.632346,
+            54.096784
+          ],
+          [
+            -4.632122,
+            54.096453
+          ],
+          [
+            -4.63206,
+            54.096361
+          ],
+          [
+            -4.631963,
+            54.096274
+          ],
+          [
+            -4.631811,
+            54.096156
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Fuchsia Grove",
+        "name:en": "Fuchsia Grove",
+        "postal_code": "IM9 2DT",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
       }
     },
     {
@@ -12070,28 +12092,36 @@
             54.179625
           ],
           [
-            -4.478136,
-            54.179608
+            -4.478132,
+            54.179615
           ],
           [
-            -4.478094,
-            54.179605
+            -4.478026,
+            54.179628
           ],
           [
-            -4.477841,
-            54.179648
+            -4.47786,
+            54.179657
           ],
           [
-            -4.477762,
-            54.179641
+            -4.477764,
+            54.179656
           ],
           [
-            -4.477697,
-            54.179589
+            -4.477699,
+            54.179637
           ],
           [
-            -4.477591,
-            54.179391
+            -4.477668,
+            54.179583
+          ],
+          [
+            -4.477603,
+            54.179461
+          ],
+          [
+            -4.477573,
+            54.179412
           ]
         ]
       },
@@ -12292,36 +12322,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.547083,
-            54.179083
+            -4.547075,
+            54.179091
           ],
           [
             -4.547489,
-            54.179364
+            54.179376
           ],
           [
-            -4.547725,
-            54.179578
+            -4.547727,
+            54.179588
           ],
           [
-            -4.54816,
-            54.179808
+            -4.547907,
+            54.1797
           ],
           [
-            -4.548475,
-            54.179973
+            -4.54814,
+            54.179829
           ],
           [
-            -4.54876,
-            54.180104
+            -4.548655,
+            54.18007
+          ],
+          [
+            -4.548746,
+            54.180107
+          ],
+          [
+            -4.548851,
+            54.180127
           ],
           [
             -4.548989,
-            54.180139
+            54.180148
           ],
           [
-            -4.549483,
-            54.180148
+            -4.549176,
+            54.180156
+          ],
+          [
+            -4.549403,
+            54.180161
+          ],
+          [
+            -4.549469,
+            54.180159
           ]
         ]
       },
@@ -15170,8 +15216,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.556026,
-            54.178782
+            -4.556037,
+            54.178784
+          ],
+          [
+            -4.556004,
+            54.178772
           ],
           [
             -4.555972,
@@ -15207,6 +15257,41 @@
         "postal_code": "IM4 4EX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987473,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.633725,
+            54.096012
+          ],
+          [
+            -4.63338,
+            54.095682
+          ],
+          [
+            -4.633171,
+            54.095551
+          ],
+          [
+            -4.632927,
+            54.095429
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Pine Grove",
+        "name:en": "Pine Grove",
+        "postal_code": "IM9 2EA",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -20035,6 +20120,37 @@
     },
     {
       "type": "Feature",
+      "id": 25988198,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47364,
+            54.178594
+          ],
+          [
+            -4.47351,
+            54.178656
+          ],
+          [
+            -4.473317,
+            54.17873
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "lanes": "1",
+        "maxspeed": "20 mph",
+        "name": "Stanley Mews",
+        "postal_code": "IM2 7AF",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988211,
       "geometry": {
         "type": "LineString",
@@ -21430,6 +21546,41 @@
     },
     {
       "type": "Feature",
+      "id": 25988506,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.633136,
+            54.096529
+          ],
+          [
+            -4.632714,
+            54.096028
+          ],
+          [
+            -4.632574,
+            54.095933
+          ],
+          [
+            -4.632353,
+            54.095817
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Beech Grove",
+        "name:en": "Beech Grove",
+        "postal_code": "IM9 2DX",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988512,
       "geometry": {
         "type": "LineString",
@@ -22184,12 +22335,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.549578,
-            54.178815
+            -4.549576,
+            54.178831
           ],
           [
-            -4.550557,
-            54.178865
+            -4.550555,
+            54.178879
           ]
         ]
       },
@@ -24243,8 +24394,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.590848,
-            54.284943
+            -4.590825,
+            54.284954
           ],
           [
             -4.59103,
@@ -25373,24 +25524,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.593111,
-            54.285436
+            -4.593088,
+            54.285414
           ],
           [
-            -4.593023,
-            54.285549
+            -4.593012,
+            54.285539
           ],
           [
-            -4.592843,
-            54.285698
+            -4.592834,
+            54.285674
           ],
           [
-            -4.592594,
-            54.285874
+            -4.592635,
+            54.285834
           ],
           [
-            -4.590956,
-            54.285
+            -4.59259,
+            54.285853
+          ],
+          [
+            -4.592567,
+            54.285855
+          ],
+          [
+            -4.592545,
+            54.285857
+          ],
+          [
+            -4.592498,
+            54.285851
+          ],
+          [
+            -4.590928,
+            54.285014
           ]
         ]
       },
@@ -26781,6 +26948,33 @@
         "source:maxweight": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25989311,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.63271,
+            54.095573
+          ],
+          [
+            -4.632276,
+            54.095269
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Lilac Grove",
+        "name:en": "Lilac Grove",
+        "postal_code": "IM9 2DZ",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -30595,12 +30789,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.590956,
-            54.285
+            -4.590928,
+            54.285014
           ],
           [
             -4.590122,
-            54.285674
+            54.285683
           ],
           [
             -4.588823,
@@ -31126,8 +31320,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.547722,
-            54.177225
+            -4.547682,
+            54.177234
+          ],
+          [
+            -4.547714,
+            54.177259
           ],
           [
             -4.547822,
@@ -31178,8 +31376,8 @@
             54.178469
           ],
           [
-            -4.548358,
-            54.178623
+            -4.548354,
+            54.178636
           ],
           [
             -4.548351,
@@ -31190,24 +31388,40 @@
             54.178962
           ],
           [
-            -4.548444,
-            54.179121
+            -4.548428,
+            54.179127
           ],
           [
-            -4.548493,
-            54.179324
+            -4.548454,
+            54.179221
           ],
           [
-            -4.548461,
-            54.179493
+            -4.548467,
+            54.17932
+          ],
+          [
+            -4.548464,
+            54.179406
+          ],
+          [
+            -4.548447,
+            54.179494
+          ],
+          [
+            -4.548401,
+            54.179587
           ],
           [
             -4.548342,
             54.179671
           ],
           [
-            -4.54816,
-            54.179808
+            -4.548203,
+            54.179791
+          ],
+          [
+            -4.54814,
+            54.179829
           ]
         ]
       },
@@ -31228,32 +31442,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.548012,
-            54.176825
+            -4.547991,
+            54.176817
           ],
           [
-            -4.548366,
-            54.176752
+            -4.548314,
+            54.176749
           ],
           [
-            -4.548572,
-            54.176692
+            -4.548473,
+            54.176707
           ],
           [
-            -4.548702,
-            54.17663
+            -4.548681,
+            54.176616
           ],
           [
-            -4.548812,
-            54.176573
+            -4.548762,
+            54.176568
           ],
           [
-            -4.548999,
-            54.176443
+            -4.548942,
+            54.176455
           ],
           [
-            -4.549043,
-            54.176374
+            -4.54902,
+            54.176383
           ],
           [
             -4.549053,
@@ -31335,16 +31549,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.548358,
-            54.178623
+            -4.548354,
+            54.178636
+          ],
+          [
+            -4.548292,
+            54.178632
           ],
           [
             -4.548013,
-            54.178581
+            54.178602
           ],
           [
             -4.54783,
-            54.178609
+            54.178617
           ],
           [
             -4.547651,
@@ -31367,8 +31585,8 @@
             54.178301
           ],
           [
-            -4.547359,
-            54.17823
+            -4.547362,
+            54.178252
           ],
           [
             -4.547382,
@@ -31409,8 +31627,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.547475,
-            54.177379
+            -4.547436,
+            54.177372
           ],
           [
             -4.54735,
@@ -39797,6 +40015,45 @@
     },
     {
       "type": "Feature",
+      "id": 165129871,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474369,
+            54.178716
+          ],
+          [
+            -4.474271,
+            54.178743
+          ],
+          [
+            -4.474102,
+            54.178788
+          ],
+          [
+            -4.473932,
+            54.178857
+          ],
+          [
+            -4.473804,
+            54.178979
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "lanes": "1",
+        "maxspeed": "20 mph",
+        "name": "Stanley Mews",
+        "postal_code": "IM2 7AE",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 165129873,
       "geometry": {
         "type": "LineString",
@@ -40692,79 +40949,6 @@
     },
     {
       "type": "Feature",
-      "id": 186577512,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.487527,
-            54.146997
-          ],
-          [
-            -4.487458,
-            54.146587
-          ],
-          [
-            -4.486885,
-            54.146589
-          ],
-          [
-            -4.48611,
-            54.146592
-          ],
-          [
-            -4.485855,
-            54.146594
-          ],
-          [
-            -4.485797,
-            54.146594
-          ],
-          [
-            -4.485798,
-            54.146618
-          ],
-          [
-            -4.485799,
-            54.146716
-          ],
-          [
-            -4.485801,
-            54.146983
-          ],
-          [
-            -4.486318,
-            54.146989
-          ],
-          [
-            -4.486407,
-            54.146987
-          ],
-          [
-            -4.486536,
-            54.146988
-          ],
-          [
-            -4.487527,
-            54.146997
-          ]
-        ]
-      },
-      "properties": {
-        "access": "no",
-        "amenity": "parking",
-        "name": "Lake Road",
-        "operator": "Duluth Limited",
-        "operator:type": "private",
-        "park_ride": "no",
-        "parking": "surface",
-        "postal_code": "IM1 5AF",
-        "source": "survey",
-        "supervised": "yes"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 186706051,
       "geometry": {
         "type": "LineString",
@@ -41130,6 +41314,10 @@
           [
             -4.630985,
             54.097994
+          ],
+          [
+            -4.63084,
+            54.09803
           ],
           [
             -4.630805,
@@ -53266,6 +53454,47 @@
         "postal_code": "IM2 7DN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1455995442,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.546131,
+            54.179367
+          ],
+          [
+            -4.546188,
+            54.179353
+          ],
+          [
+            -4.546593,
+            54.179253
+          ],
+          [
+            -4.546884,
+            54.179184
+          ],
+          [
+            -4.547024,
+            54.179116
+          ],
+          [
+            -4.547075,
+            54.179091
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Queen Margaret Way",
+        "postal_code": "IM4 4FN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]
