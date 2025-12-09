@@ -58,7 +58,12 @@ def get_md5_series_from_dataframe(input_dataframe: pd.DataFrame,
     """
 
     # if columns specified, filter to just these columns
-    in_df = input_dataframe.iloc[:, list(columns)] if columns is not None else input_dataframe
+    # ``iloc`` expects integer positions which would raise an error when column
+    # names are supplied. Use ``loc`` so that both names and positions work.
+    if columns is not None:
+        in_df = input_dataframe.loc[:, list(columns)]
+    else:
+        in_df = input_dataframe
 
     # create md5 hash per row
     md5_hashes = in_df.apply(lambda row: get_md5_from_series(row), axis=1)
