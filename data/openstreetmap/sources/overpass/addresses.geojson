@@ -7472,8 +7472,10 @@
         "addr:street": "Lonan Church Road",
         "contact:facebook": "https://www.facebook.com/p/Strenaby-Farm-100054244462074/",
         "name": "Strenaby Farm",
+        "old_name": "Grawe",
         "place": "farm",
-        "source:addr": "Isle of Man Government Planning Applications"
+        "source:addr": "Isle of Man Government Planning Applications",
+        "source:old_name": "OS 6 inch 1870 map"
       }
     },
     {
@@ -10638,6 +10640,243 @@
         "addr:housenumber": "61",
         "addr:postcode": "IM2 6AT",
         "addr:street": "Cronk Drean",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13383904086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52464,
+          54.149964
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM2 2HD",
+        "addr:street": "Cooil Drive",
+        "source": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13383904087,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.522711,
+          54.149734
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "34",
+        "addr:postcode": "IM2 2HJ",
+        "addr:street": "Close Kennish",
+        "mapillary": "2358027534341325",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13384398572,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.521809,
+          54.147475
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 2HU",
+        "addr:street": "Close Cowley",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13384398573,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.522182,
+          54.147669
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "27",
+        "addr:postcode": "IM2 2HU",
+        "addr:street": "Close Cowley",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13384398574,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.522456,
+          54.147383
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 2HU",
+        "addr:street": "Close Cowley",
+        "fixme": "maybe next one over?",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13384398577,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.521399,
+          54.147047
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 2HX",
+        "addr:street": "Close Cowley",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13384398581,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.521752,
+          54.14772
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "24",
+        "addr:postcode": "IM2 2HX",
+        "addr:street": "Close Cowley",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13388454050,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523854,
+          54.150424
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "54",
+        "addr:postcode": "IM2 2ES",
+        "addr:street": "Balllaquark",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13388454089,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.524803,
+          54.150925
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "65",
+        "addr:postcode": "IM2 2ER",
+        "addr:street": "Balllaquark",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13388454090,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.524515,
+          54.150656
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "61",
+        "addr:postcode": "IM2 2ER",
+        "addr:street": "Balllaquark",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13388454091,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523903,
+          54.150656
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "51",
+        "addr:postcode": "IM2 2ER",
+        "addr:street": "Balllaquark",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13388454092,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523742,
+          54.151192
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "46",
+        "addr:postcode": "IM2 2ET",
+        "addr:street": "Balllaquark",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13388454093,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.523375,
+          54.151294
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM2 2ET",
+        "addr:street": "Balllaquark",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -34051,24 +34290,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.464171,
-            54.181424
+            -4.464172,
+            54.181432
           ],
           [
-            -4.464162,
-            54.181352
+            -4.464163,
+            54.18136
           ],
           [
-            -4.464376,
-            54.181343
+            -4.464274,
+            54.181355
           ],
           [
-            -4.464386,
-            54.181415
+            -4.464378,
+            54.18135
           ],
           [
-            -4.464171,
-            54.181424
+            -4.464387,
+            54.181422
+          ],
+          [
+            -4.464172,
+            54.181432
           ]
         ]
       },
@@ -111676,12 +111919,12 @@
             54.319001
           ],
           [
-            -4.48851,
-            54.319767
+            -4.488543,
+            54.319809
           ],
           [
-            -4.489237,
-            54.319631
+            -4.489247,
+            54.31964
           ],
           [
             -4.489461,
@@ -113071,6 +113314,7 @@
         "addr:postcode": "IM4 7DB",
         "addr:street": "The Promenade",
         "building": "yes",
+        "building:material": "stone",
         "name": "MMD"
       }
     },
@@ -149349,6 +149593,67 @@
     },
     {
       "type": "Feature",
+      "id": 1239964316,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524358,
+            54.150342
+          ],
+          [
+            -4.524348,
+            54.150294
+          ],
+          [
+            -4.524327,
+            54.150296
+          ],
+          [
+            -4.524316,
+            54.150251
+          ],
+          [
+            -4.524428,
+            54.150242
+          ],
+          [
+            -4.524437,
+            54.150277
+          ],
+          [
+            -4.524496,
+            54.150272
+          ],
+          [
+            -4.524501,
+            54.150294
+          ],
+          [
+            -4.524569,
+            54.150288
+          ],
+          [
+            -4.524579,
+            54.150324
+          ],
+          [
+            -4.524358,
+            54.150342
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "57",
+        "addr:postcode": "IM2 2ER",
+        "addr:street": "Balllaquark",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1240147735,
       "geometry": {
         "type": "LineString",
@@ -170724,6 +171029,210 @@
         "addr:street": "Westbourne Drive",
         "building": "house",
         "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451986388,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522738,
+            54.151102
+          ],
+          [
+            -4.522716,
+            54.151015
+          ],
+          [
+            -4.522853,
+            54.151003
+          ],
+          [
+            -4.522875,
+            54.151089
+          ],
+          [
+            -4.522738,
+            54.151102
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "37",
+        "addr:postcode": "IM2 2ET",
+        "addr:street": "Balllaquark",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451986389,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522756,
+            54.151172
+          ],
+          [
+            -4.522738,
+            54.151102
+          ],
+          [
+            -4.522875,
+            54.151089
+          ],
+          [
+            -4.522894,
+            54.15116
+          ],
+          [
+            -4.522756,
+            54.151172
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "38",
+        "addr:postcode": "IM2 2ET",
+        "addr:street": "Balllaquark",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451986390,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522774,
+            54.151241
+          ],
+          [
+            -4.522756,
+            54.151172
+          ],
+          [
+            -4.522894,
+            54.15116
+          ],
+          [
+            -4.522911,
+            54.151229
+          ],
+          [
+            -4.522774,
+            54.151241
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "39",
+        "addr:postcode": "IM2 2ET",
+        "addr:street": "Balllaquark",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451986402,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523913,
+            54.15034
+          ],
+          [
+            -4.523763,
+            54.150333
+          ],
+          [
+            -4.523767,
+            54.150298
+          ],
+          [
+            -4.52372,
+            54.150296
+          ],
+          [
+            -4.523724,
+            54.150261
+          ],
+          [
+            -4.523773,
+            54.150263
+          ],
+          [
+            -4.523903,
+            54.150269
+          ],
+          [
+            -4.523922,
+            54.150269
+          ],
+          [
+            -4.523913,
+            54.15034
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "55",
+        "addr:postcode": "IM2 2ES",
+        "addr:street": "Balllaquark",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451986403,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523773,
+            54.150263
+          ],
+          [
+            -4.523778,
+            54.150181
+          ],
+          [
+            -4.523908,
+            54.150184
+          ],
+          [
+            -4.523903,
+            54.150269
+          ],
+          [
+            -4.523773,
+            54.150263
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "56",
+        "addr:postcode": "IM2 2ES",
+        "addr:street": "Balllaquark",
+        "building": "semidetached_house",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
