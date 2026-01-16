@@ -8152,26 +8152,6 @@
     },
     {
       "type": "Feature",
-      "id": 12160793666,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478096,
-          54.163108
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM2 4BA",
-        "addr:street": "Upper Duke's Road",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 12173929083,
       "geometry": {
         "type": "Point",
@@ -96425,16 +96405,12 @@
             54.157065
           ],
           [
-            -4.482733,
-            54.157034
+            -4.482715,
+            54.157036
           ],
           [
-            -4.48268,
-            54.156924
-          ],
-          [
-            -4.482543,
-            54.156937
+            -4.482668,
+            54.156925
           ],
           [
             -4.482348,
@@ -96526,8 +96502,12 @@
             54.156831
           ],
           [
-            -4.482543,
-            54.156937
+            -4.482621,
+            54.156814
+          ],
+          [
+            -4.482668,
+            54.156925
           ],
           [
             -4.482348,
@@ -114678,6 +114658,44 @@
     },
     {
       "type": "Feature",
+      "id": 830314061,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482416,
+            54.157288
+          ],
+          [
+            -4.482492,
+            54.157282
+          ],
+          [
+            -4.482469,
+            54.157194
+          ],
+          [
+            -4.482393,
+            54.157201
+          ],
+          [
+            -4.482416,
+            54.157288
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "33",
+        "addr:postcode": "IM2 3EP",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 830760399,
       "geometry": {
         "type": "LineString",
@@ -125951,15 +125969,15 @@
         "coordinates": [
           [
             -4.474974,
-            54.163818
+            54.163819
           ],
           [
-            -4.474868,
-            54.163879
+            -4.474874,
+            54.163874
           ],
           [
-            -4.474806,
-            54.163842
+            -4.474815,
+            54.163837
           ],
           [
             -4.474915,
@@ -125967,7 +125985,7 @@
           ],
           [
             -4.474974,
-            54.163818
+            54.163819
           ]
         ]
       },
@@ -136618,23 +136636,55 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484913,
+            -4.484914,
             54.160736
           ],
           [
-            -4.48445,
+            -4.484805,
+            54.160704
+          ],
+          [
+            -4.484828,
+            54.160678
+          ],
+          [
+            -4.484808,
+            54.160672
+          ],
+          [
+            -4.484785,
+            54.160698
+          ],
+          [
+            -4.484586,
+            54.160639
+          ],
+          [
+            -4.484609,
+            54.160612
+          ],
+          [
+            -4.484583,
+            54.160604
+          ],
+          [
+            -4.484561,
+            54.16063
+          ],
+          [
+            -4.484451,
             54.160597
           ],
           [
-            -4.484505,
-            54.160533
+            -4.484506,
+            54.160534
           ],
           [
-            -4.484969,
+            -4.48497,
             54.160671
           ],
           [
-            -4.484913,
+            -4.484914,
             54.160736
           ]
         ]
@@ -136655,23 +136705,39 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484553,
+            -4.484554,
             54.16069
           ],
           [
+            -4.484503,
+            54.160747
+          ],
+          [
+            -4.484469,
+            54.160737
+          ],
+          [
+            -4.484456,
+            54.160751
+          ],
+          [
+            -4.484489,
+            54.160761
+          ],
+          [
             -4.484435,
-            54.160822
+            54.160823
           ],
           [
             -4.484325,
             54.160789
           ],
           [
-            -4.484443,
-            54.160657
+            -4.484442,
+            54.160656
           ],
           [
-            -4.484553,
+            -4.484554,
             54.16069
           ]
         ]
@@ -142033,6 +142099,99 @@
     },
     {
       "type": "Feature",
+      "id": 1154142808,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484686,
+            54.153473
+          ],
+          [
+            -4.484639,
+            54.153403
+          ],
+          [
+            -4.484754,
+            54.153376
+          ],
+          [
+            -4.484788,
+            54.153368
+          ],
+          [
+            -4.484837,
+            54.153439
+          ],
+          [
+            -4.484686,
+            54.153473
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Avoncourt",
+        "addr:housenumber": "61",
+        "addr:postcode": "IM1 3EF",
+        "addr:street": "Bucks Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154142821,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485197,
+            54.15547
+          ],
+          [
+            -4.485228,
+            54.155528
+          ],
+          [
+            -4.485365,
+            54.155506
+          ],
+          [
+            -4.485355,
+            54.155484
+          ],
+          [
+            -4.485486,
+            54.155461
+          ],
+          [
+            -4.485466,
+            54.155423
+          ],
+          [
+            -4.485348,
+            54.155443
+          ],
+          [
+            -4.485197,
+            54.15547
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM1 3HH",
+        "addr:street": "Woodbourne Road",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1154142824,
       "geometry": {
         "type": "LineString",
@@ -143147,24 +143306,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.475185,
-            54.163951
+            -4.475231,
+            54.163925
           ],
           [
-            -4.475078,
-            54.164009
+            -4.475085,
+            54.164004
           ],
           [
-            -4.475009,
-            54.163964
+            -4.475015,
+            54.163961
           ],
           [
-            -4.475117,
+            -4.475115,
             54.163906
           ],
           [
-            -4.475185,
-            54.163951
+            -4.475172,
+            54.16388
+          ],
+          [
+            -4.475231,
+            54.163925
           ]
         ]
       },
@@ -143186,24 +143349,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.475009,
-            54.163964
+            -4.475015,
+            54.163961
           ],
           [
-            -4.474935,
-            54.163919
+            -4.474941,
+            54.163916
           ],
           [
             -4.475041,
-            54.163859
+            54.16386
           ],
           [
-            -4.475117,
+            -4.475115,
             54.163906
           ],
           [
-            -4.475009,
-            54.163964
+            -4.475015,
+            54.163961
           ]
         ]
       },
@@ -143226,23 +143389,23 @@
         "coordinates": [
           [
             -4.475041,
-            54.163859
+            54.16386
           ],
           [
             -4.474974,
-            54.163818
+            54.163819
           ],
           [
-            -4.474868,
-            54.163879
+            -4.474874,
+            54.163874
           ],
           [
-            -4.474935,
-            54.163919
+            -4.474941,
+            54.163916
           ],
           [
             -4.475041,
-            54.163859
+            54.16386
           ]
         ]
       },
@@ -161890,6 +162053,58 @@
     },
     {
       "type": "Feature",
+      "id": 1303757580,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480675,
+            54.157436
+          ],
+          [
+            -4.480564,
+            54.157445
+          ],
+          [
+            -4.480535,
+            54.157326
+          ],
+          [
+            -4.480506,
+            54.157329
+          ],
+          [
+            -4.480493,
+            54.157275
+          ],
+          [
+            -4.480632,
+            54.157263
+          ],
+          [
+            -4.480653,
+            54.157347
+          ],
+          [
+            -4.480675,
+            54.157436
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 3ES",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "fixme": "check number",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1303757582,
       "geometry": {
         "type": "LineString",
@@ -162284,6 +162499,82 @@
     },
     {
       "type": "Feature",
+      "id": 1304426301,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48217,
+            54.158075
+          ],
+          [
+            -4.482119,
+            54.157997
+          ],
+          [
+            -4.482032,
+            54.158016
+          ],
+          [
+            -4.482082,
+            54.158094
+          ],
+          [
+            -4.48217,
+            54.158075
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "28",
+        "addr:postcode": "IM2 3HA",
+        "addr:street": "Falcon Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426302,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482082,
+            54.158094
+          ],
+          [
+            -4.482032,
+            54.158016
+          ],
+          [
+            -4.481946,
+            54.158035
+          ],
+          [
+            -4.481996,
+            54.158113
+          ],
+          [
+            -4.482082,
+            54.158094
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "26",
+        "addr:postcode": "IM2 3HA",
+        "addr:street": "Falcon Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1304426308,
       "geometry": {
         "type": "LineString",
@@ -162319,6 +162610,379 @@
         "building": "house",
         "house": "terraced",
         "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426318,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48272,
+            54.158428
+          ],
+          [
+            -4.482691,
+            54.158382
+          ],
+          [
+            -4.482546,
+            54.158413
+          ],
+          [
+            -4.482575,
+            54.158459
+          ],
+          [
+            -4.48272,
+            54.158428
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM2 3HE",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "building:levels": "2",
+        "house": "terraced",
+        "roof:material": "slate",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426320,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482837,
+            54.158611
+          ],
+          [
+            -4.482806,
+            54.158567
+          ],
+          [
+            -4.482662,
+            54.158598
+          ],
+          [
+            -4.482686,
+            54.158639
+          ],
+          [
+            -4.482837,
+            54.158611
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "34",
+        "addr:postcode": "IM2 3HE",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "building:levels": "2",
+        "house": "terraced",
+        "roof:material": "slate",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426322,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482416,
+            54.157969
+          ],
+          [
+            -4.482387,
+            54.157922
+          ],
+          [
+            -4.482243,
+            54.157953
+          ],
+          [
+            -4.482272,
+            54.158
+          ],
+          [
+            -4.482416,
+            54.157969
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482445,
+            54.158015
+          ],
+          [
+            -4.482416,
+            54.157969
+          ],
+          [
+            -4.482272,
+            54.158
+          ],
+          [
+            -4.482301,
+            54.158046
+          ],
+          [
+            -4.482445,
+            54.158015
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426324,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482474,
+            54.158061
+          ],
+          [
+            -4.482445,
+            54.158015
+          ],
+          [
+            -4.482301,
+            54.158046
+          ],
+          [
+            -4.48233,
+            54.158092
+          ],
+          [
+            -4.482474,
+            54.158061
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482503,
+            54.158108
+          ],
+          [
+            -4.482474,
+            54.158061
+          ],
+          [
+            -4.48233,
+            54.158092
+          ],
+          [
+            -4.482359,
+            54.158139
+          ],
+          [
+            -4.482503,
+            54.158108
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426326,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482531,
+            54.158154
+          ],
+          [
+            -4.482503,
+            54.158108
+          ],
+          [
+            -4.482359,
+            54.158139
+          ],
+          [
+            -4.482387,
+            54.158185
+          ],
+          [
+            -4.482531,
+            54.158154
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426327,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48256,
+            54.1582
+          ],
+          [
+            -4.482531,
+            54.158154
+          ],
+          [
+            -4.482387,
+            54.158185
+          ],
+          [
+            -4.482416,
+            54.158231
+          ],
+          [
+            -4.48256,
+            54.1582
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304426328,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482589,
+            54.158247
+          ],
+          [
+            -4.48256,
+            54.1582
+          ],
+          [
+            -4.482416,
+            54.158231
+          ],
+          [
+            -4.482445,
+            54.158278
+          ],
+          [
+            -4.482589,
+            54.158247
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM2 3HB",
+        "addr:street": "Melbourne Street",
+        "building": "house",
+        "house": "terraced",
+        "roof:orientation": "across",
+        "roof:shape": "gabled",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -163042,6 +163706,99 @@
         "addr:housenumber": "33",
         "addr:postcode": "IM2 3NW",
         "addr:street": "Brunswick Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304687946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.478179,
+            54.163113
+          ],
+          [
+            -4.478114,
+            54.163151
+          ],
+          [
+            -4.478027,
+            54.163102
+          ],
+          [
+            -4.478093,
+            54.163063
+          ],
+          [
+            -4.478179,
+            54.163113
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4BA",
+        "addr:street": "Upper Duke's Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1304687951,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476508,
+            54.164055
+          ],
+          [
+            -4.476449,
+            54.16409
+          ],
+          [
+            -4.476329,
+            54.164019
+          ],
+          [
+            -4.476367,
+            54.163998
+          ],
+          [
+            -4.476382,
+            54.164006
+          ],
+          [
+            -4.476404,
+            54.163994
+          ],
+          [
+            -4.476428,
+            54.164008
+          ],
+          [
+            -4.476508,
+            54.164055
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Cumberland",
+        "addr:housenumber": "27",
+        "addr:postcode": "IM2 4AZ",
+        "addr:street": "Upper Duke's Road",
         "building": "house",
         "house": "terraced",
         "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
@@ -177535,6 +178292,43 @@
     },
     {
       "type": "Feature",
+      "id": 1465374927,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484801,
+            54.153809
+          ],
+          [
+            -4.484795,
+            54.153752
+          ],
+          [
+            -4.484947,
+            54.153746
+          ],
+          [
+            -4.484953,
+            54.153803
+          ],
+          [
+            -4.484801,
+            54.153809
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "73",
+        "addr:postcode": "IM1 3EF",
+        "addr:street": "Bucks Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1465376771,
       "geometry": {
         "type": "LineString",
@@ -178196,6 +178990,82 @@
     },
     {
       "type": "Feature",
+      "id": 1465384979,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48069,
+            54.157717
+          ],
+          [
+            -4.480788,
+            54.157709
+          ],
+          [
+            -4.480767,
+            54.157618
+          ],
+          [
+            -4.480669,
+            54.157626
+          ],
+          [
+            -4.48069,
+            54.157717
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 3ET",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465384980,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480593,
+            54.157726
+          ],
+          [
+            -4.48069,
+            54.157717
+          ],
+          [
+            -4.480669,
+            54.157626
+          ],
+          [
+            -4.480571,
+            54.157634
+          ],
+          [
+            -4.480593,
+            54.157726
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3ET",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1465387477,
       "geometry": {
         "type": "LineString",
@@ -178226,6 +179096,123 @@
         "addr:housenumber": "31",
         "addr:postcode": "IM2 3LW",
         "addr:street": "Derby Square",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465568074,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476874,
+            54.163884
+          ],
+          [
+            -4.476809,
+            54.163922
+          ],
+          [
+            -4.476719,
+            54.163875
+          ],
+          [
+            -4.476785,
+            54.163837
+          ],
+          [
+            -4.476874,
+            54.163884
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM2 4AZ",
+        "addr:street": "Upper Duke's Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465568081,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477331,
+            54.163614
+          ],
+          [
+            -4.477265,
+            54.163653
+          ],
+          [
+            -4.477177,
+            54.163604
+          ],
+          [
+            -4.477243,
+            54.163566
+          ],
+          [
+            -4.477331,
+            54.163614
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM2 4AZ",
+        "addr:street": "Upper Duke's Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465568082,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477396,
+            54.163576
+          ],
+          [
+            -4.477331,
+            54.163614
+          ],
+          [
+            -4.477243,
+            54.163566
+          ],
+          [
+            -4.477308,
+            54.163527
+          ],
+          [
+            -4.477396,
+            54.163576
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM2 4BA",
+        "addr:street": "Upper Duke's Road",
         "building": "house",
         "house": "terraced",
         "source:addr:housenumber": "interpolation",
@@ -179369,6 +180356,120 @@
         "addr:housenumber": "4",
         "addr:postcode": "IM2 3LH",
         "addr:street": "Osborne Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466589038,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48269,
+            54.157263
+          ],
+          [
+            -4.482791,
+            54.157254
+          ],
+          [
+            -4.482765,
+            54.157165
+          ],
+          [
+            -4.482665,
+            54.157175
+          ],
+          [
+            -4.48269,
+            54.157263
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "39",
+        "addr:postcode": "IM2 3EP",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466589039,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482596,
+            54.157272
+          ],
+          [
+            -4.48269,
+            54.157263
+          ],
+          [
+            -4.482665,
+            54.157175
+          ],
+          [
+            -4.482572,
+            54.157184
+          ],
+          [
+            -4.482596,
+            54.157272
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "37",
+        "addr:postcode": "IM2 3EP",
+        "addr:street": "Derby Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466589043,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48303,
+            54.157229
+          ],
+          [
+            -4.483116,
+            54.157218
+          ],
+          [
+            -4.483082,
+            54.157128
+          ],
+          [
+            -4.482997,
+            54.157139
+          ],
+          [
+            -4.48303,
+            54.157229
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM2 3EP",
+        "addr:street": "Derby Road",
         "building": "house",
         "house": "terraced",
         "source:addr:housenumber": "interpolation",

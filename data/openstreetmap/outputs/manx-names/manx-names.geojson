@@ -2169,6 +2169,9 @@
         "name:ru": "\u041f\u043e\u0440\u0442 \u042d\u0440\u0438\u043d",
         "name:uk": "\u041f\u043e\u0440\u0442 \u0415\u0440\u0456\u043d",
         "place": "village",
+        "population": "3730",
+        "population:date": "2021",
+        "source:population": "wikipedia",
         "wikidata": "Q520798",
         "wikipedia": "en:Port Erin",
         "osm_id": 1287831029,
@@ -4219,6 +4222,8 @@
         "name": "Ballaugh",
         "name:gv": "Balley ny Loughey",
         "place": "village",
+        "wikidata": "Q2734562",
+        "wikipedia": "en:Ballaugh",
         "osm_id": 6948740313,
         "lon": -4.543054,
         "lat": 54.311937,
@@ -7892,6 +7897,58 @@
     },
     {
       "type": "Feature",
+      "id": 25985946,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523419,
+            54.152184
+          ],
+          [
+            -4.523286,
+            54.152081
+          ],
+          [
+            -4.523011,
+            54.151871
+          ],
+          [
+            -4.522968,
+            54.151808
+          ],
+          [
+            -4.522955,
+            54.151728
+          ],
+          [
+            -4.522943,
+            54.151484
+          ],
+          [
+            -4.522942,
+            54.151456
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "note": "99-106 Ballaquark (source=mapillary)",
+        "surface": "paved",
+        "osm_id": 25985946,
+        "lon": -4.5230982010756415,
+        "lat": 54.15186421606386,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25985946"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25985950,
       "geometry": {
         "type": "LineString",
@@ -8132,20 +8189,12 @@
             54.288528
           ],
           [
-            -4.582202,
-            54.288497
+            -4.582649,
+            54.288454
           ],
           [
-            -4.582475,
-            54.288471
-          ],
-          [
-            -4.582697,
-            54.288444
-          ],
-          [
-            -4.583138,
-            54.288249
+            -4.583119,
+            54.28826
           ],
           [
             -4.583301,
@@ -8223,8 +8272,8 @@
         "postal_code": "IM6 2",
         "surface": "asphalt",
         "osm_id": 25985962,
-        "lon": -4.58256896184158,
-        "lat": 54.288311773633325,
+        "lon": -4.582568849349016,
+        "lat": 54.28831207645584,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25985962"
       }
@@ -8325,6 +8374,85 @@
         "lat": 54.171861822400444,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25985975"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25985989,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524778,
+            54.151605
+          ],
+          [
+            -4.524804,
+            54.151558
+          ],
+          [
+            -4.524813,
+            54.151183
+          ],
+          [
+            -4.524801,
+            54.151153
+          ],
+          [
+            -4.524777,
+            54.151124
+          ],
+          [
+            -4.524754,
+            54.151098
+          ],
+          [
+            -4.524724,
+            54.151076
+          ],
+          [
+            -4.524686,
+            54.151058
+          ],
+          [
+            -4.524637,
+            54.151043
+          ],
+          [
+            -4.524581,
+            54.151027
+          ],
+          [
+            -4.524514,
+            54.151018
+          ],
+          [
+            -4.524389,
+            54.15101
+          ],
+          [
+            -4.524333,
+            54.151006
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "note": "64-80 Ballaquark (source=mapillary)",
+        "postal_code:left": "IM2 2EP",
+        "postal_code:right": "IM2 2ER",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25985989,
+        "lon": -4.524688250729784,
+        "lat": 54.151205009560876,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25985989"
       }
     },
     {
@@ -8441,8 +8569,12 @@
             54.28433
           ],
           [
-            -4.593458,
-            54.284669
+            -4.593374,
+            54.284615
+          ],
+          [
+            -4.593519,
+            54.284701
           ]
         ]
       },
@@ -8455,8 +8587,8 @@
         "postal_code": "IM6 1HU",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986017,
-        "lon": -4.592716119055388,
-        "lat": 54.284195713566035,
+        "lon": -4.592745213550555,
+        "lat": 54.28421340193065,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986017"
       }
@@ -9001,8 +9133,8 @@
             54.173264
           ],
           [
-            -4.47381,
-            54.173378
+            -4.473781,
+            54.173376
           ]
         ]
       },
@@ -9013,8 +9145,8 @@
         "name:gv": "Cronk Drean",
         "surface": "paved",
         "osm_id": 25986084,
-        "lon": -4.473806,
-        "lat": 54.173321,
+        "lon": -4.4737915,
+        "lat": 54.173320000000004,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986084"
       }
@@ -9656,6 +9788,10 @@
             54.287978
           ],
           [
+            -4.583638,
+            54.287987
+          ],
+          [
             -4.584134,
             54.288032
           ]
@@ -9668,8 +9804,8 @@
         "name:gv": "Faaie Ny Cabbal",
         "surface": "paving_stones",
         "osm_id": 25986119,
-        "lon": -4.58384,
-        "lat": 54.288005,
+        "lon": -4.583839974249286,
+        "lat": 54.288005273145345,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986119"
       }
@@ -11381,6 +11517,105 @@
     },
     {
       "type": "Feature",
+      "id": 25986356,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524333,
+            54.151006
+          ],
+          [
+            -4.524319,
+            54.151068
+          ],
+          [
+            -4.524279,
+            54.151108
+          ],
+          [
+            -4.524005,
+            54.151255
+          ],
+          [
+            -4.523843,
+            54.151345
+          ],
+          [
+            -4.523749,
+            54.151391
+          ],
+          [
+            -4.523675,
+            54.15141
+          ],
+          [
+            -4.523583,
+            54.15143
+          ],
+          [
+            -4.523468,
+            54.15145
+          ],
+          [
+            -4.523351,
+            54.151464
+          ],
+          [
+            -4.523234,
+            54.151468
+          ],
+          [
+            -4.523084,
+            54.151466
+          ],
+          [
+            -4.522942,
+            54.151456
+          ],
+          [
+            -4.5228,
+            54.151429
+          ],
+          [
+            -4.522659,
+            54.151419
+          ],
+          [
+            -4.52256,
+            54.151441
+          ],
+          [
+            -4.522466,
+            54.151481
+          ],
+          [
+            -4.522293,
+            54.151559
+          ],
+          [
+            -4.522113,
+            54.151639
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 25986356,
+        "lon": -4.523261039103307,
+        "lat": 54.151395855547165,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986356"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986366,
       "geometry": {
         "type": "LineString",
@@ -11597,8 +11832,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.738172,
-            54.070034
+            -4.738131,
+            54.070061
           ],
           [
             -4.737922,
@@ -11616,8 +11851,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 25986380,
-        "lon": -4.738047,
-        "lat": 54.07010850000001,
+        "lon": -4.7380265,
+        "lat": 54.070122,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986380"
       }
@@ -11703,6 +11938,37 @@
         "lat": 54.15250941066608,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986393"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986400,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524063,
+            54.151782
+          ],
+          [
+            -4.523853,
+            54.15178
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 25986400,
+        "lon": -4.523958,
+        "lat": 54.151781,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986400"
       }
     },
     {
@@ -12500,12 +12766,24 @@
             54.158924
           ],
           [
+            -4.481983,
+            54.158845
+          ],
+          [
+            -4.481887,
+            54.158708
+          ],
+          [
             -4.48173,
             54.158483
           ],
           [
             -4.481608,
             54.158297
+          ],
+          [
+            -4.481597,
+            54.158279
           ],
           [
             -4.481455,
@@ -12536,8 +12814,8 @@
         "name:en": "Falcon Street Lane",
         "name:gv": "Lhoan Straid Shirragh",
         "osm_id": 25986501,
-        "lon": -4.4815540994747085,
-        "lat": 54.158214919583564,
+        "lon": -4.481554057088109,
+        "lat": 54.158214952990875,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986501"
       }
@@ -13392,24 +13670,20 @@
             54.173387
           ],
           [
-            -4.47381,
-            54.173378
+            -4.473781,
+            54.173376
           ],
           [
-            -4.474136,
-            54.173394
+            -4.473889,
+            54.173369
           ],
           [
-            -4.474638,
-            54.173428
+            -4.474645,
+            54.173424
           ],
           [
-            -4.474863,
-            54.173467
-          ],
-          [
-            -4.475089,
-            54.173519
+            -4.475168,
+            54.173556
           ],
           [
             -4.475201,
@@ -13420,8 +13694,8 @@
             54.173694
           ],
           [
-            -4.475614,
-            54.174056
+            -4.475654,
+            54.174063
           ],
           [
             -4.475684,
@@ -13429,11 +13703,15 @@
           ],
           [
             -4.475721,
-            54.174107
+            54.174114
           ],
           [
-            -4.475754,
-            54.17412
+            -4.475751,
+            54.174126
+          ],
+          [
+            -4.475788,
+            54.174127
           ],
           [
             -4.475824,
@@ -13557,8 +13835,8 @@
         "name:gv": "Cronk Drean",
         "surface": "paved",
         "osm_id": 25986604,
-        "lon": -4.475572493244016,
-        "lat": 54.173311264695286,
+        "lon": -4.4755727444013305,
+        "lat": 54.17331040635408,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986604"
       }
@@ -14539,8 +14817,8 @@
             54.157336
           ],
           [
-            -4.482798,
-            54.157065
+            -4.482802,
+            54.157071
           ],
           [
             -4.482514,
@@ -14571,8 +14849,8 @@
         "name:en": "Green Lane",
         "name:gv": "Lhoan Yn Aaie",
         "osm_id": 25986664,
-        "lon": -4.482649265811283,
-        "lat": 54.156605658035375,
+        "lon": -4.482649749140587,
+        "lat": 54.156605456298685,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986664"
       }
@@ -14629,6 +14907,36 @@
         "lat": 54.18382800075782,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986675"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.52186,
+            54.150547
+          ],
+          [
+            -4.521969,
+            54.150536
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 25986686,
+        "lon": -4.5219145,
+        "lat": 54.1505415,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986686"
       }
     },
     {
@@ -15624,6 +15932,7 @@
         "name:en": "Woodburn Square",
         "name:gv": "Raad Strooan ny Kelley",
         "postal_code": "IM1 4DB",
+        "sidewalk:both": "separate",
         "source": "Isle of Man Government aerial imagery (2001)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986795,
@@ -15746,18 +16055,6 @@
           [
             -4.701295,
             54.180443
-          ],
-          [
-            -4.70122,
-            54.180366
-          ],
-          [
-            -4.700996,
-            54.180282
-          ],
-          [
-            -4.700668,
-            54.180236
           ]
         ]
       },
@@ -15772,8 +16069,8 @@
         "source:name:gv": "street sign;visible on streetside",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986833,
-        "lon": -4.702268240608963,
-        "lat": 54.181152003390906,
+        "lon": -4.702545405715492,
+        "lat": 54.18133665151596,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986833"
       }
@@ -15872,6 +16169,10 @@
             54.160109
           ],
           [
+            -4.478787,
+            54.160347
+          ],
+          [
             -4.478462,
             54.160534
           ],
@@ -15933,8 +16234,8 @@
         "name:gv": "Raad Marathon",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 25986885,
-        "lon": -4.4787131550424215,
-        "lat": 54.16053931809409,
+        "lon": -4.478713183163351,
+        "lat": 54.1605393667343,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986885"
       }
@@ -16493,6 +16794,14 @@
             54.232137
           ],
           [
+            -4.404841,
+            54.232195
+          ],
+          [
+            -4.404874,
+            54.232214
+          ],
+          [
             -4.404976,
             54.232272
           ],
@@ -16531,8 +16840,8 @@
         "source:name:gv": "http://www.flickr.com/photos/alexanderlamberton/4247760800/",
         "surface": "paved",
         "osm_id": 25987023,
-        "lon": -4.4048240467319,
-        "lat": 54.232127816233906,
+        "lon": -4.404824046739108,
+        "lat": 54.23212781625043,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987023"
       }
@@ -17200,8 +17509,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.490032,
-            54.362939
+            -4.490042,
+            54.362957
           ],
           [
             -4.489947,
@@ -17236,8 +17545,12 @@
             54.359583
           ],
           [
-            -4.488995,
-            54.359429
+            -4.489018,
+            54.359452
+          ],
+          [
+            -4.489001,
+            54.359432
           ],
           [
             -4.488897,
@@ -17414,8 +17727,8 @@
         "name:gv": "Bayr Rheynn Doo",
         "source:name": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987101,
-        "lon": -4.485399964917916,
-        "lat": 54.35382413055383,
+        "lon": -4.4854040823402945,
+        "lat": 54.35383200602357,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987101"
       }
@@ -17946,6 +18259,91 @@
         "lat": 54.173211022146866,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987118"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987119,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490846,
+            54.160161
+          ],
+          [
+            -4.490326,
+            54.159577
+          ],
+          [
+            -4.489342,
+            54.158473
+          ],
+          [
+            -4.489321,
+            54.158442
+          ],
+          [
+            -4.4893,
+            54.158409
+          ],
+          [
+            -4.489082,
+            54.158176
+          ],
+          [
+            -4.488841,
+            54.157905
+          ],
+          [
+            -4.488571,
+            54.157631
+          ],
+          [
+            -4.488336,
+            54.157397
+          ],
+          [
+            -4.488283,
+            54.157347
+          ],
+          [
+            -4.488054,
+            54.157135
+          ],
+          [
+            -4.487959,
+            54.157055
+          ],
+          [
+            -4.487784,
+            54.156944
+          ],
+          [
+            -4.487592,
+            54.156851
+          ],
+          [
+            -4.487514,
+            54.156816
+          ],
+          [
+            -4.487481,
+            54.156799
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Brunswick Road",
+        "name:en": "Brunswick Road",
+        "name:gv": "Raad Brunswick",
+        "osm_id": 25987119,
+        "lon": -4.4892348370080155,
+        "lat": 54.1583941610714,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987119"
       }
     },
     {
@@ -24505,8 +24903,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.45782,
-            54.174804
+            -4.457827,
+            54.174817
+          ],
+          [
+            -4.457793,
+            54.174791
           ],
           [
             -4.457006,
@@ -24537,8 +24939,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987569,
-        "lon": -4.457168978245906,
-        "lat": 54.174299876130114,
+        "lon": -4.457173063175338,
+        "lat": 54.17430562782427,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987569"
       }
@@ -24590,6 +24992,62 @@
         "lat": 54.16103981402,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987579"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987584,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.762208,
+            54.082636
+          ],
+          [
+            -4.762079,
+            54.082637
+          ],
+          [
+            -4.761487,
+            54.083204
+          ],
+          [
+            -4.761373,
+            54.083279
+          ],
+          [
+            -4.761145,
+            54.083244
+          ],
+          [
+            -4.760926,
+            54.083211
+          ],
+          [
+            -4.760875,
+            54.083203
+          ],
+          [
+            -4.760815,
+            54.083188
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ballafurt Close",
+        "name:en": "Ballafurt Close",
+        "name:gv": "Close Balley Phurt",
+        "postal_code": "IM9 6HS",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25987584,
+        "lon": -4.761545748203887,
+        "lat": 54.08303293912734,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987584"
       }
     },
     {
@@ -25368,28 +25826,44 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474941,
-            54.148379
+            -4.474969,
+            54.148364
           ],
           [
-            -4.474929,
-            54.148443
+            -4.474933,
+            54.148411
           ],
           [
-            -4.474906,
-            54.148612
+            -4.474925,
+            54.148424
           ],
           [
-            -4.474897,
-            54.148681
+            -4.474919,
+            54.148436
           ],
           [
-            -4.474869,
-            54.148814
+            -4.474916,
+            54.148448
           ],
           [
-            -4.47486,
-            54.148858
+            -4.474914,
+            54.148457
+          ],
+          [
+            -4.47489,
+            54.148606
+          ],
+          [
+            -4.474877,
+            54.148679
+          ],
+          [
+            -4.474854,
+            54.148808
+          ],
+          [
+            -4.474845,
+            54.148868
           ]
         ]
       },
@@ -25407,8 +25881,8 @@
         "source": "Isle of Man Government aerial imagery (2001);survey;Bing",
         "surface": "asphalt",
         "osm_id": 25987719,
-        "lon": -4.474903010325977,
-        "lat": 54.1486189472699,
+        "lon": -4.474891649829897,
+        "lat": 54.14860968181707,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987719"
       }
@@ -25459,12 +25933,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483801,
-            54.155299
+            -4.483799,
+            54.15531
           ],
           [
-            -4.48279,
-            54.155285
+            -4.482789,
+            54.155292
           ]
         ]
       },
@@ -25477,8 +25951,8 @@
         "postal_code": "IM1 3JR",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987727,
-        "lon": -4.4832955,
-        "lat": 54.155292,
+        "lon": -4.483294000000001,
+        "lat": 54.155301,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987727"
       }
@@ -26511,8 +26985,8 @@
             54.155809
           ],
           [
-            -4.486367,
-            54.155845
+            -4.486371,
+            54.155853
           ],
           [
             -4.486582,
@@ -26541,8 +27015,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987833,
-        "lon": -4.4864760909279635,
-        "lat": 54.15610018886973,
+        "lon": -4.486476335950521,
+        "lat": 54.15610010159803,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987833"
       }
@@ -26650,24 +27124,32 @@
             54.179184
           ],
           [
-            -4.47791,
-            54.179268
+            -4.477908,
+            54.179275
           ],
           [
-            -4.477757,
-            54.17934
+            -4.47777,
+            54.179347
           ],
           [
-            -4.477591,
-            54.179391
+            -4.477573,
+            54.179412
           ],
           [
-            -4.477416,
-            54.179423
+            -4.477421,
+            54.179439
           ],
           [
-            -4.477189,
-            54.17944
+            -4.477343,
+            54.179448
+          ],
+          [
+            -4.477197,
+            54.179455
+          ],
+          [
+            -4.477043,
+            54.179455
           ],
           [
             -4.477002,
@@ -26680,6 +27162,10 @@
           [
             -4.476618,
             54.179404
+          ],
+          [
+            -4.476469,
+            54.179367
           ],
           [
             -4.476386,
@@ -26704,6 +27190,10 @@
           [
             -4.475868,
             54.179017
+          ],
+          [
+            -4.47583,
+            54.17897
           ],
           [
             -4.475792,
@@ -26744,8 +27234,8 @@
         "name:gv": "Astyl Hailwood",
         "surface": "paved",
         "osm_id": 25987845,
-        "lon": -4.476740689447444,
-        "lat": 54.179105042431786,
+        "lon": -4.476742859620641,
+        "lat": 54.179108865603276,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987845"
       }
@@ -27295,6 +27785,10 @@
             54.162744
           ],
           [
+            -4.48521,
+            54.162634
+          ],
+          [
             -4.485182,
             54.162626
           ],
@@ -27315,8 +27809,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 25987924,
-        "lon": -4.4861320510497595,
-        "lat": 54.16300872262536,
+        "lon": -4.486132054488822,
+        "lat": 54.16300871026759,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987924"
       }
@@ -28587,54 +29081,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.49909,
-            54.151851
-          ],
-          [
-            -4.498947,
-            54.151887
-          ],
-          [
-            -4.4989,
-            54.151898
-          ],
-          [
-            -4.498863,
-            54.151921
-          ],
-          [
-            -4.498854,
-            54.15196
-          ],
-          [
-            -4.499009,
-            54.152185
-          ],
-          [
-            -4.499156,
-            54.152392
-          ],
-          [
-            -4.499162,
-            54.152481
-          ],
-          [
-            -4.499107,
-            54.15263
-          ],
-          [
-            -4.499009,
-            54.152753
-          ],
-          [
-            -4.498663,
-            54.152885
-          ],
-          [
-            -4.498531,
-            54.152899
-          ],
-          [
             -4.498219,
             54.152905
           ],
@@ -28647,44 +29093,16 @@
             54.152879
           ],
           [
-            -4.497708,
-            54.152851
-          ],
-          [
             -4.497682,
             54.152847
           ],
           [
-            -4.495924,
-            54.152606
+            -4.495928,
+            54.152609
           ],
           [
-            -4.495393,
-            54.152522
-          ],
-          [
-            -4.495177,
-            54.15246
-          ],
-          [
-            -4.494934,
-            54.152518
-          ],
-          [
-            -4.494836,
-            54.152502
-          ],
-          [
-            -4.494732,
-            54.152443
-          ],
-          [
-            -4.494664,
-            54.152401
-          ],
-          [
-            -4.494631,
-            54.152381
+            -4.49583,
+            54.152597
           ]
         ]
       },
@@ -28695,12 +29113,63 @@
         "name": "Ballakermeen Drive",
         "name:en": "Ballakermeen Drive",
         "name:gv": "Imman Balley Kermeen",
+        "sidewalk:both": "yes",
         "surface": "paved",
         "osm_id": 25988121,
-        "lon": -4.497281350172105,
-        "lat": 54.15260752277689,
+        "lon": -4.497023873435135,
+        "lat": 54.15275690235176,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988121"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988122,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523854,
+            54.151839
+          ],
+          [
+            -4.523853,
+            54.15178
+          ],
+          [
+            -4.523833,
+            54.151498
+          ],
+          [
+            -4.523812,
+            54.151463
+          ],
+          [
+            -4.52377,
+            54.151408
+          ],
+          [
+            -4.523749,
+            54.151391
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "note": "85-98 Ballaquark (source=mapillary)",
+        "postal_code": "IM2 2EW",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25988122,
+        "lon": -4.523830317648984,
+        "lat": 54.15160357024123,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988122"
       }
     },
     {
@@ -30041,6 +30510,78 @@
     },
     {
       "type": "Feature",
+      "id": 25988330,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522659,
+            54.151419
+          ],
+          [
+            -4.522648,
+            54.151387
+          ],
+          [
+            -4.522589,
+            54.151206
+          ],
+          [
+            -4.522565,
+            54.151137
+          ],
+          [
+            -4.522541,
+            54.151083
+          ],
+          [
+            -4.522509,
+            54.151038
+          ],
+          [
+            -4.522467,
+            54.15101
+          ],
+          [
+            -4.522359,
+            54.150942
+          ],
+          [
+            -4.52204,
+            54.150719
+          ],
+          [
+            -4.522009,
+            54.15068
+          ],
+          [
+            -4.521969,
+            54.150536
+          ],
+          [
+            -4.521917,
+            54.150368
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "note": "1-40;109-126 Ballaquark (source=mapillary)",
+        "surface": "paved",
+        "osm_id": 25988330,
+        "lon": -4.522286716018325,
+        "lat": 54.15089269007537,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988330"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988344,
       "geometry": {
         "type": "LineString",
@@ -30812,6 +31353,36 @@
         "lat": 54.315852,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988434"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988436,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.761716,
+            54.083321
+          ],
+          [
+            -4.761373,
+            54.083279
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ballafurt Close",
+        "name:en": "Ballafurt Close",
+        "name:gv": "Close Balley Phurt",
+        "surface": "paved",
+        "osm_id": 25988436,
+        "lon": -4.761544499999999,
+        "lat": 54.083299999999994,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988436"
       }
     },
     {
@@ -33956,12 +34527,12 @@
             54.162262
           ],
           [
-            -4.475835,
-            54.162072
+            -4.475899,
+            54.162056
           ],
           [
-            -4.475526,
-            54.161848
+            -4.475677,
+            54.1618
           ],
           [
             -4.475421,
@@ -33989,8 +34560,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 25988624,
-        "lon": -4.475617673275274,
-        "lat": 54.16215643547335,
+        "lon": -4.475636125998116,
+        "lat": 54.16214371784429,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988624"
       }
@@ -34344,8 +34915,8 @@
             54.310538
           ],
           [
-            -4.544292,
-            54.310392
+            -4.54424,
+            54.310402
           ]
         ]
       },
@@ -34357,8 +34928,8 @@
         "postal_code": "IM7 5AD",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25988694,
-        "lon": -4.543521914928821,
-        "lat": 54.31068488162284,
+        "lon": -4.543497834550543,
+        "lat": 54.31069261382851,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988694"
       }
@@ -35423,6 +35994,37 @@
     },
     {
       "type": "Feature",
+      "id": 25988751,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.525023,
+            54.151557
+          ],
+          [
+            -4.524804,
+            54.151558
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 25988751,
+        "lon": -4.5249135,
+        "lat": 54.151557499999996,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988751"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988758,
       "geometry": {
         "type": "LineString",
@@ -36073,6 +36675,38 @@
         "lat": 54.179341593545054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988907"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25988922,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48794,
+            54.165741
+          ],
+          [
+            -4.4877,
+            54.165408
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Port-E-Chee-Avenue",
+        "name:en": "Port-E-Chee-Avenue",
+        "name:gv": "Astyl Purt y Chee",
+        "note": "84-94 evens",
+        "surface": "paved",
+        "osm_id": 25988922,
+        "lon": -4.48782,
+        "lat": 54.165574500000005,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25988922"
       }
     },
     {
@@ -38974,8 +39608,8 @@
             54.288845
           ],
           [
-            -4.581209,
-            54.289168
+            -4.581219,
+            54.289116
           ]
         ]
       },
@@ -38986,8 +39620,8 @@
         "name:gv": "Faaie Ny Cabbal",
         "surface": "paving_stones",
         "osm_id": 25989268,
-        "lon": -4.581297217716817,
-        "lat": 54.28898550408947,
+        "lon": -4.581302886345873,
+        "lat": 54.288959881765514,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989268"
       }
@@ -40420,8 +41054,8 @@
             54.230038
           ],
           [
-            -4.632312,
-            54.229938
+            -4.632294,
+            54.229959
           ],
           [
             -4.633128,
@@ -40601,8 +41235,8 @@
         "name:gv": "Bayr ny Staarvey",
         "ref": "C25",
         "osm_id": 25989423,
-        "lon": -4.628834858752358,
-        "lat": 54.23150913867959,
+        "lon": -4.628834907035236,
+        "lat": 54.23150920473407,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989423"
       }
@@ -42191,6 +42825,10 @@
             54.15316
           ],
           [
+            -4.481211,
+            54.153106
+          ],
+          [
             -4.480942,
             54.152986
           ],
@@ -42211,8 +42849,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 25989514,
-        "lon": -4.481252953478054,
-        "lat": 54.15310773633685,
+        "lon": -4.481252985953247,
+        "lat": 54.153107663676266,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989514"
       }
@@ -42230,6 +42868,10 @@
           [
             -4.458368,
             54.173665
+          ],
+          [
+            -4.4583,
+            54.173533
           ],
           [
             -4.458204,
@@ -42255,12 +42897,13 @@
         "name:en": "Queens Road",
         "name:gv": "Raad ny Benrein",
         "oneway": "yes",
-        "postal_code": "IM3 4AF;IM3 4AG",
+        "postal_code:left": "IM3 4AG",
+        "postal_code:right": "IM3 4AF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989519,
-        "lon": -4.458369162035658,
-        "lat": 54.173676431005646,
+        "lon": -4.458369278013313,
+        "lat": 54.173676370131915,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989519"
       }
@@ -43072,6 +43715,53 @@
     },
     {
       "type": "Feature",
+      "id": 25989621,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.52305,
+            54.150259
+          ],
+          [
+            -4.52309,
+            54.150388
+          ],
+          [
+            -4.523169,
+            54.150738
+          ],
+          [
+            -4.52264,
+            54.150934
+          ],
+          [
+            -4.52253,
+            54.150987
+          ],
+          [
+            -4.522467,
+            54.15101
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 25989621,
+        "lon": -4.522934040682928,
+        "lat": 54.150722887331206,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25989621"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25989635,
       "geometry": {
         "type": "LineString",
@@ -43468,8 +44158,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.739275,
-            54.070471
+            -4.739263,
+            54.070483
           ],
           [
             -4.738801,
@@ -43499,8 +44189,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 25989719,
-        "lon": -4.738761842892837,
-        "lat": 54.070942408460965,
+        "lon": -4.738755555044968,
+        "lat": 54.07094802634158,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989719"
       }
@@ -43947,35 +44637,43 @@
             54.127612
           ],
           [
-            -4.51461,
-            54.127628
+            -4.514313,
+            54.127599
           ],
           [
-            -4.515113,
-            54.127751
+            -4.514734,
+            54.127658
           ],
           [
-            -4.515713,
-            54.127849
+            -4.51572,
+            54.127861
           ],
           [
-            -4.516062,
-            54.127939
+            -4.516058,
+            54.127955
           ],
           [
-            -4.516355,
-            54.128135
+            -4.516217,
+            54.128013
           ],
           [
-            -4.516536,
-            54.128282
+            -4.516377,
+            54.128097
           ],
           [
-            -4.516746,
+            -4.516597,
+            54.128256
+          ],
+          [
+            -4.516704,
+            54.128351
+          ],
+          [
+            -4.516778,
             54.128389
           ],
           [
-            -4.516927,
+            -4.516956,
             54.128462
           ],
           [
@@ -44086,13 +44784,14 @@
       },
       "properties": {
         "highway": "unclassified",
+        "lit": "no",
         "name": "Marine Drive",
         "name:en": "Marine Drive",
         "name:gv": "Imman ny Marrey",
         "tramway": "abandoned",
         "osm_id": 25989744,
-        "lon": -4.513497315454991,
-        "lat": 54.12810178843581,
+        "lon": -4.513497179342556,
+        "lat": 54.12810051512535,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989744"
       }
@@ -46817,16 +47516,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474646,
-            54.148815
+            -4.474599,
+            54.148832
           ],
           [
-            -4.47471,
-            54.148763
+            -4.474655,
+            54.148784
           ],
           [
-            -4.474729,
-            54.148729
+            -4.474672,
+            54.148771
+          ],
+          [
+            -4.47468,
+            54.148764
+          ],
+          [
+            -4.474689,
+            54.148753
+          ],
+          [
+            -4.474699,
+            54.148741
+          ],
+          [
+            -4.474705,
+            54.148732
           ],
           [
             -4.474742,
@@ -46860,8 +47575,8 @@
         "source": "Isle of Man Government aerial imagery (2001);survey;Bing",
         "surface": "asphalt",
         "osm_id": 29170047,
-        "lon": -4.474735949525196,
-        "lat": 54.14859495409544,
+        "lon": -4.474721201764822,
+        "lat": 54.148607266037196,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/29170047"
       }
@@ -53787,8 +54502,8 @@
             54.160124
           ],
           [
-            -4.485038,
-            54.16082
+            -4.485024,
+            54.160834
           ],
           [
             -4.484866,
@@ -53815,8 +54530,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 54386096,
-        "lon": -4.486061819218817,
-        "lat": 54.15916698124884,
+        "lon": -4.486061694953721,
+        "lat": 54.15916686243353,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/54386096"
       }
@@ -55148,64 +55863,116 @@
             54.227128
           ],
           [
-            -4.698248,
+            -4.698227,
+            54.227238
+          ],
+          [
+            -4.698194,
             54.227236
           ],
           [
-            -4.698214,
-            54.22723
+            -4.69799,
+            54.227365
           ],
           [
-            -4.698016,
-            54.227355
+            -4.698003,
+            54.227382
           ],
           [
-            -4.698029,
-            54.227377
+            -4.698003,
+            54.227406
           ],
           [
-            -4.69802,
-            54.227413
+            -4.697992,
+            54.227421
           ],
           [
-            -4.697976,
-            54.227434
+            -4.697972,
+            54.227432
+          ],
+          [
+            -4.697946,
+            54.227437
           ],
           [
             -4.697916,
             54.227436
           ],
           [
-            -4.697871,
+            -4.697894,
+            54.227432
+          ],
+          [
+            -4.697873,
+            54.227425
+          ],
+          [
+            -4.697857,
             54.227415
           ],
           [
-            -4.697865,
-            54.227387
+            -4.697847,
+            54.227404
           ],
           [
-            -4.697898,
+            -4.697849,
+            54.227393
+          ],
+          [
+            -4.697855,
+            54.227379
+          ],
+          [
+            -4.697864,
+            54.22737
+          ],
+          [
+            -4.697871,
+            54.227365
+          ],
+          [
+            -4.697875,
             54.227362
           ],
           [
-            -4.697951,
-            54.227339
+            -4.697889,
+            54.227356
           ],
           [
-            -4.698024,
-            54.22728
+            -4.697912,
+            54.227347
           ],
           [
-            -4.698099,
-            54.227252
+            -4.697934,
+            54.227331
           ],
           [
-            -4.698163,
-            54.227212
+            -4.697986,
+            54.227291
           ],
           [
-            -4.698207,
-            54.227131
+            -4.698018,
+            54.227279
+          ],
+          [
+            -4.69807,
+            54.227263
+          ],
+          [
+            -4.698096,
+            54.227249
+          ],
+          [
+            -4.698145,
+            54.227221
+          ],
+          [
+            -4.698135,
+            54.22721
+          ],
+          [
+            -4.698192,
+            54.227122
           ],
           [
             -4.698242,
@@ -55295,8 +56062,8 @@
         "wikidata": "Q2660524",
         "wikipedia": "en:Peel Castle",
         "osm_id": 59700905,
-        "lon": -4.698924270828984,
-        "lat": 54.22646384929785,
+        "lon": -4.698918859473256,
+        "lat": 54.22646709720072,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59700905"
       }
@@ -57737,6 +58504,7 @@
         "addr:postcode": "IM9 5RB",
         "addr:street": "Station Road",
         "amenity": "school",
+        "education": "school",
         "name": "Scoill Phurt le Moirrey",
         "name:gv": "Scoill Phurt le Moirrey",
         "website": "https://splm.sch.im",
@@ -61917,108 +62685,6 @@
     },
     {
       "type": "Feature",
-      "id": 82563984,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.480623,
-            54.158437
-          ],
-          [
-            -4.480722,
-            54.158359
-          ],
-          [
-            -4.48105,
-            54.158489
-          ],
-          [
-            -4.48141,
-            54.158623
-          ],
-          [
-            -4.481327,
-            54.158699
-          ],
-          [
-            -4.480951,
-            54.158573
-          ],
-          [
-            -4.480623,
-            54.158437
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:postcode": "IM2 3HR",
-        "addr:street": "Murrays Road",
-        "addr:substreet": "Glen Falcon Terrace",
-        "building": "terrace",
-        "name": "Glen Falcon Terrace",
-        "name:en": "Glen Falcon Terrace",
-        "name:gv": "Stane Glione Shirragh",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 82563984,
-        "lon": -4.481016102191217,
-        "lat": 54.158532229917554,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82563984"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 82563991,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.481471,
-            54.158643
-          ],
-          [
-            -4.481836,
-            54.158752
-          ],
-          [
-            -4.481766,
-            54.158833
-          ],
-          [
-            -4.481401,
-            54.158724
-          ],
-          [
-            -4.481471,
-            54.158643
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:postcode": "IM2 3HR",
-        "addr:street": "Murrays Road",
-        "addr:substreet": "Glen Falcon Terrace",
-        "building": "terrace",
-        "name": "Glen Falcon Terrace",
-        "name:en": "Glen Falcon Terrace",
-        "name:gv": "Stane Glione Shirragh",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 82563991,
-        "lon": -4.481618500000001,
-        "lat": 54.15873800000001,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/82563991"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 82691375,
       "geometry": {
         "type": "LineString",
@@ -62784,8 +63450,8 @@
             54.30972
           ],
           [
-            -4.544862,
-            54.310384
+            -4.544787,
+            54.310238
           ],
           [
             -4.547571,
@@ -62800,28 +63466,68 @@
             54.31378
           ],
           [
+            -4.547163,
+            54.314178
+          ],
+          [
             -4.546917,
             54.314251
+          ],
+          [
+            -4.546136,
+            54.314578
           ],
           [
             -4.54557,
             54.314764
           ],
           [
+            -4.544052,
+            54.315185
+          ],
+          [
             -4.543442,
             54.315327
           ],
           [
-            -4.541741,
-            54.313651
+            -4.543351,
+            54.315316
+          ],
+          [
+            -4.543233,
+            54.315195
+          ],
+          [
+            -4.542298,
+            54.314263
+          ],
+          [
+            -4.542291,
+            54.314256
+          ],
+          [
+            -4.541767,
+            54.313748
+          ],
+          [
+            -4.541708,
+            54.313687
           ],
           [
             -4.540374,
             54.312412
           ],
           [
-            -4.538206,
-            54.310446
+            -4.53932,
+            54.311566
+          ],
+          [
+            -4.538851,
+            54.311093
+          ],
+          [
+            -4.538267,
+            54.310513
           ],
           [
             -4.537085,
@@ -62867,8 +63573,8 @@
         "wikidata": "Q2734562",
         "wikipedia": "en:Ballaugh",
         "osm_id": 83354912,
-        "lon": -4.542126026758552,
-        "lat": 54.31162533014631,
+        "lon": -4.542133339771221,
+        "lat": 54.311632316408605,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/83354912"
       }
@@ -65636,8 +66342,12 @@
             54.283222
           ],
           [
-            -4.593884,
-            54.283586
+            -4.593289,
+            54.283406
+          ],
+          [
+            -4.593659,
+            54.283601
           ],
           [
             -4.594142,
@@ -65664,20 +66374,36 @@
             54.284331
           ],
           [
-            -4.594791,
-            54.284405
+            -4.59469,
+            54.284399
           ],
           [
-            -4.593884,
-            54.284995
+            -4.593599,
+            54.285077
           ],
           [
-            -4.593187,
-            54.285458
+            -4.593687,
+            54.285118
+          ],
+          [
+            -4.593279,
+            54.285339
+          ],
+          [
+            -4.593469,
+            54.285442
+          ],
+          [
+            -4.593256,
+            54.28552
           ],
           [
             -4.594013,
             54.285972
+          ],
+          [
+            -4.593729,
+            54.286116
           ],
           [
             -4.593268,
@@ -65740,6 +66466,14 @@
             54.286195
           ],
           [
+            -4.590454,
+            54.286172
+          ],
+          [
+            -4.589845,
+            54.286571
+          ],
+          [
             -4.589426,
             54.286849
           ],
@@ -65780,20 +66514,12 @@
             54.289116
           ],
           [
-            -4.582699,
-            54.288884
+            -4.582199,
+            54.288761
           ],
           [
-            -4.582345,
-            54.288712
-          ],
-          [
-            -4.581943,
-            54.288587
-          ],
-          [
-            -4.581841,
-            54.288906
+            -4.581992,
+            54.288954
           ],
           [
             -4.581594,
@@ -65824,28 +66550,32 @@
             54.289826
           ],
           [
-            -4.579454,
-            54.289554
+            -4.579818,
+            54.289778
           ],
           [
-            -4.579936,
-            54.289113
+            -4.579326,
+            54.289525
           ],
           [
-            -4.580312,
-            54.288809
+            -4.57989,
+            54.28912
           ],
           [
-            -4.580773,
+            -4.580243,
+            54.288801
+          ],
+          [
+            -4.580689,
             54.288533
           ],
           [
-            -4.580655,
-            54.288471
+            -4.580578,
+            54.288484
           ],
           [
-            -4.58117,
-            54.287998
+            -4.581011,
+            54.288004
           ],
           [
             -4.581556,
@@ -65858,6 +66588,10 @@
           [
             -4.582039,
             54.287603
+          ],
+          [
+            -4.582147,
+            54.287512
           ],
           [
             -4.582426,
@@ -66010,8 +66744,8 @@
         "name:gv": "Balley Keeill Vaayl",
         "place": "village",
         "osm_id": 114185354,
-        "lon": -4.5867580408187,
-        "lat": 54.28416611596143,
+        "lon": -4.586796489830428,
+        "lat": 54.28416934356329,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/114185354"
       }
@@ -67684,12 +68418,12 @@
             54.311203
           ],
           [
-            -4.544281,
-            54.31129
+            -4.544262,
+            54.311302
           ],
           [
-            -4.543779,
-            54.311323
+            -4.543802,
+            54.311341
           ],
           [
             -4.543452,
@@ -67703,8 +68437,8 @@
         "name:gv": "Bayr y Wyllin",
         "service": "alley",
         "osm_id": 145304204,
-        "lon": -4.54476127999889,
-        "lat": 54.31103135669692,
+        "lon": -4.544761530090219,
+        "lat": 54.311035823813235,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/145304204"
       }
@@ -69618,11 +70352,15 @@
             54.160895
           ],
           [
+            -4.48347,
+            54.160809
+          ],
+          [
             -4.483354,
             54.160773
           ],
           [
-            -4.483244,
+            -4.483246,
             54.160737
           ],
           [
@@ -69651,8 +70389,8 @@
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt",
         "osm_id": 149583972,
-        "lon": -4.483348719072081,
-        "lat": 54.1607731528102,
+        "lon": -4.483348747781,
+        "lat": 54.160773055886985,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/149583972"
       }
@@ -71528,12 +72266,24 @@
             54.108618
           ],
           [
-            -4.693709,
-            54.108873
+            -4.693725,
+            54.108696
           ],
           [
-            -4.693752,
-            54.108972
+            -4.693697,
+            54.108798
+          ],
+          [
+            -4.693685,
+            54.108863
+          ],
+          [
+            -4.693703,
+            54.108923
+          ],
+          [
+            -4.693727,
+            54.108973
           ],
           [
             -4.69461,
@@ -71555,8 +72305,8 @@
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
         "surface": "paved",
         "osm_id": 159859334,
-        "lon": -4.688884840800888,
-        "lat": 54.104929004398215,
+        "lon": -4.688889865308787,
+        "lat": 54.10493420452481,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/159859334"
       }
@@ -74006,6 +74756,8 @@
         "maxspeed": "20 mph",
         "name": "Bayr Cam",
         "name:gv": "Bayr Cam",
+        "postal_code": "IM2 2HT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 163036518,
         "lon": -4.521193856654865,
@@ -74322,6 +75074,36 @@
         "lat": 54.138811001904564,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/163139338"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 163443113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.762079,
+            54.082637
+          ],
+          [
+            -4.761981,
+            54.082609
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ballafurt Close",
+        "name:en": "Ballafurt Close",
+        "name:gv": "Close Balley Phurt",
+        "surface": "paved",
+        "osm_id": 163443113,
+        "lon": -4.762029999999999,
+        "lat": 54.082623,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/163443113"
       }
     },
     {
@@ -76828,6 +77610,41 @@
     },
     {
       "type": "Feature",
+      "id": 165339420,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522113,
+            54.151639
+          ],
+          [
+            -4.522017,
+            54.151697
+          ],
+          [
+            -4.521991,
+            54.151734
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 165339420,
+        "lon": -4.522047472471928,
+        "lat": 54.15168164848497,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165339420"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 165339425,
       "geometry": {
         "type": "LineString",
@@ -77023,6 +77840,121 @@
     },
     {
       "type": "Feature",
+      "id": 165339596,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489681,
+            54.162214
+          ],
+          [
+            -4.490004,
+            54.162402
+          ],
+          [
+            -4.490191,
+            54.162531
+          ],
+          [
+            -4.490332,
+            54.16268
+          ],
+          [
+            -4.490455,
+            54.162825
+          ],
+          [
+            -4.490652,
+            54.163065
+          ],
+          [
+            -4.490737,
+            54.163212
+          ],
+          [
+            -4.490763,
+            54.163333
+          ],
+          [
+            -4.490769,
+            54.163471
+          ],
+          [
+            -4.490779,
+            54.163614
+          ],
+          [
+            -4.490732,
+            54.163814
+          ],
+          [
+            -4.490562,
+            54.164105
+          ],
+          [
+            -4.490398,
+            54.164308
+          ],
+          [
+            -4.490064,
+            54.164723
+          ],
+          [
+            -4.489543,
+            54.165296
+          ],
+          [
+            -4.489411,
+            54.165386
+          ],
+          [
+            -4.489298,
+            54.165433
+          ],
+          [
+            -4.488921,
+            54.165518
+          ],
+          [
+            -4.488854,
+            54.165533
+          ],
+          [
+            -4.488628,
+            54.165585
+          ],
+          [
+            -4.48794,
+            54.165741
+          ],
+          [
+            -4.485953,
+            54.166279
+          ],
+          [
+            -4.485465,
+            54.166424
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Port-E-Chee-Avenue",
+        "name:en": "Port-E-Chee-Avenue",
+        "name:gv": "Astyl Purt y Chee",
+        "surface": "paved",
+        "osm_id": 165339596,
+        "lon": -4.48885903903065,
+        "lat": 54.1648200826402,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165339596"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 165339598,
       "geometry": {
         "type": "LineString",
@@ -77156,6 +78088,41 @@
         "lat": 54.164087846333736,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165339600"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 165560610,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523169,
+            54.150738
+          ],
+          [
+            -4.52317,
+            54.150751
+          ],
+          [
+            -4.52318,
+            54.150864
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "surface": "paved",
+        "osm_id": 165560610,
+        "lon": -4.523174433023282,
+        "lat": 54.150801005539414,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/165560610"
       }
     },
     {
@@ -77370,72 +78337,68 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.582724,
-            54.288472
+            -4.582686,
+            54.288493
           ],
           [
-            -4.582775,
-            54.288524
+            -4.582787,
+            54.288598
           ],
           [
-            -4.582815,
-            54.288595
+            -4.582912,
+            54.28865
           ],
           [
-            -4.582924,
-            54.288633
-          ],
-          [
-            -4.583053,
-            54.288665
-          ],
-          [
-            -4.58317,
-            54.288701
-          ],
-          [
-            -4.583323,
+            -4.583045,
             54.288689
           ],
           [
-            -4.583405,
-            54.288675
+            -4.583284,
+            54.288719
           ],
           [
-            -4.583476,
-            54.288634
+            -4.583385,
+            54.288719
           ],
           [
-            -4.583509,
-            54.288596
+            -4.583484,
+            54.288684
           ],
           [
-            -4.583531,
-            54.288551
+            -4.583555,
+            54.288629
           ],
           [
-            -4.583525,
-            54.288506
+            -4.583604,
+            54.288585
+          ],
+          [
+            -4.583605,
+            54.288512
+          ],
+          [
+            -4.58355,
+            54.288475
           ],
           [
             -4.583503,
             54.288458
           ],
           [
-            -4.583394,
-            54.288388
+            -4.583377,
+            54.288402
           ],
           [
-            -4.583323,
-            54.288318
+            -4.583221,
+            54.288309
           ],
           [
-            -4.583226,
-            54.288288
+            -4.583212,
+            54.288305
           ],
           [
-            -4.583182,
-            54.288269
+            -4.583119,
+            54.28826
           ]
         ]
       },
@@ -77446,8 +78409,8 @@
         "name:gv": "Faaie Ny Cabbal",
         "surface": "paving_stones",
         "osm_id": 165792248,
-        "lon": -4.583210946662131,
-        "lat": 54.288550923589796,
+        "lon": -4.583234185985326,
+        "lat": 54.288561791662346,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165792248"
       }
@@ -77459,12 +78422,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.582697,
-            54.288444
+            -4.582649,
+            54.288454
           ],
           [
-            -4.582724,
-            54.288472
+            -4.582686,
+            54.288493
           ]
         ]
       },
@@ -77474,38 +78437,10 @@
         "name": "Faaie Ny Cabbal",
         "name:gv": "Faaie Ny Cabbal",
         "osm_id": 165792249,
-        "lon": -4.582710499999999,
-        "lat": 54.288458,
+        "lon": -4.5826674999999994,
+        "lat": 54.2884735,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165792249"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 165792250,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.583182,
-            54.288269
-          ],
-          [
-            -4.583138,
-            54.288249
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Faaie Ny Cabbal",
-        "name:gv": "Faaie Ny Cabbal",
-        "osm_id": 165792250,
-        "lon": -4.5831599999999995,
-        "lat": 54.288259,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/165792250"
       }
     },
     {
@@ -78218,12 +79153,24 @@
             54.183613
           ],
           [
+            -4.67887,
+            54.18331
+          ],
+          [
             -4.678803,
             54.1832
           ],
           [
+            -4.67865,
+            54.182982
+          ],
+          [
             -4.678515,
             54.182789
+          ],
+          [
+            -4.678247,
+            54.182348
           ],
           [
             -4.67824,
@@ -78431,8 +79378,8 @@
         "name:gv": "Bayr Mullagh Vane",
         "ref": "D47",
         "osm_id": 165795032,
-        "lon": -4.683126191859677,
-        "lat": 54.180815702599716,
+        "lon": -4.6831261925439716,
+        "lat": 54.18081570217818,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165795032"
       }
@@ -87850,8 +88797,12 @@
             54.177713
           ],
           [
-            -4.474241,
-            54.177495
+            -4.47423,
+            54.1775
+          ],
+          [
+            -4.474081,
+            54.177419
           ],
           [
             -4.473971,
@@ -87924,8 +88875,8 @@
         "name:gv": "Astyl Hailwood",
         "surface": "paved",
         "osm_id": 267426971,
-        "lon": -4.4734356215920315,
-        "lat": 54.177557420188975,
+        "lon": -4.473435115328303,
+        "lat": 54.17755809266689,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/267426971"
       }
@@ -106365,8 +107316,8 @@
             54.205356
           ],
           [
-            -4.684486,
-            54.205447
+            -4.684405,
+            54.205632
           ],
           [
             -4.684357,
@@ -106381,20 +107332,16 @@
             54.205252
           ],
           [
-            -4.683134,
-            54.204957
+            -4.683174,
+            54.204862
           ],
           [
-            -4.684142,
-            54.204549
+            -4.684306,
+            54.204461
           ],
           [
-            -4.684443,
-            54.204562
-          ],
-          [
-            -4.68499,
-            54.204637
+            -4.685046,
+            54.204551
           ],
           [
             -4.684999,
@@ -106411,8 +107358,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Milk Production Holding Register",
         "osm_id": 890790036,
-        "lon": -4.683967834602745,
-        "lat": 54.205144737537466,
+        "lon": -4.683988596730294,
+        "lat": 54.20510513674541,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/890790036"
       }
@@ -116859,6 +117806,46 @@
     },
     {
       "type": "Feature",
+      "id": 1201993612,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.424647,
+            54.221852
+          ],
+          [
+            -4.424567,
+            54.221899
+          ],
+          [
+            -4.42452,
+            54.221871
+          ],
+          [
+            -4.4246,
+            54.221824
+          ],
+          [
+            -4.424647,
+            54.221852
+          ]
+        ]
+      },
+      "properties": {
+        "historic": "ruins",
+        "name": "Thalloovoolagh",
+        "name:gv": "Thalloovoolagh",
+        "source:name": "OS 6 inch 1870 map",
+        "osm_id": 1201993612,
+        "lon": -4.4245835,
+        "lat": 54.22186149999999,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1201993612"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1203489059,
       "geometry": {
         "type": "LineString",
@@ -121981,12 +122968,12 @@
             54.173002
           ],
           [
-            -4.474673,
-            54.173278
+            -4.474659,
+            54.17335
           ],
           [
-            -4.474638,
-            54.173428
+            -4.474645,
+            54.173424
           ]
         ]
       },
@@ -121998,10 +122985,390 @@
         "name:gv": "Cronk Drean",
         "surface": "paved",
         "osm_id": 1453130990,
-        "lon": -4.474769263362316,
-        "lat": 54.17311095388947,
+        "lon": -4.474776081296866,
+        "lat": 54.17311018977411,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1453130990"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1459793612,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524133,
+            54.150299
+          ],
+          [
+            -4.524139,
+            54.150371
+          ],
+          [
+            -4.524235,
+            54.150687
+          ],
+          [
+            -4.524333,
+            54.151006
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Balllaquark",
+        "name:en": "Balllaquark",
+        "name:gv": "Balley Quark",
+        "note": "49-63 Ballaquark (source=mapillary)",
+        "postal_code:left": "IM2 2ER",
+        "postal_code:right": "IM2 2ES",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1459793612,
+        "lon": -4.524225963038918,
+        "lat": 54.15065387742905,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1459793612"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1460950766,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.701295,
+            54.180443
+          ],
+          [
+            -4.70122,
+            54.180366
+          ],
+          [
+            -4.700996,
+            54.180282
+          ],
+          [
+            -4.700668,
+            54.180236
+          ]
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Sound Road",
+        "name:en": "Sound Road",
+        "name:gv": "Bayr Y Cheyllys",
+        "note": "Questionable etymology for Manx translation",
+        "postal_code": "IM5 3BJ",
+        "source:name:gv": "street sign;visible on streetside",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1460950766,
+        "lon": -4.7009968615690765,
+        "lat": 54.18030500732096,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1460950766"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466053427,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.481801,
+            54.158872
+          ],
+          [
+            -4.481346,
+            54.158735
+          ],
+          [
+            -4.481057,
+            54.158642
+          ],
+          [
+            -4.480887,
+            54.158583
+          ],
+          [
+            -4.48068,
+            54.158506
+          ],
+          [
+            -4.480571,
+            54.158461
+          ]
+        ]
+      },
+      "properties": {
+        "footway": "sidewalk",
+        "highway": "footway",
+        "name": "Glen Falcon Terrace",
+        "name:en": "Glen Falcon Terrace",
+        "name:gv": "Stane Glione Shirragh",
+        "osm_id": 1466053427,
+        "lon": -4.481182406241894,
+        "lat": 54.15867693287342,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1466053427"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466245714,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49909,
+            54.151851
+          ],
+          [
+            -4.498947,
+            54.151887
+          ],
+          [
+            -4.4989,
+            54.151898
+          ],
+          [
+            -4.498852,
+            54.151921
+          ],
+          [
+            -4.498819,
+            54.151957
+          ],
+          [
+            -4.498827,
+            54.152004
+          ],
+          [
+            -4.498891,
+            54.152073
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballakermeen Drive",
+        "name:en": "Ballakermeen Drive",
+        "name:gv": "Imman Balley Kermeen",
+        "sidewalk:both": "separate",
+        "surface": "paved",
+        "osm_id": 1466245714,
+        "lon": -4.498915131591609,
+        "lat": 54.151932643068704,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1466245714"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466245716,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498891,
+            54.152073
+          ],
+          [
+            -4.499008,
+            54.152198
+          ],
+          [
+            -4.499079,
+            54.152289
+          ],
+          [
+            -4.499136,
+            54.152394
+          ],
+          [
+            -4.499156,
+            54.152475
+          ],
+          [
+            -4.499143,
+            54.152563
+          ],
+          [
+            -4.499107,
+            54.15263
+          ],
+          [
+            -4.499066,
+            54.152692
+          ],
+          [
+            -4.499009,
+            54.152753
+          ],
+          [
+            -4.498937,
+            54.152797
+          ],
+          [
+            -4.498858,
+            54.152833
+          ],
+          [
+            -4.498767,
+            54.152859
+          ],
+          [
+            -4.498663,
+            54.152885
+          ],
+          [
+            -4.498531,
+            54.152899
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballakermeen Drive",
+        "name:en": "Ballakermeen Drive",
+        "name:gv": "Imman Balley Kermeen",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 1466245716,
+        "lon": -4.49895508623378,
+        "lat": 54.15257462652705,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1466245716"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466245717,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498531,
+            54.152899
+          ],
+          [
+            -4.498219,
+            54.152905
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballakermeen Drive",
+        "name:en": "Ballakermeen Drive",
+        "name:gv": "Imman Balley Kermeen",
+        "sidewalk:left": "yes",
+        "surface": "paved",
+        "osm_id": 1466245717,
+        "lon": -4.498374999999999,
+        "lat": 54.152902,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1466245717"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466245724,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49583,
+            54.152597
+          ],
+          [
+            -4.495711,
+            54.152581
+          ],
+          [
+            -4.495393,
+            54.152524
+          ],
+          [
+            -4.495275,
+            54.152496
+          ],
+          [
+            -4.49523,
+            54.152472
+          ],
+          [
+            -4.495177,
+            54.152455
+          ],
+          [
+            -4.495111,
+            54.15246
+          ],
+          [
+            -4.495046,
+            54.152482
+          ],
+          [
+            -4.494931,
+            54.152516
+          ],
+          [
+            -4.494883,
+            54.152515
+          ],
+          [
+            -4.494836,
+            54.152502
+          ],
+          [
+            -4.494732,
+            54.152443
+          ],
+          [
+            -4.494668,
+            54.152404
+          ],
+          [
+            -4.494654,
+            54.152395
+          ],
+          [
+            -4.494631,
+            54.152381
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ballakermeen Drive",
+        "name:en": "Ballakermeen Drive",
+        "name:gv": "Imman Balley Kermeen",
+        "sidewalk:left": "no",
+        "sidewalk:right": "separate",
+        "surface": "paved",
+        "osm_id": 1466245724,
+        "lon": -4.495217505392756,
+        "lat": 54.15250677282451,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1466245724"
       }
     }
   ]

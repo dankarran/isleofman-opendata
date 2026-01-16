@@ -1600,6 +1600,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Falcon Cliff",
+        "addr:postcode": "IM2 4LB",
         "addr:street": "Palace Road",
         "architect": "John Robinson",
         "building": "office",
@@ -15718,10 +15719,12 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "19",
+        "addr:postcode": "IM3 1AY",
         "addr:street": "Governor's Road",
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "125",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "url:registered_building": "https://www.gov.im/media/632741/0500125regbld19governorsroad.pdf",
         "wikidata": "Q118188784"
       }
@@ -16169,11 +16172,11 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483951,
+            -4.483952,
             54.157431
           ],
           [
-            -4.483668,
+            -4.483669,
             54.157485
           ],
           [
@@ -16209,7 +16212,7 @@
             54.157375
           ],
           [
-            -4.483951,
+            -4.483952,
             54.157431
           ]
         ]
@@ -18782,10 +18785,12 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "21",
+        "addr:postcode": "IM3 1AY",
         "addr:street": "Governor's Road",
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "126",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "url:registered_building": "https://www.gov.im/media/632747/0500126regbld21governorsroad.pdf",
         "wikidata": "Q118188785"
       }
@@ -18898,7 +18903,7 @@
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "129",
-        "url:registered_building": "https://www.gov.im/media/632765/0500129regbld27governorsroad.pdf",
+        "url:registered_building": "https://pabc.gov.im/media/vh1f22vg/0500129regbld27governorsroad.pdf",
         "wikidata": "Q118188788"
       }
     },

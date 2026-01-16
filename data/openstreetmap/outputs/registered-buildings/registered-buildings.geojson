@@ -1805,6 +1805,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Falcon Cliff",
+        "addr:postcode": "IM2 4LB",
         "addr:street": "Palace Road",
         "architect": "John Robinson",
         "building": "office",
@@ -17013,10 +17014,12 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "19",
+        "addr:postcode": "IM3 1AY",
         "addr:street": "Governor's Road",
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "125",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "url:registered_building": "https://www.gov.im/media/632741/0500125regbld19governorsroad.pdf",
         "wikidata": "Q118188784",
         "osm_id": 981865449,
@@ -17509,11 +17512,11 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.483951,
+            -4.483952,
             54.157431
           ],
           [
-            -4.483668,
+            -4.483669,
             54.157485
           ],
           [
@@ -17549,7 +17552,7 @@
             54.157375
           ],
           [
-            -4.483951,
+            -4.483952,
             54.157431
           ]
         ]
@@ -17567,8 +17570,8 @@
         "url:registered_building": "https://www.gov.im/media/632489/0500244regbldredcrosshouse.pdf",
         "wikidata": "Q118188693",
         "osm_id": 1128011684,
-        "lon": -4.483759259183388,
-        "lat": 54.15738339395119,
+        "lon": -4.483759640999842,
+        "lat": 54.15738343858851,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1128011684"
       }
@@ -20342,10 +20345,12 @@
         "addr:city": "Onchan",
         "addr:country": "IM",
         "addr:housenumber": "21",
+        "addr:postcode": "IM3 1AY",
         "addr:street": "Governor's Road",
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "126",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "url:registered_building": "https://www.gov.im/media/632747/0500126regbld21governorsroad.pdf",
         "wikidata": "Q118188785",
         "osm_id": 1151992895,
@@ -20468,7 +20473,7 @@
         "building": "house",
         "listed_status": "Registered",
         "ref:registered_building": "129",
-        "url:registered_building": "https://www.gov.im/media/632765/0500129regbld27governorsroad.pdf",
+        "url:registered_building": "https://pabc.gov.im/media/vh1f22vg/0500129regbld27governorsroad.pdf",
         "wikidata": "Q118188788",
         "osm_id": 1151992897,
         "lon": -4.459309724798912,

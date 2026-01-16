@@ -2677,6 +2677,68 @@
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1453329378"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1466583718,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480514,
+            54.15593
+          ],
+          [
+            -4.480362,
+            54.155921
+          ],
+          [
+            -4.480289,
+            54.155916
+          ],
+          [
+            -4.480256,
+            54.155914
+          ],
+          [
+            -4.480048,
+            54.155901
+          ],
+          [
+            -4.480078,
+            54.155736
+          ],
+          [
+            -4.480284,
+            54.155749
+          ],
+          [
+            -4.480482,
+            54.155762
+          ],
+          [
+            -4.480544,
+            54.155766
+          ],
+          [
+            -4.480514,
+            54.15593
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "28-30",
+        "addr:street": "Derby Square",
+        "landuse": "construction",
+        "name": "28-30 Derby Square",
+        "source:addr:housenumber": "mapillary",
+        "osm_id": 1466583718,
+        "lon": -4.480295819992171,
+        "lat": 54.15583323813599,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1466583718"
+      }
     }
   ]
 }

@@ -1405,10 +1405,12 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "name": "Park Road",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
         "ref": "142",
-        "royal_cypher": "ER"
+        "royal_cypher": "EIIR"
       }
     },
     {
@@ -2548,6 +2550,7 @@
       },
       "properties": {
         "amenity": "post_box",
+        "fixme": "Should be upgraded if Royal Cypher, and Cypher listing corrected (ER not a valid Cypher and either EIIR (most likely), EVIR, or EVIIIR). Requires local inspection to determine.",
         "mapillary": "4725303060824711",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
@@ -2739,7 +2742,9 @@
       },
       "properties": {
         "amenity": "post_box",
-        "royal_cypher": "ER",
+        "operator": "Royal Mail",
+        "operator:wikidata": "Q638098",
+        "royal_cypher": "EIIR",
         "source": "survey;mapillary"
       }
     },
