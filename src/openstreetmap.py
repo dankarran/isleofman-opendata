@@ -8,6 +8,7 @@ from shapely import get_x, get_y
 import overpass
 import csv
 import json
+from src.helpers import log, prompt
 
 """
 OpenStreetMap data processing
@@ -20,30 +21,29 @@ github_project = "dankarran/isleofman-opendata"
 im_postcode_regex = '^IM[0-9] [0-9][A-Z]{2}$'
 
 
-def openstreetmap():
-    print("# OpenStreetMap")
+def openstreetmap(interactive=True):
+    log("# OpenStreetMap")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
-    data = load_data(sources)
+    data = load_data(sources, interactive)
     data = process_data(sources, data)
     write_data(sources, data)
 
-    generate_postcode_boundaries(sources, data)
 
-    print_datasets_markdown(sources)
-
-
-def load_data(sources):
-    print(" - Loading data")
+def load_data(sources, interactive=True):
+    log(" - Loading data")
 
     data = {
         "overpass": {}
     }
 
-    update_text = input("Download updated OpenStreetMap data? (y/N) ")
-    if update_text == "y":
+    if interactive:
+        update_text = prompt("Download updated OpenStreetMap data? (y/N) ")
+        if update_text == "y":
+            update_files(sources)
+    else:
         update_files(sources)
 
     for source in sources["overpass"]:
@@ -55,7 +55,7 @@ def load_data(sources):
                 }
 
         else:
-            print("    ", "WARN:", source["label"], "GeoJSON not found")
+            log("    ", "WARN:", source["label"], "GeoJSON not found")
 
     return data
 
@@ -68,16 +68,16 @@ def update_files(sources):
             response_format = "geojson"
             if "response_format" in source:
                 response_format = source["response_format"]
-            print("    ", "Downloading", source["label"], "in", response_format, "format")
+            log("    ", "Downloading", source["label"], "in", response_format, "format")
             data = get_overpass(source["query"], response_format=response_format)
             open(data_dir + "sources/overpass/" + source["label"] + ".geojson", "w").write(json.dumps(data, indent=2))
 
         except Exception as error:
-            print("    ", "ERROR:", error)
+            log("    ", "ERROR:", error)
 
 
 def get_overpass(query, response_format="geojson", verbosity="geom"):
-    print("    ", "Querying Overpass API for", query, "in", response_format, "format with verbosity", verbosity)
+    log("    ", "Querying Overpass API for", query, "in", response_format, "format with verbosity", verbosity)
     api = overpass.API()
     result = api.get(
         query,
@@ -89,11 +89,11 @@ def get_overpass(query, response_format="geojson", verbosity="geom"):
 
 
 def process_data(sources, data):
-    print(" - Processing OpenStreetMap data")
+    log(" - Processing OpenStreetMap data")
 
     for source in sources["overpass"]:
         if source["label"] in data["overpass"]:
-            print("    ", "Processing", source["label"])
+            log("    ", "Processing", source["label"])
 
             rows = []
             features = data["overpass"][source["label"]]["geojson"]["features"]
@@ -128,11 +128,11 @@ def process_data(sources, data):
 
 
 def write_data(sources, data):
-    print(" - Writing OpenStreetMap data")
+    log(" - Writing OpenStreetMap data")
 
     for source in sources["overpass"]:
         if source["label"] in data["overpass"]:
-            print("    ", "Writing", source["label"])
+            log("    ", "Writing", source["label"])
             filepath_base = data_dir + "outputs/" + source["label"] + "/"
 
             if not os.path.isdir(filepath_base):
@@ -157,10 +157,10 @@ def write_data(sources, data):
 
                     for csv_column in source["csv_columns"]:
                         if csv_column not in df.columns:
-                            print("      ", "Removing", csv_column, "not in dataset")
+                            log("      ", "Removing", csv_column, "not in dataset")
                             csv_columns.remove(csv_column)
 
-                    print("      ", "Writing columns", csv_columns)
+                    log("      ", "Writing columns", csv_columns)
                     df_out = df[csv_columns]
 
                 # sort data in columns
@@ -170,9 +170,16 @@ def write_data(sources, data):
                 df_out.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
 
 
-def generate_postcode_boundaries(sources, data):
-    update_text = input("Regenerate postcode boundaries from OpenStreetMap data? (y/N) ")
-    if update_text != "y":
+def generate_postcode_boundaries(interactive=True):
+    run_update = False
+    if interactive:
+        update_text = prompt("Regenerate postcode boundaries from OpenStreetMap data? (y/N) ")
+        if update_text == "y":
+            run_update = True
+    else:
+        run_update = True
+
+    if not run_update:
         return
 
     gdf = None
@@ -192,7 +199,7 @@ def generate_postcode_boundaries(sources, data):
         gdf = postcodes_gdf
 
     else:
-        print("    ", "No postcodes.geojson found")
+        log("    ", "No postcodes.geojson found")
         return
 
     # postal_code entries (used in more general areas)
@@ -210,7 +217,7 @@ def generate_postcode_boundaries(sources, data):
         gdf = pd.concat([gdf, postcodes_gdf], ignore_index=True)
 
     else:
-        print("    ", "No postal_codes.geojson found")
+        log("    ", "No postal_codes.geojson found")
 
     # exclude non-geographic postcodes from corrections directory
     non_geographic = pd.read_csv(data_dir + "sources/corrections/non-geographic-postcodes.csv")
@@ -230,13 +237,23 @@ def generate_postcode_boundaries(sources, data):
         dataset_filepath = data_dir + "outputs/postcodes/postcode_" + plural + ".geojson"
         convex_hull.to_file(dataset_filepath, driver="GeoJSON")
 
-        print("    ", len(convex_hull), plural, "added")
+        log("    ", len(convex_hull), plural, "added")
 
 
-def print_datasets_markdown(sources):
-    update_text = input("Regenerate markdown links to OpenStreetMap datasets? (y/N) ")
-    if update_text != "y":
+def print_datasets_markdown(interactive=True):
+    run_update = False
+    if interactive:
+        update_text = prompt("Regenerate markdown links to OpenStreetMap datasets? (y/N) ")
+        if update_text == "y":
+            run_update = True
+    else:
+        run_update = True
+
+    if not run_update:
         return
+
+    with open(data_dir + "sources/sources.json") as fp:
+        sources = json.load(fp)
 
     github_outputs_dir = "/blob/main/" + data_dir + "outputs/"
 
