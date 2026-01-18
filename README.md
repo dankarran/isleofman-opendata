@@ -53,16 +53,29 @@ To run specific updates without interactive prompts, you can use command-line ar
 
 **Granular task updates:**
 
-*   `--companies-unindexed`: Run only the unindexed company number search.
-*   `--update-weekly-planning`: Run only the weekly planning application list update.
-*   `--update-annual-planning`: Run only the annual planning application list update.
-*   `--generate-postcode-boundaries`: Run only the postcode boundary generation from OpenStreetMap data.
-*   `--openstreetmap-markdown`: Run only the OpenStreetMap markdown generation.
+* Companies
+  * `--companies-unindexed`: Run only the unindexed company number search.
+  * `--companies-details-live`: Run the company details lookup for live companies.
+  * `--companies-details-non-live`: Run the company details lookup for non-live companies.
+  * `--companies-details-new`: Run the company details lookup for new companies not previously fetched.
+* Planning
+  * `--update-weekly-planning`: Run only the weekly planning application list update.
+  * `--update-annual-planning`: Run only the annual planning application list update.
+* OpenStreetMap
+  * `--generate-postcode-boundaries`: Run only the postcode boundary generation from OpenStreetMap data.
+  * `--openstreetmap-markdown`: Run only the OpenStreetMap markdown generation.
+
+**Configuration:**
+
+* Companies
+  * `--companies-details-min-sleep`: Minimum sleep time (default 1s)
+  * `--companies-details-max-sleep`: Minimum sleep time (default 3s)
+  * `--companies-details-force`: Force re-checking details for companies already fetched
 
 You can combine multiple arguments. For example, to run a weekly/monthly update:
 
 ```bash
-python update.py --companies --companies-unindexed --land-transactions --openstreetmap --generate-postcode-boundaries
+python update.py --companies -companies-details-new --companies-unindexed --land-transactions --openstreetmap --generate-postcode-boundaries
 ```
 
 ## Other resources
