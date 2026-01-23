@@ -389,21 +389,21 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.477011,
-          54.157823
+          -4.47697,
+          54.157831
         ]
       },
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LS",
         "addr:street": "Central Promenade",
         "addr:substreet": "Clarence Terrace",
         "amenity": "restaurant",
         "cuisine": "indian",
-        "name": "Taste of India",
-        "postal_code": "IM2 4LS",
-        "website": "http://www.tasteofindiaiom.com"
+        "name": "Taste of Bengal",
+        "website": "https://thetasteofbengal.co.uk"
       }
     },
     {
@@ -532,8 +532,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484865,
-          54.155503
+          -4.484826,
+          54.155494
         ]
       },
       "properties": {
@@ -557,8 +557,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484702,
-          54.155171
+          -4.484667,
+          54.155155
         ]
       },
       "properties": {
@@ -580,8 +580,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484676,
-          54.155114
+          -4.48464,
+          54.1551
         ]
       },
       "properties": {
@@ -607,8 +607,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.484893,
-          54.155558
+          -4.48485,
+          54.155548
         ]
       },
       "properties": {
@@ -951,11 +951,15 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.477112,
-          54.157823
+          -4.476992,
+          54.157803
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2a",
+        "addr:postcode": "IM2 4EA",
+        "addr:street": "Castle Mona Avenue",
         "amenity": "fast_food",
         "currency:XBT": "yes",
         "delivery": "yes",
@@ -964,29 +968,8 @@
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
         "phone": "+441624671995",
-        "survey:date": "2022-09-23",
-        "website": "https://www.marmarisiom.com/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 943742958,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.477328,
-          54.158006
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "4-6",
-        "addr:street": "Castle Mona Avenue",
-        "amenity": "cafe",
-        "cuisine": "fish_and_chips",
-        "name": "The Boathouse",
-        "source": "photo;deduction"
+        "source:addr": "Isle of Man Government Companies Registry",
+        "survey:date": "2022-09-23"
       }
     },
     {
@@ -995,14 +978,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.477177,
-          54.157842
+          -4.477183,
+          54.157859
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2a",
+        "addr:postcode": "IM2 4EA",
+        "addr:street": "Castle Mona Avenue",
         "amenity": "fast_food",
         "cuisine": "pizza",
-        "name": "Pizza Pizza"
+        "name": "Pizza Pizza",
+        "source:addr": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -1191,27 +1179,6 @@
       "properties": {
         "amenity": "cafe",
         "wheelchair": "yes"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 2737881166,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.522235,
-          54.168719
-        ]
-      },
-      "properties": {
-        "addr:city": "Union Mills",
-        "addr:country": "IM",
-        "addr:street": "Union Mills Main Road",
-        "amenity": "pub",
-        "contact:facebook": "https://www.facebook.com/people/The-Railway-Inn-Union-Mills/100057362961639/",
-        "name": "Railway Inn",
-        "source": "visit",
-        "wikimedia_commons": "File:Railway Inn - Union Mills - Isle of Man - kingsley - 21-APR-09.jpg"
       }
     },
     {
@@ -4248,36 +4215,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484639,
-            54.154958
+            -4.484613,
+            54.154951
           ],
           [
-            -4.484378,
-            54.154995
+            -4.484452,
+            54.154978
           ],
           [
-            -4.484359,
-            54.154947
+            -4.484405,
+            54.154871
           ],
           [
-            -4.484443,
-            54.154932
+            -4.484563,
+            54.154847
           ],
           [
-            -4.484419,
-            54.154873
-          ],
-          [
-            -4.484448,
-            54.154868
-          ],
-          [
-            -4.48459,
-            54.154845
-          ],
-          [
-            -4.484639,
-            54.154958
+            -4.484613,
+            54.154951
           ]
         ]
       },
@@ -6593,6 +6548,47 @@
     },
     {
       "type": "Feature",
+      "id": 101812284,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.739963,
+            54.077566
+          ],
+          [
+            -4.739875,
+            54.077493
+          ],
+          [
+            -4.739615,
+            54.077598
+          ],
+          [
+            -4.739703,
+            54.077675
+          ],
+          [
+            -4.739963,
+            54.077566
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Port Saint Mary",
+        "addr:country": "IM",
+        "addr:housenumber": "1-2",
+        "addr:postcode": "IM9 5AH",
+        "addr:street": "Bay View Road",
+        "amenity": "restaurant",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/therasoiom/",
+        "cuisine": "indian",
+        "name": "Rasoi"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 101812295,
       "geometry": {
         "type": "LineString",
@@ -6638,57 +6634,6 @@
         "name": "Corner House Coffee",
         "outdoor_seating": "yes",
         "source:addr": "Isle of Man Companies Registry"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 101812309,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.739369,
-            54.077391
-          ],
-          [
-            -4.739291,
-            54.077323
-          ],
-          [
-            -4.739627,
-            54.077187
-          ],
-          [
-            -4.73966,
-            54.077218
-          ],
-          [
-            -4.739619,
-            54.077235
-          ],
-          [
-            -4.73964,
-            54.077252
-          ],
-          [
-            -4.739599,
-            54.07727
-          ],
-          [
-            -4.739618,
-            54.077285
-          ],
-          [
-            -4.739369,
-            54.077391
-          ]
-        ]
-      },
-      "properties": {
-        "amenity": "cafe",
-        "building": "yes",
-        "name": "Roots at the Bay",
-        "outdoor_seating": "no"
       }
     },
     {
@@ -12111,7 +12056,8 @@
         "dog": "no",
         "name": "The Conister Arms",
         "old_name": "1886 Bar & Grill",
-        "website": "https://www.jdwetherspoon.com/pubs/the-conister-arms-douglas/"
+        "website": "https://www.jdwetherspoon.com/pubs/the-conister-arms-douglas/",
+        "website:menu": "https://order.jdwetherspoon.com/venue/jdw/7923/menus"
       }
     },
     {
@@ -15537,6 +15483,70 @@
         "name": "Magic Wok",
         "opening_hours": "Mo-Fr 12:00-14:00, 17:00-23:00; Sa-Su 17:00-23:00",
         "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1469451339,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522306,
+            54.168781
+          ],
+          [
+            -4.522161,
+            54.168741
+          ],
+          [
+            -4.522168,
+            54.168732
+          ],
+          [
+            -4.522111,
+            54.168717
+          ],
+          [
+            -4.522165,
+            54.168649
+          ],
+          [
+            -4.522266,
+            54.168676
+          ],
+          [
+            -4.522283,
+            54.168656
+          ],
+          [
+            -4.522335,
+            54.168671
+          ],
+          [
+            -4.522317,
+            54.168693
+          ],
+          [
+            -4.522366,
+            54.168706
+          ],
+          [
+            -4.522306,
+            54.168781
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Union Mills",
+        "addr:country": "IM",
+        "addr:street": "Union Mills Main Road",
+        "amenity": "pub",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/people/The-Railway-Inn-Union-Mills/100057362961639/",
+        "name": "Railway Inn",
+        "source": "visit",
+        "wikimedia_commons": "File:Railway Inn - Union Mills - Isle of Man - kingsley - 21-APR-09.jpg"
       }
     }
   ]

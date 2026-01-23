@@ -1425,6 +1425,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Falcon Cliff",
+        "addr:postcode": "IM2 4LB",
         "addr:street": "Palace Road",
         "architect": "John Robinson",
         "building": "office",
@@ -4402,11 +4403,11 @@
             54.152796
           ],
           [
-            -4.481946,
+            -4.481945,
             54.152796
           ],
           [
-            -4.481945,
+            -4.481946,
             54.152704
           ],
           [
@@ -5374,8 +5375,16 @@
             54.149545
           ],
           [
-            -4.484787,
-            54.149476
+            -4.484964,
+            54.149507
+          ],
+          [
+            -4.484877,
+            54.149437
+          ],
+          [
+            -4.484681,
+            54.149523
           ],
           [
             -4.484663,
@@ -7473,10 +7482,12 @@
         "addr:country": "IM",
         "addr:housename": "Hamblin House",
         "addr:housenumber": "5",
+        "addr:postcode": "IM1 1EA",
         "addr:street": "Upper Church Street",
         "building": "yes",
         "name": "Hamblin",
-        "office": "employment_agency"
+        "office": "employment_agency",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {

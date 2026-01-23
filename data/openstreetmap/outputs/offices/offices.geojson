@@ -1745,6 +1745,7 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Falcon Cliff",
+        "addr:postcode": "IM2 4LB",
         "addr:street": "Palace Road",
         "architect": "John Robinson",
         "building": "office",
@@ -4967,11 +4968,11 @@
             54.152796
           ],
           [
-            -4.481946,
+            -4.481945,
             54.152796
           ],
           [
-            -4.481945,
+            -4.481946,
             54.152704
           ],
           [
@@ -5012,8 +5013,8 @@
         "source": "mapillary",
         "website": "https://www.mcgarrigle-architects.com",
         "osm_id": 152690553,
-        "lon": -4.481871728681478,
-        "lat": 54.15272302100485,
+        "lon": -4.481871638616859,
+        "lat": 54.15272290192838,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/152690553"
       }
@@ -6034,8 +6035,16 @@
             54.149545
           ],
           [
-            -4.484787,
-            54.149476
+            -4.484964,
+            54.149507
+          ],
+          [
+            -4.484877,
+            54.149437
+          ],
+          [
+            -4.484681,
+            54.149523
           ],
           [
             -4.484663,
@@ -6053,8 +6062,8 @@
         "name": "Shimmin Wilson & Co",
         "office": "accountant",
         "osm_id": 385725703,
-        "lon": -4.484795910860733,
-        "lat": 54.149558362897935,
+        "lon": -4.484826711876676,
+        "lat": 54.14953741838255,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/385725703"
       }
@@ -8333,10 +8342,12 @@
         "addr:country": "IM",
         "addr:housename": "Hamblin House",
         "addr:housenumber": "5",
+        "addr:postcode": "IM1 1EA",
         "addr:street": "Upper Church Street",
         "building": "yes",
         "name": "Hamblin",
         "office": "employment_agency",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 1139492316,
         "lon": -4.483880046983175,
         "lat": 54.149957056663354,

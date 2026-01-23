@@ -60,7 +60,9 @@
       },
       "properties": {
         "name": "Dub Cottage",
-        "tourism": "attraction"
+        "tourism": "attraction",
+        "wikidata": "Q5310463",
+        "wikipedia": "en:List of named corners of the Snaefell Mountain Course"
       }
     },
     {
@@ -459,8 +461,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.479984,
-          54.160713
+          -4.480022,
+          54.160797
         ]
       },
       "properties": {
@@ -471,8 +473,7 @@
         "internet_access:fee": "no",
         "name": "Wicklow Hills",
         "postal_code": "IM2 4HP",
-        "tourism": "guest_house",
-        "website": "https://www.wicklowhills.com/"
+        "tourism": "guest_house"
       }
     },
     {
@@ -1179,29 +1180,6 @@
     },
     {
       "type": "Feature",
-      "id": 502490905,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.479197,
-          54.16027
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "39",
-        "addr:postcode": "IM2 4HW",
-        "addr:street": "Hutchinson Square",
-        "internet_access": "wlan",
-        "internet_access:fee": "no",
-        "name": "Arrandale House",
-        "tourism": "hotel",
-        "website": "https://www.arrandale.com"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 502533095,
       "geometry": {
         "type": "Point",
@@ -1879,8 +1857,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.479874,
-          54.160653
+          -4.479949,
+          54.160763
         ]
       },
       "properties": {
@@ -2928,27 +2906,6 @@
     },
     {
       "type": "Feature",
-      "id": 10634772695,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48428,
-          54.153458
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "102",
-        "addr:postcode": "IM1 3AQ",
-        "addr:street": "Bucks Road",
-        "name": "Lansdowne",
-        "source": "mapillary",
-        "tourism": "guest_house"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10648497429,
       "geometry": {
         "type": "Point",
@@ -3266,12 +3223,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.480582,
-          54.159221
+          -4.480593,
+          54.159176
         ]
       },
       "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "11",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Clifton Terrace",
         "name": "All Seasons",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
         "tourism": "guest_house"
       }
     },
@@ -3561,6 +3523,8 @@
       "properties": {
         "name": "Ballanorris",
         "place": "locality",
+        "postal_code": "IM9 4LB",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "tourism": "attraction"
       }
     },
@@ -4854,6 +4818,25 @@
       "properties": {
         "information": "guidepost",
         "tourism": "information"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13383904086,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.52464,
+          54.149964
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM2 2HD",
+        "addr:street": "Cooil Drive",
+        "source": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "tourism": "chalet"
       }
     },
     {
@@ -6923,64 +6906,116 @@
             54.227128
           ],
           [
-            -4.698248,
+            -4.698227,
+            54.227238
+          ],
+          [
+            -4.698194,
             54.227236
           ],
           [
-            -4.698214,
-            54.22723
+            -4.69799,
+            54.227365
           ],
           [
-            -4.698016,
-            54.227355
+            -4.698003,
+            54.227382
           ],
           [
-            -4.698029,
-            54.227377
+            -4.698003,
+            54.227406
           ],
           [
-            -4.69802,
-            54.227413
+            -4.697992,
+            54.227421
           ],
           [
-            -4.697976,
-            54.227434
+            -4.697972,
+            54.227432
+          ],
+          [
+            -4.697946,
+            54.227437
           ],
           [
             -4.697916,
             54.227436
           ],
           [
-            -4.697871,
+            -4.697894,
+            54.227432
+          ],
+          [
+            -4.697873,
+            54.227425
+          ],
+          [
+            -4.697857,
             54.227415
           ],
           [
-            -4.697865,
-            54.227387
+            -4.697847,
+            54.227404
           ],
           [
-            -4.697898,
+            -4.697849,
+            54.227393
+          ],
+          [
+            -4.697855,
+            54.227379
+          ],
+          [
+            -4.697864,
+            54.22737
+          ],
+          [
+            -4.697871,
+            54.227365
+          ],
+          [
+            -4.697875,
             54.227362
           ],
           [
-            -4.697951,
-            54.227339
+            -4.697889,
+            54.227356
           ],
           [
-            -4.698024,
-            54.22728
+            -4.697912,
+            54.227347
           ],
           [
-            -4.698099,
-            54.227252
+            -4.697934,
+            54.227331
           ],
           [
-            -4.698163,
-            54.227212
+            -4.697986,
+            54.227291
           ],
           [
-            -4.698207,
-            54.227131
+            -4.698018,
+            54.227279
+          ],
+          [
+            -4.69807,
+            54.227263
+          ],
+          [
+            -4.698096,
+            54.227249
+          ],
+          [
+            -4.698145,
+            54.227221
+          ],
+          [
+            -4.698135,
+            54.22721
+          ],
+          [
+            -4.698192,
+            54.227122
           ],
           [
             -4.698242,
@@ -10260,32 +10295,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.559216,
-            54.33276
+            -4.55922,
+            54.332794
           ],
           [
-            -4.55894,
-            54.332634
+            -4.559195,
+            54.332782
           ],
           [
-            -4.55879,
-            54.332466
+            -4.55901,
+            54.332698
           ],
           [
-            -4.558964,
-            54.332482
+            -4.55881,
+            54.332555
           ],
           [
-            -4.559222,
-            54.332561
+            -4.558726,
+            54.332471
           ],
           [
-            -4.55931,
-            54.332605
+            -4.558718,
+            54.332463
           ],
           [
-            -4.559216,
-            54.33276
+            -4.558739,
+            54.332445
+          ],
+          [
+            -4.558984,
+            54.332452
+          ],
+          [
+            -4.559208,
+            54.332528
+          ],
+          [
+            -4.559462,
+            54.332625
+          ],
+          [
+            -4.55922,
+            54.332794
           ]
         ]
       },
@@ -14098,6 +14149,8 @@
         "artwork_type": "hill_figure",
         "barrier": "ditch",
         "description": "Outline of a triskelion.",
+        "man_made": "geoglyph",
+        "subject:wikidata": "Q183534",
         "tourism": "artwork"
       }
     },
@@ -21432,6 +21485,98 @@
         "postal_code": "IM2 4LE",
         "tourism": "hotel",
         "website": "https://hqbar.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465374920,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4842,
+            54.153501
+          ],
+          [
+            -4.484171,
+            54.153453
+          ],
+          [
+            -4.484317,
+            54.15342
+          ],
+          [
+            -4.484353,
+            54.153475
+          ],
+          [
+            -4.4842,
+            54.153501
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "102",
+        "addr:postcode": "IM1 3AQ",
+        "addr:street": "Bucks Road",
+        "building": "terrace",
+        "name": "Lansdowne",
+        "source": "mapillary",
+        "tourism": "guest_house"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466077190,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479166,
+            54.160235
+          ],
+          [
+            -4.478948,
+            54.16036
+          ],
+          [
+            -4.47903,
+            54.160409
+          ],
+          [
+            -4.479129,
+            54.160352
+          ],
+          [
+            -4.479142,
+            54.160358
+          ],
+          [
+            -4.479257,
+            54.16029
+          ],
+          [
+            -4.479166,
+            54.160235
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "39",
+        "addr:postcode": "IM2 4HW",
+        "addr:street": "Hutchinson Square",
+        "building": "house",
+        "house": "terraced",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Arrandale House",
+        "source:addr:housenumber": "poi",
+        "tourism": "hotel",
+        "website": "https://www.arrandale.com"
       }
     }
   ]

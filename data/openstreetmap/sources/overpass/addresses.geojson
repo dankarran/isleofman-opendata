@@ -1367,6 +1367,29 @@
     },
     {
       "type": "Feature",
+      "id": 505512397,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.47697,
+          54.157831
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "amenity": "restaurant",
+        "cuisine": "indian",
+        "name": "Taste of Bengal",
+        "website": "https://thetasteofbengal.co.uk"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 505824249,
       "geometry": {
         "type": "Point",
@@ -2096,6 +2119,54 @@
     },
     {
       "type": "Feature",
+      "id": 943742952,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.476992,
+          54.157803
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2a",
+        "addr:postcode": "IM2 4EA",
+        "addr:street": "Castle Mona Avenue",
+        "amenity": "fast_food",
+        "currency:XBT": "yes",
+        "delivery": "yes",
+        "name": "Marmaris",
+        "payment:lightning": "yes",
+        "payment:lightning_contactless": "yes",
+        "payment:onchain": "yes",
+        "phone": "+441624671995",
+        "source:addr": "Isle of Man Government Companies Registry",
+        "survey:date": "2022-09-23"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 943742963,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.477183,
+          54.157859
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "2a",
+        "addr:postcode": "IM2 4EA",
+        "addr:street": "Castle Mona Avenue",
+        "amenity": "fast_food",
+        "cuisine": "pizza",
+        "name": "Pizza Pizza",
+        "source:addr": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 943822599,
       "geometry": {
         "type": "Point",
@@ -2339,27 +2410,6 @@
     },
     {
       "type": "Feature",
-      "id": 1275890658,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.588823,
-          54.285076
-        ]
-      },
-      "properties": {
-        "addr:city": "Kirk Michael",
-        "addr:country": "IM",
-        "addr:housename": "Mountain View",
-        "addr:housenumber": "36",
-        "addr:postcode": "IM6 1HG",
-        "addr:street": "Cannan Avenue",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 1275896084,
       "geometry": {
         "type": "Point",
@@ -2413,27 +2463,6 @@
         "addr:housenumber": "40",
         "addr:postcode": "IM6 1EJ",
         "addr:street": "Slieau Curn Park",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 1277156279,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.588195,
-          54.285557
-        ]
-      },
-      "properties": {
-        "addr:city": "Kirk Michael",
-        "addr:country": "IM",
-        "addr:housename": "Mistrale",
-        "addr:housenumber": "31",
-        "addr:postcode": "IM6 1HG",
-        "addr:street": "Cannan Avenue",
-        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -5874,46 +5903,6 @@
     },
     {
       "type": "Feature",
-      "id": 10732996702,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48281,
-          54.150687
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM1 1ED",
-        "addr:street": "Myrtle Street",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Planning Applications"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10733020713,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.483333,
-          54.150306
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "10",
-        "addr:postcode": "IM1 1ED",
-        "addr:street": "Myrtle Street",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Planning Applications"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10740179619,
       "geometry": {
         "type": "Point",
@@ -6165,186 +6154,6 @@
         "contact:website": "https://www.quayfitnessiom.co.uk/",
         "leisure": "fitness_centre",
         "name": "Quay Fitness"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214976,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486338,
-          54.155415
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM1 3HD",
-        "addr:street": "Hatfield Grove",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214977,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486339,
-          54.155285
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "1",
-        "addr:postcode": "IM1 3HE",
-        "addr:street": "Hatfield Grove",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214978,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486415,
-          54.155401
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "4",
-        "addr:postcode": "IM1 3HD",
-        "addr:street": "Hatfield Grove",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214979,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.487247,
-          54.155251
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "26",
-        "addr:postcode": "IM1 3HD",
-        "addr:street": "Hatfield Grove",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214980,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486718,
-          54.15522
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "11",
-        "addr:postcode": "IM1 3HE",
-        "addr:street": "Hatfield Grove",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214981,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.487171,
-          54.155141
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "23",
-        "addr:postcode": "IM1 3HE",
-        "addr:street": "Hatfield Grove",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214983,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486195,
-          54.155127
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "4",
-        "addr:postcode": "IM1 3HF",
-        "addr:street": "Wesley Terrace",
-        "source:addr:housenumber": "mapillary",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214984,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.486125,
-          54.155139
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM1 3HF",
-        "addr:street": "Wesley Terrace",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10766214985,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.487114,
-          54.154963
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housenumber": "28",
-        "addr:postcode": "IM1 3HF",
-        "addr:street": "Wesley Terrace",
-        "source:addr:housenumber": "interpolation",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -8128,26 +7937,6 @@
         "gift": "christian",
         "name": "Churches Bookshop",
         "shop": "books;gift;stationery"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 12144926998,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.48709,
-          54.154522
-        ]
-      },
-      "properties": {
-        "addr:city": "Douglas",
-        "addr:country": "IM",
-        "addr:housename": "Rose Lodge",
-        "addr:postcode": "IM1 4AR",
-        "addr:street": "Mount Bradda",
-        "building": "house",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -10113,6 +9902,26 @@
         "addr:street": "Derby Square",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13464949046,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.430157,
+          54.189431
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:postcode": "IM4 6AD",
+        "addr:street": "Whitebridge Road",
+        "contact:facebook": "https://www.facebook.com/manxfunfarm/",
+        "fixme": "better tagging",
+        "leisure": "indoor_play",
+        "name": "Manx Fun Farm"
       }
     },
     {
@@ -13964,9 +13773,11 @@
         "addr:street": "Peel Road",
         "alt_name": "Fire Headquarters",
         "amenity": "fire_station",
-        "building": "yes",
+        "building": "fire_station",
         "name": "Douglas Fire Station",
-        "source": "Isle of Man Government aerial imagery (2001)"
+        "operator": "Isle of Man Fire and Rescue Service",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "website": "https://www.gov.im/categories/home-and-neighbourhood/emergency-services/fire-and-rescue-service/"
       }
     },
     {
@@ -22282,6 +22093,8 @@
         "addr:place": "Middle River Industrial Estate",
         "addr:plot": "1",
         "addr:postcode": "IM2 1AL",
+        "brand": "Edmundson Electrical",
+        "brand:wikidata": "Q27958713",
         "building": "yes",
         "name": "Edmundson Electrical",
         "shop": "trade",
@@ -24273,6 +24086,84 @@
     },
     {
       "type": "Feature",
+      "id": 61561647,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487028,
+            54.150485
+          ],
+          [
+            -4.487079,
+            54.150428
+          ],
+          [
+            -4.48718,
+            54.150459
+          ],
+          [
+            -4.487129,
+            54.150516
+          ],
+          [
+            -4.487028,
+            54.150485
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "95",
+        "addr:postcode": "IM1 4NB",
+        "addr:street": "Hillside Avenue",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61561661,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490698,
+            54.150704
+          ],
+          [
+            -4.49078,
+            54.150744
+          ],
+          [
+            -4.490697,
+            54.150802
+          ],
+          [
+            -4.490615,
+            54.150762
+          ],
+          [
+            -4.490698,
+            54.150704
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "51",
+        "addr:postcode": "IM1 4NF",
+        "addr:street": "Hillside Avenue",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 61561694,
       "geometry": {
         "type": "LineString",
@@ -24967,6 +24858,84 @@
         "building:levels": "5",
         "building:material": "brick",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61596097,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488716,
+            54.15008
+          ],
+          [
+            -4.48882,
+            54.150089
+          ],
+          [
+            -4.488803,
+            54.150159
+          ],
+          [
+            -4.488698,
+            54.150149
+          ],
+          [
+            -4.488716,
+            54.15008
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM1 4NQ",
+        "addr:street": "Hillside Avenue",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61596113,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49176,
+            54.15104
+          ],
+          [
+            -4.491829,
+            54.151093
+          ],
+          [
+            -4.491702,
+            54.15115
+          ],
+          [
+            -4.491633,
+            54.151098
+          ],
+          [
+            -4.49176,
+            54.15104
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "40",
+        "addr:postcode": "IM1 4NQ",
+        "addr:street": "Hillside Avenue",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -31182,7 +31151,56 @@
         "addr:postcode": "IM1 1AG",
         "addr:street": "Circular Road",
         "building": "office",
+        "building:levels": "4",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79141582,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482853,
+            54.150762
+          ],
+          [
+            -4.482735,
+            54.15071
+          ],
+          [
+            -4.482784,
+            54.150672
+          ],
+          [
+            -4.482937,
+            54.15074
+          ],
+          [
+            -4.482913,
+            54.150758
+          ],
+          [
+            -4.482879,
+            54.150743
+          ],
+          [
+            -4.482853,
+            54.150762
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 1ED",
+        "addr:street": "Myrtle Street",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     },
     {
@@ -75599,6 +75617,51 @@
     },
     {
       "type": "Feature",
+      "id": 158903134,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476522,
+            54.158283
+          ],
+          [
+            -4.476886,
+            54.158394
+          ],
+          [
+            -4.476939,
+            54.158335
+          ],
+          [
+            -4.476727,
+            54.158272
+          ],
+          [
+            -4.476571,
+            54.158225
+          ],
+          [
+            -4.476522,
+            54.158283
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 158903135,
       "geometry": {
         "type": "LineString",
@@ -75636,11 +75699,14 @@
       "properties": {
         "addr:city": "Douglas",
         "addr:country": "IM",
+        "addr:housename": "Glen Owen",
         "addr:housenumber": "1",
         "addr:postcode": "IM2 4LR",
         "addr:street": "Central Promenade",
         "addr:substreet": "The Esplanade",
-        "building": "yes",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -75687,7 +75753,8 @@
         "addr:postcode": "IM2 4LR",
         "addr:street": "Central Promenade",
         "addr:substreet": "The Esplanade",
-        "building": "yes",
+        "building": "house",
+        "house": "terraced",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -75738,7 +75805,8 @@
         "addr:postcode": "IM2 4LR",
         "addr:street": "Central Promenade",
         "addr:substreet": "The Esplanade",
-        "building": "yes",
+        "building": "house",
+        "house": "terraced",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -75839,8 +75907,47 @@
         "addr:postcode": "IM2 4LR",
         "addr:street": "Central Promenade",
         "addr:substreet": "The Esplanade",
-        "building": "yes",
+        "building": "house",
+        "house": "terraced",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 158903143,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476385,
+            54.158967
+          ],
+          [
+            -4.476055,
+            54.158869
+          ],
+          [
+            -4.476105,
+            54.158812
+          ],
+          [
+            -4.476434,
+            54.15891
+          ],
+          [
+            -4.476385,
+            54.158967
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 4LR",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "The Esplanade",
+        "building": "house",
+        "house": "terraced"
       }
     },
     {
@@ -81201,7 +81308,7 @@
         "addr:place": "Spring Valley Industrial Estate",
         "addr:postcode": "IM2 2QR",
         "addr:unit": "2",
-        "brand": "Currys",
+        "brand": "currys",
         "brand:wikidata": "Q3246464",
         "brand:wikipedia": "en:Currys",
         "building": "retail",
@@ -97438,6 +97545,7 @@
         "building": "industrial",
         "contact:email": "info@kingsleymuti.com",
         "contact:phone": "+44 1624 625040",
+        "healthcare": "pharmacy",
         "name": "Kingsley Muti",
         "opening_hours": "Mo-Fr 08:30-18:00, Sa 09:00-13:00",
         "operator": "Kingsley Muti Ltd",
@@ -97778,8 +97886,16 @@
             54.149545
           ],
           [
-            -4.484787,
-            54.149476
+            -4.484964,
+            54.149507
+          ],
+          [
+            -4.484877,
+            54.149437
+          ],
+          [
+            -4.484681,
+            54.149523
           ],
           [
             -4.484663,
@@ -102028,6 +102144,46 @@
         "building": "house",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 409619142,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483672,
+            54.150838
+          ],
+          [
+            -4.483477,
+            54.150983
+          ],
+          [
+            -4.483747,
+            54.151108
+          ],
+          [
+            -4.483942,
+            54.150964
+          ],
+          [
+            -4.483672,
+            54.150838
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Atlantic House",
+        "addr:postcode": "IM1 1AG",
+        "addr:street": "Circular Road",
+        "building": "office",
+        "building:levels": "5",
+        "building:material": "brick",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -107620,6 +107776,65 @@
         "building:material": "plaster",
         "roof:levels": "1",
         "roof:material": "slate"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 420023861,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.480603,
+            54.149724
+          ],
+          [
+            -4.480485,
+            54.149658
+          ],
+          [
+            -4.480447,
+            54.149636
+          ],
+          [
+            -4.48034,
+            54.149576
+          ],
+          [
+            -4.480262,
+            54.149628
+          ],
+          [
+            -4.480204,
+            54.149724
+          ],
+          [
+            -4.480365,
+            54.149755
+          ],
+          [
+            -4.480422,
+            54.149766
+          ],
+          [
+            -4.480595,
+            54.149801
+          ],
+          [
+            -4.480603,
+            54.149724
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Gordon House",
+        "addr:housenumber": "10A",
+        "addr:postcode": "IM1 1EJ",
+        "addr:street": "Prospect Hill",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -115927,6 +116142,7 @@
         "addr:postcode": "IM4 1AZ",
         "addr:street": "Old Castletown Road",
         "building": "yes",
+        "building:colour": "white",
         "name": "Hampton Court",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
@@ -116326,7 +116542,7 @@
         "building": "industrial",
         "name": "CEF",
         "roof:colour": "#e3e3e1",
-        "shop": "trade",
+        "shop": "electrical",
         "trade": "electrical",
         "website": "https://www.cef.co.uk/stores/iom"
       }
@@ -122135,10 +122351,11 @@
         "addr:country": "IM",
         "addr:postcode": "IM8 2NA",
         "addr:street": "Bircham Avenue Close",
-        "building": "yes",
+        "building": "industrial",
         "building:levels": "2",
         "name": "Ramsey Telephone Exchange",
         "operator": "Manx Telecom",
+        "operator:wikidata": "Q3432658",
         "telecom": "exchange"
       }
     },
@@ -131742,6 +131959,45 @@
     },
     {
       "type": "Feature",
+      "id": 1119387462,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487698,
+            54.150933
+          ],
+          [
+            -4.487631,
+            54.150985
+          ],
+          [
+            -4.487514,
+            54.150934
+          ],
+          [
+            -4.487581,
+            54.150882
+          ],
+          [
+            -4.487698,
+            54.150933
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "77",
+        "addr:postcode": "IM1 4ND",
+        "addr:street": "Hillside Avenue",
+        "building": "yes",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1124375699,
       "geometry": {
         "type": "LineString",
@@ -133355,6 +133611,44 @@
     },
     {
       "type": "Feature",
+      "id": 1130714501,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477068,
+            54.158286
+          ],
+          [
+            -4.476898,
+            54.158473
+          ],
+          [
+            -4.47703,
+            54.158514
+          ],
+          [
+            -4.477189,
+            54.158323
+          ],
+          [
+            -4.477068,
+            54.158286
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Esplanade Mews",
+        "addr:postcode": "IM2 4LP",
+        "addr:street": "Esplanade Lane",
+        "building": "terrace",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1130883164,
       "geometry": {
         "type": "LineString",
@@ -134670,6 +134964,42 @@
     },
     {
       "type": "Feature",
+      "id": 1139279819,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485389,
+            54.149317
+          ],
+          [
+            -4.485318,
+            54.149347
+          ],
+          [
+            -4.485234,
+            54.149279
+          ],
+          [
+            -4.485304,
+            54.149249
+          ],
+          [
+            -4.485389,
+            54.149317
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM1 1AP",
+        "addr:street": "Hope Street",
+        "building": "yes",
+        "source:addr:postcode": "extrapolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1139492307,
       "geometry": {
         "type": "LineString",
@@ -134760,6 +135090,106 @@
         "name": "Carters",
         "office": "lawyer",
         "website": "https://carters.co.im/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139492316,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483978,
+            54.149947
+          ],
+          [
+            -4.483925,
+            54.150006
+          ],
+          [
+            -4.483781,
+            54.149963
+          ],
+          [
+            -4.483822,
+            54.149916
+          ],
+          [
+            -4.483882,
+            54.149933
+          ],
+          [
+            -4.483892,
+            54.149921
+          ],
+          [
+            -4.483978,
+            54.149947
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Hamblin House",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM1 1EA",
+        "addr:street": "Upper Church Street",
+        "building": "yes",
+        "name": "Hamblin",
+        "office": "employment_agency",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1139492322,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485009,
+            54.149381
+          ],
+          [
+            -4.485082,
+            54.149349
+          ],
+          [
+            -4.485162,
+            54.149415
+          ],
+          [
+            -4.485131,
+            54.149428
+          ],
+          [
+            -4.485182,
+            54.14947
+          ],
+          [
+            -4.48514,
+            54.149487
+          ],
+          [
+            -4.485093,
+            54.149447
+          ],
+          [
+            -4.485009,
+            54.149381
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 1AQ",
+        "addr:street": "Hope Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -136578,7 +137008,7 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.47754,
+            -4.477539,
             54.159961
           ],
           [
@@ -136606,11 +137036,11 @@
             54.15988
           ],
           [
-            -4.477351,
-            54.159895
+            -4.47735,
+            54.159892
           ],
           [
-            -4.47754,
+            -4.477539,
             54.159961
           ]
         ]
@@ -137286,6 +137716,77 @@
         "building": "house",
         "source:addr:housename": "streetside",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1147636520,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.376607,
+            54.243177
+          ],
+          [
+            -4.376565,
+            54.243172
+          ],
+          [
+            -4.376558,
+            54.243193
+          ],
+          [
+            -4.376421,
+            54.243177
+          ],
+          [
+            -4.376426,
+            54.243164
+          ],
+          [
+            -4.376318,
+            54.243152
+          ],
+          [
+            -4.376361,
+            54.243027
+          ],
+          [
+            -4.376469,
+            54.24304
+          ],
+          [
+            -4.376465,
+            54.243052
+          ],
+          [
+            -4.376535,
+            54.24306
+          ],
+          [
+            -4.376526,
+            54.243088
+          ],
+          [
+            -4.376633,
+            54.2431
+          ],
+          [
+            -4.376607,
+            54.243177
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballaragh",
+        "addr:country": "IM",
+        "addr:housename": "Ballaragh Old Farm House",
+        "addr:postcode": "IM4 7PN",
+        "addr:street": "Ballaragh Road",
+        "building": "house",
+        "source:addr:housename": "streetside",
+        "source:postal_code": "Isle of Man Government Companies Registry"
       }
     },
     {
@@ -141264,6 +141765,94 @@
     },
     {
       "type": "Feature",
+      "id": 1154135513,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477016,
+            54.157934
+          ],
+          [
+            -4.476863,
+            54.157888
+          ],
+          [
+            -4.476909,
+            54.157835
+          ],
+          [
+            -4.477062,
+            54.157879
+          ],
+          [
+            -4.477016,
+            54.157934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154135514,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476909,
+            54.157835
+          ],
+          [
+            -4.476922,
+            54.15782
+          ],
+          [
+            -4.476962,
+            54.157772
+          ],
+          [
+            -4.477002,
+            54.157784
+          ],
+          [
+            -4.477115,
+            54.157817
+          ],
+          [
+            -4.477062,
+            54.157879
+          ],
+          [
+            -4.476909,
+            54.157835
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1154135515,
       "geometry": {
         "type": "LineString",
@@ -141604,6 +142193,56 @@
         "building": "yes",
         "name": "Cheng Du Impression",
         "opening_hours": "Mo-Sa 12:00-14:00,18:00-21:00"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154135549,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477398,
+            54.158064
+          ],
+          [
+            -4.477381,
+            54.158017
+          ],
+          [
+            -4.477361,
+            54.157968
+          ],
+          [
+            -4.477298,
+            54.157949
+          ],
+          [
+            -4.477237,
+            54.15802
+          ],
+          [
+            -4.477288,
+            54.158034
+          ],
+          [
+            -4.477398,
+            54.158064
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4-6",
+        "addr:postcode": "IM2 4EH",
+        "addr:street": "Castle Mona Avenue",
+        "building": "yes",
+        "disused:amenity": "cafe",
+        "old_name": "The Boathouse",
+        "source": "photo;deduction;news",
+        "source:addr:postcode": "Isle of Man Government Planning Applications",
+        "was:cuisine": "fish_and_chips"
       }
     },
     {
@@ -173222,11 +173861,13 @@
         "addr:city": "Douglas",
         "addr:country": "IM",
         "addr:housename": "Summerville",
+        "addr:housenumber": "17",
         "addr:postcode": "IM2 3BN",
         "addr:street": "York Road",
         "building": "house",
         "house": "terraced",
         "source:addr:housename": "streetside",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -174092,6 +174733,227 @@
     },
     {
       "type": "Feature",
+      "id": 1450902756,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485548,
+            54.159879
+          ],
+          [
+            -4.485587,
+            54.159831
+          ],
+          [
+            -4.485567,
+            54.159825
+          ],
+          [
+            -4.485593,
+            54.159794
+          ],
+          [
+            -4.485509,
+            54.15977
+          ],
+          [
+            -4.485504,
+            54.159776
+          ],
+          [
+            -4.485397,
+            54.159746
+          ],
+          [
+            -4.485316,
+            54.159844
+          ],
+          [
+            -4.485419,
+            54.159873
+          ],
+          [
+            -4.485385,
+            54.159916
+          ],
+          [
+            -4.485442,
+            54.159932
+          ],
+          [
+            -4.485479,
+            54.159887
+          ],
+          [
+            -4.485511,
+            54.159896
+          ],
+          [
+            -4.485529,
+            54.159874
+          ],
+          [
+            -4.485548,
+            54.159879
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Homefield",
+        "addr:housenumber": "88",
+        "addr:postcode": "IM2 3AP",
+        "addr:street": "Woodbourne Road",
+        "razed:building": "yes",
+        "ref:planning": "19/00959/B",
+        "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1450902760,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485257,
+            54.159156
+          ],
+          [
+            -4.485462,
+            54.159309
+          ],
+          [
+            -4.485564,
+            54.159261
+          ],
+          [
+            -4.485713,
+            54.159362
+          ],
+          [
+            -4.48592,
+            54.159268
+          ],
+          [
+            -4.485862,
+            54.159223
+          ],
+          [
+            -4.485874,
+            54.159214
+          ],
+          [
+            -4.485819,
+            54.159169
+          ],
+          [
+            -4.485874,
+            54.159145
+          ],
+          [
+            -4.485824,
+            54.159113
+          ],
+          [
+            -4.485752,
+            54.159145
+          ],
+          [
+            -4.485741,
+            54.159136
+          ],
+          [
+            -4.485634,
+            54.15918
+          ],
+          [
+            -4.485482,
+            54.159072
+          ],
+          [
+            -4.485511,
+            54.159062
+          ],
+          [
+            -4.48547,
+            54.159038
+          ],
+          [
+            -4.485341,
+            54.159099
+          ],
+          [
+            -4.48532,
+            54.159093
+          ],
+          [
+            -4.485257,
+            54.159156
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Africa House",
+        "addr:postcode": "IM2 3AP",
+        "addr:street": "Woodbourne Road",
+        "building": "yes",
+        "old_name": "Woodside House",
+        "ref:planning": "24/91384/B",
+        "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1450902761,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484723,
+            54.160072
+          ],
+          [
+            -4.484336,
+            54.159947
+          ],
+          [
+            -4.484438,
+            54.159838
+          ],
+          [
+            -4.48475,
+            54.159939
+          ],
+          [
+            -4.484737,
+            54.159952
+          ],
+          [
+            -4.484812,
+            54.159976
+          ],
+          [
+            -4.484723,
+            54.160072
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:postcode": "IM2 3TD",
+        "addr:street": "Palatine Road",
+        "building": "yes",
+        "fixme": "check if still medical centre or not; Palatine Group now at Strang",
+        "old_name": "Palatine Health Centre",
+        "ref:planning": "09/01009/C",
+        "source:addr": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1450910101,
       "geometry": {
         "type": "LineString",
@@ -174912,6 +175774,45 @@
     },
     {
       "type": "Feature",
+      "id": 1451407451,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487191,
+            54.15523
+          ],
+          [
+            -4.487117,
+            54.155243
+          ],
+          [
+            -4.487151,
+            54.15531
+          ],
+          [
+            -4.487226,
+            54.155296
+          ],
+          [
+            -4.487191,
+            54.15523
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1451407454,
       "geometry": {
         "type": "LineString",
@@ -175024,6 +175925,45 @@
     },
     {
       "type": "Feature",
+      "id": 1451407456,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487149,
+            54.15518
+          ],
+          [
+            -4.487075,
+            54.155193
+          ],
+          [
+            -4.487039,
+            54.155124
+          ],
+          [
+            -4.487114,
+            54.155111
+          ],
+          [
+            -4.487149,
+            54.15518
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "21",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1451407457,
       "geometry": {
         "type": "LineString",
@@ -175120,6 +176060,45 @@
         "house": "terraced",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451407459,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487091,
+            54.155012
+          ],
+          [
+            -4.487016,
+            54.155026
+          ],
+          [
+            -4.486978,
+            54.154952
+          ],
+          [
+            -4.487053,
+            54.154939
+          ],
+          [
+            -4.487091,
+            54.155012
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "26",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
       }
     },
     {
@@ -176172,6 +177151,73 @@
     },
     {
       "type": "Feature",
+      "id": 1451466990,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487748,
+            54.155246
+          ],
+          [
+            -4.487727,
+            54.155256
+          ],
+          [
+            -4.48762,
+            54.155302
+          ],
+          [
+            -4.487586,
+            54.155276
+          ],
+          [
+            -4.487555,
+            54.15529
+          ],
+          [
+            -4.487518,
+            54.155261
+          ],
+          [
+            -4.487538,
+            54.155252
+          ],
+          [
+            -4.487491,
+            54.155216
+          ],
+          [
+            -4.48758,
+            54.155171
+          ],
+          [
+            -4.48763,
+            54.155156
+          ],
+          [
+            -4.487693,
+            54.155204
+          ],
+          [
+            -4.487748,
+            54.155246
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM1 4AR",
+        "addr:street": "Mount Bradda",
+        "building": "house",
+        "source:addr:housenumber": "survey",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1451466993,
       "geometry": {
         "type": "LineString",
@@ -176219,6 +177265,80 @@
         "building": "house",
         "house": "terraced",
         "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1451466996,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487194,
+            54.154559
+          ],
+          [
+            -4.486942,
+            54.154667
+          ],
+          [
+            -4.486901,
+            54.154627
+          ],
+          [
+            -4.486947,
+            54.154605
+          ],
+          [
+            -4.486904,
+            54.154555
+          ],
+          [
+            -4.486996,
+            54.154515
+          ],
+          [
+            -4.486978,
+            54.154501
+          ],
+          [
+            -4.487058,
+            54.154466
+          ],
+          [
+            -4.487116,
+            54.154515
+          ],
+          [
+            -4.487139,
+            54.154506
+          ],
+          [
+            -4.48715,
+            54.154514
+          ],
+          [
+            -4.487158,
+            54.154521
+          ],
+          [
+            -4.48715,
+            54.154524
+          ],
+          [
+            -4.487194,
+            54.154559
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Rose Lodge",
+        "addr:postcode": "IM1 4AR",
+        "addr:street": "Mount Bradda",
+        "building": "yes;house",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -178173,6 +179293,1178 @@
     },
     {
       "type": "Feature",
+      "id": 1465373052,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486262,
+            54.155158
+          ],
+          [
+            -4.486186,
+            54.155172
+          ],
+          [
+            -4.48615,
+            54.155098
+          ],
+          [
+            -4.486225,
+            54.155085
+          ],
+          [
+            -4.486262,
+            54.155158
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation;mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373053,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486337,
+            54.155145
+          ],
+          [
+            -4.486262,
+            54.155158
+          ],
+          [
+            -4.486225,
+            54.155085
+          ],
+          [
+            -4.4863,
+            54.155072
+          ],
+          [
+            -4.486337,
+            54.155145
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373054,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486413,
+            54.155132
+          ],
+          [
+            -4.486337,
+            54.155145
+          ],
+          [
+            -4.4863,
+            54.155072
+          ],
+          [
+            -4.486376,
+            54.155058
+          ],
+          [
+            -4.486413,
+            54.155132
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373055,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486488,
+            54.155119
+          ],
+          [
+            -4.486413,
+            54.155132
+          ],
+          [
+            -4.486376,
+            54.155058
+          ],
+          [
+            -4.486451,
+            54.155045
+          ],
+          [
+            -4.486488,
+            54.155119
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373056,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486563,
+            54.155105
+          ],
+          [
+            -4.486488,
+            54.155119
+          ],
+          [
+            -4.486451,
+            54.155045
+          ],
+          [
+            -4.486526,
+            54.155032
+          ],
+          [
+            -4.486563,
+            54.155105
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373057,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486639,
+            54.155092
+          ],
+          [
+            -4.486563,
+            54.155105
+          ],
+          [
+            -4.486526,
+            54.155032
+          ],
+          [
+            -4.486602,
+            54.155019
+          ],
+          [
+            -4.486639,
+            54.155092
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373058,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486714,
+            54.155079
+          ],
+          [
+            -4.486639,
+            54.155092
+          ],
+          [
+            -4.486602,
+            54.155019
+          ],
+          [
+            -4.486677,
+            54.155005
+          ],
+          [
+            -4.486714,
+            54.155079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373059,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48679,
+            54.155065
+          ],
+          [
+            -4.486714,
+            54.155079
+          ],
+          [
+            -4.486677,
+            54.155005
+          ],
+          [
+            -4.486752,
+            54.154992
+          ],
+          [
+            -4.48679,
+            54.155065
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373060,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486865,
+            54.155052
+          ],
+          [
+            -4.48679,
+            54.155065
+          ],
+          [
+            -4.486752,
+            54.154992
+          ],
+          [
+            -4.486828,
+            54.154979
+          ],
+          [
+            -4.486865,
+            54.155052
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373061,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48694,
+            54.155039
+          ],
+          [
+            -4.486865,
+            54.155052
+          ],
+          [
+            -4.486828,
+            54.154979
+          ],
+          [
+            -4.486903,
+            54.154966
+          ],
+          [
+            -4.48694,
+            54.155039
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373062,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487016,
+            54.155026
+          ],
+          [
+            -4.48694,
+            54.155039
+          ],
+          [
+            -4.486903,
+            54.154966
+          ],
+          [
+            -4.486978,
+            54.154952
+          ],
+          [
+            -4.487016,
+            54.155026
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "24",
+        "addr:postcode": "IM1 3HF",
+        "addr:street": "Wesley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373063,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486482,
+            54.155297
+          ],
+          [
+            -4.486408,
+            54.15531
+          ],
+          [
+            -4.486373,
+            54.155242
+          ],
+          [
+            -4.486447,
+            54.155229
+          ],
+          [
+            -4.486482,
+            54.155297
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373064,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486556,
+            54.155284
+          ],
+          [
+            -4.486482,
+            54.155297
+          ],
+          [
+            -4.486447,
+            54.155229
+          ],
+          [
+            -4.486521,
+            54.155216
+          ],
+          [
+            -4.486556,
+            54.155284
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373065,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48663,
+            54.155271
+          ],
+          [
+            -4.486556,
+            54.155284
+          ],
+          [
+            -4.486521,
+            54.155216
+          ],
+          [
+            -4.486595,
+            54.155203
+          ],
+          [
+            -4.48663,
+            54.155271
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373066,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486704,
+            54.155258
+          ],
+          [
+            -4.48663,
+            54.155271
+          ],
+          [
+            -4.486595,
+            54.155203
+          ],
+          [
+            -4.486669,
+            54.155189
+          ],
+          [
+            -4.486704,
+            54.155258
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373067,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486778,
+            54.155245
+          ],
+          [
+            -4.486704,
+            54.155258
+          ],
+          [
+            -4.486669,
+            54.155189
+          ],
+          [
+            -4.486743,
+            54.155177
+          ],
+          [
+            -4.486778,
+            54.155245
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "terrace",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373068,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486852,
+            54.155232
+          ],
+          [
+            -4.486778,
+            54.155245
+          ],
+          [
+            -4.486743,
+            54.155177
+          ],
+          [
+            -4.486817,
+            54.155163
+          ],
+          [
+            -4.486852,
+            54.155232
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373069,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486927,
+            54.155219
+          ],
+          [
+            -4.486852,
+            54.155232
+          ],
+          [
+            -4.486817,
+            54.155163
+          ],
+          [
+            -4.486891,
+            54.15515
+          ],
+          [
+            -4.486927,
+            54.155219
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373070,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487001,
+            54.155206
+          ],
+          [
+            -4.486927,
+            54.155219
+          ],
+          [
+            -4.486891,
+            54.15515
+          ],
+          [
+            -4.486965,
+            54.155137
+          ],
+          [
+            -4.487001,
+            54.155206
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373071,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487075,
+            54.155193
+          ],
+          [
+            -4.487001,
+            54.155206
+          ],
+          [
+            -4.486965,
+            54.155137
+          ],
+          [
+            -4.487039,
+            54.155124
+          ],
+          [
+            -4.487075,
+            54.155193
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "19",
+        "addr:postcode": "IM1 3HE",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373072,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486442,
+            54.155363
+          ],
+          [
+            -4.486368,
+            54.155376
+          ],
+          [
+            -4.486402,
+            54.155443
+          ],
+          [
+            -4.486477,
+            54.155429
+          ],
+          [
+            -4.486442,
+            54.155363
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373073,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486517,
+            54.155349
+          ],
+          [
+            -4.486442,
+            54.155363
+          ],
+          [
+            -4.486477,
+            54.155429
+          ],
+          [
+            -4.486552,
+            54.155416
+          ],
+          [
+            -4.486517,
+            54.155349
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373074,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486592,
+            54.155336
+          ],
+          [
+            -4.486517,
+            54.155349
+          ],
+          [
+            -4.486552,
+            54.155416
+          ],
+          [
+            -4.486627,
+            54.155403
+          ],
+          [
+            -4.486592,
+            54.155336
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373075,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486667,
+            54.155323
+          ],
+          [
+            -4.486592,
+            54.155336
+          ],
+          [
+            -4.486627,
+            54.155403
+          ],
+          [
+            -4.486702,
+            54.155389
+          ],
+          [
+            -4.486667,
+            54.155323
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373076,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486742,
+            54.15531
+          ],
+          [
+            -4.486667,
+            54.155323
+          ],
+          [
+            -4.486702,
+            54.155389
+          ],
+          [
+            -4.486777,
+            54.155376
+          ],
+          [
+            -4.486742,
+            54.15531
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373077,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486817,
+            54.155296
+          ],
+          [
+            -4.486742,
+            54.15531
+          ],
+          [
+            -4.486777,
+            54.155376
+          ],
+          [
+            -4.486852,
+            54.155363
+          ],
+          [
+            -4.486817,
+            54.155296
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373078,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486892,
+            54.155283
+          ],
+          [
+            -4.486817,
+            54.155296
+          ],
+          [
+            -4.486852,
+            54.155363
+          ],
+          [
+            -4.486926,
+            54.155349
+          ],
+          [
+            -4.486892,
+            54.155283
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373079,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486967,
+            54.15527
+          ],
+          [
+            -4.486892,
+            54.155283
+          ],
+          [
+            -4.486926,
+            54.155349
+          ],
+          [
+            -4.487001,
+            54.155336
+          ],
+          [
+            -4.486967,
+            54.15527
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "18",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373080,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487042,
+            54.155256
+          ],
+          [
+            -4.486967,
+            54.15527
+          ],
+          [
+            -4.487001,
+            54.155336
+          ],
+          [
+            -4.487076,
+            54.155323
+          ],
+          [
+            -4.487042,
+            54.155256
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "20",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465373081,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487117,
+            54.155243
+          ],
+          [
+            -4.487042,
+            54.155256
+          ],
+          [
+            -4.487076,
+            54.155323
+          ],
+          [
+            -4.487151,
+            54.15531
+          ],
+          [
+            -4.487117,
+            54.155243
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "22",
+        "addr:postcode": "IM1 3HD",
+        "addr:street": "Hatfield Grove",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1465373085,
       "geometry": {
         "type": "LineString",
@@ -178325,6 +180617,84 @@
         "building": "house",
         "house": "terraced",
         "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465376746,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.482881,
+            54.160505
+          ],
+          [
+            -4.482801,
+            54.16048
+          ],
+          [
+            -4.482871,
+            54.160402
+          ],
+          [
+            -4.482951,
+            54.160426
+          ],
+          [
+            -4.482881,
+            54.160505
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 3BW",
+        "addr:street": "York Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465376749,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483119,
+            54.160581
+          ],
+          [
+            -4.48304,
+            54.160556
+          ],
+          [
+            -4.483111,
+            54.160475
+          ],
+          [
+            -4.483191,
+            54.1605
+          ],
+          [
+            -4.483119,
+            54.160581
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 3BW",
+        "addr:street": "York Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -179407,6 +181777,84 @@
         "house": "terraced",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465568139,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48311,
+            54.161241
+          ],
+          [
+            -4.483071,
+            54.161284
+          ],
+          [
+            -4.4832,
+            54.161324
+          ],
+          [
+            -4.483239,
+            54.161281
+          ],
+          [
+            -4.48311,
+            54.161241
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "17",
+        "addr:postcode": "IM2 3BQ",
+        "addr:street": "Palatine Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "extrapolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465568140,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48315,
+            54.161197
+          ],
+          [
+            -4.48311,
+            54.161241
+          ],
+          [
+            -4.483239,
+            54.161281
+          ],
+          [
+            -4.483279,
+            54.161238
+          ],
+          [
+            -4.48315,
+            54.161197
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM2 3BQ",
+        "addr:street": "Palatine Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "extrapolation;Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -182290,6 +184738,384 @@
         "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467770489,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.477016,
+            54.157934
+          ],
+          [
+            -4.476968,
+            54.15799
+          ],
+          [
+            -4.476814,
+            54.157944
+          ],
+          [
+            -4.476863,
+            54.157888
+          ],
+          [
+            -4.477016,
+            54.157934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "The Richmond",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467770490,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476968,
+            54.15799
+          ],
+          [
+            -4.476877,
+            54.158097
+          ],
+          [
+            -4.47672,
+            54.158051
+          ],
+          [
+            -4.476814,
+            54.157944
+          ],
+          [
+            -4.476968,
+            54.15799
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Compton Court",
+        "addr:housenumber": "4/5",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "terrace",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467770491,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476877,
+            54.158097
+          ],
+          [
+            -4.476829,
+            54.158154
+          ],
+          [
+            -4.476671,
+            54.158107
+          ],
+          [
+            -4.47672,
+            54.158051
+          ],
+          [
+            -4.476877,
+            54.158097
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467770492,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476829,
+            54.158154
+          ],
+          [
+            -4.476781,
+            54.158211
+          ],
+          [
+            -4.476623,
+            54.158164
+          ],
+          [
+            -4.476671,
+            54.158107
+          ],
+          [
+            -4.476829,
+            54.158154
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Corrib House",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467770493,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476781,
+            54.158211
+          ],
+          [
+            -4.476727,
+            54.158272
+          ],
+          [
+            -4.476571,
+            54.158225
+          ],
+          [
+            -4.476623,
+            54.158164
+          ],
+          [
+            -4.476781,
+            54.158211
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housename": "Clarence House",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 4LS",
+        "addr:street": "Central Promenade",
+        "addr:substreet": "Clarence Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467777412,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.588157,
+            54.285546
+          ],
+          [
+            -4.588314,
+            54.285612
+          ],
+          [
+            -4.588243,
+            54.28567
+          ],
+          [
+            -4.588188,
+            54.285647
+          ],
+          [
+            -4.588145,
+            54.285682
+          ],
+          [
+            -4.588042,
+            54.285638
+          ],
+          [
+            -4.588157,
+            54.285546
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:housename": "Mistrale",
+        "addr:housenumber": "31",
+        "addr:postcode": "IM6 1HG",
+        "addr:street": "Cannan Avenue",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467777417,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.589029,
+            54.285148
+          ],
+          [
+            -4.588772,
+            54.285045
+          ],
+          [
+            -4.588697,
+            54.285109
+          ],
+          [
+            -4.588953,
+            54.285212
+          ],
+          [
+            -4.589029,
+            54.285148
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:housename": "Mountain View",
+        "addr:housenumber": "36",
+        "addr:postcode": "IM6 1HG",
+        "addr:street": "Cannan Avenue",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1467783471,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476987,
+            54.16071
+          ],
+          [
+            -4.476923,
+            54.160784
+          ],
+          [
+            -4.476782,
+            54.160743
+          ],
+          [
+            -4.476845,
+            54.160668
+          ],
+          [
+            -4.476987,
+            54.16071
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "52",
+        "addr:postcode": "IM2 4HQ",
+        "addr:street": "Victoria Road",
+        "building": "semidetached_house",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1468050555,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.483491,
+            54.150363
+          ],
+          [
+            -4.48343,
+            54.150412
+          ],
+          [
+            -4.483233,
+            54.150327
+          ],
+          [
+            -4.483294,
+            54.150278
+          ],
+          [
+            -4.483491,
+            54.150363
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 1ED",
+        "addr:street": "Myrtle Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
       }
     }
   ]

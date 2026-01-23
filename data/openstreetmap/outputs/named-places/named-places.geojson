@@ -429,16 +429,16 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.534693,
-          54.35393
+          -4.534505,
+          54.353983
         ]
       },
       "properties": {
         "name": "Jurby West",
         "place": "hamlet",
         "osm_id": 283501062,
-        "lon": -4.534693,
-        "lat": 54.35393,
+        "lon": -4.534505,
+        "lat": 54.353983,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283501062"
       }
@@ -1356,8 +1356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.457147,
-          54.197323
+          -4.457168,
+          54.197519
         ]
       },
       "properties": {
@@ -1367,8 +1367,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Milk Production Holding Register",
         "osm_id": 475392788,
-        "lon": -4.457147,
-        "lat": 54.197323,
+        "lon": -4.457168,
+        "lat": 54.197519,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475392788"
       }
@@ -3902,7 +3902,9 @@
       "properties": {
         "name": "Ballacutchel",
         "place": "farm",
+        "postal_code": "IM4 2HU",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393057,
         "lon": -4.562426,
         "lat": 54.145236,
@@ -4725,7 +4727,9 @@
       "properties": {
         "name": "Ballacamaish Farm",
         "place": "farm",
+        "postal_code": "IM7 3EJ",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393162,
         "lon": -4.483879,
         "lat": 54.374534,
@@ -4788,7 +4792,9 @@
       "properties": {
         "name": "Ballagick",
         "place": "farm",
+        "postal_code": "IM4 1HY",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393174,
         "lon": -4.581042,
         "lat": 54.132115,
@@ -6894,7 +6900,9 @@
       "properties": {
         "name": "Ballakaighen",
         "place": "farm",
+        "postal_code": "IM4 6AD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393496,
         "lon": -4.43063,
         "lat": 54.18955,
@@ -9567,7 +9575,9 @@
       "properties": {
         "name": "Baljean Farm",
         "place": "farm",
+        "postal_code": "IM4 7QL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393815,
         "lon": -4.415599,
         "lat": 54.235678,
@@ -9886,6 +9896,8 @@
         "name": "Ballacobb",
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "wikidata": "Q4851315",
+        "wikipedia": "en:Ballacobb",
         "osm_id": 475393849,
         "lon": -4.548544,
         "lat": 54.30708,
@@ -10037,7 +10049,9 @@
       "properties": {
         "name": "Ballalough Farm",
         "place": "farm",
+        "postal_code": "IM5 2AR",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393872,
         "lon": -4.665266,
         "lat": 54.217108,
@@ -10232,7 +10246,9 @@
       "properties": {
         "name": "Ballafodda Farm",
         "place": "farm",
+        "postal_code": "IM9 4PD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393893,
         "lon": -4.685641,
         "lat": 54.105941,
@@ -10668,7 +10684,9 @@
       "properties": {
         "name": "Ballanicholas Farm",
         "place": "farm",
+        "postal_code": "IM4 2HD",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475393956,
         "lon": -4.59713,
         "lat": 54.152841,
@@ -11296,8 +11314,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.469008,
-          54.196763
+          -4.469252,
+          54.196845
         ]
       },
       "properties": {
@@ -11307,8 +11325,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394028,
-        "lon": -4.469008,
-        "lat": 54.196763,
+        "lon": -4.469252,
+        "lat": 54.196845,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475394028"
       }
@@ -12711,7 +12729,9 @@
       "properties": {
         "name": "Ballagawne",
         "place": "farm",
+        "postal_code": "IM6 1HL",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394185,
         "lon": -4.601383,
         "lat": 54.274634,
@@ -12732,7 +12752,9 @@
       "properties": {
         "name": "Allandale",
         "place": "farm",
+        "postal_code": "IM7 2HB",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394189,
         "lon": -4.475538,
         "lat": 54.31949,
@@ -12767,8 +12789,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.49334,
-          54.360437
+          -4.493369,
+          54.360533
         ]
       },
       "properties": {
@@ -12778,8 +12800,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 475394195,
-        "lon": -4.49334,
-        "lat": 54.360437,
+        "lon": -4.493369,
+        "lat": 54.360533,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475394195"
       }
@@ -12876,17 +12898,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.614096,
-          54.128527
+          -4.613921,
+          54.128661
         ]
       },
       "properties": {
         "name": "Ballagarey Farm",
         "place": "farm",
+        "postal_code": "IM9 3AH",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394210,
-        "lon": -4.614096,
-        "lat": 54.128527,
+        "lon": -4.613921,
+        "lat": 54.128661,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475394210"
       }
@@ -13995,7 +14019,9 @@
       "properties": {
         "name": "Eary Veg",
         "place": "farm",
+        "postal_code": "IM4 5EZ",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394330,
         "lon": -4.528674,
         "lat": 54.204716,
@@ -15845,7 +15871,9 @@
       "properties": {
         "name": "Rosehill Farm",
         "place": "farm",
+        "postal_code": "IM4 1JG",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394543,
         "lon": -4.542358,
         "lat": 54.138848,
@@ -15868,7 +15896,9 @@
         "name:en": "Ballakilley",
         "name:gv": "Balley Killey",
         "place": "farm",
+        "postal_code": "IM9 5LW",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394545,
         "lon": -4.739171,
         "lat": 54.087296,
@@ -16165,9 +16195,12 @@
         ]
       },
       "properties": {
-        "name": "Ballakilleyclieu",
+        "alt_name": "Ballakilleyclieu",
+        "name": "Ballakilley Clieu",
         "place": "farm",
+        "postal_code": "IM6 1AX",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394573,
         "lon": -4.57682,
         "lat": 54.262423,
@@ -16507,7 +16540,9 @@
       "properties": {
         "name": "Middle Cordeman Farm",
         "place": "farm",
+        "postal_code": "IM9 3AJ",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394602,
         "lon": -4.618747,
         "lat": 54.142909,
@@ -18124,7 +18159,9 @@
         "name:en": "Ballakilley",
         "name:gv": "Balley Killey",
         "place": "farm",
+        "postal_code": "IM9 3AU",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 475394762,
         "lon": -4.62802,
         "lat": 54.125685,
@@ -18442,27 +18479,6 @@
         "lat": 54.283662,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475394860"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 475394869,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.504526,
-          54.216044
-        ]
-      },
-      "properties": {
-        "name": "Ballachrink",
-        "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)",
-        "osm_id": 475394869,
-        "lon": -4.504526,
-        "lat": 54.216044,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/475394869"
       }
     },
     {
@@ -19333,27 +19349,6 @@
         "lat": 54.340136,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475395010"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 475395014,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.506872,
-          54.374347
-        ]
-      },
-      "properties": {
-        "name": "Ballagarraghyn Farm",
-        "place": "farm",
-        "source": "Isle of Man Government 1:25000 map (2007)",
-        "osm_id": 475395014,
-        "lon": -4.506872,
-        "lat": 54.374347,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/475395014"
       }
     },
     {
@@ -21594,6 +21589,9 @@
         "name:ru": "\u041f\u043e\u0440\u0442 \u042d\u0440\u0438\u043d",
         "name:uk": "\u041f\u043e\u0440\u0442 \u0415\u0440\u0456\u043d",
         "place": "village",
+        "population": "3730",
+        "population:date": "2021",
+        "source:population": "wikipedia",
         "wikidata": "Q520798",
         "wikipedia": "en:Port Erin",
         "osm_id": 1287831029,
@@ -22534,6 +22532,8 @@
         "name": "Ballaugh",
         "name:gv": "Balley ny Loughey",
         "place": "village",
+        "wikidata": "Q2734562",
+        "wikipedia": "en:Ballaugh",
         "osm_id": 6948740313,
         "lon": -4.543054,
         "lat": 54.311937,
@@ -27798,6 +27798,8 @@
       "properties": {
         "name": "Ballanorris",
         "place": "locality",
+        "postal_code": "IM9 4LB",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "tourism": "attraction",
         "osm_id": 10862294647,
         "lon": -4.674955,
@@ -28016,8 +28018,10 @@
         "addr:street": "Lonan Church Road",
         "contact:facebook": "https://www.facebook.com/p/Strenaby-Farm-100054244462074/",
         "name": "Strenaby Farm",
+        "old_name": "Grawe",
         "place": "farm",
         "source:addr": "Isle of Man Government Planning Applications",
+        "source:old_name": "OS 6 inch 1870 map",
         "osm_id": 11143841441,
         "lon": -4.416713,
         "lat": 54.221903,
@@ -35329,6 +35333,14 @@
             54.166999
           ],
           [
+            -4.527418,
+            54.166948
+          ],
+          [
+            -4.527741,
+            54.166724
+          ],
+          [
             -4.527967,
             54.166565
           ],
@@ -35461,6 +35473,14 @@
             54.16948
           ],
           [
+            -4.528038,
+            54.169395
+          ],
+          [
+            -4.528313,
+            54.16945
+          ],
+          [
             -4.528581,
             54.16956
           ],
@@ -35489,8 +35509,8 @@
             54.170855
           ],
           [
-            -4.527785,
-            54.170422
+            -4.527721,
+            54.170424
           ],
           [
             -4.527689,
@@ -35541,20 +35561,28 @@
             54.170595
           ],
           [
-            -4.524727,
-            54.170579
+            -4.524853,
+            54.170519
           ],
           [
-            -4.524792,
-            54.170334
+            -4.524762,
+            54.17051
           ],
           [
-            -4.523268,
-            54.170233
+            -4.524796,
+            54.17039
           ],
           [
-            -4.522582,
-            54.17061
+            -4.523308,
+            54.170288
+          ],
+          [
+            -4.523029,
+            54.170421
+          ],
+          [
+            -4.522736,
+            54.170589
           ],
           [
             -4.523032,
@@ -35577,6 +35605,18 @@
             54.17174
           ],
           [
+            -4.517906,
+            54.172081
+          ],
+          [
+            -4.517579,
+            54.172184
+          ],
+          [
+            -4.517405,
+            54.172188
+          ],
+          [
             -4.517271,
             54.171816
           ]
@@ -35592,8 +35632,8 @@
         "place": "village",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 79240227,
-        "lon": -4.524384282299268,
-        "lat": 54.169438284777364,
+        "lon": -4.524312675281596,
+        "lat": 54.1694670587907,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79240227"
       }
@@ -36926,8 +36966,8 @@
             54.30972
           ],
           [
-            -4.544862,
-            54.310384
+            -4.544787,
+            54.310238
           ],
           [
             -4.547571,
@@ -36942,28 +36982,72 @@
             54.31378
           ],
           [
+            -4.547163,
+            54.314178
+          ],
+          [
             -4.546917,
             54.314251
+          ],
+          [
+            -4.546136,
+            54.314578
           ],
           [
             -4.54557,
             54.314764
           ],
           [
+            -4.545096,
+            54.314886
+          ],
+          [
+            -4.544052,
+            54.315185
+          ],
+          [
             -4.543442,
             54.315327
           ],
           [
-            -4.541741,
-            54.313651
+            -4.543351,
+            54.315316
+          ],
+          [
+            -4.543233,
+            54.315195
+          ],
+          [
+            -4.542298,
+            54.314263
+          ],
+          [
+            -4.542291,
+            54.314256
+          ],
+          [
+            -4.541767,
+            54.313748
+          ],
+          [
+            -4.541708,
+            54.313687
           ],
           [
             -4.540374,
             54.312412
           ],
           [
-            -4.538206,
-            54.310446
+            -4.53932,
+            54.311566
+          ],
+          [
+            -4.538851,
+            54.311093
+          ],
+          [
+            -4.538267,
+            54.310513
           ],
           [
             -4.537085,
@@ -37009,8 +37093,8 @@
         "wikidata": "Q2734562",
         "wikipedia": "en:Ballaugh",
         "osm_id": 83354912,
-        "lon": -4.542126026758552,
-        "lat": 54.31162533014631,
+        "lon": -4.542133291899693,
+        "lat": 54.31163211561686,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/83354912"
       }
@@ -38299,8 +38383,12 @@
             54.283222
           ],
           [
-            -4.593884,
-            54.283586
+            -4.593289,
+            54.283406
+          ],
+          [
+            -4.593659,
+            54.283601
           ],
           [
             -4.594142,
@@ -38343,8 +38431,12 @@
             54.285339
           ],
           [
-            -4.593183,
-            54.2855
+            -4.593469,
+            54.285442
+          ],
+          [
+            -4.593256,
+            54.28552
           ],
           [
             -4.594013,
@@ -38693,8 +38785,8 @@
         "name:gv": "Balley Keeill Vaayl",
         "place": "village",
         "osm_id": 114185354,
-        "lon": -4.58677611112754,
-        "lat": 54.28416508575625,
+        "lon": -4.586796489830428,
+        "lat": 54.28416934356329,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/114185354"
       }
@@ -42087,7 +42179,9 @@
         "landuse": "farmyard",
         "name": "Ballalaa",
         "place": "farm",
+        "postal_code": "IM5 3BW",
         "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
         "osm_id": 832386634,
         "lon": -4.7179317069786695,
         "lat": 54.177633208099486,
@@ -42660,40 +42754,36 @@
             54.362714
           ],
           [
-            -4.502596,
-            54.36299
+            -4.502514,
+            54.363019
           ],
           [
-            -4.502827,
-            54.363032
+            -4.503601,
+            54.363079
           ],
           [
-            -4.503407,
-            54.363076
+            -4.503818,
+            54.363153
           ],
           [
-            -4.503514,
-            54.363049
+            -4.504146,
+            54.363184
           ],
           [
-            -4.50386,
-            54.363147
-          ],
-          [
-            -4.504168,
-            54.363122
-          ],
-          [
-            -4.504259,
-            54.362936
+            -4.504307,
+            54.362815
           ],
           [
             -4.504092,
             54.362891
           ],
           [
-            -4.50379,
-            54.362797
+            -4.50383,
+            54.362844
+          ],
+          [
+            -4.503802,
+            54.362782
           ],
           [
             -4.503713,
@@ -42723,8 +42813,8 @@
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 835099422,
-        "lon": -4.503004124283842,
-        "lat": 54.36232357079528,
+        "lon": -4.503034110351533,
+        "lat": 54.362353116303055,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/835099422"
       }
@@ -42846,6 +42936,10 @@
             54.103976
           ],
           [
+            -4.683049,
+            54.104036
+          ],
+          [
             -4.682773,
             54.104078
           ],
@@ -42885,8 +42979,8 @@
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 837428719,
-        "lon": -4.6831218638884184,
-        "lat": 54.10423745873986,
+        "lon": -4.68312185543023,
+        "lat": 54.10423740251036,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/837428719"
       }
@@ -43360,8 +43454,8 @@
             54.205356
           ],
           [
-            -4.684486,
-            54.205447
+            -4.684405,
+            54.205632
           ],
           [
             -4.684357,
@@ -43376,20 +43470,16 @@
             54.205252
           ],
           [
-            -4.683134,
-            54.204957
+            -4.683174,
+            54.204862
           ],
           [
-            -4.684142,
-            54.204549
+            -4.684306,
+            54.204461
           ],
           [
-            -4.684443,
-            54.204562
-          ],
-          [
-            -4.68499,
-            54.204637
+            -4.685046,
+            54.204551
           ],
           [
             -4.684999,
@@ -43406,8 +43496,8 @@
         "source": "Isle of Man Government 1:25000 map (2007)",
         "source:postal_code": "Milk Production Holding Register",
         "osm_id": 890790036,
-        "lon": -4.683967834602745,
-        "lat": 54.205144737537466,
+        "lon": -4.683988596730294,
+        "lat": 54.20510513674541,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/890790036"
       }
@@ -44691,6 +44781,162 @@
         "lat": 54.32048184751692,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1317463349"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1468013608,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.50734,
+            54.374289
+          ],
+          [
+            -4.507273,
+            54.374442
+          ],
+          [
+            -4.50717,
+            54.374633
+          ],
+          [
+            -4.506714,
+            54.374493
+          ],
+          [
+            -4.50668,
+            54.37445
+          ],
+          [
+            -4.506675,
+            54.374444
+          ],
+          [
+            -4.506566,
+            54.374342
+          ],
+          [
+            -4.506695,
+            54.374256
+          ],
+          [
+            -4.506682,
+            54.374233
+          ],
+          [
+            -4.506723,
+            54.374222
+          ],
+          [
+            -4.506892,
+            54.374172
+          ],
+          [
+            -4.507123,
+            54.374106
+          ],
+          [
+            -4.50734,
+            54.374289
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Ballagarraghyn Farm",
+        "place": "farm",
+        "postal_code": "IM7 3ET",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
+        "osm_id": 1468013608,
+        "lon": -4.50697559412112,
+        "lat": 54.374360953691244,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1468013608"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1468070963,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.505708,
+            54.21575
+          ],
+          [
+            -4.505546,
+            54.215933
+          ],
+          [
+            -4.504921,
+            54.216328
+          ],
+          [
+            -4.504724,
+            54.216399
+          ],
+          [
+            -4.504496,
+            54.216326
+          ],
+          [
+            -4.504107,
+            54.216151
+          ],
+          [
+            -4.503856,
+            54.21602
+          ],
+          [
+            -4.503897,
+            54.215903
+          ],
+          [
+            -4.504477,
+            54.21557
+          ],
+          [
+            -4.504693,
+            54.215482
+          ],
+          [
+            -4.50476,
+            54.215346
+          ],
+          [
+            -4.504935,
+            54.215291
+          ],
+          [
+            -4.50523,
+            54.215352
+          ],
+          [
+            -4.505618,
+            54.21558
+          ],
+          [
+            -4.505708,
+            54.21575
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "farmyard",
+        "name": "Ballachrink Farm",
+        "place": "farm",
+        "postal_code": "IM4 5HF",
+        "source": "Isle of Man Government 1:25000 map (2007)",
+        "source:postal_code": "Isle of Man Government Companies Registry",
+        "osm_id": 1468070963,
+        "lon": -4.50479828262096,
+        "lat": 54.215849790875936,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1468070963"
       }
     }
   ]
