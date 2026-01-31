@@ -4841,6 +4841,25 @@
     },
     {
       "type": "Feature",
+      "id": 13514962673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.575065,
+          54.27361
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:locality": "Cooil Shellagh Farm",
+        "addr:postcode": "IM6 1AU",
+        "name": "Willow Nook Cottages",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -11959,24 +11978,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.575193,
-            54.273462
+            -4.575117,
+            54.273518
           ],
           [
-            -4.575275,
-            54.273492
+            -4.575198,
+            54.273551
           ],
           [
-            -4.575066,
-            54.273686
+            -4.575124,
+            54.273614
           ],
           [
-            -4.574984,
-            54.273656
+            -4.575043,
+            54.273581
           ],
           [
-            -4.575193,
-            54.273462
+            -4.575117,
+            54.273518
           ]
         ]
       },
@@ -11986,9 +12005,9 @@
         "addr:locality": "Cooil Shellagh Farm",
         "addr:postcode": "IM6 1AU",
         "building": "house",
-        "name": "Willow Nook Cottages",
+        "name": "Rosehip Cottage",
         "tourism": "chalet",
-        "website": "https://www.willownook.com/"
+        "website": "https://www.islandescapes.im/property/kirk-michael-rosehip-cottage-willow-nook-cottages"
       }
     },
     {
@@ -21577,6 +21596,110 @@
         "source:addr:housenumber": "poi",
         "tourism": "hotel",
         "website": "https://www.arrandale.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011856,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.575198,
+            54.273551
+          ],
+          [
+            -4.575255,
+            54.273503
+          ],
+          [
+            -4.575174,
+            54.27347
+          ],
+          [
+            -4.575117,
+            54.273518
+          ],
+          [
+            -4.575198,
+            54.273551
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:postcode": "IM6 1AU",
+        "building": "yes",
+        "name": "Acorn Cottage",
+        "tourism": "chalet",
+        "website": "https://www.islandescapes.im/property/kirk-michael-acorn-cottage-willow-nook-cottages"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011857,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.574951,
+            54.273659
+          ],
+          [
+            -4.574866,
+            54.273716
+          ],
+          [
+            -4.574933,
+            54.273753
+          ],
+          [
+            -4.575032,
+            54.273692
+          ],
+          [
+            -4.574951,
+            54.273659
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011858,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.575124,
+            54.273614
+          ],
+          [
+            -4.575032,
+            54.273692
+          ],
+          [
+            -4.574951,
+            54.273659
+          ],
+          [
+            -4.575043,
+            54.273581
+          ],
+          [
+            -4.575124,
+            54.273614
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "tourism": "chalet"
       }
     }
   ]

@@ -7096,7 +7096,7 @@
         "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar",
         "shop": "convenience",
-        "website": "https://www.spar.co.uk/store-locator/hal31382-spar-farmhill/"
+        "website": "https://www.spar.co.uk/store-locator/hal31382-spar-farmhill"
       }
     },
     {
@@ -9922,6 +9922,25 @@
         "fixme": "better tagging",
         "leisure": "indoor_play",
         "name": "Manx Fun Farm"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13514962673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.575065,
+          54.27361
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:locality": "Cooil Shellagh Farm",
+        "addr:postcode": "IM6 1AU",
+        "name": "Willow Nook Cottages",
+        "tourism": "chalet"
       }
     },
     {
@@ -17040,7 +17059,7 @@
         "name": "Spar",
         "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
-        "website": "https://www.spar.co.uk/store-locator/hal20324-spar-ballasalla/"
+        "website": "https://www.spar.co.uk/store-locator/hal20324-spar-ballasalla"
       }
     },
     {
@@ -78156,7 +78175,7 @@
         "name": "Spar",
         "shop": "supermarket",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.spar.co.uk/store-locator/hal19532-spar-snaefell-road-willaston/"
+        "website": "https://www.spar.co.uk/store-locator/hal19532-spar-snaefell-road-willaston"
       }
     },
     {
@@ -78376,24 +78395,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.575193,
-            54.273462
+            -4.575117,
+            54.273518
           ],
           [
-            -4.575275,
-            54.273492
+            -4.575198,
+            54.273551
           ],
           [
-            -4.575066,
-            54.273686
+            -4.575124,
+            54.273614
           ],
           [
-            -4.574984,
-            54.273656
+            -4.575043,
+            54.273581
           ],
           [
-            -4.575193,
-            54.273462
+            -4.575117,
+            54.273518
           ]
         ]
       },
@@ -78403,9 +78422,9 @@
         "addr:locality": "Cooil Shellagh Farm",
         "addr:postcode": "IM6 1AU",
         "building": "house",
-        "name": "Willow Nook Cottages",
+        "name": "Rosehip Cottage",
         "tourism": "chalet",
-        "website": "https://www.willownook.com/"
+        "website": "https://www.islandescapes.im/property/kirk-michael-rosehip-cottage-willow-nook-cottages"
       }
     },
     {
@@ -98045,7 +98064,7 @@
         "building": "yes",
         "name": "Spar",
         "shop": "supermarket",
-        "website": "https://www.spar.co.uk/store-locator/hal22437-spar-colby/"
+        "website": "https://www.spar.co.uk/store-locator/hal22437-spar-colby"
       }
     },
     {
@@ -104145,7 +104164,7 @@
         "name": "The Works",
         "shop": "books",
         "source": "Bing;photograph;survey",
-        "website": "https://www.theworks.co.uk"
+        "website": "https://www.theworks.co.uk/Store?storeId=1115"
       }
     },
     {
@@ -136714,7 +136733,7 @@
         "opening_hours": "Mo-Th 08:00-19:00; Fr-Sa 08:00-20:00; Su 08:00-18:00",
         "phone": "+44 1624 897232",
         "shop": "convenience",
-        "website": "https://www.spar.co.uk/store-locator/hal27036-spar-ballaugh/"
+        "website": "https://www.spar.co.uk/store-locator/hal27036-spar-ballaugh"
       }
     },
     {
@@ -149193,7 +149212,7 @@
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
-        "website": "https://www.spar.co.uk/store-locator/hal19537-spar-union-mills/"
+        "website": "https://www.spar.co.uk/store-locator/hal19537-spar-union-mills"
       }
     },
     {
@@ -177383,6 +177402,74 @@
     },
     {
       "type": "Feature",
+      "id": 1451764214,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.515752,
+            54.157394
+          ],
+          [
+            -4.515716,
+            54.157303
+          ],
+          [
+            -4.51562,
+            54.157315
+          ],
+          [
+            -4.5156,
+            54.157264
+          ],
+          [
+            -4.515707,
+            54.15725
+          ],
+          [
+            -4.515688,
+            54.157203
+          ],
+          [
+            -4.515765,
+            54.157193
+          ],
+          [
+            -4.515779,
+            54.157227
+          ],
+          [
+            -4.515834,
+            54.157219
+          ],
+          [
+            -4.515856,
+            54.157275
+          ],
+          [
+            -4.515888,
+            54.157271
+          ],
+          [
+            -4.515927,
+            54.157371
+          ],
+          [
+            -4.515752,
+            54.157394
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "9",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1451783063,
       "geometry": {
         "type": "LineString",
@@ -185116,6 +185203,644 @@
         "building": "yes",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594177,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516127,
+            54.157583
+          ],
+          [
+            -4.516052,
+            54.157549
+          ],
+          [
+            -4.516079,
+            54.157528
+          ],
+          [
+            -4.516044,
+            54.157511
+          ],
+          [
+            -4.516023,
+            54.157527
+          ],
+          [
+            -4.515956,
+            54.157496
+          ],
+          [
+            -4.516051,
+            54.157425
+          ],
+          [
+            -4.516158,
+            54.157473
+          ],
+          [
+            -4.516181,
+            54.157455
+          ],
+          [
+            -4.516254,
+            54.157488
+          ],
+          [
+            -4.516127,
+            54.157583
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594178,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516198,
+            54.157693
+          ],
+          [
+            -4.516278,
+            54.157724
+          ],
+          [
+            -4.516303,
+            54.157702
+          ],
+          [
+            -4.516341,
+            54.157716
+          ],
+          [
+            -4.516323,
+            54.157733
+          ],
+          [
+            -4.516394,
+            54.15776
+          ],
+          [
+            -4.516479,
+            54.157684
+          ],
+          [
+            -4.516366,
+            54.157641
+          ],
+          [
+            -4.516388,
+            54.157622
+          ],
+          [
+            -4.516311,
+            54.157593
+          ],
+          [
+            -4.516198,
+            54.157693
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594179,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516554,
+            54.157797
+          ],
+          [
+            -4.516642,
+            54.157811
+          ],
+          [
+            -4.516654,
+            54.157785
+          ],
+          [
+            -4.516701,
+            54.157792
+          ],
+          [
+            -4.516688,
+            54.157822
+          ],
+          [
+            -4.516773,
+            54.157835
+          ],
+          [
+            -4.516777,
+            54.157827
+          ],
+          [
+            -4.516855,
+            54.157839
+          ],
+          [
+            -4.516883,
+            54.157778
+          ],
+          [
+            -4.516796,
+            54.157765
+          ],
+          [
+            -4.516808,
+            54.157739
+          ],
+          [
+            -4.516679,
+            54.157718
+          ],
+          [
+            -4.516689,
+            54.157696
+          ],
+          [
+            -4.516606,
+            54.157683
+          ],
+          [
+            -4.516554,
+            54.157797
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594180,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.517119,
+            54.158069
+          ],
+          [
+            -4.516963,
+            54.158031
+          ],
+          [
+            -4.516996,
+            54.157984
+          ],
+          [
+            -4.517045,
+            54.157995
+          ],
+          [
+            -4.517069,
+            54.157961
+          ],
+          [
+            -4.517032,
+            54.157952
+          ],
+          [
+            -4.517062,
+            54.157909
+          ],
+          [
+            -4.517207,
+            54.157944
+          ],
+          [
+            -4.517119,
+            54.158069
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594181,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516791,
+            54.158121
+          ],
+          [
+            -4.516779,
+            54.158033
+          ],
+          [
+            -4.5167,
+            54.158037
+          ],
+          [
+            -4.516702,
+            54.158055
+          ],
+          [
+            -4.516632,
+            54.158059
+          ],
+          [
+            -4.51663,
+            54.15804
+          ],
+          [
+            -4.516557,
+            54.158043
+          ],
+          [
+            -4.516573,
+            54.158162
+          ],
+          [
+            -4.51664,
+            54.158159
+          ],
+          [
+            -4.516635,
+            54.15813
+          ],
+          [
+            -4.5167,
+            54.158127
+          ],
+          [
+            -4.516703,
+            54.158144
+          ],
+          [
+            -4.516707,
+            54.15815
+          ],
+          [
+            -4.516716,
+            54.158155
+          ],
+          [
+            -4.516726,
+            54.158158
+          ],
+          [
+            -4.51674,
+            54.158158
+          ],
+          [
+            -4.516753,
+            54.158157
+          ],
+          [
+            -4.516763,
+            54.158154
+          ],
+          [
+            -4.516774,
+            54.158144
+          ],
+          [
+            -4.516771,
+            54.158122
+          ],
+          [
+            -4.516791,
+            54.158121
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594182,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516521,
+            54.158187
+          ],
+          [
+            -4.516497,
+            54.158113
+          ],
+          [
+            -4.516418,
+            54.158122
+          ],
+          [
+            -4.516413,
+            54.158107
+          ],
+          [
+            -4.516355,
+            54.158113
+          ],
+          [
+            -4.516337,
+            54.158106
+          ],
+          [
+            -4.516327,
+            54.158072
+          ],
+          [
+            -4.516262,
+            54.158078
+          ],
+          [
+            -4.516276,
+            54.158124
+          ],
+          [
+            -4.516232,
+            54.158129
+          ],
+          [
+            -4.516258,
+            54.158213
+          ],
+          [
+            -4.516273,
+            54.158217
+          ],
+          [
+            -4.516299,
+            54.158214
+          ],
+          [
+            -4.516308,
+            54.158207
+          ],
+          [
+            -4.516301,
+            54.158186
+          ],
+          [
+            -4.516422,
+            54.158172
+          ],
+          [
+            -4.51643,
+            54.158197
+          ],
+          [
+            -4.516521,
+            54.158187
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594183,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.516139,
+            54.158118
+          ],
+          [
+            -4.516208,
+            54.158038
+          ],
+          [
+            -4.516136,
+            54.158017
+          ],
+          [
+            -4.51612,
+            54.158036
+          ],
+          [
+            -4.516083,
+            54.158025
+          ],
+          [
+            -4.516078,
+            54.158013
+          ],
+          [
+            -4.516088,
+            54.158001
+          ],
+          [
+            -4.516013,
+            54.157979
+          ],
+          [
+            -4.515943,
+            54.15806
+          ],
+          [
+            -4.516057,
+            54.158096
+          ],
+          [
+            -4.516026,
+            54.158131
+          ],
+          [
+            -4.516097,
+            54.158152
+          ],
+          [
+            -4.516128,
+            54.158115
+          ],
+          [
+            -4.516139,
+            54.158118
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1471594184,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.515926,
+            54.157986
+          ],
+          [
+            -4.516026,
+            54.157917
+          ],
+          [
+            -4.51596,
+            54.157883
+          ],
+          [
+            -4.515936,
+            54.1579
+          ],
+          [
+            -4.515896,
+            54.15788
+          ],
+          [
+            -4.515927,
+            54.157858
+          ],
+          [
+            -4.515859,
+            54.157824
+          ],
+          [
+            -4.515833,
+            54.157842
+          ],
+          [
+            -4.515799,
+            54.157825
+          ],
+          [
+            -4.51577,
+            54.157822
+          ],
+          [
+            -4.515754,
+            54.15783
+          ],
+          [
+            -4.515748,
+            54.157846
+          ],
+          [
+            -4.515789,
+            54.157867
+          ],
+          [
+            -4.515748,
+            54.157895
+          ],
+          [
+            -4.51586,
+            54.157951
+          ],
+          [
+            -4.515813,
+            54.157983
+          ],
+          [
+            -4.51587,
+            54.158011
+          ],
+          [
+            -4.515915,
+            54.157981
+          ],
+          [
+            -4.515926,
+            54.157986
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 1NQ",
+        "addr:street": "The Meadows",
+        "building": "house",
+        "house": "detached"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011856,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.575198,
+            54.273551
+          ],
+          [
+            -4.575255,
+            54.273503
+          ],
+          [
+            -4.575174,
+            54.27347
+          ],
+          [
+            -4.575117,
+            54.273518
+          ],
+          [
+            -4.575198,
+            54.273551
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:postcode": "IM6 1AU",
+        "building": "yes",
+        "name": "Acorn Cottage",
+        "tourism": "chalet",
+        "website": "https://www.islandescapes.im/property/kirk-michael-acorn-cottage-willow-nook-cottages"
       }
     }
   ]

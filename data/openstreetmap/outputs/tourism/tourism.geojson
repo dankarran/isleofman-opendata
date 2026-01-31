@@ -6226,6 +6226,30 @@
     },
     {
       "type": "Feature",
+      "id": 13514962673,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.575065,
+          54.27361
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:locality": "Cooil Shellagh Farm",
+        "addr:postcode": "IM6 1AU",
+        "name": "Willow Nook Cottages",
+        "tourism": "chalet",
+        "osm_id": 13514962673,
+        "lon": -4.575065,
+        "lat": 54.27361,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13514962673"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986488,
       "geometry": {
         "type": "LineString",
@@ -13874,24 +13898,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.575193,
-            54.273462
+            -4.575117,
+            54.273518
           ],
           [
-            -4.575275,
-            54.273492
+            -4.575198,
+            54.273551
           ],
           [
-            -4.575066,
-            54.273686
+            -4.575124,
+            54.273614
           ],
           [
-            -4.574984,
-            54.273656
+            -4.575043,
+            54.273581
           ],
           [
-            -4.575193,
-            54.273462
+            -4.575117,
+            54.273518
           ]
         ]
       },
@@ -13901,12 +13925,12 @@
         "addr:locality": "Cooil Shellagh Farm",
         "addr:postcode": "IM6 1AU",
         "building": "house",
-        "name": "Willow Nook Cottages",
+        "name": "Rosehip Cottage",
         "tourism": "chalet",
-        "website": "https://www.willownook.com/",
+        "website": "https://www.islandescapes.im/property/kirk-michael-rosehip-cottage-willow-nook-cottages",
         "osm_id": 165849970,
-        "lon": -4.5751295,
-        "lat": 54.273573999999996,
+        "lon": -4.5751205,
+        "lat": 54.273565999999995,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165849970"
       }
@@ -24182,6 +24206,125 @@
         "lat": 54.16032327148615,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1466077190"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011856,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.575198,
+            54.273551
+          ],
+          [
+            -4.575255,
+            54.273503
+          ],
+          [
+            -4.575174,
+            54.27347
+          ],
+          [
+            -4.575117,
+            54.273518
+          ],
+          [
+            -4.575198,
+            54.273551
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Kirk Michael",
+        "addr:country": "IM",
+        "addr:postcode": "IM6 1AU",
+        "building": "yes",
+        "name": "Acorn Cottage",
+        "tourism": "chalet",
+        "website": "https://www.islandescapes.im/property/kirk-michael-acorn-cottage-willow-nook-cottages",
+        "osm_id": 1473011856,
+        "lon": -4.5751859999999995,
+        "lat": 54.27351050000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1473011856"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011857,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.574951,
+            54.273659
+          ],
+          [
+            -4.574866,
+            54.273716
+          ],
+          [
+            -4.574933,
+            54.273753
+          ],
+          [
+            -4.575032,
+            54.273692
+          ],
+          [
+            -4.574951,
+            54.273659
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "tourism": "chalet",
+        "osm_id": 1473011857,
+        "lon": -4.5749481617634045,
+        "lat": 54.2737047952053,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1473011857"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1473011858,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.575124,
+            54.273614
+          ],
+          [
+            -4.575032,
+            54.273692
+          ],
+          [
+            -4.574951,
+            54.273659
+          ],
+          [
+            -4.575043,
+            54.273581
+          ],
+          [
+            -4.575124,
+            54.273614
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "tourism": "chalet",
+        "osm_id": 1473011858,
+        "lon": -4.5750375,
+        "lat": 54.2736365,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1473011858"
       }
     }
   ]
