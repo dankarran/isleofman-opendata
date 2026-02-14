@@ -7566,18 +7566,14 @@
             54.232216
           ],
           [
-            -4.399474,
-            54.23228
-          ],
-          [
-            -4.399512,
-            54.232342
+            -4.399438,
+            54.23224
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -7864,8 +7860,12 @@
             54.179056
           ],
           [
-            -4.472759,
-            54.178997
+            -4.472756,
+            54.179007
+          ],
+          [
+            -4.472818,
+            54.178901
           ],
           [
             -4.472863,
@@ -9121,6 +9121,78 @@
     },
     {
       "type": "Feature",
+      "id": 25986160,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.517704,
+            54.156898
+          ],
+          [
+            -4.517775,
+            54.156848
+          ],
+          [
+            -4.518141,
+            54.15697
+          ],
+          [
+            -4.518221,
+            54.156968
+          ],
+          [
+            -4.518282,
+            54.156944
+          ],
+          [
+            -4.518664,
+            54.156686
+          ],
+          [
+            -4.518688,
+            54.156635
+          ],
+          [
+            -4.518685,
+            54.156585
+          ],
+          [
+            -4.518659,
+            54.156533
+          ],
+          [
+            -4.517892,
+            54.156101
+          ],
+          [
+            -4.518028,
+            54.155935
+          ],
+          [
+            -4.518148,
+            54.155744
+          ],
+          [
+            -4.518172,
+            54.155707
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Ashbourne Avenue",
+        "name:en": "Ashbourne Avenue",
+        "name:gv": "Astyl Strooan Unjil",
+        "postal_code": "IM2 1NR;IM2 1NW",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25986164,
       "geometry": {
         "type": "LineString",
@@ -9246,18 +9318,18 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.698966,
-            54.097111
+            -4.69898,
+            54.097121
           ],
           [
-            -4.698965,
-            54.097179
+            -4.698988,
+            54.09718
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Cronk Cullyn",
         "name:gv": "Cronk Cullyn",
         "surface": "paved"
@@ -9396,7 +9468,7 @@
         "maxspeed": "20 mph",
         "name": "Close-y-Locker",
         "name:gv": "Close-y-Locker",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -11064,6 +11136,10 @@
             54.17077
           ],
           [
+            -4.510476,
+            54.170695
+          ],
+          [
             -4.510641,
             54.170637
           ],
@@ -11132,7 +11208,6 @@
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
         "oneway": "no",
-        "postal_code": "IM4 4RN;IM4 4RR",
         "surface": "paved"
       }
     },
@@ -12258,30 +12333,38 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.526054,
-            54.155304
+            -4.526076,
+            54.155318
           ],
           [
-            -4.525949,
-            54.155365
+            -4.525971,
+            54.155378
           ],
           [
-            -4.525438,
-            54.155709
+            -4.525868,
+            54.15545
           ],
           [
-            -4.525351,
-            54.155731
+            -4.525563,
+            54.155653
           ],
           [
-            -4.524744,
-            54.155767
+            -4.525448,
+            54.155712
+          ],
+          [
+            -4.525342,
+            54.155737
+          ],
+          [
+            -4.524752,
+            54.155786
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Manor Hill",
         "name:en": "Manor Hill",
@@ -12948,6 +13031,33 @@
         "name": "Malew Street",
         "name:en": "Malew Street",
         "name:gv": "Straid Valen"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986701,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497752,
+            54.166064
+          ],
+          [
+            -4.497757,
+            54.166002
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Hollin Bank",
+        "name:en": "Hollin Bank",
+        "name:gv": "Broogh Hollyn",
+        "sidewalk": "no",
+        "surface": "paved"
       }
     },
     {
@@ -13873,7 +13983,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -14096,6 +14206,62 @@
         "name:en": "Marathon Road",
         "name:gv": "Raad Marathon",
         "source": "Isle of Man Government aerial imagery (2001)"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986896,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.520069,
+            54.156559
+          ],
+          [
+            -4.520044,
+            54.156583
+          ],
+          [
+            -4.519525,
+            54.156925
+          ],
+          [
+            -4.519009,
+            54.15726
+          ],
+          [
+            -4.518993,
+            54.157305
+          ],
+          [
+            -4.519032,
+            54.157352
+          ],
+          [
+            -4.519213,
+            54.157441
+          ],
+          [
+            -4.519315,
+            54.157534
+          ],
+          [
+            -4.51936,
+            54.157635
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Horseshoe Avenue",
+        "name:en": "Horseshoe Avenue",
+        "name:gv": "Bayr y Chrou",
+        "postal_code": "IM2 1QS;IM2 1QT",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
       }
     },
     {
@@ -14727,8 +14893,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.400499,
-            54.231983
+            -4.400477,
+            54.231886
           ],
           [
             -4.400457,
@@ -14762,7 +14928,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -14786,7 +14952,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -16208,18 +16374,14 @@
             54.233044
           ],
           [
-            -4.399098,
-            54.233124
-          ],
-          [
-            -4.399141,
-            54.233189
+            -4.399065,
+            54.233076
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -17708,12 +17870,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.697532,
-            54.097386
+            -4.697529,
+            54.097352
           ],
           [
-            -4.697118,
-            54.097442
+            -4.697099,
+            54.097419
           ]
         ]
       },
@@ -17841,6 +18003,99 @@
         "name:gv": "Traie Meanagh Drive",
         "postal_code": "IM9 6LL",
         "source": "Isle of Man Government 1:25000 map (2007);Isle of Man Government aerial imagery (2001)",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987358,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498912,
+            54.16694
+          ],
+          [
+            -4.498837,
+            54.16656
+          ],
+          [
+            -4.49882,
+            54.166469
+          ],
+          [
+            -4.498772,
+            54.166372
+          ],
+          [
+            -4.498723,
+            54.166313
+          ],
+          [
+            -4.498682,
+            54.166123
+          ],
+          [
+            -4.498634,
+            54.165985
+          ],
+          [
+            -4.498591,
+            54.165914
+          ],
+          [
+            -4.498544,
+            54.165871
+          ],
+          [
+            -4.498475,
+            54.165842
+          ],
+          [
+            -4.498418,
+            54.165836
+          ],
+          [
+            -4.498306,
+            54.165846
+          ],
+          [
+            -4.49821,
+            54.165872
+          ],
+          [
+            -4.498064,
+            54.165935
+          ],
+          [
+            -4.497991,
+            54.16596
+          ],
+          [
+            -4.497926,
+            54.165973
+          ],
+          [
+            -4.497757,
+            54.166002
+          ],
+          [
+            -4.497625,
+            54.165981
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Hollin Bank",
+        "name:en": "Hollin Bank",
+        "name:gv": "Broogh Hollyn",
+        "postal_code": "IM4 4TT",
+        "sidewalk": "no",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -17979,16 +18234,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.697344,
-            54.096795
+            -4.697363,
+            54.096778
           ],
           [
-            -4.696733,
-            54.096882
+            -4.696732,
+            54.096872
           ],
           [
-            -4.696663,
-            54.09689
+            -4.696661,
+            54.096883
           ]
         ]
       },
@@ -22949,7 +23204,8 @@
         "name": "Manor Road",
         "name:en": "Manor Road",
         "name:gv": "Raad Manor",
-        "postal_code": "IM2 2NL;IM2 2NN",
+        "postal_code:left": "IM2 2NN",
+        "postal_code:right": "IM2 2NL",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
@@ -23376,7 +23632,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Orry's Close",
         "name:en": "Orry's Close",
@@ -23832,7 +24088,7 @@
         "name": "Manor Woods",
         "name:en": "Manor Woods",
         "name:gv": "Keylljnn Y Vannor",
-        "postal_code": "IM2 2PE;IM2 2PG",
+        "postal_code": "IM2 2PE",
         "source": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
@@ -24360,6 +24616,10 @@
             54.235182
           ],
           [
+            -4.407075,
+            54.234924
+          ],
+          [
             -4.406656,
             54.234291
           ],
@@ -24403,6 +24663,7 @@
         "lane_markings": "no",
         "maxspeed": "30 mph",
         "name": "Mines Road",
+        "name:en": "Mines Road",
         "name:gv": "Bayr ny Meainyn",
         "sidewalk": "right",
         "surface": "asphalt"
@@ -24836,20 +25097,12 @@
             54.156948
           ],
           [
+            -4.524103,
+            54.156563
+          ],
+          [
             -4.524065,
             54.156521
-          ],
-          [
-            -4.524034,
-            54.156491
-          ],
-          [
-            -4.523387,
-            54.155862
-          ],
-          [
-            -4.523028,
-            54.15552
           ]
         ]
       },
@@ -24860,6 +25113,7 @@
         "name": "Manor Lane",
         "name:en": "Manor Lane",
         "name:gv": "Lhoan Mannor",
+        "sidewalk": "no",
         "surface": "paved"
       }
     },
@@ -25261,13 +25515,13 @@
             54.169747
           ],
           [
-            -4.519353,
-            54.169602
+            -4.519284,
+            54.169675
           ]
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Close-y-Locker",
         "name:gv": "Close-y-Locker",
@@ -25283,6 +25537,10 @@
           [
             -4.6992,
             54.097983
+          ],
+          [
+            -4.699187,
+            54.097955
           ],
           [
             -4.699168,
@@ -25329,7 +25587,7 @@
         "name:gv": "Cronk Cullyn",
         "postal_code": "IM9 4NQ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -26398,24 +26656,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.698707,
-            54.098505
+            -4.698006,
+            54.098099
           ],
           [
-            -4.698392,
-            54.098265
-          ],
-          [
-            -4.698265,
-            54.098214
-          ],
-          [
-            -4.698138,
-            54.098173
-          ],
-          [
-            -4.698032,
-            54.098116
+            -4.697957,
+            54.098028
           ],
           [
             -4.697918,
@@ -26426,24 +26672,28 @@
             54.09793
           ],
           [
-            -4.697753,
-            54.097893
+            -4.697737,
+            54.097877
           ],
           [
             -4.697634,
             54.097828
           ],
           [
-            -4.697505,
-            54.097744
+            -4.697499,
+            54.09775
           ],
           [
-            -4.697338,
-            54.097663
+            -4.697368,
+            54.097679
           ],
           [
-            -4.697118,
-            54.097442
+            -4.697245,
+            54.097586
+          ],
+          [
+            -4.697099,
+            54.097419
           ],
           [
             -4.696994,
@@ -26454,8 +26704,8 @@
             54.097062
           ],
           [
-            -4.696663,
-            54.09689
+            -4.696661,
+            54.096883
           ],
           [
             -4.696582,
@@ -26470,7 +26720,7 @@
         "name:gv": "Cronk Y Thatcher",
         "postal_code": "IM9 4LN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -26600,24 +26850,12 @@
           [
             -4.40003,
             54.232307
-          ],
-          [
-            -4.399957,
-            54.232278
-          ],
-          [
-            -4.399908,
-            54.232257
-          ],
-          [
-            -4.399876,
-            54.232243
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -30005,21 +30243,29 @@
         "coordinates": [
           [
             -4.699094,
-            54.097179
+            54.097173
           ],
           [
-            -4.698965,
-            54.097179
+            -4.698988,
+            54.09718
           ],
           [
-            -4.698469,
-            54.097231
+            -4.698902,
+            54.097198
+          ],
+          [
+            -4.698754,
+            54.097202
+          ],
+          [
+            -4.698619,
+            54.097211
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Cronk Cullyn",
         "name:gv": "Cronk Cullyn",
         "surface": "paved"
@@ -31800,7 +32046,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Orry's Close",
         "name:en": "Orry's Close",
@@ -33042,6 +33288,62 @@
     },
     {
       "type": "Feature",
+      "id": 25988825,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51936,
+            54.157635
+          ],
+          [
+            -4.519323,
+            54.1577
+          ],
+          [
+            -4.519294,
+            54.157746
+          ],
+          [
+            -4.519261,
+            54.157779
+          ],
+          [
+            -4.519115,
+            54.157888
+          ],
+          [
+            -4.519037,
+            54.157962
+          ],
+          [
+            -4.519006,
+            54.158032
+          ],
+          [
+            -4.519045,
+            54.158074
+          ],
+          [
+            -4.519133,
+            54.158121
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Bramble Close",
+        "name:en": "Bramble Close",
+        "name:gv": "Close ny Dressyn",
+        "postal_code": "IM2 1QN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25988836,
       "geometry": {
         "type": "LineString",
@@ -33058,7 +33360,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -33331,7 +33633,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -34048,48 +34350,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.399658,
-            54.233752
+            -4.399065,
+            54.233076
           ],
           [
-            -4.399452,
-            54.233651
+            -4.399112,
+            54.233125
           ],
           [
-            -4.39924,
-            54.233472
+            -4.399178,
+            54.233163
           ],
           [
-            -4.399157,
-            54.233346
+            -4.399265,
+            54.233153
           ],
           [
-            -4.399141,
-            54.233189
+            -4.39941,
+            54.233117
           ],
           [
-            -4.399257,
-            54.233183
+            -4.399516,
+            54.233075
           ],
           [
-            -4.399409,
-            54.233137
+            -4.399545,
+            54.233044
           ],
           [
-            -4.399504,
-            54.233089
+            -4.399589,
+            54.232992
           ],
           [
-            -4.399539,
-            54.233071
-          ],
-          [
-            -4.399595,
-            54.233001
-          ],
-          [
-            -4.399615,
-            54.232951
+            -4.399605,
+            54.23294
           ],
           [
             -4.399529,
@@ -34172,8 +34466,8 @@
             54.23198
           ],
           [
-            -4.400499,
-            54.231983
+            -4.40048,
+            54.231982
           ],
           [
             -4.400587,
@@ -34271,7 +34565,7 @@
         "lane_markings": "no",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
-        "surface": "paved"
+        "surface": "asphalt"
       }
     },
     {
@@ -35186,22 +35480,14 @@
             54.233003
           ],
           [
-            -4.399804,
-            54.23297
-          ],
-          [
-            -4.399695,
-            54.23296
-          ],
-          [
-            -4.399615,
-            54.232951
+            -4.399787,
+            54.232956
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "paved"
@@ -36166,20 +36452,32 @@
             54.096791
           ],
           [
-            -4.700603,
-            54.096737
+            -4.70059,
+            54.096745
           ],
           [
-            -4.70075,
-            54.096719
+            -4.700669,
+            54.096729
           ],
           [
-            -4.700901,
-            54.096726
+            -4.700756,
+            54.09672
           ],
           [
-            -4.701129,
-            54.096797
+            -4.700862,
+            54.096724
+          ],
+          [
+            -4.700967,
+            54.096746
+          ],
+          [
+            -4.701086,
+            54.096786
+          ],
+          [
+            -4.701202,
+            54.096832
           ],
           [
             -4.701296,
@@ -36201,7 +36499,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Cronk Cullyn",
         "name:gv": "Cronk Cullyn",
         "surface": "paved"
@@ -38571,8 +38869,8 @@
             54.158209
           ],
           [
-            -4.521796,
-            54.158249
+            -4.521806,
+            54.158247
           ],
           [
             -4.519971,
@@ -38622,14 +38920,14 @@
             54.155318
           ],
           [
-            -4.525949,
-            54.155365
+            -4.525971,
+            54.155378
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Manor Hill",
         "name:en": "Manor Hill",
@@ -40311,20 +40609,8 @@
             54.178381
           ],
           [
-            -4.471793,
-            54.17854
-          ],
-          [
-            -4.471759,
-            54.178637
-          ],
-          [
-            -4.471816,
-            54.178716
-          ],
-          [
-            -4.471951,
-            54.178806
+            -4.471848,
+            54.178433
           ]
         ]
       },
@@ -56826,11 +57112,23 @@
             54.167192
           ],
           [
-            -4.523452,
-            54.167248
+            -4.523521,
+            54.167253
           ],
           [
-            -4.524326,
+            -4.52367,
+            54.167241
+          ],
+          [
+            -4.524285,
+            54.167223
+          ],
+          [
+            -4.524471,
+            54.167206
+          ],
+          [
+            -4.524707,
             54.167206
           ],
           [
@@ -56876,6 +57174,10 @@
           [
             -4.528826,
             54.166584
+          ],
+          [
+            -4.528411,
+            54.166976
           ],
           [
             -4.528244,
@@ -65823,7 +66125,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -71023,7 +71325,9 @@
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
         "oneway": "no",
+        "postal_code": "IM4 4RN",
         "sidewalk": "no",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -71715,6 +72019,10 @@
             54.162779
           ],
           [
+            -4.504975,
+            54.16284
+          ],
+          [
             -4.504997,
             54.162926
           ],
@@ -72052,6 +72360,10 @@
             54.180625
           ],
           [
+            -4.473484,
+            54.180694
+          ],
+          [
             -4.473427,
             54.180764
           ],
@@ -72149,6 +72461,10 @@
             54.173915
           ],
           [
+            -4.689514,
+            54.174492
+          ],
+          [
             -4.68953,
             54.174515
           ],
@@ -72179,6 +72495,10 @@
           [
             -4.69235,
             54.176086
+          ],
+          [
+            -4.692431,
+            54.176159
           ],
           [
             -4.692592,
@@ -72471,16 +72791,24 @@
             54.163471
           ],
           [
-            -4.490779,
-            54.163614
+            -4.490765,
+            54.16361
           ],
           [
-            -4.490732,
-            54.163814
+            -4.490755,
+            54.1637
           ],
           [
-            -4.490562,
-            54.164105
+            -4.490715,
+            54.163818
+          ],
+          [
+            -4.490632,
+            54.163966
+          ],
+          [
+            -4.490534,
+            54.164125
           ],
           [
             -4.490398,
@@ -72499,28 +72827,40 @@
             54.165386
           ],
           [
-            -4.489298,
-            54.165433
+            -4.489326,
+            54.165425
           ],
           [
-            -4.488921,
-            54.165518
+            -4.489213,
+            54.16546
           ],
           [
-            -4.488854,
-            54.165533
+            -4.488922,
+            54.16552
           ],
           [
-            -4.488628,
-            54.165585
+            -4.488855,
+            54.165535
+          ],
+          [
+            -4.488626,
+            54.165583
+          ],
+          [
+            -4.488276,
+            54.165657
           ],
           [
             -4.48794,
             54.165741
           ],
           [
-            -4.485953,
-            54.166279
+            -4.487098,
+            54.165969
+          ],
+          [
+            -4.485966,
+            54.16627
           ],
           [
             -4.485465,
@@ -73737,6 +74077,10 @@
             54.179436
           ],
           [
+            -4.676702,
+            54.179323
+          ],
+          [
             -4.676584,
             54.179182
           ],
@@ -74905,16 +75249,24 @@
             54.204518
           ],
           [
-            -4.678426,
-            54.204587
+            -4.678377,
+            54.204602
           ],
           [
-            -4.679831,
-            54.204664
+            -4.679819,
+            54.204691
           ],
           [
             -4.681168,
             54.204824
+          ],
+          [
+            -4.681213,
+            54.204823
+          ],
+          [
+            -4.681375,
+            54.204819
           ],
           [
             -4.681442,
@@ -77803,18 +78155,6 @@
           [
             -4.522251,
             54.154705
-          ],
-          [
-            -4.522091,
-            54.154758
-          ],
-          [
-            -4.52196,
-            54.154829
-          ],
-          [
-            -4.521786,
-            54.154884
           ]
         ]
       },
@@ -77822,10 +78162,12 @@
         "abutters": "residential",
         "highway": "service",
         "maxspeed": "20 mph",
-        "name": "Manor Woods",
-        "name:en": "Manor Woods",
-        "name:gv": "Keylljnn Y Vannor",
+        "name": "The Steadings",
+        "name:en": "The Steadings",
+        "name:gv": "Ny Gowaltyssyn",
+        "postal_code": "IM2 2PG",
         "source": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones"
       }
     },
@@ -78690,6 +79032,10 @@
           [
             -4.518165,
             54.155639
+          ],
+          [
+            -4.518109,
+            54.155432
           ],
           [
             -4.518097,
@@ -80621,6 +80967,14 @@
             54.171089
           ],
           [
+            -4.475439,
+            54.171043
+          ],
+          [
+            -4.476912,
+            54.170783
+          ],
+          [
             -4.476997,
             54.170768
           ],
@@ -80631,6 +80985,10 @@
           [
             -4.47724,
             54.171357
+          ],
+          [
+            -4.477264,
+            54.171404
           ],
           [
             -4.477276,
@@ -82767,7 +83125,7 @@
             54.177329
           ],
           [
-            -4.473673,
+            -4.473686,
             54.177317
           ],
           [
@@ -82962,7 +83320,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -84331,12 +84689,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.698265,
-            54.098214
+            -4.698324,
+            54.098139
           ],
           [
-            -4.698337,
-            54.098119
+            -4.69837,
+            54.098104
           ],
           [
             -4.69845,
@@ -84367,8 +84725,12 @@
             54.097914
           ],
           [
-            -4.69999,
-            54.09785
+            -4.699894,
+            54.097881
+          ],
+          [
+            -4.7,
+            54.097848
           ],
           [
             -4.700133,
@@ -84395,6 +84757,10 @@
             54.097485
           ],
           [
+            -4.701714,
+            54.097442
+          ],
+          [
             -4.701858,
             54.09741
           ],
@@ -84407,16 +84773,24 @@
             54.097329
           ],
           [
-            -4.702317,
-            54.097304
+            -4.702272,
+            54.097313
+          ],
+          [
+            -4.702324,
+            54.097303
+          ],
+          [
+            -4.702376,
+            54.097297
           ],
           [
             -4.702437,
-            54.097298
+            54.097295
           ],
           [
             -4.702469,
-            54.0973
+            54.097296
           ]
         ]
       },
@@ -84461,7 +84835,7 @@
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Cronk Cullyn",
         "name:gv": "Cronk Cullyn",
         "surface": "paved"
@@ -84488,7 +84862,7 @@
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Cronk Cullyn",
         "name:gv": "Cronk Cullyn",
         "surface": "paved"
@@ -95366,6 +95740,10 @@
             54.168822
           ],
           [
+            -4.494834,
+            54.16532
+          ],
+          [
             -4.494437,
             54.164462
           ],
@@ -98125,12 +98503,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.743047,
-            54.085535
+            -4.743033,
+            54.085549
           ],
           [
-            -4.744254,
-            54.086158
+            -4.744228,
+            54.086165
+          ],
+          [
+            -4.744909,
+            54.085364
           ],
           [
             -4.745287,
@@ -98273,8 +98655,8 @@
             54.085703
           ],
           [
-            -4.743047,
-            54.085535
+            -4.743033,
+            54.085549
           ]
         ]
       },
@@ -103750,7 +104132,9 @@
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
         "oneway": "no",
+        "postal_code": "IM4 4RN",
         "sidewalk": "both",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -103771,26 +104155,6 @@
           [
             -4.51102,
             54.17016
-          ],
-          [
-            -4.511031,
-            54.170109
-          ],
-          [
-            -4.511085,
-            54.170063
-          ],
-          [
-            -4.511231,
-            54.170015
-          ],
-          [
-            -4.511309,
-            54.169995
-          ],
-          [
-            -4.511262,
-            54.169933
           ]
         ]
       },
@@ -103800,9 +104164,7 @@
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
         "oneway": "no",
-        "postal_code": "IM4 4RN;IM4 4RR",
         "sidewalk": "both",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -104056,6 +104418,10 @@
           [
             -4.51162,
             54.188574
+          ],
+          [
+            -4.512033,
+            54.188818
           ],
           [
             -4.512683,
@@ -104425,6 +104791,10 @@
             54.097326
           ],
           [
+            -4.701809,
+            54.097342
+          ],
+          [
             -4.701858,
             54.09741
           ]
@@ -104447,6 +104817,10 @@
           [
             -4.701031,
             54.097608
+          ],
+          [
+            -4.700989,
+            54.097546
           ],
           [
             -4.700982,
@@ -104857,10 +105231,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.51999,
-            54.169808
-          ],
-          [
             -4.519928,
             54.169867
           ],
@@ -104879,9 +105249,10 @@
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Close-y-Locker",
-        "name:gv": "Close-y-Locker"
+        "name:gv": "Close-y-Locker",
+        "surface": "paved"
       }
     },
     {
@@ -104956,6 +105327,14 @@
           [
             -4.518696,
             54.168891
+          ],
+          [
+            -4.518654,
+            54.168879
+          ],
+          [
+            -4.518639,
+            54.168875
           ],
           [
             -4.518329,
@@ -107184,7 +107563,9 @@
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
         "oneway": "no",
+        "postal_code": "IM4 4RN",
         "sidewalk": "no",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved"
       }
     },
@@ -111980,7 +112361,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -114918,6 +115299,596 @@
         "postal_code": "IM5 3DA",
         "source": "streetside",
         "source:postal_code": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1474529550,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498054,
+            54.16718
+          ],
+          [
+            -4.498282,
+            54.167134
+          ],
+          [
+            -4.498445,
+            54.167125
+          ],
+          [
+            -4.498583,
+            54.167127
+          ],
+          [
+            -4.498704,
+            54.167131
+          ],
+          [
+            -4.498788,
+            54.167118
+          ],
+          [
+            -4.498855,
+            54.167085
+          ],
+          [
+            -4.498894,
+            54.167037
+          ],
+          [
+            -4.498908,
+            54.167002
+          ],
+          [
+            -4.498912,
+            54.16694
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Hollin Bank",
+        "name:en": "Hollin Bank",
+        "name:gv": "Broogh Hollyn",
+        "postal_code": "IM4 4TT",
+        "sidewalk:right": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475074415,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524065,
+            54.156521
+          ],
+          [
+            -4.524034,
+            54.156491
+          ],
+          [
+            -4.523387,
+            54.155862
+          ],
+          [
+            -4.523028,
+            54.15552
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Manor Lane",
+        "name:en": "Manor Lane",
+        "name:gv": "Lhoan Mannor",
+        "sidewalk": "no",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475146412,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51102,
+            54.17016
+          ],
+          [
+            -4.511031,
+            54.170109
+          ],
+          [
+            -4.511085,
+            54.170063
+          ],
+          [
+            -4.511231,
+            54.170015
+          ],
+          [
+            -4.511309,
+            54.169995
+          ],
+          [
+            -4.511262,
+            54.169933
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk Grianagh",
+        "name:gv": "Cronk Grianagh",
+        "oneway": "no",
+        "postal_code": "IM4 4RN",
+        "sidewalk": "both",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475245268,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522251,
+            54.154705
+          ],
+          [
+            -4.522091,
+            54.154758
+          ],
+          [
+            -4.52196,
+            54.154829
+          ],
+          [
+            -4.521786,
+            54.154884
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "service",
+        "maxspeed": "20 mph",
+        "name": "Manor Woods",
+        "name:en": "Manor Woods",
+        "name:gv": "Keylljnn Y Vannor",
+        "source": "survey",
+        "surface": "paving_stones"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475373071,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471848,
+            54.178433
+          ],
+          [
+            -4.471793,
+            54.17854
+          ],
+          [
+            -4.471759,
+            54.178637
+          ],
+          [
+            -4.471816,
+            54.178716
+          ],
+          [
+            -4.471951,
+            54.178806
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Croven's Close",
+        "name:en": "Croven's Close",
+        "name:gv": "Close Ghorree Croven",
+        "postal_code": "IM2 7AH;IM2 7AQ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814913,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698707,
+            54.098505
+          ],
+          [
+            -4.69865,
+            54.098465
+          ],
+          [
+            -4.698472,
+            54.09834
+          ],
+          [
+            -4.698376,
+            54.098272
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cronk Y Thatcher",
+        "name:gv": "Cronk Y Thatcher",
+        "postal_code": "IM9 4LN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814914,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698376,
+            54.098272
+          ],
+          [
+            -4.698241,
+            54.098224
+          ],
+          [
+            -4.698128,
+            54.098188
+          ],
+          [
+            -4.69806,
+            54.098146
+          ],
+          [
+            -4.698006,
+            54.098099
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cronk Y Thatcher",
+        "name:gv": "Cronk Y Thatcher",
+        "postal_code": "IM9 4LN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814915,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698241,
+            54.098224
+          ],
+          [
+            -4.698268,
+            54.098201
+          ],
+          [
+            -4.69831,
+            54.098151
+          ],
+          [
+            -4.698324,
+            54.098139
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cronk Cullyn",
+        "name:gv": "Cronk Cullyn",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814917,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698619,
+            54.097211
+          ],
+          [
+            -4.698469,
+            54.097231
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cronk Cullyn",
+        "name:gv": "Cronk Cullyn",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814921,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698765,
+            54.098425
+          ],
+          [
+            -4.69865,
+            54.098465
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Cronk Y Thatcher",
+        "name:gv": "Cronk Y Thatcher"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477817711,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51999,
+            54.169808
+          ],
+          [
+            -4.519928,
+            54.169867
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "name": "Close-y-Locker",
+        "name:gv": "Close-y-Locker",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477817712,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.519284,
+            54.169675
+          ],
+          [
+            -4.519353,
+            54.169602
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Close-y-Locker",
+        "name:gv": "Close-y-Locker",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477853971,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399658,
+            54.233752
+          ],
+          [
+            -4.399556,
+            54.233707
+          ],
+          [
+            -4.399478,
+            54.233656
+          ],
+          [
+            -4.399265,
+            54.233466
+          ],
+          [
+            -4.39918,
+            54.233344
+          ],
+          [
+            -4.399163,
+            54.233247
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "lane_markings": "no",
+        "name": "Ard Reayrt",
+        "name:gv": "Ard Reayrt",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477853972,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399163,
+            54.233247
+          ],
+          [
+            -4.399178,
+            54.233163
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "lane_markings": "no",
+        "name": "Ard Reayrt",
+        "name:gv": "Ard Reayrt",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477853973,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399438,
+            54.23224
+          ],
+          [
+            -4.399474,
+            54.23228
+          ],
+          [
+            -4.399512,
+            54.232342
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ard Reayrt",
+        "name:gv": "Ard Reayrt",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477853974,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.40003,
+            54.232307
+          ],
+          [
+            -4.399957,
+            54.232278
+          ],
+          [
+            -4.399908,
+            54.232257
+          ],
+          [
+            -4.399876,
+            54.232243
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ard Reayrt",
+        "name:gv": "Ard Reayrt",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477853975,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.399787,
+            54.232956
+          ],
+          [
+            -4.399724,
+            54.232943
+          ],
+          [
+            -4.399605,
+            54.23294
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ard Reayrt",
+        "name:gv": "Ard Reayrt",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477853976,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.40048,
+            54.231982
+          ],
+          [
+            -4.400477,
+            54.231886
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Ard Reayrt",
+        "name:gv": "Ard Reayrt",
+        "surface": "asphalt"
       }
     }
   ]

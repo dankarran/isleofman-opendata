@@ -691,11 +691,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.477257,
-          54.157879
+          -4.477244,
+          54.157891
         ]
       },
       "properties": {
+        "fixme": "check on the ground; companies registry suggests 1a, on other side of road",
         "name": "Punch & Judy",
         "shop": "newsagent"
       }
@@ -2682,7 +2683,7 @@
         "brand:wikipedia": "en:Spar (retailer)",
         "name": "Spar",
         "shop": "convenience",
-        "website": "https://www.spar.co.uk/store-locator/hal31382-spar-farmhill/"
+        "website": "https://www.spar.co.uk/store-locator/hal31382-spar-farmhill"
       }
     },
     {
@@ -3538,6 +3539,22 @@
       "properties": {
         "shop": "hairdresser",
         "source": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13462065180,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.69364,
+          54.222709
+        ]
+      },
+      "properties": {
+        "name": "Paradise & Gell",
+        "shop": "furniture",
+        "website": "https://www.paradiseandgell.com/"
       }
     },
     {
@@ -4765,7 +4782,7 @@
         "brand:wikidata": "Q7439115",
         "building": "industrial",
         "name": "Screwfix",
-        "shop": "trade",
+        "shop": "doityourself",
         "source": "Isle of Man Government aerial imagery (2001)",
         "trade": "electrical;plumbing;heating"
       }
@@ -5076,7 +5093,7 @@
         "name": "Spar",
         "shop": "convenience",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
-        "website": "https://www.spar.co.uk/store-locator/hal20324-spar-ballasalla/"
+        "website": "https://www.spar.co.uk/store-locator/hal20324-spar-ballasalla"
       }
     },
     {
@@ -5667,6 +5684,8 @@
         "addr:place": "Middle River Industrial Estate",
         "addr:plot": "1",
         "addr:postcode": "IM2 1AL",
+        "brand": "Edmundson Electrical",
+        "brand:wikidata": "Q27958713",
         "building": "yes",
         "name": "Edmundson Electrical",
         "shop": "trade",
@@ -12649,11 +12668,12 @@
         "addr:city": "Ramsey",
         "addr:country": "IM",
         "addr:street": "Parliament Square",
+        "branch": "Ramsey",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:Spar (retailer)",
         "building": "yes",
-        "name": "Spar Ramsey",
+        "name": "Spar",
         "note": "website lists address as 84 Parliament Street, which seems a stretch",
         "shop": "supermarket",
         "source": "Bing",
@@ -15007,7 +15027,7 @@
         "name": "Spar",
         "shop": "supermarket",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "website": "https://www.spar.co.uk/store-locator/hal19532-spar-snaefell-road-willaston/"
+        "website": "https://www.spar.co.uk/store-locator/hal19532-spar-snaefell-road-willaston"
       }
     },
     {
@@ -15742,7 +15762,7 @@
         "addr:place": "Spring Valley Industrial Estate",
         "addr:postcode": "IM2 2QR",
         "addr:unit": "2",
-        "brand": "Currys",
+        "brand": "currys",
         "brand:wikidata": "Q3246464",
         "brand:wikipedia": "en:Currys",
         "building": "retail",
@@ -17555,7 +17575,7 @@
         "building": "yes",
         "name": "Spar",
         "shop": "supermarket",
-        "website": "https://www.spar.co.uk/store-locator/hal22437-spar-colby/"
+        "website": "https://www.spar.co.uk/store-locator/hal22437-spar-colby"
       }
     },
     {
@@ -19671,7 +19691,7 @@
         "name": "The Works",
         "shop": "books",
         "source": "Bing;photograph;survey",
-        "website": "https://www.theworks.co.uk"
+        "website": "https://www.theworks.co.uk/Store?storeId=1115"
       }
     },
     {
@@ -19840,7 +19860,7 @@
         "postal_code": "IM1 2EL",
         "shop": "jewelry",
         "source": "Bing;photograph",
-        "website": "https://www.hsamuel.co.uk/store/HS4074-Douglas"
+        "website": "https://www.hsamuel.co.uk/store/GB-REG/Douglas/HS4074"
       }
     },
     {
@@ -24223,7 +24243,7 @@
         "building": "industrial",
         "name": "CEF",
         "roof:colour": "#e3e3e1",
-        "shop": "trade",
+        "shop": "electrical",
         "trade": "electrical",
         "website": "https://www.cef.co.uk/stores/iom"
       }
@@ -25395,7 +25415,7 @@
         "opening_hours": "Mo-Th 08:00-19:00; Fr-Sa 08:00-20:00; Su 08:00-18:00",
         "phone": "+44 1624 897232",
         "shop": "convenience",
-        "website": "https://www.spar.co.uk/store-locator/hal27036-spar-ballaugh/"
+        "website": "https://www.spar.co.uk/store-locator/hal27036-spar-ballaugh"
       }
     },
     {
@@ -26602,7 +26622,7 @@
         "building": "yes",
         "name": "Spar",
         "shop": "convenience",
-        "website": "https://www.spar.co.uk/store-locator/hal19537-spar-union-mills/"
+        "website": "https://www.spar.co.uk/store-locator/hal19537-spar-union-mills"
       }
     },
     {
@@ -26937,7 +26957,7 @@
         "brand": "Yesss Electrical",
         "brand:wikidata": "Q91307483",
         "name": "Yesss Electrical",
-        "shop": "trade",
+        "shop": "electrical",
         "trade": "elecrician",
         "website": "https://www.yesss.co.uk/store/isle-of-man"
       }
@@ -27993,11 +28013,12 @@
         ]
       },
       "properties": {
+        "branch": "Pulrose",
         "brand": "Spar",
         "brand:wikidata": "Q610492",
         "brand:wikipedia": "en:Spar (retailer)",
         "building": "retail",
-        "name": "Spar, Pulrose",
+        "name": "Spar",
         "opening_hours": "Mo-Sa 07:00-22:00, Su 08:00-22:00",
         "shop": "convenience"
       }

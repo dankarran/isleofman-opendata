@@ -9378,6 +9378,65 @@
         "office": "lawyer",
         "website": "https://www.mplegal.im"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1451464070,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48874,
+            54.155446
+          ],
+          [
+            -4.488721,
+            54.155455
+          ],
+          [
+            -4.488746,
+            54.155475
+          ],
+          [
+            -4.488664,
+            54.155511
+          ],
+          [
+            -4.488546,
+            54.155418
+          ],
+          [
+            -4.488578,
+            54.155404
+          ],
+          [
+            -4.48852,
+            54.155359
+          ],
+          [
+            -4.48859,
+            54.155329
+          ],
+          [
+            -4.488682,
+            54.155401
+          ],
+          [
+            -4.48874,
+            54.155446
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 4BS",
+        "addr:street": "Hawarden Avenue",
+        "building": "house",
+        "name": "Topcare",
+        "office": "healthcare"
+      }
     }
   ]
 }

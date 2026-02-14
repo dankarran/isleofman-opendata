@@ -5927,6 +5927,40 @@
         "religion": "christian",
         "website": "https://www.methodist.org.im/chapels-communities/onchan.html"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1469926428,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524732,
+            54.17023
+          ],
+          [
+            -4.52468,
+            54.170356
+          ],
+          [
+            -4.524573,
+            54.17034
+          ],
+          [
+            -4.524625,
+            54.170215
+          ],
+          [
+            -4.524732,
+            54.17023
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian"
+      }
     }
   ]
 }

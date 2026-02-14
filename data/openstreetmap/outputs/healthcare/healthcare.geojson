@@ -2424,6 +2424,58 @@
     },
     {
       "type": "Feature",
+      "id": 362482661,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.627322,
+            54.091914
+          ],
+          [
+            -4.627164,
+            54.09205
+          ],
+          [
+            -4.626794,
+            54.091901
+          ],
+          [
+            -4.626952,
+            54.091766
+          ],
+          [
+            -4.627322,
+            54.091914
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Ballasalla",
+        "addr:country": "IM",
+        "addr:housename": "BMS House",
+        "addr:housenumber": "495",
+        "addr:place": "Balthane Industrial Estate",
+        "addr:postcode": "IM9 2AJ",
+        "addr:street": "Port Way",
+        "amenity": "pharmacy",
+        "building": "industrial",
+        "contact:email": "info@kingsleymuti.com",
+        "contact:phone": "+44 1624 625040",
+        "healthcare": "pharmacy",
+        "name": "Kingsley Muti",
+        "opening_hours": "Mo-Fr 08:30-18:00, Sa 09:00-13:00",
+        "operator": "Kingsley Muti Ltd",
+        "source": "Bing",
+        "osm_id": 362482661,
+        "lon": -4.627058074985606,
+        "lat": 54.0919078106186,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/362482661"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 414251745,
       "geometry": {
         "type": "LineString",

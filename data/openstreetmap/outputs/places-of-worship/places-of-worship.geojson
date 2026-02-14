@@ -6407,6 +6407,45 @@
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1250924097"
       }
+    },
+    {
+      "type": "Feature",
+      "id": 1469926428,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.524732,
+            54.17023
+          ],
+          [
+            -4.52468,
+            54.170356
+          ],
+          [
+            -4.524573,
+            54.17034
+          ],
+          [
+            -4.524625,
+            54.170215
+          ],
+          [
+            -4.524732,
+            54.17023
+          ]
+        ]
+      },
+      "properties": {
+        "amenity": "place_of_worship",
+        "building": "yes",
+        "religion": "christian",
+        "osm_id": 1469926428,
+        "lon": -4.524652593656732,
+        "lat": 54.17028528311074,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1469926428"
+      }
     }
   ]
 }
