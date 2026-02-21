@@ -6985,7 +6985,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Laurels",
         "postal_code": "IM2 7DN",
@@ -7400,6 +7400,10 @@
             54.17971
           ],
           [
+            -4.474911,
+            54.179804
+          ],
+          [
             -4.47494,
             54.179829
           ],
@@ -7446,8 +7450,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986052,
-        "lon": -4.47500598560741,
-        "lat": 54.18014140785448,
+        "lon": -4.475005997532466,
+        "lat": 54.18014139312241,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986052"
       }
@@ -8213,6 +8217,8 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Ashbourne Avenue",
+        "name:en": "Ashbourne Avenue",
+        "name:gv": "Astyl Strooan Unjil",
         "postal_code": "IM2 1NR;IM2 1NW",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
@@ -8463,16 +8469,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.527945,
-            54.15618
+            -4.527914,
+            54.15621
           ],
           [
             -4.527882,
             54.156258
           ],
           [
-            -4.527512,
-            54.156227
+            -4.527721,
+            54.156265
+          ],
+          [
+            -4.527521,
+            54.156244
           ],
           [
             -4.5274,
@@ -8513,8 +8523,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986195,
-        "lon": -4.527463763740803,
-        "lat": 54.15607031670657,
+        "lon": -4.5274465692113335,
+        "lat": 54.15607185026198,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986195"
       }
@@ -8545,61 +8555,6 @@
         "lat": 54.173092,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986196"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25986239,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.490295,
-            54.155883
-          ],
-          [
-            -4.490268,
-            54.155862
-          ],
-          [
-            -4.490244,
-            54.155842
-          ],
-          [
-            -4.489981,
-            54.155636
-          ],
-          [
-            -4.48947,
-            54.155223
-          ],
-          [
-            -4.489215,
-            54.155012
-          ],
-          [
-            -4.489198,
-            54.154999
-          ],
-          [
-            -4.489167,
-            54.154973
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Primrose Avenue",
-        "postal_code": "IM1 4EA;IM1 4EB",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 25986239,
-        "lon": -4.489728975086445,
-        "lat": 54.1554305108265,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/25986239"
       }
     },
     {
@@ -9039,17 +8994,25 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.485288,
-            54.158662
+            -4.485235,
+            54.158704
           ],
           [
-            -4.484955,
-            54.158794
+            -4.48506,
+            54.158765
+          ],
+          [
+            -4.484983,
+            54.158792
+          ],
+          [
+            -4.484929,
+            54.158836
           ]
         ]
       },
       "properties": {
-        "highway": "unclassified",
+        "highway": "residential",
         "maxspeed": "30 mph",
         "name": "Africa Court",
         "name:en": "Africa Court",
@@ -9057,8 +9020,8 @@
         "postal_code": "IM2 3GA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25986288,
-        "lon": -4.4851215,
-        "lat": 54.158727999999996,
+        "lon": -4.485077322400168,
+        "lat": 54.15876161966092,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986288"
       }
@@ -9162,6 +9125,10 @@
             54.167155
           ],
           [
+            -4.494594,
+            54.16716
+          ],
+          [
             -4.494546,
             54.167163
           ],
@@ -9172,6 +9139,10 @@
           [
             -4.494309,
             54.16715
+          ],
+          [
+            -4.494038,
+            54.167056
           ],
           [
             -4.493768,
@@ -9192,12 +9163,14 @@
         "highway": "residential",
         "maxspeed": "30 mph",
         "name": "Tromode Close",
+        "name:en": "Tromode Close",
+        "name:gv": "Close Tromode",
         "postal_code": "IM2 5PE",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986302,
-        "lon": -4.493887756604866,
-        "lat": 54.1670308534285,
+        "lon": -4.493887746983504,
+        "lat": 54.167030879011236,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986302"
       }
@@ -9329,7 +9302,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Belgravia",
         "postal_code": "IM2 7DL",
@@ -9835,48 +9808,60 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.521796,
-            54.158249
+            -4.521806,
+            54.158247
           ],
           [
-            -4.521801,
+            -4.521794,
+            54.158214
+          ],
+          [
+            -4.521794,
             54.158206
           ],
           [
-            -4.521832,
-            54.157975
+            -4.521789,
+            54.158155
           ],
           [
-            -4.521907,
+            -4.521799,
+            54.158076
+          ],
+          [
+            -4.521818,
+            54.157977
+          ],
+          [
+            -4.521845,
+            54.157875
+          ],
+          [
+            -4.521883,
             54.157783
           ],
           [
-            -4.522018,
-            54.157601
+            -4.521926,
+            54.157702
           ],
           [
-            -4.522185,
-            54.157438
+            -4.521973,
+            54.157632
           ],
           [
-            -4.522245,
-            54.15742
+            -4.522078,
+            54.157511
           ],
           [
-            -4.522327,
-            54.157395
+            -4.522119,
+            54.157472
           ],
           [
-            -4.522501,
-            54.157398
+            -4.522163,
+            54.157441
           ],
           [
-            -4.522761,
-            54.15746
-          ],
-          [
-            -4.522872,
-            54.157446
+            -4.522232,
+            54.157413
           ]
         ]
       },
@@ -9889,44 +9874,10 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986374,
-        "lon": -4.522188485346199,
-        "lat": 54.157646020630146,
+        "lon": -4.5219326231934485,
+        "lat": 54.15778523182021,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986374"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25986376,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.478979,
-            54.160074
-          ],
-          [
-            -4.478094,
-            54.159243
-          ],
-          [
-            -4.478051,
-            54.159206
-          ]
-        ]
-      },
-      "properties": {
-        "highway": "unclassified",
-        "maxspeed": "30 mph",
-        "name": "Victoria Terrace",
-        "postal_code": "IM2 4EU;IM2 4EX",
-        "source": "Isle of Man Government aerial imagery (2001)",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "osm_id": 25986376,
-        "lon": -4.478515786189095,
-        "lat": 54.159639125444116,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/25986376"
       }
     },
     {
@@ -10199,16 +10150,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.50706,
-            54.16595
-          ],
-          [
-            -4.507094,
-            54.165942
-          ],
-          [
-            -4.507128,
-            54.165934
+            -4.507281,
+            54.165902
           ],
           [
             -4.507476,
@@ -10231,12 +10174,16 @@
             54.165893
           ],
           [
-            -4.50785,
-            54.165923
+            -4.507864,
+            54.165917
           ],
           [
-            -4.507948,
-            54.165969
+            -4.507958,
+            54.165963
+          ],
+          [
+            -4.508005,
+            54.16601
           ],
           [
             -4.508066,
@@ -10255,7 +10202,7 @@
       "properties": {
         "abutters": "residential",
         "bicycle": "yes",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "30 mph",
         "name": "Church View",
         "oneway": "no",
@@ -10263,8 +10210,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986390,
-        "lon": -4.507780709174377,
-        "lat": 54.16601944823196,
+        "lon": -4.507885677288307,
+        "lat": 54.16603317642553,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986390"
       }
@@ -10967,94 +10914,6 @@
     },
     {
       "type": "Feature",
-      "id": 25986528,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.510264,
-            54.17077
-          ],
-          [
-            -4.510641,
-            54.170637
-          ],
-          [
-            -4.511168,
-            54.170474
-          ],
-          [
-            -4.511443,
-            54.170456
-          ],
-          [
-            -4.511756,
-            54.170394
-          ],
-          [
-            -4.512149,
-            54.170298
-          ],
-          [
-            -4.512384,
-            54.170237
-          ],
-          [
-            -4.512575,
-            54.170244
-          ],
-          [
-            -4.512721,
-            54.170311
-          ],
-          [
-            -4.513077,
-            54.170653
-          ],
-          [
-            -4.51309,
-            54.170704
-          ],
-          [
-            -4.513069,
-            54.170787
-          ],
-          [
-            -4.513019,
-            54.170855
-          ],
-          [
-            -4.512954,
-            54.170929
-          ],
-          [
-            -4.51294,
-            54.171037
-          ],
-          [
-            -4.513006,
-            54.171132
-          ]
-        ]
-      },
-      "properties": {
-        "cycleway": "no",
-        "highway": "residential",
-        "maxspeed": "20 mph",
-        "name": "Cronk Grianagh",
-        "name:gv": "Cronk Grianagh",
-        "oneway": "no",
-        "postal_code": "IM4 4RN;IM4 4RR",
-        "surface": "paved",
-        "osm_id": 25986528,
-        "lon": -4.511914436430582,
-        "lat": 54.17052280510904,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/25986528"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25986529,
       "geometry": {
         "type": "LineString",
@@ -11580,31 +11439,23 @@
             54.167014
           ],
           [
-            -4.498032,
-            54.167173
-          ],
-          [
-            -4.49789,
-            54.167294
-          ],
-          [
-            -4.497812,
-            54.167366
+            -4.498054,
+            54.16718
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
         "alt_name": "Breken Bank",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Brecken Bank",
         "postal_code": "IM4 4TS",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986597,
-        "lon": -4.497945370179135,
-        "lat": 54.16701130827131,
+        "lon": -4.497960453108416,
+        "lat": 54.166901504770834,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986597"
       }
@@ -11782,30 +11633,38 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.526054,
-            54.155304
+            -4.526076,
+            54.155318
           ],
           [
-            -4.525949,
-            54.155365
+            -4.525971,
+            54.155378
           ],
           [
-            -4.525438,
-            54.155709
+            -4.525868,
+            54.15545
           ],
           [
-            -4.525351,
-            54.155731
+            -4.525563,
+            54.155653
           ],
           [
-            -4.524744,
-            54.155767
+            -4.525448,
+            54.155712
+          ],
+          [
+            -4.525342,
+            54.155737
+          ],
+          [
+            -4.524752,
+            54.155786
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Manor Hill",
         "name:en": "Manor Hill",
@@ -11814,8 +11673,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986619,
-        "lon": -4.52542717401852,
-        "lat": 54.1556211267972,
+        "lon": -4.525441841900277,
+        "lat": 54.15563340966189,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986619"
       }
@@ -11871,12 +11730,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.491314,
+            -4.491342,
             54.169385
           ],
           [
             -4.491167,
             54.169185
+          ],
+          [
+            -4.49094,
+            54.168932
           ],
           [
             -4.490425,
@@ -11886,15 +11749,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Tromode Heights",
         "postal_code": "IM2 5LU",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986630,
-        "lon": -4.4908809826674,
-        "lat": 54.168903644719194,
+        "lon": -4.49089375108651,
+        "lat": 54.168903628539496,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986630"
       }
@@ -12180,7 +12043,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Laurels",
         "postal_code": "IM2 7DN",
@@ -12600,32 +12463,44 @@
             54.180859
           ],
           [
-            -4.476262,
-            54.180673
+            -4.476513,
+            54.180825
           ],
           [
-            -4.476136,
-            54.180625
+            -4.476426,
+            54.180791
           ],
           [
-            -4.476002,
+            -4.476223,
+            54.180687
+          ],
+          [
+            -4.476096,
+            54.180638
+          ],
+          [
+            -4.475997,
+            54.180597
+          ],
+          [
+            -4.475957,
             54.180555
           ],
           [
-            -4.476062,
-            54.1805
+            -4.476026,
+            54.180508
           ],
           [
-            -4.476165,
-            54.180534
+            -4.476122,
+            54.180541
           ],
           [
-            -4.476236,
-            54.180598
+            -4.476263,
+            54.180617
           ],
           [
-            -4.476262,
-            54.180673
+            -4.476223,
+            54.180687
           ]
         ]
       },
@@ -12638,8 +12513,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986736,
-        "lon": -4.476254132629624,
-        "lat": 54.180653525058155,
+        "lon": -4.476226494279656,
+        "lat": 54.18066394564121,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986736"
       }
@@ -12687,6 +12562,60 @@
         "lat": 54.15333849426643,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986740"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25986766,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.520695,
+            54.166904
+          ],
+          [
+            -4.520628,
+            54.166979
+          ],
+          [
+            -4.520583,
+            54.167027
+          ],
+          [
+            -4.520651,
+            54.167051
+          ],
+          [
+            -4.521542,
+            54.16734
+          ],
+          [
+            -4.521598,
+            54.167374
+          ],
+          [
+            -4.521593,
+            54.167421
+          ],
+          [
+            -4.521353,
+            54.167693
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ashfield Avenue",
+        "postal_code": "IM4 4LN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25986766,
+        "lon": -4.521145297334017,
+        "lat": 54.167257149780134,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25986766"
       }
     },
     {
@@ -12746,22 +12675,22 @@
             54.17912
           ],
           [
-            -4.472759,
-            54.178997
+            -4.472822,
+            54.179029
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Reginald Close",
         "postal_code": "IM2 7AJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986789,
-        "lon": -4.473178919015662,
-        "lat": 54.17920403286134,
+        "lon": -4.473208623856154,
+        "lat": 54.17922037015875,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986789"
       }
@@ -12866,10 +12795,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.476816,
-            54.18054
-          ],
-          [
             -4.476969,
             54.180589
           ],
@@ -12893,15 +12818,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Foxglove Close",
         "postal_code": "IM2 7EG",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986813,
-        "lon": -4.477305282936085,
-        "lat": 54.180747262162285,
+        "lon": -4.477378512917616,
+        "lat": 54.180779685183204,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986813"
       }
@@ -12932,7 +12857,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -13244,7 +13169,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "name": "Upper Cronk Orry",
         "name:en": "Upper Cronk Orry",
         "postal_code": "IM4 7QR",
@@ -13268,24 +13193,36 @@
             54.156559
           ],
           [
-            -4.519532,
-            54.156918
+            -4.520044,
+            54.156583
           ],
           [
-            -4.518997,
-            54.157272
+            -4.519525,
+            54.156925
           ],
           [
-            -4.519228,
-            54.157423
+            -4.519009,
+            54.15726
           ],
           [
-            -4.519343,
+            -4.518993,
+            54.157305
+          ],
+          [
+            -4.519032,
+            54.157352
+          ],
+          [
+            -4.519213,
+            54.157441
+          ],
+          [
+            -4.519315,
             54.157534
           ],
           [
-            -4.519391,
-            54.157629
+            -4.51936,
+            54.157635
           ]
         ]
       },
@@ -13294,12 +13231,14 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Horseshoe Avenue",
+        "name:en": "Horseshoe Avenue",
+        "name:gv": "Bayr y Chrou",
         "postal_code": "IM2 1QS;IM2 1QT",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25986896,
-        "lon": -4.51943859715441,
-        "lat": 54.15706902864953,
+        "lon": -4.51943033967829,
+        "lat": 54.15707352218254,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25986896"
       }
@@ -14095,7 +14034,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Laurels",
         "postal_code": "IM2 7DN",
@@ -14469,24 +14408,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.505687,
-            54.164037
-          ],
-          [
-            -4.50574,
-            54.164027
-          ],
-          [
-            -4.505754,
-            54.164025
-          ],
-          [
-            -4.505926,
-            54.163998
-          ],
-          [
-            -4.506327,
-            54.163953
+            -4.506632,
+            54.163914
           ],
           [
             -4.506871,
@@ -14505,52 +14428,61 @@
             54.163936
           ],
           [
-            -4.507179,
-            54.164091
+            -4.507094,
+            54.163974
           ],
           [
-            -4.507203,
-            54.164118
+            -4.507133,
+            54.164053
           ],
           [
-            -4.507236,
-            54.164122
+            -4.507147,
+            54.164089
           ],
           [
-            -4.507255,
-            54.164125
+            -4.507162,
+            54.164114
           ],
           [
-            -4.507299,
-            54.164118
+            -4.507194,
+            54.164128
           ],
           [
-            -4.507339,
-            54.1641
+            -4.50723,
+            54.164132
+          ],
+          [
+            -4.507269,
+            54.164128
+          ],
+          [
+            -4.507306,
+            54.164115
+          ],
+          [
+            -4.507365,
+            54.164095
           ],
           [
             -4.507412,
             54.164077
-          ],
-          [
-            -4.507842,
-            54.163915
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
         "bicycle": "yes",
-        "highway": "unclassified",
+        "highway": "residential",
         "maxspeed": "20 mph",
         "name": "River Vale",
         "oneway": "no",
         "postal_code": "IM4 4TH",
+        "sidewalk": "no",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987057,
-        "lon": -4.506789664243399,
-        "lat": 54.1639825107923,
+        "lon": -4.507036144352524,
+        "lat": 54.16399075100795,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987057"
       }
@@ -15248,12 +15180,12 @@
             54.091776
           ],
           [
-            -4.732073,
-            54.09141
+            -4.732046,
+            54.091423
           ],
           [
-            -4.732013,
-            54.09137
+            -4.731985,
+            54.091377
           ]
         ]
       },
@@ -15266,8 +15198,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987132,
-        "lon": -4.73187263816697,
-        "lat": 54.0919757585048,
+        "lon": -4.731870443601543,
+        "lat": 54.09198026529416,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987132"
       }
@@ -15765,12 +15697,16 @@
             54.167514
           ],
           [
-            -4.497763,
+            -4.497751,
             54.167437
           ],
           [
-            -4.497812,
-            54.167366
+            -4.497759,
+            54.167395
+          ],
+          [
+            -4.497785,
+            54.167357
           ]
         ]
       },
@@ -15780,11 +15716,12 @@
         "maxspeed": "20 mph",
         "name": "Hollin Lane",
         "postal_code": "IM4 4TR",
+        "sidewalk:right": "yes",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987190,
-        "lon": -4.497883863066945,
-        "lat": 54.167772953754344,
+        "lon": -4.497880730467966,
+        "lat": 54.16777113283728,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987190"
       }
@@ -16564,7 +16501,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Laurels",
         "postal_code": "IM2 7DN",
@@ -16652,8 +16589,8 @@
             54.15457
           ],
           [
-            -4.513148,
-            54.154542
+            -4.513149,
+            54.154538
           ]
         ]
       },
@@ -16666,8 +16603,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987282,
-        "lon": -4.513201086884892,
-        "lat": 54.154977089764195,
+        "lon": -4.513200922598622,
+        "lat": 54.154975821499086,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987282"
       }
@@ -16919,26 +16856,30 @@
             54.18126
           ],
           [
-            -4.477124,
-            54.181296
+            -4.477089,
+            54.181313
           ],
           [
-            -4.476481,
-            54.181037
+            -4.476733,
+            54.181174
+          ],
+          [
+            -4.476572,
+            54.181103
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Gorsecroft",
         "postal_code": "IM2 7DZ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987315,
-        "lon": -4.476837184852571,
-        "lat": 54.1811774093401,
+        "lon": -4.476882105599165,
+        "lat": 54.18122331066423,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987315"
       }
@@ -17265,38 +17206,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.498032,
-            54.167173
-          ],
-          [
-            -4.498282,
-            54.167134
-          ],
-          [
-            -4.498563,
-            54.167131
-          ],
-          [
-            -4.498704,
-            54.167131
-          ],
-          [
-            -4.498788,
-            54.167118
-          ],
-          [
-            -4.498855,
-            54.167085
-          ],
-          [
-            -4.498894,
-            54.167037
-          ],
-          [
-            -4.498908,
-            54.167002
-          ],
-          [
             -4.498912,
             54.16694
           ],
@@ -17372,15 +17281,18 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Hollin Bank",
+        "name:en": "Hollin Bank",
+        "name:gv": "Broogh Hollyn",
         "postal_code": "IM4 4TT",
+        "sidewalk": "no",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987358,
-        "lon": -4.498476915238643,
-        "lat": 54.16647875425901,
+        "lon": -4.498456982820308,
+        "lat": 54.16617700525,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987358"
       }
@@ -18492,8 +18404,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.472731,
-            54.175549
+            -4.472807,
+            54.175582
           ],
           [
             -4.47251,
@@ -18539,15 +18451,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Oakdale",
         "postal_code": "IM2 7BT",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987508,
-        "lon": -4.472686141748054,
-        "lat": 54.175108817558154,
+        "lon": -4.472689604335297,
+        "lat": 54.17512836549065,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987508"
       }
@@ -19592,75 +19504,6 @@
     },
     {
       "type": "Feature",
-      "id": 25987655,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.526073,
-            54.157213
-          ],
-          [
-            -4.525996,
-            54.15718
-          ],
-          [
-            -4.525889,
-            54.157131
-          ],
-          [
-            -4.525809,
-            54.157095
-          ],
-          [
-            -4.525753,
-            54.15706
-          ],
-          [
-            -4.525496,
-            54.156773
-          ],
-          [
-            -4.525384,
-            54.156636
-          ],
-          [
-            -4.525035,
-            54.156409
-          ],
-          [
-            -4.524946,
-            54.156351
-          ],
-          [
-            -4.524648,
-            54.156214
-          ],
-          [
-            -4.52462,
-            54.156201
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "highway": "residential",
-        "maxspeed": "20 mph",
-        "name": "Manor Road",
-        "name:en": "Manor Road",
-        "name:gv": "Raad Manor",
-        "postal_code": "IM2 2NL;IM2 2NN",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
-        "osm_id": 25987655,
-        "lon": -4.525361576750067,
-        "lat": 54.15668917856148,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/25987655"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 25987664,
       "geometry": {
         "type": "LineString",
@@ -19820,20 +19663,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.484955,
-            54.158794
+            -4.484929,
+            54.158836
           ],
           [
-            -4.484863,
-            54.158889
+            -4.484873,
+            54.158893
           ],
           [
-            -4.484774,
-            54.158985
+            -4.484785,
+            54.158987
           ],
           [
-            -4.484625,
-            54.159152
+            -4.484637,
+            54.159156
           ],
           [
             -4.484395,
@@ -19858,8 +19701,8 @@
         "postal_code": "IM2 3HS",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987676,
-        "lon": -4.4845645802676675,
-        "lat": 54.15922532308703,
+        "lon": -4.4845526671274625,
+        "lat": 54.159247286327286,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987676"
       }
@@ -20238,8 +20081,8 @@
             54.158203
           ],
           [
-            -4.483639,
-            54.157646
+            -4.483629,
+            54.157651
           ],
           [
             -4.483481,
@@ -20259,8 +20102,8 @@
         "postal_code": "IM2 3EL",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25987728,
-        "lon": -4.483721380698777,
-        "lat": 54.15786677199342,
+        "lon": -4.48371749889405,
+        "lat": 54.15786842090067,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987728"
       }
@@ -20411,8 +20254,8 @@
             54.221495
           ],
           [
-            -4.694475,
-            54.221007
+            -4.694473,
+            54.221001
           ]
         ]
       },
@@ -20427,10 +20270,45 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 25987779,
-        "lon": -4.695391954724156,
-        "lat": 54.22125866697178,
+        "lon": -4.69539093344382,
+        "lat": 54.22125574407566,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987779"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25987786,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.493956,
+            54.171654
+          ],
+          [
+            -4.493925,
+            54.171695
+          ],
+          [
+            -4.49349,
+            54.171668
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Pine Hill",
+        "postal_code": "IM2 5NJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 25987786,
+        "lon": -4.493732079984714,
+        "lat": 54.171680761545524,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/25987786"
       }
     },
     {
@@ -20614,7 +20492,7 @@
         "name": "Manor Woods",
         "name:en": "Manor Woods",
         "name:gv": "Keylljnn Y Vannor",
-        "postal_code": "IM2 2PE;IM2 2PG",
+        "postal_code": "IM2 2PE",
         "source": "survey",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
@@ -21082,16 +20960,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.520372,
-            54.157299
+            -4.520498,
+            54.157419
           ],
           [
-            -4.520012,
-            54.157176
+            -4.520472,
+            54.157348
           ],
           [
-            -4.519532,
-            54.156918
+            -4.520443,
+            54.157313
+          ],
+          [
+            -4.520368,
+            54.157285
+          ],
+          [
+            -4.520135,
+            54.157229
+          ],
+          [
+            -4.520004,
+            54.15718
+          ],
+          [
+            -4.519555,
+            54.156941
+          ],
+          [
+            -4.519525,
+            54.156925
           ]
         ]
       },
@@ -21104,8 +21002,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987858,
-        "lon": -4.519944666672294,
-        "lat": 54.157125316669216,
+        "lon": -4.520028596071401,
+        "lat": 54.15716615774415,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987858"
       }
@@ -21117,28 +21015,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.475663,
-            54.181215
+            -4.475516,
+            54.181305
           ],
           [
-            -4.475468,
-            54.181354
+            -4.475427,
+            54.18133
           ],
           [
-            -4.475338,
-            54.181364
+            -4.475301,
+            54.181334
           ],
           [
-            -4.475147,
-            54.181325
+            -4.475213,
+            54.181321
+          ],
+          [
+            -4.475125,
+            54.181297
           ],
           [
             -4.474888,
             54.181213
           ],
           [
-            -4.47473,
-            54.181206
+            -4.474796,
+            54.1812
+          ],
+          [
+            -4.474654,
+            54.181196
           ],
           [
             -4.474536,
@@ -21160,15 +21066,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Heather Lane",
         "postal_code": "IM2 7EF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987861,
-        "lon": -4.4749904929627515,
-        "lat": 54.1813103931257,
+        "lon": -4.474913868279438,
+        "lat": 54.18130530350321,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987861"
       }
@@ -21318,6 +21224,10 @@
           [
             -4.495256,
             54.165747
+          ],
+          [
+            -4.495256,
+            54.165545
           ],
           [
             -4.495256,
@@ -21495,26 +21405,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.509022,
-            54.166137
-          ],
-          [
-            -4.508863,
-            54.165846
-          ],
-          [
-            -4.508783,
-            54.165648
-          ],
-          [
-            -4.508729,
-            54.165565
-          ],
-          [
-            -4.50869,
-            54.165503
-          ],
-          [
             -4.508494,
             54.165283
           ],
@@ -21532,6 +21422,10 @@
           ],
           [
             -4.507802,
+            54.164826
+          ],
+          [
+            -4.507768,
             54.164826
           ],
           [
@@ -21583,31 +21477,16 @@
             54.164117
           ],
           [
-            -4.506379,
-            54.163984
-          ],
-          [
-            -4.506327,
-            54.163953
-          ],
-          [
-            -4.50632,
-            54.163908
-          ],
-          [
-            -4.506293,
-            54.163754
-          ],
-          [
-            -4.506201,
-            54.163654
+            -4.506458,
+            54.164055
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
         "bicycle": "yes",
-        "highway": "unclassified",
+        "highway": "living_street",
+        "lanes": "2",
         "maxspeed": "30 mph",
         "name": "River Walk",
         "oneway": "no",
@@ -21615,8 +21494,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987910,
-        "lon": -4.507609596164888,
-        "lat": 54.164879673923565,
+        "lon": -4.507401872054375,
+        "lat": 54.164758143226074,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987910"
       }
@@ -21838,32 +21717,36 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.520002,
-            54.158218
+            -4.519956,
+            54.158203
           ],
           [
-            -4.51994,
-            54.158074
+            -4.519902,
+            54.158073
           ],
           [
-            -4.519879,
+            -4.519853,
             54.157908
           ],
           [
-            -4.519771,
-            54.157764
+            -4.519793,
+            54.15783
+          ],
+          [
+            -4.519697,
+            54.15774
           ],
           [
             -4.519621,
             54.157677
           ],
           [
-            -4.51952,
-            54.157645
+            -4.519507,
+            54.157649
           ],
           [
-            -4.519391,
-            54.157629
+            -4.51936,
+            54.157635
           ]
         ]
       },
@@ -21876,8 +21759,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25987931,
-        "lon": -4.51976050230515,
-        "lat": 54.157848543424045,
+        "lon": -4.519723656680011,
+        "lat": 54.15784052202124,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987931"
       }
@@ -21979,6 +21862,10 @@
             54.097983
           ],
           [
+            -4.699187,
+            54.097955
+          ],
+          [
             -4.699168,
             54.097914
           ],
@@ -22023,10 +21910,10 @@
         "name:gv": "Cronk Cullyn",
         "postal_code": "IM9 4NQ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25987969,
-        "lon": -4.6988159640045355,
-        "lat": 54.097552211964086,
+        "lon": -4.698815963636486,
+        "lat": 54.09755221213698,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25987969"
       }
@@ -22481,16 +22368,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.520549,
-            54.156723
+            -4.520492,
+            54.156734
           ],
           [
-            -4.520979,
-            54.156436
+            -4.520941,
+            54.156447
           ],
           [
-            -4.520884,
-            54.156387
+            -4.520858,
+            54.156397
           ]
         ]
       },
@@ -22503,8 +22390,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988035,
-        "lon": -4.520792698925869,
-        "lat": 54.156550715405686,
+        "lon": -4.520744655827968,
+        "lat": 54.15656457509829,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988035"
       }
@@ -22832,40 +22719,72 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.490562,
-            54.164105
+            -4.490534,
+            54.164125
           ],
           [
-            -4.490757,
-            54.164155
+            -4.490589,
+            54.164133
           ],
           [
-            -4.490854,
-            54.164208
+            -4.490764,
+            54.164184
           ],
           [
-            -4.490966,
-            54.164418
+            -4.490804,
+            54.164201
           ],
           [
-            -4.491058,
-            54.164644
+            -4.490831,
+            54.164223
           ],
           [
-            -4.491026,
-            54.165034
+            -4.490861,
+            54.164259
           ],
           [
-            -4.490988,
-            54.165081
+            -4.490908,
+            54.164345
           ],
           [
-            -4.490895,
-            54.165125
+            -4.491024,
+            54.16464
           ],
           [
-            -4.490237,
-            54.165257
+            -4.491034,
+            54.164691
+          ],
+          [
+            -4.49103,
+            54.164973
+          ],
+          [
+            -4.49102,
+            54.16503
+          ],
+          [
+            -4.491006,
+            54.165071
+          ],
+          [
+            -4.490986,
+            54.1651
+          ],
+          [
+            -4.490952,
+            54.165122
+          ],
+          [
+            -4.490894,
+            54.165144
+          ],
+          [
+            -4.4908,
+            54.165167
+          ],
+          [
+            -4.490197,
+            54.165287
           ]
         ]
       },
@@ -22878,8 +22797,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988075,
-        "lon": -4.490807407678578,
-        "lat": 54.164770100582885,
+        "lon": -4.49078416634236,
+        "lat": 54.164795736275195,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988075"
       }
@@ -23457,24 +23376,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.698707,
-            54.098505
+            -4.698006,
+            54.098099
           ],
           [
-            -4.698392,
-            54.098265
-          ],
-          [
-            -4.698265,
-            54.098214
-          ],
-          [
-            -4.698138,
-            54.098173
-          ],
-          [
-            -4.698032,
-            54.098116
+            -4.697957,
+            54.098028
           ],
           [
             -4.697918,
@@ -23485,24 +23392,28 @@
             54.09793
           ],
           [
-            -4.697753,
-            54.097893
+            -4.697737,
+            54.097877
           ],
           [
             -4.697634,
             54.097828
           ],
           [
-            -4.697505,
-            54.097744
+            -4.697499,
+            54.09775
           ],
           [
-            -4.697338,
-            54.097663
+            -4.697368,
+            54.097679
           ],
           [
-            -4.697118,
-            54.097442
+            -4.697245,
+            54.097586
+          ],
+          [
+            -4.697099,
+            54.097419
           ],
           [
             -4.696994,
@@ -23513,8 +23424,8 @@
             54.097062
           ],
           [
-            -4.696663,
-            54.09689
+            -4.696661,
+            54.096883
           ],
           [
             -4.696582,
@@ -23529,10 +23440,10 @@
         "name:gv": "Cronk Y Thatcher",
         "postal_code": "IM9 4LN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
+        "surface": "asphalt",
         "osm_id": 25988141,
-        "lon": -4.69756268465166,
-        "lat": 54.09770966948248,
+        "lon": -4.697235989120668,
+        "lat": 54.09747776276561,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988141"
       }
@@ -23588,38 +23499,54 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.476362,
-            54.181921
+            -4.476304,
+            54.18193
           ],
           [
-            -4.476098,
-            54.18206
+            -4.476178,
+            54.181994
+          ],
+          [
+            -4.475916,
+            54.182185
+          ],
+          [
+            -4.475837,
+            54.182236
+          ],
+          [
+            -4.475704,
+            54.182292
+          ],
+          [
+            -4.475652,
+            54.18234
+          ],
+          [
+            -4.475639,
+            54.182391
+          ],
+          [
+            -4.475648,
+            54.182457
           ],
           [
             -4.475715,
-            54.182303
-          ],
-          [
-            -4.475653,
-            54.182392
-          ],
-          [
-            -4.475665,
-            54.182485
+            54.182468
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Honeysuckle Lane",
         "postal_code": "IM2 7DY",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988153,
-        "lon": -4.4759580379662705,
-        "lat": 54.18216590373214,
+        "lon": -4.475914482193646,
+        "lat": 54.18219004381086,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988153"
       }
@@ -24210,8 +24137,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.493208,
+            -4.493229,
             54.168818
+          ],
+          [
+            -4.493215,
+            54.168785
           ],
           [
             -4.493104,
@@ -24253,8 +24184,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988261,
-        "lon": -4.4929517277540105,
-        "lat": 54.1682775836449,
+        "lon": -4.492955644978026,
+        "lat": 54.16827896613711,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988261"
       }
@@ -24916,8 +24847,8 @@
             54.155033
           ],
           [
-            -4.526396,
-            54.154957
+            -4.526384,
+            54.154969
           ],
           [
             -4.524938,
@@ -24927,15 +24858,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Manor View",
         "postal_code": "IM2 2PB",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988377,
-        "lon": -4.525701344512735,
-        "lat": 54.154726761975766,
+        "lon": -4.525690764998273,
+        "lat": 54.1547309936173,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988377"
       }
@@ -25110,20 +25041,32 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.527512,
-            54.156227
+            -4.527521,
+            54.156244
           ],
           [
-            -4.527334,
-            54.156413
+            -4.5275,
+            54.156269
           ],
           [
-            -4.527208,
-            54.156454
+            -4.527398,
+            54.156372
           ],
           [
-            -4.526712,
-            54.156702
+            -4.527362,
+            54.156402
+          ],
+          [
+            -4.527292,
+            54.15644
+          ],
+          [
+            -4.52707,
+            54.156539
+          ],
+          [
+            -4.526693,
+            54.156728
           ],
           [
             -4.526607,
@@ -25133,15 +25076,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Hampton Grove",
         "postal_code": "IM2 2NQ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988432,
-        "lon": -4.527079084929086,
-        "lat": 54.15651298566148,
+        "lon": -4.527084015176623,
+        "lat": 54.15652753795564,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988432"
       }
@@ -25555,12 +25498,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.51347,
-            54.156611
+            -4.513427,
+            54.156622
           ],
           [
-            -4.51347,
-            54.156762
+            -4.51345,
+            54.156717
           ],
           [
             -4.513211,
@@ -25577,8 +25520,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988536,
-        "lon": -4.513370096292342,
-        "lat": 54.15691407987458,
+        "lon": -4.513347058091122,
+        "lat": 54.156914615116854,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988536"
       }
@@ -26900,7 +26843,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Orry's Close",
         "name:en": "Orry's Close",
@@ -27992,24 +27935,40 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.519391,
-            54.157629
+            -4.51936,
+            54.157635
           ],
           [
-            -4.519282,
-            54.15778
+            -4.519323,
+            54.1577
+          ],
+          [
+            -4.519294,
+            54.157746
+          ],
+          [
+            -4.519261,
+            54.157779
+          ],
+          [
+            -4.519115,
+            54.157888
+          ],
+          [
+            -4.519037,
+            54.157962
+          ],
+          [
+            -4.519006,
+            54.158032
+          ],
+          [
+            -4.519045,
+            54.158074
           ],
           [
             -4.519133,
-            54.157892
-          ],
-          [
-            -4.519044,
-            54.158019
-          ],
-          [
-            -4.519099,
-            54.158068
+            54.158121
           ]
         ]
       },
@@ -28018,12 +27977,14 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Bramble Close",
+        "name:en": "Bramble Close",
+        "name:gv": "Close ny Dressyn",
         "postal_code": "IM2 1QN",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988825,
-        "lon": -4.51920010236537,
-        "lat": 54.157851510321144,
+        "lon": -4.519156865763119,
+        "lat": 54.15789004430952,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988825"
       }
@@ -28228,30 +28189,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474922,
-            54.172801
-          ],
-          [
-            -4.474625,
-            54.172766
-          ],
-          [
-            -4.474571,
-            54.172755
-          ],
-          [
-            -4.474532,
-            54.172733
-          ],
-          [
-            -4.474463,
-            54.172683
-          ],
-          [
-            -4.474423,
-            54.17265
-          ],
-          [
             -4.47381,
             54.172146
           ],
@@ -28266,12 +28203,12 @@
         "highway": "residential",
         "maxspeed": "20 mph",
         "name": "Second Avenue",
-        "postal_code": "IM2 6AP;IM2 6AW",
+        "postal_code": "IM2 6AW",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988858,
-        "lon": -4.4733806891727035,
-        "lat": 54.171760661011504,
+        "lon": -4.472868,
+        "lat": 54.1713415,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988858"
       }
@@ -29146,8 +29083,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.498748,
-            54.168224
+            -4.498741,
+            54.168226
           ],
           [
             -4.498859,
@@ -29197,15 +29134,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Ashen Bank",
         "postal_code": "IM4 4TP",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25988985,
-        "lon": -4.4988753096580565,
-        "lat": 54.16796292073504,
+        "lon": -4.498874197880495,
+        "lat": 54.16796512086312,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25988985"
       }
@@ -29707,48 +29644,116 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.51668,
-            54.154628
+            -4.516646,
+            54.154635
           ],
           [
-            -4.517621,
-            54.154958
+            -4.517526,
+            54.154944
           ],
           [
-            -4.517766,
-            54.154939
+            -4.51756,
+            54.154956
           ],
           [
-            -4.517828,
-            54.154876
+            -4.517596,
+            54.154963
           ],
           [
-            -4.517818,
-            54.154809
+            -4.517634,
+            54.154964
           ],
           [
-            -4.517108,
-            54.15456
+            -4.517681,
+            54.154959
           ],
           [
-            -4.51668,
-            54.154628
+            -4.51772,
+            54.154947
           ],
           [
-            -4.516298,
-            54.154659
+            -4.517762,
+            54.154922
           ],
           [
-            -4.515855,
-            54.154707
+            -4.517786,
+            54.15489
           ],
           [
-            -4.515609,
-            54.154782
+            -4.51779,
+            54.154868
           ],
           [
-            -4.515264,
-            54.155001
+            -4.517785,
+            54.154845
+          ],
+          [
+            -4.517769,
+            54.154823
+          ],
+          [
+            -4.517743,
+            54.154802
+          ],
+          [
+            -4.517118,
+            54.154577
+          ],
+          [
+            -4.517089,
+            54.154572
+          ],
+          [
+            -4.517048,
+            54.154571
+          ],
+          [
+            -4.517017,
+            54.154575
+          ],
+          [
+            -4.516646,
+            54.154635
+          ],
+          [
+            -4.516346,
+            54.154672
+          ],
+          [
+            -4.516112,
+            54.154694
+          ],
+          [
+            -4.515879,
+            54.15472
+          ],
+          [
+            -4.515826,
+            54.154728
+          ],
+          [
+            -4.515771,
+            54.15474
+          ],
+          [
+            -4.515693,
+            54.154761
+          ],
+          [
+            -4.515648,
+            54.154775
+          ],
+          [
+            -4.515616,
+            54.15479
+          ],
+          [
+            -4.515591,
+            54.154802
+          ],
+          [
+            -4.51524,
+            54.155014
           ]
         ]
       },
@@ -29762,8 +29767,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989059,
-        "lon": -4.516775817838811,
-        "lat": 54.15474018701236,
+        "lon": -4.516742666779648,
+        "lat": 54.15475031974543,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989059"
       }
@@ -29840,50 +29845,82 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.476226,
-            54.181615
+            -4.476146,
+            54.18163
           ],
           [
-            -4.475389,
-            54.181658
+            -4.475954,
+            54.181631
           ],
           [
-            -4.475276,
-            54.181691
+            -4.475817,
+            54.181645
           ],
           [
-            -4.475237,
-            54.181783
+            -4.475656,
+            54.181665
           ],
           [
-            -4.475259,
-            54.181911
+            -4.47553,
+            54.181667
           ],
           [
-            -4.475411,
-            54.182063
+            -4.475433,
+            54.181653
           ],
           [
-            -4.475485,
-            54.182099
+            -4.475347,
+            54.181639
           ],
           [
-            -4.475445,
-            54.182155
+            -4.475289,
+            54.181652
+          ],
+          [
+            -4.475255,
+            54.181689
+          ],
+          [
+            -4.47523,
+            54.181774
+          ],
+          [
+            -4.475219,
+            54.18183
+          ],
+          [
+            -4.475255,
+            54.181913
+          ],
+          [
+            -4.475322,
+            54.181999
+          ],
+          [
+            -4.475397,
+            54.18206
+          ],
+          [
+            -4.475469,
+            54.182098
+          ],
+          [
+            -4.475401,
+            54.182134
           ]
         ]
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Stonecrop Grove",
         "postal_code": "IM2 7DX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989071,
-        "lon": -4.4755894387315704,
-        "lat": 54.18175735667922,
+        "lon": -4.475543410229142,
+        "lat": 54.18176605433147,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989071"
       }
@@ -30046,8 +30083,8 @@
             54.15593
           ],
           [
-            -4.519892,
-            54.156395
+            -4.519854,
+            54.15643
           ]
         ]
       },
@@ -30060,8 +30097,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989109,
-        "lon": -4.520256049902333,
-        "lat": 54.15614411387361,
+        "lon": -4.520236879984274,
+        "lat": 54.15616118833192,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989109"
       }
@@ -30587,6 +30624,10 @@
             54.158469
           ],
           [
+            -4.483907,
+            54.158506
+          ],
+          [
             -4.483819,
             54.158541
           ]
@@ -30599,8 +30640,8 @@
         "postal_code": "IM2 3EG",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 25989178,
-        "lon": -4.48511217341022,
-        "lat": 54.158083294891306,
+        "lon": -4.485111996748617,
+        "lat": 54.15808357756759,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989178"
       }
@@ -32585,12 +32626,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.694475,
-            54.221007
+            -4.694473,
+            54.221001
           ],
           [
-            -4.694501,
-            54.220983
+            -4.694508,
+            54.220969
           ],
           [
             -4.694676,
@@ -32633,8 +32674,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989463,
-        "lon": -4.69510706753416,
-        "lat": 54.22022121965305,
+        "lon": -4.695107789742096,
+        "lat": 54.220219754319565,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989463"
       }
@@ -32813,46 +32854,6 @@
         "lat": 54.22120106200934,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989477"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 25989485,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.492146,
-            54.167416
-          ],
-          [
-            -4.492152,
-            54.167276
-          ],
-          [
-            -4.491935,
-            54.167069
-          ],
-          [
-            -4.490501,
-            54.165925
-          ]
-        ]
-      },
-      "properties": {
-        "abutters": "residential",
-        "highway": "residential",
-        "maxspeed": "20 mph",
-        "name": "Reayrt Carnane",
-        "name:gv": "Reayrt Carnane",
-        "postal_code": "IM2 5LJ;IM2 5LN",
-        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
-        "surface": "paved",
-        "osm_id": 25989485,
-        "lon": -4.4913842051693855,
-        "lat": 54.166638374908196,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/25989485"
       }
     },
     {
@@ -33541,8 +33542,12 @@
             54.168863
           ],
           [
-            -4.492345,
-            54.169059
+            -4.492348,
+            54.169029
+          ],
+          [
+            -4.492377,
+            54.169058
           ]
         ]
       },
@@ -33556,8 +33561,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989601,
-        "lon": -4.4918728593405435,
-        "lat": 54.16855780603304,
+        "lon": -4.49188171771173,
+        "lat": 54.16856363913105,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989601"
       }
@@ -34066,20 +34071,8 @@
             54.178381
           ],
           [
-            -4.471793,
-            54.17854
-          ],
-          [
-            -4.471759,
-            54.178637
-          ],
-          [
-            -4.471816,
-            54.178716
-          ],
-          [
-            -4.471951,
-            54.178806
+            -4.471848,
+            54.178433
           ]
         ]
       },
@@ -34094,8 +34087,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989671,
-        "lon": -4.472233361346728,
-        "lat": 54.17843801105134,
+        "lon": -4.472390154408935,
+        "lat": 54.17836079919054,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989671"
       }
@@ -34202,16 +34195,8 @@
             54.167127
           ],
           [
-            -4.521227,
-            54.167652
-          ],
-          [
-            -4.521353,
-            54.167693
-          ],
-          [
-            -4.521793,
-            54.167838
+            -4.52014,
+            54.167305
           ]
         ]
       },
@@ -34219,12 +34204,12 @@
         "highway": "residential",
         "maxspeed": "30 mph",
         "name": "Ashlar Drive",
-        "postal_code": "IM4 4LJ;IM4 4LL",
+        "postal_code": "IM4 4LJ",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 25989684,
-        "lon": -4.519898834858062,
-        "lat": 54.167340153644574,
+        "lon": -4.519075841636838,
+        "lat": 54.167163149385026,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/25989684"
       }
@@ -36305,22 +36290,6 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.547991,
-            54.176817
-          ],
-          [
-            -4.548314,
-            54.176749
-          ],
-          [
-            -4.548473,
-            54.176707
-          ],
-          [
-            -4.548681,
-            54.176616
-          ],
-          [
             -4.548762,
             54.176568
           ],
@@ -36355,15 +36324,15 @@
         ]
       },
       "properties": {
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Ballagarey Crescent",
         "postal_code": "IM4 4FA",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones",
         "osm_id": 58474525,
-        "lon": -4.54866490702804,
-        "lat": 54.176520575765224,
+        "lon": -4.548962470711195,
+        "lat": 54.17631283725089,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/58474525"
       }
@@ -36402,7 +36371,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Crofts",
         "postal_code": "IM4 4FB",
@@ -36474,8 +36443,12 @@
             54.177998
           ],
           [
-            -4.547645,
-            54.177869
+            -4.547614,
+            54.177903
+          ],
+          [
+            -4.54773,
+            54.177849
           ],
           [
             -4.547817,
@@ -36485,15 +36458,15 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Elm Bank",
         "postal_code": "IM4 4FF",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paving_stones",
         "osm_id": 58474541,
-        "lon": -4.547702630924111,
-        "lat": 54.17836049570068,
+        "lon": -4.547702851050394,
+        "lat": 54.17836226084456,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/58474541"
       }
@@ -36548,7 +36521,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "unclassified",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Bollan Way",
         "postal_code": "IM4 4FD",
@@ -37407,37 +37380,78 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.563683,
-            54.142247
+            -4.563645,
+            54.142241
           ],
           [
-            -4.563069,
-            54.142285
+            -4.563274,
+            54.142264
           ],
           [
-            -4.563006,
-            54.141932
+            -4.563279,
+            54.142291
           ],
           [
-            -4.563555,
-            54.141898
+            -4.563001,
+            54.142308
           ],
           [
-            -4.563565,
-            54.141953
+            -4.562974,
+            54.142162
           ],
           [
-            -4.56363,
-            54.141949
+            -4.563025,
+            54.142159
           ],
           [
-            -4.563683,
-            54.142247
+            -4.563005,
+            54.142049
+          ],
+          [
+            -4.562998,
+            54.142015
+          ],
+          [
+            -4.562965,
+            54.142017
+          ],
+          [
+            -4.562947,
+            54.141921
+          ],
+          [
+            -4.563046,
+            54.141914
+          ],
+          [
+            -4.563125,
+            54.14191
+          ],
+          [
+            -4.563417,
+            54.141891
+          ],
+          [
+            -4.563503,
+            54.141886
+          ],
+          [
+            -4.563516,
+            54.141956
+          ],
+          [
+            -4.563592,
+            54.141951
+          ],
+          [
+            -4.563645,
+            54.142241
           ]
         ]
       },
       "properties": {
         "building": "yes",
+        "golf": "clubhouse",
         "internet_access": "wlan",
         "internet_access:fee": "no",
         "name": "Mount Murray Golf Club",
@@ -37446,8 +37460,8 @@
         "sport": "golf",
         "website": "http://www.mountmurraygolfclub.com",
         "osm_id": 59523525,
-        "lon": -4.563342984872749,
-        "lat": 54.14209144742628,
+        "lon": -4.563277870980781,
+        "lat": 54.14209448047312,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/59523525"
       }
@@ -44256,7 +44270,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -45422,6 +45436,123 @@
     },
     {
       "type": "Feature",
+      "id": 164408442,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.511262,
+            54.169933
+          ],
+          [
+            -4.511166,
+            54.169805
+          ],
+          [
+            -4.511159,
+            54.169685
+          ],
+          [
+            -4.511066,
+            54.169587
+          ],
+          [
+            -4.510662,
+            54.16933
+          ],
+          [
+            -4.510636,
+            54.169267
+          ],
+          [
+            -4.510632,
+            54.169207
+          ],
+          [
+            -4.510665,
+            54.169168
+          ],
+          [
+            -4.510735,
+            54.169137
+          ],
+          [
+            -4.510932,
+            54.169094
+          ],
+          [
+            -4.511148,
+            54.168985
+          ],
+          [
+            -4.511219,
+            54.168966
+          ],
+          [
+            -4.511273,
+            54.168966
+          ],
+          [
+            -4.511319,
+            54.16898
+          ],
+          [
+            -4.51138,
+            54.169016
+          ],
+          [
+            -4.511639,
+            54.169166
+          ],
+          [
+            -4.511909,
+            54.169341
+          ],
+          [
+            -4.511999,
+            54.169415
+          ],
+          [
+            -4.512059,
+            54.169509
+          ],
+          [
+            -4.512022,
+            54.169635
+          ],
+          [
+            -4.511998,
+            54.169772
+          ],
+          [
+            -4.511882,
+            54.169821
+          ],
+          [
+            -4.511593,
+            54.169918
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Cronk Grianagh",
+        "name:gv": "Cronk Grianagh",
+        "oneway": "no",
+        "postal_code": "IM4 4RN",
+        "sidewalk": "no",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 164408442,
+        "lon": -4.511355898363454,
+        "lat": 54.169401249647834,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/164408442"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 164408652,
       "geometry": {
         "type": "LineString",
@@ -45577,6 +45708,14 @@
             54.170775
           ],
           [
+            -4.474528,
+            54.171449
+          ],
+          [
+            -4.474598,
+            54.171612
+          ],
+          [
             -4.474634,
             54.171698
           ],
@@ -45603,8 +45742,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 165129855,
-        "lon": -4.474241200537426,
-        "lat": 54.17111593989822,
+        "lon": -4.4742411160220605,
+        "lat": 54.17111597626664,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/165129855"
       }
@@ -45739,7 +45878,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Laurels",
         "postal_code": "IM2 7DN",
@@ -46595,6 +46734,60 @@
         "lat": 54.181103907642274,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/170522248"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 171722306,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.523138,
+            54.154501
+          ],
+          [
+            -4.522868,
+            54.154684
+          ],
+          [
+            -4.522704,
+            54.15476
+          ],
+          [
+            -4.522559,
+            54.15476
+          ],
+          [
+            -4.522454,
+            54.154736
+          ],
+          [
+            -4.522357,
+            54.154707
+          ],
+          [
+            -4.522251,
+            54.154705
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "service",
+        "maxspeed": "20 mph",
+        "name": "The Steadings",
+        "name:en": "The Steadings",
+        "name:gv": "Ny Gowaltyssyn",
+        "postal_code": "IM2 2PG",
+        "source": "survey",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 171722306,
+        "lon": -4.522712206098818,
+        "lat": 54.15468510260626,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/171722306"
       }
     },
     {
@@ -47712,6 +47905,14 @@
             54.171089
           ],
           [
+            -4.475439,
+            54.171043
+          ],
+          [
+            -4.476912,
+            54.170783
+          ],
+          [
             -4.476997,
             54.170768
           ],
@@ -47722,6 +47923,10 @@
           [
             -4.47724,
             54.171357
+          ],
+          [
+            -4.477264,
+            54.171404
           ],
           [
             -4.477276,
@@ -47758,8 +47963,8 @@
         "source": "Bing",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 233926121,
-        "lon": -4.4762927852098855,
-        "lat": 54.17129921131329,
+        "lon": -4.476292790025246,
+        "lat": 54.171299193406135,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/233926121"
       }
@@ -48581,7 +48786,7 @@
         ]
       },
       "properties": {
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Ballacottier Meadows",
         "name:en": "Ballacottier Meadows",
@@ -48601,10 +48806,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
-            -4.53209,
-            54.156104
-          ],
           [
             -4.532388,
             54.156025
@@ -48655,8 +48856,8 @@
         "postal_code": "IM2 2QX",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "osm_id": 253841994,
-        "lon": -4.532673453262255,
-        "lat": 54.15578095341804,
+        "lon": -4.5327831004714065,
+        "lat": 54.15570939200031,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/253841994"
       }
@@ -48819,7 +49020,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -53978,8 +54179,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.496327,
-            54.165758
+            -4.496434,
+            54.165828
+          ],
+          [
+            -4.496326,
+            54.165744
           ],
           [
             -4.496239,
@@ -53998,8 +54203,8 @@
             54.165287
           ],
           [
-            -4.495846,
-            54.165211
+            -4.495837,
+            54.16521
           ],
           [
             -4.495754,
@@ -54022,8 +54227,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
         "osm_id": 1011282560,
-        "lon": -4.495833987571126,
-        "lat": 54.16532993232682,
+        "lon": -4.495877454654796,
+        "lat": 54.165365932795,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1011282560"
       }
@@ -54921,41 +55126,21 @@
     },
     {
       "type": "Feature",
-      "id": 1098351712,
+      "id": 1098351711,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            -4.511168,
-            54.170474
+            -4.511593,
+            54.169918
           ],
           [
-            -4.511033,
-            54.170206
-          ],
-          [
-            -4.51102,
-            54.17016
-          ],
-          [
-            -4.511031,
-            54.170109
-          ],
-          [
-            -4.511085,
-            54.170063
-          ],
-          [
-            -4.511231,
-            54.170015
+            -4.511438,
+            54.169968
           ],
           [
             -4.511309,
             54.169995
-          ],
-          [
-            -4.511262,
-            54.169933
           ]
         ]
       },
@@ -54965,15 +55150,62 @@
         "name": "Cronk Grianagh",
         "name:gv": "Cronk Grianagh",
         "oneway": "no",
-        "postal_code": "IM4 4RN;IM4 4RR",
+        "postal_code": "IM4 4RN",
         "sidewalk": "both",
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "paved",
-        "osm_id": 1098351712,
-        "lon": -4.511134233958783,
-        "lat": 54.17016281998683,
+        "osm_id": 1098351711,
+        "lon": -4.511451986408669,
+        "lat": 54.16996022023427,
         "osm_type": "way",
-        "osm_url": "https://osm.org/way/1098351712"
+        "osm_url": "https://osm.org/way/1098351711"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1098351715,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51102,
+            54.17016
+          ],
+          [
+            -4.510919,
+            54.170145
+          ],
+          [
+            -4.51082,
+            54.170148
+          ],
+          [
+            -4.510731,
+            54.170161
+          ],
+          [
+            -4.510534,
+            54.170202
+          ],
+          [
+            -4.510385,
+            54.170262
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "oneway": "no",
+        "postal_code": "IM4 4RR",
+        "sidewalk": "both",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1098351715,
+        "lon": -4.510698290594644,
+        "lat": 54.1701803596947,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1098351715"
       }
     },
     {
@@ -56768,6 +57000,39 @@
     },
     {
       "type": "Feature",
+      "id": 1191426668,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.5122,
+            54.169697
+          ],
+          [
+            -4.511998,
+            54.169772
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Cronk Grianagh",
+        "name:gv": "Cronk Grianagh",
+        "oneway": "no",
+        "postal_code": "IM4 4RN",
+        "sidewalk": "no",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1191426668,
+        "lon": -4.512099,
+        "lat": 54.169734500000004,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1191426668"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1191595006,
       "geometry": {
         "type": "LineString",
@@ -58058,7 +58323,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "Olaf's Close",
         "name:en": "Olaf's Close",
@@ -58246,24 +58511,28 @@
             54.221719
           ],
           [
-            -4.693606,
-            54.221638
+            -4.69362,
+            54.221623
           ],
           [
             -4.693866,
             54.221477
           ],
           [
-            -4.694227,
-            54.221228
+            -4.694127,
+            54.221295
           ],
           [
-            -4.694435,
-            54.221042
+            -4.694198,
+            54.221222
           ],
           [
-            -4.694475,
-            54.221007
+            -4.694439,
+            54.221027
+          ],
+          [
+            -4.694473,
+            54.221001
           ]
         ]
       },
@@ -58281,8 +58550,8 @@
         "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
         "surface": "asphalt",
         "osm_id": 1300041091,
-        "lon": -4.693984779596049,
-        "lat": 54.221382619496744,
+        "lon": -4.693981649982481,
+        "lat": 54.22137685773639,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1300041091"
       }
@@ -58442,6 +58711,49 @@
         "lat": 54.087201,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1309955800"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1312239572,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.641377,
+            54.083286
+          ],
+          [
+            -4.640076,
+            54.082746
+          ],
+          [
+            -4.639287,
+            54.083444
+          ],
+          [
+            -4.64051,
+            54.084111
+          ],
+          [
+            -4.641377,
+            54.083286
+          ]
+        ]
+      },
+      "properties": {
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Netherby",
+        "operator": "Hartford Homes",
+        "postal_code": "IM9 1TN",
+        "url": "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber=21/01567/B",
+        "website": "https://hartford.im/development/netherby/",
+        "osm_id": 1312239572,
+        "lon": -4.640331680747658,
+        "lat": 54.08340414036453,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1312239572"
       }
     },
     {
@@ -59989,7 +60301,7 @@
       },
       "properties": {
         "abutters": "residential",
-        "highway": "residential",
+        "highway": "living_street",
         "maxspeed": "20 mph",
         "name": "The Laurels",
         "postal_code": "IM2 7DN",
@@ -60996,6 +61308,940 @@
         "lat": 54.174148929612706,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1471600787"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1474529549,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.497785,
+            54.167357
+          ],
+          [
+            -4.497879,
+            54.167288
+          ],
+          [
+            -4.497987,
+            54.167218
+          ],
+          [
+            -4.498054,
+            54.16718
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "alt_name": "Breken Bank",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Brecken Bank",
+        "postal_code": "IM4 4TS",
+        "sidewalk:left": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1474529549,
+        "lon": -4.497917371920158,
+        "lat": 54.16726523803495,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1474529549"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1474529550,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.498054,
+            54.16718
+          ],
+          [
+            -4.498282,
+            54.167134
+          ],
+          [
+            -4.498445,
+            54.167125
+          ],
+          [
+            -4.498583,
+            54.167127
+          ],
+          [
+            -4.498704,
+            54.167131
+          ],
+          [
+            -4.498788,
+            54.167118
+          ],
+          [
+            -4.498855,
+            54.167085
+          ],
+          [
+            -4.498894,
+            54.167037
+          ],
+          [
+            -4.498908,
+            54.167002
+          ],
+          [
+            -4.498912,
+            54.16694
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Hollin Bank",
+        "name:en": "Hollin Bank",
+        "name:gv": "Broogh Hollyn",
+        "postal_code": "IM4 4TT",
+        "sidewalk:right": "yes",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1474529550,
+        "lon": -4.498529164435102,
+        "lat": 54.16711424418746,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1474529550"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475012506,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.548119,
+            54.17679
+          ],
+          [
+            -4.548314,
+            54.176749
+          ],
+          [
+            -4.548473,
+            54.176707
+          ],
+          [
+            -4.548681,
+            54.176616
+          ],
+          [
+            -4.548762,
+            54.176568
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Ballagarey Crescent",
+        "postal_code": "IM4 4FA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paving_stones",
+        "osm_id": 1475012506,
+        "lon": -4.548447921804022,
+        "lat": 54.17669933424882,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475012506"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475012508,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.547991,
+            54.176817
+          ],
+          [
+            -4.548119,
+            54.17679
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "unclassified",
+        "maxspeed": "20 mph",
+        "name": "Ballagarey Crescent",
+        "postal_code": "IM4 4FA",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 1475012508,
+        "lon": -4.548055,
+        "lat": 54.1768035,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475012508"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475036559,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.50706,
+            54.16595
+          ],
+          [
+            -4.507094,
+            54.165942
+          ],
+          [
+            -4.507128,
+            54.165934
+          ],
+          [
+            -4.507281,
+            54.165902
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "bicycle": "yes",
+        "highway": "unclassified",
+        "maxspeed": "30 mph",
+        "name": "Church View",
+        "oneway": "no",
+        "postal_code": "IM4 4TF",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475036559,
+        "lon": -4.5071703695646255,
+        "lat": 54.16592541294524,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475036559"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475036560,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.506311,
+            54.16387
+          ],
+          [
+            -4.506293,
+            54.163754
+          ],
+          [
+            -4.506201,
+            54.163654
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "bicycle": "yes",
+        "highway": "living_street",
+        "maxspeed": "30 mph",
+        "name": "River Walk",
+        "oneway": "no",
+        "postal_code": "IM4 4TJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475036560,
+        "lon": -4.506272491923729,
+        "lat": 54.16375405686841,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475036560"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475036564,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.506458,
+            54.164055
+          ],
+          [
+            -4.506401,
+            54.163993
+          ],
+          [
+            -4.506353,
+            54.163947
+          ],
+          [
+            -4.506311,
+            54.16387
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "bicycle": "yes",
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "River Walk",
+        "oneway": "no",
+        "postal_code": "IM4 4TJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475036564,
+        "lon": -4.506378990701574,
+        "lat": 54.16396645039065,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475036564"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475036566,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.505687,
+            54.164037
+          ],
+          [
+            -4.50574,
+            54.164027
+          ],
+          [
+            -4.505754,
+            54.164025
+          ],
+          [
+            -4.505926,
+            54.163998
+          ],
+          [
+            -4.506353,
+            54.163947
+          ],
+          [
+            -4.506632,
+            54.163914
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "bicycle": "yes",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "River Vale",
+        "oneway": "no",
+        "postal_code": "IM4 4TH",
+        "sidewalk": "both",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475036566,
+        "lon": -4.50615891066404,
+        "lat": 54.16397140491764,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475036566"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475036595,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.509022,
+            54.166137
+          ],
+          [
+            -4.508863,
+            54.165846
+          ],
+          [
+            -4.508783,
+            54.165648
+          ],
+          [
+            -4.508729,
+            54.165565
+          ],
+          [
+            -4.50869,
+            54.165503
+          ],
+          [
+            -4.508494,
+            54.165283
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "bicycle": "yes",
+        "highway": "living_street",
+        "lanes": "1",
+        "maxspeed": "30 mph",
+        "name": "River Walk",
+        "oneway": "no",
+        "postal_code": "IM4 4TJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475036595,
+        "lon": -4.508780133222703,
+        "lat": 54.16569488806166,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475036595"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475146412,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.51102,
+            54.17016
+          ],
+          [
+            -4.511031,
+            54.170109
+          ],
+          [
+            -4.511085,
+            54.170063
+          ],
+          [
+            -4.511231,
+            54.170015
+          ],
+          [
+            -4.511309,
+            54.169995
+          ],
+          [
+            -4.511262,
+            54.169933
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Cronk Grianagh",
+        "name:gv": "Cronk Grianagh",
+        "oneway": "no",
+        "postal_code": "IM4 4RN",
+        "sidewalk": "both",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475146412,
+        "lon": -4.511169334037578,
+        "lat": 54.17003841085974,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475146412"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475153445,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.52014,
+            54.167305
+          ],
+          [
+            -4.521227,
+            54.167652
+          ],
+          [
+            -4.521353,
+            54.167693
+          ],
+          [
+            -4.521793,
+            54.167838
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Ashlar Drive",
+        "postal_code": "IM4 4LL",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475153445,
+        "lon": -4.520967033594262,
+        "lat": 54.167569854148645,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475153445"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475373071,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.471848,
+            54.178433
+          ],
+          [
+            -4.471793,
+            54.17854
+          ],
+          [
+            -4.471759,
+            54.178637
+          ],
+          [
+            -4.471816,
+            54.178716
+          ],
+          [
+            -4.471951,
+            54.178806
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Croven's Close",
+        "name:en": "Croven's Close",
+        "name:gv": "Close Ghorree Croven",
+        "postal_code": "IM2 7AH;IM2 7AQ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475373071,
+        "lon": -4.471825539773255,
+        "lat": 54.1786388134421,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475373071"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475987783,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.53209,
+            54.156104
+          ],
+          [
+            -4.532388,
+            54.156025
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "living_street",
+        "maxspeed": "20 mph",
+        "name": "Ballacottier Meadows",
+        "name:en": "Ballacottier Meadows",
+        "postal_code": "IM2 2QX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "osm_id": 1475987783,
+        "lon": -4.532239000000001,
+        "lat": 54.15606450000001,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475987783"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475988980,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.522232,
+            54.157413
+          ],
+          [
+            -4.522327,
+            54.157395
+          ],
+          [
+            -4.522418,
+            54.157397
+          ],
+          [
+            -4.522501,
+            54.157409
+          ],
+          [
+            -4.522727,
+            54.157473
+          ],
+          [
+            -4.522825,
+            54.157459
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "living_street",
+        "maxspeed": "30 mph",
+        "name": "Willowbrook Gardens",
+        "postal_code": "IM2 2QQ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1475988980,
+        "lon": -4.522529362596889,
+        "lat": 54.15742715022671,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475988980"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476320261,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474922,
+            54.172801
+          ],
+          [
+            -4.474625,
+            54.172766
+          ],
+          [
+            -4.474571,
+            54.172755
+          ],
+          [
+            -4.474532,
+            54.172733
+          ],
+          [
+            -4.474463,
+            54.172683
+          ],
+          [
+            -4.474423,
+            54.17265
+          ],
+          [
+            -4.474213,
+            54.172477
+          ],
+          [
+            -4.47381,
+            54.172146
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Second Avenue",
+        "postal_code": "IM2 6AP",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476320261,
+        "lon": -4.474336081408017,
+        "lat": 54.17254166274126,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476320261"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476598453,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476816,
+            54.18054
+          ],
+          [
+            -4.476969,
+            54.180589
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Foxglove Close",
+        "postal_code": "IM2 7EG",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476598453,
+        "lon": -4.4768925,
+        "lat": 54.1805645,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476598453"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476598454,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476572,
+            54.181103
+          ],
+          [
+            -4.476478,
+            54.181043
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Gorsecroft",
+        "postal_code": "IM2 7DZ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476598454,
+        "lon": -4.4765250000000005,
+        "lat": 54.181073,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476598454"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476598455,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.475632,
+            54.181201
+          ],
+          [
+            -4.475577,
+            54.181253
+          ],
+          [
+            -4.475516,
+            54.181305
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Heather Lane",
+        "postal_code": "IM2 7EF",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476598455,
+        "lon": -4.475574668974225,
+        "lat": 54.18125374505759,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476598455"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476598456,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476226,
+            54.181615
+          ],
+          [
+            -4.476146,
+            54.18163
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Stonecrop Grove",
+        "postal_code": "IM2 7DX",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476598456,
+        "lon": -4.476186,
+        "lat": 54.1816225,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476598456"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476598457,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.476362,
+            54.181911
+          ],
+          [
+            -4.476304,
+            54.18193
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Honeysuckle Lane",
+        "postal_code": "IM2 7DY",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476598457,
+        "lon": -4.476333,
+        "lat": 54.181920500000004,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476598457"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1476598469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.472822,
+            54.179029
+          ],
+          [
+            -4.472756,
+            54.179007
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "maxspeed": "20 mph",
+        "name": "Reginald Close",
+        "postal_code": "IM2 7AJ",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1476598469,
+        "lon": -4.472789000000001,
+        "lat": 54.179018,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1476598469"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814913,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698707,
+            54.098505
+          ],
+          [
+            -4.69865,
+            54.098465
+          ],
+          [
+            -4.698472,
+            54.09834
+          ],
+          [
+            -4.698376,
+            54.098272
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cronk Y Thatcher",
+        "name:gv": "Cronk Y Thatcher",
+        "postal_code": "IM9 4LN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "asphalt",
+        "osm_id": 1477814913,
+        "lon": -4.6985413967868155,
+        "lat": 54.098388646378616,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1477814913"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1477814914,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.698376,
+            54.098272
+          ],
+          [
+            -4.698241,
+            54.098224
+          ],
+          [
+            -4.698128,
+            54.098188
+          ],
+          [
+            -4.69806,
+            54.098146
+          ],
+          [
+            -4.698006,
+            54.098099
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "residential",
+        "highway": "residential",
+        "name": "Cronk Y Thatcher",
+        "name:gv": "Cronk Y Thatcher",
+        "postal_code": "IM9 4LN",
+        "source:postal_code": "Isle of Man Government Land Registry Land Transactions",
+        "surface": "paved",
+        "osm_id": 1477814914,
+        "lon": -4.698183744520393,
+        "lat": 54.09819855659043,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1477814914"
       }
     }
   ]

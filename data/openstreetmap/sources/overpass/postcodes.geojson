@@ -7479,12 +7479,11 @@
         "addr:postcode": "IM2 3EG",
         "addr:street": "Hilary Road",
         "amenity": "dentist",
-        "contact:facebook": "https://www.facebook.com/HilaryRoadDentalPractice",
-        "email": "hilaryroaddentalpractice@yahoo.co.uk",
+        "email": "reception@dashfielddental.com",
         "healthcare": "dentist",
-        "name": "Hilary Road Dental Practice",
-        "opening_hours": "Mo-Fr 08:30-18:00",
-        "phone": "+44 1624 675195"
+        "name": "Dashfield Dental",
+        "phone": "+44 1624 675195",
+        "website": "https://www.dashfielddental.com"
       }
     },
     {
@@ -10256,6 +10255,50 @@
         "addr:postcode": "IM2 7AQ",
         "addr:street": "Croven's Close",
         "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13577986608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694917,
+          54.222649
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM5 1HA",
+        "addr:street": "Michael Street",
+        "charity": "yes",
+        "name": "Hospice",
+        "ref:charity": "317",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13577986619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694857,
+          54.222583
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "17a",
+        "addr:postcode": "IM5 1BA",
+        "addr:street": "Douglas Street",
+        "clothes": "underwear",
+        "contact:facebook": "https://www.facebook.com/p/Bare-Necessities-Ltd-100057529237519/",
+        "name": "Bare Necessities",
+        "shop": "clothes"
       }
     },
     {
@@ -24541,7 +24584,7 @@
         "addr:country": "IM",
         "addr:postcode": "IM1 3DT",
         "addr:street": "Demesne Road",
-        "building": "yes",
+        "demolished:building": "yes",
         "old_name": "James Caine",
         "source": "Isle of Man Government aerial imagery (2001)",
         "was:shop": "carpet"
@@ -51061,63 +51104,6 @@
     },
     {
       "type": "Feature",
-      "id": 101393009,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.748574,
-            54.084869
-          ],
-          [
-            -4.748722,
-            54.084894
-          ],
-          [
-            -4.748768,
-            54.084805
-          ],
-          [
-            -4.748719,
-            54.084797
-          ],
-          [
-            -4.748729,
-            54.084779
-          ],
-          [
-            -4.748684,
-            54.084771
-          ],
-          [
-            -4.74871,
-            54.084722
-          ],
-          [
-            -4.748651,
-            54.084713
-          ],
-          [
-            -4.748574,
-            54.084869
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housename": "West Lodge",
-        "addr:postcode": "IM9 6BD",
-        "addr:street": "Castletown Road",
-        "building": "house",
-        "guest_house": "bed_and_breakfast",
-        "name": "West Lodge",
-        "phone": "01624 832346",
-        "tourism": "guest_house",
-        "website": "https://westlodgeiom.com/"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 101393050,
       "geometry": {
         "type": "LineString",
@@ -71486,6 +71472,47 @@
     },
     {
       "type": "Feature",
+      "id": 146972092,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694668,
+            54.222461
+          ],
+          [
+            -4.694615,
+            54.222433
+          ],
+          [
+            -4.694534,
+            54.222485
+          ],
+          [
+            -4.694588,
+            54.222513
+          ],
+          [
+            -4.694668,
+            54.222461
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Kione Turrys",
+        "addr:housenumber": "23",
+        "addr:postcode": "IM5 1BA",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Companies Registry",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Companies Registry",
+        "was:tourism": "chalet"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146972138,
       "geometry": {
         "type": "LineString",
@@ -71511,20 +71538,52 @@
             54.222597
           ],
           [
-            -4.694521,
-            54.222572
+            -4.694528,
+            54.222596
+          ],
+          [
+            -4.694504,
+            54.222584
           ],
           [
             -4.69459,
             54.22253
           ],
           [
+            -4.694634,
+            54.222551
+          ],
+          [
+            -4.694671,
+            54.22257
+          ],
+          [
             -4.694681,
             54.222574
           ],
           [
-            -4.694684,
-            54.222633
+            -4.694677,
+            54.222618
+          ],
+          [
+            -4.69471,
+            54.222617
+          ],
+          [
+            -4.694713,
+            54.222594
+          ],
+          [
+            -4.694744,
+            54.222595
+          ],
+          [
+            -4.694744,
+            54.222616
+          ],
+          [
+            -4.694805,
+            54.222615
           ],
           [
             -4.694804,
@@ -71556,8 +71615,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.694418,
-            54.222389
+            -4.694415,
+            54.222385
           ],
           [
             -4.694328,
@@ -71600,12 +71659,12 @@
             54.222509
           ],
           [
-            -4.694298,
-            54.222439
+            -4.694297,
+            54.222434
           ],
           [
-            -4.694418,
-            54.222389
+            -4.694415,
+            54.222385
           ]
         ]
       },
@@ -71613,13 +71672,14 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housename": "Old Post Office",
-        "addr:housenumber": "29",
+        "addr:housenumber": "27-29",
         "addr:postcode": "IM5 1HQ",
         "addr:street": "Douglas Street",
         "building": "yes",
         "name": "Ormco Accounts",
         "office": "accountant",
         "phone": "+44 1624 610547",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
         "was:amenity": "post_office",
         "website": "https://ormcoaccounts.com/",
         "wheelchair": "yes"
@@ -71677,6 +71737,44 @@
         "shop": "hardware",
         "website": "https://shop.jacstores.co.uk/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146972163,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694559,
+            54.222401
+          ],
+          [
+            -4.694495,
+            54.222364
+          ],
+          [
+            -4.6944,
+            54.222407
+          ],
+          [
+            -4.694456,
+            54.222445
+          ],
+          [
+            -4.694559,
+            54.222401
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "25",
+        "addr:postcode": "IM5 1BA",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -71835,6 +71933,114 @@
     },
     {
       "type": "Feature",
+      "id": 146980712,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694087,
+            54.222129
+          ],
+          [
+            -4.694005,
+            54.222078
+          ],
+          [
+            -4.693874,
+            54.222157
+          ],
+          [
+            -4.69393,
+            54.222191
+          ],
+          [
+            -4.693989,
+            54.222153
+          ],
+          [
+            -4.69401,
+            54.222167
+          ],
+          [
+            -4.694087,
+            54.222129
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "35",
+        "addr:postcode": "IM5 1BB",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146980715,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694087,
+            54.222129
+          ],
+          [
+            -4.694175,
+            54.222187
+          ],
+          [
+            -4.694162,
+            54.222193
+          ],
+          [
+            -4.694082,
+            54.22222
+          ],
+          [
+            -4.694064,
+            54.222208
+          ],
+          [
+            -4.694034,
+            54.222224
+          ],
+          [
+            -4.694015,
+            54.222211
+          ],
+          [
+            -4.694,
+            54.22222
+          ],
+          [
+            -4.693961,
+            54.222194
+          ],
+          [
+            -4.69401,
+            54.222167
+          ],
+          [
+            -4.694087,
+            54.222129
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "33",
+        "addr:postcode": "IM5 1BB",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 146980728,
       "geometry": {
         "type": "LineString",
@@ -71884,6 +72090,54 @@
         "shop": "convenience",
         "website": "https://www.tesco.com/store-locator/peel/michael-street",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 146980730,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.693935,
+            54.22204
+          ],
+          [
+            -4.693828,
+            54.221983
+          ],
+          [
+            -4.693721,
+            54.222052
+          ],
+          [
+            -4.693806,
+            54.222097
+          ],
+          [
+            -4.693853,
+            54.222068
+          ],
+          [
+            -4.693874,
+            54.222079
+          ],
+          [
+            -4.693935,
+            54.22204
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housename": "Fairyland",
+        "addr:housenumber": "37",
+        "addr:postcode": "IM5 1DR",
+        "addr:street": "Douglas Street",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -92139,52 +92393,88 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.540701,
-            54.128856
+            -4.540704,
+            54.128796
           ],
           [
-            -4.540564,
-            54.128781
+            -4.540555,
+            54.128706
           ],
           [
-            -4.54046,
-            54.128723
+            -4.540507,
+            54.128734
           ],
           [
-            -4.540402,
-            54.128754
+            -4.540374,
+            54.128654
           ],
           [
-            -4.54028,
-            54.128681
+            -4.54029,
+            54.128701
           ],
           [
-            -4.539884,
-            54.128884
+            -4.540248,
+            54.128676
           ],
           [
-            -4.54011,
-            54.129021
+            -4.540175,
+            54.128718
           ],
           [
-            -4.540397,
-            54.128861
+            -4.540163,
+            54.128711
           ],
           [
-            -4.540446,
+            -4.540101,
+            54.128746
+          ],
+          [
+            -4.540077,
+            54.128732
+          ],
+          [
+            -4.539922,
+            54.12882
+          ],
+          [
+            -4.539938,
+            54.12883
+          ],
+          [
+            -4.539906,
+            54.128849
+          ],
+          [
+            -4.539992,
+            54.128901
+          ],
+          [
+            -4.540022,
             54.128886
           ],
           [
-            -4.540591,
-            54.128965
+            -4.540126,
+            54.128951
           ],
           [
-            -4.540728,
-            54.128879
+            -4.540352,
+            54.128834
           ],
           [
-            -4.540701,
-            54.128856
+            -4.540343,
+            54.128826
+          ],
+          [
+            -4.540423,
+            54.128788
+          ],
+          [
+            -4.540567,
+            54.128875
+          ],
+          [
+            -4.540704,
+            54.128796
           ]
         ]
       },
@@ -92817,6 +93107,83 @@
         "addr:place": "Cronkbourne Village",
         "addr:postcode": "IM4 4QH",
         "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232550505,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494541,
+            54.168739
+          ],
+          [
+            -4.494606,
+            54.168808
+          ],
+          [
+            -4.494477,
+            54.16885
+          ],
+          [
+            -4.494486,
+            54.168859
+          ],
+          [
+            -4.494396,
+            54.168888
+          ],
+          [
+            -4.494324,
+            54.168812
+          ],
+          [
+            -4.49433,
+            54.16881
+          ],
+          [
+            -4.494307,
+            54.168785
+          ],
+          [
+            -4.494285,
+            54.168792
+          ],
+          [
+            -4.494253,
+            54.168758
+          ],
+          [
+            -4.49435,
+            54.168726
+          ],
+          [
+            -4.494379,
+            54.168757
+          ],
+          [
+            -4.494419,
+            54.168745
+          ],
+          [
+            -4.494444,
+            54.168771
+          ],
+          [
+            -4.494541,
+            54.168739
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "94",
+        "addr:postcode": "IM2 5LR",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -113296,6 +113663,135 @@
     },
     {
       "type": "Feature",
+      "id": 680059474,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489066,
+            54.166811
+          ],
+          [
+            -4.489126,
+            54.166872
+          ],
+          [
+            -4.489064,
+            54.166893
+          ],
+          [
+            -4.489118,
+            54.166948
+          ],
+          [
+            -4.489359,
+            54.166865
+          ],
+          [
+            -4.489327,
+            54.166833
+          ],
+          [
+            -4.489267,
+            54.166854
+          ],
+          [
+            -4.489222,
+            54.166809
+          ],
+          [
+            -4.489283,
+            54.166787
+          ],
+          [
+            -4.489245,
+            54.16675
+          ],
+          [
+            -4.489066,
+            54.166811
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "132",
+        "addr:postcode": "IM2 5LE",
+        "addr:street": "Dreeym Beary",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 680059475,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489072,
+            54.166545
+          ],
+          [
+            -4.488885,
+            54.166611
+          ],
+          [
+            -4.488938,
+            54.166661
+          ],
+          [
+            -4.488969,
+            54.166651
+          ],
+          [
+            -4.489023,
+            54.166703
+          ],
+          [
+            -4.488907,
+            54.166744
+          ],
+          [
+            -4.488965,
+            54.1668
+          ],
+          [
+            -4.489195,
+            54.166719
+          ],
+          [
+            -4.489141,
+            54.166666
+          ],
+          [
+            -4.48909,
+            54.166684
+          ],
+          [
+            -4.489033,
+            54.166628
+          ],
+          [
+            -4.489125,
+            54.166596
+          ],
+          [
+            -4.489072,
+            54.166545
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "133",
+        "addr:postcode": "IM2 5LF",
+        "addr:street": "Slieau Dhoo",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 682374861,
       "geometry": {
         "type": "LineString",
@@ -128098,6 +128594,807 @@
     },
     {
       "type": "Feature",
+      "id": 1083153284,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488187,
+            54.168128
+          ],
+          [
+            -4.488322,
+            54.16827
+          ],
+          [
+            -4.488401,
+            54.168244
+          ],
+          [
+            -4.48838,
+            54.168221
+          ],
+          [
+            -4.488455,
+            54.168197
+          ],
+          [
+            -4.488355,
+            54.16809
+          ],
+          [
+            -4.48831,
+            54.168105
+          ],
+          [
+            -4.488297,
+            54.168092
+          ],
+          [
+            -4.488187,
+            54.168128
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Hibernia",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 5LA",
+        "addr:street": "Tromode Park",
+        "building": "yes",
+        "fixme": "check address",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153294,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492393,
+            54.167157
+          ],
+          [
+            -4.492356,
+            54.167135
+          ],
+          [
+            -4.492267,
+            54.167188
+          ],
+          [
+            -4.492337,
+            54.167228
+          ],
+          [
+            -4.492378,
+            54.167204
+          ],
+          [
+            -4.492489,
+            54.167268
+          ],
+          [
+            -4.492633,
+            54.167183
+          ],
+          [
+            -4.492591,
+            54.167158
+          ],
+          [
+            -4.492586,
+            54.167162
+          ],
+          [
+            -4.492484,
+            54.167103
+          ],
+          [
+            -4.492393,
+            54.167157
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "21",
+        "addr:postcode": "IM2 5LW",
+        "addr:street": "Cronk Ny Greiney",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153301,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488946,
+            54.167209
+          ],
+          [
+            -4.48882,
+            54.167076
+          ],
+          [
+            -4.488698,
+            54.167115
+          ],
+          [
+            -4.488795,
+            54.167217
+          ],
+          [
+            -4.488781,
+            54.167222
+          ],
+          [
+            -4.48881,
+            54.167253
+          ],
+          [
+            -4.488946,
+            54.167209
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "107",
+        "addr:postcode": "IM2 5LE",
+        "addr:street": "Dreeym Beary",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153323,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49064,
+            54.167338
+          ],
+          [
+            -4.490533,
+            54.167381
+          ],
+          [
+            -4.490696,
+            54.167519
+          ],
+          [
+            -4.49085,
+            54.167457
+          ],
+          [
+            -4.490796,
+            54.167411
+          ],
+          [
+            -4.490865,
+            54.167383
+          ],
+          [
+            -4.490778,
+            54.16731
+          ],
+          [
+            -4.490662,
+            54.167356
+          ],
+          [
+            -4.49064,
+            54.167338
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "125",
+        "addr:postcode": "IM2 5LF",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153324,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492051,
+            54.168121
+          ],
+          [
+            -4.492267,
+            54.168146
+          ],
+          [
+            -4.492326,
+            54.16797
+          ],
+          [
+            -4.492192,
+            54.167955
+          ],
+          [
+            -4.492155,
+            54.168064
+          ],
+          [
+            -4.492073,
+            54.168054
+          ],
+          [
+            -4.492051,
+            54.168121
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "78",
+        "addr:postcode": "IM2 5LZ",
+        "addr:street": "Eary Veg",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153341,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491824,
+            54.16714
+          ],
+          [
+            -4.491683,
+            54.167183
+          ],
+          [
+            -4.491789,
+            54.167301
+          ],
+          [
+            -4.49193,
+            54.167258
+          ],
+          [
+            -4.491824,
+            54.16714
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "42",
+        "addr:postcode": "IM2 5LJ",
+        "addr:street": "Reayrt Carnane",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153373,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.493449,
+            54.167634
+          ],
+          [
+            -4.493418,
+            54.167679
+          ],
+          [
+            -4.493359,
+            54.167665
+          ],
+          [
+            -4.493313,
+            54.167733
+          ],
+          [
+            -4.493395,
+            54.167752
+          ],
+          [
+            -4.493422,
+            54.167713
+          ],
+          [
+            -4.493508,
+            54.167733
+          ],
+          [
+            -4.493484,
+            54.167769
+          ],
+          [
+            -4.493544,
+            54.167783
+          ],
+          [
+            -4.493619,
+            54.167674
+          ],
+          [
+            -4.493449,
+            54.167634
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "53",
+        "addr:postcode": "IM2 5LW",
+        "addr:street": "Cronk Ny Greiney",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153386,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494052,
+            54.168486
+          ],
+          [
+            -4.494021,
+            54.168441
+          ],
+          [
+            -4.493775,
+            54.168497
+          ],
+          [
+            -4.493846,
+            54.168603
+          ],
+          [
+            -4.493955,
+            54.168578
+          ],
+          [
+            -4.493942,
+            54.168558
+          ],
+          [
+            -4.494018,
+            54.16854
+          ],
+          [
+            -4.493991,
+            54.168499
+          ],
+          [
+            -4.494052,
+            54.168486
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "89",
+        "addr:postcode": "IM2 5LX",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153391,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490239,
+            54.169483
+          ],
+          [
+            -4.490296,
+            54.169549
+          ],
+          [
+            -4.490271,
+            54.169557
+          ],
+          [
+            -4.490317,
+            54.169611
+          ],
+          [
+            -4.490557,
+            54.169541
+          ],
+          [
+            -4.490487,
+            54.169459
+          ],
+          [
+            -4.490438,
+            54.169473
+          ],
+          [
+            -4.490405,
+            54.169434
+          ],
+          [
+            -4.490239,
+            54.169483
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "116",
+        "addr:postcode": "IM2 5LL",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153398,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494191,
+            54.166819
+          ],
+          [
+            -4.494193,
+            54.167018
+          ],
+          [
+            -4.49433,
+            54.167018
+          ],
+          [
+            -4.494327,
+            54.166818
+          ],
+          [
+            -4.494191,
+            54.166819
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 5PE",
+        "addr:street": "Tromode Close",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153399,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.493812,
+            54.16747
+          ],
+          [
+            -4.494,
+            54.167512
+          ],
+          [
+            -4.494047,
+            54.167439
+          ],
+          [
+            -4.49386,
+            54.167397
+          ],
+          [
+            -4.493812,
+            54.16747
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "16",
+        "addr:postcode": "IM2 5LW",
+        "addr:street": "Cronk Ny Greiney",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153402,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.494267,
+            54.168344
+          ],
+          [
+            -4.494125,
+            54.168375
+          ],
+          [
+            -4.49418,
+            54.168461
+          ],
+          [
+            -4.494112,
+            54.168476
+          ],
+          [
+            -4.494141,
+            54.168521
+          ],
+          [
+            -4.494351,
+            54.168474
+          ],
+          [
+            -4.494267,
+            54.168344
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "90",
+        "addr:postcode": "IM2 5LP",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153425,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489979,
+            54.169704
+          ],
+          [
+            -4.48991,
+            54.169729
+          ],
+          [
+            -4.489845,
+            54.169667
+          ],
+          [
+            -4.489667,
+            54.169732
+          ],
+          [
+            -4.489727,
+            54.169789
+          ],
+          [
+            -4.489761,
+            54.169777
+          ],
+          [
+            -4.489833,
+            54.169844
+          ],
+          [
+            -4.490046,
+            54.169767
+          ],
+          [
+            -4.489979,
+            54.169704
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "117",
+        "addr:postcode": "IM2 5LT",
+        "addr:street": "Tromode Park",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153434,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492705,
+            54.169079
+          ],
+          [
+            -4.492557,
+            54.169119
+          ],
+          [
+            -4.492576,
+            54.169143
+          ],
+          [
+            -4.492459,
+            54.169176
+          ],
+          [
+            -4.492547,
+            54.169286
+          ],
+          [
+            -4.492625,
+            54.169264
+          ],
+          [
+            -4.492591,
+            54.169221
+          ],
+          [
+            -4.492778,
+            54.16917
+          ],
+          [
+            -4.492705,
+            54.169079
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "100",
+        "addr:postcode": "IM2 5LR",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153446,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.49361,
+            54.168984
+          ],
+          [
+            -4.493558,
+            54.168894
+          ],
+          [
+            -4.493333,
+            54.168939
+          ],
+          [
+            -4.493374,
+            54.169009
+          ],
+          [
+            -4.493417,
+            54.169001
+          ],
+          [
+            -4.49343,
+            54.169023
+          ],
+          [
+            -4.493459,
+            54.169017
+          ],
+          [
+            -4.49348,
+            54.169054
+          ],
+          [
+            -4.493574,
+            54.169035
+          ],
+          [
+            -4.493551,
+            54.168996
+          ],
+          [
+            -4.49361,
+            54.168984
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "97",
+        "addr:postcode": "IM2 5LR",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153463,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490455,
+            54.167121
+          ],
+          [
+            -4.490385,
+            54.167068
+          ],
+          [
+            -4.490413,
+            54.167055
+          ],
+          [
+            -4.490322,
+            54.166987
+          ],
+          [
+            -4.490098,
+            54.167089
+          ],
+          [
+            -4.490191,
+            54.16716
+          ],
+          [
+            -4.490294,
+            54.167113
+          ],
+          [
+            -4.490362,
+            54.167163
+          ],
+          [
+            -4.490455,
+            54.167121
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "123",
+        "addr:postcode": "IM2 5LF",
+        "addr:street": "Slieau Dhoo",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1083153475,
       "geometry": {
         "type": "LineString",
@@ -128128,6 +129425,267 @@
         "addr:housenumber": "83",
         "addr:postcode": "IM2 5EZ",
         "addr:street": "Port-E-Chee-Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153477,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491217,
+            54.167111
+          ],
+          [
+            -4.491104,
+            54.167027
+          ],
+          [
+            -4.491176,
+            54.166993
+          ],
+          [
+            -4.491113,
+            54.166946
+          ],
+          [
+            -4.491034,
+            54.166983
+          ],
+          [
+            -4.491054,
+            54.166998
+          ],
+          [
+            -4.490898,
+            54.167069
+          ],
+          [
+            -4.490989,
+            54.167137
+          ],
+          [
+            -4.491022,
+            54.167122
+          ],
+          [
+            -4.491088,
+            54.167171
+          ],
+          [
+            -4.491217,
+            54.167111
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "44",
+        "addr:postcode": "IM2 5LG",
+        "addr:street": "Slieau Dhoo",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153484,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487456,
+            54.166735
+          ],
+          [
+            -4.487243,
+            54.166799
+          ],
+          [
+            -4.4873,
+            54.166864
+          ],
+          [
+            -4.487391,
+            54.166837
+          ],
+          [
+            -4.487423,
+            54.166874
+          ],
+          [
+            -4.487545,
+            54.166837
+          ],
+          [
+            -4.487456,
+            54.166735
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "109",
+        "addr:postcode": "IM2 5LD",
+        "addr:street": "Slieau Dhoo",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153486,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488897,
+            54.168028
+          ],
+          [
+            -4.488785,
+            54.168065
+          ],
+          [
+            -4.488905,
+            54.168189
+          ],
+          [
+            -4.488985,
+            54.168163
+          ],
+          [
+            -4.488942,
+            54.168119
+          ],
+          [
+            -4.488975,
+            54.168108
+          ],
+          [
+            -4.488897,
+            54.168028
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Bramble Tor",
+        "addr:place": "Tromode Park",
+        "addr:postcode": "IM2 5LB",
+        "building": "yes",
+        "source:addr:housename": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153503,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492352,
+            54.168169
+          ],
+          [
+            -4.492426,
+            54.16818
+          ],
+          [
+            -4.492493,
+            54.168254
+          ],
+          [
+            -4.49272,
+            54.168184
+          ],
+          [
+            -4.492692,
+            54.168153
+          ],
+          [
+            -4.492732,
+            54.168141
+          ],
+          [
+            -4.492675,
+            54.168077
+          ],
+          [
+            -4.492624,
+            54.168093
+          ],
+          [
+            -4.492635,
+            54.168105
+          ],
+          [
+            -4.492556,
+            54.168129
+          ],
+          [
+            -4.49238,
+            54.168104
+          ],
+          [
+            -4.492352,
+            54.168169
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Cherry Trees",
+        "addr:housenumber": "79",
+        "addr:postcode": "IM2 5LZ",
+        "addr:street": "Eary Veg",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153506,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490414,
+            54.167605
+          ],
+          [
+            -4.490422,
+            54.167616
+          ],
+          [
+            -4.490526,
+            54.167592
+          ],
+          [
+            -4.490464,
+            54.167499
+          ],
+          [
+            -4.490196,
+            54.167561
+          ],
+          [
+            -4.490251,
+            54.167642
+          ],
+          [
+            -4.490414,
+            54.167605
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "126",
+        "addr:postcode": "IM2 5LQ",
+        "addr:street": "Dreeym Beary",
         "building": "yes",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
@@ -128174,6 +129732,315 @@
         "addr:housenumber": "77",
         "addr:postcode": "IM2 5EZ",
         "addr:street": "Port-E-Chee-Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153516,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492964,
+            54.167559
+          ],
+          [
+            -4.492829,
+            54.167543
+          ],
+          [
+            -4.492794,
+            54.167649
+          ],
+          [
+            -4.492928,
+            54.167665
+          ],
+          [
+            -4.492964,
+            54.167559
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "55",
+        "addr:postcode": "IM2 5LW",
+        "addr:street": "Cronk Ny Greiney",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153523,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489345,
+            54.167158
+          ],
+          [
+            -4.489392,
+            54.167211
+          ],
+          [
+            -4.489449,
+            54.167193
+          ],
+          [
+            -4.489505,
+            54.167256
+          ],
+          [
+            -4.489641,
+            54.167214
+          ],
+          [
+            -4.489536,
+            54.167099
+          ],
+          [
+            -4.489345,
+            54.167158
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "130",
+        "addr:postcode": "IM2 5LE",
+        "addr:street": "Dreeym Beary",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153529,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489801,
+            54.16764
+          ],
+          [
+            -4.489859,
+            54.167705
+          ],
+          [
+            -4.489911,
+            54.167689
+          ],
+          [
+            -4.489966,
+            54.167748
+          ],
+          [
+            -4.49011,
+            54.167703
+          ],
+          [
+            -4.490068,
+            54.167657
+          ],
+          [
+            -4.490027,
+            54.16767
+          ],
+          [
+            -4.489956,
+            54.167592
+          ],
+          [
+            -4.489801,
+            54.16764
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "127",
+        "addr:postcode": "IM2 5LQ",
+        "addr:street": "Dreeym Beary",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153532,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490721,
+            54.166483
+          ],
+          [
+            -4.49086,
+            54.166427
+          ],
+          [
+            -4.490703,
+            54.166295
+          ],
+          [
+            -4.490563,
+            54.166351
+          ],
+          [
+            -4.490721,
+            54.166483
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "36",
+        "addr:postcode": "IM2 5LJ",
+        "addr:street": "Reayrt Carnane",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153534,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491385,
+            54.167582
+          ],
+          [
+            -4.491423,
+            54.1677
+          ],
+          [
+            -4.491672,
+            54.167672
+          ],
+          [
+            -4.491639,
+            54.16757
+          ],
+          [
+            -4.491512,
+            54.167585
+          ],
+          [
+            -4.491506,
+            54.167568
+          ],
+          [
+            -4.491385,
+            54.167582
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "The Pines",
+        "addr:housenumber": "60",
+        "addr:postcode": "IM2 5LH",
+        "addr:street": "Cronk Ny Greiney",
+        "building": "yes",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153538,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.491697,
+            54.167563
+          ],
+          [
+            -4.491705,
+            54.167585
+          ],
+          [
+            -4.491669,
+            54.16759
+          ],
+          [
+            -4.491695,
+            54.167659
+          ],
+          [
+            -4.49196,
+            54.167626
+          ],
+          [
+            -4.491926,
+            54.167534
+          ],
+          [
+            -4.491697,
+            54.167563
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "59",
+        "addr:postcode": "IM2 5LH",
+        "addr:street": "Cronk Ny Greiney",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1083153543,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492384,
+            54.167072
+          ],
+          [
+            -4.49226,
+            54.166964
+          ],
+          [
+            -4.492166,
+            54.167001
+          ],
+          [
+            -4.492189,
+            54.16702
+          ],
+          [
+            -4.492132,
+            54.167043
+          ],
+          [
+            -4.492234,
+            54.167132
+          ],
+          [
+            -4.492384,
+            54.167072
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "22",
+        "addr:postcode": "IM2 5LN",
+        "addr:street": "Reayrt Carnane",
         "building": "yes",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
@@ -174367,6 +176234,201 @@
     },
     {
       "type": "Feature",
+      "id": 1450713035,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48599,
+            54.157886
+          ],
+          [
+            -4.48589,
+            54.15792
+          ],
+          [
+            -4.485966,
+            54.157998
+          ],
+          [
+            -4.486008,
+            54.157984
+          ],
+          [
+            -4.486032,
+            54.158008
+          ],
+          [
+            -4.486089,
+            54.157988
+          ],
+          [
+            -4.48599,
+            54.157886
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM2 3EG",
+        "addr:street": "Hilary Road",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1450713043,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484885,
+            54.15827
+          ],
+          [
+            -4.484797,
+            54.158299
+          ],
+          [
+            -4.484899,
+            54.158406
+          ],
+          [
+            -4.484937,
+            54.158394
+          ],
+          [
+            -4.484902,
+            54.158357
+          ],
+          [
+            -4.484952,
+            54.158341
+          ],
+          [
+            -4.484885,
+            54.15827
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Arderry",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 3EG",
+        "addr:street": "Hilary Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation;planning",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1450713048,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484444,
+            54.158415
+          ],
+          [
+            -4.484353,
+            54.158447
+          ],
+          [
+            -4.484426,
+            54.15852
+          ],
+          [
+            -4.48446,
+            54.158509
+          ],
+          [
+            -4.484484,
+            54.158532
+          ],
+          [
+            -4.484492,
+            54.158529
+          ],
+          [
+            -4.484508,
+            54.158545
+          ],
+          [
+            -4.484558,
+            54.158528
+          ],
+          [
+            -4.484444,
+            54.158415
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Creg Malin",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 3EG",
+        "addr:street": "Hilary Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1450713052,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484122,
+            54.158528
+          ],
+          [
+            -4.484041,
+            54.158557
+          ],
+          [
+            -4.484116,
+            54.15863
+          ],
+          [
+            -4.484214,
+            54.158659
+          ],
+          [
+            -4.484244,
+            54.158648
+          ],
+          [
+            -4.484221,
+            54.158625
+          ],
+          [
+            -4.484122,
+            54.158528
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1",
+        "addr:postcode": "IM2 3EG",
+        "addr:street": "Hilary Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1450770633,
       "geometry": {
         "type": "LineString",
@@ -186252,6 +188314,45 @@
     },
     {
       "type": "Feature",
+      "id": 1468044915,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.484385,
+            54.148798
+          ],
+          [
+            -4.484333,
+            54.148761
+          ],
+          [
+            -4.484224,
+            54.148813
+          ],
+          [
+            -4.484272,
+            54.148849
+          ],
+          [
+            -4.484385,
+            54.148798
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM1 1AH",
+        "addr:street": "Saint Georges Street",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Companies Registry"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1468050555,
       "geometry": {
         "type": "LineString",
@@ -187534,6 +189635,141 @@
         "building": "house",
         "house": "terraced",
         "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479637365,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492956,
+            54.166954
+          ],
+          [
+            -4.492946,
+            54.166856
+          ],
+          [
+            -4.492882,
+            54.166859
+          ],
+          [
+            -4.492879,
+            54.16683
+          ],
+          [
+            -4.492832,
+            54.166832
+          ],
+          [
+            -4.492842,
+            54.166927
+          ],
+          [
+            -4.492793,
+            54.166929
+          ],
+          [
+            -4.492797,
+            54.16696
+          ],
+          [
+            -4.492956,
+            54.166954
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 5PE",
+        "addr:street": "Tromode Close",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479637368,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.490647,
+            54.167279
+          ],
+          [
+            -4.49049,
+            54.167345
+          ],
+          [
+            -4.490335,
+            54.16722
+          ],
+          [
+            -4.490492,
+            54.167153
+          ],
+          [
+            -4.490647,
+            54.167279
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "124",
+        "addr:postcode": "IM2 5LF",
+        "addr:street": "Slieau Dhoo",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479678172,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.492987,
+            54.169012
+          ],
+          [
+            -4.493088,
+            54.169112
+          ],
+          [
+            -4.492853,
+            54.169193
+          ],
+          [
+            -4.492732,
+            54.169073
+          ],
+          [
+            -4.49288,
+            54.169022
+          ],
+          [
+            -4.492901,
+            54.169042
+          ],
+          [
+            -4.492987,
+            54.169012
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "99",
+        "addr:postcode": "IM2 5LR",
+        "addr:street": "Cronk-Liauyr",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }
   ]

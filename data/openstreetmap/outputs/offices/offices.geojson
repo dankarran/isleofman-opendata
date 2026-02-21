@@ -4831,8 +4831,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.694418,
-            54.222389
+            -4.694415,
+            54.222385
           ],
           [
             -4.694328,
@@ -4875,12 +4875,12 @@
             54.222509
           ],
           [
-            -4.694298,
-            54.222439
+            -4.694297,
+            54.222434
           ],
           [
-            -4.694418,
-            54.222389
+            -4.694415,
+            54.222385
           ]
         ]
       },
@@ -4888,19 +4888,20 @@
         "addr:city": "Peel",
         "addr:country": "IM",
         "addr:housename": "Old Post Office",
-        "addr:housenumber": "29",
+        "addr:housenumber": "27-29",
         "addr:postcode": "IM5 1HQ",
         "addr:street": "Douglas Street",
         "building": "yes",
         "name": "Ormco Accounts",
         "office": "accountant",
         "phone": "+44 1624 610547",
+        "source:addr:housenumber": "Isle of Man Government Land Registry Land Transactions",
         "was:amenity": "post_office",
         "website": "https://ormcoaccounts.com/",
         "wheelchair": "yes",
         "osm_id": 146972146,
-        "lon": -4.694266052350547,
-        "lat": 54.22241690748052,
+        "lon": -4.69426478879252,
+        "lat": 54.22241645108082,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/146972146"
       }
@@ -9549,24 +9550,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.694985,
-            54.222793
+            -4.69499,
+            54.222788
           ],
           [
-            -4.694895,
-            54.222801
+            -4.695001,
+            54.222827
           ],
           [
-            -4.694878,
-            54.222737
+            -4.694903,
+            54.222835
           ],
           [
-            -4.694969,
-            54.222729
+            -4.694875,
+            54.22273
           ],
           [
-            -4.694985,
-            54.222793
+            -4.694973,
+            54.222721
+          ],
+          [
+            -4.69499,
+            54.222788
           ]
         ]
       },
@@ -9579,8 +9584,8 @@
         "name": "Cains Gordon Bell",
         "office": "lawyer",
         "osm_id": 1194879904,
-        "lon": -4.6949316878318035,
-        "lat": 54.22276490163226,
+        "lon": -4.694938026127369,
+        "lat": 54.22277825209557,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1194879904"
       }

@@ -3559,6 +3559,50 @@
     },
     {
       "type": "Feature",
+      "id": 13577986608,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694917,
+          54.222649
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "2",
+        "addr:postcode": "IM5 1HA",
+        "addr:street": "Michael Street",
+        "charity": "yes",
+        "name": "Hospice",
+        "ref:charity": "317",
+        "shop": "charity",
+        "website": "https://www.hospiceshops.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13577986619,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.694857,
+          54.222583
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:housenumber": "17a",
+        "addr:postcode": "IM5 1BA",
+        "addr:street": "Douglas Street",
+        "clothes": "underwear",
+        "contact:facebook": "https://www.facebook.com/p/Bare-Necessities-Ltd-100057529237519/",
+        "name": "Bare Necessities",
+        "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 36993018,
       "geometry": {
         "type": "LineString",
@@ -13726,55 +13770,6 @@
         "building": "commercial",
         "name": "Mannin Collections",
         "shop": "antiques"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 146972088,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.694878,
-            54.22269
-          ],
-          [
-            -4.694993,
-            54.222682
-          ],
-          [
-            -4.695008,
-            54.222662
-          ],
-          [
-            -4.694862,
-            54.222551
-          ],
-          [
-            -4.694817,
-            54.222576
-          ],
-          [
-            -4.694845,
-            54.222626
-          ],
-          [
-            -4.694878,
-            54.22269
-          ]
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:street": "Michael Street",
-        "building": "yes",
-        "charity": "yes",
-        "name": "Hospice",
-        "ref:charity": "317",
-        "shop": "charity",
-        "website": "https://www.hospiceshops.com"
       }
     },
     {

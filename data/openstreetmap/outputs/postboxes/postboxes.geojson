@@ -1548,18 +1548,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.755362,
-          54.095566
+          -4.755261,
+          54.095536
         ]
       },
       "properties": {
         "amenity": "post_box",
         "name": "Bradda East",
+        "operator": "Isle of Man Post",
         "ref": "154",
         "royal_cypher": "EIIR",
         "osm_id": 283514743,
-        "lon": -4.755362,
-        "lat": 54.095566,
+        "lon": -4.755261,
+        "lat": 54.095536,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283514743"
       }
@@ -1815,8 +1816,8 @@
         "amenity": "post_box",
         "collection_times": "Mo-Fr 10:00",
         "name": "Park Road",
-        "operator": "Royal Mail",
-        "operator:wikidata": "Q638098",
+        "operator": "Isle of Man Post Office",
+        "operator:wikidata": "Q3432267",
         "post_box:mounting": "pier",
         "post_box:type": "lamp",
         "ref": "142",
@@ -2000,13 +2001,11 @@
       },
       "properties": {
         "amenity": "post_box",
-        "brand": "Royal Mail",
-        "brand:wikidata": "Q638098",
         "collection_times": "Mo-Fr 11:30; Sa 10:30;",
         "mapillary": "917177185570918",
         "name": "Cregneash",
-        "operator": "Royal Mail",
-        "operator:wikidata": "Q638098",
+        "operator": "Isle of Man Post Office",
+        "operator:wikidata": "Q3432267",
         "post_box:mounting": "stone_wall",
         "post_box:type": "wall",
         "ref": "148",
@@ -2452,13 +2451,13 @@
       },
       "properties": {
         "amenity": "post_box",
-        "brand": "Royal Mail",
-        "brand:wikidata": "Q638098",
         "collection_times": "Mo-Fr 11:30; Sa 10:30;",
         "mapillary": "295007155416632",
         "name": "The Howe",
-        "operator": "Royal Mail",
-        "operator:wikidata": "Q638098",
+        "operator": "Isle of Man Post Office",
+        "operator:en": "Isle of Man Post Office",
+        "operator:gv": "Oik Postagh Ellan Vannin",
+        "operator:wikidata": "Q3432267",
         "post_box:mounting": "stone_wall",
         "post_box:type": "wall",
         "ref": "147",
@@ -3492,8 +3491,9 @@
       },
       "properties": {
         "amenity": "post_box",
-        "operator": "Royal Mail",
-        "operator:wikidata": "Q638098",
+        "operator": "Isle of Man Post Office",
+        "operator:wikidata": "Q3432267",
+        "post_box:type": "wall",
         "royal_cypher": "EIIR",
         "source": "survey;mapillary",
         "osm_id": 10289813053,

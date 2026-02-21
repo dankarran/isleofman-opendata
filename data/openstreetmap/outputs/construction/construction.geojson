@@ -2926,7 +2926,10 @@
         "construction": "residential",
         "landuse": "construction",
         "name": "Netherby",
+        "operator": "Hartford Homes",
+        "postal_code": "IM9 1TN",
         "url": "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber=21/01567/B",
+        "website": "https://hartford.im/development/netherby/",
         "osm_id": 1312239572,
         "lon": -4.640331680747658,
         "lat": 54.08340414036453,
@@ -3544,6 +3547,129 @@
         "lat": 54.16588551823907,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1474529583"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475044503,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.517705,
+            54.152344
+          ],
+          [
+            -4.517984,
+            54.152523
+          ],
+          [
+            -4.518184,
+            54.152933
+          ],
+          [
+            -4.517512,
+            54.153131
+          ],
+          [
+            -4.51726,
+            54.152575
+          ],
+          [
+            -4.517705,
+            54.152344
+          ]
+        ]
+      },
+      "properties": {
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Farmhill Grange Phase 2",
+        "operator": "Hartford Homes",
+        "website": "https://hartford.im/development/farmhill-grange-douglas/",
+        "osm_id": 1475044503,
+        "lon": -4.5177100097374,
+        "lat": 54.15274993513477,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1475044503"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479637371,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489218,
+            54.16754
+          ],
+          [
+            -4.488889,
+            54.167646
+          ],
+          [
+            -4.488757,
+            54.167512
+          ],
+          [
+            -4.489082,
+            54.167402
+          ],
+          [
+            -4.489218,
+            54.16754
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "construction",
+        "osm_id": 1479637371,
+        "lon": -4.488987523055619,
+        "lat": 54.16752487624725,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1479637371"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479637372,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488889,
+            54.167646
+          ],
+          [
+            -4.489019,
+            54.167783
+          ],
+          [
+            -4.489499,
+            54.167628
+          ],
+          [
+            -4.48937,
+            54.167491
+          ],
+          [
+            -4.489218,
+            54.16754
+          ],
+          [
+            -4.488889,
+            54.167646
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "construction",
+        "osm_id": 1479637372,
+        "lon": -4.489194087555098,
+        "lat": 54.167636994468054,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1479637372"
       }
     }
   ]

@@ -2726,7 +2726,10 @@
         "construction": "residential",
         "landuse": "construction",
         "name": "Netherby",
-        "url": "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber=21/01567/B"
+        "operator": "Hartford Homes",
+        "postal_code": "IM9 1TN",
+        "url": "https://services.gov.im/planningapplication/services/planning/planningapplicationdetails.iom?ApplicationReferenceNumber=21/01567/B",
+        "website": "https://hartford.im/development/netherby/"
       }
     },
     {
@@ -3293,6 +3296,114 @@
       },
       "properties": {
         "construction": "residential",
+        "landuse": "construction"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1475044503,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.517705,
+            54.152344
+          ],
+          [
+            -4.517984,
+            54.152523
+          ],
+          [
+            -4.518184,
+            54.152933
+          ],
+          [
+            -4.517512,
+            54.153131
+          ],
+          [
+            -4.51726,
+            54.152575
+          ],
+          [
+            -4.517705,
+            54.152344
+          ]
+        ]
+      },
+      "properties": {
+        "construction": "residential",
+        "landuse": "construction",
+        "name": "Farmhill Grange Phase 2",
+        "operator": "Hartford Homes",
+        "website": "https://hartford.im/development/farmhill-grange-douglas/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479637371,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.489218,
+            54.16754
+          ],
+          [
+            -4.488889,
+            54.167646
+          ],
+          [
+            -4.488757,
+            54.167512
+          ],
+          [
+            -4.489082,
+            54.167402
+          ],
+          [
+            -4.489218,
+            54.16754
+          ]
+        ]
+      },
+      "properties": {
+        "landuse": "construction"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1479637372,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488889,
+            54.167646
+          ],
+          [
+            -4.489019,
+            54.167783
+          ],
+          [
+            -4.489499,
+            54.167628
+          ],
+          [
+            -4.48937,
+            54.167491
+          ],
+          [
+            -4.489218,
+            54.16754
+          ],
+          [
+            -4.488889,
+            54.167646
+          ]
+        ]
+      },
+      "properties": {
         "landuse": "construction"
       }
     }
