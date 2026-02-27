@@ -6349,6 +6349,7 @@
         "shop": "supermarket",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
         "website": "https://www.tesco.com/store-locator/port-erin/bridson-street",
+        "wheelchair": "yes",
         "osm_id": 60007307,
         "lon": -4.7568095926005185,
         "lat": 54.0869019474333,
@@ -24751,6 +24752,56 @@
     },
     {
       "type": "Feature",
+      "id": 419113948,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479548,
+            54.151567
+          ],
+          [
+            -4.479555,
+            54.151607
+          ],
+          [
+            -4.479158,
+            54.15163
+          ],
+          [
+            -4.479151,
+            54.151588
+          ],
+          [
+            -4.479548,
+            54.151567
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "55",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/p/Vault-42-61579772515284",
+        "name": "Vault 42",
+        "shop": "games",
+        "source": "Bing;photograph",
+        "website": "https://vault42.sumupstore.com",
+        "osm_id": 419113948,
+        "lon": -4.479352554937032,
+        "lat": 54.151598027270445,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/419113948"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -32900,12 +32951,12 @@
             54.178564
           ],
           [
-            -4.450247,
-            54.178519
+            -4.450249,
+            54.17852
           ],
           [
-            -4.450323,
-            54.178577
+            -4.450324,
+            54.178573
           ],
           [
             -4.450312,
@@ -32932,8 +32983,8 @@
         "shop": "convenience",
         "website": "https://store-locator.costcutter.co.uk/costcutter-f5e2e1f3f1ac",
         "osm_id": 1323167006,
-        "lon": -4.450240092593951,
-        "lat": 54.17857150004574,
+        "lon": -4.45024092348293,
+        "lat": 54.178571410406455,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1323167006"
       }

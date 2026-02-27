@@ -8171,8 +8171,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.682592,
-          54.206147
+          -4.682461,
+          54.206202
         ]
       },
       "properties": {
@@ -21903,6 +21903,52 @@
     },
     {
       "type": "Feature",
+      "id": 13532135680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.507729,
+          54.165228
+        ]
+      },
+      "properties": {
+        "name": "Braddan Hills",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13541548074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.525645,
+          54.164411
+        ]
+      },
+      "properties": {
+        "name": "Cronk",
+        "place": "locality",
+        "source": "NLS OS Maps"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13573360941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490882,
+          54.167993
+        ]
+      },
+      "properties": {
+        "name": "Tromode Park",
+        "place": "locality"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987471,
       "geometry": {
         "type": "LineString",
@@ -28801,11 +28847,23 @@
             54.167192
           ],
           [
-            -4.523452,
-            54.167248
+            -4.523521,
+            54.167253
           ],
           [
-            -4.524326,
+            -4.52367,
+            54.167241
+          ],
+          [
+            -4.524285,
+            54.167223
+          ],
+          [
+            -4.524471,
+            54.167206
+          ],
+          [
+            -4.524707,
             54.167206
           ],
           [
@@ -28851,6 +28909,10 @@
           [
             -4.528826,
             54.166584
+          ],
+          [
+            -4.528411,
+            54.166976
           ],
           [
             -4.528244,

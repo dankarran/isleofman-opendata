@@ -10591,8 +10591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.682592,
-          54.206147
+          -4.682461,
+          54.206202
         ]
       },
       "properties": {
@@ -10600,8 +10600,8 @@
         "place": "farm",
         "source": "Isle of Man Government 1:25000 map (2007)",
         "osm_id": 475393942,
-        "lon": -4.682592,
-        "lat": 54.206147,
+        "lon": -4.682461,
+        "lat": 54.206202,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/475393942"
       }
@@ -28378,6 +28378,67 @@
     },
     {
       "type": "Feature",
+      "id": 13532135680,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.507729,
+          54.165228
+        ]
+      },
+      "properties": {
+        "name": "Braddan Hills",
+        "place": "locality",
+        "osm_id": 13532135680,
+        "lon": -4.507729,
+        "lat": 54.165228,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13532135680"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13541548074,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.525645,
+          54.164411
+        ]
+      },
+      "properties": {
+        "name": "Cronk",
+        "place": "locality",
+        "source": "NLS OS Maps",
+        "osm_id": 13541548074,
+        "lon": -4.525645,
+        "lat": 54.164411,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13541548074"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13573360941,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.490882,
+          54.167993
+        ]
+      },
+      "properties": {
+        "name": "Tromode Park",
+        "place": "locality",
+        "osm_id": 13573360941,
+        "lon": -4.490882,
+        "lat": 54.167993,
+        "osm_type": "node",
+        "osm_url": "https://osm.org/node/13573360941"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 25987471,
       "geometry": {
         "type": "LineString",
@@ -35361,11 +35422,23 @@
             54.167192
           ],
           [
-            -4.523452,
-            54.167248
+            -4.523521,
+            54.167253
           ],
           [
-            -4.524326,
+            -4.52367,
+            54.167241
+          ],
+          [
+            -4.524285,
+            54.167223
+          ],
+          [
+            -4.524471,
+            54.167206
+          ],
+          [
+            -4.524707,
             54.167206
           ],
           [
@@ -35411,6 +35484,10 @@
           [
             -4.528826,
             54.166584
+          ],
+          [
+            -4.528411,
+            54.166976
           ],
           [
             -4.528244,
@@ -35684,8 +35761,8 @@
         "place": "village",
         "source": "Isle of Man Government aerial imagery (2001)",
         "osm_id": 79240227,
-        "lon": -4.524312966910402,
-        "lat": 54.16946737945703,
+        "lon": -4.52431337967281,
+        "lat": 54.16946746345805,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/79240227"
       }

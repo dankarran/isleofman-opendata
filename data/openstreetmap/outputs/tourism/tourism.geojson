@@ -9052,6 +9052,7 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "email": "reservations@thenest.im",
         "name": "The Falcons Nest Hotel",
         "phone": "+44 1624 834077",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -11015,68 +11016,6 @@
         "lat": 54.06413417388214,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/100540301"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 101393009,
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            -4.748574,
-            54.084869
-          ],
-          [
-            -4.748722,
-            54.084894
-          ],
-          [
-            -4.748768,
-            54.084805
-          ],
-          [
-            -4.748719,
-            54.084797
-          ],
-          [
-            -4.748729,
-            54.084779
-          ],
-          [
-            -4.748684,
-            54.084771
-          ],
-          [
-            -4.74871,
-            54.084722
-          ],
-          [
-            -4.748651,
-            54.084713
-          ],
-          [
-            -4.748574,
-            54.084869
-          ]
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housename": "West Lodge",
-        "addr:postcode": "IM9 6BD",
-        "addr:street": "Castletown Road",
-        "building": "house",
-        "guest_house": "bed_and_breakfast",
-        "name": "West Lodge",
-        "phone": "01624 832346",
-        "tourism": "guest_house",
-        "website": "https://westlodgeiom.com/",
-        "osm_id": 101393009,
-        "lon": -4.7486742150011345,
-        "lat": 54.084809757759515,
-        "osm_type": "way",
-        "osm_url": "https://osm.org/way/101393009"
       }
     },
     {

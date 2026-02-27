@@ -5338,7 +5338,8 @@
         "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
         "shop": "supermarket",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
-        "website": "https://www.tesco.com/store-locator/port-erin/bridson-street"
+        "website": "https://www.tesco.com/store-locator/port-erin/bridson-street",
+        "wheelchair": "yes"
       }
     },
     {
@@ -22051,6 +22052,51 @@
     },
     {
       "type": "Feature",
+      "id": 419113948,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479548,
+            54.151567
+          ],
+          [
+            -4.479555,
+            54.151607
+          ],
+          [
+            -4.479158,
+            54.15163
+          ],
+          [
+            -4.479151,
+            54.151588
+          ],
+          [
+            -4.479548,
+            54.151567
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "55",
+        "addr:postcode": "IM1 2EJ",
+        "addr:street": "Strand Street",
+        "building": "retail",
+        "building:colour": "white",
+        "building:levels": "3",
+        "building:material": "plaster",
+        "contact:facebook": "https://www.facebook.com/p/Vault-42-61579772515284",
+        "name": "Vault 42",
+        "shop": "games",
+        "source": "Bing;photograph",
+        "website": "https://vault42.sumupstore.com"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 419113949,
       "geometry": {
         "type": "LineString",
@@ -29410,12 +29456,12 @@
             54.178564
           ],
           [
-            -4.450247,
-            54.178519
+            -4.450249,
+            54.17852
           ],
           [
-            -4.450323,
-            54.178577
+            -4.450324,
+            54.178573
           ],
           [
             -4.450312,
