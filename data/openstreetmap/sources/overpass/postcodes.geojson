@@ -6319,26 +6319,6 @@
     },
     {
       "type": "Feature",
-      "id": 10769626558,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.444122,
-          54.175263
-        ]
-      },
-      "properties": {
-        "addr:city": "Onchan",
-        "addr:country": "IM",
-        "addr:housenumber": "54",
-        "addr:place": "Lakeside Gardens",
-        "addr:postcode": "IM3 2DU",
-        "addr:street": "Windermere Drive",
-        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 10769626561,
       "geometry": {
         "type": "Point",
@@ -18303,7 +18283,8 @@
         "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-18:00",
         "shop": "supermarket",
         "source": "Isle of Man Government aerial imagery (2001);local_knowledge",
-        "website": "https://www.tesco.com/store-locator/port-erin/bridson-street"
+        "website": "https://www.tesco.com/store-locator/port-erin/bridson-street",
+        "wheelchair": "yes"
       }
     },
     {
@@ -18567,6 +18548,7 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
+        "email": "reservations@thenest.im",
         "name": "The Falcons Nest Hotel",
         "phone": "+44 1624 834077",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -30125,8 +30107,28 @@
             54.181202
           ],
           [
-            -4.458729,
-            54.1807
+            -4.459063,
+            54.181113
+          ],
+          [
+            -4.458966,
+            54.18101
+          ],
+          [
+            -4.458813,
+            54.180827
+          ],
+          [
+            -4.458824,
+            54.180776
+          ],
+          [
+            -4.458792,
+            54.180734
+          ],
+          [
+            -4.458683,
+            54.180708
           ],
           [
             -4.457602,
@@ -30177,6 +30179,10 @@
             54.180248
           ],
           [
+            -4.461576,
+            54.180266
+          ],
+          [
             -4.461626,
             54.180267
           ],
@@ -30189,32 +30195,40 @@
             54.180631
           ],
           [
-            -4.462054,
-            54.180698
+            -4.462029,
+            54.180701
           ],
           [
-            -4.462023,
-            54.180626
+            -4.462006,
+            54.180644
           ],
           [
             -4.461867,
-            54.180646
+            54.180659
           ],
           [
-            -4.461734,
-            54.180663
+            -4.461743,
+            54.18068
           ],
           [
-            -4.461754,
-            54.180731
+            -4.461722,
+            54.180683
           ],
           [
-            -4.46051,
-            54.180907
+            -4.46175,
+            54.18075
           ],
           [
-            -4.459512,
-            54.18114
+            -4.460648,
+            54.180903
+          ],
+          [
+            -4.459506,
+            54.181191
+          ],
+          [
+            -4.459476,
+            54.181135
           ],
           [
             -4.459169,
@@ -107221,8 +107235,11 @@
         "building:colour": "white",
         "building:levels": "3",
         "building:material": "plaster",
-        "description": "Vacant",
-        "source": "Bing;photograph"
+        "contact:facebook": "https://www.facebook.com/p/Vault-42-61579772515284",
+        "name": "Vault 42",
+        "shop": "games",
+        "source": "Bing;photograph",
+        "website": "https://vault42.sumupstore.com"
       }
     },
     {
@@ -123902,6 +123919,51 @@
     },
     {
       "type": "Feature",
+      "id": 981865104,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.458783,
+            54.17976
+          ],
+          [
+            -4.458793,
+            54.179805
+          ],
+          [
+            -4.458816,
+            54.179803
+          ],
+          [
+            -4.458839,
+            54.179902
+          ],
+          [
+            -4.458684,
+            54.179914
+          ],
+          [
+            -4.458651,
+            54.17977
+          ],
+          [
+            -4.458783,
+            54.17976
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "31",
+        "addr:postcode": "IM3 3JQ",
+        "addr:street": "Laurel Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "interpolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865342,
       "geometry": {
         "type": "LineString",
@@ -126069,6 +126131,289 @@
     },
     {
       "type": "Feature",
+      "id": 981865810,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.463666,
+            54.178946
+          ],
+          [
+            -4.463501,
+            54.17895
+          ],
+          [
+            -4.463492,
+            54.178824
+          ],
+          [
+            -4.463593,
+            54.178821
+          ],
+          [
+            -4.463595,
+            54.178854
+          ],
+          [
+            -4.463659,
+            54.178852
+          ],
+          [
+            -4.463666,
+            54.178946
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "7",
+        "addr:postcode": "IM3 3JA",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865819,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464435,
+            54.178803
+          ],
+          [
+            -4.46457,
+            54.178799
+          ],
+          [
+            -4.464578,
+            54.17892
+          ],
+          [
+            -4.464443,
+            54.178924
+          ],
+          [
+            -4.464435,
+            54.178803
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "27",
+        "addr:postcode": "IM3 3HZ",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865820,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.465027,
+            54.178878
+          ],
+          [
+            -4.46498,
+            54.178949
+          ],
+          [
+            -4.464821,
+            54.178913
+          ],
+          [
+            -4.464867,
+            54.178842
+          ],
+          [
+            -4.465027,
+            54.178878
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 3HZ",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865821,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464636,
+            54.179085
+          ],
+          [
+            -4.464636,
+            54.17916
+          ],
+          [
+            -4.464435,
+            54.17916
+          ],
+          [
+            -4.464435,
+            54.179085
+          ],
+          [
+            -4.464636,
+            54.179085
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "29",
+        "addr:postcode": "IM3 3HZ",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865822,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.46512,
+            54.179063
+          ],
+          [
+            -4.465135,
+            54.179124
+          ],
+          [
+            -4.464869,
+            54.179146
+          ],
+          [
+            -4.464854,
+            54.179085
+          ],
+          [
+            -4.46512,
+            54.179063
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "23",
+        "addr:postcode": "IM3 3HZ",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865823,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.465356,
+            54.179007
+          ],
+          [
+            -4.465503,
+            54.179007
+          ],
+          [
+            -4.465504,
+            54.179128
+          ],
+          [
+            -4.465358,
+            54.179128
+          ],
+          [
+            -4.465356,
+            54.179007
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "21",
+        "addr:postcode": "IM3 3HZ",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865824,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.465606,
+            54.178879
+          ],
+          [
+            -4.465659,
+            54.178888
+          ],
+          [
+            -4.465674,
+            54.178858
+          ],
+          [
+            -4.465784,
+            54.178877
+          ],
+          [
+            -4.465747,
+            54.178951
+          ],
+          [
+            -4.465719,
+            54.178947
+          ],
+          [
+            -4.465685,
+            54.179017
+          ],
+          [
+            -4.46555,
+            54.178994
+          ],
+          [
+            -4.465606,
+            54.178879
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "19",
+        "addr:postcode": "IM3 3HZ",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865897,
       "geometry": {
         "type": "LineString",
@@ -126254,6 +126599,156 @@
     },
     {
       "type": "Feature",
+      "id": 981865951,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468188,
+            54.180163
+          ],
+          [
+            -4.468289,
+            54.180084
+          ],
+          [
+            -4.468363,
+            54.180116
+          ],
+          [
+            -4.468341,
+            54.180133
+          ],
+          [
+            -4.468466,
+            54.180188
+          ],
+          [
+            -4.468387,
+            54.18025
+          ],
+          [
+            -4.468188,
+            54.180163
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "9",
+        "addr:postcode": "IM3 3BH",
+        "addr:street": "Highfield Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865956,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467581,
+            54.179382
+          ],
+          [
+            -4.46771,
+            54.179393
+          ],
+          [
+            -4.467668,
+            54.179554
+          ],
+          [
+            -4.46754,
+            54.179542
+          ],
+          [
+            -4.467581,
+            54.179382
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:postcode": "IM3 3BH",
+        "addr:street": "Highfield Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865958,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468127,
+            54.179409
+          ],
+          [
+            -4.467986,
+            54.179376
+          ],
+          [
+            -4.468072,
+            54.179252
+          ],
+          [
+            -4.468021,
+            54.17924
+          ],
+          [
+            -4.468053,
+            54.179193
+          ],
+          [
+            -4.468116,
+            54.179208
+          ],
+          [
+            -4.46814,
+            54.179173
+          ],
+          [
+            -4.468225,
+            54.179193
+          ],
+          [
+            -4.468199,
+            54.179231
+          ],
+          [
+            -4.468307,
+            54.179256
+          ],
+          [
+            -4.468272,
+            54.179307
+          ],
+          [
+            -4.468208,
+            54.179291
+          ],
+          [
+            -4.468127,
+            54.179409
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM3 3BN",
+        "addr:street": "Sunnybank Avenue",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865979,
       "geometry": {
         "type": "LineString",
@@ -126405,6 +126900,260 @@
         "addr:postcode": "IM3 3BR",
         "addr:street": "Highfield Close",
         "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981866008,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468166,
+            54.183162
+          ],
+          [
+            -4.46804,
+            54.18322
+          ],
+          [
+            -4.467918,
+            54.183128
+          ],
+          [
+            -4.468044,
+            54.183071
+          ],
+          [
+            -4.468166,
+            54.183162
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "64",
+        "addr:postcode": "IM3 3DB",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "interpolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981866012,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469107,
+            54.183562
+          ],
+          [
+            -4.46889,
+            54.183513
+          ],
+          [
+            -4.468931,
+            54.18345
+          ],
+          [
+            -4.469149,
+            54.183499
+          ],
+          [
+            -4.469107,
+            54.183562
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "72",
+        "addr:postcode": "IM3 3DA",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981866014,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469669,
+            54.18359
+          ],
+          [
+            -4.469689,
+            54.183669
+          ],
+          [
+            -4.469453,
+            54.18369
+          ],
+          [
+            -4.469432,
+            54.183611
+          ],
+          [
+            -4.469669,
+            54.18359
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "76",
+        "addr:postcode": "IM3 3DA",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981866016,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.469874,
+            54.183309
+          ],
+          [
+            -4.469962,
+            54.183375
+          ],
+          [
+            -4.470001,
+            54.183357
+          ],
+          [
+            -4.470093,
+            54.183425
+          ],
+          [
+            -4.469904,
+            54.183511
+          ],
+          [
+            -4.469787,
+            54.183424
+          ],
+          [
+            -4.469818,
+            54.18341
+          ],
+          [
+            -4.469755,
+            54.183363
+          ],
+          [
+            -4.469874,
+            54.183309
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "80",
+        "addr:postcode": "IM3 3DA",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "interpolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981866018,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470329,
+            54.18306
+          ],
+          [
+            -4.470461,
+            54.183165
+          ],
+          [
+            -4.470366,
+            54.183206
+          ],
+          [
+            -4.470338,
+            54.183184
+          ],
+          [
+            -4.470236,
+            54.183228
+          ],
+          [
+            -4.470161,
+            54.183169
+          ],
+          [
+            -4.470261,
+            54.183126
+          ],
+          [
+            -4.470231,
+            54.183102
+          ],
+          [
+            -4.470329,
+            54.18306
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "84",
+        "addr:postcode": "IM3 3DA",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981866019,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.470664,
+            54.183065
+          ],
+          [
+            -4.470565,
+            54.18311
+          ],
+          [
+            -4.470444,
+            54.183019
+          ],
+          [
+            -4.470544,
+            54.182974
+          ],
+          [
+            -4.470664,
+            54.183065
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "86",
+        "addr:postcode": "IM3 3DA",
+        "addr:street": "Birch Hill Crescent",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -141366,6 +142115,113 @@
     },
     {
       "type": "Feature",
+      "id": 1151349399,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.459089,
+            54.184734
+          ],
+          [
+            -4.459174,
+            54.184727
+          ],
+          [
+            -4.459193,
+            54.18471
+          ],
+          [
+            -4.459081,
+            54.184633
+          ],
+          [
+            -4.459085,
+            54.184624
+          ],
+          [
+            -4.459078,
+            54.184615
+          ],
+          [
+            -4.459063,
+            54.184607
+          ],
+          [
+            -4.458927,
+            54.184619
+          ],
+          [
+            -4.458927,
+            54.184625
+          ],
+          [
+            -4.4589,
+            54.184627
+          ],
+          [
+            -4.458888,
+            54.184624
+          ],
+          [
+            -4.458872,
+            54.184626
+          ],
+          [
+            -4.458864,
+            54.184634
+          ],
+          [
+            -4.458862,
+            54.184646
+          ],
+          [
+            -4.458904,
+            54.184739
+          ],
+          [
+            -4.458931,
+            54.184737
+          ],
+          [
+            -4.458939,
+            54.184767
+          ],
+          [
+            -4.459011,
+            54.18476
+          ],
+          [
+            -4.459003,
+            54.184729
+          ],
+          [
+            -4.459083,
+            54.18472
+          ],
+          [
+            -4.459089,
+            54.184734
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Onchan",
+        "addr:country": "IM",
+        "addr:housename": "Woodland Towers",
+        "addr:postcode": "IM4 5BB",
+        "addr:street": "Ashley Road",
+        "alt_name": "Woodlands Towers",
+        "building": "house",
+        "listed_status": "Registered",
+        "ref:registered_building": "133",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions",
+        "url:registered_building": "https://www.gov.im/media/632771/0500133regbldwoodlandtowers.pdf",
+        "wikidata": "Q118188789"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1151438866,
       "geometry": {
         "type": "LineString",
@@ -155803,6 +156659,130 @@
     },
     {
       "type": "Feature",
+      "id": 1250596930,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.443556,
+            54.173909
+          ],
+          [
+            -4.443291,
+            54.173904
+          ],
+          [
+            -4.443287,
+            54.173982
+          ],
+          [
+            -4.443551,
+            54.173987
+          ],
+          [
+            -4.443556,
+            54.173909
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 2JT",
+        "addr:street": "Wentworth Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601334,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.443418,
+            54.174545
+          ],
+          [
+            -4.443689,
+            54.174542
+          ],
+          [
+            -4.443687,
+            54.174458
+          ],
+          [
+            -4.443416,
+            54.17446
+          ],
+          [
+            -4.443418,
+            54.174545
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM3 2JX",
+        "addr:street": "Turnberry Avenue",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850006,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444608,
+            54.172935
+          ],
+          [
+            -4.444603,
+            54.173056
+          ],
+          [
+            -4.444791,
+            54.173058
+          ],
+          [
+            -4.444791,
+            54.173049
+          ],
+          [
+            -4.444949,
+            54.173051
+          ],
+          [
+            -4.444953,
+            54.172939
+          ],
+          [
+            -4.444608,
+            54.172935
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Amathus",
+        "addr:housenumber": "54",
+        "addr:postcode": "IM3 2ER",
+        "addr:street": "Banks Howe",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250850042,
       "geometry": {
         "type": "LineString",
@@ -156225,6 +157205,44 @@
     },
     {
       "type": "Feature",
+      "id": 1250894899,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445206,
+            54.174634
+          ],
+          [
+            -4.445429,
+            54.174637
+          ],
+          [
+            -4.445433,
+            54.174529
+          ],
+          [
+            -4.44521,
+            54.174526
+          ],
+          [
+            -4.445206,
+            54.174634
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "41",
+        "addr:postcode": "IM3 2EF",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250894929,
       "geometry": {
         "type": "LineString",
@@ -156473,6 +157491,43 @@
         "name": "Onchan Methodist Church",
         "religion": "christian",
         "website": "https://www.methodist.org.im/chapels-communities/onchan.html"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250925126,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445431,
+            54.175633
+          ],
+          [
+            -4.445425,
+            54.175535
+          ],
+          [
+            -4.445274,
+            54.175538
+          ],
+          [
+            -4.44528,
+            54.175636
+          ],
+          [
+            -4.445431,
+            54.175633
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "12",
+        "addr:postcode": "IM3 2DY",
+        "addr:street": "Buttermere Drive",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -157690,6 +158745,237 @@
     },
     {
       "type": "Feature",
+      "id": 1251115489,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449689,
+            54.170857
+          ],
+          [
+            -4.44956,
+            54.170926
+          ],
+          [
+            -4.449643,
+            54.170979
+          ],
+          [
+            -4.449772,
+            54.17091
+          ],
+          [
+            -4.449689,
+            54.170857
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "22",
+        "addr:postcode": "IM3 1EW",
+        "addr:street": "Greeba Drive",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251115490,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450006,
+            54.171048
+          ],
+          [
+            -4.450026,
+            54.171038
+          ],
+          [
+            -4.450043,
+            54.17105
+          ],
+          [
+            -4.450108,
+            54.171018
+          ],
+          [
+            -4.45009,
+            54.171005
+          ],
+          [
+            -4.450097,
+            54.171002
+          ],
+          [
+            -4.449996,
+            54.170932
+          ],
+          [
+            -4.449904,
+            54.170977
+          ],
+          [
+            -4.450006,
+            54.171048
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 1EW",
+        "addr:street": "Greeba Drive",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1251156237,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450847,
+            54.170125
+          ],
+          [
+            -4.450945,
+            54.170181
+          ],
+          [
+            -4.451087,
+            54.170095
+          ],
+          [
+            -4.450986,
+            54.170037
+          ],
+          [
+            -4.450952,
+            54.170058
+          ],
+          [
+            -4.450919,
+            54.17004
+          ],
+          [
+            -4.450879,
+            54.170064
+          ],
+          [
+            -4.450914,
+            54.170084
+          ],
+          [
+            -4.450847,
+            54.170125
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM3 1ER",
+        "addr:street": "Greeba Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1252637925,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451261,
+            54.170309
+          ],
+          [
+            -4.451305,
+            54.17028
+          ],
+          [
+            -4.451257,
+            54.170255
+          ],
+          [
+            -4.451127,
+            54.170342
+          ],
+          [
+            -4.451231,
+            54.170397
+          ],
+          [
+            -4.451319,
+            54.170338
+          ],
+          [
+            -4.451261,
+            54.170309
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Kantara",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 1ER",
+        "addr:street": "Greeba Drive",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1252637927,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451987,
+            54.17074
+          ],
+          [
+            -4.45189,
+            54.170802
+          ],
+          [
+            -4.451974,
+            54.170848
+          ],
+          [
+            -4.452071,
+            54.170786
+          ],
+          [
+            -4.451987,
+            54.17074
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "4",
+        "addr:postcode": "IM3 1BR",
+        "addr:street": "Howstrake Drive",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1252637946,
       "geometry": {
         "type": "LineString",
@@ -158670,6 +159956,59 @@
         "name": "Andreas Meat Co",
         "shop": "butcher",
         "website": "https://andreasmeats.com/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1271069286,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464414,
+            54.182677
+          ],
+          [
+            -4.464481,
+            54.182634
+          ],
+          [
+            -4.464525,
+            54.182657
+          ],
+          [
+            -4.464622,
+            54.182595
+          ],
+          [
+            -4.464726,
+            54.18265
+          ],
+          [
+            -4.46459,
+            54.182738
+          ],
+          [
+            -4.464519,
+            54.182701
+          ],
+          [
+            -4.464492,
+            54.182718
+          ],
+          [
+            -4.464414,
+            54.182677
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "54",
+        "addr:postcode": "IM3 3JT",
+        "addr:street": "Maple Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -163078,6 +164417,247 @@
         "building": "semidetached_house",
         "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300304610,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468232,
+            54.182385
+          ],
+          [
+            -4.468256,
+            54.182403
+          ],
+          [
+            -4.468165,
+            54.182444
+          ],
+          [
+            -4.468083,
+            54.182381
+          ],
+          [
+            -4.468206,
+            54.182326
+          ],
+          [
+            -4.468265,
+            54.18237
+          ],
+          [
+            -4.468232,
+            54.182385
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "32",
+        "addr:postcode": "IM3 3DF",
+        "addr:street": "Cronk Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300304681,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.464139,
+            54.179474
+          ],
+          [
+            -4.463931,
+            54.179475
+          ],
+          [
+            -4.463932,
+            54.179499
+          ],
+          [
+            -4.463841,
+            54.179499
+          ],
+          [
+            -4.46384,
+            54.179439
+          ],
+          [
+            -4.463919,
+            54.179439
+          ],
+          [
+            -4.463918,
+            54.179392
+          ],
+          [
+            -4.464138,
+            54.179391
+          ],
+          [
+            -4.464139,
+            54.179474
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "4",
+        "addr:postcode": "IM3 3HY",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300304682,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.463493,
+            54.179496
+          ],
+          [
+            -4.463491,
+            54.179408
+          ],
+          [
+            -4.463777,
+            54.179406
+          ],
+          [
+            -4.463778,
+            54.179468
+          ],
+          [
+            -4.463721,
+            54.179468
+          ],
+          [
+            -4.463722,
+            54.179494
+          ],
+          [
+            -4.463493,
+            54.179496
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM3 3HY",
+        "addr:street": "Hillcrest Grove",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300304685,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.463118,
+            54.179934
+          ],
+          [
+            -4.462849,
+            54.179932
+          ],
+          [
+            -4.462851,
+            54.17985
+          ],
+          [
+            -4.46312,
+            54.179852
+          ],
+          [
+            -4.463118,
+            54.179934
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "2",
+        "addr:postcode": "IM3 3JD",
+        "addr:street": "Laurel Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1300307570,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.46141,
+            54.182621
+          ],
+          [
+            -4.46155,
+            54.182603
+          ],
+          [
+            -4.461578,
+            54.182681
+          ],
+          [
+            -4.461626,
+            54.182675
+          ],
+          [
+            -4.461641,
+            54.182716
+          ],
+          [
+            -4.461503,
+            54.182733
+          ],
+          [
+            -4.461494,
+            54.182707
+          ],
+          [
+            -4.461463,
+            54.182711
+          ],
+          [
+            -4.461438,
+            54.182644
+          ],
+          [
+            -4.46142,
+            54.182646
+          ],
+          [
+            -4.46141,
+            54.182621
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 3HJ",
+        "addr:street": "Maple Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -169365,12 +170945,12 @@
             54.178564
           ],
           [
-            -4.450247,
-            54.178519
+            -4.450249,
+            54.17852
           ],
           [
-            -4.450323,
-            54.178577
+            -4.450324,
+            54.178573
           ],
           [
             -4.450312,
@@ -189768,6 +191348,243 @@
         "addr:postcode": "IM2 5LR",
         "addr:street": "Cronk-Liauyr",
         "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1484946489,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467756,
+            54.181686
+          ],
+          [
+            -4.467614,
+            54.181708
+          ],
+          [
+            -4.467649,
+            54.181786
+          ],
+          [
+            -4.467817,
+            54.181761
+          ],
+          [
+            -4.467796,
+            54.181713
+          ],
+          [
+            -4.46777,
+            54.181717
+          ],
+          [
+            -4.467756,
+            54.181686
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "16",
+        "addr:postcode": "IM3 3DF",
+        "addr:street": "Cronk Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1484946491,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467905,
+            54.182253
+          ],
+          [
+            -4.467928,
+            54.182244
+          ],
+          [
+            -4.468047,
+            54.182201
+          ],
+          [
+            -4.467998,
+            54.182156
+          ],
+          [
+            -4.467987,
+            54.18216
+          ],
+          [
+            -4.467957,
+            54.182132
+          ],
+          [
+            -4.467835,
+            54.182176
+          ],
+          [
+            -4.46787,
+            54.18221
+          ],
+          [
+            -4.467893,
+            54.182202
+          ],
+          [
+            -4.46791,
+            54.182218
+          ],
+          [
+            -4.467879,
+            54.182229
+          ],
+          [
+            -4.467905,
+            54.182253
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "26",
+        "addr:postcode": "IM3 3DF",
+        "addr:street": "Cronk Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "interpolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1484946492,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.467928,
+            54.182244
+          ],
+          [
+            -4.467996,
+            54.182308
+          ],
+          [
+            -4.468073,
+            54.18228
+          ],
+          [
+            -4.46805,
+            54.182258
+          ],
+          [
+            -4.468091,
+            54.182243
+          ],
+          [
+            -4.468047,
+            54.182201
+          ],
+          [
+            -4.467928,
+            54.182244
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 3DF",
+        "addr:street": "Cronk Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485965383,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.468206,
+            54.182326
+          ],
+          [
+            -4.468163,
+            54.182294
+          ],
+          [
+            -4.468142,
+            54.182304
+          ],
+          [
+            -4.468116,
+            54.182284
+          ],
+          [
+            -4.468016,
+            54.182329
+          ],
+          [
+            -4.468083,
+            54.182381
+          ],
+          [
+            -4.468206,
+            54.182326
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "30",
+        "addr:postcode": "IM3 3DF",
+        "addr:street": "Cronk Avenue",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1486195273,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44528,
+            54.175636
+          ],
+          [
+            -4.445128,
+            54.175639
+          ],
+          [
+            -4.445123,
+            54.175542
+          ],
+          [
+            -4.445274,
+            54.175538
+          ],
+          [
+            -4.44528,
+            54.175636
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 2DY",
+        "addr:street": "Buttermere Drive",
+        "building": "semidetached_house",
         "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
