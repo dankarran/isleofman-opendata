@@ -4348,6 +4348,49 @@
     },
     {
       "type": "Feature",
+      "id": 146972153,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.694973,
+            54.222721
+          ],
+          [
+            -4.695059,
+            54.222714
+          ],
+          [
+            -4.695123,
+            54.222747
+          ],
+          [
+            -4.695076,
+            54.22278
+          ],
+          [
+            -4.69499,
+            54.222788
+          ],
+          [
+            -4.694973,
+            54.222721
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Peel",
+        "addr:country": "IM",
+        "addr:housenumber": "1",
+        "addr:street": "Michael Street",
+        "building": "yes",
+        "name": "Western Home Care Ltd",
+        "office": "yes",
+        "website": "http://westernhomecare.im/"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 147191867,
       "geometry": {
         "type": "LineString",
@@ -4956,8 +4999,16 @@
             54.177303
           ],
           [
+            -4.467552,
+            54.177289
+          ],
+          [
             -4.467516,
             54.177286
+          ],
+          [
+            -4.467499,
+            54.177413
           ],
           [
             -4.467495,
@@ -6931,7 +6982,7 @@
         "addr:postcode": "IM1 1AE",
         "addr:street": "Circular Road",
         "building": "office",
-        "name": "Microgaming",
+        "name": "Games Global Ltd",
         "office": "company"
       }
     },
@@ -8561,6 +8612,7 @@
         "addr:housenumber": "9",
         "addr:postcode": "IM5 1HE",
         "addr:street": "Atholl Place",
+        "building": "yes",
         "name": "Black Grace Cowley",
         "office": "estate_agent",
         "postal_code": "IM5 1HE",

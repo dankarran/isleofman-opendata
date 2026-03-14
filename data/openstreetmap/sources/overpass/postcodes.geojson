@@ -1251,26 +1251,6 @@
     },
     {
       "type": "Feature",
-      "id": 498494359,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.691983,
-          54.222916
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HE",
-        "addr:street": "Bridge Street",
-        "contact:phone": "+44 1624 848018",
-        "name": "Platinum Beauty Shop",
-        "shop": "beauty"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 498494360,
       "geometry": {
         "type": "Point",
@@ -10239,29 +10219,6 @@
     },
     {
       "type": "Feature",
-      "id": 13577986608,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.694917,
-          54.222649
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HA",
-        "addr:street": "Michael Street",
-        "charity": "yes",
-        "name": "Hospice",
-        "ref:charity": "317",
-        "shop": "charity",
-        "website": "https://www.hospiceshops.com"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 13577986619,
       "geometry": {
         "type": "Point",
@@ -10279,6 +10236,136 @@
         "contact:facebook": "https://www.facebook.com/p/Bare-Necessities-Ltd-100057529237519/",
         "name": "Bare Necessities",
         "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13631092266,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.448359,
+          54.177346
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 2DG",
+        "addr:street": "Derwent Drive",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13631092268,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.448479,
+          54.177284
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "14",
+        "addr:postcode": "IM3 2DG",
+        "addr:street": "Derwent Drive",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13631092270,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.449482,
+          54.176754
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "30",
+        "addr:postcode": "IM3 2DE",
+        "addr:street": "Derwent Drive",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13631092276,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.448339,
+          54.176991
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "17",
+        "addr:postcode": "IM3 2DF",
+        "addr:street": "Derwent Drive",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13631092277,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.44845,
+          54.176837
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "23",
+        "addr:postcode": "IM3 2DF",
+        "addr:street": "Derwent Drive",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13639462690,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.48721,
+          54.151519
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "70",
+        "addr:postcode": "IM1 3DR",
+        "addr:street": "Allan Street",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13639462691,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.486992,
+          54.151672
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM1 3DN",
+        "addr:street": "Allan Street",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -10304,28 +10391,32 @@
             54.175889
           ],
           [
-            -4.434988,
-            54.1762
+            -4.434976,
+            54.176143
           ],
           [
             -4.433855,
             54.176351
           ],
           [
+            -4.43343,
+            54.176449
+          ],
+          [
             -4.433082,
             54.176577
           ],
           [
-            -4.43267,
-            54.176778
+            -4.432625,
+            54.176745
           ],
           [
             -4.431445,
             54.17702
           ],
           [
-            -4.430378,
-            54.177235
+            -4.430339,
+            54.177201
           ],
           [
             -4.429761,
@@ -24570,6 +24661,119 @@
         "old_name": "James Caine",
         "source": "Isle of Man Government aerial imagery (2001)",
         "was:shop": "carpet"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61561695,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488135,
+            54.152999
+          ],
+          [
+            -4.488249,
+            54.153078
+          ],
+          [
+            -4.488525,
+            54.15294
+          ],
+          [
+            -4.48845,
+            54.152889
+          ],
+          [
+            -4.4884,
+            54.152914
+          ],
+          [
+            -4.488335,
+            54.15287
+          ],
+          [
+            -4.488503,
+            54.152786
+          ],
+          [
+            -4.4884,
+            54.152715
+          ],
+          [
+            -4.488218,
+            54.152807
+          ],
+          [
+            -4.488085,
+            54.152716
+          ],
+          [
+            -4.488234,
+            54.152642
+          ],
+          [
+            -4.488135,
+            54.152574
+          ],
+          [
+            -4.487784,
+            54.152749
+          ],
+          [
+            -4.487893,
+            54.152824
+          ],
+          [
+            -4.487997,
+            54.152772
+          ],
+          [
+            -4.488109,
+            54.152849
+          ],
+          [
+            -4.488037,
+            54.152884
+          ],
+          [
+            -4.488154,
+            54.152965
+          ],
+          [
+            -4.488219,
+            54.152932
+          ],
+          [
+            -4.488269,
+            54.152966
+          ],
+          [
+            -4.488191,
+            54.153005
+          ],
+          [
+            -4.488163,
+            54.152985
+          ],
+          [
+            -4.488135,
+            54.152999
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Crookall House",
+        "addr:postcode": "IM1 3QA",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "building:colour": "white",
+        "building:levels": "2",
+        "old_name": "Jane Crookall Maternity Home",
+        "roof:shape": "flat",
+        "source": "Isle of Man Government aerial imagery (2001)",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -57526,16 +57730,16 @@
             54.321073
           ],
           [
-            -4.380979,
-            54.320958
+            -4.380961,
+            54.320973
           ],
           [
-            -4.381066,
-            54.320984
+            -4.381051,
+            54.321
           ],
           [
-            -4.381126,
-            54.321002
+            -4.381113,
+            54.321019
           ],
           [
             -4.381069,
@@ -57907,12 +58111,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.381066,
-            54.320984
+            -4.381051,
+            54.321
           ],
           [
-            -4.381099,
-            54.320948
+            -4.381098,
+            54.320951
           ],
           [
             -4.381138,
@@ -57927,32 +58131,29 @@
             54.320888
           ],
           [
-            -4.380979,
-            54.320958
+            -4.380961,
+            54.320973
           ],
           [
-            -4.381066,
-            54.320984
+            -4.381051,
+            54.321
           ]
         ]
       },
       "properties": {
         "addr:city": "Ramsey",
         "addr:country": "IM",
-        "addr:housenumber": "6",
+        "addr:housenumber": "8",
         "addr:postcode": "IM8 1JH",
         "addr:street": "Peel Street",
-        "amenity": "restaurant",
+        "amenity": "fast_food",
+        "brand": "Domino's",
+        "brand:wikidata": "Q839466",
         "building": "yes",
-        "currency:XBT": "yes",
-        "name": "Good Stuff",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+441624610225",
-        "source": "survey",
-        "survey:date": "2022-09-23",
-        "website": "http://goodstuffiom.com/"
+        "cuisine": "pizza",
+        "name": "Domino's",
+        "takeaway": "yes",
+        "website": "https://www.dominos.co.uk/pizza-near-me/isle-of-man/8-peel-street"
       }
     },
     {
@@ -70204,12 +70405,14 @@
         "addr:country": "IM",
         "addr:postcode": "IM5 1AH",
         "addr:street": "Shore Road",
-        "amenity": "restaurant",
+        "amenity": "cafe",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/harbourlightspeel/",
-        "name": "Harbour Lights",
+        "cuisine": "coffee_shop",
+        "name": "Costa",
+        "takeaway": "yes",
+        "toilets": "yes",
         "toilets:wheelchair": "no",
-        "wheelchair": "no"
+        "wheelchair": "yes"
       }
     },
     {
@@ -93437,8 +93640,16 @@
             54.177303
           ],
           [
+            -4.467552,
+            54.177289
+          ],
+          [
             -4.467516,
             54.177286
+          ],
+          [
+            -4.467499,
+            54.177413
           ],
           [
             -4.467495,
@@ -98266,6 +98477,48 @@
         "social_facility:for": "senior",
         "source": "bing",
         "website": "https://www.pearlhealthcare.com/sunnydale"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 362438569,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479144,
+            54.158712
+          ],
+          [
+            -4.479196,
+            54.158757
+          ],
+          [
+            -4.479313,
+            54.158711
+          ],
+          [
+            -4.479261,
+            54.158666
+          ],
+          [
+            -4.479144,
+            54.158712
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -119911,7 +120164,7 @@
         "addr:postcode": "IM1 1AE",
         "addr:street": "Circular Road",
         "building": "office",
-        "name": "Microgaming",
+        "name": "Games Global Ltd",
         "office": "company"
       }
     },
@@ -126048,6 +126301,103 @@
     },
     {
       "type": "Feature",
+      "id": 981865696,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.458462,
+            54.177046
+          ],
+          [
+            -4.458577,
+            54.176971
+          ],
+          [
+            -4.458739,
+            54.177056
+          ],
+          [
+            -4.458623,
+            54.177131
+          ],
+          [
+            -4.458462,
+            54.177046
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "37",
+        "addr:postcode": "IM3 4ES",
+        "addr:street": "Birch Hill Avenue",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 981865715,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.458349,
+            54.177485
+          ],
+          [
+            -4.458394,
+            54.177509
+          ],
+          [
+            -4.458457,
+            54.177469
+          ],
+          [
+            -4.45854,
+            54.177513
+          ],
+          [
+            -4.458482,
+            54.17755
+          ],
+          [
+            -4.45852,
+            54.17757
+          ],
+          [
+            -4.458443,
+            54.17762
+          ],
+          [
+            -4.458385,
+            54.177589
+          ],
+          [
+            -4.458353,
+            54.17761
+          ],
+          [
+            -4.458245,
+            54.177552
+          ],
+          [
+            -4.458349,
+            54.177485
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 4EP",
+        "addr:street": "Birch Hill Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 981865804,
       "geometry": {
         "type": "LineString",
@@ -131799,6 +132149,148 @@
     },
     {
       "type": "Feature",
+      "id": 1106302583,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446262,
+            54.177507
+          ],
+          [
+            -4.446266,
+            54.177556
+          ],
+          [
+            -4.446392,
+            54.177553
+          ],
+          [
+            -4.446386,
+            54.177474
+          ],
+          [
+            -4.446309,
+            54.177476
+          ],
+          [
+            -4.446311,
+            54.177506
+          ],
+          [
+            -4.446262,
+            54.177507
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 2DL",
+        "addr:street": "Ennerdale Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1106302584,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446353,
+            54.177592
+          ],
+          [
+            -4.44636,
+            54.177674
+          ],
+          [
+            -4.446205,
+            54.177678
+          ],
+          [
+            -4.4462,
+            54.177624
+          ],
+          [
+            -4.446238,
+            54.177623
+          ],
+          [
+            -4.446237,
+            54.177613
+          ],
+          [
+            -4.446184,
+            54.177614
+          ],
+          [
+            -4.446181,
+            54.177583
+          ],
+          [
+            -4.446272,
+            54.17758
+          ],
+          [
+            -4.446273,
+            54.177594
+          ],
+          [
+            -4.446353,
+            54.177592
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:postcode": "IM3 2DL",
+        "addr:street": "Ennerdale Avenue",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1106302587,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447604,
+            54.177253
+          ],
+          [
+            -4.447565,
+            54.177315
+          ],
+          [
+            -4.447705,
+            54.177345
+          ],
+          [
+            -4.447744,
+            54.177283
+          ],
+          [
+            -4.447604,
+            54.177253
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:postcode": "IM3 2DF",
+        "addr:street": "Derwent Drive",
+        "building": "yes",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1106302603,
       "geometry": {
         "type": "LineString",
@@ -131828,9 +132320,11 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housenumber": "11",
         "addr:postcode": "IM3 2DD",
         "addr:street": "Langdale Close",
         "building": "yes",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -131902,9 +132396,11 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housenumber": "7",
         "addr:postcode": "IM3 2DD",
         "addr:street": "Langdale Close",
         "building": "yes",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -132017,9 +132513,48 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housenumber": "1",
         "addr:postcode": "IM3 2DD",
         "addr:street": "Langdale Close",
         "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1106302611,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448791,
+            54.176697
+          ],
+          [
+            -4.448708,
+            54.176739
+          ],
+          [
+            -4.448803,
+            54.176804
+          ],
+          [
+            -4.448887,
+            54.176761
+          ],
+          [
+            -4.448791,
+            54.176697
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 2DE",
+        "addr:street": "Derwent Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -134996,6 +135531,80 @@
     },
     {
       "type": "Feature",
+      "id": 1124375686,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447952,
+            54.175057
+          ],
+          [
+            -4.447909,
+            54.17497
+          ],
+          [
+            -4.447707,
+            54.175005
+          ],
+          [
+            -4.447751,
+            54.175092
+          ],
+          [
+            -4.447952,
+            54.175057
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 2ED",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1124375689,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.448884,
+            54.174896
+          ],
+          [
+            -4.44884,
+            54.174808
+          ],
+          [
+            -4.448629,
+            54.174845
+          ],
+          [
+            -4.448674,
+            54.174933
+          ],
+          [
+            -4.448884,
+            54.174896
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "33",
+        "addr:postcode": "IM3 2ED",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1124375699,
       "geometry": {
         "type": "LineString",
@@ -135240,6 +135849,104 @@
         "toilets:access": "customers",
         "toilets:wheelchair": "designated",
         "wheelchair": "designated"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1125617122,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447924,
+            54.173777
+          ],
+          [
+            -4.447851,
+            54.173624
+          ],
+          [
+            -4.447588,
+            54.17367
+          ],
+          [
+            -4.447623,
+            54.173748
+          ],
+          [
+            -4.447755,
+            54.173728
+          ],
+          [
+            -4.447795,
+            54.173802
+          ],
+          [
+            -4.447924,
+            54.173777
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "16",
+        "addr:postcode": "IM3 2EL",
+        "addr:street": "The Fairway",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1125617124,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447409,
+            54.173883
+          ],
+          [
+            -4.447552,
+            54.173857
+          ],
+          [
+            -4.447527,
+            54.173809
+          ],
+          [
+            -4.447601,
+            54.173796
+          ],
+          [
+            -4.44757,
+            54.173735
+          ],
+          [
+            -4.447475,
+            54.173752
+          ],
+          [
+            -4.447444,
+            54.173694
+          ],
+          [
+            -4.447322,
+            54.173716
+          ],
+          [
+            -4.447409,
+            54.173883
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 2EG",
+        "addr:street": "The Fairway",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -136146,6 +136853,206 @@
         "building": "pub",
         "name": "The Rosemount",
         "website": "https://pubsandbars.im/venue/the-rosemount/"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128331266,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.440361,
+            54.170364
+          ],
+          [
+            -4.440529,
+            54.170403
+          ],
+          [
+            -4.440605,
+            54.170289
+          ],
+          [
+            -4.440437,
+            54.17025
+          ],
+          [
+            -4.440361,
+            54.170364
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "4",
+        "addr:postcode": "IM3 2JQ",
+        "addr:street": "Majestic Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128331279,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.440019,
+            54.169344
+          ],
+          [
+            -4.439728,
+            54.169315
+          ],
+          [
+            -4.439712,
+            54.16937
+          ],
+          [
+            -4.439769,
+            54.169376
+          ],
+          [
+            -4.439753,
+            54.169429
+          ],
+          [
+            -4.439988,
+            54.169453
+          ],
+          [
+            -4.440019,
+            54.169344
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 2JQ",
+        "addr:street": "Majestic Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128331287,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.439336,
+            54.169826
+          ],
+          [
+            -4.439461,
+            54.169843
+          ],
+          [
+            -4.439503,
+            54.169737
+          ],
+          [
+            -4.439227,
+            54.169699
+          ],
+          [
+            -4.439178,
+            54.16982
+          ],
+          [
+            -4.43933,
+            54.169841
+          ],
+          [
+            -4.439336,
+            54.169826
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "9",
+        "addr:postcode": "IM3 2JQ",
+        "addr:street": "Majestic Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1128331289,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.440026,
+            54.169908
+          ],
+          [
+            -4.440193,
+            54.169933
+          ],
+          [
+            -4.440222,
+            54.169868
+          ],
+          [
+            -4.440182,
+            54.169862
+          ],
+          [
+            -4.440215,
+            54.169787
+          ],
+          [
+            -4.440151,
+            54.169778
+          ],
+          [
+            -4.440168,
+            54.169738
+          ],
+          [
+            -4.440018,
+            54.169715
+          ],
+          [
+            -4.440011,
+            54.169733
+          ],
+          [
+            -4.439933,
+            54.169722
+          ],
+          [
+            -4.439904,
+            54.169788
+          ],
+          [
+            -4.440068,
+            54.169813
+          ],
+          [
+            -4.440026,
+            54.169908
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "5",
+        "addr:postcode": "IM3 2JQ",
+        "addr:street": "Majestic Drive",
+        "building": "house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -147326,8 +148233,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.486028,
-            54.152787
+            -4.486038,
+            54.152783
           ],
           [
             -4.486124,
@@ -147338,12 +148245,20 @@
             54.152675
           ],
           [
-            -4.485933,
-            54.152732
+            -4.485996,
+            54.152695
           ],
           [
-            -4.486028,
-            54.152787
+            -4.485927,
+            54.152654
+          ],
+          [
+            -4.485871,
+            54.152685
+          ],
+          [
+            -4.486038,
+            54.152783
           ]
         ]
       },
@@ -147481,6 +148396,51 @@
     },
     {
       "type": "Feature",
+      "id": 1154826360,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486481,
+            54.152492
+          ],
+          [
+            -4.48638,
+            54.15256
+          ],
+          [
+            -4.486282,
+            54.152509
+          ],
+          [
+            -4.486307,
+            54.152493
+          ],
+          [
+            -4.486224,
+            54.15245
+          ],
+          [
+            -4.4863,
+            54.152399
+          ],
+          [
+            -4.486481,
+            54.152492
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "27",
+        "addr:postcode": "IM1 3DQ",
+        "addr:street": "Demesne Road",
+        "building": "yes",
+        "source:addr:housenumber": "mapillary;interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1154826374,
       "geometry": {
         "type": "LineString",
@@ -147604,6 +148564,243 @@
         "addr:postcode": "IM1 3EG",
         "addr:street": "Kensington Road",
         "building:part": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828178,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486419,
+            54.154001
+          ],
+          [
+            -4.486322,
+            54.154016
+          ],
+          [
+            -4.486359,
+            54.1541
+          ],
+          [
+            -4.486456,
+            54.154086
+          ],
+          [
+            -4.486419,
+            54.154001
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "13",
+        "addr:postcode": "IM1 3ER",
+        "addr:street": "Kensington Road",
+        "amenity": "dentist",
+        "building": "yes",
+        "healthcare": "dentist",
+        "source": "mapillary",
+        "source:addr:housenumber": "Isle of Man Government Planning Applications",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828179,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485319,
+            54.154303
+          ],
+          [
+            -4.485176,
+            54.154305
+          ],
+          [
+            -4.485164,
+            54.15419
+          ],
+          [
+            -4.485263,
+            54.154175
+          ],
+          [
+            -4.4853,
+            54.154259
+          ],
+          [
+            -4.485319,
+            54.154303
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:housename": "Craigend",
+        "addr:housenumber": "1",
+        "addr:postcode": "IM1 3ER",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Planning Applications"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828193,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486852,
+            54.153924
+          ],
+          [
+            -4.486941,
+            54.153905
+          ],
+          [
+            -4.487001,
+            54.153986
+          ],
+          [
+            -4.4869,
+            54.15401
+          ],
+          [
+            -4.486852,
+            54.153924
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "16",
+        "addr:postcode": "IM1 3EP",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "building:colour": "#c9d8df",
+        "house": "terraced",
+        "source:addr:housename": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828196,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487126,
+            54.153854
+          ],
+          [
+            -4.487214,
+            54.153832
+          ],
+          [
+            -4.487284,
+            54.153911
+          ],
+          [
+            -4.487197,
+            54.153932
+          ],
+          [
+            -4.487126,
+            54.153854
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "19",
+        "addr:postcode": "IM1 3EP",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828198,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487377,
+            54.15388
+          ],
+          [
+            -4.487449,
+            54.153857
+          ],
+          [
+            -4.487379,
+            54.15378
+          ],
+          [
+            -4.487303,
+            54.153803
+          ],
+          [
+            -4.487377,
+            54.15388
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "21",
+        "addr:postcode": "IM1 3EP",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1154828202,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.487765,
+            54.153746
+          ],
+          [
+            -4.487849,
+            54.153715
+          ],
+          [
+            -4.487767,
+            54.153646
+          ],
+          [
+            -4.487686,
+            54.153673
+          ],
+          [
+            -4.487765,
+            54.153746
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM1 3EW",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -152244,6 +153441,7 @@
         "addr:housenumber": "9",
         "addr:postcode": "IM5 1HE",
         "addr:street": "Atholl Place",
+        "building": "yes",
         "name": "Black Grace Cowley",
         "office": "estate_agent",
         "postal_code": "IM5 1HE",
@@ -156188,6 +157386,188 @@
     },
     {
       "type": "Feature",
+      "id": 1249265944,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.437873,
+            54.169769
+          ],
+          [
+            -4.437988,
+            54.1698
+          ],
+          [
+            -4.438028,
+            54.169751
+          ],
+          [
+            -4.438151,
+            54.169785
+          ],
+          [
+            -4.438187,
+            54.169741
+          ],
+          [
+            -4.438169,
+            54.169736
+          ],
+          [
+            -4.438232,
+            54.169658
+          ],
+          [
+            -4.438013,
+            54.169597
+          ],
+          [
+            -4.437873,
+            54.169769
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "17",
+        "addr:postcode": "IM3 2JJ",
+        "addr:street": "Majestic Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249265949,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.436495,
+            54.169408
+          ],
+          [
+            -4.436589,
+            54.169418
+          ],
+          [
+            -4.436602,
+            54.169376
+          ],
+          [
+            -4.436767,
+            54.169393
+          ],
+          [
+            -4.436797,
+            54.169297
+          ],
+          [
+            -4.436715,
+            54.169288
+          ],
+          [
+            -4.436722,
+            54.169267
+          ],
+          [
+            -4.436543,
+            54.169248
+          ],
+          [
+            -4.436495,
+            54.169408
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "27",
+        "addr:postcode": "IM3 2JL",
+        "addr:street": "Majestic Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249265953,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.435533,
+            54.169287
+          ],
+          [
+            -4.435313,
+            54.169195
+          ],
+          [
+            -4.435225,
+            54.169205
+          ],
+          [
+            -4.435154,
+            54.169264
+          ],
+          [
+            -4.435251,
+            54.169305
+          ],
+          [
+            -4.435223,
+            54.169328
+          ],
+          [
+            -4.435277,
+            54.16935
+          ],
+          [
+            -4.435212,
+            54.169403
+          ],
+          [
+            -4.435344,
+            54.169458
+          ],
+          [
+            -4.435424,
+            54.169392
+          ],
+          [
+            -4.435387,
+            54.169376
+          ],
+          [
+            -4.435465,
+            54.169311
+          ],
+          [
+            -4.435491,
+            54.169322
+          ],
+          [
+            -4.435533,
+            54.169287
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "35",
+        "addr:postcode": "IM3 2JL",
+        "addr:street": "Majestic Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1249706820,
       "geometry": {
         "type": "LineString",
@@ -156286,10 +157666,12 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housename": "The Longhouse",
         "addr:postcode": "IM3 2JW",
         "addr:street": "Lag Birragh Drive",
         "building": "yes",
-        "source": "microsoft/BuildingFootprints"
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housename": "mapillary"
       }
     },
     {
@@ -156581,10 +157963,104 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housename": "Overseas",
         "addr:postcode": "IM3 2JW",
         "addr:street": "Lag Birragh Drive",
         "building": "yes",
-        "source": "microsoft/BuildingFootprints"
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housename": "mapillary"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1249708691,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.435492,
+            54.171058
+          ],
+          [
+            -4.435409,
+            54.171021
+          ],
+          [
+            -4.435436,
+            54.171
+          ],
+          [
+            -4.435243,
+            54.170912
+          ],
+          [
+            -4.435118,
+            54.171008
+          ],
+          [
+            -4.435394,
+            54.171133
+          ],
+          [
+            -4.435492,
+            54.171058
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "57",
+        "addr:postcode": "IM3 2AY",
+        "addr:street": "Howe Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250231577,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.437826,
+            54.171483
+          ],
+          [
+            -4.43798,
+            54.171521
+          ],
+          [
+            -4.438047,
+            54.171427
+          ],
+          [
+            -4.437796,
+            54.171365
+          ],
+          [
+            -4.43768,
+            54.171526
+          ],
+          [
+            -4.437778,
+            54.17155
+          ],
+          [
+            -4.437826,
+            54.171483
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "45",
+        "addr:postcode": "IM3 2AZ",
+        "addr:street": "Howe Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -156659,6 +158135,254 @@
     },
     {
       "type": "Feature",
+      "id": 1250231601,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44004,
+            54.172051
+          ],
+          [
+            -4.44017,
+            54.172065
+          ],
+          [
+            -4.440231,
+            54.171874
+          ],
+          [
+            -4.440163,
+            54.171867
+          ],
+          [
+            -4.440167,
+            54.171854
+          ],
+          [
+            -4.440118,
+            54.171849
+          ],
+          [
+            -4.440121,
+            54.171839
+          ],
+          [
+            -4.43999,
+            54.171825
+          ],
+          [
+            -4.439978,
+            54.171861
+          ],
+          [
+            -4.439888,
+            54.171852
+          ],
+          [
+            -4.439833,
+            54.172022
+          ],
+          [
+            -4.439942,
+            54.172034
+          ],
+          [
+            -4.439954,
+            54.171998
+          ],
+          [
+            -4.440054,
+            54.172009
+          ],
+          [
+            -4.44004,
+            54.172051
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "33",
+        "addr:postcode": "IM3 2BA",
+        "addr:street": "Howe Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "interpolation;Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250231605,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.441635,
+            54.17204
+          ],
+          [
+            -4.441723,
+            54.172041
+          ],
+          [
+            -4.441723,
+            54.171934
+          ],
+          [
+            -4.441493,
+            54.171934
+          ],
+          [
+            -4.441492,
+            54.172114
+          ],
+          [
+            -4.441634,
+            54.172114
+          ],
+          [
+            -4.441635,
+            54.17204
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "25",
+        "addr:postcode": "IM3 2BA",
+        "addr:street": "Howe Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250231616,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444491,
+            54.171821
+          ],
+          [
+            -4.444171,
+            54.171865
+          ],
+          [
+            -4.444212,
+            54.171967
+          ],
+          [
+            -4.444398,
+            54.171942
+          ],
+          [
+            -4.444404,
+            54.171958
+          ],
+          [
+            -4.444539,
+            54.17194
+          ],
+          [
+            -4.444491,
+            54.171821
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "11",
+        "addr:postcode": "IM3 2BB",
+        "addr:street": "Howe Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250231618,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445245,
+            54.171652
+          ],
+          [
+            -4.445128,
+            54.171506
+          ],
+          [
+            -4.445021,
+            54.171536
+          ],
+          [
+            -4.445061,
+            54.171585
+          ],
+          [
+            -4.44496,
+            54.171612
+          ],
+          [
+            -4.444926,
+            54.171569
+          ],
+          [
+            -4.444841,
+            54.171592
+          ],
+          [
+            -4.444933,
+            54.171707
+          ],
+          [
+            -4.445017,
+            54.171684
+          ],
+          [
+            -4.445041,
+            54.171713
+          ],
+          [
+            -4.445102,
+            54.171696
+          ],
+          [
+            -4.445121,
+            54.17172
+          ],
+          [
+            -4.445173,
+            54.171706
+          ],
+          [
+            -4.445151,
+            54.171678
+          ],
+          [
+            -4.445245,
+            54.171652
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "7",
+        "addr:postcode": "IM3 2BB",
+        "addr:street": "Howe Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250596930,
       "geometry": {
         "type": "LineString",
@@ -156697,6 +158421,427 @@
     },
     {
       "type": "Feature",
+      "id": 1250601310,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.437131,
+            54.175699
+          ],
+          [
+            -4.437236,
+            54.175879
+          ],
+          [
+            -4.437422,
+            54.175841
+          ],
+          [
+            -4.437394,
+            54.175794
+          ],
+          [
+            -4.437658,
+            54.175742
+          ],
+          [
+            -4.437618,
+            54.175673
+          ],
+          [
+            -4.437526,
+            54.175692
+          ],
+          [
+            -4.437515,
+            54.175672
+          ],
+          [
+            -4.43726,
+            54.175723
+          ],
+          [
+            -4.437234,
+            54.175678
+          ],
+          [
+            -4.437131,
+            54.175699
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "60",
+        "addr:postcode": "IM3 2EZ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601311,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.436805,
+            54.17597
+          ],
+          [
+            -4.436761,
+            54.175889
+          ],
+          [
+            -4.436817,
+            54.175879
+          ],
+          [
+            -4.436782,
+            54.175813
+          ],
+          [
+            -4.436662,
+            54.175835
+          ],
+          [
+            -4.436698,
+            54.175903
+          ],
+          [
+            -4.43647,
+            54.175945
+          ],
+          [
+            -4.436521,
+            54.17604
+          ],
+          [
+            -4.436716,
+            54.176004
+          ],
+          [
+            -4.436707,
+            54.175988
+          ],
+          [
+            -4.436805,
+            54.17597
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Eskadale House",
+        "addr:housenumber": "62",
+        "addr:postcode": "IM3 2EZ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601315,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.432526,
+            54.176998
+          ],
+          [
+            -4.432584,
+            54.177088
+          ],
+          [
+            -4.432868,
+            54.177026
+          ],
+          [
+            -4.432808,
+            54.176932
+          ],
+          [
+            -4.43286,
+            54.17692
+          ],
+          [
+            -4.432818,
+            54.176854
+          ],
+          [
+            -4.432708,
+            54.176878
+          ],
+          [
+            -4.432753,
+            54.176948
+          ],
+          [
+            -4.432526,
+            54.176998
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "Fern Glen",
+        "addr:housenumber": "70",
+        "addr:postcode": "IM3 2EZ",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601320,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.438689,
+            54.175468
+          ],
+          [
+            -4.438651,
+            54.175394
+          ],
+          [
+            -4.438609,
+            54.175401
+          ],
+          [
+            -4.438601,
+            54.175384
+          ],
+          [
+            -4.438441,
+            54.175412
+          ],
+          [
+            -4.438486,
+            54.175503
+          ],
+          [
+            -4.438689,
+            54.175468
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housename": "The Brambles",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 2EY",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housename": "Isle of Man Government Land Registry Land Transactions",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601321,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.43843,
+            54.175462
+          ],
+          [
+            -4.438376,
+            54.175468
+          ],
+          [
+            -4.43837,
+            54.17545
+          ],
+          [
+            -4.438318,
+            54.175455
+          ],
+          [
+            -4.438309,
+            54.175427
+          ],
+          [
+            -4.438198,
+            54.175439
+          ],
+          [
+            -4.438239,
+            54.175564
+          ],
+          [
+            -4.438456,
+            54.175539
+          ],
+          [
+            -4.43843,
+            54.175462
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 2EY",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.439945,
+            54.175331
+          ],
+          [
+            -4.439773,
+            54.175316
+          ],
+          [
+            -4.439757,
+            54.175379
+          ],
+          [
+            -4.439677,
+            54.175372
+          ],
+          [
+            -4.439662,
+            54.175431
+          ],
+          [
+            -4.439914,
+            54.175453
+          ],
+          [
+            -4.439945,
+            54.175331
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "20",
+        "addr:postcode": "IM3 2EY",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601329,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.441018,
+            54.175606
+          ],
+          [
+            -4.440984,
+            54.17561
+          ],
+          [
+            -4.440971,
+            54.175566
+          ],
+          [
+            -4.440858,
+            54.175577
+          ],
+          [
+            -4.440893,
+            54.175696
+          ],
+          [
+            -4.44104,
+            54.175681
+          ],
+          [
+            -4.441018,
+            54.175606
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "10",
+        "addr:postcode": "IM3 2EY",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601332,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444235,
+            54.174566
+          ],
+          [
+            -4.444342,
+            54.174567
+          ],
+          [
+            -4.444344,
+            54.174467
+          ],
+          [
+            -4.444068,
+            54.174465
+          ],
+          [
+            -4.444066,
+            54.174558
+          ],
+          [
+            -4.444235,
+            54.174559
+          ],
+          [
+            -4.444235,
+            54.174566
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "41",
+        "addr:postcode": "IM3 2JX",
+        "addr:street": "Turnberry Avenue",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250601334,
       "geometry": {
         "type": "LineString",
@@ -156728,6 +158873,44 @@
         "addr:postcode": "IM3 2JX",
         "addr:street": "Turnberry Avenue",
         "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250601338,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444554,
+            54.174619
+          ],
+          [
+            -4.444721,
+            54.174618
+          ],
+          [
+            -4.444719,
+            54.174371
+          ],
+          [
+            -4.444552,
+            54.174372
+          ],
+          [
+            -4.444554,
+            54.174619
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "27-40",
+        "addr:postcode": "IM3 2JX",
+        "addr:street": "Turnberry Avenue",
+        "building": "residential",
         "source": "microsoft/BuildingFootprints",
         "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
@@ -157205,6 +159388,60 @@
     },
     {
       "type": "Feature",
+      "id": 1250894894,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445677,
+            54.174364
+          ],
+          [
+            -4.445781,
+            54.174366
+          ],
+          [
+            -4.445779,
+            54.174407
+          ],
+          [
+            -4.445894,
+            54.174409
+          ],
+          [
+            -4.445896,
+            54.174367
+          ],
+          [
+            -4.44593,
+            54.174368
+          ],
+          [
+            -4.445934,
+            54.174291
+          ],
+          [
+            -4.445681,
+            54.174286
+          ],
+          [
+            -4.445677,
+            54.174364
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "26",
+        "addr:postcode": "IM3 2EQ",
+        "addr:street": "Fairway Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250894899,
       "geometry": {
         "type": "LineString",
@@ -157238,6 +159475,213 @@
         "building": "yes",
         "source": "microsoft/BuildingFootprints",
         "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250894900,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.444958,
+            54.174617
+          ],
+          [
+            -4.445031,
+            54.174619
+          ],
+          [
+            -4.44503,
+            54.174634
+          ],
+          [
+            -4.445181,
+            54.174638
+          ],
+          [
+            -4.445191,
+            54.174517
+          ],
+          [
+            -4.444967,
+            54.17451
+          ],
+          [
+            -4.444958,
+            54.174617
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM3 2EF",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250894901,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.44497,
+            54.173981
+          ],
+          [
+            -4.4452,
+            54.173985
+          ],
+          [
+            -4.445204,
+            54.173905
+          ],
+          [
+            -4.445136,
+            54.173904
+          ],
+          [
+            -4.445142,
+            54.173788
+          ],
+          [
+            -4.444979,
+            54.173785
+          ],
+          [
+            -4.44497,
+            54.173981
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "33",
+        "addr:postcode": "IM3 2EQ",
+        "addr:street": "Fairway Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250894904,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446083,
+            54.173664
+          ],
+          [
+            -4.446084,
+            54.1735
+          ],
+          [
+            -4.445998,
+            54.1735
+          ],
+          [
+            -4.445997,
+            54.17355
+          ],
+          [
+            -4.44572,
+            54.17355
+          ],
+          [
+            -4.445719,
+            54.173694
+          ],
+          [
+            -4.44586,
+            54.173695
+          ],
+          [
+            -4.44586,
+            54.173663
+          ],
+          [
+            -4.446083,
+            54.173664
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "36",
+        "addr:postcode": "IM3 2EQ",
+        "addr:street": "Fairway Close",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250894921,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445745,
+            54.174652
+          ],
+          [
+            -4.445736,
+            54.17453
+          ],
+          [
+            -4.445816,
+            54.174528
+          ],
+          [
+            -4.445817,
+            54.17454
+          ],
+          [
+            -4.445968,
+            54.174536
+          ],
+          [
+            -4.445974,
+            54.174637
+          ],
+          [
+            -4.445882,
+            54.174639
+          ],
+          [
+            -4.445881,
+            54.174625
+          ],
+          [
+            -4.445849,
+            54.174626
+          ],
+          [
+            -4.44585,
+            54.174649
+          ],
+          [
+            -4.445745,
+            54.174652
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "37",
+        "addr:postcode": "IM3 2EF",
+        "addr:street": "Groudle Road",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -157284,39 +159728,219 @@
     },
     {
       "type": "Feature",
+      "id": 1250898927,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.441965,
+            54.17603
+          ],
+          [
+            -4.441899,
+            54.175982
+          ],
+          [
+            -4.441922,
+            54.175972
+          ],
+          [
+            -4.441903,
+            54.175958
+          ],
+          [
+            -4.441936,
+            54.175943
+          ],
+          [
+            -4.441861,
+            54.175888
+          ],
+          [
+            -4.441811,
+            54.175911
+          ],
+          [
+            -4.441803,
+            54.175904
+          ],
+          [
+            -4.441688,
+            54.175958
+          ],
+          [
+            -4.441769,
+            54.176018
+          ],
+          [
+            -4.441799,
+            54.176004
+          ],
+          [
+            -4.441885,
+            54.176067
+          ],
+          [
+            -4.441965,
+            54.17603
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "13",
+        "addr:postcode": "IM3 2EX",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250898938,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.442388,
+            54.175261
+          ],
+          [
+            -4.442285,
+            54.175147
+          ],
+          [
+            -4.442058,
+            54.175217
+          ],
+          [
+            -4.442111,
+            54.175276
+          ],
+          [
+            -4.442193,
+            54.17525
+          ],
+          [
+            -4.442211,
+            54.17527
+          ],
+          [
+            -4.442263,
+            54.175254
+          ],
+          [
+            -4.442295,
+            54.175289
+          ],
+          [
+            -4.442388,
+            54.175261
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "3",
+        "addr:postcode": "IM3 2EX",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250898939,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.442457,
+            54.175152
+          ],
+          [
+            -4.442467,
+            54.175167
+          ],
+          [
+            -4.442614,
+            54.175133
+          ],
+          [
+            -4.442554,
+            54.175045
+          ],
+          [
+            -4.442408,
+            54.175079
+          ],
+          [
+            -4.442422,
+            54.175099
+          ],
+          [
+            -4.442329,
+            54.17512
+          ],
+          [
+            -4.442364,
+            54.175173
+          ],
+          [
+            -4.442457,
+            54.175152
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1",
+        "addr:postcode": "IM3 2EX",
+        "addr:street": "Groudle View",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250900574,
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
             -4.449138,
-            54.175926
+            54.175924
           ],
           [
-            -4.449042,
+            -4.44904,
             54.175984
           ],
           [
-            -4.449236,
-            54.176095
+            -4.449143,
+            54.176041
           ],
           [
-            -4.449333,
-            54.176037
+            -4.449241,
+            54.175981
           ],
           [
             -4.449138,
-            54.175926
+            54.175924
           ]
         ]
       },
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housenumber": "10",
         "addr:postcode": "IM3 2DD",
         "addr:street": "Langdale Close",
-        "building": "yes",
+        "building": "semidetached_house",
         "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -157327,58 +159951,48 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.449341,
-            54.176103
+            -4.449238,
+            54.176222
           ],
           [
-            -4.449202,
-            54.176137
-          ],
-          [
-            -4.449317,
-            54.1763
-          ],
-          [
-            -4.449452,
-            54.176267
-          ],
-          [
-            -4.449444,
-            54.176255
-          ],
-          [
-            -4.449498,
+            -4.449254,
             54.176241
           ],
           [
-            -4.449476,
-            54.176209
+            -4.449279,
+            54.176234
           ],
           [
-            -4.449439,
-            54.176218
+            -4.449325,
+            54.176289
+          ],
+          [
+            -4.44947,
+            54.176247
           ],
           [
             -4.449408,
-            54.176174
+            54.176173
           ],
           [
-            -4.449394,
-            54.176177
+            -4.449326,
+            54.176197
           ],
           [
-            -4.449341,
-            54.176103
+            -4.449238,
+            54.176222
           ]
         ]
       },
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housenumber": "4",
         "addr:postcode": "IM3 2DD",
         "addr:street": "Langdale Close",
-        "building": "yes",
+        "building": "semidetached_house",
         "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -157421,10 +160035,12 @@
       "properties": {
         "addr:city": "Onchan",
         "addr:country": "IM",
+        "addr:housenumber": "2",
         "addr:postcode": "IM3 2DD",
         "addr:street": "Langdale Close",
         "building": "yes",
         "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -157527,6 +160143,90 @@
         "addr:street": "Buttermere Drive",
         "building": "semidetached_house",
         "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250925134,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.446012,
+            54.175281
+          ],
+          [
+            -4.446209,
+            54.175278
+          ],
+          [
+            -4.446205,
+            54.175191
+          ],
+          [
+            -4.446008,
+            54.175194
+          ],
+          [
+            -4.446012,
+            54.175281
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "11",
+        "addr:postcode": "IM3 2ED",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250925142,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447121,
+            54.175395
+          ],
+          [
+            -4.447064,
+            54.175409
+          ],
+          [
+            -4.447124,
+            54.175498
+          ],
+          [
+            -4.447244,
+            54.17547
+          ],
+          [
+            -4.447193,
+            54.175395
+          ],
+          [
+            -4.447131,
+            54.17541
+          ],
+          [
+            -4.447121,
+            54.175395
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "32",
+        "addr:postcode": "IM3 2DZ",
+        "addr:street": "Buttermere Drive",
+        "building": "semidetached_house",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
@@ -158452,6 +161152,52 @@
     },
     {
       "type": "Feature",
+      "id": 1250927111,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450013,
+            54.17459
+          ],
+          [
+            -4.449958,
+            54.174711
+          ],
+          [
+            -4.450206,
+            54.17475
+          ],
+          [
+            -4.450249,
+            54.174657
+          ],
+          [
+            -4.450124,
+            54.174637
+          ],
+          [
+            -4.450137,
+            54.17461
+          ],
+          [
+            -4.450013,
+            54.17459
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "43",
+        "addr:postcode": "IM3 2EB",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1250927113,
       "geometry": {
         "type": "LineString",
@@ -158489,6 +161235,127 @@
         "source": "microsoft/BuildingFootprints",
         "source:addr": "Isle of Man Government Land Registry Land Transactions",
         "source:addr:housenumber": "interpolation"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927120,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.451149,
+            54.174865
+          ],
+          [
+            -4.451057,
+            54.174984
+          ],
+          [
+            -4.451148,
+            54.175008
+          ],
+          [
+            -4.45116,
+            54.174993
+          ],
+          [
+            -4.451259,
+            54.175019
+          ],
+          [
+            -4.451339,
+            54.174916
+          ],
+          [
+            -4.451149,
+            54.174865
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "51",
+        "addr:postcode": "IM3 2EB",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927125,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.450124,
+            54.174936
+          ],
+          [
+            -4.450075,
+            54.175011
+          ],
+          [
+            -4.45026,
+            54.175053
+          ],
+          [
+            -4.45031,
+            54.174977
+          ],
+          [
+            -4.450124,
+            54.174936
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "68",
+        "addr:postcode": "IM3 2EA",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250927126,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.449555,
+            54.175051
+          ],
+          [
+            -4.449387,
+            54.175082
+          ],
+          [
+            -4.449344,
+            54.175001
+          ],
+          [
+            -4.449512,
+            54.17497
+          ],
+          [
+            -4.449555,
+            54.175051
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "62",
+        "addr:postcode": "IM3 2EA",
+        "addr:street": "Buttermere Drive",
+        "building": "yes",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     },
     {
@@ -182934,6 +185801,235 @@
     },
     {
       "type": "Feature",
+      "id": 1465372759,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486779,
+            54.152696
+          ],
+          [
+            -4.486716,
+            54.152737
+          ],
+          [
+            -4.48661,
+            54.15268
+          ],
+          [
+            -4.486673,
+            54.152639
+          ],
+          [
+            -4.486779,
+            54.152696
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "32",
+        "addr:postcode": "IM1 3DY",
+        "addr:street": "Demesne Road",
+        "building": "house",
+        "fixme": "check number",
+        "house": "terraced",
+        "source:addr:housenumber": "mapillary",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465372762,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.486971,
+            54.152571
+          ],
+          [
+            -4.486907,
+            54.152612
+          ],
+          [
+            -4.486799,
+            54.152555
+          ],
+          [
+            -4.486862,
+            54.152513
+          ],
+          [
+            -4.486971,
+            54.152571
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "38",
+        "addr:postcode": "IM1 3DY",
+        "addr:street": "Demesne Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465372764,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48832,
+            54.153359
+          ],
+          [
+            -4.488389,
+            54.153323
+          ],
+          [
+            -4.488482,
+            54.153382
+          ],
+          [
+            -4.488413,
+            54.153418
+          ],
+          [
+            -4.48832,
+            54.153359
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "34",
+        "addr:postcode": "IM1 3EW",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465372768,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.488044,
+            54.153506
+          ],
+          [
+            -4.488113,
+            54.153469
+          ],
+          [
+            -4.488206,
+            54.153528
+          ],
+          [
+            -4.488136,
+            54.153565
+          ],
+          [
+            -4.488044,
+            54.153506
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "30",
+        "addr:postcode": "IM1 3EW",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housename": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465372774,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.485745,
+            54.154103
+          ],
+          [
+            -4.485648,
+            54.154117
+          ],
+          [
+            -4.485685,
+            54.154201
+          ],
+          [
+            -4.485781,
+            54.154187
+          ],
+          [
+            -4.485745,
+            54.154103
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "6",
+        "addr:postcode": "IM1 3ER",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1465372778,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.48613,
+            54.154045
+          ],
+          [
+            -4.486033,
+            54.154059
+          ],
+          [
+            -4.48607,
+            54.154143
+          ],
+          [
+            -4.486167,
+            54.154129
+          ],
+          [
+            -4.48613,
+            54.154045
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "10",
+        "addr:postcode": "IM1 3ER",
+        "addr:street": "Kensington Road",
+        "building": "house",
+        "house": "terraced",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1465372788,
       "geometry": {
         "type": "LineString",
@@ -187306,6 +190402,552 @@
     },
     {
       "type": "Feature",
+      "id": 1466080987,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479822,
+            54.159302
+          ],
+          [
+            -4.479875,
+            54.159347
+          ],
+          [
+            -4.479991,
+            54.159301
+          ],
+          [
+            -4.479939,
+            54.159256
+          ],
+          [
+            -4.479822,
+            54.159302
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "16",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080988,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.47977,
+            54.159256
+          ],
+          [
+            -4.479822,
+            54.159302
+          ],
+          [
+            -4.479939,
+            54.159256
+          ],
+          [
+            -4.479887,
+            54.15921
+          ],
+          [
+            -4.47977,
+            54.159256
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "15",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080989,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479718,
+            54.159211
+          ],
+          [
+            -4.47977,
+            54.159256
+          ],
+          [
+            -4.479887,
+            54.15921
+          ],
+          [
+            -4.479835,
+            54.159165
+          ],
+          [
+            -4.479718,
+            54.159211
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "14",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080990,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479666,
+            54.159166
+          ],
+          [
+            -4.479718,
+            54.159211
+          ],
+          [
+            -4.479835,
+            54.159165
+          ],
+          [
+            -4.479782,
+            54.15912
+          ],
+          [
+            -4.479666,
+            54.159166
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "13",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080991,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479614,
+            54.15912
+          ],
+          [
+            -4.479666,
+            54.159166
+          ],
+          [
+            -4.479782,
+            54.15912
+          ],
+          [
+            -4.47973,
+            54.159074
+          ],
+          [
+            -4.479614,
+            54.15912
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "12",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080992,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479561,
+            54.159075
+          ],
+          [
+            -4.479614,
+            54.15912
+          ],
+          [
+            -4.47973,
+            54.159074
+          ],
+          [
+            -4.479678,
+            54.159029
+          ],
+          [
+            -4.479561,
+            54.159075
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "11",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080993,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479509,
+            54.15903
+          ],
+          [
+            -4.479561,
+            54.159075
+          ],
+          [
+            -4.479678,
+            54.159029
+          ],
+          [
+            -4.479626,
+            54.158983
+          ],
+          [
+            -4.479509,
+            54.15903
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080994,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479457,
+            54.158984
+          ],
+          [
+            -4.479509,
+            54.15903
+          ],
+          [
+            -4.479626,
+            54.158983
+          ],
+          [
+            -4.479574,
+            54.158938
+          ],
+          [
+            -4.479457,
+            54.158984
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "9",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080995,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479405,
+            54.158939
+          ],
+          [
+            -4.479457,
+            54.158984
+          ],
+          [
+            -4.479574,
+            54.158938
+          ],
+          [
+            -4.479521,
+            54.158893
+          ],
+          [
+            -4.479405,
+            54.158939
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "8",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080996,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479352,
+            54.158893
+          ],
+          [
+            -4.479405,
+            54.158939
+          ],
+          [
+            -4.479521,
+            54.158893
+          ],
+          [
+            -4.479469,
+            54.158847
+          ],
+          [
+            -4.479352,
+            54.158893
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "7",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080997,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.4793,
+            54.158848
+          ],
+          [
+            -4.479352,
+            54.158893
+          ],
+          [
+            -4.479469,
+            54.158847
+          ],
+          [
+            -4.479417,
+            54.158802
+          ],
+          [
+            -4.4793,
+            54.158848
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080998,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479248,
+            54.158803
+          ],
+          [
+            -4.4793,
+            54.158848
+          ],
+          [
+            -4.479417,
+            54.158802
+          ],
+          [
+            -4.479365,
+            54.158756
+          ],
+          [
+            -4.479248,
+            54.158803
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1466080999,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479196,
+            54.158757
+          ],
+          [
+            -4.479248,
+            54.158803
+          ],
+          [
+            -4.479365,
+            54.158756
+          ],
+          [
+            -4.479313,
+            54.158711
+          ],
+          [
+            -4.479196,
+            54.158757
+          ]
+        ]
+      },
+      "properties": {
+        "addr:city": "Douglas",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM2 4EP",
+        "addr:street": "Ballaquayle Road",
+        "addr:substreet": "Stanley Terrace",
+        "building": "house",
+        "house": "terraced",
+        "source": "bing",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
       "id": 1466081008,
       "geometry": {
         "type": "LineString",
@@ -191586,6 +195228,174 @@
         "addr:street": "Buttermere Drive",
         "building": "semidetached_house",
         "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1486517597,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445927,
+            54.175596
+          ],
+          [
+            -4.445782,
+            54.175599
+          ],
+          [
+            -4.445777,
+            54.175501
+          ],
+          [
+            -4.445921,
+            54.175499
+          ],
+          [
+            -4.445927,
+            54.175596
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "18",
+        "addr:postcode": "IM3 2DY",
+        "addr:street": "Buttermere Drive",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1486517598,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.447124,
+            54.175498
+          ],
+          [
+            -4.447002,
+            54.175527
+          ],
+          [
+            -4.44695,
+            54.175447
+          ],
+          [
+            -4.447009,
+            54.175434
+          ],
+          [
+            -4.447001,
+            54.175422
+          ],
+          [
+            -4.447064,
+            54.175409
+          ],
+          [
+            -4.447124,
+            54.175498
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "30",
+        "addr:postcode": "IM3 2DZ",
+        "addr:street": "Buttermere Drive",
+        "building": "semidetached_house",
+        "source:addr:housenumber": "interpolation",
+        "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1486977434,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.438644,
+            54.169021
+          ],
+          [
+            -4.438747,
+            54.168828
+          ],
+          [
+            -4.438869,
+            54.16885
+          ],
+          [
+            -4.438894,
+            54.168802
+          ],
+          [
+            -4.439057,
+            54.168831
+          ],
+          [
+            -4.439038,
+            54.168867
+          ],
+          [
+            -4.439055,
+            54.16887
+          ],
+          [
+            -4.439027,
+            54.168922
+          ],
+          [
+            -4.439069,
+            54.168929
+          ],
+          [
+            -4.438987,
+            54.169084
+          ],
+          [
+            -4.438892,
+            54.169066
+          ],
+          [
+            -4.438952,
+            54.168954
+          ],
+          [
+            -4.438876,
+            54.16894
+          ],
+          [
+            -4.438864,
+            54.168963
+          ],
+          [
+            -4.438798,
+            54.168951
+          ],
+          [
+            -4.438751,
+            54.16904
+          ],
+          [
+            -4.438644,
+            54.169021
+          ]
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "28",
+        "addr:postcode": "IM3 2JH",
+        "addr:street": "Majestic Close",
+        "building": "yes",
+        "postal_code": "IM3 2JH",
+        "source:addr:housenumber": "mapillary",
         "source:addr:postcode": "Isle of Man Government Land Registry Land Transactions"
       }
     }

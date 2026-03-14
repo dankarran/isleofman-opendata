@@ -2013,6 +2013,7 @@
         "name:et": "Man",
         "name:fi": "Mansaari",
         "name:fr": "\u00cele de Man",
+        "name:fur": "Isule di Man",
         "name:ga": "Oile\u00e1n Mhanann",
         "name:gd": "Eilean Mhanainn",
         "name:gv": "Vannin",
@@ -10185,8 +10186,8 @@
             54.152933
           ],
           [
-            -4.485763,
-            54.153019
+            -4.485725,
+            54.153033
           ],
           [
             -4.485361,
@@ -14273,6 +14274,7 @@
         "name": "Marathon Road",
         "name:en": "Marathon Road",
         "name:gv": "Raad Marathon",
+        "sidewalk:both": "yes",
         "source": "Isle of Man Government aerial imagery (2001)"
       }
     },
@@ -16171,6 +16173,10 @@
             54.128889
           ],
           [
+            -4.684193,
+            54.128921
+          ],
+          [
             -4.684141,
             54.129113
           ]
@@ -16981,16 +16987,20 @@
             54.167466
           ],
           [
-            -4.455461,
-            54.167561
+            -4.455462,
+            54.167548
           ],
           [
-            -4.455229,
+            -4.455408,
+            54.16769
+          ],
+          [
+            -4.455212,
             54.168266
           ],
           [
-            -4.455067,
-            54.168724
+            -4.455047,
+            54.168735
           ],
           [
             -4.455024,
@@ -22771,20 +22781,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.473661,
-            54.160792
-          ],
-          [
-            -4.473694,
-            54.160806
-          ],
-          [
-            -4.47373,
-            54.16082
-          ],
-          [
-            -4.47376,
-            54.160833
+            -4.473793,
+            54.160847
           ],
           [
             -4.473826,
@@ -22805,7 +22803,8 @@
         "maxspeed": "30 mph",
         "name": "Mona Drive",
         "name:gv": "Imman Mona",
-        "oneway": "yes"
+        "oneway": "yes",
+        "sidewalk:both": "yes"
       }
     },
     {
@@ -29359,24 +29358,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.438624,
-            54.187025
+            -4.438608,
+            54.187049
           ],
           [
-            -4.438863,
-            54.187082
+            -4.438667,
+            54.18707
           ],
           [
-            -4.439185,
-            54.187172
+            -4.438769,
+            54.187098
           ],
           [
-            -4.439332,
-            54.187213
+            -4.439311,
+            54.187226
           ],
           [
-            -4.439458,
-            54.187249
+            -4.439442,
+            54.187266
           ],
           [
             -4.43956,
@@ -29387,8 +29386,8 @@
             54.187328
           ],
           [
-            -4.439644,
-            54.187401
+            -4.439606,
+            54.1874
           ],
           [
             -4.439668,
@@ -31773,6 +31772,7 @@
         "name": "Mona Drive",
         "name:gv": "Imman Mona",
         "oneway": "yes",
+        "sidewalk:both": "yes",
         "source": "Isle of Man Government aerial imagery (2001)",
         "surface": "asphalt"
       }
@@ -32829,6 +32829,10 @@
           [
             -4.691993,
             54.223343
+          ],
+          [
+            -4.691647,
+            54.223532
           ],
           [
             -4.691561,
@@ -40624,24 +40628,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.474182,
-            54.160347
+            -4.474314,
+            54.160412
           ],
           [
-            -4.474209,
-            54.160358
-          ],
-          [
-            -4.47425,
-            54.160373
-          ],
-          [
-            -4.474283,
-            54.160386
-          ],
-          [
-            -4.474365,
-            54.160422
+            -4.474355,
+            54.160427
           ],
           [
             -4.47477,
@@ -40654,6 +40646,10 @@
           [
             -4.475275,
             54.160823
+          ],
+          [
+            -4.475281,
+            54.160857
           ],
           [
             -4.475261,
@@ -40675,7 +40671,8 @@
         "name": "Empress Drive",
         "name:en": "Empress Drive",
         "name:gv": "Imman Yn Ard Venrein",
-        "oneway": "yes"
+        "oneway": "yes",
+        "sidewalk:both": "yes"
       }
     },
     {
@@ -41131,6 +41128,10 @@
           [
             -4.433789,
             54.169973
+          ],
+          [
+            -4.433635,
+            54.169963
           ],
           [
             -4.433495,
@@ -43116,6 +43117,7 @@
         "name": "Thomas Street",
         "name:en": "Thomas Street",
         "name:gv": "Straid Thomaase",
+        "sidewalk:both": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "asphalt"
       }
@@ -43126,58 +43128,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
-            -4.479438,
-            54.153623
-          ],
-          [
-            -4.479527,
-            54.153331
-          ],
-          [
-            -4.479593,
-            54.153164
-          ],
-          [
-            -4.479716,
-            54.152939
-          ],
-          [
-            -4.479797,
-            54.152833
-          ],
-          [
-            -4.479883,
-            54.152694
-          ],
-          [
-            -4.479891,
-            54.15263
-          ],
-          [
-            -4.479892,
-            54.152578
-          ],
-          [
-            -4.47988,
-            54.152249
-          ],
-          [
-            -4.479853,
-            54.152161
-          ],
-          [
-            -4.479695,
-            54.152002
-          ],
-          [
-            -4.479671,
-            54.151873
-          ],
-          [
-            -4.479679,
-            54.151734
-          ],
           [
             -4.479889,
             54.151342
@@ -43233,6 +43183,7 @@
         "name:en": "Market Street",
         "name:gv": "Straid y Vargee",
         "oneway": "yes",
+        "sidewalk:both": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "asphalt"
       }
@@ -46815,6 +46766,7 @@
         "name:en": "Ballaoates Road",
         "name:gv": "Raad Balley Oates",
         "ref": "A22",
+        "sidewalk": "no",
         "surface": "paved"
       }
     },
@@ -71763,7 +71715,11 @@
           ],
           [
             -4.548381,
-            54.156768
+            54.156812
+          ],
+          [
+            -4.548391,
+            54.156781
           ]
         ]
       },
@@ -71776,6 +71732,7 @@
         "name:en": "Lhergy Cripperty",
         "name:gv": "Lhargee Cripperty",
         "ref": "B32",
+        "sidewalk": "no",
         "surface": "paved"
       }
     },
@@ -74994,24 +74951,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.518372,
-            54.178107
+            -4.518362,
+            54.178106
           ],
           [
-            -4.517959,
-            54.177675
+            -4.517979,
+            54.177704
           ],
           [
-            -4.517626,
-            54.177374
+            -4.517619,
+            54.177375
           ],
           [
-            -4.517312,
-            54.17708
+            -4.5173,
+            54.177083
           ],
           [
             -4.516985,
             54.176801
+          ],
+          [
+            -4.516368,
+            54.176376
           ],
           [
             -4.515247,
@@ -75031,6 +74992,7 @@
         "name:gv": "Raad Cronk Rule",
         "oneway": "no",
         "ref": "A23",
+        "sidewalk:right": "yes",
         "surface": "paved"
       }
     },
@@ -75040,14 +75002,6 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [
-            -4.514326,
-            54.174953
-          ],
-          [
-            -4.513785,
-            54.174578
-          ],
           [
             -4.513496,
             54.174407
@@ -75078,6 +75032,7 @@
         "name:gv": "Raad Cronk Rule",
         "oneway": "no",
         "ref": "A23",
+        "sidewalk:both": "separate",
         "surface": "paved"
       }
     },
@@ -75374,6 +75329,10 @@
           [
             -4.661216,
             54.202467
+          ],
+          [
+            -4.661499,
+            54.202508
           ],
           [
             -4.662159,
@@ -79910,20 +79869,20 @@
             54.188474
           ],
           [
-            -4.474397,
-            54.188192
+            -4.474378,
+            54.188207
           ],
           [
-            -4.474351,
-            54.188064
+            -4.47433,
+            54.188073
           ],
           [
-            -4.474343,
-            54.18803
+            -4.47432,
+            54.188043
           ],
           [
-            -4.474324,
-            54.187954
+            -4.474307,
+            54.187958
           ]
         ]
       },
@@ -81280,6 +81239,10 @@
           [
             -4.417042,
             54.197165
+          ],
+          [
+            -4.417465,
+            54.197445
           ],
           [
             -4.417514,
@@ -89085,8 +89048,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.510421,
-            54.175009
+            -4.510452,
+            54.175016
           ],
           [
             -4.509346,
@@ -89100,6 +89063,7 @@
         "name:en": "Ballaoates Road",
         "name:gv": "Raad Balley Oates",
         "ref": "A22",
+        "sidewalk:right": "yes",
         "surface": "paved"
       }
     },
@@ -89110,36 +89074,20 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.512182,
-            54.173588
-          ],
-          [
-            -4.512101,
-            54.173646
-          ],
-          [
-            -4.512043,
-            54.173695
-          ],
-          [
-            -4.511868,
-            54.173864
-          ],
-          [
-            -4.511704,
-            54.173974
+            -4.511556,
+            54.174074
           ],
           [
             -4.51134,
             54.17422
           ],
           [
-            -4.51077,
-            54.174733
+            -4.510802,
+            54.174746
           ],
           [
-            -4.510421,
-            54.175009
+            -4.510452,
+            54.175016
           ]
         ]
       },
@@ -89149,6 +89097,7 @@
         "name:en": "Ballaoates Road",
         "name:gv": "Raad Balley Oates",
         "ref": "A22",
+        "sidewalk:right": "separate",
         "surface": "paved"
       }
     },
@@ -90587,6 +90536,7 @@
         "name:en": "Market Street",
         "name:gv": "Straid y Vargee",
         "oneway": "yes",
+        "sidewalk:both": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "paving_stones"
       }
@@ -96407,32 +96357,72 @@
             54.129526
           ],
           [
-            -4.687261,
-            54.129516
+            -4.687262,
+            54.129524
           ],
           [
-            -4.687189,
+            -4.687169,
+            54.12954
+          ],
+          [
+            -4.687116,
+            54.12958
+          ],
+          [
+            -4.687076,
+            54.12959
+          ],
+          [
+            -4.686988,
+            54.129584
+          ],
+          [
+            -4.68692,
             54.129595
           ],
           [
-            -4.686923,
-            54.129564
+            -4.686882,
+            54.12962
           ],
           [
-            -4.686835,
-            54.129568
+            -4.686881,
+            54.129649
           ],
           [
-            -4.686901,
-            54.129687
+            -4.686891,
+            54.129668
+          ],
+          [
+            -4.686882,
+            54.129702
+          ],
+          [
+            -4.686839,
+            54.129714
           ],
           [
             -4.686771,
             54.129717
           ],
           [
-            -4.686502,
-            54.129607
+            -4.6867,
+            54.1297
+          ],
+          [
+            -4.68663,
+            54.129671
+          ],
+          [
+            -4.686563,
+            54.129627
+          ],
+          [
+            -4.686528,
+            54.129617
+          ],
+          [
+            -4.686494,
+            54.129619
           ],
           [
             -4.686222,
@@ -106326,6 +106316,7 @@
         "name:en": "Thomas Street",
         "name:gv": "Straid Thomaase",
         "oneway": "yes",
+        "sidewalk:left": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "asphalt"
       }
@@ -106375,6 +106366,7 @@
         "name:en": "Thomas Street",
         "name:gv": "Straid Thomaase",
         "oneway": "yes",
+        "sidewalk:left": "yes",
         "source": "Isle of Man Government aerial imagery (2001);Bing",
         "surface": "asphalt"
       }
@@ -115580,6 +115572,10 @@
             54.167037
           ],
           [
+            -4.4989,
+            54.167021
+          ],
+          [
             -4.498908,
             54.167002
           ],
@@ -116129,6 +116125,303 @@
         "name": "Ard Reayrt",
         "name:gv": "Ard Reayrt",
         "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1484690525,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.512182,
+            54.173588
+          ],
+          [
+            -4.512101,
+            54.173646
+          ],
+          [
+            -4.512043,
+            54.173695
+          ],
+          [
+            -4.511868,
+            54.173864
+          ],
+          [
+            -4.511704,
+            54.173974
+          ],
+          [
+            -4.511556,
+            54.174074
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "primary",
+        "name": "Ballaoates Road",
+        "name:en": "Ballaoates Road",
+        "name:gv": "Raad Balley Oates",
+        "ref": "A22",
+        "sidewalk:both": "separate",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1484690535,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.514326,
+            54.174953
+          ],
+          [
+            -4.51425,
+            54.1749
+          ],
+          [
+            -4.514113,
+            54.174805
+          ],
+          [
+            -4.513785,
+            54.174578
+          ],
+          [
+            -4.513496,
+            54.174407
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "primary",
+        "maxspeed": "20 mph",
+        "name": "Mount Rule Road",
+        "name:en": "Mount Rule Road",
+        "name:gv": "Raad Cronk Rule",
+        "oneway": "no",
+        "ref": "A23",
+        "sidewalk:right": "separate",
+        "surface": "paved"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485515468,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479438,
+            54.153623
+          ],
+          [
+            -4.479527,
+            54.153331
+          ],
+          [
+            -4.479593,
+            54.153164
+          ],
+          [
+            -4.479716,
+            54.152939
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "commercial",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxlength": "14",
+        "maxlength:conditional": "none @ destination",
+        "maxspeed": "30 mph",
+        "maxweight": "32520 kg",
+        "maxweight:conditional": "none @ destination",
+        "name": "Market Street",
+        "name:en": "Market Street",
+        "name:gv": "Straid y Vargee",
+        "oneway": "yes",
+        "sidewalk:right": "yes",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485515469,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479716,
+            54.152939
+          ],
+          [
+            -4.479797,
+            54.152833
+          ],
+          [
+            -4.479883,
+            54.152694
+          ],
+          [
+            -4.479891,
+            54.15263
+          ],
+          [
+            -4.479892,
+            54.152578
+          ],
+          [
+            -4.47988,
+            54.152249
+          ],
+          [
+            -4.479853,
+            54.152161
+          ],
+          [
+            -4.479695,
+            54.152002
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "commercial",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxlength": "14",
+        "maxlength:conditional": "none @ destination",
+        "maxspeed": "30 mph",
+        "maxweight": "32520 kg",
+        "maxweight:conditional": "none @ destination",
+        "name": "Market Street",
+        "name:en": "Market Street",
+        "name:gv": "Straid y Vargee",
+        "oneway": "yes",
+        "sidewalk:both": "yes",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485515470,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.479695,
+            54.152002
+          ],
+          [
+            -4.479671,
+            54.151873
+          ],
+          [
+            -4.479679,
+            54.151734
+          ],
+          [
+            -4.479889,
+            54.151342
+          ]
+        ]
+      },
+      "properties": {
+        "abutters": "commercial",
+        "highway": "unclassified",
+        "lane_markings": "no",
+        "maxlength": "14",
+        "maxlength:conditional": "none @ destination",
+        "maxspeed": "30 mph",
+        "maxweight": "32520 kg",
+        "maxweight:conditional": "none @ destination",
+        "name": "Market Street",
+        "name:en": "Market Street",
+        "name:gv": "Straid y Vargee",
+        "oneway": "yes",
+        "sidewalk:right": "yes",
+        "source": "Isle of Man Government aerial imagery (2001);Bing",
+        "surface": "asphalt"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485520817,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.473661,
+            54.160792
+          ],
+          [
+            -4.473694,
+            54.160806
+          ],
+          [
+            -4.47373,
+            54.16082
+          ],
+          [
+            -4.47376,
+            54.160833
+          ],
+          [
+            -4.473793,
+            54.160847
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Mona Drive",
+        "name:gv": "Imman Mona",
+        "oneway": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1485520818,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.474173,
+            54.160356
+          ],
+          [
+            -4.474202,
+            54.160368
+          ],
+          [
+            -4.474239,
+            54.160383
+          ],
+          [
+            -4.474273,
+            54.160396
+          ],
+          [
+            -4.474314,
+            54.160412
+          ]
+        ]
+      },
+      "properties": {
+        "highway": "residential",
+        "maxspeed": "30 mph",
+        "name": "Empress Drive",
+        "name:en": "Empress Drive",
+        "name:gv": "Imman Yn Ard Venrein",
+        "oneway": "yes"
       }
     }
   ]
