@@ -20,9 +20,11 @@ registry_url = "https://services.gov.im/ded/services/companiesregistry/"
 search_page = "companysearch.iom?"
 
 details_filepath = data_dir + "sources/details/details.json"
+unindexed_filepath = data_dir + "outputs/company-numbers-unindexed.csv"
+not_found_filepath = data_dir + "sources/search/numbers/not-found.csv"
 
 
-def companies(interactive=True):
+def companies(latest=True, unindexed=False, details=False, interactive=True):
     log("# Companies Registry - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
@@ -31,20 +33,54 @@ def companies(interactive=True):
     with open(data_dir + "sources/status.json") as fp:
         status = json.load(fp)
 
-    # search for companies by name and write outputs
-    data = load_data(sources, status, interactive)
-    data = process_data(data)
-    write_data(data)
+    # NOTE: current architecture requires write at each stage, ready for next
+    # TODO: improve to write only once
+    written = False
+
+    # search for latest companies by name
+    if latest or interactive:
+        companies_latest(sources, status, interactive)
+
+        # load data and write outputs
+        load_process_write_data(sources)
+        written = True
+
+    if unindexed:
+        companies_unindexed(interactive)
+
+        # load data and write outputs
+        load_process_write_data(sources)
+        written = True
+
+    if details:
+        update_company_details(targets=['live'], interactive=interactive)
+
+        # load data and write outputs
+        load_process_write_data(sources)
+        written = True
+
+    if not written:
+        # load data and write outputs
+        load_process_write_data(sources)
+
+
+def companies_latest(sources, status, interactive=True):
+    log(" - Get latest companies")
+
+    if interactive:
+        update_text = prompt("Download latest company registry details? (y/N) ")
+        if update_text == "y":
+            update_companies_list(sources, status)
+    else:
+        update_companies_list(sources, status)
 
 
 def companies_unindexed(interactive=True):
-    unindexed_filepath = data_dir + "outputs/company-numbers-unindexed.csv"
     if os.path.isfile(unindexed_filepath):
         unindexed = pd.read_csv(unindexed_filepath)
         log("    ", len(unindexed["Number"]), "unindexed company numbers detected")
 
         # exclude companies previously not found when searching by number
-        not_found_filepath = data_dir + "sources/search/numbers/not-found.csv"
         if os.path.isfile(not_found_filepath):
             not_found = pd.read_csv(not_found_filepath)
             log("    ", len(not_found["Number"]), "company numbers previously not found in index")
@@ -66,15 +102,8 @@ def companies_unindexed(interactive=True):
             update_companies_list_by_number(unindexed_numbers)
 
 
-def load_data(sources, status, interactive=True):
+def load_data(sources):
     log(" - Loading Companies")
-
-    if interactive:
-        update_text = prompt("Download latest company registry details? (y/N) ")
-        if update_text == "y":
-            update_companies_list(sources, status)
-    else:
-        update_companies_list(sources, status)
 
     # load data into dataframes
     data = read_search_files(sources)
@@ -83,6 +112,8 @@ def load_data(sources, status, interactive=True):
 
 
 def process_data(data):
+    log(" - Processing Companies")
+
     companies_live = data[data["Status"].isin(["Live"])]
     companies_live = companies_live[companies_live["Name Status"].isin(["Current"])]
     companies_live = companies_live.drop_duplicates(subset=["Number", "Registry Type"], keep="last")
@@ -126,21 +157,13 @@ def process_data(data):
     return data
 
 
-def company_list(count, suffix):
-    company_numbers = list(range(1, count+1))
-
-    formatted = []
-    for company in company_numbers:
-        formatted.append(str(company).zfill(6) + suffix)
-
-    return formatted
-
-
 def write_data(data):
     """
     Writes CSV outputs. For companies-live and companies-non-live, attempt to include
     Registered Address by reading the details.json created by update_company_details.
     """
+    log(" - Writing Companies")
+
     # load details mapping (Number -> details)
     details = load_details_file()
 
@@ -170,6 +193,22 @@ def write_data(data):
         filepath = data_dir + "outputs/" + filename
         df.to_csv(filepath, index=False, quoting=csv.QUOTE_ALL)
         log("    ", len(df), "rows written to", filename)
+
+
+def load_process_write_data(sources):
+    data = load_data(sources)
+    data = process_data(data)
+    write_data(data)
+
+
+def company_list(count, suffix):
+    company_numbers = list(range(1, count+1))
+
+    formatted = []
+    for company in company_numbers:
+        formatted.append(str(company).zfill(6) + suffix)
+
+    return formatted
 
 
 def update_companies_list(sources, status):

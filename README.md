@@ -45,7 +45,6 @@ To run specific updates without interactive prompts, you can use command-line ar
 
 **General dataset updates:**
 
-*   `--companies`: Run the full Companies Registry update.
 *   `--land-transactions`: Run the Land Transactions update.
 *   `--planning-applications`: Run the full Planning Applications update.
 *   `--openstreetmap`: Run the full OpenStreetMap update.
@@ -54,7 +53,9 @@ To run specific updates without interactive prompts, you can use command-line ar
 **Granular task updates:**
 
 * Companies
-  * `--companies-unindexed`: Run only the unindexed company number search.
+  * `--companies-latest`: Run the Companies Registry latest update.
+  * `--companies-unindexed`: Fetch additional company details for latest companies.
+  * `--companies-latest-details`: Run the unindexed company number search.
   * `--companies-details-live`: Run the company details lookup for live companies.
   * `--companies-details-non-live`: Run the company details lookup for non-live companies.
   * `--companies-details-new`: Run the company details lookup for new companies not previously fetched.

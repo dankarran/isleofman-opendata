@@ -16,7 +16,10 @@ Isle of Man opendata transformation script
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Isle of Man opendata transformation script")
 
-    parser.add_argument('--companies', action='store_true', help='Run the Companies Registry update')
+    parser.add_argument('--companies-latest', action='store_true',
+                        help='Run the Companies Registry latest update')
+    parser.add_argument('--companies-latest-details', action='store_true',
+                        help='Fetch additional company details for latest companies')
     parser.add_argument('--companies-unindexed', action='store_true',
                         help='Run only the Companies Registry unindexed numbers update')
 
@@ -64,13 +67,14 @@ if __name__ == '__main__':
     interactive = run_all
 
     # Companies Registry
-    if args.companies or run_all:
+    if args.companies_latest or args.companies_unindexed or args.companies_latest_details or run_all:
         log('Updating Companies Registry data...')
-        companies(interactive=interactive)
-
-    if args.companies_unindexed or run_all:
-        log('Updating Companies Registry unindexed numbers...')
-        companies_unindexed(interactive=interactive)
+        companies(
+            latest=args.companies_latest,
+            unindexed=args.companies_unindexed,
+            details=args.companies_latest_details,
+            interactive=interactive
+        )
 
     # Companies details retrieval (can be combined). We call the helper with flags.
     if args.companies_details_live or args.companies_details_non_live or args.companies_details_new:
