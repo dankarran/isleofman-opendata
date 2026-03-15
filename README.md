@@ -68,6 +68,9 @@ To run specific updates without interactive prompts, you can use command-line ar
 
 **Configuration:**
 
+* Land Transactions
+  * `--land-transactions-skip-download`: Skip download of file (e.g. if manual processing required first)
+
 * Companies
   * `--companies-details-min-sleep`: Minimum sleep time (default 1s)
   * `--companies-details-max-sleep`: Minimum sleep time (default 3s)
@@ -76,7 +79,7 @@ To run specific updates without interactive prompts, you can use command-line ar
 You can combine multiple arguments. For example, to run a weekly/monthly update:
 
 ```bash
-python update.py --companies -companies-details-new --companies-unindexed --land-transactions --openstreetmap --generate-postcode-boundaries
+python update.py --companies-latest --companies-unindexed --companies-latest-details --land-transactions --openstreetmap --generate-postcode-boundaries
 ```
 
 ## Other resources

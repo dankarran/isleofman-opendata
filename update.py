@@ -39,6 +39,8 @@ if __name__ == '__main__':
                         help='Force re-checking details for companies already fetched')
 
     parser.add_argument('--land-transactions', action='store_true', help='Run the Land Transactions update')
+    parser.add_argument('--land-transactions-skip-download', action='store_true',
+                        help='Skip the download of the latest Land Transactions file')
 
     parser.add_argument('--planning-applications', action='store_true', help='Run the Planning Applications update')
     parser.add_argument('--update-weekly-planning', action='store_true',
@@ -102,7 +104,7 @@ if __name__ == '__main__':
     # Land Transactions
     if args.land_transactions or run_all:
         log('Updating Land Transactions data...')
-        land_transactions(interactive=interactive)
+        land_transactions(interactive=interactive, skip_download=args.land_transactions_skip_download)
 
     # Planning Applications
     if args.planning_applications or run_all:

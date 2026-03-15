@@ -24,20 +24,20 @@ issues = []
 issue_rows = []
 
 
-def land_transactions(interactive=True):
+def land_transactions(interactive=True, skip_download=False):
     log("# Land Transactions - Isle of Man Government")
 
     with open(data_dir + "sources/sources.json") as fp:
         sources = json.load(fp)
 
-    data = load_data(sources)
+    data = load_data(sources, interactive=interactive, skip_download=skip_download)
     data = process_data(data)
     write_data(data)
 
     write_issues()
 
 
-def load_data(sources, interactive=True):
+def load_data(sources, interactive=True, skip_download=False):
     log(" - Loading Land Transactions")
 
     source_file_path = data_dir + "sources/" + source_file
@@ -53,7 +53,7 @@ def load_data(sources, interactive=True):
         # If file doesn't exist, 'update' remains True (default)
     else: # Non-interactive mode
         # In non-interactive mode, we always want to update/download
-        update = True
+        update = not skip_download
 
     if update:
         r = get_url(sources["url"])
