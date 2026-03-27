@@ -14,6 +14,7 @@
       "properties": {
         "addr:city": "Port Erin",
         "addr:country": "IM",
+        "addr:housenumber": "8",
         "addr:street": "Orchard Walk",
         "charity": "yes",
         "charity:ref": "317",
@@ -142,34 +143,6 @@
         "lat": 54.322185,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/11800214430"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13577986608,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.694917,
-          54.222649
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HA",
-        "addr:street": "Michael Street",
-        "charity": "yes",
-        "name": "Hospice",
-        "ref:charity": "317",
-        "shop": "charity",
-        "website": "https://www.hospiceshops.com",
-        "osm_id": 13577986608,
-        "lon": -4.694917,
-        "lat": 54.222649,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/13577986608"
       }
     },
     {
@@ -1626,8 +1599,16 @@
             54.177303
           ],
           [
+            -4.467552,
+            54.177289
+          ],
+          [
             -4.467516,
             54.177286
+          ],
+          [
+            -4.467499,
+            54.177413
           ],
           [
             -4.467495,
@@ -1700,8 +1681,8 @@
         "ref:charity": "132",
         "website": "https://www.sightmatters.im",
         "osm_id": 238678567,
-        "lon": -4.467471239045791,
-        "lat": 54.17746787202213,
+        "lon": -4.467471218476611,
+        "lat": 54.17746790331158,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/238678567"
       }

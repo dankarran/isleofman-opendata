@@ -2874,6 +2874,7 @@
       "properties": {
         "archaeological_site": "fortification",
         "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
         "name": "South Barrule Hill Fort",
         "ref:GB:imher": "0116.00",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -3579,9 +3580,9 @@
       },
       "properties": {
         "access": "yes",
-        "archaeological_site": "church",
+        "archaeological_site": "keeil",
         "historic": "archaeological_site",
-        "historic:civilization": "medieval",
+        "historic:civilization": "early_medieval",
         "name": "Lag Ny Keeilley",
         "name:gv": "Lag Ny Keeilley",
         "ref:GB:imher": "1033.00",

@@ -14,6 +14,7 @@
       "properties": {
         "addr:city": "Port Erin",
         "addr:country": "IM",
+        "addr:housenumber": "8",
         "addr:street": "Orchard Walk",
         "charity": "yes",
         "charity:ref": "317",
@@ -117,29 +118,6 @@
         "ref:charity": "549",
         "shop": "charity",
         "website": "https://www.ageconcern.im/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 13577986608,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.694917,
-          54.222649
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HA",
-        "addr:street": "Michael Street",
-        "charity": "yes",
-        "name": "Hospice",
-        "ref:charity": "317",
-        "shop": "charity",
-        "website": "https://www.hospiceshops.com"
       }
     },
     {
@@ -1491,8 +1469,16 @@
             54.177303
           ],
           [
+            -4.467552,
+            54.177289
+          ],
+          [
             -4.467516,
             54.177286
+          ],
+          [
+            -4.467499,
+            54.177413
           ],
           [
             -4.467495,

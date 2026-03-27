@@ -144,26 +144,6 @@
     },
     {
       "type": "Feature",
-      "id": 498494359,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.691983,
-          54.222916
-        ]
-      },
-      "properties": {
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HE",
-        "addr:street": "Bridge Street",
-        "contact:phone": "+44 1624 848018",
-        "name": "Platinum Beauty Shop",
-        "shop": "beauty"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 498494360,
       "geometry": {
         "type": "Point",
@@ -1037,6 +1017,7 @@
       "properties": {
         "addr:city": "Port Erin",
         "addr:country": "IM",
+        "addr:housenumber": "8",
         "addr:street": "Orchard Walk",
         "charity": "yes",
         "charity:ref": "317",
@@ -1591,11 +1572,7 @@
         "addr:housenumber": "7",
         "addr:postcode": "IM1 5AJ",
         "addr:street": "South Quay",
-        "currency:XBT": "yes",
         "name": "Island Tyres & Autocare",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
         "phone": "+441624613322",
         "shop": "car_repair",
         "survey:date": "2022-09-24",
@@ -1619,11 +1596,7 @@
         "addr:street": "Parsonage Road",
         "amenity": "bar",
         "craft": "distillery",
-        "currency:XBT": "yes",
         "name": "The Fynoderee Distillery",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
         "phone": "+441624812756",
         "shop": "alcohol",
         "survey:date": "2022-09-23",
@@ -1668,8 +1641,14 @@
         "addr:housename": "The Showroom",
         "addr:postcode": "IM9 6AE",
         "addr:street": "Station Road",
+        "check_date": "2026-03-20",
+        "check_date:currency:XBT": "2026-03-20",
+        "contact:facebook": "FranklinsCars",
+        "contact:instagram": "franklins_cars",
         "currency:XBT": "yes",
+        "email": "hello@franklins.co.im",
         "name": "Franklins",
+        "opening_hours": "Mo-Fr 08:30-17:00; Sa 09:00-15:00",
         "payment:lightning": "no",
         "payment:lightning_contactless": "no",
         "payment:onchain": "yes",
@@ -1677,29 +1656,6 @@
         "shop": "car",
         "survey:date": "2022-09-24",
         "website": "https://www.franklins.co.im/"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10048329128,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.653848,
-          54.073313
-        ]
-      },
-      "properties": {
-        "addr:city": "Castletown",
-        "addr:country": "IM",
-        "addr:housename": "The Square",
-        "addr:street": "Market Square",
-        "currency:XBT": "yes",
-        "name": "Smelliz",
-        "payment:lightning": "yes",
-        "shop": "beauty",
-        "survey:date": "2022-09-23",
-        "website": "https://www.smelliz.co.uk/"
       }
     },
     {
@@ -3386,6 +3342,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "10",
+        "addr:street": "Orchard Walk",
         "name": "Dolyn\u2019s Barbershop",
         "shop": "hairdresser"
       }
@@ -3401,6 +3361,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "6",
+        "addr:street": "Orchard Walk",
         "name": "Posh Wash Launderette",
         "shop": "laundry"
       }
@@ -3416,6 +3380,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "3",
+        "addr:street": "Orchard Walk",
         "name": "Southern Charitable Causes",
         "shop": "charity"
       }
@@ -3431,8 +3399,14 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "4",
+        "addr:postcode": "IM9 6AL",
+        "addr:street": "Orchard Walk",
         "name": "The Flower Studio",
-        "shop": "florist"
+        "shop": "florist",
+        "website": "https://flowerstudio.im"
       }
     },
     {
@@ -3446,6 +3420,10 @@
         ]
       },
       "properties": {
+        "addr:city": "Port Erin",
+        "addr:country": "IM",
+        "addr:housenumber": "5",
+        "addr:street": "Orchard Walk",
         "female": "yes",
         "male": "yes",
         "name": "Tangles",
@@ -3559,29 +3537,6 @@
     },
     {
       "type": "Feature",
-      "id": 13577986608,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.694917,
-          54.222649
-        ]
-      },
-      "properties": {
-        "addr:city": "Peel",
-        "addr:country": "IM",
-        "addr:housenumber": "2",
-        "addr:postcode": "IM5 1HA",
-        "addr:street": "Michael Street",
-        "charity": "yes",
-        "name": "Hospice",
-        "ref:charity": "317",
-        "shop": "charity",
-        "website": "https://www.hospiceshops.com"
-      }
-    },
-    {
-      "type": "Feature",
       "id": 13577986619,
       "geometry": {
         "type": "Point",
@@ -3599,6 +3554,22 @@
         "contact:facebook": "https://www.facebook.com/p/Bare-Necessities-Ltd-100057529237519/",
         "name": "Bare Necessities",
         "shop": "clothes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13612613113,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.512199,
+          54.173785
+        ]
+      },
+      "properties": {
+        "contact:facebook": "https://www.facebook.com/p/Strang-Stores-100057342803317/",
+        "name": "Strang Stores",
+        "shop": "convenience"
       }
     },
     {
@@ -8183,12 +8154,8 @@
         "building": "yes",
         "check_date:currency:XBT": "2024-10-09",
         "cuisine": "breakfast;sandwich",
-        "currency:XBT": "yes",
         "name": "Newsbeat",
         "opening_hours": "Mo-Fr 07:00-15:00, Sa 07:00-14:30, Su 08:00-13:30",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
         "phone": "+441624675368",
         "shop": "newsagent",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -14184,9 +14151,9 @@
         "addr:housenumber": "27",
         "addr:street": "Michael Street",
         "building": "yes",
-        "contact:facebook": "https://www.facebook.com/p/Simpsons-Hardware-100063973755544/",
-        "name": "Simpsons Superstore",
-        "shop": "hardware"
+        "name": "Hospice",
+        "shop": "charity",
+        "toilets": "no"
       }
     },
     {
@@ -14285,6 +14252,69 @@
         "shop": "jewelry",
         "website": "https://www.celtic-gold.co.uk/",
         "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 147183325,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.691717,
+            54.222864
+          ],
+          [
+            -4.691927,
+            54.22285
+          ],
+          [
+            -4.691957,
+            54.222857
+          ],
+          [
+            -4.692028,
+            54.222947
+          ],
+          [
+            -4.691899,
+            54.222974
+          ],
+          [
+            -4.691881,
+            54.222977
+          ],
+          [
+            -4.69187,
+            54.222956
+          ],
+          [
+            -4.691808,
+            54.222962
+          ],
+          [
+            -4.691819,
+            54.222985
+          ],
+          [
+            -4.691767,
+            54.222994
+          ],
+          [
+            -4.691755,
+            54.22296
+          ],
+          [
+            -4.691717,
+            54.222864
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "hairdresser": "barber",
+        "name": "Andrea Barbers",
+        "shop": "hairdresser"
       }
     },
     {
@@ -16602,28 +16632,28 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.67717,
-            54.220447
+            -4.67709,
+            54.220446
           ],
           [
-            -4.677122,
-            54.220435
+            -4.677048,
+            54.220514
           ],
           [
-            -4.677071,
-            54.220509
+            -4.677312,
+            54.22057
           ],
           [
-            -4.677317,
-            54.220567
+            -4.677354,
+            54.220503
           ],
           [
-            -4.677369,
-            54.220494
+            -4.677136,
+            54.220456
           ],
           [
-            -4.67717,
-            54.220447
+            -4.67709,
+            54.220446
           ]
         ]
       },
@@ -16647,24 +16677,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            -4.677511,
-            54.220387
+            -4.677445,
+            54.220365
           ],
           [
-            -4.677539,
-            54.220336
+            -4.677485,
+            54.220305
           ],
           [
-            -4.67734,
-            54.22029
+            -4.677324,
+            54.220269
           ],
           [
-            -4.677306,
-            54.220336
+            -4.677284,
+            54.220329
           ],
           [
-            -4.677511,
-            54.220387
+            -4.677445,
+            54.220365
           ]
         ]
       },
@@ -17741,14 +17771,18 @@
         "addr:housenumber": "2-3",
         "addr:postcode": "IM1 4LF",
         "addr:street": "Quines Corner",
-        "check_date": "2022-10-06",
+        "check_date": "2026-03-18",
+        "check_date:currency:XBT": "2026-03-18",
         "contact:facebook": "https://www.facebook.com/p/Trey-Barbers-100047720242518/",
+        "contact:instagram": "trey_barbers",
         "currency:XBT": "yes",
+        "male": "yes",
         "name": "Trey Barbers",
+        "opening_hours": "Tu-Fr 08:15-17:15; Sa 09:00-13:00",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
-        "phone": "+447624342949",
+        "phone": "+44 7624 271191",
         "shop": "hairdresser"
       }
     },
@@ -24154,12 +24188,12 @@
             54.154528
           ],
           [
-            -4.489949,
+            -4.48995,
             54.154488
           ],
           [
-            -4.489837,
-            54.154522
+            -4.489838,
+            54.154521
           ],
           [
             -4.48969,
@@ -26785,10 +26819,13 @@
         "addr:place": "Isle of Man Business Park",
         "addr:postcode": "IM2 2QZ",
         "building": "retail",
+        "check_date": "2026-03-14",
+        "check_date:currency:XBT": "2026-03-14",
         "contact:phone": "+44 1624 678550",
         "currency:XBT": "yes",
+        "email": "businesspark@newsbeat.im",
         "name": "Newsbeat",
-        "opening_hours": "Mo-Fr 07:30-15:00; Sa 08:00-14:00",
+        "opening_hours": "Mo-Fr 07:00-17:00; Sa 07:00-14:00",
         "payment:lightning": "yes",
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
@@ -29134,6 +29171,8 @@
         "addr:place": "South Quay Industrial Estate",
         "addr:postcode": "IM1 5AT",
         "addr:unit": "13D",
+        "brand": "GSF Car Parts",
+        "brand:wikidata": "Q80963064",
         "building": "yes",
         "contact:phone": "+44 1624 620000",
         "name": "GSF Car Parts",
