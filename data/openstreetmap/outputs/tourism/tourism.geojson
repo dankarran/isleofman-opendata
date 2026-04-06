@@ -47,8 +47,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474324,
-          54.187954
+          -4.474307,
+          54.187958
         ]
       },
       "properties": {
@@ -57,8 +57,8 @@
         "wikidata": "Q5762625",
         "wikipedia": "en:Hillberry Corner",
         "osm_id": 283484388,
-        "lon": -4.474324,
-        "lat": 54.187954,
+        "lon": -4.474307,
+        "lat": 54.187958,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/283484388"
       }
@@ -3499,33 +3499,6 @@
         "lat": 54.16698,
         "osm_type": "node",
         "osm_url": "https://osm.org/node/9970463030"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10049617258,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478305,
-          54.151818
-        ]
-      },
-      "properties": {
-        "currency:XBT": "yes",
-        "name": "Ellan Vannin",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+441624674824",
-        "survey:date": "2022-09-24",
-        "tourism": "hotel",
-        "website": "https://www.ellanvanninhotel.im/",
-        "osm_id": 10049617258,
-        "lon": -4.478305,
-        "lat": 54.151818,
-        "osm_type": "node",
-        "osm_url": "https://osm.org/node/10049617258"
       }
     },
     {
@@ -10200,10 +10173,11 @@
         "addr:street": "Loch Promenade",
         "building": "yes",
         "name": "Ellan Vannin Hotel",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
+        "phone": "+441624674824",
         "source": "Isle of Man Government aerial imagery (2001)",
+        "survey:date": "2022-09-24",
         "tourism": "hotel",
+        "website": "https://www.ellanvanninhotel.im/",
         "osm_id": 81446768,
         "lon": -4.4784565552778,
         "lat": 54.1518118228089,
@@ -10540,6 +10514,7 @@
       "properties": {
         "archaeological_site": "fortification",
         "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
         "name": "South Barrule Hill Fort",
         "ref:GB:imher": "0116.00",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -23116,6 +23091,69 @@
         "lat": 54.160351887513364,
         "osm_type": "way",
         "osm_url": "https://osm.org/way/1241477862"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850034,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445214,
+            54.171979
+          ],
+          [
+            -4.445193,
+            54.172063
+          ],
+          [
+            -4.445317,
+            54.172074
+          ],
+          [
+            -4.445338,
+            54.171992
+          ],
+          [
+            -4.445346,
+            54.171993
+          ],
+          [
+            -4.445372,
+            54.171893
+          ],
+          [
+            -4.445259,
+            54.171883
+          ],
+          [
+            -4.445269,
+            54.171844
+          ],
+          [
+            -4.445162,
+            54.171834
+          ],
+          [
+            -4.445126,
+            54.171972
+          ],
+          [
+            -4.445214,
+            54.171979
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "chalet",
+        "osm_id": 1250850034,
+        "lon": -4.445246960704799,
+        "lat": 54.171950720137914,
+        "osm_type": "way",
+        "osm_url": "https://osm.org/way/1250850034"
       }
     },
     {

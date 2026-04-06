@@ -37,8 +37,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.474324,
-          54.187954
+          -4.474307,
+          54.187958
         ]
       },
       "properties": {
@@ -2719,28 +2719,6 @@
         "subject:wikidata": "Q1529857",
         "subject:wikipedia": "en:Steve Hislop",
         "tourism": "artwork"
-      }
-    },
-    {
-      "type": "Feature",
-      "id": 10049617258,
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.478305,
-          54.151818
-        ]
-      },
-      "properties": {
-        "currency:XBT": "yes",
-        "name": "Ellan Vannin",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
-        "payment:onchain": "yes",
-        "phone": "+441624674824",
-        "survey:date": "2022-09-24",
-        "tourism": "hotel",
-        "website": "https://www.ellanvanninhotel.im/"
       }
     },
     {
@@ -8600,10 +8578,11 @@
         "addr:street": "Loch Promenade",
         "building": "yes",
         "name": "Ellan Vannin Hotel",
-        "payment:lightning": "yes",
-        "payment:lightning_contactless": "yes",
+        "phone": "+441624674824",
         "source": "Isle of Man Government aerial imagery (2001)",
-        "tourism": "hotel"
+        "survey:date": "2022-09-24",
+        "tourism": "hotel",
+        "website": "https://www.ellanvanninhotel.im/"
       }
     },
     {
@@ -8910,6 +8889,7 @@
       "properties": {
         "archaeological_site": "fortification",
         "historic": "archaeological_site",
+        "historic:civilization": "prehistoric",
         "name": "South Barrule Hill Fort",
         "ref:GB:imher": "0116.00",
         "source": "Isle of Man Government aerial imagery (2001)",
@@ -20591,6 +20571,64 @@
         "source": "bing",
         "tourism": "hotel",
         "website": "https://www.visitisleofman.com/stay/the-hutchinson-apartments-p1304121"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 1250850034,
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -4.445214,
+            54.171979
+          ],
+          [
+            -4.445193,
+            54.172063
+          ],
+          [
+            -4.445317,
+            54.172074
+          ],
+          [
+            -4.445338,
+            54.171992
+          ],
+          [
+            -4.445346,
+            54.171993
+          ],
+          [
+            -4.445372,
+            54.171893
+          ],
+          [
+            -4.445259,
+            54.171883
+          ],
+          [
+            -4.445269,
+            54.171844
+          ],
+          [
+            -4.445162,
+            54.171834
+          ],
+          [
+            -4.445126,
+            54.171972
+          ],
+          [
+            -4.445214,
+            54.171979
+          ]
+        ]
+      },
+      "properties": {
+        "building": "yes",
+        "source": "microsoft/BuildingFootprints",
+        "tourism": "chalet"
       }
     },
     {
