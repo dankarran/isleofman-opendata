@@ -78,7 +78,7 @@ def update_files(sources):
 
 def get_overpass(query, response_format="geojson", verbosity="geom"):
     log("    ", "Querying Overpass API for", query, "in", response_format, "format with verbosity", verbosity)
-    api = overpass.API()
+    api = overpass.API(user_agent="Isle of Man Open Data")
     result = api.get(
         query,
         responseformat=response_format,
