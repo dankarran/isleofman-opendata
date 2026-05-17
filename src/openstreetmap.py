@@ -99,8 +99,9 @@ def process_data(sources, data):
             features = data["overpass"][source["label"]]["geojson"]["features"]
             for feature in features:
 
-                row = feature["properties"]
-                row["osm_id"] = feature["id"]
+                # TODO: flatten tags if needed
+                row = feature["properties"]["tags"]
+                row["osm_id"] = feature["properties"]["id"]
 
                 if feature["geometry"]["type"] == "Point":
                     row["lon"] = feature["geometry"]["coordinates"][0]
@@ -150,6 +151,8 @@ def write_data(sources, data):
                 df = data["overpass"][source["label"]]["df"]
                 df_out = df
 
+                # TODO: handle tags flattening if needed
+
                 # limit columns in output
                 if "csv_columns" in source:
                     csv_columns = ["osm_id", "osm_type", "osm_url", "lat", "lon"]
@@ -189,7 +192,7 @@ def generate_postcode_boundaries(interactive=True):
     if os.path.isfile(filepath):
         postcodes_gdf = geopandas.read_file(filepath)
 
-        postcodes_gdf["postcode"] = postcodes_gdf["addr:postcode"]
+        postcodes_gdf["postcode"] = postcodes_gdf["tags"].apply(lambda x: x.get("addr:postcode") if isinstance(x, dict) else None)
 
         # find valid postcodes (exclude IM99)
         valid_postcode_rows = postcodes_gdf["postcode"].str.contains(im_postcode_regex)
@@ -207,7 +210,7 @@ def generate_postcode_boundaries(interactive=True):
     if os.path.isfile(filepath):
         postcodes_gdf = geopandas.read_file(filepath)
 
-        postcodes_gdf["postcode"] = postcodes_gdf["postal_code"]
+        postcodes_gdf["postcode"] = postcodes_gdf["tags"].apply(lambda x: x.get("postal_code") if isinstance(x, dict) else None)
 
         # find valid postcodes (exclude IM99)
         valid_postcode_rows = postcodes_gdf["postcode"].str.contains(im_postcode_regex)

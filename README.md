@@ -29,6 +29,24 @@ See individual README files in relevant part of `data` directory for further det
 
 The update script (`update.py`) can be run in two modes: interactive or argument-driven.
 
+### Install packages
+
+Setup virtualenv
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Ensure `pip` is up-to-date
+```
+python3 -m pip install --upgrade pip
+```
+
+Install requirements
+```
+python3 -m pip install -r requirements.txt
+```
+
 ### Interactive Mode
 
 To run in interactive mode, which will prompt you for each major data category, simply run the script without any arguments:
